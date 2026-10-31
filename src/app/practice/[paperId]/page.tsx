@@ -25,6 +25,17 @@ export default async function PracticePage({
   const paper = await prisma.paper.findUnique({
     where: { id: paperId },
     include: {
+      // 优先查真实的 Section 层级（v2.0）
+      sections: {
+        orderBy: { order: "asc" },
+        include: {
+          passages: {
+            orderBy: { order: "asc" },
+            include: { questions: { orderBy: { order: "asc" } } },
+          },
+        },
+      },
+      // 兼容老数据：直接挂在 paper 下、没 Section 的 Passage
       passages: {
         orderBy: { order: "asc" },
         include: { questions: { orderBy: { order: "asc" } } },
@@ -34,38 +45,65 @@ export default async function PracticePage({
 
   if (!paper) notFound();
 
-  // v1 数据没有 Section 层级，包装成单个 reading section 给前端
+  // 有真实 Section 就用真实数据；否则把老 Passage 包装成单个 reading section
+  const sections: PracticePaper["sections"] =
+    paper.sections.length > 0
+      ? paper.sections.map((section) => ({
+          id: section.id,
+          order: section.order,
+          type: section.type as SectionType,
+          title: section.title,
+          timeLimit: section.timeLimit,
+          passages: section.passages.map((passage) => ({
+            id: passage.id,
+            order: passage.order,
+            title: passage.title,
+            paragraphs: parseParagraphs(passage.paragraphs),
+            audioUrl: passage.audioUrl,
+            audioDuration: passage.audioDuration,
+            transcript: parseTranscript(passage.transcript),
+            questions: passage.questions.map((question) => ({
+              id: question.id,
+              number: question.number,
+              stem: question.stem,
+              options: parseOptions(question.options),
+              type: question.type,
+            })),
+          })),
+        }))
+      : [
+          {
+            id: `reading-${paper.id}`,
+            order: 0,
+            type: "reading" as SectionType,
+            title: "阅读",
+            timeLimit: null,
+            passages: paper.passages.map((passage) => ({
+              id: passage.id,
+              order: passage.order,
+              title: passage.title,
+              paragraphs: parseParagraphs(passage.paragraphs),
+              audioUrl: passage.audioUrl,
+              audioDuration: passage.audioDuration,
+              transcript: parseTranscript(passage.transcript),
+              questions: passage.questions.map((question) => ({
+                id: question.id,
+                number: question.number,
+                stem: question.stem,
+                options: parseOptions(question.options),
+                type: question.type,
+              })),
+            })),
+          },
+        ];
+
   const data: PracticePaper = {
     id: paper.id,
     title: paper.title,
     level: paper.level,
     year: paper.year,
     month: paper.month,
-    sections: [
-      {
-        id: `reading-${paper.id}`,
-        order: 0,
-        type: "reading" as SectionType,
-        title: "阅读",
-        timeLimit: null,
-        passages: paper.passages.map((passage) => ({
-          id: passage.id,
-          order: passage.order,
-          title: passage.title,
-          paragraphs: parseParagraphs(passage.paragraphs),
-          audioUrl: passage.audioUrl,
-          audioDuration: passage.audioDuration,
-          transcript: parseTranscript(passage.transcript),
-          questions: passage.questions.map((question) => ({
-            id: question.id,
-            number: question.number,
-            stem: question.stem,
-            options: parseOptions(question.options),
-            type: question.type,
-          })),
-        })),
-      },
-    ],
+    sections,
   };
 
   // 作答/收藏按 passage.paperId 过滤（v1 关系）

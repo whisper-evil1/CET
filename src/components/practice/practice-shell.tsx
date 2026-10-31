@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useLayoutEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { apiFetch, postJson } from "@/lib/api-client";
-import type { AnswerResult, PracticePaper } from "@/lib/types";
+import type { AnswerResult, PracticePaper, PracticeSection, PracticePassage } from "@/lib/types";
 import { usePracticeStore, type AnswerEntry, type FontSize, FONT_SIZES } from "@/stores/practice";
 import { ArticlePane, type WordClickPayload } from "./article-pane";
 import { QuestionPane } from "./question-pane";
@@ -37,9 +37,14 @@ export function PracticeShell({
   startQuestionId,
 }: Props) {
   const paperId = paper.id;
-  // 阶段 1 先只渲染阅读 Section，听力 Section 后续阶段加
-  const readingSection = paper.sections.find((s) => s.type === "reading");
-  const passages = readingSection?.passages ?? [];
+
+  // 当前选中的 Section：默认阅读，没有阅读时取第一个
+  const [activeSectionId, setActiveSectionId] = useState<string | null>(null);
+  const activeSection =
+    paper.sections.find((s) => s.id === activeSectionId) ??
+    paper.sections.find((s) => s.type === "reading") ??
+    paper.sections[0];
+  const passages = activeSection?.passages ?? [];
   const questions = passages.flatMap((passage) => passage.questions);
   const passage = passages[0];
   const order = questions.map((q) => q.id);
@@ -108,7 +113,7 @@ export function PracticeShell({
 
     return () => reset();
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [paperId]);
+  }, [paperId, activeSectionId]);
 
   /* 字号存 localStorage */
   useEffect(() => {
@@ -295,9 +300,35 @@ export function PracticeShell({
         </div>
 
         <span className="hidden font-mono text-[11px] text-ink-mute md:ml-auto md:block">
-          {paper.level} · {currentIndex + 1}/{questions.length}
+          {paper.level} · {activeSection.type === "reading" ? `${currentIndex + 1}/${questions.length}` : activeSection.title}
         </span>
       </header>
+
+      {paper.sections.length > 1 && (
+        <nav className="flex h-11 shrink-0 items-center gap-1 overflow-x-auto border-b border-line bg-paper px-3 md:px-6">
+          {paper.sections.map((s) => {
+            const labelMap: Record<string, string> = {
+              writing: "写作",
+              listening: "听力",
+              reading: "阅读",
+              translation: "翻译",
+            };
+            const active = s.id === activeSection.id;
+            return (
+              <button
+                key={s.id}
+                type="button"
+                onClick={() => setActiveSectionId(s.id)}
+                className={`shrink-0 rounded-full px-3.5 py-1.5 text-[12.5px] transition-colors ${
+                  active ? "bg-ink text-paper" : "text-ink-soft hover:bg-paper-deep"
+                }`}
+              >
+                {labelMap[s.type] ?? s.title}
+              </button>
+            );
+          })}
+        </nav>
+      )}
 
       {notice && (
         <div className="shrink-0 border-b border-line bg-wrong-soft px-6 py-2 text-[12px] text-wrong">
@@ -312,8 +343,9 @@ export function PracticeShell({
         </div>
       )}
 
-      {/* 双栏主体 */}
-      <div className="relative flex min-h-0 flex-1 md:grid md:grid-cols-[55%_45%]">
+      {/* 主体：阅读走双栏，其他 Section 走题目展示 */}
+      {passage && activeSection.type === "reading" ? (
+        <div className="relative flex min-h-0 flex-1 md:grid md:grid-cols-[55%_45%]">
         <div
           className={`absolute inset-0 min-h-0 md:relative md:inset-auto ${
             mobileTab === "article" ? "" : "invisible md:visible"
@@ -363,6 +395,9 @@ export function PracticeShell({
           )}
         </div>
       </div>
+      ) : (
+        <NonReadingSection section={activeSection} passage={passage} />
+      )}
 
       {/* 词卡浮层 */}
       {wordPayload && passage && (
@@ -389,6 +424,55 @@ export function PracticeShell({
           onClose={() => setDrawer(null)}
         />
       )}
+    </div>
+  );
+}
+
+/**
+ * 非阅读 Section（写作/听力/翻译）的展示：当前只显示题目与要求，
+ * 提交与批改留到后续阶段。听力会在「逐句同步」阶段接真实音频。
+ */
+function NonReadingSection({
+  section,
+  passage,
+}: {
+  section: PracticeSection;
+  passage: PracticePassage | undefined;
+}) {
+  const hintMap: Record<string, string> = {
+    writing: "写作部分展示题目与要求，v2.0 暂不支持在线提交与 AI 批改。",
+    translation: "翻译部分展示题目与要求，v2.0 暂不支持在线提交与 AI 批改。",
+    listening: "听力模块将在「听力播放与逐句同步」阶段上线，届时可逐句高亮、只播一遍模拟真实考场。",
+  };
+
+  const paragraphs = passage?.paragraphs ?? [];
+
+  return (
+    <div className="min-h-0 flex-1 overflow-y-auto bg-paper">
+      <div className="mx-auto max-w-2xl px-6 py-10">
+        <div className="rounded-xl border border-line bg-paper-deep p-6">
+          <h2 className="font-serif text-[18px] text-ink">{section.title}</h2>
+          <p className="mt-2 text-[12.5px] text-ink-mute">
+            限时 {section.timeLimit ? `${section.timeLimit} 分钟` : "—"}
+          </p>
+
+          <div className="mt-5 whitespace-pre-wrap text-[14.5px] leading-[1.9] text-ink-soft">
+            {paragraphs.length > 0 ? (
+              paragraphs.map((p, i) => (
+                <p key={i} className="mb-3">
+                  {p.text}
+                </p>
+              ))
+            ) : (
+              <p className="text-ink-mute">本部分暂无题目内容。</p>
+            )}
+          </div>
+
+          <div className="mt-6 rounded-lg bg-paper px-4 py-3 text-[12.5px] leading-relaxed text-ink-mute">
+            {hintMap[section.type] ?? "本部分展示题目，暂不支持在线提交。"}
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
