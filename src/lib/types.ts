@@ -185,3 +185,13 @@ export type LeaderboardEntry = {
   questionCount: number;
   rank: number;
 };
+
+/** 打卡数据（/api/checkin） */
+export type CheckinData = {
+  today: Record<"CET4" | "CET6", number>;
+  checkedIn: Record<"CET4" | "CET6", boolean>;
+  monthByLevel: Record<"CET4" | "CET6", number>;
+  monthDays: number;
+  streak: number;
+  calendar: { date: string; levels: ("CET4" | "CET6")[] }[];
+};

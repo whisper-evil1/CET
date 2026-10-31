@@ -3,6 +3,7 @@ import { Errors, ok, parseBody, withApi } from "@/lib/api-helpers";
 import { currentUserId } from "@/lib/auth";
 import { answerSchema } from "@/lib/validators";
 import { parseOptionAnalysis, parseEvidenceSentences } from "@/lib/db-mappers";
+import { syncUserStats } from "@/lib/stats-sync";
 import type { AnswerResult } from "@/lib/types";
 
 /** GET /api/answers?paperId=xxx —— 恢复该试卷下我的作答状态 */
@@ -65,6 +66,13 @@ export const POST = withApi(async (request: Request) => {
       isCorrect,
     },
   });
+
+  // 同步排行榜统计与打卡，失败不影响答题结果返回
+  try {
+    await syncUserStats(userId);
+  } catch (err) {
+    console.error("[stats-sync]", err);
+  }
 
   const data: AnswerResult = {
     questionId: question.id,
