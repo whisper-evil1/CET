@@ -47,6 +47,7 @@ type PracticeState = {
   markSubmitted: (questionId: string, result: AnswerResult) => void;
   toggleFavoriteLocal: (questionId: string, value: boolean) => void;
   addVocabLocal: (word: string, brief: string) => void;
+  removeVocabLocal: (word: string) => void;
   setAnalysisOpen: (questionId: string, open: boolean) => void;
   setDrawer: (drawer: DrawerKind) => void;
   setMobileTab: (tab: "article" | "question") => void;
@@ -130,6 +131,12 @@ export const usePracticeStore = create<PracticeState>((set, get) => ({
 
   addVocabLocal: (word, brief) =>
     set({ vocabWords: { ...get().vocabWords, [word.toLowerCase()]: brief } }),
+
+  removeVocabLocal: (word) => {
+    const next = { ...get().vocabWords };
+    delete next[word.toLowerCase()];
+    set({ vocabWords: next });
+  },
 
   setAnalysisOpen: (questionId, open) =>
     set({ analysisOpen: { ...get().analysisOpen, [questionId]: open } }),

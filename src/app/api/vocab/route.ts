@@ -85,3 +85,25 @@ export const POST = withApi(async (request: Request) => {
 
   return ok(data);
 });
+
+/**
+ * DELETE /api/vocab —— 按单词从生词库移除（词卡取消收藏用）
+ * body: { word: string }
+ */
+export const DELETE = withApi(async (request: Request) => {
+  const meId = await currentUserId();
+  if (!meId) return Errors.unauthorized();
+
+  const body = await request.json().catch(() => ({}));
+  const word = typeof body.word === "string" ? body.word.trim().toLowerCase() : "";
+  if (!word) return Errors.badRequest("缺少 word");
+
+  const row = await prisma.vocabWord.findUnique({
+    where: { userId_word: { userId: meId, word } },
+    select: { id: true },
+  });
+  if (!row) return ok({ id: null, removed: false });
+
+  await prisma.vocabWord.delete({ where: { id: row.id } });
+  return ok({ id: row.id, removed: true });
+});

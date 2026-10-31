@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useLayoutEffect, useRef, useState } from "react";
-import { postJson } from "@/lib/api-client";
+import { delJson, postJson } from "@/lib/api-client";
 import { sentenceAround } from "@/lib/text-segments";
 import type { WordEntry } from "@/lib/types";
 import { usePracticeStore } from "@/stores/practice";
@@ -24,6 +24,7 @@ const MARGIN = 12;
  */
 export function WordCard({ payload, passageId, onClose }: Props) {
   const addVocabLocal = usePracticeStore((s) => s.addVocabLocal);
+  const removeVocabLocal = usePracticeStore((s) => s.removeVocabLocal);
   const vocabWords = usePracticeStore((s) => s.vocabWords);
 
   const cardRef = useRef<HTMLDivElement | null>(null);
@@ -156,6 +157,21 @@ export function WordCard({ payload, passageId, onClose }: Props) {
     }
   };
 
+  /* ---------- 取消收藏 ---------- */
+  const removeFromVocab = async () => {
+    if (saving) return;
+    setSaving(true);
+    try {
+      await delJson("/api/vocab", { word: normalized });
+      removeVocabLocal(normalized);
+      setAdded(false);
+    } catch (error) {
+      setHint(error instanceof Error ? error.message : "取消收藏失败");
+    } finally {
+      setSaving(false);
+    }
+  };
+
   return (
     <div
       ref={cardRef}
@@ -246,7 +262,17 @@ export function WordCard({ payload, passageId, onClose }: Props) {
 
       <div className="border-t border-line-soft px-4 py-2.5">
         {added ? (
-          <p className="text-[12.5px] text-correct">✓ 已在生词本</p>
+          <div className="flex items-center justify-between">
+            <span className="text-[12.5px] text-correct">✓ 已在生词本</span>
+            <button
+              type="button"
+              onClick={removeFromVocab}
+              disabled={saving}
+              className="text-[12px] text-ink-mute underline-offset-2 transition-colors hover:text-wrong hover:underline disabled:opacity-40"
+            >
+              {saving ? "…" : "取消收藏"}
+            </button>
+          </div>
         ) : (
           <button
             type="button"
@@ -256,9 +282,9 @@ export function WordCard({ payload, passageId, onClose }: Props) {
           >
             {saving
               ? "加入中…"
-              : entry
+              : entry && entry.definitions.length > 0
                 ? "＋ 加入生词本"
-                : "＋ 加入生词本（释义待补）"}
+                : "＋ 先收藏，稍后补释义"}
           </button>
         )}
       </div>

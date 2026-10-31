@@ -46,5 +46,9 @@ export const patchJson = <T,>(url: string, body: unknown) =>
 
 export const del = <T,>(url: string) => apiFetch<T>(url, { method: "DELETE" });
 
+/** DELETE with JSON body（按 word 删除生词用） */
+export const delJson = <T,>(url: string, body: unknown) =>
+  apiFetch<T>(url, { method: "DELETE", body: JSON.stringify(body) });
+
 /** SWR fetcher */
 export const swrFetcher = <T,>(url: string) => apiFetch<T>(url);
