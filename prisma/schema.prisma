@@ -1,8 +1,12 @@
-// 数据模型 v2.0：四六级完整套卷系统。
+// 数据模型：v1 阅读模块 + v2.0 套卷扩展。
 // 说明：本地开发用 SQLite（零依赖，一条命令跑起来）。
 // SQLite 不支持 Prisma 的 Json 原生类型，因此 JSON 字段统一用 String 存序列化文本，
 // 由 src/lib/db-mappers.ts 负责 parse/stringify，业务层拿到的永远是强类型对象。
 // 迁到 PostgreSQL 时：datasource.provider 改 postgresql，并把下列 String 字段改回 Json 即可。
+//
+// v2.0 扩展采用增量策略：保留 Paper→Passage→Question 的现有关系不破坏，
+// 新增 Section 层级（Passage.sectionId 可选），音频/证据句/颜色字段都加成可选列，
+// 这样 db push 是增量升级，线上已注册用户和作答数据不丢。
 
 generator client {
   provider = "prisma-client-js"
@@ -19,8 +23,6 @@ model User {
   password  String
   name      String?
   avatar    String?
-  /// 用户目标级别，默认显示该级别的试卷
-  targetLevel String? // CET4 | CET6
   createdAt DateTime @default(now())
 
   comments  Comment[]
@@ -32,49 +34,51 @@ model User {
 }
 
 model Paper {
-  id        String    @id @default(cuid())
-  title     String
-  level     String // CET4 | CET6
-  year      Int?
-  month     Int?
-  totalTime Int       @default(130) // 总时长（分钟），四级125 六级130
-  sort      Int       @default(0)
-  sections  Section[]
-
-  @@index([level, sort])
+  id       String    @id @default(cuid())
+  title    String
+  level    String // CET4 | CET6
+  year     Int?
+  month    Int?
+  sort     Int       @default(0)
+  passages Passage[]
+  sections Section[]
 }
 
-/// 试卷内的一个 Section（写作/听力/阅读/翻译）
+// v2.0 新增：试卷内的一个 Section（写作/听力/阅读/翻译）。
+// Passage 通过 sectionId 可选关联到 Section，老数据走 paperId，新数据走 sectionId。
 model Section {
   id        String   @id @default(cuid())
   paperId   String
   paper     Paper    @relation(fields: [paperId], references: [id], onDelete: Cascade)
   order     Int
-  type      String   // writing | listening | reading | translation
-  title     String   // 如 "Section A 短篇新闻"
-  timeLimit Int?     // 该部分限时（分钟）
+  type      String // writing | listening | reading | translation
+  title     String // 如 "Section A 短篇新闻"
+  timeLimit Int?    // 该部分限时（分钟），考试模式用
   passages  Passage[]
 
   @@index([paperId, order])
 }
 
 model Passage {
-  id            String     @id @default(cuid())
-  sectionId     String
-  section       Section    @relation(fields: [sectionId], references: [id], onDelete: Cascade)
-  order         Int
-  title         String?
-  /// 阅读用：[{ label: "A", text: "..." }] 序列化后的 JSON 文本
-  paragraphs    String     @default("[]")
-  /// 听力用：/audio/xxx.mp3
-  audioUrl      String?
-  /// 听力音频时长（秒）
+  id         String     @id @default(cuid())
+  paperId    String
+  paper      Paper      @relation(fields: [paperId], references: [id], onDelete: Cascade)
+  // v2.0 可选：走 Section 层级时填，老数据留空
+  sectionId  String?
+  section    Section?   @relation(fields: [sectionId], references: [id], onDelete: Cascade)
+  order      Int
+  title      String?
+  /// [{ label: "A", text: "..." }] 序列化后的 JSON 文本
+  paragraphs String
+  // v2.0 听力用：音频地址、时长、逐句原文
+  audioUrl     String?
   audioDuration Int?
-  /// 听力原文逐句带时间戳：[{ id: 1, start: 0.0, end: 4.2, text: "..." }]
-  transcript    String?
-  questions     Question[]
+  /// [{ id:1, start:0.0, end:4.2, text:"..." }] 序列化 JSON
+  transcript String?
+  questions  Question[]
 
-  @@index([sectionId, order])
+  @@index([paperId, order])
+  @@index([sectionId])
 }
 
 model Question {
@@ -90,15 +94,18 @@ model Question {
   analysis       String
   /// { A: "为什么错", B: "..." }
   optionAnalysis String?
-  evidencePara   String? // 阅读用：依据段落 label，如 "C"
-  evidenceText   String? // 阅读用：依据原句，前端做高亮定位
-  /// 听力用：答案出自原文第几句 [7, 8] 对应 transcript 里的 id
-  evidenceSentences String?
+  evidencePara   String? // 依据段落 label，如 "C"
+  evidenceText   String? // 依据原句，前端做高亮定位
   type           String? // 细节题 | 主旨题 | 推断题 | 词义题 | 态度题
+  // v2.0 听力/阅读通用：答案出自原文第几句，序列化 JSON [7, 8]
+  evidenceSentences String?
+  // v2.0 答案颜色标注用
+  correctColor   String   @default("#22c55e")
+  wrongColor     String   @default("#ef4444")
   comments       Comment[]
   favorites      Favorite[]
   answers        Answer[]
-  experiencePack ExperiencePack?
+  experiencePacks ExperiencePack[]
 
   @@index([passageId, order])
 }
@@ -180,18 +187,18 @@ model DictionaryEntry {
   definitions String
   /// [{ en: "...", zh: "..." }]
   examples    String?
-  source      String   @default("builtin") // builtin | ai | api | offline
+  source      String   @default("builtin") // builtin | ai | api
   fetchedAt   DateTime @default(now())
 }
 
-/// 用户统计（按周/按月聚合，排行榜用）
+// v2.0 排行榜：用户按周/按月聚合的统计，页面加载直接读这里，不实时算全表
 model UserStats {
   id            String   @id @default(cuid())
   userId        String
   user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
-  level         String   // CET4 | CET6
-  periodType    String   // week | month
-  periodKey     String   // 2026-W44 | 2026-10
+  level         String // CET4 | CET6
+  periodType    String // week | month
+  periodKey     String // 2026-W44 | 2026-10
   checkinDays   Int      @default(0)
   questionCount Int      @default(0)
   correctCount  Int      @default(0)
@@ -204,29 +211,33 @@ model UserStats {
   @@index([level, periodType, periodKey, totalScore])
 }
 
-/// 打卡记录
+// v2.0 打卡：当天做题 ≥5 道才算打卡，防刷分
 model Checkin {
-  id            String   @id @default(cuid())
-  userId        String
-  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
-  date          DateTime
-  level         String
-  questionCount Int      @default(0)
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  /// SQLite 不支持 @db.Date，这里用 DateTime 存当天 00:00
+  date      DateTime
+  level     String
+  questionCount Int  @default(0)
 
   @@unique([userId, date, level])
+  @@index([userId, date])
 }
 
-/// AI 自动生成的经验包（每题一条，缓存到数据库）
+// v2.0 AI 经验包：每题生成一次缓存，讨论数变化时标记刷新
 model ExperiencePack {
   id              String   @id @default(cuid())
-  questionId      String   @unique
+  questionId      String
   question        Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
   pitfall         String
   correctApproach String
-  /// string[] 序列化
+  /// ["错误原因1", ...] 序列化 JSON
   commonMistakes  String
-  /// string[] 序列化
+  /// ["生词1", ...] 序列化 JSON
   keyVocab        String
   basedOnCommentCount Int  @default(0)
   generatedAt     DateTime @default(now())
+
+  @@unique([questionId])
 }
