@@ -50,6 +50,7 @@ data/ecdict-raw/
 
 # 截图（验证产物，不进 git）
 /shots/
+verify-out.txt
 
 # npm pack 产物
 *.tgz
