@@ -37,8 +37,11 @@ export function PracticeShell({
   startQuestionId,
 }: Props) {
   const paperId = paper.id;
-  const questions = paper.passages.flatMap((passage) => passage.questions);
-  const passage = paper.passages[0];
+  // 阶段 1 先只渲染阅读 Section，听力 Section 后续阶段加
+  const readingSection = paper.sections.find((s) => s.type === "reading");
+  const passages = readingSection?.passages ?? [];
+  const questions = passages.flatMap((passage) => passage.questions);
+  const passage = passages[0];
   const order = questions.map((q) => q.id);
 
   /* ---------- store ---------- */

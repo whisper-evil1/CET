@@ -29,7 +29,101 @@ type SeedPassage = {
   questions: SeedQuestion[];
 };
 
+/** 听力原文逐句结构 */
+type SeedTranscriptLine = { id: number; start: number; end: number; text: string };
+
+/** 听力题目（带证据句） */
+type SeedListeningQuestion = {
+  number: number;
+  stem: string;
+  options: { key: string; text: string }[];
+  answer: string;
+  analysis: string;
+  evidenceSentences: number[];
+};
+
+/** 写作/翻译题目（只有题干，无选项） */
+type SeedWritingQuestion = {
+  number: number;
+  stem: string;
+  directions: string;
+};
+
 /* ============================ CET4 ============================ */
+
+/* --- CET4 听力：短篇新闻（公开授权素材风格，audioUrl 占位） --- */
+const cet4ListeningTranscript: SeedTranscriptLine[] = [
+  { id: 1, start: 0.0, end: 4.5, text: "Welcome to BBC Learning English." },
+  { id: 2, start: 4.5, end: 9.2, text: "Today we're talking about why handwriting still matters in a digital age." },
+  { id: 3, start: 9.2, end: 14.8, text: "Researchers at Princeton University found that students who take notes by hand remember more than those who type." },
+  { id: 4, start: 14.8, end: 20.1, text: "The study involved 67 students divided into two groups." },
+  { id: 5, start: 20.1, end: 25.6, text: "Both groups watched the same fifteen-minute lecture." },
+  { id: 6, start: 25.6, end: 31.0, text: "The handwriting group scored significantly higher on conceptual questions." },
+  { id: 7, start: 31.0, end: 36.4, text: "Professor Mueller explained that typing encourages word-for-word transcription." },
+  { id: 8, start: 36.4, end: 42.0, text: "Handwriting forces the brain to process and summarize information in real time." },
+  { id: 9, start: 42.0, end: 47.5, text: "This finding has important implications for classroom technology policies." },
+  { id: 10, start: 47.5, end: 52.0, text: "Next week, we'll look at how this research is being applied in schools." },
+];
+
+const cet4ListeningQuestions: SeedListeningQuestion[] = [
+  {
+    number: 1,
+    stem: "What is the main topic of the news report?",
+    options: [
+      { key: "A", text: "The decline of handwriting in modern schools." },
+      { key: "B", text: "A study comparing handwriting and typing for note-taking." },
+      { key: "C", text: "How to improve typing speed in lectures." },
+      { key: "D", text: "The history of BBC Learning English programs." },
+    ],
+    answer: "B",
+    analysis: "新闻开头即点明主题：talking about why handwriting still matters，接着介绍 Princeton 大学的研究比较手写和打字笔记的效果。B 概括了全文主旨。",
+    evidenceSentences: [1, 2],
+  },
+  {
+    number: 2,
+    stem: "How many students participated in the study?",
+    options: [
+      { key: "A", text: "15 students." },
+      { key: "B", text: "67 students." },
+      { key: "C", text: "Two groups of unspecified size." },
+      { key: "D", text: "Over 100 students." },
+    ],
+    answer: "B",
+    analysis: "原文第 4 句明确说 The study involved 67 students divided into two groups。",
+    evidenceSentences: [4],
+  },
+  {
+    number: 3,
+    stem: "According to Professor Mueller, why do handwriting students perform better?",
+    options: [
+      { key: "A", text: "Because they write faster than typists." },
+      { key: "B", text: "Because handwriting forces the brain to process and summarize." },
+      { key: "C", text: "Because they have better pens than laptops." },
+      { key: "D", text: "Because they don't use technology at all." },
+    ],
+    answer: "B",
+    analysis: "第 7-8 句：Professor Mueller explained that typing encourages word-for-word transcription. Handwriting forces the brain to process and summarize information in real time。B 是第 8 句的同义表述。",
+    evidenceSentences: [7, 8],
+  },
+];
+
+/* --- CET4 写作 --- */
+const cet4WritingQuestions: SeedWritingQuestion[] = [
+  {
+    number: 1,
+    stem: "For this part, you are allowed 30 minutes to write a short essay on the importance of handwriting. You should write at least 120 words but no more than 180 words.",
+    directions: "In this section, you will write an essay based on the following outline:\n1. 手写笔记在数字时代仍然重要\n2. 分析原因（至少两点）\n3. 你的结论",
+  },
+];
+
+/* --- CET4 翻译 --- */
+const cet4TranslationQuestions: SeedWritingQuestion[] = [
+  {
+    number: 1,
+    stem: "For this part, you are allowed 30 minutes to translate the following passage into English.",
+    directions: "在中国，书法（calligraphy）自古以来被视为一种高雅的艺术形式。许多人认为，练习书法不仅能培养耐心，还能提高专注力。尽管现代人更多地使用电脑和手机打字，但仍有不少人坚持每天手写。他们相信，手写是一种与内心对话的方式，有助于在快节奏的生活中找到平静。",
+  },
+];
 
 const cet4Passage: SeedPassage = {
   title: "Why the Paper Notebook Refuses to Die",
@@ -174,6 +268,78 @@ const cet4Passage: SeedPassage = {
 };
 
 /* ============================ CET6 ============================ */
+
+/* 六级听力：长对话风格，素材为公开授权教育内容 */
+const cet6ListeningTranscript: SeedTranscriptLine[] = [
+  { id: 1, start: 0.0, end: 5.2, text: "In today's program, we're looking at how artificial intelligence is changing education." },
+  { id: 2, start: 5.2, end: 10.8, text: "Dr. Sarah Chen from Stanford University has been studying this trend for three years." },
+  { id: 3, start: 10.8, end: 16.5, text: "Her research shows that AI tutoring systems can improve test scores by up to twenty percent." },
+  { id: 4, start: 16.5, end: 22.0, text: "However, she warns that technology alone cannot replace good teaching." },
+  { id: 5, start: 22.0, end: 28.3, text: "The most successful programs combine AI tools with human instructors who provide emotional support." },
+  { id: 6, start: 28.3, end: 34.0, text: "Interestingly, students from lower-income backgrounds benefited the most from AI assistance." },
+  { id: 7, start: 34.0, end: 39.7, text: "Dr. Chen attributes this to the fact that these students often lack access to private tutors." },
+  { id: 8, start: 39.7, end: 45.5, text: "The AI system essentially democratizes access to personalized learning." },
+  { id: 9, start: 45.5, end: 51.2, text: "But privacy concerns remain, as these platforms collect vast amounts of student data." },
+  { id: 10, start: 51.2, end: 56.0, text: "Dr. Chen calls for stricter regulations to protect vulnerable learners." },
+];
+
+const cet6ListeningQuestions: SeedListeningQuestion[] = [
+  {
+    number: 1,
+    stem: "What is Dr. Chen's main finding about AI in education?",
+    options: [
+      { key: "A", text: "AI can completely replace human teachers in all subjects." },
+      { key: "B", text: "AI tutoring systems can improve test scores by up to 20%." },
+      { key: "C", text: "AI is more effective in teaching math than languages." },
+      { key: "D", text: "AI tutoring only works for college students." },
+    ],
+    answer: "B",
+    analysis: "第 3 句直接给出了数据：AI tutoring systems can improve test scores by up to twenty percent。B 是这句话的同义表述。",
+    evidenceSentences: [3],
+  },
+  {
+    number: 2,
+    stem: "Which group of students benefits most from AI tutoring?",
+    options: [
+      { key: "A", text: "Students from wealthy families who already have private tutors." },
+      { key: "B", text: "College students studying computer science." },
+      { key: "C", text: "Students from lower-income backgrounds." },
+      { key: "D", text: "Adults returning to education after many years." },
+    ],
+    answer: "C",
+    analysis: "第 6 句：students from lower-income backgrounds benefited the most from AI assistance。第 7 句解释原因：这些学生通常请不起私教。",
+    evidenceSentences: [6, 7],
+  },
+  {
+    number: 3,
+    stem: "What concern does Dr. Chen raise at the end?",
+    options: [
+      { key: "A", text: "AI systems are too expensive for schools to afford." },
+      { key: "B", text: "Students might become too dependent on technology." },
+      { key: "C", text: "Privacy issues arise from collecting large amounts of student data." },
+      { key: "D", text: "Teachers might lose their jobs to AI systems." },
+    ],
+    answer: "C",
+    analysis: "第 9-10 句：privacy concerns remain, as these platforms collect vast amounts of student data。Dr. Chen calls for stricter regulations。C 概括了这两句。",
+    evidenceSentences: [9, 10],
+  },
+];
+
+const cet6WritingQuestions: SeedWritingQuestion[] = [
+  {
+    number: 1,
+    stem: "For this part, you are allowed 30 minutes to write an essay commenting on the remark \"Technology is a useful servant but a dangerous master.\" You should write at least 150 words but no more than 200 words.",
+    directions: "请围绕以下要点展开：\n1. 解释这句话的含义\n2. 以教育领域的 AI 应用为例论证\n3. 给出你的观点和建议",
+  },
+];
+
+const cet6TranslationQuestions: SeedWritingQuestion[] = [
+  {
+    number: 1,
+    stem: "For this part, you are allowed 30 minutes to translate the following passage into English.",
+    directions: "近年来，人工智能（artificial intelligence）在教育领域的应用日益广泛。从智能辅导系统到自动批改作业，AI 技术正在改变传统的教学方式。然而，专家指出，技术应该服务于教育目标，而不是主导教育。教师的角色不仅仅是传授知识，更重要的是激发学生的好奇心和创造力。因此，在拥抱技术的同时，我们也需要警惕其可能带来的风险，如数据隐私和学生过度依赖等问题。",
+  },
+];
 
 const cet6Passage: SeedPassage = {
   title: "The Hidden Cost of Convenience",
@@ -325,7 +491,12 @@ async function seedPaper(input: {
   year: number;
   month: number;
   sort: number;
+  totalTime: number;
   passage: SeedPassage;
+  listeningTranscript: SeedTranscriptLine[];
+  listeningQuestions: SeedListeningQuestion[];
+  writingQuestions: SeedWritingQuestion[];
+  translationQuestions: SeedWritingQuestion[];
 }) {
   await prisma.paper.deleteMany({ where: { id: input.id } });
 
@@ -336,35 +507,136 @@ async function seedPaper(input: {
       level: input.level,
       year: input.year,
       month: input.month,
+      totalTime: input.totalTime,
       sort: input.sort,
-      passages: {
+      sections: {
         create: [
+          // 写作
           {
-            id: `${input.id}-p1`,
+            id: `${input.id}-sec-writing`,
             order: 1,
-            title: input.passage.title,
-            paragraphs: JSON.stringify(input.passage.paragraphs),
-            questions: {
-              create: input.passage.questions.map((q, index) => ({
-                id: `${input.id}-q${q.number}`,
-                order: index + 1,
-                number: q.number,
-                stem: q.stem,
-                options: JSON.stringify(q.options),
-                answer: q.answer,
-                analysis: q.analysis,
-                optionAnalysis: JSON.stringify(q.optionAnalysis),
-                evidencePara: q.evidencePara,
-                evidenceText: q.evidenceText,
-                type: q.type,
-              })),
+            type: "writing",
+            title: "Section I 写作",
+            timeLimit: 30,
+            passages: {
+              create: [{
+                id: `${input.id}-p-writing`,
+                order: 1,
+                title: "写作",
+                paragraphs: "[]",
+                questions: {
+                  create: input.writingQuestions.map((q, i) => ({
+                    id: `${input.id}-q-write-${i}`,
+                    order: i + 1,
+                    number: q.number,
+                    stem: `${q.stem}\n\n${q.directions}`,
+                    options: "[]",
+                    answer: "",
+                    analysis: "写作题为开放式作答，无标准答案。",
+                    type: "writing",
+                  })),
+                },
+              }],
+            },
+          },
+          // 听力
+          {
+            id: `${input.id}-sec-listening`,
+            order: 2,
+            type: "listening",
+            title: "Section II 听力",
+            timeLimit: input.level === "CET4" ? 25 : 30,
+            passages: {
+              create: [{
+                id: `${input.id}-p-listening`,
+                order: 1,
+                title: "短篇新闻",
+                paragraphs: "[]",
+                // audioUrl 占位，后续放入公开授权音频文件
+                audioUrl: null,
+                audioDuration: 56,
+                transcript: JSON.stringify(input.listeningTranscript),
+                questions: {
+                  create: input.listeningQuestions.map((q, i) => ({
+                    id: `${input.id}-q-listen-${q.number}`,
+                    order: i + 1,
+                    number: q.number,
+                    stem: q.stem,
+                    options: JSON.stringify(q.options),
+                    answer: q.answer,
+                    analysis: q.analysis,
+                    evidenceSentences: JSON.stringify(q.evidenceSentences),
+                    type: "listening",
+                  })),
+                },
+              }],
+            },
+          },
+          // 阅读
+          {
+            id: `${input.id}-sec-reading`,
+            order: 3,
+            type: "reading",
+            title: "Section III 仔细阅读",
+            timeLimit: 40,
+            passages: {
+              create: [{
+                id: `${input.id}-p1`,
+                order: 1,
+                title: input.passage.title,
+                paragraphs: JSON.stringify(input.passage.paragraphs),
+                questions: {
+                  create: input.passage.questions.map((q, index) => ({
+                    id: `${input.id}-q${q.number}`,
+                    order: index + 1,
+                    number: q.number,
+                    stem: q.stem,
+                    options: JSON.stringify(q.options),
+                    answer: q.answer,
+                    analysis: q.analysis,
+                    optionAnalysis: JSON.stringify(q.optionAnalysis),
+                    evidencePara: q.evidencePara,
+                    evidenceText: q.evidenceText,
+                    type: q.type,
+                  })),
+                },
+              }],
+            },
+          },
+          // 翻译
+          {
+            id: `${input.id}-sec-translation`,
+            order: 4,
+            type: "translation",
+            title: "Section IV 翻译",
+            timeLimit: 30,
+            passages: {
+              create: [{
+                id: `${input.id}-p-translation`,
+                order: 1,
+                title: "翻译",
+                paragraphs: "[]",
+                questions: {
+                  create: input.translationQuestions.map((q, i) => ({
+                    id: `${input.id}-q-trans-${i}`,
+                    order: i + 1,
+                    number: q.number,
+                    stem: `${q.stem}\n\n${q.directions}`,
+                    options: "[]",
+                    answer: "",
+                    analysis: "翻译为开放式作答，无标准答案。",
+                    type: "translation",
+                  })),
+                },
+              }],
             },
           },
         ],
       },
     },
   });
-  console.log(`  ✓ ${input.title}（${input.passage.questions.length} 题）`);
+  const totalQs = input.passage.questions.length + input.listeningQuestions.length + input.writingQuestions.length + input.translationQuestions.length;
+  console.log(`  ✓ ${input.title}（4 Section / ${totalQs} 题）`);
 }
 
 async function seedUsers() {
@@ -391,26 +663,37 @@ async function main() {
   console.log("→ 写入试卷");
   await seedPaper({
     id: "paper-cet4-2024-12",
-    title: "2024年12月 四级 阅读 Section C（第一篇）",
+    title: "2024年12月 四级 完整套卷",
     level: "CET4",
     year: 2024,
     month: 12,
     sort: 1,
+    totalTime: 125,
     passage: cet4Passage,
+    listeningTranscript: cet4ListeningTranscript,
+    listeningQuestions: cet4ListeningQuestions,
+    writingQuestions: cet4WritingQuestions,
+    translationQuestions: cet4TranslationQuestions,
   });
   await seedPaper({
     id: "paper-cet6-2024-06",
-    title: "2024年6月 六级 阅读 Section C（第一篇）",
+    title: "2024年6月 六级 完整套卷",
     level: "CET6",
     year: 2024,
     month: 6,
     sort: 2,
+    totalTime: 130,
     passage: cet6Passage,
+    listeningTranscript: cet6ListeningTranscript,
+    listeningQuestions: cet6ListeningQuestions,
+    writingQuestions: cet6WritingQuestions,
+    translationQuestions: cet6TranslationQuestions,
   });
 
   const paperCount = await prisma.paper.count();
+  const sectionCount = await prisma.section.count();
   const questionCount = await prisma.question.count();
-  console.log(`\n完成：${paperCount} 套试卷 / ${questionCount} 道题`);
+  console.log(`\n完成：${paperCount} 套试卷 / ${sectionCount} 个 Section / ${questionCount} 道题`);
 }
 
 main()

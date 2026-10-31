@@ -2,10 +2,8 @@ import { prisma } from "@/lib/prisma";
 import { Errors, ok, parseBody, withApi } from "@/lib/api-helpers";
 import { currentUserId } from "@/lib/auth";
 import { answerSchema } from "@/lib/validators";
-import { parseOptionAnalysis } from "@/lib/db-mappers";
+import { parseOptionAnalysis, parseEvidenceSentences } from "@/lib/db-mappers";
 import type { AnswerResult } from "@/lib/types";
-
-
 
 /** GET /api/answers?paperId=xxx —— 恢复该试卷下我的作答状态 */
 export const GET = withApi(async (request: Request) => {
@@ -15,8 +13,9 @@ export const GET = withApi(async (request: Request) => {
   const paperId = new URL(request.url).searchParams.get("paperId");
   if (!paperId) return Errors.badRequest("缺少 paperId");
 
+  // Passage 不再有 paperId，通过 section 关联
   const answers = await prisma.answer.findMany({
-    where: { userId, question: { passage: { paperId } } },
+    where: { userId, question: { passage: { section: { paperId } } } },
     select: {
       questionId: true,
       choice: true,
@@ -28,7 +27,7 @@ export const GET = withApi(async (request: Request) => {
   return ok(answers);
 });
 
-/** POST /api/answers —— 提交答案，返回判题结果与解析（解析由此才下发） */
+/** POST /api/answers —— 提交答案，返回判题结果与解析 */
 export const POST = withApi(async (request: Request) => {
   const userId = await currentUserId();
   if (!userId) return Errors.unauthorized();
@@ -44,6 +43,7 @@ export const POST = withApi(async (request: Request) => {
       optionAnalysis: true,
       evidencePara: true,
       evidenceText: true,
+      evidenceSentences: true,
       type: true,
     },
   });
@@ -58,7 +58,6 @@ export const POST = withApi(async (request: Request) => {
       questionId: question.id,
       choice: body.choice,
       isCorrect,
-      // 同一题重做时，解析是否看过要按本轮重新计
       viewedAnalysis: false,
     },
     update: {
@@ -76,6 +75,7 @@ export const POST = withApi(async (request: Request) => {
     optionAnalysis: parseOptionAnalysis(question.optionAnalysis),
     evidencePara: question.evidencePara,
     evidenceText: question.evidenceText,
+    evidenceSentences: parseEvidenceSentences(question.evidenceSentences),
     type: question.type,
   };
 

@@ -22,7 +22,7 @@ export default async function FavoritesPage() {
           stem: true,
           type: true,
           passage: {
-            select: { title: true, paper: { select: { id: true, title: true, level: true } } },
+            select: { title: true, section: { select: { paper: { select: { id: true, title: true, level: true } } } } },
           },
         },
       },
@@ -40,7 +40,7 @@ export default async function FavoritesPage() {
   >();
 
   for (const row of rows) {
-    const paper = row.question.passage.paper;
+    const paper = row.question.passage.section.paper;
     const group = groups.get(paper.id) ?? {
       paperId: paper.id,
       paperTitle: paper.title,

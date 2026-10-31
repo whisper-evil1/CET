@@ -8,6 +8,7 @@ import {
   type OptionAnalysis,
   type Paragraph,
   type QuestionOption,
+  type TranscriptLine,
 } from "./types";
 
 /**
@@ -87,5 +88,43 @@ export function parseOptionAnalysis(raw: string | null): OptionAnalysis | null {
 /** 写库前把对象序列化，undefined 存 null */
 export function toJsonText(value: unknown): string {
   return JSON.stringify(value ?? null);
+}
+
+/** 解析听力原文逐句结构 [{ id, start, end, text }] */
+export function parseTranscript(raw: string | null): TranscriptLine[] {
+  const data = parseJson(raw);
+  const list = Array.isArray(data) ? data : [];
+  const out: TranscriptLine[] = [];
+  for (const item of list) {
+    if (
+      item &&
+      typeof item === "object" &&
+      typeof (item as Record<string, unknown>).id === "number" &&
+      typeof (item as Record<string, unknown>).text === "string"
+    ) {
+      const line = item as Record<string, number | string>;
+      out.push({
+        id: line.id as number,
+        start: typeof line.start === "number" ? line.start : 0,
+        end: typeof line.end === "number" ? line.end : 0,
+        text: line.text as string,
+      });
+    }
+  }
+  return out;
+}
+
+/** 解析听力证据句 id 数组 [7, 8] */
+export function parseEvidenceSentences(raw: string | null): number[] {
+  const data = parseJson(raw);
+  if (!Array.isArray(data)) return [];
+  return data.filter((x): x is number => typeof x === "number");
+}
+
+/** 解析 string[]（经验包的 commonMistakes / keyVocab） */
+export function parseStringArray(raw: string | null): string[] {
+  const data = parseJson(raw);
+  if (!Array.isArray(data)) return [];
+  return data.filter((x): x is string => typeof x === "string" && x.trim().length > 0);
 }
 

@@ -1,7 +1,7 @@
 import { prisma } from "@/lib/prisma";
 import { Errors, ok, withApi } from "@/lib/api-helpers";
 import { currentUserId } from "@/lib/auth";
-import { parseOptionAnalysis } from "@/lib/db-mappers";
+import { parseOptionAnalysis, parseEvidenceSentences } from "@/lib/db-mappers";
 import type { AnswerResult } from "@/lib/types";
 
 type Ctx = { params: Promise<{ id: string }> };
@@ -25,6 +25,7 @@ export const GET = withApi(async (_request: Request, ctx: Ctx) => {
       optionAnalysis: true,
       evidencePara: true,
       evidenceText: true,
+      evidenceSentences: true,
       type: true,
     },
   });
@@ -51,6 +52,7 @@ export const GET = withApi(async (_request: Request, ctx: Ctx) => {
     optionAnalysis: parseOptionAnalysis(question.optionAnalysis),
     evidencePara: question.evidencePara,
     evidenceText: question.evidenceText,
+    evidenceSentences: parseEvidenceSentences(question.evidenceSentences),
     type: question.type,
   };
 

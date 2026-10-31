@@ -22,7 +22,7 @@ export const GET = withApi(async () => {
               id: true,
               title: true,
               order: true,
-              paper: { select: { id: true, title: true, level: true } },
+              section: { select: { paper: { select: { id: true, title: true, level: true } } } },
             },
           },
         },
@@ -48,7 +48,7 @@ export const GET = withApi(async () => {
   >();
 
   for (const row of rows) {
-    const paper = row.question.passage.paper;
+    const paper = row.question.passage.section.paper;
     const group = groups.get(paper.id) ?? {
       paperId: paper.id,
       paperTitle: paper.title,

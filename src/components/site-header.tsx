@@ -5,14 +5,15 @@ import { auth } from "@/lib/auth";
  * 全站顶部导航（服务端组件，直接读会话）。
  * 刻意做得很轻：一根细线 + 字距很松的小字母，不抢正文的注意力。
  */
-export async function SiteHeader({ active }: { active?: "home" | "vocab" | "favorites" | "profile" }) {
+export async function SiteHeader({ active }: { active?: "home" | "vocab" | "favorites" | "profile" | "leaderboard" }) {
   const session = await auth();
   const user = session?.user;
 
-  const links: { href: string; label: string; key: "home" | "vocab" | "favorites" | "profile" }[] = [
+  const links: { href: string; label: string; key: "home" | "vocab" | "favorites" | "leaderboard" | "profile" }[] = [
     { href: "/", label: "试卷", key: "home" },
     { href: "/vocab", label: "生词本", key: "vocab" },
     { href: "/favorites", label: "收藏", key: "favorites" },
+    { href: "/leaderboard", label: "排行", key: "leaderboard" },
     { href: "/profile", label: "我的", key: "profile" },
   ];
 

@@ -29,6 +29,27 @@ export type Example = z.infer<typeof exampleSchema>;
 /** 选项逐项分析：{ A: "错在哪", B: "..." } */
 export type OptionAnalysis = Record<string, string>;
 
+/** 听力原文逐句结构 */
+export type TranscriptLine = {
+  id: number;
+  start: number;
+  end: number;
+  text: string;
+};
+
+/** Section 类型 */
+export type SectionType = "writing" | "listening" | "reading" | "translation";
+
+/** 试卷内的 Section */
+export type PracticeSection = {
+  id: string;
+  order: number;
+  type: SectionType;
+  title: string;
+  timeLimit: number | null;
+  passages: PracticePassage[];
+};
+
 /* ---------------- 词卡 / 词典 ---------------- */
 
 export type WordEntry = {
@@ -53,11 +74,20 @@ export type PracticeQuestion = {
   type: string | null;
 };
 
+/** 听力题目（含证据句 id，提交后才返回） */
+export type ListeningQuestion = PracticeQuestion & {
+  evidenceSentences: number[];
+};
+
 export type PracticePassage = {
   id: string;
   order: number;
   title: string | null;
   paragraphs: Paragraph[];
+  /** 听力专用 */
+  audioUrl: string | null;
+  audioDuration: number | null;
+  transcript: TranscriptLine[];
   questions: PracticeQuestion[];
 };
 
@@ -67,7 +97,8 @@ export type PracticePaper = {
   level: string;
   year: number | null;
   month: number | null;
-  passages: PracticePassage[];
+  totalTime: number;
+  sections: PracticeSection[];
 };
 
 /** 提交答案后返回的判题结果 + 解析 */
@@ -80,6 +111,8 @@ export type AnswerResult = {
   optionAnalysis: OptionAnalysis | null;
   evidencePara: string | null;
   evidenceText: string | null;
+  /** 听力用：答案出自原文第几句 */
+  evidenceSentences: number[];
   type: string | null;
 };
 
@@ -129,4 +162,27 @@ export type LearningStats = {
   answeredCount: number;
   correctCount: number;
   accuracy: number;
+};
+
+/** AI 经验包 */
+export type ExperiencePack = {
+  pitfall: string;
+  correctApproach: string;
+  commonMistakes: string[];
+  keyVocab: string[];
+  basedOnCommentCount: number;
+  generatedAt: string;
+};
+
+/** 排行榜条目 */
+export type LeaderboardEntry = {
+  userId: string;
+  userName: string | null;
+  avatar: string | null;
+  totalScore: number;
+  checkinDays: number;
+  accuracy: number;
+  newVocab: number;
+  questionCount: number;
+  rank: number;
 };

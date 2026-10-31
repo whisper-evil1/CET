@@ -1,4 +1,4 @@
-// 数据模型：严格对齐 PRD 第五章。
+// 数据模型 v2.0：四六级完整套卷系统。
 // 说明：本地开发用 SQLite（零依赖，一条命令跑起来）。
 // SQLite 不支持 Prisma 的 Json 原生类型，因此 JSON 字段统一用 String 存序列化文本，
 // 由 src/lib/db-mappers.ts 负责 parse/stringify，业务层拿到的永远是强类型对象。
@@ -19,35 +19,62 @@ model User {
   password  String
   name      String?
   avatar    String?
+  /// 用户目标级别，默认显示该级别的试卷
+  targetLevel String? // CET4 | CET6
   createdAt DateTime @default(now())
 
   comments  Comment[]
   vocab     VocabWord[]
   favorites Favorite[]
   answers   Answer[]
+  stats     UserStats[]
+  checkins  Checkin[]
 }
 
 model Paper {
-  id       String    @id @default(cuid())
-  title    String
-  level    String // CET4 | CET6
-  year     Int?
-  month    Int?
-  sort     Int       @default(0)
-  passages Passage[]
+  id        String    @id @default(cuid())
+  title     String
+  level     String // CET4 | CET6
+  year      Int?
+  month     Int?
+  totalTime Int       @default(130) // 总时长（分钟），四级125 六级130
+  sort      Int       @default(0)
+  sections  Section[]
+
+  @@index([level, sort])
+}
+
+/// 试卷内的一个 Section（写作/听力/阅读/翻译）
+model Section {
+  id        String   @id @default(cuid())
+  paperId   String
+  paper     Paper    @relation(fields: [paperId], references: [id], onDelete: Cascade)
+  order     Int
+  type      String   // writing | listening | reading | translation
+  title     String   // 如 "Section A 短篇新闻"
+  timeLimit Int?     // 该部分限时（分钟）
+  passages  Passage[]
+
+  @@index([paperId, order])
 }
 
 model Passage {
-  id         String     @id @default(cuid())
-  paperId    String
-  paper      Paper      @relation(fields: [paperId], references: [id], onDelete: Cascade)
-  order      Int
-  title      String?
-  /// [{ label: "A", text: "..." }] 序列化后的 JSON 文本
-  paragraphs String
-  questions  Question[]
+  id            String     @id @default(cuid())
+  sectionId     String
+  section       Section    @relation(fields: [sectionId], references: [id], onDelete: Cascade)
+  order         Int
+  title         String?
+  /// 阅读用：[{ label: "A", text: "..." }] 序列化后的 JSON 文本
+  paragraphs    String     @default("[]")
+  /// 听力用：/audio/xxx.mp3
+  audioUrl      String?
+  /// 听力音频时长（秒）
+  audioDuration Int?
+  /// 听力原文逐句带时间戳：[{ id: 1, start: 0.0, end: 4.2, text: "..." }]
+  transcript    String?
+  questions     Question[]
 
-  @@index([paperId, order])
+  @@index([sectionId, order])
 }
 
 model Question {
@@ -63,12 +90,15 @@ model Question {
   analysis       String
   /// { A: "为什么错", B: "..." }
   optionAnalysis String?
-  evidencePara   String? // 依据段落 label，如 "C"
-  evidenceText   String? // 依据原句，前端做高亮定位
+  evidencePara   String? // 阅读用：依据段落 label，如 "C"
+  evidenceText   String? // 阅读用：依据原句，前端做高亮定位
+  /// 听力用：答案出自原文第几句 [7, 8] 对应 transcript 里的 id
+  evidenceSentences String?
   type           String? // 细节题 | 主旨题 | 推断题 | 词义题 | 态度题
   comments       Comment[]
   favorites      Favorite[]
   answers        Answer[]
+  experiencePack ExperiencePack?
 
   @@index([passageId, order])
 }
@@ -150,6 +180,53 @@ model DictionaryEntry {
   definitions String
   /// [{ en: "...", zh: "..." }]
   examples    String?
-  source      String   @default("builtin") // builtin | ai | api
+  source      String   @default("builtin") // builtin | ai | api | offline
   fetchedAt   DateTime @default(now())
+}
+
+/// 用户统计（按周/按月聚合，排行榜用）
+model UserStats {
+  id            String   @id @default(cuid())
+  userId        String
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  level         String   // CET4 | CET6
+  periodType    String   // week | month
+  periodKey     String   // 2026-W44 | 2026-10
+  checkinDays   Int      @default(0)
+  questionCount Int      @default(0)
+  correctCount  Int      @default(0)
+  accuracy      Float    @default(0)
+  newVocab      Int      @default(0)
+  totalScore    Float    @default(0)
+  updatedAt     DateTime @updatedAt
+
+  @@unique([userId, level, periodType, periodKey])
+  @@index([level, periodType, periodKey, totalScore])
+}
+
+/// 打卡记录
+model Checkin {
+  id            String   @id @default(cuid())
+  userId        String
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  date          DateTime
+  level         String
+  questionCount Int      @default(0)
+
+  @@unique([userId, date, level])
+}
+
+/// AI 自动生成的经验包（每题一条，缓存到数据库）
+model ExperiencePack {
+  id              String   @id @default(cuid())
+  questionId      String   @unique
+  question        Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  pitfall         String
+  correctApproach String
+  /// string[] 序列化
+  commonMistakes  String
+  /// string[] 序列化
+  keyVocab        String
+  basedOnCommentCount Int  @default(0)
+  generatedAt     DateTime @default(now())
 }
