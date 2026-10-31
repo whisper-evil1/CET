@@ -36,8 +36,10 @@ export type WordEntry = {
   phonetic: string | null;
   definitions: Definition[];
   examples: Example[];
-  /** builtin | ai | api | cache —— 用于前端提示释义来源 */
-  source: "builtin" | "ai" | "api" | "cache";
+  /** builtin | ai | api | cache | offline —— 用于前端提示释义来源 */
+  source: "builtin" | "ai" | "api" | "cache" | "offline";
+  /** 查不到释义时为 true，前端允许加入生词本但标注"释义待补" */
+  needsDefinition?: boolean;
 };
 
 /* ---------------- 接口返回体 ---------------- */

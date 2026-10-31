@@ -2,14 +2,16 @@ import { prisma } from "./prisma";
 import { parseDefinitions, parseExamples, toJsonText } from "./db-mappers";
 import { aiConfig } from "./ai";
 import { BUILTIN_DICT } from "@/data/builtin-dict";
+import { lookupOffline } from "./offline-dict";
 import type { Definition, Example, WordEntry } from "./types";
 
 /**
- * 查词三级链路（每级命中都会写回 DictionaryEntry 缓存，尽量只查一次）：
+ * 查词四级链路（每级命中都会写回 DictionaryEntry 缓存，尽量只查一次）：
  *   1. 本地缓存表 DictionaryEntry
- *   2. 内置离线词库（覆盖种子文章词汇 + 四六级核心词，无网也能查）
- *   3. AI 生成中文释义（配置了 Key 才会启用）
- * 全部失败返回 null，接口层给友好提示，不让前端白屏。
+ *   2. 内置精简词库（覆盖种子文章词汇 + 四六级核心词）
+ *   3. ecdict 离线词库（1.5 万词条，cet4/cet6/zk/gk 标签）
+ *   4. AI 生成中文释义（配置了 Key 才会启用）
+ * 全部失败返回带 needsDefinition 标记的空释义条目，前端仍可加入生词本。
  */
 
 const WORD_CLEAN = /^[a-zA-Z][a-zA-Z'-]*$/;
@@ -153,6 +155,22 @@ function fromBuiltin(word: string): WordEntry | null {
   return null;
 }
 
+/** 从 ecdict 离线词库查词，做词形还原 */
+function fromOffline(word: string): WordEntry | null {
+  for (const candidate of candidatesFor(word)) {
+    const hit = lookupOffline(candidate);
+    if (!hit) continue;
+    return {
+      word: candidate,
+      phonetic: hit.phonetic || null,
+      definitions: hit.definitions.map<Definition>((d) => ({ pos: d.pos, zh: d.zh })),
+      examples: [],
+      source: "offline",
+    };
+  }
+  return null;
+}
+
 type AiLookupPayload = {
   phonetic?: string;
   definitions?: { pos?: string; zh?: string }[];
@@ -230,22 +248,40 @@ export async function lookupWord(raw: string, context?: string): Promise<WordEnt
   const word = normalizeWord(raw);
   if (!word || !WORD_CLEAN.test(word)) return null;
 
+  // 1. 缓存表
   for (const candidate of candidatesFor(word)) {
     const cached = await fromCache(candidate);
     if (cached) return { ...cached, word };
   }
 
+  // 2. 内置精简词库
   const builtin = fromBuiltin(word);
   if (builtin) {
     await saveCache(builtin);
     return { ...builtin, word };
   }
 
+  // 3. ecdict 离线词库
+  const offline = fromOffline(word);
+  if (offline) {
+    await saveCache(offline);
+    return { ...offline, word };
+  }
+
+  // 4. AI 生成释义
   const ai = await fromAi(word, context);
   if (ai) {
     await saveCache(ai);
     return ai;
   }
 
-  return null;
+  // 5. 全部未命中：返回空释义条目，允许加入生词本（释义待补）
+  return {
+    word,
+    phonetic: null,
+    definitions: [],
+    examples: [],
+    source: "offline",
+    needsDefinition: true,
+  };
 }
