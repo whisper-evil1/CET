@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { cloud, cloudReady } from "@/lib/cloud";
 
 type Props = {
   questionId: string;
@@ -14,8 +15,10 @@ type ChatMessage = { role: "user" | "assistant"; content: string };
 
 /**
  * AI 答疑抽屉。
- * 服务端负责把「文章 + 题干 + 选项 + 我的选择 + 正确答案 + 解析」拼进 system prompt，
- * 前端只发对话内容，避免上下文靠前端拼装导致答非所问。
+ *
+ * 上下文（文章 + 题干 + 选项 + 我的作答 + 解析）由服务端 /api/questions/[id]/ai-context 拼好，
+ * 前端拿到 system prompt 后直接调云服务 LLM（cloud.llm），逐 token 流式渲染。
+ * 云服务未就绪或模型调用失败时，回退到服务端 /api/ai/chat（内置演示流式），保证不白屏。
  * 切题时抽屉随题目卸载（shell 里用 key 控制），会话自然重置。
  */
 export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
@@ -28,6 +31,46 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
   const abortRef = useRef<AbortController | null>(null);
   const scrollRef = useRef<HTMLDivElement | null>(null);
 
+  // 服务端拼好的 system prompt（含文章与题目上下文）
+  const systemPromptRef = useRef<string>("");
+  // 云服务模型 id，首次 list 后缓存
+  const modelRef = useRef<string | null>(null);
+  // 云 LLM 调用是否已失败过，失败后本轮回退到服务端演示流式
+  const cloudFailedRef = useRef(false);
+
+  // 挂载时拉取上下文 + 云模型列表（只跑一次）
+  useEffect(() => {
+    let cancelled = false;
+
+    void (async () => {
+      try {
+        const res = await fetch(`/api/questions/${questionId}/ai-context`, { cache: "no-store" });
+        if (res.ok) {
+          const json = (await res.json()) as { data?: { systemPrompt?: string } };
+          if (!cancelled && json.data?.systemPrompt) {
+            systemPromptRef.current = json.data.systemPrompt;
+          }
+        }
+      } catch {
+        // 拉取失败时 send() 会走服务端回退
+      }
+
+      if (!cloudReady || !cloud || cloudFailedRef.current) return;
+      try {
+        const models = await cloud.llm.models.list();
+        // 选第一个未被禁用的模型；空列表视为不可用
+        const picked = models.find((m) => m.disabled !== true);
+        if (!cancelled && picked) modelRef.current = picked.id;
+      } catch {
+        // 模型列表拉取失败，send() 走回退
+      }
+    })();
+
+    return () => {
+      cancelled = true;
+    };
+  }, [questionId]);
+
   useEffect(() => {
     return () => abortRef.current?.abort();
   }, []);
@@ -37,6 +80,14 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
     if (!node) return;
     node.scrollTop = node.scrollHeight;
   }, [messages, streaming]);
+
+  const appendAssistant = (acc: string) => {
+    setMessages((prev) => {
+      const copy = [...prev];
+      copy[copy.length - 1] = { role: "assistant", content: acc };
+      return copy;
+    });
+  };
 
   const send = async (raw: string) => {
     const text = raw.trim();
@@ -51,45 +102,58 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
     const controller = new AbortController();
     abortRef.current = controller;
 
+    const canUseCloud =
+      Boolean(cloud && modelRef.current && systemPromptRef.current && !cloudFailedRef.current);
+
     try {
-      const response = await fetch("/api/ai/chat", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        signal: controller.signal,
-        body: JSON.stringify({
-          questionId,
-          messages: nextMessages.map((m) => ({ role: m.role, content: m.content })),
-        }),
-      });
-
-      const headerMode = response.headers.get("X-AI-Mode");
-      setMode(headerMode === "live" ? "live" : "mock");
-
-      if (!response.ok) {
-        const payload = (await response.json().catch(() => null)) as
-          | { message?: string }
-          | null;
-        throw new Error(payload?.message ?? `请求失败（HTTP ${response.status}）`);
-      }
-      if (!response.body) throw new Error("浏览器不支持流式响应");
-
-      const reader = response.body.getReader();
-      const decoder = new TextDecoder();
-      let acc = "";
-
-      while (true) {
-        const { done, value } = await reader.read();
-        if (done) break;
-        acc += decoder.decode(value, { stream: true });
-        setMessages((prev) => {
-          const copy = [...prev];
-          copy[copy.length - 1] = { role: "assistant", content: acc };
-          return copy;
+      if (canUseCloud) {
+        setMode("live");
+        // 云服务 LLM：前端直调，流式拼 token
+        const stream = cloud!.llm.chat.completions.create({
+          model: modelRef.current!,
+          messages: [
+            { role: "system", content: systemPromptRef.current },
+            ...nextMessages.map((m) => ({
+              role: m.role,
+              content: m.content,
+            })),
+          ],
+          stream: true,
+          temperature: 0.3,
+          signal: controller.signal,
         });
+
+        let acc = "";
+        for await (const chunk of stream) {
+          const delta = chunk.choices[0]?.delta?.content;
+          if (delta) {
+            acc += delta;
+            appendAssistant(acc);
+          }
+        }
+      } else {
+        // 回退：服务端演示流式
+        setMode("mock");
+        await streamFromServer(questionId, nextMessages, controller, appendAssistant);
       }
     } catch (err) {
       if ((err as Error).name === "AbortError") return;
-      setError(err instanceof Error ? err.message : "AI 暂时不可用");
+
+      // 云 LLM 失败时自动回退一次到服务端演示流式
+      if (canUseCloud) {
+        cloudFailedRef.current = true;
+        setMode("mock");
+        try {
+          await streamFromServer(questionId, nextMessages, controller, appendAssistant);
+          return;
+        } catch (e2) {
+          if ((e2 as Error).name === "AbortError") return;
+          setError(e2 instanceof Error ? e2.message : "AI 暂时不可用");
+        }
+      } else {
+        setError(err instanceof Error ? err.message : "AI 暂时不可用");
+      }
+
       setMessages((prev) => {
         const copy = [...prev];
         if (copy.at(-1)?.content === "") copy.pop();
@@ -114,12 +178,12 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
         <h3 className="text-[13px] font-medium text-ink">问 AI</h3>
         {mode === "mock" && (
           <span className="rounded-full bg-paper-deep px-2 py-0.5 text-[10px] text-ink-mute">
-            演示模式（未配置 Key）
+            演示模式（云模型未就绪）
           </span>
         )}
         {mode === "live" && (
           <span className="rounded-full bg-correct-soft px-2 py-0.5 text-[10px] text-correct">
-            已接入模型
+            云模型已接入
           </span>
         )}
         <button
@@ -220,4 +284,41 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
       </div>
     </aside>
   );
+}
+
+/**
+ * 服务端回退流式：云模型不可用时走 /api/ai/chat（内置演示流式）。
+ * 读 plain text 流，逐片累加并回调渲染。
+ */
+async function streamFromServer(
+  questionId: string,
+  messages: ChatMessage[],
+  controller: AbortController,
+  onChunk: (acc: string) => void,
+): Promise<void> {
+  const response = await fetch("/api/ai/chat", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    signal: controller.signal,
+    body: JSON.stringify({
+      questionId,
+      messages: messages.map((m) => ({ role: m.role, content: m.content })),
+    }),
+  });
+
+  if (!response.ok) {
+    const payload = (await response.json().catch(() => null)) as { message?: string } | null;
+    throw new Error(payload?.message ?? `请求失败（HTTP ${response.status}）`);
+  }
+  if (!response.body) throw new Error("浏览器不支持流式响应");
+
+  const reader = response.body.getReader();
+  const decoder = new TextDecoder();
+  let acc = "";
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    acc += decoder.decode(value, { stream: true });
+    onChunk(acc);
+  }
 }
