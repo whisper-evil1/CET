@@ -30,7 +30,7 @@ export default async function ProfilePage() {
         question: {
           select: {
             number: true,
-            passage: { select: { section: { select: { paper: { select: { id: true, title: true } } } } } },
+            passage: { select: { paper: { select: { id: true, title: true } } } },
           },
         },
       },
@@ -97,7 +97,7 @@ export default async function ProfilePage() {
                   {item.isCorrect ? "✓" : "✕"}
                 </span>
                 <span className="min-w-0 flex-1 truncate text-ink-soft">
-                  {item.question.passage.section.paper.title} · 第 {item.question.number} 题
+                  {item.question.passage.paper.title} · 第 {item.question.number} 题
                 </span>
                 <span className="font-mono text-[11px] text-ink-mute">
                   {new Date(item.createdAt).toLocaleDateString("zh-CN")}

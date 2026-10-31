@@ -6,8 +6,9 @@ import type { PracticePaper, SectionType } from "@/lib/types";
 type Ctx = { params: Promise<{ id: string }> };
 
 /**
- * 试卷详情：返回完整 Section 结构，但只带题干与选项，不带 answer / analysis。
- * 听力 passage 会额外返回 audioUrl 和 transcript（原文逐句）。
+ * 试卷详情：返回完整题目结构，但只带题干与选项，不带 answer / analysis。
+ * v1 数据是 Paper→Passage→Question，没有 Section 层级，
+ * 这里把所有 passage 包装进一个 reading section，保持 PracticePaper 的 sections 结构兼容前端。
  */
 export const GET = withApi(async (_request: Request, ctx: Ctx) => {
   const { id } = await ctx.params;
@@ -15,14 +16,9 @@ export const GET = withApi(async (_request: Request, ctx: Ctx) => {
   const paper = await prisma.paper.findUnique({
     where: { id },
     include: {
-      sections: {
+      passages: {
         orderBy: { order: "asc" },
-        include: {
-          passages: {
-            orderBy: { order: "asc" },
-            include: { questions: { orderBy: { order: "asc" } } },
-          },
-        },
+        include: { questions: { orderBy: { order: "asc" } } },
       },
     },
   });
@@ -35,30 +31,31 @@ export const GET = withApi(async (_request: Request, ctx: Ctx) => {
     level: paper.level,
     year: paper.year,
     month: paper.month,
-    totalTime: paper.totalTime,
-    sections: paper.sections.map((section) => ({
-      id: section.id,
-      order: section.order,
-      type: section.type as SectionType,
-      title: section.title,
-      timeLimit: section.timeLimit,
-      passages: section.passages.map((passage) => ({
-        id: passage.id,
-        order: passage.order,
-        title: passage.title,
-        paragraphs: parseParagraphs(passage.paragraphs),
-        audioUrl: passage.audioUrl,
-        audioDuration: passage.audioDuration,
-        transcript: parseTranscript(passage.transcript),
-        questions: passage.questions.map((question) => ({
-          id: question.id,
-          number: question.number,
-          stem: question.stem,
-          options: parseOptions(question.options),
-          type: question.type,
+    sections: [
+      {
+        id: `reading-${paper.id}`,
+        order: 0,
+        type: "reading" as SectionType,
+        title: "阅读",
+        timeLimit: null,
+        passages: paper.passages.map((passage) => ({
+          id: passage.id,
+          order: passage.order,
+          title: passage.title,
+          paragraphs: parseParagraphs(passage.paragraphs),
+          audioUrl: passage.audioUrl,
+          audioDuration: passage.audioDuration,
+          transcript: parseTranscript(passage.transcript),
+          questions: passage.questions.map((question) => ({
+            id: question.id,
+            number: question.number,
+            stem: question.stem,
+            options: parseOptions(question.options),
+            type: question.type,
+          })),
         })),
-      })),
-    })),
+      },
+    ],
   };
 
   return ok(data);

@@ -97,7 +97,6 @@ export type PracticePaper = {
   level: string;
   year: number | null;
   month: number | null;
-  totalTime: number;
   sections: PracticeSection[];
 };
 

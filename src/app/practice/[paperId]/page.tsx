@@ -7,7 +7,7 @@ import { PracticeShell } from "@/components/practice/practice-shell";
 
 export const dynamic = "force-dynamic";
 
-/** 刷题页：服务端把 Section 结构、题目、作答、收藏、生词本状态准备好 */
+/** 刷题页：服务端把题目、作答、收藏、生词本状态准备好 */
 export default async function PracticePage({
   params,
   searchParams,
@@ -25,60 +25,57 @@ export default async function PracticePage({
   const paper = await prisma.paper.findUnique({
     where: { id: paperId },
     include: {
-      sections: {
+      passages: {
         orderBy: { order: "asc" },
-        include: {
-          passages: {
-            orderBy: { order: "asc" },
-            include: { questions: { orderBy: { order: "asc" } } },
-          },
-        },
+        include: { questions: { orderBy: { order: "asc" } } },
       },
     },
   });
 
   if (!paper) notFound();
 
+  // v1 数据没有 Section 层级，包装成单个 reading section 给前端
   const data: PracticePaper = {
     id: paper.id,
     title: paper.title,
     level: paper.level,
     year: paper.year,
     month: paper.month,
-    totalTime: paper.totalTime,
-    sections: paper.sections.map((section) => ({
-      id: section.id,
-      order: section.order,
-      type: section.type as SectionType,
-      title: section.title,
-      timeLimit: section.timeLimit,
-      passages: section.passages.map((passage) => ({
-        id: passage.id,
-        order: passage.order,
-        title: passage.title,
-        paragraphs: parseParagraphs(passage.paragraphs),
-        audioUrl: passage.audioUrl,
-        audioDuration: passage.audioDuration,
-        transcript: parseTranscript(passage.transcript),
-        questions: passage.questions.map((question) => ({
-          id: question.id,
-          number: question.number,
-          stem: question.stem,
-          options: parseOptions(question.options),
-          type: question.type,
+    sections: [
+      {
+        id: `reading-${paper.id}`,
+        order: 0,
+        type: "reading" as SectionType,
+        title: "阅读",
+        timeLimit: null,
+        passages: paper.passages.map((passage) => ({
+          id: passage.id,
+          order: passage.order,
+          title: passage.title,
+          paragraphs: parseParagraphs(passage.paragraphs),
+          audioUrl: passage.audioUrl,
+          audioDuration: passage.audioDuration,
+          transcript: parseTranscript(passage.transcript),
+          questions: passage.questions.map((question) => ({
+            id: question.id,
+            number: question.number,
+            stem: question.stem,
+            options: parseOptions(question.options),
+            type: question.type,
+          })),
         })),
-      })),
-    })),
+      },
+    ],
   };
 
-  // Passage 通过 section 关联到 paper
+  // 作答/收藏按 passage.paperId 过滤（v1 关系）
   const [answers, favorites, vocab] = await Promise.all([
     prisma.answer.findMany({
-      where: { userId, question: { passage: { section: { paperId } } } },
+      where: { userId, question: { passage: { paperId } } },
       select: { questionId: true, choice: true, isCorrect: true, viewedAnalysis: true },
     }),
     prisma.favorite.findMany({
-      where: { userId, question: { passage: { section: { paperId } } } },
+      where: { userId, question: { passage: { paperId } } },
       select: { questionId: true },
     }),
     prisma.vocabWord.findMany({

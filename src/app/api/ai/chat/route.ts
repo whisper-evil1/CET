@@ -27,7 +27,7 @@ export const POST = withApi(async (request: Request) => {
     where: { id: body.questionId },
     include: {
       passage: {
-        include: { section: { select: { paper: { select: { title: true } } } } },
+        include: { paper: { select: { title: true } } },
       },
     },
   });
@@ -42,7 +42,7 @@ export const POST = withApi(async (request: Request) => {
   const revealAnswer = Boolean(mine);
 
   const systemPrompt = buildSystemPrompt({
-    paperTitle: question.passage.section.paper.title,
+    paperTitle: question.passage.paper.title,
     passageTitle: question.passage.title,
     paragraphs: parseParagraphs(question.passage.paragraphs),
     question: {

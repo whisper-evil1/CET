@@ -12,24 +12,25 @@ export const GET = withApi(async (request: Request) => {
     where: level ? { level } : undefined,
     orderBy: [{ sort: "asc" }],
     include: {
-      sections: {
+      passages: {
+        orderBy: { order: "asc" },
         select: {
           id: true,
-          type: true,
-          passages: { select: { _count: { select: { questions: true } } } },
+          title: true,
+          _count: { select: { questions: true } },
         },
       },
     },
   });
 
-  // Passage 不再有 paperId，通过 section 关联查
+  // 作答进度：通过 passage.paperId 反查试卷
   const answers = userId
     ? await prisma.answer.findMany({
         where: { userId },
         select: {
           isCorrect: true,
           question: {
-            select: { passage: { select: { section: { select: { paperId: true } } } } },
+            select: { passage: { select: { paperId: true } } },
           },
         },
       })
@@ -37,7 +38,7 @@ export const GET = withApi(async (request: Request) => {
 
   const byPaper = new Map<string, { answered: number; correct: number }>();
   for (const answer of answers) {
-    const paperId = answer.question.passage.section.paperId;
+    const paperId = answer.question.passage.paperId;
     const stat = byPaper.get(paperId) ?? { answered: 0, correct: 0 };
     stat.answered += 1;
     if (answer.isCorrect) stat.correct += 1;
@@ -46,13 +47,9 @@ export const GET = withApi(async (request: Request) => {
 
   const data: PaperSummary[] = papers.map((paper) => {
     const stat = byPaper.get(paper.id) ?? { answered: 0, correct: 0 };
-    // 统计所有 section 下的 passage 和 question 总数
-    const passageCount = paper.sections.reduce(
-      (sum, s) => sum + s.passages.length,
-      0,
-    );
-    const questionCount = paper.sections.reduce(
-      (sum, s) => sum + s.passages.reduce((ps, p) => ps + p._count.questions, 0),
+    const passageCount = paper.passages.length;
+    const questionCount = paper.passages.reduce(
+      (sum, p) => sum + p._count.questions,
       0,
     );
     return {
