@@ -1,0 +1,269 @@
+@import "tailwindcss";
+
+/*
+  设计方向：Editorial（报刊排版）× 纸感
+  - 文章区走暖纸底色 + 衬线正文，长时间阅读不刺眼
+  - 题目区走纯白 + 1px 细线，像答题卡
+  - 单一强调色：朱砂红（只用于当前题号、主按钮、错题判罚）
+  - 对错用绿勾/红叉（中式答题习惯），与强调色区分开
+*/
+
+@theme {
+  --color-paper: #faf8f3;
+  --color-paper-deep: #f4f1e8;
+  --color-surface: #ffffff;
+  --color-ink: #17181a;
+  --color-ink-soft: #43454a;
+  --color-ink-mute: #86888d;
+  --color-line: #e3ddd0;
+  --color-line-soft: #efeae0;
+  --color-accent: #a6392b;
+  --color-accent-soft: #f6e7e3;
+  --color-correct: #2e6b4f;
+  --color-correct-soft: #e8f2ec;
+  --color-wrong: #a6392b;
+  --color-wrong-soft: #f8e9e6;
+  --color-mark: #fbeeb0;
+  --color-mark-hover: #f7e394;
+  --color-highlight: #fff3c4;
+
+  --font-serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia,
+    "Times New Roman", "Songti SC", serif;
+  --font-sans: "HarmonyOS Sans SC", "PingFang SC", "Source Han Sans SC", "Noto Sans SC",
+    "Microsoft YaHei", system-ui, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", "Cascadia Mono", Consolas, monospace;
+
+  --radius-card: 10px;
+  --ease-out-soft: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+:root {
+  --article-size: 17px;
+  --article-leading: 1.85;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-feature-settings: "tnum" 1;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* ---------- 纸张质感：极淡的横向纹理，靠 CSS 渐变实现，零图片请求 ---------- */
+.paper-grain::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image: repeating-linear-gradient(
+    0deg,
+    rgba(120, 100, 70, 0.022) 0px,
+    rgba(120, 100, 70, 0.022) 1px,
+    transparent 1px,
+    transparent 3px
+  );
+  mix-blend-mode: multiply;
+  opacity: 0.7;
+}
+
+/* ---------- 文章正文 ---------- */
+.article-body {
+  font-family: var(--font-serif);
+  font-size: var(--article-size);
+  line-height: var(--article-leading);
+  letter-spacing: 0.008em;
+  color: #23242a;
+}
+
+.article-body p {
+  margin: 0;
+}
+
+/* 单词级点击 */
+.word {
+  cursor: pointer;
+  border-radius: 2px;
+  padding: 0 0.5px;
+  transition: background-color 120ms ease, color 120ms ease;
+}
+.word:hover {
+  background-color: rgba(166, 57, 43, 0.1);
+  box-shadow: inset 0 -1px 0 rgba(166, 57, 43, 0.45);
+}
+.word:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 1px;
+}
+.word-in-vocab {
+  background-color: var(--color-mark);
+  box-shadow: inset 0 -1.5px 0 rgba(166, 57, 43, 0.35);
+}
+.word-in-vocab:hover {
+  background-color: var(--color-mark-hover);
+}
+
+/* 段落高亮（依据句定位） */
+.para-flash {
+  animation: paraFlash 1.5s var(--ease-out-soft);
+}
+@keyframes paraFlash {
+  0% {
+    background-color: var(--color-highlight);
+    box-shadow: 0 0 0 8px var(--color-highlight);
+  }
+  100% {
+    background-color: transparent;
+    box-shadow: 0 0 0 8px transparent;
+  }
+}
+
+/* ---------- 细滚动条：两栏各自滚动时不抢视觉 ---------- */
+.scroll-pane {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+}
+.scroll-pane::-webkit-scrollbar {
+  width: 10px;
+}
+.scroll-pane::-webkit-scrollbar-thumb {
+  background-color: rgba(120, 100, 70, 0.18);
+  border: 3px solid transparent;
+  background-clip: content-box;
+  border-radius: 99px;
+}
+.scroll-pane::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(120, 100, 70, 0.34);
+}
+.scroll-pane::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* ---------- 入场编排：一次性错落淡入 ---------- */
+@keyframes riseIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.rise-in {
+  animation: riseIn 420ms var(--ease-out-soft) both;
+}
+
+@keyframes drawerIn {
+  from {
+    opacity: 0;
+    transform: translateX(16px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.drawer-in {
+  animation: drawerIn 220ms var(--ease-out-soft) both;
+}
+
+@keyframes cardIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px) scale(0.99);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.card-in {
+  animation: cardIn 180ms var(--ease-out-soft) both;
+}
+
+/* AI 流式输出的光标 */
+.caret::after {
+  content: "";
+  display: inline-block;
+  width: 2px;
+  height: 1em;
+  margin-left: 2px;
+  vertical-align: -0.12em;
+  background: var(--color-accent);
+  animation: blink 1s steps(2, start) infinite;
+}
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+/* 焦点可见性：键盘可达性硬要求 */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* markdown 渲染（AI 回答 / 解析） */
+.prose-tight {
+  font-size: 14px;
+  line-height: 1.75;
+  color: var(--color-ink-soft);
+}
+.prose-tight > * + * {
+  margin-top: 0.65em;
+}
+.prose-tight strong {
+  color: var(--color-ink);
+  font-weight: 600;
+}
+.prose-tight ul,
+.prose-tight ol {
+  padding-left: 1.15em;
+  list-style: disc;
+}
+.prose-tight ol {
+  list-style: decimal;
+}
+.prose-tight code {
+  font-family: var(--font-mono);
+  font-size: 0.92em;
+  background: var(--color-paper-deep);
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+}
+.prose-tight blockquote {
+  border-left: 2px solid var(--color-line);
+  padding-left: 0.8em;
+  color: var(--color-ink-mute);
+}
+.prose-tight h1,
+.prose-tight h2,
+.prose-tight h3 {
+  font-weight: 600;
+  color: var(--color-ink);
+  font-size: 1em;
+}
