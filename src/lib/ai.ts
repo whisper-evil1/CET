@@ -85,24 +85,56 @@ ${optionAnalysis}
 
 /* ---------------- 流式：真实模型 ---------------- */
 
+/** 连接超时（建立连接阶段），默认 20s */
+const CONNECTION_TIMEOUT_MS = Number(process.env.AI_CONNECT_TIMEOUT_MS ?? "20000");
+/** 每个数据块之间的最大间隔，默认 12s（上游连上但迟迟不吐字时触发） */
+const CHUNK_TIMEOUT_MS = Number(process.env.AI_CHUNK_TIMEOUT_MS ?? "12000");
+
+async function fetchWithTimeout(
+  url: string,
+  init: RequestInit,
+  timeoutMs: number,
+): Promise<Response> {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    return await fetch(url, { ...init, signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 export async function streamFromProvider(
   messages: ChatMessage[],
   config: AiConfig,
 ): Promise<ReadableStream<Uint8Array>> {
-  const response = await fetch(`${config.baseUrl}/chat/completions`, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${config.apiKey}`,
-    },
-    body: JSON.stringify({
-      model: config.model,
-      messages,
-      stream: true,
-      temperature: 0.3,
-      max_tokens: 900,
-    }),
-  });
+  let response: Response;
+  try {
+    response = await fetchWithTimeout(
+      `${config.baseUrl}/chat/completions`,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${config.apiKey}`,
+        },
+        body: JSON.stringify({
+          model: config.model,
+          messages,
+          stream: true,
+          temperature: 0.3,
+          max_tokens: 900,
+        }),
+      },
+      CONNECTION_TIMEOUT_MS,
+    );
+  } catch (error) {
+    const msg =
+      error instanceof Error && error.name === "AbortError"
+        ? "模型接口连接超时"
+        : `模型接口连接失败：${error instanceof Error ? error.message : "未知错误"}`;
+    throw new Error(msg);
+  }
 
   if (!response.ok || !response.body) {
     const detail = await response.text().catch(() => "");
@@ -120,7 +152,10 @@ export async function streamFromProvider(
       let buffer = "";
       try {
         while (true) {
+          // 每个 chunk 之间加超时，避免上游连上后一直不吐字把连接挂死
+          const timer = setTimeout(() => reader.cancel("chunk-timeout"), CHUNK_TIMEOUT_MS);
           const { done, value } = await reader.read();
+          clearTimeout(timer);
           if (done) break;
           buffer += decoder.decode(value, { stream: true });
           const lines = buffer.split("\n");
@@ -143,7 +178,9 @@ export async function streamFromProvider(
         }
       } catch (error) {
         controller.enqueue(
-          encoder.encode(`\n\n> 连接中断：${error instanceof Error ? error.message : "未知错误"}`),
+          encoder.encode(
+            `\n\n> 连接中断：${error instanceof Error ? error.message : "未知错误"}，已切换到演示模式。`,
+          ),
         );
       } finally {
         controller.close();

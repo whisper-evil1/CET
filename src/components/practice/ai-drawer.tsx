@@ -105,6 +105,13 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
     const canUseCloud =
       Boolean(cloud && modelRef.current && systemPromptRef.current && !cloudFailedRef.current);
 
+    // 云 LLM 兜底超时：15s 没拿到第一个 chunk 就放弃，快速回退到服务端演示流
+    let cloudTimedOut = false;
+    const cloudTimer = setTimeout(() => {
+      cloudTimedOut = true;
+      controller.abort();
+    }, 15000);
+
     try {
       if (canUseCloud) {
         setMode("live");
@@ -125,6 +132,7 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
 
         let acc = "";
         for await (const chunk of stream) {
+          clearTimeout(cloudTimer); // 第一个 chunk 到达即取消超时
           const delta = chunk.choices[0]?.delta?.content;
           if (delta) {
             acc += delta;
@@ -137,14 +145,20 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
         await streamFromServer(questionId, nextMessages, controller, appendAssistant);
       }
     } catch (err) {
-      if ((err as Error).name === "AbortError") return;
+      // 超时触发的 abort 不算用户主动停止，需要走回退流程
+      const isUserAbort =
+        (err as Error).name === "AbortError" && !cloudTimedOut;
+      if (isUserAbort) return;
 
-      // 云 LLM 失败时自动回退一次到服务端演示流式
+      // 云 LLM 失败/超时时自动回退一次到服务端演示流式
       if (canUseCloud) {
         cloudFailedRef.current = true;
         setMode("mock");
         try {
-          await streamFromServer(questionId, nextMessages, controller, appendAssistant);
+          // 回退时新建一个 controller，因为原 controller 可能已被超时 abort
+          const fbController = new AbortController();
+          abortRef.current = fbController;
+          await streamFromServer(questionId, nextMessages, fbController, appendAssistant);
           return;
         } catch (e2) {
           if ((e2 as Error).name === "AbortError") return;
@@ -160,6 +174,7 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
         return copy;
       });
     } finally {
+      clearTimeout(cloudTimer);
       setStreaming(false);
       abortRef.current = null;
     }
@@ -296,29 +311,43 @@ async function streamFromServer(
   controller: AbortController,
   onChunk: (acc: string) => void,
 ): Promise<void> {
-  const response = await fetch("/api/ai/chat", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    signal: controller.signal,
-    body: JSON.stringify({
-      questionId,
-      messages: messages.map((m) => ({ role: m.role, content: m.content })),
-    }),
-  });
+  // 客户端兜底超时：服务端已加超时，这里再兜一层，30s 没拿完就报错，绝不无限挂起
+  let timedOut = false;
+  const clientTimer = setTimeout(() => {
+    timedOut = true;
+    controller.abort();
+  }, 30000);
 
-  if (!response.ok) {
-    const payload = (await response.json().catch(() => null)) as { message?: string } | null;
-    throw new Error(payload?.message ?? `请求失败（HTTP ${response.status}）`);
-  }
-  if (!response.body) throw new Error("浏览器不支持流式响应");
+  try {
+    const response = await fetch("/api/ai/chat", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      signal: controller.signal,
+      body: JSON.stringify({
+        questionId,
+        messages: messages.map((m) => ({ role: m.role, content: m.content })),
+      }),
+    });
 
-  const reader = response.body.getReader();
-  const decoder = new TextDecoder();
-  let acc = "";
-  while (true) {
-    const { done, value } = await reader.read();
-    if (done) break;
-    acc += decoder.decode(value, { stream: true });
-    onChunk(acc);
+    if (!response.ok) {
+      const payload = (await response.json().catch(() => null)) as { message?: string } | null;
+      throw new Error(payload?.message ?? `请求失败（HTTP ${response.status}）`);
+    }
+    if (!response.body) throw new Error("浏览器不支持流式响应");
+
+    const reader = response.body.getReader();
+    const decoder = new TextDecoder();
+    let acc = "";
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      acc += decoder.decode(value, { stream: true });
+      onChunk(acc);
+    }
+  } catch (err) {
+    if (timedOut) throw new Error("AI 响应超时（30s），请重试");
+    throw err;
+  } finally {
+    clearTimeout(clientTimer);
   }
 }
