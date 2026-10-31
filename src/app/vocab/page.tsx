@@ -1,7 +1,7 @@
 import { redirect } from "next/navigation";
 import { auth } from "@/lib/auth";
 import { SiteHeader } from "@/components/site-header";
-import { VocabClient } from "@/components/vocab/vocab-client";
+import { VocabApp } from "@/components/vocab/vocab-app";
 
 export const dynamic = "force-dynamic";
 
@@ -13,7 +13,7 @@ export default async function VocabPage() {
     <div className="min-h-screen">
       <SiteHeader active="vocab" />
       <main className="pt-2">
-        <VocabClient />
+        <VocabApp />
       </main>
     </div>
   );
