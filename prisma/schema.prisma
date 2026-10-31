@@ -1,0 +1,155 @@
+// 数据模型：严格对齐 PRD 第五章。
+// 说明：本地开发用 SQLite（零依赖，一条命令跑起来）。
+// SQLite 不支持 Prisma 的 Json 原生类型，因此 JSON 字段统一用 String 存序列化文本，
+// 由 src/lib/db-mappers.ts 负责 parse/stringify，业务层拿到的永远是强类型对象。
+// 迁到 PostgreSQL 时：datasource.provider 改 postgresql，并把下列 String 字段改回 Json 即可。
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  password  String
+  name      String?
+  avatar    String?
+  createdAt DateTime @default(now())
+
+  comments  Comment[]
+  vocab     VocabWord[]
+  favorites Favorite[]
+  answers   Answer[]
+}
+
+model Paper {
+  id       String    @id @default(cuid())
+  title    String
+  level    String // CET4 | CET6
+  year     Int?
+  month    Int?
+  sort     Int       @default(0)
+  passages Passage[]
+}
+
+model Passage {
+  id         String     @id @default(cuid())
+  paperId    String
+  paper      Paper      @relation(fields: [paperId], references: [id], onDelete: Cascade)
+  order      Int
+  title      String?
+  /// [{ label: "A", text: "..." }] 序列化后的 JSON 文本
+  paragraphs String
+  questions  Question[]
+
+  @@index([paperId, order])
+}
+
+model Question {
+  id             String   @id @default(cuid())
+  passageId      String
+  passage        Passage  @relation(fields: [passageId], references: [id], onDelete: Cascade)
+  order          Int
+  number         Int      @default(0) // 卷面题号，如 41
+  stem           String
+  /// [{ key: "A", text: "..." }]
+  options        String
+  answer         String
+  analysis       String
+  /// { A: "为什么错", B: "..." }
+  optionAnalysis String?
+  evidencePara   String? // 依据段落 label，如 "C"
+  evidenceText   String? // 依据原句，前端做高亮定位
+  type           String? // 细节题 | 主旨题 | 推断题 | 词义题 | 态度题
+  comments       Comment[]
+  favorites      Favorite[]
+  answers        Answer[]
+
+  @@index([passageId, order])
+}
+
+model Answer {
+  id             String   @id @default(cuid())
+  userId         String
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questionId     String
+  question       Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  choice         String
+  isCorrect      Boolean
+  viewedAnalysis Boolean  @default(false)
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  @@unique([userId, questionId])
+  @@index([userId, createdAt])
+}
+
+model Comment {
+  id         String    @id @default(cuid())
+  userId     String
+  user       User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questionId String
+  question   Question  @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  content    String
+  visibility String    @default("private") // private | public
+  parentId   String?
+  parent     Comment?  @relation("Reply", fields: [parentId], references: [id], onDelete: Cascade)
+  replies    Comment[] @relation("Reply")
+  likes      Int       @default(0)
+  createdAt  DateTime  @default(now())
+
+  @@index([questionId, visibility])
+  @@index([userId])
+}
+
+model VocabWord {
+  id              String   @id @default(cuid())
+  userId          String
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word            String
+  phonetic        String?
+  /// [{ pos: "n.", zh: "..." }]
+  definitions     String
+  example         String?
+  exampleZh       String?
+  sourceContext   String?
+  sourcePassageId String?
+  reviewCount     Int      @default(0)
+  correctStreak   Int      @default(0)
+  status          String   @default("learning") // learning | mastered
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@unique([userId, word])
+  @@index([userId, status])
+}
+
+model Favorite {
+  id         String   @id @default(cuid())
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  createdAt  DateTime @default(now())
+
+  @@unique([userId, questionId])
+  @@index([userId])
+}
+
+/// 词典结果缓存：同一单词只查一次，之后走本地库
+model DictionaryEntry {
+  id          String   @id @default(cuid())
+  word        String   @unique
+  phonetic    String?
+  /// [{ pos: "n.", zh: "..." }]
+  definitions String
+  /// [{ en: "...", zh: "..." }]
+  examples    String?
+  source      String   @default("builtin") // builtin | ai | api
+  fetchedAt   DateTime @default(now())
+}
