@@ -51,6 +51,7 @@ export const POST = withApi(async (request: Request) => {
       stem: question.stem,
       options: JSON.parse(question.options) as { key: string; text: string }[],
       type: question.type,
+      analysis: question.analysis,
     },
     myChoice: mine?.choice ?? null,
     correctAnswer: revealAnswer ? question.answer : null,

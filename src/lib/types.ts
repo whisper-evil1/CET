@@ -72,6 +72,8 @@ export type PracticeQuestion = {
   stem: string;
   options: QuestionOption[];
   type: string | null;
+  /** 参考要点/解析（写作翻译展示参考范文，阅读听力展示解析） */
+  analysis: string;
 };
 
 /** 听力题目（含证据句 id，提交后才返回） */

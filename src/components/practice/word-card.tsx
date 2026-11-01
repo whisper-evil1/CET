@@ -121,14 +121,31 @@ export function WordCard({ payload, passageId, onClose }: Props) {
     };
   }, [onClose]);
 
-  /* ---------- 发音 ---------- */
+  /* ---------- 发音 ----------
+   * 不用浏览器内置 speechSynthesis（iOS Safari 经常无声、Android 各厂 TTS 音色不一），
+   * 改用有道词典在线发音 MP3，手机浏览器原生 <audio> 即可播放，兼容性最好。
+   * type=1 美式，type=2 英式；这里默认美式。
+   */
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const [accent, setAccent] = useState<"us" | "uk">("us");
+
+  // 单词变了就重新设置 audio src
+  useEffect(() => {
+    const word = entry?.word ?? payload.word;
+    if (!word || !audioRef.current) return;
+    const type = accent === "us" ? 1 : 2;
+    audioRef.current.src = `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(word)}&type=${type}`;
+    audioRef.current.load();
+  }, [entry?.word, payload.word, accent]);
+
   const speak = () => {
-    if (typeof window === "undefined" || !("speechSynthesis" in window)) return;
-    const utter = new SpeechSynthesisUtterance(entry?.word ?? payload.word);
-    utter.lang = "en-US";
-    utter.rate = 0.9;
-    window.speechSynthesis.cancel();
-    window.speechSynthesis.speak(utter);
+    audioRef.current?.play().catch(() => {
+      // 播放失败（如离线）时静默降级，不打断用户
+    });
+  };
+
+  const toggleAccent = () => {
+    setAccent((a) => (a === "us" ? "uk" : "us"));
   };
 
   /* ---------- 加入生词库 ---------- */
@@ -191,15 +208,27 @@ export function WordCard({ payload, passageId, onClose }: Props) {
             <p className="mt-0.5 font-mono text-[12px] text-ink-mute">{entry.phonetic}</p>
           )}
         </div>
+        {/* 发音按钮：美式/英式切换，点击播放 */}
         <button
           type="button"
           onClick={speak}
           aria-label="朗读单词"
-          title="朗读"
-          className="mt-0.5 h-7 w-7 shrink-0 rounded-full border border-line text-[12px] text-ink-soft transition-colors hover:border-ink-mute hover:text-accent"
+          title={`${accent === "us" ? "美式" : "英式"}发音，点击切换`}
+          className="mt-0.5 h-7 shrink-0 rounded-full border border-line px-2 text-[11px] text-ink-soft transition-colors hover:border-ink-mute hover:text-accent"
         >
-          🔊
+          🔊 {accent === "us" ? "US" : "UK"}
         </button>
+        <button
+          type="button"
+          onClick={toggleAccent}
+          aria-label="切换美式/英式发音"
+          title="切换美音/英音"
+          className="mt-0.5 h-7 w-7 shrink-0 rounded-full text-[10px] text-ink-mute transition-colors hover:text-ink"
+        >
+          ⇄
+        </button>
+        {/* 隐藏的 audio 元素，实际播放靠它；preload="none" 避免未点击就下载 */}
+        <audio ref={audioRef} preload="none" className="hidden" />
         <button
           type="button"
           onClick={onClose}

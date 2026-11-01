@@ -68,6 +68,11 @@ export default async function PracticePage({
               stem: question.stem,
               options: parseOptions(question.options),
               type: question.type,
+              // 写作/翻译参考要点直接展示；阅读/听力解析提交后才返回，防泄露
+              analysis:
+                question.type === "writing" || question.type === "translation"
+                  ? question.analysis
+                  : "",
             })),
           })),
         }))
@@ -92,6 +97,7 @@ export default async function PracticePage({
                 stem: question.stem,
                 options: parseOptions(question.options),
                 type: question.type,
+                analysis: "",
               })),
             })),
           },

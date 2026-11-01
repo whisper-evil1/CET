@@ -52,6 +52,11 @@ export const GET = withApi(async (_request: Request, ctx: Ctx) => {
             stem: question.stem,
             options: parseOptions(question.options),
             type: question.type,
+            // 写作/翻译的参考要点可直接展示；阅读/听力解析在提交答案后由 /api/answers 返回，避免首屏泄露
+            analysis:
+              question.type === "writing" || question.type === "translation"
+                ? question.analysis
+                : "",
           })),
         })),
       },

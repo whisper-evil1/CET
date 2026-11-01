@@ -47,6 +47,8 @@ type SeedWritingQuestion = {
   number: number;
   stem: string;
   directions: string;
+  /** 参考范文/参考译文，展示在"参考要点"里 */
+  reference: string;
 };
 
 /* ============================ CET4 ============================ */
@@ -113,6 +115,8 @@ const cet4WritingQuestions: SeedWritingQuestion[] = [
     number: 1,
     stem: "For this part, you are allowed 30 minutes to write a short essay on the importance of handwriting. You should write at least 120 words but no more than 180 words.",
     directions: "In this section, you will write an essay based on the following outline:\n1. 手写笔记在数字时代仍然重要\n2. 分析原因（至少两点）\n3. 你的结论",
+    reference:
+      "【参考范文】\nThe Importance of Handwriting in the Digital Age\n\nIn an era dominated by smartphones and laptops, handwriting may seem outdated. However, it remains an essential skill that we should not abandon.\n\nThere are two main reasons why handwriting still matters. First, it enhances memory and learning. Research shows that students who take notes by hand retain information better than those who type, because writing forces the brain to process content more deeply. Second, handwriting is a form of personal expression. A handwritten letter or note carries warmth and individuality that a typed message can never match.\n\nIn conclusion, despite the convenience of digital devices, handwriting continues to play a valuable role in our lives. We should make time to practice it regularly.\n\n（约 150 词）",
   },
 ];
 
@@ -122,6 +126,8 @@ const cet4TranslationQuestions: SeedWritingQuestion[] = [
     number: 1,
     stem: "For this part, you are allowed 30 minutes to translate the following passage into English.",
     directions: "在中国，书法（calligraphy）自古以来被视为一种高雅的艺术形式。许多人认为，练习书法不仅能培养耐心，还能提高专注力。尽管现代人更多地使用电脑和手机打字，但仍有不少人坚持每天手写。他们相信，手写是一种与内心对话的方式，有助于在快节奏的生活中找到平静。",
+    reference:
+      "【参考译文】\nIn China, calligraphy has been regarded as an elegant art form since ancient times. Many people believe that practicing calligraphy not only cultivates patience but also improves concentration. Although modern people more often type on computers and mobile phones, a considerable number still insist on writing by hand every day. They believe that handwriting is a way to converse with one's inner self and helps find peace in a fast-paced life.\n\n【要点提示】\n- 自古以来：since ancient times\n- 高雅的艺术形式：an elegant art form\n- 培养耐心：cultivate patience\n- 提高专注力：improve concentration / enhance focus\n- 与内心对话：converse with one's inner self",
   },
 ];
 
@@ -267,6 +273,140 @@ const cet4Passage: SeedPassage = {
   ],
 };
 
+/* --- CET4 阅读第二篇：社交媒体与心理健康 --- */
+const cet4Passage2: SeedPassage = {
+  title: "The Double-Edged Sword of Social Media",
+  paragraphs: [
+    {
+      label: "A",
+      text: "Social media has become an inseparable part of daily life for billions of people around the world. Platforms such as WeChat, TikTok, and Instagram allow users to share moments, stay connected with friends, and access information instantly. For many young people, checking social media is the first thing they do in the morning and the last thing before sleep.",
+    },
+    {
+      label: "B",
+      text: "However, a growing body of research suggests that excessive use of social media may harm mental health. A 2023 study published in the Journal of Youth and Adolescence found that teenagers who spent more than three hours a day on social media were 60% more likely to report symptoms of anxiety and depression. The constant comparison with others' seemingly perfect lives often leads to feelings of inadequacy and low self-esteem.",
+    },
+    {
+      label: "C",
+      text: "Moreover, social media can disrupt sleep patterns. The blue light emitted by screens suppresses the production of melatonin, a hormone that regulates sleep. Many users admit to losing sleep because they cannot stop scrolling through their feeds, which in turn affects their academic performance and mood the next day.",
+    },
+    {
+      label: "D",
+      text: "On the positive side, social media provides valuable support networks. People facing rare illnesses or social isolation can find communities that offer emotional support and practical advice. It also serves as a powerful tool for education and social activism, raising awareness about important issues.",
+    },
+    {
+      label: "E",
+      text: "Experts argue that the key is not to abandon social media entirely but to use it mindfully. Setting time limits, curating one's feed to include positive content, and taking regular digital breaks can help reduce the negative effects. As with many technologies, the impact of social media depends largely on how we choose to use it.",
+    },
+  ],
+  questions: [
+    {
+      number: 51,
+      stem: "What is the main idea of the passage?",
+      options: [
+        { key: "A", text: "Social media should be banned among teenagers." },
+        { key: "B", text: "Social media has both benefits and drawbacks that depend on usage." },
+        { key: "C", text: "Social media is the leading cause of mental illness." },
+        { key: "D", text: "Social media has improved global communication beyond measure." },
+      ],
+      answer: "B",
+      analysis: "主旨题。文章既讲社交媒体的危害（B、C段），又讲好处（D段），末段E总结关键在于 mindful use。B 准确概括了'双刃剑'主旨。",
+      optionAnalysis: {
+        A: "作者从未主张全面禁止，属于过度推断。",
+        B: "正确。对应全文结构：危害 + 好处 + 合理使用建议。",
+        C: "leading cause 言过其实，原文说 may harm，不是主因。",
+        D: "只讲好处，以偏概全。",
+      },
+      evidencePara: "E",
+      evidenceText: "the impact of social media depends largely on how we choose to use it",
+      type: "主旨题",
+    },
+    {
+      number: 52,
+      stem: "According to the 2023 study, what increases the risk of anxiety among teenagers?",
+      options: [
+        { key: "A", text: "Using social media for more than three hours daily." },
+        { key: "B", text: "Sharing personal photos online." },
+        { key: "C", text: "Having fewer than 100 followers." },
+        { key: "D", text: "Reading news on social media." },
+      ],
+      answer: "A",
+      analysis: "细节题。B 段第三句：teenagers who spent more than three hours a day on social media were 60% more likely to report symptoms of anxiety and depression。A 直接对应。",
+      optionAnalysis: {
+        A: "正确。对应「more than three hours a day」。",
+        B: "发照片原文未提。",
+        C: "粉丝数原文未提。",
+        D: "看新闻原文未提。",
+      },
+      evidencePara: "B",
+      evidenceText: "teenagers who spent more than three hours a day on social media were 60% more likely to report symptoms of anxiety",
+      type: "细节题",
+    },
+    {
+      number: 53,
+      stem: "Why does social media affect sleep according to the passage?",
+      options: [
+        { key: "A", text: "Because it makes users feel hungry." },
+        { key: "B", text: "Because blue light reduces melatonin production." },
+        { key: "C", text: "Because the noise from notifications is too loud." },
+        { key: "D", text: "Because users exercise less during the day." },
+      ],
+      answer: "B",
+      analysis: "细节题。C 段第二句：The blue light emitted by screens suppresses the production of melatonin, a hormone that regulates sleep。B 是原句改写。",
+      optionAnalysis: {
+        A: "饥饿与睡眠无关，原文未提。",
+        B: "正确。蓝光抑制褪黑素。",
+        C: "通知噪音原文未提。",
+        D: "运动少不是文中给出的原因。",
+      },
+      evidencePara: "C",
+      evidenceText: "The blue light emitted by screens suppresses the production of melatonin",
+      type: "细节题",
+    },
+    {
+      number: 54,
+      stem: "What positive role does social media play according to Paragraph D?",
+      options: [
+        { key: "A", text: "It helps users earn money online." },
+        { key: "B", text: "It provides support communities and educational value." },
+        { key: "C", text: "It replaces traditional doctors and therapists." },
+        { key: "D", text: "It guarantees a good night's sleep." },
+      ],
+      answer: "B",
+      analysis: "细节题。D 段提到 support networks、communities、education and social activism。B 概括了这些正面作用。",
+      optionAnalysis: {
+        A: "赚钱原文未提。",
+        B: "正确。对应 support networks + education and social activism。",
+        C: "取代医生过度推断，原文只说提供情感支持。",
+        D: "与 C 段相反，社交媒体影响睡眠。",
+      },
+      evidencePara: "D",
+      evidenceText: "social media provides valuable support networks... It also serves as a powerful tool for education and social activism",
+      type: "细节题",
+    },
+    {
+      number: 55,
+      stem: "What suggestion do experts give about using social media?",
+      options: [
+        { key: "A", text: "Stop using all social media platforms." },
+        { key: "B", text: "Use it only for academic purposes." },
+        { key: "C", text: "Use it mindfully with time limits and digital breaks." },
+        { key: "D", text: "Increase the number of followers gradually." },
+      ],
+      answer: "C",
+      analysis: "细节题。E 段：the key is not to abandon social media entirely but to use it mindfully. Setting time limits... taking regular digital breaks。C 完整对应。",
+      optionAnalysis: {
+        A: "与原文 not to abandon entirely 相反。",
+        B: "only for academic 原文未提。",
+        C: "正确。mindfully + time limits + digital breaks。",
+        D: "粉丝数原文未提。",
+      },
+      evidencePara: "E",
+      evidenceText: "the key is not to abandon social media entirely but to use it mindfully. Setting time limits... taking regular digital breaks",
+      type: "细节题",
+    },
+  ],
+};
+
 /* ============================ CET6 ============================ */
 
 /* 六级听力：长对话风格，素材为公开授权教育内容 */
@@ -330,6 +470,8 @@ const cet6WritingQuestions: SeedWritingQuestion[] = [
     number: 1,
     stem: "For this part, you are allowed 30 minutes to write an essay commenting on the remark \"Technology is a useful servant but a dangerous master.\" You should write at least 150 words but no more than 200 words.",
     directions: "请围绕以下要点展开：\n1. 解释这句话的含义\n2. 以教育领域的 AI 应用为例论证\n3. 给出你的观点和建议",
+    reference:
+      "【参考范文】\nTechnology: Servant or Master?\n\nThe remark \"Technology is a useful servant but a dangerous master\" reveals a fundamental truth about our relationship with innovation: tools should serve human purposes, not dictate them.\n\nNowhere is this tension clearer than in education. Artificial intelligence has brought remarkable benefits — intelligent tutoring systems offer personalized practice, and automated grading frees teachers to focus on mentoring. Yet when technology becomes the master, problems emerge. Students may over-rely on AI-generated answers and lose the ability to think independently. Worse, algorithms can reinforce bias and erode data privacy.\n\nIn my view, the solution lies in human-centered design. Schools should treat AI as an assistant, not a replacement. Teachers must guide students to use technology critically, while policymakers safeguard privacy. Only when technology remains a faithful servant can education truly flourish.\n\n（约 175 词）",
   },
 ];
 
@@ -338,6 +480,8 @@ const cet6TranslationQuestions: SeedWritingQuestion[] = [
     number: 1,
     stem: "For this part, you are allowed 30 minutes to translate the following passage into English.",
     directions: "近年来，人工智能（artificial intelligence）在教育领域的应用日益广泛。从智能辅导系统到自动批改作业，AI 技术正在改变传统的教学方式。然而，专家指出，技术应该服务于教育目标，而不是主导教育。教师的角色不仅仅是传授知识，更重要的是激发学生的好奇心和创造力。因此，在拥抱技术的同时，我们也需要警惕其可能带来的风险，如数据隐私和学生过度依赖等问题。",
+    reference:
+      "【参考译文】\nIn recent years, the application of artificial intelligence in education has become increasingly widespread. From intelligent tutoring systems to automated assignment grading, AI technology is transforming traditional teaching methods. However, experts point out that technology should serve educational goals rather than dominate education. The role of teachers is not merely to impart knowledge; more importantly, it is to stimulate students' curiosity and creativity. Therefore, while embracing technology, we also need to be alert to the potential risks it may bring, such as data privacy and excessive student dependence.\n\n【要点提示】\n- 日益广泛：increasingly widespread\n- 智能辅导系统：intelligent tutoring systems\n- 自动批改作业：automated assignment grading\n- 传授知识：impart knowledge\n- 激发好奇心和创造力：stimulate curiosity and creativity\n- 警惕风险：be alert to risks",
   },
 ];
 
@@ -482,6 +626,140 @@ const cet6Passage: SeedPassage = {
   ],
 };
 
+/* --- CET6 阅读第二篇：远程办公的未来 --- */
+const cet6Passage2: SeedPassage = {
+  title: "The Future of Remote Work",
+  paragraphs: [
+    {
+      label: "A",
+      text: "The COVID-19 pandemic forced millions of white-collar workers into an unprecedented experiment: working from home. What began as a temporary emergency measure has, for many, become a permanent arrangement. Companies that once insisted on daily office attendance now embrace hybrid or fully remote models, and employees have come to value the flexibility that comes with it.",
+    },
+    {
+      label: "B",
+      text: "The benefits are well documented. A 2024 Stanford study of 16,000 employees found that remote workers were 13% more productive than their office-based counterparts, largely due to fewer distractions and reduced commute times. Employees also reported higher job satisfaction and lower turnover, which translates into significant cost savings for employers.",
+    },
+    {
+      label: "C",
+      text: "Yet remote work is not without challenges. Many employees struggle with isolation and blurred boundaries between work and personal life. Without the informal interactions of an office, collaboration can become slower and creativity may suffer. Junior employees, in particular, miss out on the spontaneous mentoring that happens naturally when colleagues work side by side.",
+    },
+    {
+      label: "D",
+      text: "The hybrid model — combining days in the office with days at home — has emerged as a compromise. Proponents argue that it captures the best of both worlds: focused, uninterrupted work at home and collaborative, relationship-building time in the office. However, critics point out that hybrid schedules can create new inequalities, as remote days are viewed as less committed by some managers.",
+    },
+    {
+      label: "E",
+      text: "Ultimately, the future of work will likely not be a one-size-fits-all solution. Different industries, roles, and individuals will gravitate toward different arrangements. What is clear is that the genie is out of the bottle: employees have tasted flexibility and are unlikely to give it up willingly. Companies that adapt will attract talent; those that resist may find themselves at a competitive disadvantage.",
+    },
+  ],
+  questions: [
+    {
+      number: 51,
+      stem: "What does the Stanford study suggest about remote work?",
+      options: [
+        { key: "A", text: "It reduces productivity due to lack of supervision." },
+        { key: "B", text: "It increases productivity by 13% mainly through fewer distractions." },
+        { key: "C", text: "It has no measurable effect on productivity." },
+        { key: "D", text: "It only works for senior employees." },
+      ],
+      answer: "B",
+      analysis: "细节题。B 段第二句：remote workers were 13% more productive... largely due to fewer distractions and reduced commute times。B 准确对应。",
+      optionAnalysis: {
+        A: "与原文相反，原文说生产力提升。",
+        B: "正确。13% more productive + fewer distractions。",
+        C: "与原文相反。",
+        D: "only for senior 原文未提。",
+      },
+      evidencePara: "B",
+      evidenceText: "remote workers were 13% more productive than their office-based counterparts, largely due to fewer distractions",
+      type: "细节题",
+    },
+    {
+      number: 52,
+      stem: "According to Paragraph C, what is a disadvantage of remote work for junior employees?",
+      options: [
+        { key: "A", text: "They earn less than office workers." },
+        { key: "B", text: "They miss informal mentoring opportunities." },
+        { key: "C", text: "They have to work longer hours." },
+        { key: "D", text: "They cannot use company equipment." },
+      ],
+      answer: "B",
+      analysis: "细节题。C 段末句：Junior employees, in particular, miss out on the spontaneous mentoring that happens naturally when colleagues work side by side。B 直接对应。",
+      optionAnalysis: {
+        A: "薪资原文未提。",
+        B: "正确。miss out on the spontaneous mentoring。",
+        C: "更长工时原文未提。",
+        D: "设备原文未提。",
+      },
+      evidencePara: "C",
+      evidenceText: "Junior employees... miss out on the spontaneous mentoring",
+      type: "细节题",
+    },
+    {
+      number: 53,
+      stem: "What is the main criticism of the hybrid model mentioned in the passage?",
+      options: [
+        { key: "A", text: "It is too expensive for small companies." },
+        { key: "B", text: "It requires advanced technology that most firms lack." },
+        { key: "C", text: "It may create inequalities because remote days are seen as less committed." },
+        { key: "D", text: "It reduces productivity more than fully remote work." },
+      ],
+      answer: "C",
+      analysis: "细节题。D 段末句：critics point out that hybrid schedules can create new inequalities, as remote days are viewed as less committed by some managers。C 完整对应。",
+      optionAnalysis: {
+        A: "成本原文未提。",
+        B: "技术门槛原文未提。",
+        C: "正确。create new inequalities + viewed as less committed。",
+        D: "与 B 段数据矛盾，且原文未比较 hybrid 和 fully remote。",
+      },
+      evidencePara: "D",
+      evidenceText: "hybrid schedules can create new inequalities, as remote days are viewed as less committed by some managers",
+      type: "细节题",
+    },
+    {
+      number: 54,
+      stem: "What does the author mean by \"the genie is out of the bottle\" in the last paragraph?",
+      options: [
+        { key: "A", text: "Remote work cannot be easily reversed now that employees have experienced it." },
+        { key: "B", text: "Companies have lost control over their employees' schedules." },
+        { key: "C", text: "Technology has made office work completely obsolete." },
+        { key: "D", text: "Employees are now demanding higher salaries." },
+      ],
+      answer: "A",
+      analysis: "语义/推断题。E 段：employees have tasted flexibility and are unlikely to give it up willingly。这是对『精灵出了瓶子』的解释——一旦放出就收不回去，即远程办公难以逆转。",
+      optionAnalysis: {
+        A: "正确。tasted flexibility + unlikely to give up = 难以逆转。",
+        B: "lost control 过度推断，原文只说员工不愿放弃弹性。",
+        C: "completely obsolete 绝对化，原文未说办公室工作消亡。",
+        D: "要求加薪原文未提。",
+      },
+      evidencePara: "E",
+      evidenceText: "employees have tasted flexibility and are unlikely to give it up willingly",
+      type: "推断题",
+    },
+    {
+      number: 55,
+      stem: "What is the author's overall conclusion about the future of work?",
+      options: [
+        { key: "A", text: "Fully remote work will become the universal standard." },
+        { key: "B", text: "The office will disappear within a decade." },
+        { key: "C", text: "There is no single solution; flexible arrangements will vary by context." },
+        { key: "D", text: "Companies should mandate a return to the office to remain competitive." },
+      ],
+      answer: "C",
+      analysis: "主旨/态度题。E 段首句：the future of work will likely not be a one-size-fits-all solution. Different industries, roles, and individuals will gravitate toward different arrangements。C 准确概括。",
+      optionAnalysis: {
+        A: "universal standard 与 not one-size-fits-all 相反。",
+        B: "disappear 绝对化，原文未说。",
+        C: "正确。no single solution + vary by context。",
+        D: "与末句 Companies that adapt will attract talent 相反，应适应而非强制回办公室。",
+      },
+      evidencePara: "E",
+      evidenceText: "the future of work will likely not be a one-size-fits-all solution. Different industries, roles, and individuals will gravitate toward different arrangements",
+      type: "主旨题",
+    },
+  ],
+};
+
 /* ============================ 落库 ============================ */
 
 async function seedPaper(input: {
@@ -492,7 +770,8 @@ async function seedPaper(input: {
   month: number;
   sort: number;
   totalTime: number;
-  passage: SeedPassage;
+  /** 阅读 Section 可包含多篇 passage */
+  passages: SeedPassage[];
   listeningTranscript: SeedTranscriptLine[];
   listeningQuestions: SeedListeningQuestion[];
   writingQuestions: SeedWritingQuestion[];
@@ -507,7 +786,6 @@ async function seedPaper(input: {
       level: input.level,
       year: input.year,
       month: input.month,
-      totalTime: input.totalTime,
       sort: input.sort,
       sections: {
         create: [
@@ -521,6 +799,7 @@ async function seedPaper(input: {
             passages: {
               create: [{
                 id: `${input.id}-p-writing`,
+                paperId: input.id,
                 order: 1,
                 title: "写作",
                 paragraphs: "[]",
@@ -532,7 +811,8 @@ async function seedPaper(input: {
                     stem: `${q.stem}\n\n${q.directions}`,
                     options: "[]",
                     answer: "",
-                    analysis: "写作题为开放式作答，无标准答案。",
+                    // 参考范文存在 analysis 字段，前端"参考要点"直接展示
+                    analysis: q.reference,
                     type: "writing",
                   })),
                 },
@@ -549,6 +829,7 @@ async function seedPaper(input: {
             passages: {
               create: [{
                 id: `${input.id}-p-listening`,
+                paperId: input.id,
                 order: 1,
                 title: "短篇新闻",
                 paragraphs: "[]",
@@ -572,7 +853,7 @@ async function seedPaper(input: {
               }],
             },
           },
-          // 阅读
+          // 阅读（支持多篇 passage）
           {
             id: `${input.id}-sec-reading`,
             order: 3,
@@ -580,14 +861,15 @@ async function seedPaper(input: {
             title: "Section III 仔细阅读",
             timeLimit: 40,
             passages: {
-              create: [{
-                id: `${input.id}-p1`,
-                order: 1,
-                title: input.passage.title,
-                paragraphs: JSON.stringify(input.passage.paragraphs),
+              create: input.passages.map((p, pIndex) => ({
+                id: `${input.id}-p${pIndex + 1}`,
+                paperId: input.id,
+                order: pIndex + 1,
+                title: p.title,
+                paragraphs: JSON.stringify(p.paragraphs),
                 questions: {
-                  create: input.passage.questions.map((q, index) => ({
-                    id: `${input.id}-q${q.number}`,
+                  create: p.questions.map((q, index) => ({
+                    id: `${input.id}-p${pIndex + 1}-q${q.number}`,
                     order: index + 1,
                     number: q.number,
                     stem: q.stem,
@@ -600,7 +882,7 @@ async function seedPaper(input: {
                     type: q.type,
                   })),
                 },
-              }],
+              })),
             },
           },
           // 翻译
@@ -613,6 +895,7 @@ async function seedPaper(input: {
             passages: {
               create: [{
                 id: `${input.id}-p-translation`,
+                paperId: input.id,
                 order: 1,
                 title: "翻译",
                 paragraphs: "[]",
@@ -624,7 +907,8 @@ async function seedPaper(input: {
                     stem: `${q.stem}\n\n${q.directions}`,
                     options: "[]",
                     answer: "",
-                    analysis: "翻译为开放式作答，无标准答案。",
+                    // 参考译文存在 analysis 字段，前端"参考要点"直接展示
+                    analysis: q.reference,
                     type: "translation",
                   })),
                 },
@@ -635,7 +919,8 @@ async function seedPaper(input: {
       },
     },
   });
-  const totalQs = input.passage.questions.length + input.listeningQuestions.length + input.writingQuestions.length + input.translationQuestions.length;
+  const readingQs = input.passages.reduce((sum, p) => sum + p.questions.length, 0);
+  const totalQs = readingQs + input.listeningQuestions.length + input.writingQuestions.length + input.translationQuestions.length;
   console.log(`  ✓ ${input.title}（4 Section / ${totalQs} 题）`);
 }
 
@@ -669,7 +954,7 @@ async function main() {
     month: 12,
     sort: 1,
     totalTime: 125,
-    passage: cet4Passage,
+    passages: [cet4Passage, cet4Passage2],
     listeningTranscript: cet4ListeningTranscript,
     listeningQuestions: cet4ListeningQuestions,
     writingQuestions: cet4WritingQuestions,
@@ -683,7 +968,7 @@ async function main() {
     month: 6,
     sort: 2,
     totalTime: 130,
-    passage: cet6Passage,
+    passages: [cet6Passage, cet6Passage2],
     listeningTranscript: cet6ListeningTranscript,
     listeningQuestions: cet6ListeningQuestions,
     writingQuestions: cet6WritingQuestions,

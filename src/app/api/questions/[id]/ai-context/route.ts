@@ -52,6 +52,7 @@ export const GET = withApi(async (_request: Request, ctx: Ctx) => {
       stem: question.stem,
       options: JSON.parse(question.options) as { key: string; text: string }[],
       type: question.type,
+      analysis: question.analysis,
     },
     myChoice: mine?.choice ?? null,
     correctAnswer: revealAnswer ? question.answer : null,

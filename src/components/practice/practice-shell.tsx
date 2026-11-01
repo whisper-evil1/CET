@@ -3,13 +3,15 @@
 import { useCallback, useEffect, useLayoutEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { apiFetch, postJson } from "@/lib/api-client";
-import type { AnswerResult, PracticePaper, PracticeSection, PracticePassage } from "@/lib/types";
+import type { AnswerResult, PracticePaper } from "@/lib/types";
 import { usePracticeStore, type AnswerEntry, type FontSize, FONT_SIZES } from "@/stores/practice";
 import { ArticlePane, type WordClickPayload } from "./article-pane";
 import { QuestionPane } from "./question-pane";
 import { WordCard } from "./word-card";
 import { CommentDrawer } from "./comment-drawer";
 import { AiDrawer } from "./ai-drawer";
+import { ListeningPane } from "./listening-pane";
+import { WritingTranslationPane } from "./writing-translation-pane";
 
 const FONT_KEY = "cet:font-size";
 
@@ -45,9 +47,18 @@ export function PracticeShell({
     paper.sections.find((s) => s.type === "reading") ??
     paper.sections[0];
   const passages = activeSection?.passages ?? [];
-  const questions = passages.flatMap((passage) => passage.questions);
-  const passage = passages[0];
+
+  // 多篇文章切换（阅读 Section 可能有多篇 passage）
+  const [activePassageIndex, setActivePassageIndex] = useState(0);
+  const passage = passages[Math.min(activePassageIndex, passages.length - 1)];
+  // 题目只取当前 passage 的，切文章时重置题目列表
+  const questions = passage?.questions ?? [];
   const order = questions.map((q) => q.id);
+
+  // 切 Section 时重置文章索引
+  useEffect(() => {
+    setActivePassageIndex(0);
+  }, [activeSectionId]);
 
   /* ---------- store ---------- */
   const currentId = usePracticeStore((s) => s.currentId);
@@ -113,7 +124,7 @@ export function PracticeShell({
 
     return () => reset();
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [paperId, activeSectionId]);
+  }, [paperId, activeSectionId, activePassageIndex]);
 
   /* 字号存 localStorage */
   useEffect(() => {
@@ -343,26 +354,53 @@ export function PracticeShell({
         </div>
       )}
 
-      {/* 主体：阅读走双栏，其他 Section 走题目展示 */}
-      {passage && activeSection.type === "reading" ? (
+      {/* 多篇文章切换 Tab（阅读 Section 有多篇 passage 时显示） */}
+      {passage && passages.length > 1 && activeSection.type === "reading" && (
+        <nav className="flex h-10 shrink-0 items-center gap-1 overflow-x-auto border-b border-line bg-paper px-3 md:px-6">
+          {passages.map((p, i) => (
+            <button
+              key={p.id}
+              type="button"
+              onClick={() => setActivePassageIndex(i)}
+              className={`shrink-0 rounded-full px-3 py-1 text-[12px] transition-colors ${
+                i === activePassageIndex ? "bg-ink text-paper" : "text-ink-soft hover:bg-paper-deep"
+              }`}
+            >
+              阅读 {i + 1}
+            </button>
+          ))}
+        </nav>
+      )}
+
+      {/* 主体：阅读/听力走双栏（左内容右答题），写作/翻译走输入+AI批改 */}
+      {passage && (activeSection.type === "reading" || activeSection.type === "listening") ? (
         <div className="relative flex min-h-0 flex-1 md:grid md:grid-cols-[55%_45%]">
+        {/* 左栏：阅读显示原文，听力显示原文+音频播放 */}
         <div
           className={`absolute inset-0 min-h-0 md:relative md:inset-auto ${
             mobileTab === "article" ? "" : "invisible md:visible"
           }`}
         >
-          <ArticlePane
-            title={passage?.title ?? null}
-            paragraphs={passage?.paragraphs ?? []}
-            passageId={passage?.id ?? ""}
-            onWordClick={setWordPayload}
-            scrollRef={leftRef}
-            onScroll={() => {
-              /* 左栏滚动只更新自己，不触发任何右栏逻辑 */
-            }}
-          />
+          {activeSection.type === "reading" ? (
+            <ArticlePane
+              title={passage?.title ?? null}
+              paragraphs={passage?.paragraphs ?? []}
+              passageId={passage?.id ?? ""}
+              onWordClick={setWordPayload}
+              scrollRef={leftRef}
+              onScroll={() => {}}
+            />
+          ) : (
+            <ListeningPane
+              title={passage?.title ?? null}
+              transcript={passage?.transcript ?? []}
+              audioUrl={passage?.audioUrl ?? null}
+              scrollRef={leftRef}
+            />
+          )}
         </div>
 
+        {/* 右栏：答题区（阅读/听力共用） */}
         <div
           className={`absolute inset-0 min-h-0 border-line md:relative md:inset-auto md:border-l ${
             mobileTab === "question" ? "" : "invisible md:visible"
@@ -388,16 +426,20 @@ export function PracticeShell({
               onOpenAI={() => setDrawer("ai")}
               onOpenComments={() => setDrawer("comments")}
               scrollRef={rightRef}
-              onScroll={() => {
-                /* 右栏滚动位置在切题时统一存档 */
-              }}
+              onScroll={() => {}}
             />
           )}
         </div>
       </div>
-      ) : (
-        <NonReadingSection section={activeSection} passage={passage} />
-      )}
+      ) : passage ? (
+        /* 写作 / 翻译：题干 + 文本框 + AI 批改 + 参考答案 */
+        <WritingTranslationPane
+          section={activeSection}
+          passage={passage}
+          paperId={paperId}
+          onNotice={setNotice}
+        />
+      ) : null}
 
       {/* 词卡浮层 */}
       {wordPayload && passage && (
@@ -424,55 +466,6 @@ export function PracticeShell({
           onClose={() => setDrawer(null)}
         />
       )}
-    </div>
-  );
-}
-
-/**
- * 非阅读 Section（写作/听力/翻译）的展示：当前只显示题目与要求，
- * 提交与批改留到后续阶段。听力会在「逐句同步」阶段接真实音频。
- */
-function NonReadingSection({
-  section,
-  passage,
-}: {
-  section: PracticeSection;
-  passage: PracticePassage | undefined;
-}) {
-  const hintMap: Record<string, string> = {
-    writing: "写作部分展示题目与要求，v2.0 暂不支持在线提交与 AI 批改。",
-    translation: "翻译部分展示题目与要求，v2.0 暂不支持在线提交与 AI 批改。",
-    listening: "听力模块将在「听力播放与逐句同步」阶段上线，届时可逐句高亮、只播一遍模拟真实考场。",
-  };
-
-  const paragraphs = passage?.paragraphs ?? [];
-
-  return (
-    <div className="min-h-0 flex-1 overflow-y-auto bg-paper">
-      <div className="mx-auto max-w-2xl px-6 py-10">
-        <div className="rounded-xl border border-line bg-paper-deep p-6">
-          <h2 className="font-serif text-[18px] text-ink">{section.title}</h2>
-          <p className="mt-2 text-[12.5px] text-ink-mute">
-            限时 {section.timeLimit ? `${section.timeLimit} 分钟` : "—"}
-          </p>
-
-          <div className="mt-5 whitespace-pre-wrap text-[14.5px] leading-[1.9] text-ink-soft">
-            {paragraphs.length > 0 ? (
-              paragraphs.map((p, i) => (
-                <p key={i} className="mb-3">
-                  {p.text}
-                </p>
-              ))
-            ) : (
-              <p className="text-ink-mute">本部分暂无题目内容。</p>
-            )}
-          </div>
-
-          <div className="mt-6 rounded-lg bg-paper px-4 py-3 text-[12.5px] leading-relaxed text-ink-mute">
-            {hintMap[section.type] ?? "本部分展示题目，暂不支持在线提交。"}
-          </div>
-        </div>
-      </div>
     </div>
   );
 }
