@@ -58,20 +58,30 @@ export const commentUpdateSchema = z.object({
 export const lookupSchema = z.object({
   word: z.string().trim().min(1).max(64),
   passageId: z.string().optional(),
-  context: z.string().max(1000).optional(),
+  // 语境句只是给模型看的提示，超长不该让整次查词失败，由调用方截断
+  context: z.string().max(4000).optional(),
 });
 
+/**
+ * 生词入库。
+ *
+ * 这里的长度上限是「防滥用」的宽松阈值，不是存储上限：
+ * 真实长难句动辄 200+ 字符，词典释义也可能上百字，如果按存储长度硬卡，
+ * 用户点"加入生词本"会整条被 400 拒绝 —— 表现就是"点了没反应/加不进去"。
+ * 因此校验放宽，真正的裁剪统一在路由层做（route.ts 的 clampTo），
+ * 保证「先收下，再截断」，永远不会因为长度把一条合法请求打回。
+ */
 export const vocabCreateSchema = z.object({
   word: z.string().trim().min(1).max(64),
-  phonetic: z.string().max(120).nullable().optional(),
+  phonetic: z.string().max(500).nullable().optional(),
   definitions: z
-    .array(z.object({ pos: z.string().max(20), zh: z.string().max(200) }))
+    .array(z.object({ pos: z.string().max(200), zh: z.string().max(2000) }))
     .max(12)
     // 允许空数组：词典查不到释义时也可加入生词本，释义后续可补
     .default([]),
-  example: z.string().max(500).nullable().optional(),
-  exampleZh: z.string().max(500).nullable().optional(),
-  sourceContext: z.string().max(500).nullable().optional(),
+  example: z.string().max(4000).nullable().optional(),
+  exampleZh: z.string().max(4000).nullable().optional(),
+  sourceContext: z.string().max(4000).nullable().optional(),
   sourcePassageId: z.string().max(64).nullable().optional(),
 });
 

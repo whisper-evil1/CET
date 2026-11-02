@@ -39,6 +39,7 @@ model Paper {
   level    String // CET4 | CET6
   year     Int?
   month    Int?
+  totalTime Int? // 整套考试时长（分钟），考试模式用；PRD 定义 CET4=125 / CET6=130
   sort     Int       @default(0)
   passages Passage[]
   sections Section[]

@@ -3,6 +3,7 @@ import Credentials from "next-auth/providers/credentials";
 import bcrypt from "bcryptjs";
 import { z } from "zod";
 import { prisma } from "./prisma";
+import { syncAccountToCloud } from "./cloud-account-sync";
 
 const credentialsSchema = z.object({
   email: z.string().trim().toLowerCase().min(3),
@@ -37,6 +38,16 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
 
         const matched = await bcrypt.compare(parsed.data.password, user.password);
         if (!matched) return null;
+
+        // 老账号回填：云侧镜像只写不读，进程内用 Set 记住已同步的邮箱，
+        // 同一个账号一个进程生命周期内最多打一次云，不会拖慢后续登录。
+        await syncAccountToCloud({
+          localUserId: user.id,
+          email: user.email,
+          name: user.name,
+          passwordHash: user.password,
+          source: "login",
+        });
 
         return { id: user.id, email: user.email, name: user.name ?? null };
       },

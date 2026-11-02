@@ -4,6 +4,7 @@ import { fail, ok, parseBody, withApi } from "@/lib/api-helpers";
 import { registerSchema } from "@/lib/validators";
 import { sanitizeName } from "@/lib/sanitize";
 import { rateLimit } from "@/lib/rate-limit";
+import { syncAccountToCloud } from "@/lib/cloud-account-sync";
 
 /** 注册：邮箱唯一 + 密码 bcrypt 哈希，绝不明文落库 */
 export const POST = withApi(async (request: Request) => {
@@ -26,5 +27,20 @@ export const POST = withApi(async (request: Request) => {
     },
   });
 
-  return ok({ id: user.id, email: user.email, name: user.name });
+  // 账号凭据同步到云数据库（公开邮箱 + bcrypt 摘要，非明文）。
+  // 本地账号已落库就算注册成功，云侧失败不回滚、不影响这次注册。
+  const mirrored = await syncAccountToCloud({
+    localUserId: user.id,
+    email: user.email,
+    name: user.name,
+    passwordHash: hashed,
+    source: "register",
+  });
+
+  return ok({
+    id: user.id,
+    email: user.email,
+    name: user.name,
+    cloudSynced: mirrored.ok,
+  });
 });

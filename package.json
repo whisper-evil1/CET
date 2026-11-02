@@ -13,7 +13,16 @@
     "db:reset": "prisma db push --force-reset && tsx prisma/seed.ts",
     "db:studio": "prisma studio",
     "setup": "prisma generate && prisma db push && tsx prisma/seed.ts",
-    "extract-dict": "node scripts/extract-ecdict.mjs"
+    "db:snapshot": "node scripts/snapshot-seed.mjs",
+    "db:prepare": "node scripts/prepare-db.mjs",
+    "extract-dict": "node scripts/extract-ecdict.mjs",
+    "e2e:vocab": "node scripts/e2e-vocab.mjs",
+    "e2e:vocab:ui": "node scripts/e2e-vocab-ui.mjs",
+    "e2e:api": "node scripts/e2e-regression.mjs",
+    "e2e:pages": "node scripts/e2e-pages.mjs",
+    "verify:cloud": "node scripts/verify-cloud-llm.mjs && node scripts/verify-cloud-accounts.mjs",
+    "cloud:sync-accounts": "node scripts/sync-accounts-to-cloud.mjs",
+    "start:prod": "node server.cjs"
   },
   "dependencies": {
     "@prisma/client": "^6.16.2",

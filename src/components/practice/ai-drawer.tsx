@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { cloud, cloudReady } from "@/lib/cloud";
+import { withSharecode } from "@/lib/share-code";
 
 type Props = {
   questionId: string;
@@ -14,6 +15,48 @@ type Props = {
 type ChatMessage = { role: "user" | "assistant"; content: string };
 
 /**
+ * 给异步迭代器加「不依赖底层实现」的超时。
+ *
+ * 为什么需要：云端 LLM 的 create() 会先返回 200 再慢慢吐 chunk。
+ * 如果上游接了但一直不吐字，单靠 controller.abort() 未必生效 ——
+ * SDK 没有把 signal 接到 socket 上时，for await 既不抛错也不返回，
+ * 界面就永久停在「思考中…」。这里对每次 next() 竞速一个超时，
+ * 首字 15s、后续 12s，超时直接抛错，让调用方走服务端回退。
+ */
+async function* withChunkTimeout<T>(
+  source: AsyncIterable<T>,
+  firstMs: number,
+  nextMs: number,
+): AsyncGenerator<T> {
+  const iterator = source[Symbol.asyncIterator]();
+  let isFirst = true;
+  try {
+    while (true) {
+      const ms = isFirst ? firstMs : nextMs;
+      let timer: ReturnType<typeof setTimeout> | undefined;
+      const timeout = new Promise<never>((_, reject) => {
+        timer = setTimeout(() => reject(new Error("AI_TIMEOUT")), ms);
+      });
+      // 迭代先完成时，避免这个 promise 的 reject 变成未处理拒绝
+      timeout.catch(() => {});
+
+      let result: IteratorResult<T>;
+      try {
+        result = await Promise.race([iterator.next(), timeout]);
+      } finally {
+        if (timer) clearTimeout(timer);
+      }
+
+      if (result.done) return;
+      isFirst = false;
+      yield result.value;
+    }
+  } finally {
+    await iterator.return?.(undefined);
+  }
+}
+
+/**
  * AI 答疑抽屉。
  *
  * 上下文（文章 + 题干 + 选项 + 我的作答 + 解析）由服务端 /api/questions/[id]/ai-context 拼好，
@@ -21,20 +64,75 @@ type ChatMessage = { role: "user" | "assistant"; content: string };
  * 云服务未就绪或模型调用失败时，回退到服务端 /api/ai/chat（内置演示流式），保证不白屏。
  * 切题时抽屉随题目卸载（shell 里用 key 控制），会话自然重置。
  */
+/**
+ * 给云端返回的模型列表排个可用性顺序。
+ *
+ * 依据 2026-11-01 对线上账号实测（同一 prompt、同一直连）：
+ *   deepseek-v4.1-flash  首字 958ms   ✅
+ *   deepseek-v4-flash    首字 1162ms  ✅
+ *   glm-5.3-flash        首字 1359ms  ✅
+ *   kimi-k2.5            首字 1288ms  ✅
+ *   kimi-k3-1            首字 4584ms  ✅（带思考）
+ *   hy3                  首字 11429ms ✅（思考 1456 字，用户体感像卡住）
+ *   auto / default       200 但 30s 无正文 ❌（它们是路由别名）
+ *   hy4-preview          30s 无正文     ❌
+ *   minimax-m2.5 / glm-4.x / glm-5.x  400 参数无效 ❌
+ *
+ * 所以：排除路由别名、flash 优先、其余靠后，运行期再按顺序逐个重试。
+ */
+function rankModels(models: ReadonlyArray<{ id: string; disabled?: boolean }>): string[] {
+  const usable = models.filter((m) => m.disabled !== true && !/^(auto|default)$/i.test(m.id));
+  const score = (id: string) => {
+    if (/flash/i.test(id)) return 0;
+    if (/^deepseek/i.test(id)) return 1;
+    if (/^(kimi|glm)/i.test(id)) return 2;
+    return 3;
+  };
+  return [...usable].sort((a, b) => score(a.id) - score(b.id)).map((m) => m.id);
+}
+
+/**
+ * 把云服务错误翻译成用户能看懂的一句话。
+ *
+ * 依据 SDK 的 CloudOpenAIError 公共字段（error.code / status / requestId），
+ * 按 code 前缀归类，不读 SDK 私有字段：
+ *   auth_     凭证或 Origin 不匹配（最常见：发布域名换了，产物里的 endpoint 没跟着换）
+ *   quota_    创作者额度用尽或限流
+ *   request_  参数或模型不被接受，重试无意义
+ *   gateway_ / model_  模型服务暂时不可用，可重试
+ *   internal_ 服务内部错误，需要 requestId 才能查
+ * 没有 error 字段的（本地超时、空响应）按自定义 Error 处理。
+ */
+function describeCloudError(error: unknown): string {
+  const err = error as { name?: string; message?: string; error?: { code?: string | null } };
+  const code = err?.error?.code ?? "";
+
+  if (err?.message === "AI_TIMEOUT") return "云模型超时未出字，已切到演示回答";
+  if (err?.message === "AI_EMPTY_RESPONSE") return "云模型只思考不出正文，已切到演示回答";
+  if (code.startsWith("auth_")) return "云服务凭证与当前域名不匹配，已切到演示回答";
+  if (code.startsWith("quota_")) return "云模型额度已用尽或被限流，已切到演示回答";
+  if (code.startsWith("request_")) return "云模型不接受本次请求参数，已切到演示回答";
+  if (code.startsWith("gateway_") || code.startsWith("model_")) return "云模型暂时不可用，已切到演示回答";
+  if (code.startsWith("internal_")) return "云服务内部错误，已切到演示回答";
+  return err?.message ? `云模型调用失败：${err.message}` : "云模型调用失败，已切到演示回答";
+}
+
 export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [input, setInput] = useState("");
   const [streaming, setStreaming] = useState(false);
   const [mode, setMode] = useState<"live" | "mock" | null>(null);
   const [error, setError] = useState<string | null>(null);
+  // 从云模型回退到演示模式时，说明回退原因（不让失败静默发生）
+  const [fallbackNote, setFallbackNote] = useState<string | null>(null);
 
   const abortRef = useRef<AbortController | null>(null);
   const scrollRef = useRef<HTMLDivElement | null>(null);
 
   // 服务端拼好的 system prompt（含文章与题目上下文）
   const systemPromptRef = useRef<string>("");
-  // 云服务模型 id，首次 list 后缓存
-  const modelRef = useRef<string | null>(null);
+  // 云服务候选模型（按实测可用性排序），首个失败会自动换下一个
+  const modelsRef = useRef<string[]>([]);
   // 云 LLM 调用是否已失败过，失败后本轮回退到服务端演示流式
   const cloudFailedRef = useRef(false);
 
@@ -44,7 +142,7 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
 
     void (async () => {
       try {
-        const res = await fetch(`/api/questions/${questionId}/ai-context`, { cache: "no-store" });
+        const res = await fetch(withSharecode(`/api/questions/${questionId}/ai-context`), { cache: "no-store" });
         if (res.ok) {
           const json = (await res.json()) as { data?: { systemPrompt?: string } };
           if (!cancelled && json.data?.systemPrompt) {
@@ -58,9 +156,7 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
       if (!cloudReady || !cloud || cloudFailedRef.current) return;
       try {
         const models = await cloud.llm.models.list();
-        // 选第一个未被禁用的模型；空列表视为不可用
-        const picked = models.find((m) => m.disabled !== true);
-        if (!cancelled && picked) modelRef.current = picked.id;
+        if (!cancelled) modelsRef.current = rankModels(models);
       } catch {
         // 模型列表拉取失败，send() 走回退
       }
@@ -102,58 +198,77 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
     const controller = new AbortController();
     abortRef.current = controller;
 
-    const canUseCloud =
-      Boolean(cloud && modelRef.current && systemPromptRef.current && !cloudFailedRef.current);
-
-    // 云 LLM 兜底超时：15s 没拿到第一个 chunk 就放弃，快速回退到服务端演示流
-    let cloudTimedOut = false;
-    const cloudTimer = setTimeout(() => {
-      cloudTimedOut = true;
-      controller.abort();
-    }, 15000);
+    const canUseCloud = Boolean(
+      cloud && modelsRef.current.length > 0 && systemPromptRef.current && !cloudFailedRef.current,
+    );
 
     try {
       if (canUseCloud) {
         setMode("live");
-        // 云服务 LLM：前端直调，流式拼 token
-        const stream = cloud!.llm.chat.completions.create({
-          model: modelRef.current!,
-          messages: [
-            { role: "system", content: systemPromptRef.current },
-            ...nextMessages.map((m) => ({
-              role: m.role,
-              content: m.content,
-            })),
-          ],
-          stream: true,
-          temperature: 0.3,
-          signal: controller.signal,
-        });
+        const messages_: { role: "system" | "user" | "assistant"; content: string }[] = [
+          { role: "system", content: systemPromptRef.current },
+          ...nextMessages.map((m) => ({ role: m.role, content: m.content })),
+        ];
 
         let acc = "";
-        for await (const chunk of stream) {
-          clearTimeout(cloudTimer); // 第一个 chunk 到达即取消超时
-          const delta = chunk.choices[0]?.delta?.content;
-          if (delta) {
-            acc += delta;
-            appendAssistant(acc);
+        let lastError: unknown = null;
+
+        // 逐个候选模型试（最多 3 个）：路由别名和部分推理模型会「200 但不吐正文」，
+        // 只试第一个就等于把用户按在「思考中…」上干等。第一个能出字就停。
+        for (const model of modelsRef.current.slice(0, 3)) {
+          let local = "";
+          try {
+            const stream = cloud!.llm.chat.completions.create({
+              model,
+              messages: messages_,
+              stream: true,
+              temperature: 0.3,
+              signal: controller.signal,
+            });
+
+            for await (const chunk of withChunkTimeout(stream, 12000, 12000)) {
+              // 该接口是标准 SSE 流式，正文只从 delta.content 来；
+              // 推理模型的 reasoning_content 是思考过程，不计入正文
+              const delta = chunk.choices[0]?.delta?.content;
+              if (delta) {
+                local += delta;
+                acc = local;
+                appendAssistant(acc);
+              }
+            }
+
+            if (!local.trim()) throw new Error("AI_EMPTY_RESPONSE");
+            lastError = null;
+            break;
+          } catch (err) {
+            if ((err as Error).name === "AbortError") throw err;
+            // 已经吐过字就别换模型了，否则会把前半段答案冲掉
+            if (local.trim()) {
+              lastError = null;
+              break;
+            }
+            lastError = err;
+            acc = "";
           }
         }
+
+        if (lastError) throw lastError;
       } else {
         // 回退：服务端演示流式
         setMode("mock");
         await streamFromServer(questionId, nextMessages, controller, appendAssistant);
       }
     } catch (err) {
-      // 超时触发的 abort 不算用户主动停止，需要走回退流程
-      const isUserAbort =
-        (err as Error).name === "AbortError" && !cloudTimedOut;
+      // 超时（AI_TIMEOUT / AI_EMPTY_RESPONSE）走普通 Error 分支，
+      // 只有用户主动点停止才是 AbortError，不该触发回退
+      const isUserAbort = (err as Error).name === "AbortError";
       if (isUserAbort) return;
 
       // 云 LLM 失败/超时时自动回退一次到服务端演示流式
       if (canUseCloud) {
         cloudFailedRef.current = true;
         setMode("mock");
+        setFallbackNote(describeCloudError(err));
         try {
           // 回退时新建一个 controller，因为原 controller 可能已被超时 abort
           const fbController = new AbortController();
@@ -174,7 +289,6 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
         return copy;
       });
     } finally {
-      clearTimeout(cloudTimer);
       setStreaming(false);
       abortRef.current = null;
     }
@@ -263,6 +377,9 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
       </div>
 
       <div className="shrink-0 border-t border-line px-4 py-3">
+        {mode === "mock" && fallbackNote && (
+          <p className="mb-2 text-[11px] leading-[1.6] text-ink-mute">{fallbackNote}</p>
+        )}
         {messages.length > 0 && !streaming && (
           <button
             type="button"
@@ -319,7 +436,7 @@ async function streamFromServer(
   }, 30000);
 
   try {
-    const response = await fetch("/api/ai/chat", {
+    const response = await fetch(withSharecode("/api/ai/chat"), {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       signal: controller.signal,

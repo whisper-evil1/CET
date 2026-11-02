@@ -12,6 +12,8 @@ export type Token = {
   text: string;
   /** 段落内唯一 key */
   key: string;
+  /** 该 token 在段落文本中的起始字符偏移，用于精确取「用户点的那一处」的语境 */
+  start: number;
 };
 
 const WORD_PATTERN = /([A-Za-z][A-Za-z'’-]*)|([^A-Za-z]+)/g;
@@ -28,6 +30,7 @@ export function tokenizeParagraph(text: string): Token[] {
       kind: match[1] ? "word" : "gap",
       text: value,
       key: `t${index++}`,
+      start: match.index,
     });
   }
 
@@ -42,17 +45,43 @@ export function normalizeForVocab(raw: string): string {
     .replace(/['’]s$/, "");
 }
 
-/** 从段落文本里截取包含该单词的句子，作为生词的语境 */
-export function sentenceAround(text: string, word: string): string {
+/** 语境句最长保留字符数。超长句只留点击词附近的一段，避免撑爆弹窗和请求体 */
+const MAX_CONTEXT = 240;
+
+/** 以点击位置为中心裁剪长句，保证被点的词一定在结果里 */
+function clipAroundWord(sentence: string, wordAt: number, wordLength: number): string {
+  if (sentence.length <= MAX_CONTEXT) return sentence;
+  const half = Math.floor((MAX_CONTEXT - wordLength) / 2);
+  let from = Math.max(0, wordAt - half);
+  const to = Math.min(sentence.length, from + MAX_CONTEXT);
+  from = Math.max(0, to - MAX_CONTEXT);
+  const head = from > 0 ? "…" : "";
+  const tail = to < sentence.length ? "…" : "";
+  return `${head}${sentence.slice(from, to).trim()}${tail}`;
+}
+
+/**
+ * 从段落文本里截取包含该单词的句子，作为生词的语境。
+ *
+ * charOffset 是用户实际点中的那个词在段落里的偏移：同一个词在段落中出现多次时，
+ * 用它才能拿到「点的这一处」而不是第一次出现的位置。
+ */
+export function sentenceAround(text: string, word: string, charOffset?: number): string {
   const lower = text.toLowerCase();
   const target = word.toLowerCase();
-  const at = lower.indexOf(target);
-  if (at === -1) return text.slice(0, 160);
+
+  let at = typeof charOffset === "number" && charOffset >= 0 ? charOffset : -1;
+  // 偏移失效（分词与原文不一致）时退回全段搜索
+  if (at < 0 || lower.slice(at, at + target.length) !== target) {
+    at = lower.indexOf(target);
+  }
+  if (at === -1) return text.slice(0, MAX_CONTEXT);
 
   let start = at;
   while (start > 0 && !/[.!?]/.test(text[start - 1] ?? "")) start -= 1;
   let end = at + target.length;
   while (end < text.length && !/[.!?]/.test(text[end] ?? "")) end += 1;
 
-  return text.slice(start, Math.min(end + 1, text.length)).trim();
+  const sentence = text.slice(start, Math.min(end + 1, text.length)).trim();
+  return clipAroundWord(sentence, at - start, target.length);
 }

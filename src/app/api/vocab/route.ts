@@ -36,6 +36,27 @@ export const GET = withApi(async (request: Request) => {
 });
 
 /**
+ * 存储侧的长度上限（字符）。
+ * 注意：校验层故意放宽，裁剪只在这里做——「先收下再截断」，
+ * 避免长句语境 / 长释义让整条请求 400，表现成"点了加入生词本没反应"。
+ */
+const LIMIT = {
+  phonetic: 120,
+  pos: 20,
+  zh: 200,
+  example: 500,
+  exampleZh: 500,
+  sourceContext: 500,
+} as const;
+
+function clampTo(value: string | null | undefined, max: number): string | null {
+  if (typeof value !== "string") return null;
+  const trimmed = value.trim();
+  if (!trimmed) return null;
+  return trimmed.length > max ? trimmed.slice(0, max) : trimmed;
+}
+
+/**
  * POST /api/vocab —— 加入生词库
  * 唯一约束 userId+word：重复加入只刷新释义与时间，不新建记录。
  */
@@ -44,29 +65,41 @@ export const POST = withApi(async (request: Request) => {
   if (!meId) return Errors.unauthorized();
 
   const body = await parseBody(request, vocabCreateSchema);
-  const word = body.word.trim().toLowerCase();
+  const word = body.word.trim().toLowerCase().slice(0, 64);
+
+  const definitions = body.definitions
+    .map((item) => ({
+      pos: clampTo(item.pos, LIMIT.pos) ?? "",
+      zh: clampTo(item.zh, LIMIT.zh) ?? "",
+    }))
+    .filter((item) => item.zh.length > 0);
+
+  const phonetic = clampTo(body.phonetic, LIMIT.phonetic);
+  const example = clampTo(body.example, LIMIT.example);
+  const exampleZh = clampTo(body.exampleZh, LIMIT.exampleZh);
+  const sourceContext = clampTo(body.sourceContext, LIMIT.sourceContext);
 
   const row = await prisma.vocabWord.upsert({
     where: { userId_word: { userId: meId, word } },
     create: {
       userId: meId,
       word,
-      phonetic: body.phonetic ?? null,
-      definitions: toJsonText(body.definitions),
-      example: body.example ?? null,
-      exampleZh: body.exampleZh ?? null,
-      sourceContext: body.sourceContext ?? null,
+      phonetic,
+      definitions: toJsonText(definitions),
+      example,
+      exampleZh,
+      sourceContext,
       sourcePassageId: body.sourcePassageId ?? null,
       reviewCount: 0,
       status: "learning",
     },
     update: {
       // 只在新释义非空时才覆盖，避免重复加入（这次没查到释义）把旧释义清空
-      ...(body.phonetic ? { phonetic: body.phonetic } : {}),
-      ...(body.definitions.length > 0 ? { definitions: toJsonText(body.definitions) } : {}),
-      ...(body.example ? { example: body.example } : {}),
-      ...(body.exampleZh ? { exampleZh: body.exampleZh } : {}),
-      ...(body.sourceContext ? { sourceContext: body.sourceContext } : {}),
+      ...(phonetic ? { phonetic } : {}),
+      ...(definitions.length > 0 ? { definitions: toJsonText(definitions) } : {}),
+      ...(example ? { example } : {}),
+      ...(exampleZh ? { exampleZh } : {}),
+      ...(sourceContext ? { sourceContext } : {}),
     },
   });
 

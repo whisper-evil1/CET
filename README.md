@@ -2,6 +2,9 @@
 
 左边滚动原文，右边答题，**两栏滚动互不干扰**。点任意单词即查、查过的词自动进生词本循环复习，每题都能问 AI、写自己的笔记（默认仅自己可见）。
 
+> ⚠️ **现状说明（v2.0）**：当前代码为 v2.0（套卷 Section 结构 / 打卡 / 排行榜已完成；写作翻译与听力为半成品）。
+> 本文件偏产品说明，**最新权威现状以交接包顶层 `00_给AI先读我.md` 为准**，表结构与 API 以 `prisma/schema.prisma` 和 `src/` 实际代码为准。
+
 ---
 
 ## 技术栈
@@ -67,7 +70,9 @@ AI_MODEL="qwen-plus"
 ```
 cet-reader/
 ├─ prisma/
-│  ├─ schema.prisma          9 张表：User/Paper/Passage/Question/Answer/Comment/VocabWord/Favorite/DictionaryEntry
+│  ├─ schema.prisma          13 张表（v2.0）：User/Paper/Section/Passage/Question/Answer/Comment/
+│  │                         VocabWord/Favorite/DictionaryEntry/UserStats/Checkin/ExperiencePack
+│  │                         注意：Passage 同时保留必填 paperId 与可选 sectionId（增量迁移策略，勿删 paperId）
 │  └─ seed.ts                2 套试卷 + 逐项解析 + 演示账号
 ├─ src/
 │  ├─ app/

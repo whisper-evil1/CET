@@ -1,7 +1,7 @@
 // 临时验证脚本：线上 ai-context 服务端链路（node fetch 带 Origin 绕过反代 CSRF 检查）
 import { writeFileSync } from "node:fs";
 
-const BASE = "https://cet-reading-82947.app.workbuddy.host";
+const BASE = "https://cet-reading-02555.app.workbuddy.host";
 let cookieJar = "";
 
 function mergeSetCookie(res) {

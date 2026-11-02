@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { postJson } from "@/lib/api-client";
 import type { VocabItem } from "@/lib/types";
 

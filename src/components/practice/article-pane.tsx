@@ -10,6 +10,8 @@ export type WordClickPayload = {
   rect: DOMRect;
   paragraphLabel: string;
   paragraphText: string;
+  /** 被点中那个词在段落里的字符偏移：同词多次出现时用它取对的语境 */
+  charOffset: number;
 };
 
 type Props = {
@@ -99,12 +101,13 @@ export function ArticlePane({ title, paragraphs, passageId, onWordClick, scrollR
               registerRef={(node) => {
                 paraRefs.current[paragraph.label] = node;
               }}
-              onClickWord={(word, rect) =>
+              onClickWord={(word, rect, charOffset) =>
                 onWordClick({
                   word,
                   rect,
                   paragraphLabel: paragraph.label,
                   paragraphText: paragraph.text,
+                  charOffset,
                 })
               }
             />
@@ -132,7 +135,7 @@ function ParagraphBlock({
   isLast: boolean;
   vocabWords: Record<string, string>;
   registerRef: (node: HTMLElement | null) => void;
-  onClickWord: (word: string, rect: DOMRect) => void;
+  onClickWord: (word: string, rect: DOMRect, charOffset: number) => void;
 }) {
   // 分词结果按段落文本缓存：字号变化、生词增删都不会重算
   const tokens = useMemo(() => tokenizeParagraph(paragraph.text), [paragraph.text]);
@@ -172,7 +175,7 @@ function ParagraphBlock({
           if (!target) return;
           const word = target.dataset.word ?? "";
           if (!word) return;
-          onClickWord(word, target.getBoundingClientRect());
+          onClickWord(word, target.getBoundingClientRect(), Number(target.dataset.offset ?? -1));
         }}
       >
         {tokens.map((token) => {
@@ -185,6 +188,7 @@ function ParagraphBlock({
             <span
               key={token.key}
               data-word={token.text}
+              data-offset={token.start}
               role="button"
               tabIndex={-1}
               title={inVocab ? (vocabWords[key] ?? "") : undefined}

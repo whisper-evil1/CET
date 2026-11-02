@@ -105,7 +105,10 @@ async function main() {
   console.log("\n[3] 试卷详情不含答案");
   {
     const { body } = await json(demo.session, `/api/papers/${PAPER}`);
-    const passage = body?.data?.passages?.[0];
+    // v2.0 返回 sections[].passages[]，定位阅读篇（id 以 -p1 结尾，5 段 5 题）
+    const sections = body?.data?.sections ?? [];
+    const allPassages = sections.flatMap((s) => s.passages ?? []);
+    const passage = allPassages.find((p) => p.id === `${PAPER}-p1`) ?? allPassages[0];
     const question = passage?.questions?.[0];
     check("返回 5 道题", passage?.questions?.length === 5);
     check("题干与选项齐全", Boolean(question?.stem && question?.options?.length === 4));
@@ -341,6 +344,25 @@ async function main() {
       body: JSON.stringify({ content: "x".repeat(600), visibility: "private" }),
     });
     check("超长留言被拦下", tooLong.status === 400, `实际 ${tooLong.status}`);
+  }
+
+  console.log("\n[12] AI 经验包");
+  {
+    const first = await json(demo.session, `/api/questions/${Q1}/experience`);
+    const pack = first.body?.data?.pack;
+    check("读取经验包返回 200", first.status === 200, `实际 ${first.status}`);
+    check("经验包含『这题的坑』", typeof pack?.pitfall === "string" && pack.pitfall.length > 0);
+    check("经验包含正确思路", typeof pack?.correctApproach === "string" && pack.correctApproach.length > 0);
+    check("常错原因与高频生词为数组", Array.isArray(pack?.commonMistakes) && Array.isArray(pack?.keyVocab));
+
+    const cached = await json(demo.session, `/api/questions/${Q1}/experience`);
+    check("二次读取走缓存且内容一致", cached.body?.data?.pack?.pitfall === pack?.pitfall);
+
+    const refreshed = await json(demo.session, `/api/questions/${Q1}/experience`, { method: "POST", body: JSON.stringify({}) });
+    check("刷新重建经验包成功", refreshed.status === 200 && typeof refreshed.body?.data?.pack?.pitfall === "string");
+
+    const unauth = await fetch(`${BASE}/api/questions/${Q1}/experience`);
+    check("未登录访问经验包返回 401", unauth.status === 401, `实际 ${unauth.status}`);
   }
 
   console.log(`\n结果：${pass} 通过 / ${fail} 失败\n`);

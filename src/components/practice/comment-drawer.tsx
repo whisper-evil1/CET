@@ -4,6 +4,7 @@ import { useState } from "react";
 import useSWR from "swr";
 import { del, patchJson, postJson, swrFetcher } from "@/lib/api-client";
 import type { CommentItem } from "@/lib/types";
+import { ExperiencePackCard } from "./experience-pack-card";
 
 type Props = {
   questionId: string;
@@ -141,6 +142,7 @@ function CommentList({ questionId, tab }: { questionId: string; tab: Tab }) {
   return (
     <>
       <div className="scroll-pane min-h-0 flex-1 px-4 py-4">
+        {tab === "public" && <ExperiencePackCard questionId={questionId} />}
         {isLoading && (
           <div className="space-y-3">
             {[0, 1].map((i) => (

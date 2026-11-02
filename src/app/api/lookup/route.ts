@@ -17,10 +17,13 @@ export const POST = withApi(async (request: Request) => {
   const body = await parseBody(request, lookupSchema);
   const entry = await lookupWord(body.word, body.context);
 
-  if (!entry) {
+  // lookupWord 对"确实查不到"的词返回 needsDefinition 的空释义占位（而非 null）。
+  // 这里以"是否有释义"判定 found；仍回传占位条目，前端可保留"加入生词本（释义待补）"入口。
+  const found = Boolean(entry && entry.definitions.length > 0);
+  if (!found) {
     return ok({
       found: false,
-      entry: null,
+      entry,
       hint: aiConfig().enabled
         ? "这个单词没有查到释义，换个拼写试试？"
         : "内置词库暂未收录这个词。在 .env 里配置 AI_API_KEY 后，可以自动生成中文释义。",

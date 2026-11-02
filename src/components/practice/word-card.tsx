@@ -1,8 +1,9 @@
 "use client";
 
-import { useCallback, useEffect, useLayoutEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import { delJson, postJson } from "@/lib/api-client";
-import { sentenceAround } from "@/lib/text-segments";
+import { speakText, stopSpeaking } from "@/lib/pronounce";
+import { normalizeForVocab, sentenceAround } from "@/lib/text-segments";
 import type { WordEntry } from "@/lib/types";
 import { usePracticeStore } from "@/stores/practice";
 import type { WordClickPayload } from "./article-pane";
@@ -25,7 +26,6 @@ const MARGIN = 12;
 export function WordCard({ payload, passageId, onClose }: Props) {
   const addVocabLocal = usePracticeStore((s) => s.addVocabLocal);
   const removeVocabLocal = usePracticeStore((s) => s.removeVocabLocal);
-  const vocabWords = usePracticeStore((s) => s.vocabWords);
 
   const cardRef = useRef<HTMLDivElement | null>(null);
   const [entry, setEntry] = useState<WordEntry | null>(null);
@@ -33,10 +33,15 @@ export function WordCard({ payload, passageId, onClose }: Props) {
   const [loading, setLoading] = useState(true);
   const [added, setAdded] = useState(false);
   const [saving, setSaving] = useState(false);
+  /** 加入/取消失败时的醒目提示：以前只写进 hint，被释义区盖住，用户以为「点了没反应」 */
+  const [error, setError] = useState<string | null>(null);
   const [pos, setPos] = useState<{ left: number; top: number } | null>(null);
 
-  const context = sentenceAround(payload.paragraphText, payload.word);
-  const normalized = payload.word.toLowerCase();
+  const context = useMemo(
+    () => sentenceAround(payload.paragraphText, payload.word, payload.charOffset),
+    [payload.paragraphText, payload.word, payload.charOffset],
+  );
+  const normalized = normalizeForVocab(payload.word);
 
   /* ---------- 查词 ---------- */
   useEffect(() => {
@@ -44,7 +49,10 @@ export function WordCard({ payload, passageId, onClose }: Props) {
     setLoading(true);
     setEntry(null);
     setHint(null);
-    setAdded(normalized in vocabWords);
+    setError(null);
+    // 读一次当前快照即可，不要把 vocabWords 放进依赖：
+    // 否则加入生词本后 store 变化会立刻触发重新查词，词卡闪回骨架屏、还白吃一次限流额度
+    setAdded(normalized in usePracticeStore.getState().vocabWords);
 
     postJson<LookupResponse>("/api/lookup", {
       word: payload.word,
@@ -55,7 +63,7 @@ export function WordCard({ payload, passageId, onClose }: Props) {
         if (!alive) return;
         setEntry(data.entry);
         setHint(data.hint);
-        setAdded(normalized in vocabWords);
+        setAdded(normalized in usePracticeStore.getState().vocabWords);
       })
       .catch((error: Error) => {
         if (alive) setHint(error.message || "查词失败，请稍后再试");
@@ -67,8 +75,7 @@ export function WordCard({ payload, passageId, onClose }: Props) {
     return () => {
       alive = false;
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [payload.word, payload.paragraphText, vocabWords]);
+  }, [payload.word, payload.paragraphText, payload.charOffset, passageId, context, normalized]);
 
   /* ---------- 边界翻转定位 ---------- */
   const reposition = useCallback(() => {
@@ -121,41 +128,39 @@ export function WordCard({ payload, passageId, onClose }: Props) {
     };
   }, [onClose]);
 
-  /* ---------- 发音 ----------
-   * 不用浏览器内置 speechSynthesis（iOS Safari 经常无声、Android 各厂 TTS 音色不一），
-   * 改用有道词典在线发音 MP3，手机浏览器原生 <audio> 即可播放，兼容性最好。
-   * type=1 美式，type=2 英式；这里默认美式。
-   */
-  const audioRef = useRef<HTMLAudioElement | null>(null);
+  /* ---------- 发音 ---------- */
+  // 先播音频文件、再退回 speechSynthesis。
+  // 百度 / 迅雷这类安卓内置浏览器没有可用语音引擎，旧的单一路径会静默失败，
+  // 表现就是「点了播放按钮没反应」，所以这里还必须把失败原因显示出来。
+  const [speaking, setSpeaking] = useState(false);
   const [accent, setAccent] = useState<"us" | "uk">("us");
 
-  // 单词变了就重新设置 audio src
-  useEffect(() => {
+  const speak = async () => {
+    if (speaking) return;
+    setSpeaking(true);
+    setError(null);
     const word = entry?.word ?? payload.word;
-    if (!word || !audioRef.current) return;
-    const type = accent === "us" ? 1 : 2;
-    audioRef.current.src = `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(word)}&type=${type}`;
-    audioRef.current.load();
-  }, [entry?.word, payload.word, accent]);
-
-  const speak = () => {
-    audioRef.current?.play().catch(() => {
-      // 播放失败（如离线）时静默降级，不打断用户
-    });
+    const channel = await speakText(word, "en", 0.95, accent);
+    setSpeaking(false);
+    if (channel === "failed") {
+      setError("当前浏览器播放不了发音，换 Chrome / Safari / 微信打开即可");
+    }
   };
 
-  const toggleAccent = () => {
-    setAccent((a) => (a === "us" ? "uk" : "us"));
-  };
+  const toggleAccent = () => setAccent((a) => (a === "us" ? "uk" : "us"));
+
+  // 词卡关闭或切词时掐断正在播的声音
+  useEffect(() => stopSpeaking, []);
 
   /* ---------- 加入生词库 ---------- */
   // 即便词典没查到释义（entry 为 null），也允许加入生词本；
   // 释义可后续补全（配置 AI_API_KEY 后重查会自动填充）。
   const addToVocab = async () => {
-    if (saving) return;
+    if (saving || added) return;
     setSaving(true);
+    setError(null);
     try {
-      const word = entry?.word ?? normalized;
+      const word = normalized;
       await postJson("/api/vocab", {
         word,
         phonetic: entry?.phonetic ?? null,
@@ -168,7 +173,9 @@ export function WordCard({ payload, passageId, onClose }: Props) {
       addVocabLocal(word, entry?.definitions[0]?.zh ?? "");
       setAdded(true);
     } catch (error) {
-      setHint(error instanceof Error ? error.message : "加入生词库失败");
+      setError(
+        error instanceof Error && error.message ? `加入失败：${error.message}` : "加入生词本失败，请重试",
+      );
     } finally {
       setSaving(false);
     }
@@ -178,12 +185,15 @@ export function WordCard({ payload, passageId, onClose }: Props) {
   const removeFromVocab = async () => {
     if (saving) return;
     setSaving(true);
+    setError(null);
     try {
       await delJson("/api/vocab", { word: normalized });
       removeVocabLocal(normalized);
       setAdded(false);
     } catch (error) {
-      setHint(error instanceof Error ? error.message : "取消收藏失败");
+      setError(
+        error instanceof Error && error.message ? `取消失败：${error.message}` : "取消收藏失败，请重试",
+      );
     } finally {
       setSaving(false);
     }
@@ -208,13 +218,15 @@ export function WordCard({ payload, passageId, onClose }: Props) {
             <p className="mt-0.5 font-mono text-[12px] text-ink-mute">{entry.phonetic}</p>
           )}
         </div>
-        {/* 发音按钮：美式/英式切换，点击播放 */}
         <button
           type="button"
           onClick={speak}
-          aria-label="朗读单词"
-          title={`${accent === "us" ? "美式" : "英式"}发音，点击切换`}
-          className="mt-0.5 h-7 shrink-0 rounded-full border border-line px-2 text-[11px] text-ink-soft transition-colors hover:border-ink-mute hover:text-accent"
+          aria-label={`朗读单词（当前${accent === "us" ? "美式" : "英式"}发音）`}
+          aria-busy={speaking}
+          title="朗读"
+          className={`mt-0.5 h-7 shrink-0 rounded-full border border-line px-2 text-[11px] transition-colors hover:border-ink-mute hover:text-accent ${
+            speaking ? "animate-pulse text-accent" : "text-ink-soft"
+          }`}
         >
           🔊 {accent === "us" ? "US" : "UK"}
         </button>
@@ -227,8 +239,6 @@ export function WordCard({ payload, passageId, onClose }: Props) {
         >
           ⇄
         </button>
-        {/* 隐藏的 audio 元素，实际播放靠它；preload="none" 避免未点击就下载 */}
-        <audio ref={audioRef} preload="none" className="hidden" />
         <button
           type="button"
           onClick={onClose}
@@ -290,6 +300,14 @@ export function WordCard({ payload, passageId, onClose }: Props) {
       </div>
 
       <div className="border-t border-line-soft px-4 py-2.5">
+        {error && (
+          <p
+            role="alert"
+            className="mb-2 rounded-[6px] bg-wrong-soft px-2.5 py-1.5 text-[11.5px] leading-snug text-wrong"
+          >
+            {error}
+          </p>
+        )}
         {added ? (
           <div className="flex items-center justify-between">
             <span className="text-[12.5px] text-correct">✓ 已在生词本</span>

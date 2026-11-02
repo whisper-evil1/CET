@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { del, delJson, patchJson } from "@/lib/api-client";
+import { delJson, patchJson } from "@/lib/api-client";
 import type { VocabItem } from "@/lib/types";
 
 type Props = {

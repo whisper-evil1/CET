@@ -19,18 +19,44 @@ export async function SiteHeader({ active }: { active?: "home" | "vocab" | "favo
 
   return (
     <header className="sticky top-0 z-30 border-b border-line bg-paper/85 backdrop-blur-sm">
-      <div className="mx-auto flex h-14 max-w-[1180px] items-center gap-6 px-5">
-        <Link href="/" className="group flex items-baseline gap-2">
+      {/* 小屏适配：品牌 + 登录一行，导航独占第二行。
+          之前 414px 宽下 nav 被挤到 33px，五个中文标签逐字竖排，手机上像乱码。
+          用 flex-wrap + order 控制换行，sm 以上恢复单行原布局。 */}
+      <div className="mx-auto flex max-w-[1180px] flex-wrap items-center gap-x-3 gap-y-1 px-4 py-2 sm:h-14 sm:flex-nowrap sm:gap-6 sm:px-5 sm:py-0">
+        <Link href="/" className="group order-1 flex shrink-0 items-baseline gap-2 whitespace-nowrap">
           <span className="font-serif text-[19px] tracking-tight text-ink">左文右题</span>
-          <span className="text-[10px] tracking-[0.22em] text-ink-mute uppercase">CET Reading</span>
+          <span className="hidden text-[10px] tracking-[0.22em] text-ink-mute uppercase sm:inline">
+            CET Reading
+          </span>
         </Link>
 
-        <nav className="ml-2 flex items-center gap-1">
+        <div className="order-2 ml-auto flex shrink-0 items-center gap-3 sm:order-3">
+          {user ? (
+            <Link
+              href="/profile"
+              className="flex shrink-0 items-center gap-2 whitespace-nowrap rounded-full border border-line px-3 py-1 text-[13px] text-ink-soft transition-colors hover:border-ink-mute hover:text-ink"
+            >
+              <span className="flex h-5 w-5 items-center justify-center rounded-full bg-accent text-[10px] text-white">
+                {(user.name ?? user.email ?? "?").slice(0, 1).toUpperCase()}
+              </span>
+              <span className="max-w-[6em] truncate">{user.name ?? user.email}</span>
+            </Link>
+          ) : (
+            <Link
+              href="/login"
+              className="shrink-0 whitespace-nowrap rounded-full bg-ink px-4 py-1.5 text-[13px] text-paper transition-opacity hover:opacity-85"
+            >
+              登录 / 注册
+            </Link>
+          )}
+        </div>
+
+        <nav className="order-3 flex w-full items-center gap-1 overflow-x-auto sm:order-2 sm:ml-2 sm:w-auto sm:shrink">
           {links.map((link) => (
             <Link
               key={link.href}
               href={link.href}
-              className={`rounded px-2.5 py-1.5 text-[13px] transition-colors ${
+              className={`shrink-0 whitespace-nowrap rounded px-2.5 py-1.5 text-[13px] transition-colors ${
                 active === link.key
                   ? "bg-ink text-paper"
                   : "text-ink-soft hover:bg-paper-deep hover:text-ink"
@@ -40,27 +66,6 @@ export async function SiteHeader({ active }: { active?: "home" | "vocab" | "favo
             </Link>
           ))}
         </nav>
-
-        <div className="ml-auto flex items-center gap-3">
-          {user ? (
-            <Link
-              href="/profile"
-              className="flex items-center gap-2 rounded-full border border-line px-3 py-1 text-[13px] text-ink-soft transition-colors hover:border-ink-mute hover:text-ink"
-            >
-              <span className="flex h-5 w-5 items-center justify-center rounded-full bg-accent text-[10px] text-white">
-                {(user.name ?? user.email ?? "?").slice(0, 1).toUpperCase()}
-              </span>
-              {user.name ?? user.email}
-            </Link>
-          ) : (
-            <Link
-              href="/login"
-              className="rounded-full bg-ink px-4 py-1.5 text-[13px] text-paper transition-opacity hover:opacity-85"
-            >
-              登录 / 注册
-            </Link>
-          )}
-        </div>
       </div>
     </header>
   );

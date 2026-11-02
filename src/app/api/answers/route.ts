@@ -14,9 +14,10 @@ export const GET = withApi(async (request: Request) => {
   const paperId = new URL(request.url).searchParams.get("paperId");
   if (!paperId) return Errors.badRequest("缺少 paperId");
 
-  // Passage 不再有 paperId，通过 section 关联
+  // Passage.paperId 是必填外键（v2.0 增量迁移保留），sectionId 可选。
+  // 按 paperId 过滤：既覆盖有 section 的新数据，也覆盖 sectionId 为空的老数据，避免漏查。
   const answers = await prisma.answer.findMany({
-    where: { userId, question: { passage: { section: { paperId } } } },
+    where: { userId, question: { passage: { paperId } } },
     select: {
       questionId: true,
       choice: true,
@@ -46,6 +47,7 @@ export const POST = withApi(async (request: Request) => {
       evidenceText: true,
       evidenceSentences: true,
       type: true,
+      passage: { select: { paper: { select: { level: true } } } },
     },
   });
   if (!question) return Errors.notFound("这道题");
@@ -69,7 +71,7 @@ export const POST = withApi(async (request: Request) => {
 
   // 同步排行榜统计与打卡，失败不影响答题结果返回
   try {
-    await syncUserStats(userId);
+    await syncUserStats(userId, question.passage.paper.level);
   } catch (err) {
     console.error("[stats-sync]", err);
   }

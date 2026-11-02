@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import { postJson } from "@/lib/api-client";
+import { canPronounce, speakText, stopSpeaking } from "@/lib/pronounce";
 import type { VocabItem } from "@/lib/types";
 
 type Props = {
@@ -16,19 +17,23 @@ const PAUSE_OPTIONS = [3, 5, 8, 12] as const;
 const RATE_OPTIONS = [0.5, 0.75, 1, 1.25, 1.5] as const;
 
 /**
- * 随身听模式：Web Speech API 自动连播
- * - 每词独立 speak() + onend 驱动下一个，先 cancel() 清队列
+ * 随身听模式：自动连播
+ * - 发音走 lib/pronounce：先播音频文件、再退回语音合成，
+ *   所以没有语音引擎的安卓内置浏览器（百度 / 迅雷）也能出声
  * - 三种模式：英+中 / 仅英 / 仅中
  * - 语速 0.5-1.5x 可调
  * - 回忆停顿 3/5/8/12 秒可调（读完释义后等多久再切下一个）
  * - 暂停/继续/上一个/下一个/进度条
  * - visibilitychange 时自动暂停
- * - 不支持 speechSynthesis 时显示降级提示
+ * - 两种发声方式都不可用时显示降级提示
  * - 底部"这个我认识"按钮计入 reviewCount
  */
 export function AudioPlayer({ words, onExit }: Props) {
-  const supported =
-    typeof window !== "undefined" && "speechSynthesis" in window;
+  // 乐观按「可用」渲染，挂载后再按真实能力校正，避免 SSR 与客户端首屏不一致
+  const [supported, setSupported] = useState(true);
+  useEffect(() => {
+    setSupported(canPronounce());
+  }, []);
 
   const [index, setIndex] = useState(0);
   const [mode, setMode] = useState<Mode>("both");
@@ -44,52 +49,31 @@ export function AudioPlayer({ words, onExit }: Props) {
   const pauseTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const currentWord = words[index];
 
-  /* ---------- 核心：朗读一个词的英文+中文，用 onend 驱动下一步 ---------- */
+  /* ---------- 核心：朗读一个词的英文 + 中文，读完再驱动下一步 ---------- */
   const playOne = useCallback((word: VocabItem | undefined, onComplete: () => void) => {
-    if (!word || !supported) { onComplete(); return; }
-    window.speechSynthesis.cancel();
+    if (!word) {
+      onComplete();
+      return;
+    }
+    stopSpeaking();
 
     const { mode: m, rate: r } = stateRef.current;
     const zhText = word.definitions.map((d) => `${d.pos} ${d.zh}`).join("；") || "";
 
-    const steps: (() => void)[] = [];
-    if (m !== "zh") {
-      steps.push(() => {
-        const u = new SpeechSynthesisUtterance(word.word);
-        u.lang = "en-US";
-        u.rate = r;
-        u.onend = nextStep;
-        u.onerror = nextStep;
-        window.speechSynthesis.speak(u);
-      });
-    }
-    if (m !== "en" && zhText) {
-      steps.push(() => {
-        const u = new SpeechSynthesisUtterance(zhText);
-        u.lang = "zh-CN";
-        u.rate = r * 0.95;
-        u.onend = nextStep;
-        u.onerror = nextStep;
-        window.speechSynthesis.speak(u);
-      });
-    }
-
-    let stepIndex = 0;
-    function nextStep() {
-      if (stateRef.current.playState !== "playing") return;
-      stepIndex++;
-      if (stepIndex < steps.length) {
-        steps[stepIndex]!();
-      } else {
-        onComplete();
+    void (async () => {
+      // 每一步前后都检查播放状态：中途暂停/切词时不再继续念
+      if (m !== "zh") {
+        if (stateRef.current.playState !== "playing") return;
+        await speakText(word.word, "en", r);
       }
-    }
-    if (steps.length > 0) {
-      steps[0]!();
-    } else {
+      if (m !== "en" && zhText) {
+        if (stateRef.current.playState !== "playing") return;
+        await speakText(zhText, "zh", r * 0.95);
+      }
+      if (stateRef.current.playState !== "playing") return;
       onComplete();
-    }
-  }, [supported]);
+    })();
+  }, []);
 
   /* ---------- 朗读当前词 → 停顿 → 切下一个 ---------- */
   const playCurrent = useCallback(() => {
@@ -130,7 +114,7 @@ export function AudioPlayer({ words, onExit }: Props) {
   const togglePause = () => {
     if (playState === "playing") {
       setPlayState("paused");
-      window.speechSynthesis?.cancel();
+      stopSpeaking();
       if (pauseTimerRef.current) clearTimeout(pauseTimerRef.current);
     } else if (playState === "paused") {
       setPlayState("playing");
@@ -139,7 +123,7 @@ export function AudioPlayer({ words, onExit }: Props) {
   };
 
   const goPrev = () => {
-    window.speechSynthesis?.cancel();
+    stopSpeaking();
     if (pauseTimerRef.current) clearTimeout(pauseTimerRef.current);
     setIndex((prev) => Math.max(0, prev - 1));
     if (playState === "playing") {
@@ -149,7 +133,7 @@ export function AudioPlayer({ words, onExit }: Props) {
   };
 
   const goNext = () => {
-    window.speechSynthesis?.cancel();
+    stopSpeaking();
     if (pauseTimerRef.current) clearTimeout(pauseTimerRef.current);
     setIndex((prev) => Math.min(words.length - 1, prev + 1));
     if (playState === "playing") {
@@ -162,7 +146,7 @@ export function AudioPlayer({ words, onExit }: Props) {
     const onHide = () => {
       if (document.hidden && playState === "playing") {
         setPlayState("paused");
-        window.speechSynthesis?.cancel();
+        stopSpeaking();
         if (pauseTimerRef.current) clearTimeout(pauseTimerRef.current);
       }
     };
@@ -173,7 +157,7 @@ export function AudioPlayer({ words, onExit }: Props) {
   /* ---------- 清理 ---------- */
   useEffect(() => {
     return () => {
-      window.speechSynthesis?.cancel();
+      stopSpeaking();
       if (pauseTimerRef.current) clearTimeout(pauseTimerRef.current);
     };
   }, []);
@@ -200,11 +184,11 @@ export function AudioPlayer({ words, onExit }: Props) {
         >
           ← 返回词表
         </button>
-        <p className="font-serif text-[20px] text-ink">浏览器不支持语音合成</p>
+        <p className="font-serif text-[20px] text-ink">这个浏览器放不出声音</p>
         <p className="mt-3 text-[13px] text-ink-mute">
-          随身听功能依赖 Web Speech API，当前浏览器不支持。
+          随身听需要能播放音频文件或使用语音合成，当前浏览器两种都不可用。
           <br />
-          请使用 Chrome / Edge / Safari 桌面版或移动版。
+          换 Chrome / Safari / 微信打开即可。
         </p>
       </div>
     );

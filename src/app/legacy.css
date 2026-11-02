@@ -1,0 +1,279 @@
+/*
+  老内核兜底样式（Tailwind v4 的 @layer 降级）
+
+  背景：Tailwind v4.3 的输出几乎全部包在 @layer 里，并大量使用 @property / color-mix()。
+  不支持 cascade layers 的内核（Chrome < 99，以及百度、迅雷等内置浏览器）会把
+  @layer 整块丢弃 —— 于是页面上只剩 globals.css 里少数未分层的基础规则，
+  表现为「导航变成蓝色下划线链接、统计项变成纯文本列表」的裸奔状态。
+
+  做法：layout.tsx 里一段 ES5 检测脚本，在不支持 @layer 的内核上给 <html> 打
+  data-css-fallback="1"；本文件全部规则都以该属性为前缀，现代浏览器完全不受影响
+  （未分层规则特异性高于 @layer，必须靠这层开关隔开）。
+
+  取舍：目标是「能读、能点、不裸奔」，不是像素还原。Tailwind v4 官方不支持
+  Chrome < 111，纯 CSS 无法在现代语法缺失时做到完全一致。
+  颜色直接写死，因为 @theme 的 CSS 变量同样在 @layer 里、老内核读不到。
+*/
+
+html[data-css-fallback],
+html[data-css-fallback] body {
+  height: auto;
+}
+
+html[data-css-fallback] body {
+  margin: 0;
+  background: #faf8f3;
+  color: #17181a;
+  font-family: "PingFang SC", "Noto Sans SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.75;
+  -webkit-text-size-adjust: 100%;
+}
+
+html[data-css-fallback] *,
+html[data-css-fallback] *::before,
+html[data-css-fallback] *::after {
+  box-sizing: border-box;
+}
+
+/* ---------- 链接与文字 ---------- */
+html[data-css-fallback] a {
+  color: #a6392b;
+  text-decoration: none;
+}
+
+html[data-css-fallback] h1,
+html[data-css-fallback] h2,
+html[data-css-fallback] h3 {
+  margin: 10px 0;
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+html[data-css-fallback] h1 {
+  font-size: 26px;
+}
+
+html[data-css-fallback] h2 {
+  font-size: 20px;
+}
+
+html[data-css-fallback] h3 {
+  font-size: 16px;
+}
+
+html[data-css-fallback] p {
+  margin: 10px 0;
+}
+
+html[data-css-fallback] ul,
+html[data-css-fallback] ol {
+  margin: 10px 0;
+  padding-left: 20px;
+}
+
+/* ---------- 顶栏 ---------- */
+html[data-css-fallback] header {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  background: #faf8f3;
+  border-bottom: 1px solid #e3ddd0;
+}
+
+html[data-css-fallback] header > div {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 10px 16px;
+}
+
+html[data-css-fallback] nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+}
+
+html[data-css-fallback] nav a {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-size: 13px;
+  color: #43454a;
+  /* 老内核里没有 white-space:nowrap 时，标签会被逐字竖排 */
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* ---------- 主体容器 ---------- */
+html[data-css-fallback] main {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 16px 16px 48px;
+}
+
+html[data-css-fallback] section {
+  padding: 24px 0;
+  border-bottom: 1px solid #e3ddd0;
+}
+
+/* 注意：这里刻意不写通用的 [class*="grid-cols"] / [class*="flex"] 规则。
+   试过，会误伤「只在 md 断点才是网格」的容器（练习页 md:grid-cols-[55%_45%]），
+   把移动端本该纵向堆叠的布局强改成两列，grid 在 shrink-to-fit 语境下
+   minmax(0,1fr) 会塌成 0，正文被挤成一字一行。宁可少还原一点，也不能把布局弄坏。 */
+
+/* ---------- 颜色（写死，因为 @theme 变量拿不到）---------- */
+html[data-css-fallback] [class*="bg-ink"] {
+  background: #17181a;
+  color: #faf8f3;
+}
+
+html[data-css-fallback] [class*="bg-accent"] {
+  background: #a6392b;
+  color: #ffffff;
+}
+
+html[data-css-fallback] [class*="bg-surface"] {
+  background: #ffffff;
+}
+
+html[data-css-fallback] [class*="bg-paper"] {
+  background: #faf8f3;
+}
+
+html[data-css-fallback] [class*="text-ink-mute"] {
+  color: #86888d;
+}
+
+html[data-css-fallback] [class*="text-ink-soft"] {
+  color: #43454a;
+}
+
+html[data-css-fallback] [class*="text-accent"],
+html[data-css-fallback] [class*="text-wrong"] {
+  color: #a6392b;
+}
+
+html[data-css-fallback] [class*="text-correct"] {
+  color: #2e6b4f;
+}
+
+html[data-css-fallback] [class*="text-paper"],
+html[data-css-fallback] [class*="text-white"] {
+  color: #faf8f3;
+}
+
+/* ---------- 线条与圆角 ---------- */
+html[data-css-fallback] [class*="border-line"],
+html[data-css-fallback] [class*="border-b"],
+html[data-css-fallback] [class*="border-t"] {
+  border-color: #e3ddd0;
+}
+
+html[data-css-fallback] [class*="border-line"] {
+  border-width: 1px;
+  border-style: solid;
+}
+
+html[data-css-fallback] [class*="rounded-full"] {
+  border-radius: 999px;
+}
+
+html[data-css-fallback] [class*="rounded"] {
+  border-radius: 8px;
+}
+
+/* ---------- 按钮 ---------- */
+html[data-css-fallback] button {
+  font: inherit;
+  cursor: pointer;
+  padding: 6px 12px;
+  border: 1px solid #e3ddd0;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #17181a;
+}
+
+html[data-css-fallback] button[class*="bg-ink"] {
+  background: #17181a;
+  color: #faf8f3;
+  border-color: #17181a;
+}
+
+html[data-css-fallback] button[class*="bg-accent"] {
+  background: #a6392b;
+  color: #ffffff;
+  border-color: #a6392b;
+}
+
+html[data-css-fallback] button:disabled {
+  opacity: 0.45;
+}
+
+/* ---------- 表单 ---------- */
+html[data-css-fallback] textarea,
+html[data-css-fallback] input[type="text"],
+html[data-css-fallback] input[type="email"],
+html[data-css-fallback] input[type="password"],
+html[data-css-fallback] select {
+  font: inherit;
+  padding: 8px 10px;
+  border: 1px solid #e3ddd0;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #17181a;
+  max-width: 100%;
+}
+
+html[data-css-fallback] textarea {
+  min-height: 64px;
+  width: 100%;
+}
+
+/* ---------- 练习页：左文右题 ---------- */
+/* 两栏在小屏本来就该堆叠，这里只保证两栏能各自滚动、不被挤成一行 */
+html[data-css-fallback] article,
+html[data-css-fallback] [class*="overflow-y"],
+html[data-css-fallback] [class*="overflow-auto"] {
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+html[data-css-fallback] [id*="passage"],
+html[data-css-fallback] [class*="article"] {
+  font-family: Georgia, "Songti SC", serif;
+  font-size: 17px;
+  line-height: 1.85;
+}
+
+/* ---------- 浮层（词卡 / AI 抽屉 / 笔记）---------- */
+html[data-css-fallback] aside,
+html[data-css-fallback] [class*="fixed"] {
+  position: fixed;
+  z-index: 40;
+}
+
+html[data-css-fallback] aside {
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  max-width: 440px;
+  background: #ffffff;
+  border-left: 1px solid #e3ddd0;
+  overflow-y: auto;
+}
+
+/* ---------- 隐藏装饰 ---------- */
+/* 老内核里这些元素只会占位或错位，直接不显示 */
+html[data-css-fallback] [class*="backdrop-blur"] {
+  background: #faf8f3;
+}
+
+html[data-css-fallback] [class*="animate-"] {
+  animation: none;
+}

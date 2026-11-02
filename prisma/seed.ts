@@ -798,6 +798,7 @@ async function seedPaper(input: {
             timeLimit: 30,
             passages: {
               create: [{
+                paperId: input.id,
                 id: `${input.id}-p-writing`,
                 paperId: input.id,
                 order: 1,
@@ -828,6 +829,7 @@ async function seedPaper(input: {
             timeLimit: input.level === "CET4" ? 25 : 30,
             passages: {
               create: [{
+                paperId: input.id,
                 id: `${input.id}-p-listening`,
                 paperId: input.id,
                 order: 1,
@@ -894,6 +896,7 @@ async function seedPaper(input: {
             timeLimit: 30,
             passages: {
               create: [{
+                paperId: input.id,
                 id: `${input.id}-p-translation`,
                 paperId: input.id,
                 order: 1,
