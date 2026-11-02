@@ -28,6 +28,15 @@
 const SHARE_KEY = "cet:sharecode";
 const SHARE_PARAM = "sharecode";
 
+/**
+ * 是否启用 sharecode 透传。默认开启（适配 workbuddy.host 网关：平台会校验每次请求是否带
+ * ?sharecode 或 __wb_rsc cookie，缺失则返 403「链接不完整」）。
+ * 部署到非 workbuddy.host 平台时，设 NEXT_PUBLIC_SHARECODE_ENABLED=false 关闭即可，
+ * 此时 sharecode 不会被拼到任何请求上、也不会触发平台拦截识别，对应用无任何影响。
+ */
+const SHARECODE_ENABLED =
+  (process.env.NEXT_PUBLIC_SHARECODE_ENABLED ?? "true").trim().toLowerCase() !== "false";
+
 /** 当前页面 URL 上的 sharecode（若有） */
 export function sharecodeFromUrl(): string | null {
   if (typeof window === "undefined") return null;
@@ -64,6 +73,7 @@ export function persistSharecode(v: string | null | undefined): void {
  * 同时如果 URL 上有，顺手持久化一下，给后续的相对路径 fetch 兜底。
  */
 export function currentSharecode(): string | null {
+  if (!SHARECODE_ENABLED) return null;
   const fromUrl = sharecodeFromUrl();
   if (fromUrl) {
     persistSharecode(fromUrl);
@@ -77,6 +87,7 @@ export function currentSharecode(): string | null {
  * 只处理同源路径；外链不动。
  */
 export function withSharecode(url: string): string {
+  if (!SHARECODE_ENABLED) return url;
   // 只动同源的相对路径或本站绝对 URL，外链直接返回
   if (/^https?:\/\//i.test(url) && !url.includes("workbuddy.host")) return url;
 

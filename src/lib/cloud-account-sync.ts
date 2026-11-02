@@ -1,5 +1,5 @@
 import { createWorkBuddyCloud } from "@tencent-ai/workbuddy-cloud-sdk";
-import { CLOUD_PUBLIC_CONFIG } from "./cloud-config";
+import { CLOUD_PUBLIC_CONFIG, CLOUD_ENABLED } from "./cloud-config";
 
 /**
  * 账号凭据 → 云服务镜像。
@@ -38,7 +38,7 @@ let client: CloudClient | null = null;
 /** 进程内已确认同步过的本地账号 id，避免每次登录都打一次云 */
 const synced = new Set<string>();
 
-export const cloudAccountSyncEnabled = Boolean(
+export const cloudAccountSyncEnabled = CLOUD_ENABLED && Boolean(
   CLOUD_PUBLIC_CONFIG.endpoint && CLOUD_PUBLIC_CONFIG.publishableKey,
 );
 

@@ -1,5 +1,5 @@
 import { createWorkBuddyCloud } from "@tencent-ai/workbuddy-cloud-sdk";
-import { CLOUD_PUBLIC_CONFIG } from "./cloud-config";
+import { CLOUD_PUBLIC_CONFIG, CLOUD_ENABLED } from "./cloud-config";
 
 /**
  * 云服务客户端（浏览器侧）。
@@ -13,7 +13,7 @@ import { CLOUD_PUBLIC_CONFIG } from "./cloud-config";
  * 仅在浏览器使用：AI 答疑走 cloud.llm，由前端直接发起流式调用，
  * 不经过 Node 服务端中转（云服务 SDK 的约定）。
  */
-export const cloudReady = Boolean(
+export const cloudReady = CLOUD_ENABLED && Boolean(
   CLOUD_PUBLIC_CONFIG.endpoint && CLOUD_PUBLIC_CONFIG.publishableKey,
 );
 
