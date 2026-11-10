@@ -1,0 +1,1483 @@
+{
+  "id": "cet4-2025-12-s3",
+  "level": "CET4",
+  "year": 2025,
+  "month": 12,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "For this part, you are allowed 30 minutes to write an essay on whether university students should take part-time jobs during the semester. You should state your opinion and give reasons. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nShould Students Take Part-time Jobs?\n\nParents often worry that a part-time job will steal time from study. In my view, a limited number of working hours is more likely to help than to harm, provided that the job is chosen with care.\n\nA campus job teaches what a classroom cannot. Serving customers, keeping a till accurate, or helping in a laboratory office forces a student to be punctual, to explain things clearly and to deal with people who are tired or rude. These are the skills employers mention first at interviews, and they are difficult to acquire from a textbook. Earning part of one's own expenses also changes the way money is spent.\n\nThere is a limit, however. Fifteen hours a week can be managed; thirty cannot, at least not without damaging sleep and grades. Work that has nothing to do with one's field, and that offers only repetitive labour, teaches little beyond endurance.\n\nSo the sensible rule is not yes or no, but how much and what kind. A student who works a little, in a place that requires thought, graduates with both a degree and a record.\n\n（约 175 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Farmers' markets were once a familiar sight in every town; then supermarkets pushed them to the edge of the high street. In the past decade they have 26______, not as the main way to buy food but as a weekly ritual for people who care where dinner comes from. The appeal is partly about freshness: a tomato sold within hours of picking tastes different from one that has spent a week in a 27______ lorry. It is also about 28______. Shoppers can ask who grew the beans and how, and stallholders answer without reading a label. For small producers, the market is a 29______ to test a new product without paying for shelf space in a chain store. Yet the economics remain 30______. Rents for a pitch in a popular square have risen, and one wet Saturday can 31______ a week's profit. Local councils, which once treated markets as a nuisance, now 32______ them as a way to bring life back into empty town centres, and some offer free stalls to new traders for the first three months. Whether the revival will 33______ depends on younger customers, who are more likely to order online than to carry a heavy bag home. That is why several markets now 34______ a delivery service and accept cards, and why the best of them have become places to eat as much as places to 35______."
+            },
+            {
+              "label": "词库",
+              "text": "A) begin   B) borrowed   C) burden   D) cancel   E) chance   F) copy   G) grown   H) last   I) offer   J) refrigerated   K) regard   L) shop   M) trust   N) uncertain   O) wipe out"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "begin"
+                },
+                {
+                  "key": "B",
+                  "text": "borrowed"
+                },
+                {
+                  "key": "C",
+                  "text": "burden"
+                },
+                {
+                  "key": "D",
+                  "text": "cancel"
+                },
+                {
+                  "key": "E",
+                  "text": "chance"
+                },
+                {
+                  "key": "F",
+                  "text": "copy"
+                },
+                {
+                  "key": "G",
+                  "text": "grown"
+                },
+                {
+                  "key": "H",
+                  "text": "last"
+                },
+                {
+                  "key": "I",
+                  "text": "offer"
+                },
+                {
+                  "key": "J",
+                  "text": "refrigerated"
+                },
+                {
+                  "key": "K",
+                  "text": "regard"
+                },
+                {
+                  "key": "L",
+                  "text": "shop"
+                },
+                {
+                  "key": "M",
+                  "text": "trust"
+                },
+                {
+                  "key": "N",
+                  "text": "uncertain"
+                },
+                {
+                  "key": "O",
+                  "text": "wipe out"
+                }
+              ],
+              "answer": "G",
+              "analysis": "not as… but as… 表明集市以另一种身份重新壮大；后文又提到摊位租金上涨、议会支持，说明是「增长」而非萎缩。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "not as the main way to buy food but as a weekly ritual"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "begin"
+                },
+                {
+                  "key": "B",
+                  "text": "borrowed"
+                },
+                {
+                  "key": "C",
+                  "text": "burden"
+                },
+                {
+                  "key": "D",
+                  "text": "cancel"
+                },
+                {
+                  "key": "E",
+                  "text": "chance"
+                },
+                {
+                  "key": "F",
+                  "text": "copy"
+                },
+                {
+                  "key": "G",
+                  "text": "grown"
+                },
+                {
+                  "key": "H",
+                  "text": "last"
+                },
+                {
+                  "key": "I",
+                  "text": "offer"
+                },
+                {
+                  "key": "J",
+                  "text": "refrigerated"
+                },
+                {
+                  "key": "K",
+                  "text": "regard"
+                },
+                {
+                  "key": "L",
+                  "text": "shop"
+                },
+                {
+                  "key": "M",
+                  "text": "trust"
+                },
+                {
+                  "key": "N",
+                  "text": "uncertain"
+                },
+                {
+                  "key": "O",
+                  "text": "wipe out"
+                }
+              ],
+              "answer": "J",
+              "analysis": "与「采摘后数小时内出售」形成对比的是「在冷藏车里待一周」，refrigerated lorry 符合保鲜语境。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a week in a ... lorry"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "begin"
+                },
+                {
+                  "key": "B",
+                  "text": "borrowed"
+                },
+                {
+                  "key": "C",
+                  "text": "burden"
+                },
+                {
+                  "key": "D",
+                  "text": "cancel"
+                },
+                {
+                  "key": "E",
+                  "text": "chance"
+                },
+                {
+                  "key": "F",
+                  "text": "copy"
+                },
+                {
+                  "key": "G",
+                  "text": "grown"
+                },
+                {
+                  "key": "H",
+                  "text": "last"
+                },
+                {
+                  "key": "I",
+                  "text": "offer"
+                },
+                {
+                  "key": "J",
+                  "text": "refrigerated"
+                },
+                {
+                  "key": "K",
+                  "text": "regard"
+                },
+                {
+                  "key": "L",
+                  "text": "shop"
+                },
+                {
+                  "key": "M",
+                  "text": "trust"
+                },
+                {
+                  "key": "N",
+                  "text": "uncertain"
+                },
+                {
+                  "key": "O",
+                  "text": "wipe out"
+                }
+              ],
+              "answer": "M",
+              "analysis": "冒号后说顾客可以问「是谁种的、怎么种的」，摊主不用看标签就能回答——指向买卖双方的信任。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "Shoppers can ask who grew the beans and how"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "begin"
+                },
+                {
+                  "key": "B",
+                  "text": "borrowed"
+                },
+                {
+                  "key": "C",
+                  "text": "burden"
+                },
+                {
+                  "key": "D",
+                  "text": "cancel"
+                },
+                {
+                  "key": "E",
+                  "text": "chance"
+                },
+                {
+                  "key": "F",
+                  "text": "copy"
+                },
+                {
+                  "key": "G",
+                  "text": "grown"
+                },
+                {
+                  "key": "H",
+                  "text": "last"
+                },
+                {
+                  "key": "I",
+                  "text": "offer"
+                },
+                {
+                  "key": "J",
+                  "text": "refrigerated"
+                },
+                {
+                  "key": "K",
+                  "text": "regard"
+                },
+                {
+                  "key": "L",
+                  "text": "shop"
+                },
+                {
+                  "key": "M",
+                  "text": "trust"
+                },
+                {
+                  "key": "N",
+                  "text": "uncertain"
+                },
+                {
+                  "key": "O",
+                  "text": "wipe out"
+                }
+              ],
+              "answer": "E",
+              "analysis": "对小生产者而言，集市是「不用付连锁店货架费就能试新品」的机会，a chance to do sth 搭配正确。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "without paying for shelf space"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "begin"
+                },
+                {
+                  "key": "B",
+                  "text": "borrowed"
+                },
+                {
+                  "key": "C",
+                  "text": "burden"
+                },
+                {
+                  "key": "D",
+                  "text": "cancel"
+                },
+                {
+                  "key": "E",
+                  "text": "chance"
+                },
+                {
+                  "key": "F",
+                  "text": "copy"
+                },
+                {
+                  "key": "G",
+                  "text": "grown"
+                },
+                {
+                  "key": "H",
+                  "text": "last"
+                },
+                {
+                  "key": "I",
+                  "text": "offer"
+                },
+                {
+                  "key": "J",
+                  "text": "refrigerated"
+                },
+                {
+                  "key": "K",
+                  "text": "regard"
+                },
+                {
+                  "key": "L",
+                  "text": "shop"
+                },
+                {
+                  "key": "M",
+                  "text": "trust"
+                },
+                {
+                  "key": "N",
+                  "text": "uncertain"
+                },
+                {
+                  "key": "O",
+                  "text": "wipe out"
+                }
+              ],
+              "answer": "N",
+              "analysis": "后文给出摊位租金上涨、一场雨天就抹掉一周利润，说明经营状况「不确定」。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "Rents for a pitch ... have risen"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "begin"
+                },
+                {
+                  "key": "B",
+                  "text": "borrowed"
+                },
+                {
+                  "key": "C",
+                  "text": "burden"
+                },
+                {
+                  "key": "D",
+                  "text": "cancel"
+                },
+                {
+                  "key": "E",
+                  "text": "chance"
+                },
+                {
+                  "key": "F",
+                  "text": "copy"
+                },
+                {
+                  "key": "G",
+                  "text": "grown"
+                },
+                {
+                  "key": "H",
+                  "text": "last"
+                },
+                {
+                  "key": "I",
+                  "text": "offer"
+                },
+                {
+                  "key": "J",
+                  "text": "refrigerated"
+                },
+                {
+                  "key": "K",
+                  "text": "regard"
+                },
+                {
+                  "key": "L",
+                  "text": "shop"
+                },
+                {
+                  "key": "M",
+                  "text": "trust"
+                },
+                {
+                  "key": "N",
+                  "text": "uncertain"
+                },
+                {
+                  "key": "O",
+                  "text": "wipe out"
+                }
+              ],
+              "answer": "O",
+              "analysis": "下雨天顾客少，一周利润会被「抹掉」，wipe out 表示彻底消除，与 can 构成消极可能性。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "one wet Saturday can ... a week's profit"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "begin"
+                },
+                {
+                  "key": "B",
+                  "text": "borrowed"
+                },
+                {
+                  "key": "C",
+                  "text": "burden"
+                },
+                {
+                  "key": "D",
+                  "text": "cancel"
+                },
+                {
+                  "key": "E",
+                  "text": "chance"
+                },
+                {
+                  "key": "F",
+                  "text": "copy"
+                },
+                {
+                  "key": "G",
+                  "text": "grown"
+                },
+                {
+                  "key": "H",
+                  "text": "last"
+                },
+                {
+                  "key": "I",
+                  "text": "offer"
+                },
+                {
+                  "key": "J",
+                  "text": "refrigerated"
+                },
+                {
+                  "key": "K",
+                  "text": "regard"
+                },
+                {
+                  "key": "L",
+                  "text": "shop"
+                },
+                {
+                  "key": "M",
+                  "text": "trust"
+                },
+                {
+                  "key": "N",
+                  "text": "uncertain"
+                },
+                {
+                  "key": "O",
+                  "text": "wipe out"
+                }
+              ],
+              "answer": "K",
+              "analysis": "once treated… now… 构成今昔对比；regard sth as sth（把……视为）与后文「让空荡的市中心恢复生气」搭配。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "as a way to bring life back into empty town centres"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "begin"
+                },
+                {
+                  "key": "B",
+                  "text": "borrowed"
+                },
+                {
+                  "key": "C",
+                  "text": "burden"
+                },
+                {
+                  "key": "D",
+                  "text": "cancel"
+                },
+                {
+                  "key": "E",
+                  "text": "chance"
+                },
+                {
+                  "key": "F",
+                  "text": "copy"
+                },
+                {
+                  "key": "G",
+                  "text": "grown"
+                },
+                {
+                  "key": "H",
+                  "text": "last"
+                },
+                {
+                  "key": "I",
+                  "text": "offer"
+                },
+                {
+                  "key": "J",
+                  "text": "refrigerated"
+                },
+                {
+                  "key": "K",
+                  "text": "regard"
+                },
+                {
+                  "key": "L",
+                  "text": "shop"
+                },
+                {
+                  "key": "M",
+                  "text": "trust"
+                },
+                {
+                  "key": "N",
+                  "text": "uncertain"
+                },
+                {
+                  "key": "O",
+                  "text": "wipe out"
+                }
+              ],
+              "answer": "H",
+              "analysis": "whether the revival will… 问的是这股复兴能否「持续」，取决于年轻顾客是否回流。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "depends on younger customers"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "begin"
+                },
+                {
+                  "key": "B",
+                  "text": "borrowed"
+                },
+                {
+                  "key": "C",
+                  "text": "burden"
+                },
+                {
+                  "key": "D",
+                  "text": "cancel"
+                },
+                {
+                  "key": "E",
+                  "text": "chance"
+                },
+                {
+                  "key": "F",
+                  "text": "copy"
+                },
+                {
+                  "key": "G",
+                  "text": "grown"
+                },
+                {
+                  "key": "H",
+                  "text": "last"
+                },
+                {
+                  "key": "I",
+                  "text": "offer"
+                },
+                {
+                  "key": "J",
+                  "text": "refrigerated"
+                },
+                {
+                  "key": "K",
+                  "text": "regard"
+                },
+                {
+                  "key": "L",
+                  "text": "shop"
+                },
+                {
+                  "key": "M",
+                  "text": "trust"
+                },
+                {
+                  "key": "N",
+                  "text": "uncertain"
+                },
+                {
+                  "key": "O",
+                  "text": "wipe out"
+                }
+              ],
+              "answer": "I",
+              "analysis": "因为年轻人更爱网购，集市便「提供」配送服务并支持刷卡，与前文 accept cards 并列。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "more likely to order online"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "begin"
+                },
+                {
+                  "key": "B",
+                  "text": "borrowed"
+                },
+                {
+                  "key": "C",
+                  "text": "burden"
+                },
+                {
+                  "key": "D",
+                  "text": "cancel"
+                },
+                {
+                  "key": "E",
+                  "text": "chance"
+                },
+                {
+                  "key": "F",
+                  "text": "copy"
+                },
+                {
+                  "key": "G",
+                  "text": "grown"
+                },
+                {
+                  "key": "H",
+                  "text": "last"
+                },
+                {
+                  "key": "I",
+                  "text": "offer"
+                },
+                {
+                  "key": "J",
+                  "text": "refrigerated"
+                },
+                {
+                  "key": "K",
+                  "text": "regard"
+                },
+                {
+                  "key": "L",
+                  "text": "shop"
+                },
+                {
+                  "key": "M",
+                  "text": "trust"
+                },
+                {
+                  "key": "N",
+                  "text": "uncertain"
+                },
+                {
+                  "key": "O",
+                  "text": "wipe out"
+                }
+              ],
+              "answer": "L",
+              "analysis": "places to eat as much as places to… 与 eat 并列，指集市既是吃饭的地方也是购物的场所，故选 shop。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "places to eat as much as places to"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In the sectors that recruit a year ahead, the internship has become the main door into graduate employment. Large employers fill most of their junior vacancies from people they have already watched at work, and a student who has not done one is competing against candidates whose names the recruiters already know. At the biggest firms, more than half of the interns who finish a summer are kept on."
+            },
+            {
+              "label": "B",
+              "text": "Pay divides the market. Paid internships convert into offers far more often than unpaid ones, and the difference is not only the money: an unpaid placement is usually shorter, less supervised and closer to watching than doing. It also filters applicants by background, because only a student with savings or family support can afford three months of full-time work that pays nothing."
+            },
+            {
+              "label": "C",
+              "text": "The legal position is unsettled. In the United States, whether an unpaid intern at a for-profit company must be paid turns on a multi-part test that asks, among other things, who benefits from the arrangement. Britain asks a different question, namely whether the person is a worker in substance. In both countries enforcement is thin, and most disputes end with the intern simply leaving."
+            },
+            {
+              "label": "D",
+              "text": "Micro-internships are the market's answer to the cost. Instead of a summer, a student takes a paid project of twenty to forty hours, often remote, frequently for a firm with no office in their city. Platforms that broker them report steady demand from employers who want a task finished rather than a person trained. The limit is depth: a fortnight shows competence but cannot show how someone behaves across a season."
+            },
+            {
+              "label": "E",
+              "text": "Universities have a stake of their own. Many now award credit for an internship, and some charge tuition for that credit, so a student can end up paying the institution for the right to work for somebody else. Regulators in several American states have questioned the practice; the defence is that the fee buys supervision and a site visit, without which small employers would not take students at all."
+            },
+            {
+              "label": "F",
+              "text": "What employers reward is narrower than students assume. Surveys of recruiters rank evidence of real responsibility above the prestige of the employer's name, and well above the number of placements listed. A candidate who can describe a problem they solved, and what they got wrong, tends to beat one who recites four famous logos. Referrals, all the same, travel further than either."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "In some fields most junior hiring now goes to people the company has already seen working.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段指出大雇主把多数初级岗位留给\"已经看过其工作表现\"的实习生，未实习者等于和熟面孔竞争。B 段讲薪酬差异，不涉及录用渠道。",
+              "type": "匹配题",
+              "evidencePara": "A",
+              "evidenceText": "fill most of their junior vacancies from people they have already watched at work"
+            },
+            {
+              "number": 37,
+              "stem": "Unpaid placements tend to offer thinner experience as well as no income.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段把无薪实习的三个特征并列：时间更短、督导更少、更接近\"看\"而非\"做\"，说明除收入外经历本身也更薄。C 段只谈合法性。",
+              "type": "匹配题",
+              "evidencePara": "B",
+              "evidenceText": "an unpaid placement is usually shorter, less supervised and closer to watching than doing"
+            },
+            {
+              "number": 38,
+              "stem": "Students may be charged by their university for the right to work elsewhere.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段说有的学校对实习学分收学费，等于学生付钱给学校换取替别人工作的资格。D 段讲微实习的时长与深度。",
+              "type": "匹配题",
+              "evidencePara": "E",
+              "evidenceText": "some charge tuition for that credit"
+            },
+            {
+              "number": 39,
+              "stem": "Short projects widen access but reveal little about sustained performance.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段明确指出局限在\"深度\"：两周能证明胜任，却看不出一个人在一整个季度里的表现。A 段讲的是暑期实习的留用率。",
+              "type": "匹配题",
+              "evidencePara": "D",
+              "evidenceText": "The limit is depth: a fortnight shows competence but cannot show how someone behaves across a season"
+            },
+            {
+              "number": 40,
+              "stem": "Recruiters weigh demonstrated responsibility above the employer's reputation.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段说招聘者把\"真做过事\"的证据排在雇主名气之前，也排在实习段数之前。C 段讲法律测试，与招聘偏好无关。",
+              "type": "匹配题",
+              "evidencePara": "F",
+              "evidenceText": "rank evidence of real responsibility above the prestige of the employer's name"
+            },
+            {
+              "number": 41,
+              "stem": "Whether an unpaid placement is lawful depends on who benefits from it, and is rarely tested.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段指出美国的关键是\"谁从这段关系中获益\"的多项测试，且两国执法都很薄弱，争议多以实习生离开告终。B 段讲无薪实习的后果，不涉法条。",
+              "type": "匹配题",
+              "evidencePara": "C",
+              "evidenceText": "turns on a multi-part test that asks, among other things, who benefits from the arrangement"
+            },
+            {
+              "number": 42,
+              "stem": "At the largest firms, a majority of interns are retained as graduate hires.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末句给出\"超过一半留用\"的数字，与题干\"多数被留下\"对应。F 段讲雇主看重什么，不给留用比例。",
+              "type": "匹配题",
+              "evidencePara": "A",
+              "evidenceText": "more than half of the interns who finish a summer are kept on"
+            },
+            {
+              "number": 43,
+              "stem": "Unpaid work selects for students whose families can support them.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段说无薪全职实习实际上按家庭背景筛人，只有有积蓄或家庭支持的学生才负担得起。E 段讲学分收费，虽然也涉及钱，但主体是学校而非家庭筛选。",
+              "type": "匹配题",
+              "evidencePara": "B",
+              "evidenceText": "only a student with savings or family support can afford"
+            },
+            {
+              "number": 44,
+              "stem": "A personal recommendation still carries further than a famous name on a CV.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段末句说内推比\"做过什么\"和\"在哪做过\"都更管用，对应题干\"推荐胜过名校名企\"。D 段讲微实习，不涉及推荐。",
+              "type": "匹配题",
+              "evidencePara": "F",
+              "evidenceText": "Referrals, all the same, travel further than either."
+            },
+            {
+              "number": 45,
+              "stem": "Employers buying short projects want output rather than someone to develop.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段说买微实习的雇主想要\"完成的任务\"而不是\"培养的人\"，这既是需求来源也是深度不足的原因。A 段讲留用，视角不同。",
+              "type": "匹配题",
+              "evidencePara": "D",
+              "evidenceText": "employers who want a task finished rather than a person trained"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Open a packet of biscuits and you will find two dates. One says 'best before', the other 'use by'. Most shoppers read neither carefully, and many assume both mean the same thing: after this day, throw it away. In fact they mean very different things. 'Use by' is about safety and applies to food that spoils quickly, such as fresh meat. 'Best before' is about quality: the biscuits will be less crisp, but they will not poison anyone."
+            },
+            {
+              "label": "B",
+              "text": "The confusion is expensive. Surveys in Britain suggest that households throw away food worth hundreds of pounds a year, and that a large share of it is discarded while still edible, simply because a date has passed. When one supermarket chain removed best-before dates from dozens of long-life products and told customers to use their senses instead, sales of those lines did not fall, and waste in the trial stores dropped."
+            },
+            {
+              "label": "C",
+              "text": "Why, then, do the dates exist? Partly because retailers compete on freshness. A shorter date on the shelf signals a fresher product, so manufacturers have an interest in setting dates early. Partly because of liability: no company wants to be blamed for a customer who ate something old. The result is a system that protects the seller more reliably than it informs the buyer."
+            },
+            {
+              "label": "D",
+              "text": "Some governments have started to act. Several countries now forbid best-before labels on goods that keep for years, such as salt, sugar and hard cheese, and require instead a 'freeze by' date for meat. Campaigners want clearer wording—'often good after' has been proposed—and a rule that date labels must be based on tests rather than on caution."
+            },
+            {
+              "label": "E",
+              "text": "There are limits to the argument. For baby food, and for anyone cooking for a frail elderly relative, the safety date matters and should be respected. The sensible conclusion is not that dates are useless but that one label is being asked to do two jobs. Splitting them, and teaching people the difference, would save money, food and a good deal of unnecessary worry."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What is the difference between the two dates on packaging?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "One is for shops and one is for customers."
+                },
+                {
+                  "key": "B",
+                  "text": "One concerns safety and the other quality."
+                },
+                {
+                  "key": "C",
+                  "text": "One applies to fresh food only."
+                },
+                {
+                  "key": "D",
+                  "text": "They are two names for the same rule."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：use by 关乎安全（易腐食品），best before 关乎品质——饼干只是不脆，不会让人中毒。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "'Use by' is about safety"
+            },
+            {
+              "number": 47,
+              "stem": "What happened when one supermarket removed best-before dates from some products?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Customers stopped buying them."
+                },
+                {
+                  "key": "B",
+                  "text": "The products spoiled more quickly."
+                },
+                {
+                  "key": "C",
+                  "text": "Other chains copied the idea at once."
+                },
+                {
+                  "key": "D",
+                  "text": "Waste fell without sales falling."
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段：试验门店里这些产品销量未降，而浪费下降。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "sales of those lines did not fall, and waste ... dropped"
+            },
+            {
+              "number": 48,
+              "stem": "Why do manufacturers set dates earlier than necessary?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To appear fresher and avoid blame."
+                },
+                {
+                  "key": "B",
+                  "text": "To reduce the cost of testing."
+                },
+                {
+                  "key": "C",
+                  "text": "To sell more salt and sugar."
+                },
+                {
+                  "key": "D",
+                  "text": "Because the law requires it."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段给出两个原因：货架期短显得更新鲜；以及责任问题——没有公司愿为顾客吃了过期食品担责。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "A shorter date on the shelf signals a fresher product"
+            },
+            {
+              "number": 49,
+              "stem": "What does the author suggest about the current labelling system?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is based on thorough testing."
+                },
+                {
+                  "key": "B",
+                  "text": "It has reduced food waste effectively."
+                },
+                {
+                  "key": "C",
+                  "text": "It serves sellers better than buyers."
+                },
+                {
+                  "key": "D",
+                  "text": "It is too complicated for manufacturers."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：这套体系「保护卖家比告知买家更可靠」，即对卖方更有利。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "protects the seller more reliably than it informs the buyer"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's final position?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Date labels should be abolished entirely."
+                },
+                {
+                  "key": "B",
+                  "text": "The two functions should be separated and explained."
+                },
+                {
+                  "key": "C",
+                  "text": "Safety dates should be ignored for most food."
+                },
+                {
+                  "key": "D",
+                  "text": "Only manufacturers can judge whether food is safe."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：结论不是日期无用，而是一个标签承担了两种职能；应拆分并教会人们区别，同时婴儿食品等仍需遵守安全日期。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "one label is being asked to do two jobs"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Ask people how long it takes to form a habit and many will say three weeks. The figure comes from a plastic surgeon's observation of his patients in the 1960s and has been repeated ever since. When researchers actually measured it, they found a median of about sixty-six days, with a range from eighteen to more than two hundred and fifty. The number, it seems, depends on the person and on the behaviour."
+            },
+            {
+              "label": "B",
+              "text": "The mechanism is better understood than the timing. A habit is a link between a cue and an action, strengthened by repetition until the action requires little thought. The cue is usually a place, a time or a preceding action: the kettle boiling, the door closing, the phone unlocking. This is why habits travel badly. A student who runs every morning at home may find that the first week of term destroys the routine, because the cue—the quiet kitchen—has disappeared."
+            },
+            {
+              "label": "C",
+              "text": "In one of the largest studies, participants chose a new habit such as drinking water with lunch or walking for ten minutes after breakfast, and ticked a box each day. Automaticity rose quickly at first and then flattened, in the shape of a curve that never quite reaches the top. Missing a single day made no measurable difference; missing several in a row did."
+            },
+            {
+              "label": "D",
+              "text": "The practical advice that follows is unglamorous. Attach the new behaviour to something that already happens, and keep the context stable. Doing a little every day beats doing a lot once a week, because it is repetition, not intensity, that builds the link. It also helps to make the cue visible: shoes by the door, fruit on the table, the book on the pillow."
+            },
+            {
+              "label": "E",
+              "text": "There are two cautions. The first is that this describes simple actions well and complex ones poorly: you can make a habit of stretching, but not of writing a good essay. The second is that the same machinery builds habits we do not want. Scrolling a phone at a red light is a habit, and a powerful one. Understanding cues therefore cuts both ways: the knowledge that designs a good habit can also be used to sell one."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What did research find about the 'three weeks' figure?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It came from a single observation and is too simple."
+                },
+                {
+                  "key": "B",
+                  "text": "It was confirmed by later studies."
+                },
+                {
+                  "key": "C",
+                  "text": "It applies only to medical patients."
+                },
+                {
+                  "key": "D",
+                  "text": "It was invented by journalists."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：三周说法源自 1960 年代一位整形医生的观察，实测中位数约 66 天，跨度 18 到 250 天以上。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "a median of about sixty-six days"
+            },
+            {
+              "number": 52,
+              "stem": "Why do habits often break when people move?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because motivation falls after a move."
+                },
+                {
+                  "key": "B",
+                  "text": "Because new places are more stressful."
+                },
+                {
+                  "key": "C",
+                  "text": "Because the cues linked to them disappear."
+                },
+                {
+                  "key": "D",
+                  "text": "Because habits depend on willpower."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：线索通常是地点、时间或前一个动作；开学后「安静的厨房」消失，习惯就难以维持。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "the cue—the quiet kitchen—has disappeared"
+            },
+            {
+              "number": 53,
+              "stem": "What did the large study show about missing a day?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It destroyed the habit completely."
+                },
+                {
+                  "key": "B",
+                  "text": "It had no measurable effect."
+                },
+                {
+                  "key": "C",
+                  "text": "It made the habit stronger."
+                },
+                {
+                  "key": "D",
+                  "text": "It only mattered for exercise habits."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：漏掉一天没有可测量的影响，连续漏好几天才有影响。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "Missing a single day made no measurable difference"
+            },
+            {
+              "number": 54,
+              "stem": "What does the author recommend?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Intense effort once a week."
+                },
+                {
+                  "key": "B",
+                  "text": "Waiting for motivation to arrive."
+                },
+                {
+                  "key": "C",
+                  "text": "Changing the environment every month."
+                },
+                {
+                  "key": "D",
+                  "text": "Small daily repetition in a stable setting."
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：把新行为接到已有动作上、保持情境稳定，每天做一点胜过每周做很多，因为建立联结靠重复而非强度。",
+              "type": "主旨题",
+              "evidencePara": "D",
+              "evidenceText": "Doing a little every day beats doing a lot once a week"
+            },
+            {
+              "number": 55,
+              "stem": "What does 'cuts both ways' suggest in the last paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The same knowledge can build or exploit habits."
+                },
+                {
+                  "key": "B",
+                  "text": "Habit research is unreliable."
+                },
+                {
+                  "key": "C",
+                  "text": "Only bad habits are automatic."
+                },
+                {
+                  "key": "D",
+                  "text": "Complex behaviour cannot be studied."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：设计好习惯的知识同样可以用于推销习惯（如红灯时刷手机），因此「有利也有弊、两面都成立」。",
+              "type": "词句含义题",
+              "evidencePara": "E",
+              "evidenceText": "the knowledge that designs a good habit can also be used to sell one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n中国园林有着悠久的历史，是中国人追求自然与和谐的一种表达。园林设计讲究山水、建筑与植物的配合，常在有限空间里营造无穷变化。走进园林，人们会看到假山、池塘、回廊和花窗，每一步的景色都不相同。江南的私家园林最为著名，苏州的几座园林已列入世界文化遗产名录。今天，园林不仅是游览的场所，也为现代城市设计提供了灵感。",
+              "analysis": "【参考译文】\nChinese gardens have a long history and represent a way of seeking harmony with nature. Their design emphasises the combination of water, rock, buildings and plants, and often creates endless variety within a limited space. Walking into a garden, visitors see rockeries, ponds, covered corridors and decorative latticed windows, and the view changes at every step. The private gardens of the region south of the Yangtze are the most famous, and several gardens in Suzhou have been listed as World Cultural Heritage sites. Today gardens are not only places to visit but also a source of inspiration for modern urban design.\n\n【要点】①「追求自然与和谐」用 seeking harmony with nature；②「讲究……的配合」用 emphasises the combination of…；③「在有限的空间里营造无穷的变化」用 creates endless variety within a limited space；④「假山、池塘、回廊、花窗」分别译 rockeries, ponds, covered corridors, latticed windows；⑤「江南」可译 the region south of the Yangtze；⑥「被列入世界文化遗产名录」用 have been listed as World Cultural Heritage sites。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "id": "cet6-2022-06-s1",
+  "level": "CET6",
+  "year": 2022,
+  "month": 6,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether algorithmic recommendation systems should be regulated. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nShould Algorithmic Recommendation Be Regulated?\n\nAsk anyone who has lost an evening to a short-video feed and the answer seems obvious. Yet the case for regulation is weaker than simple indignation suggests.\n\nThe first argument is not about taste but about power. A recommendation system decides what a hundred million people see, and none of them can inspect the rule behind the choice. We accept that a newspaper's front page is edited by someone with a name and a phone number; we have no equivalent account of why a video appeared at the top of the screen. Where influence on that scale is exercised invisibly, disclosure is a fair price.\n\nThe second argument concerns children and extremes. A system optimised for watch time will, at the margin, discover that outrage and despair hold attention. That is not a failure of the design; it is the design succeeding at the wrong objective.\n\nRegulation, however, should be narrow. Bans are easy to announce and easy to evade. Requiring platforms to publish what they optimise for, submit to independent audit and offer an off switch that actually works would achieve more. The question is not whether recommendation should exist, but who is entitled to know how it works.\n\n（约 200 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For most of human history the night was simply the interval in which nothing could be done. Electric light ended that, and roughly one employee in five in industrial economies now works at least part of the week outside the hours of nine to five. The arrangement keeps hospitals, airports and steel mills running, but it 26______ with a biology that has not changed. The internal clock, a cluster of cells that responds to light, 27______ hormone release, body temperature and alertness to a cycle of roughly twenty-four hours. Night shifts do not abolish that cycle; they force the body to 28______ it at the wrong times, and to do so week after week."
+            },
+            {
+              "label": "B",
+              "text": "The health record is now hard to dismiss. Nurses on rotating rosters report higher rates of digestive trouble and hypertension, and several large cohort studies find that people who have worked nights for a decade or more 30______ a higher risk of type 2 diabetes. The mechanism is not only lost sleep. Eating at three in the morning 29______ with the body's handling of sugar, so glucose tolerance is poorer and insulin less effective at the hour when it is most needed. Nor does the damage end when the shifts do: in one long-running study the excess risk 31______ only slowly after workers returned to daytime hours, and for some it never entirely disappeared."
+            },
+            {
+              "label": "C",
+              "text": "Employers are not powerless, though their room to 32______ the harm is limited. Rosters that rotate forwards, from day to evening to night, are easier on the body than those that run backwards, and longer gaps between shifts help more than short ones. Light can be used deliberately: bright light at the start of a night shift 33______ alertness, while a dark bedroom and a fixed sleep window afterwards allow people to 34______. None of this removes the 35______ cost, and none of it will persuade a nurse that the extra pay is generous. It reduces a burden that the timetable, rather than the worker, created."
+            },
+            {
+              "label": "词库",
+              "text": "A) boosts   B) conflicts   C) delay   D) faced   E) faded   F) follow   G) ignore   H) interferes   I) limit   J) ordinary   K) protect   L) recover   M) regulates   N) stable   O) underlying"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "delay" },
+                { "key": "B", "text": "conflicts" },
+                { "key": "C", "text": "ignore" },
+                { "key": "D", "text": "protect" }
+              ],
+              "answer": "B",
+              "analysis": "conflict with sth 意为「与……相冲突」。医院、机场需要人值夜，而人体生物钟并未随之改变，两者相互抵触；后文 this cycle 的讨论也说明这是一种冲突关系。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "with a biology that has not changed"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "regulates" },
+                { "key": "B", "text": "ordinary" },
+                { "key": "C", "text": "delay" },
+                { "key": "D", "text": "ignore" }
+              ],
+              "answer": "A",
+              "analysis": "主语是 the internal clock，宾语是激素分泌、体温与警觉度，只有 regulate（调节、调控）能搭配这三者，并说明生物钟把它们纳入约二十四小时的周期。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "to a cycle of roughly twenty-four hours"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "protect" },
+                { "key": "B", "text": "ignore" },
+                { "key": "C", "text": "follow" },
+                { "key": "D", "text": "stable" }
+              ],
+              "answer": "C",
+              "analysis": "force the body to follow it at the wrong times：身体被迫在错误的时间「遵循」这个周期。do not abolish…force…follow 构成对照，强调周期仍在，只是被强行错位。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "at the wrong times"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "delay" },
+                { "key": "B", "text": "ordinary" },
+                { "key": "C", "text": "protects" },
+                { "key": "D", "text": "interferes" }
+              ],
+              "answer": "D",
+              "analysis": "interfere with sth 为固定搭配，指干扰、妨碍。凌晨三点进食会干扰人体对糖的处理，故葡萄糖耐量变差、胰岛素效率降低。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "so glucose tolerance is poorer and insulin less effective"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "faced" },
+                { "key": "B", "text": "ignored" },
+                { "key": "C", "text": "delayed" },
+                { "key": "D", "text": "stable" }
+              ],
+              "answer": "A",
+              "analysis": "face a risk 为常用搭配「面临风险」。此处说长期上夜班的人「面临」更高的二型糖尿病风险，与前面 report/find 的队列研究结论一致。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "a higher risk of type 2 diabetes"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "protected" },
+                { "key": "B", "text": "faded" },
+                { "key": "C", "text": "delayed" },
+                { "key": "D", "text": "stable" }
+              ],
+              "answer": "B",
+              "analysis": "fade 指（逐渐）减弱、消退。只有 slowly 与 never entirely disappeared 才能与之呼应：风险在改回白班后「缓慢消退」，有些人则从未完全恢复。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "only slowly after workers returned to daytime hours"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "ignore" },
+                { "key": "B", "text": "protect" },
+                { "key": "C", "text": "limit" },
+                { "key": "D", "text": "delay" }
+              ],
+              "answer": "C",
+              "analysis": "room to limit the harm 指「把损害控制住的余地」。下文列举排班、光照等措施，都是在减少而非消除伤害，末句 removes…reduces 的对照也印证此处是「限制」。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "though their room to ... the harm is limited"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "boosts" },
+                { "key": "B", "text": "delays" },
+                { "key": "C", "text": "ignores" },
+                { "key": "D", "text": "protects" }
+              ],
+              "answer": "A",
+              "analysis": "boost alertness 意为提高警觉度。夜班开始时给强光，是为了让人清醒；while 之后讲下班后要保持黑暗以便休息，前后正好一升一降。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "while a dark bedroom and a fixed sleep window afterwards"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "delay" },
+                { "key": "B", "text": "protect" },
+                { "key": "C", "text": "recover" },
+                { "key": "D", "text": "ordinary" }
+              ],
+              "answer": "C",
+              "analysis": "allow people to recover 指下班后得以「恢复」。暗的卧室与固定的睡眠时段都是为恢复创造条件，前文讲损害，此处讲修复，逻辑闭合。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "a fixed sleep window afterwards"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "stable" },
+                { "key": "B", "text": "ordinary" },
+                { "key": "C", "text": "underlying" },
+                { "key": "D", "text": "protect" }
+              ],
+              "answer": "C",
+              "analysis": "the underlying cost 指「根本性的代价」：上述措施只是减轻，并未消除由排班制度本身造成的那部分代价；末句 burden that the timetable created 正是 underlying 的注解。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "a burden that the timetable, rather than the worker, created"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When a photographer in Ohio died in 2019, her children found forty thousand images on a laptop and nothing at all in the cloud. The account that held twelve years of work was locked behind a password and a two-factor code that arrived on a phone buried with her. Her son spent eight months proving to a support team that he was her heir. The company eventually granted access; the law, strictly read, never obliged it to."
+            },
+            {
+              "label": "B",
+              "text": "The legal difficulty is that almost every account is governed by a contract, and the contract says that the account belongs to one person and cannot be transferred. Property law, which has centuries of rules for what happens to a house or a watch, has almost none for a licence that simply ends at death. Privacy law then pulls in the opposite direction: messages and photographs belong to the dead person as much as to the family, and the dead cannot consent to disclosure."
+            },
+            {
+              "label": "C",
+              "text": "Platforms have begun to fill the gap, unevenly. One offers a 'legacy contact' who may post and download but not read private messages; another turns the profile into a memorial page; a third deletes everything after a period of inactivity unless somebody objects. The tools are genuinely useful and almost invisible. Buried four menus deep, they are discovered by the families who need them only after the need has arisen."
+            },
+            {
+              "label": "D",
+              "text": "A will is an awkward instrument for this purpose. A password written into one becomes a security liability the moment a solicitor reads the document, and it is likely to be out of date within a year. Several American states have tried legislation instead, giving a personal representative a general right to the contents of an account while carving out an exception for private correspondence. That is a sensible compromise, and a hard one to explain to a grieving daughter."
+            },
+            {
+              "label": "E",
+              "text": "Behind the technical question sits an older one. What the dead person would have wanted is, by definition, unavailable, and the family's reconstruction of it is usually generous to itself. A parent who kept a diary encrypted presumably meant it to stay encrypted; the same parent might also have wanted the photographs of the grandchildren printed, framed and hung in a hallway."
+            },
+            {
+              "label": "F",
+              "text": "Money complicates the sentiment. Accounts hold business records, royalty streams, cryptocurrency and the login that keeps a company trading. Small firms routinely discover that the only person who understood the invoicing system has died, and that his mailbox, the index to everything else, is closed. Here the case for access is strongest and the privacy interest weakest."
+            },
+            {
+              "label": "G",
+              "text": "The emerging advice is unglamorous: make an inventory, decide what should be preserved and what destroyed, and give one trusted person a route in that does not depend on a sheet of paper in a drawer. Beyond that, no single default will fit every family, and it is unrealistic to expect legislators to write one. Courts will go on deciding, case by case, what the dead would have wanted, which is the slowest possible system and perhaps the only honest one."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "A family could not open an account because the security code went to a phone that had been buried.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "A",
+              "analysis": "A 段：账号被密码与双重验证锁住，而验证码发到了随逝者下葬的手机上。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "a two-factor code that arrived on a phone buried with her"
+            },
+            {
+              "number": 37,
+              "stem": "The terms attached to an account forbid passing it to another person.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：账号由合同（服务条款）约束，合同规定账号只属于一人且不可转让。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "belongs to one person and cannot be transferred"
+            },
+            {
+              "number": 38,
+              "stem": "Existing property rules say next to nothing about what happens to a licence at death.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：财产法对房屋、手表有几百年的规则，对「在死亡时终止的许可」几乎无规定。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "has almost none for a licence that simply ends at death"
+            },
+            {
+              "number": 39,
+              "stem": "Some services let users name a person to manage an account after death.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：某平台提供 legacy contact，可发帖、下载，但不能读私信。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "One offers a 'legacy contact'"
+            },
+            {
+              "number": 40,
+              "stem": "The relevant tools are hard to find and are usually discovered too late.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：这些功能藏在四层菜单之下，家属往往在需要发生之后才发现它们。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "only after the need has arisen"
+            },
+            {
+              "number": 41,
+              "stem": "A password recorded in a will may be both insecure and quickly out of date.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：遗嘱里的密码一经律师阅读即成安全隐患，且一年之内很可能已失效。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "a security liability the moment a solicitor reads the document"
+            },
+            {
+              "number": 42,
+              "stem": "Legislation in some places grants access while protecting private correspondence.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：美国若干州立法，赋予遗产代理人查阅账号内容的普通权利，但对私人通信设例外。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "carving out an exception for private correspondence"
+            },
+            {
+              "number": 43,
+              "stem": "Those who inherit can only guess what the dead person would have chosen.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：逝者本人的意愿按定义已不可得，家属的「复原」往往对自己有利。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "the family's reconstruction of it is usually generous to itself"
+            },
+            {
+              "number": 44,
+              "stem": "A company may be unable to function because only one employee had access.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：小企业常发现唯一懂开票系统的人已去世，而他的邮箱又是其他一切的索引。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "the only person who understood the invoicing system has died"
+            },
+            {
+              "number": 45,
+              "stem": "The author expects disputes to be settled one by one rather than by a single rule.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "G",
+              "analysis": "G 段：没有一种默认规则能适配所有家庭，立法者也写不出这样一条，只能由法院一案一议——最慢，也许最诚实。",
+              "type": "态度题",
+              "evidencePara": "G",
+              "evidenceText": "no single default will fit every family"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The covered market in the old quarter opens at five, when the first vans unload in the dark and the vegetable sellers stack cabbages into pyramids. For most of the last century it was where the city bought its food. It is now one of the few places where a pensioner can buy a single tomato, a bunch of parsley and ten minutes of conversation. Meanwhile the share of households ordering groceries through an app has passed seventy per cent, and the market's tiled aisles are quiet by eleven."
+            },
+            {
+              "label": "B",
+              "text": "City governments have responded with renovation. The formula is familiar: replace the concrete floor, improve the lighting, add a food hall on the upper level, commission a mural, install wifi and rebrand the whole building as a 'market experience'. The money has to come from somewhere, and it comes from the stalls. Rents are recalculated to reflect the improved premises, on the reasonable principle that the people who benefit should pay."
+            },
+            {
+              "label": "C",
+              "text": "The results follow a pattern that few officials intend. The traders who leave first are the ones selling at the lowest margin: the vegetable stall, the bean-curd seller, the man who repairs shoes. The stalls that remain sell coffee, cured meat and small plates to visitors, at prices the old customers cannot pay. The building is cleaner, the photographs are better, and on a Tuesday in February it is empty. A market that has become a place to take photographs has stopped being a place where people shop."
+            },
+            {
+              "label": "D",
+              "text": "A cheaper model exists and is less photographed. It spends the money on drainage, refrigeration, loading bays and decent toilets, the things that make cheap food possible, and leaves the rents where they were. Vendors sit on the committee that decides the works, because they know which problems cost them customers. Evening use is encouraged, not by a marketing campaign but by letting the market stay open when the neighbourhood is actually awake."
+            },
+            {
+              "label": "E",
+              "text": "None of this is an argument against improvement. A market with a leaking roof and nowhere to wash is not romantic; it is simply worse. The argument is about what counts as success. Footfall rewards the market that attracts visitors, and the visitors come for the atmosphere that the cheap stalls produce. Measure the renovation by who is still buying vegetables there in February and the design decisions change: the fish counter stays, the mural goes, and the rent rise is reclassified as what it is, a transfer from poor shoppers to a better-lit building."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What has changed about the market's position in the first paragraph?",
+              "options": [
+                { "key": "A", "text": "It has stopped selling fresh produce altogether." },
+                { "key": "B", "text": "It now competes with app-based grocery delivery." },
+                { "key": "C", "text": "It has become the city's main tourist attraction." },
+                { "key": "D", "text": "It has raised its prices to match supermarkets." }
+              ],
+              "answer": "B",
+              "analysis": "A 段末：通过 App 订菜的家庭已超过七成，市场十一点就安静下来。这说明它的竞争者已从超市变为线上配送。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "the share of households ordering groceries through an app has passed seventy per cent"
+            },
+            {
+              "number": 47,
+              "stem": "What usually follows from the renovation formula described in the second and third paragraphs?",
+              "options": [
+                { "key": "A", "text": "Rents rise and the lowest-margin traders leave." },
+                { "key": "B", "text": "Vendors are given long rent-free periods." },
+                { "key": "C", "text": "The building is handed over to a private operator." },
+                { "key": "D", "text": "The number of vegetable stalls increases." }
+              ],
+              "answer": "A",
+              "analysis": "B 段说改造费用只能从摊位租金里出，C 段紧接着说最先离开的正是利润率最低的摊贩。两句构成因果链。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "The traders who leave first are the ones selling at the lowest margin"
+            },
+            {
+              "number": 48,
+              "stem": "What does the author imply by saying the market has become 'a place to take photographs'?",
+              "options": [
+                { "key": "A", "text": "The building is now better lit and cleaner." },
+                { "key": "B", "text": "Visitors have replaced customers as its real users." },
+                { "key": "C", "text": "Photography has become an important source of income." },
+                { "key": "D", "text": "The market has been turned into a museum." }
+              ],
+              "answer": "B",
+              "analysis": "紧接着的一句是 a market…has stopped being a place where people shop，说明「来拍照的人」取代了「来买菜的人」，外观成为目的，交易成为背景。",
+              "type": "词句含义题",
+              "evidencePara": "C",
+              "evidenceText": "has stopped being a place where people shop"
+            },
+            {
+              "number": 49,
+              "stem": "What is the author's attitude towards renovation itself?",
+              "options": [
+                { "key": "A", "text": "He rejects it as gentrification by another name." },
+                { "key": "B", "text": "He accepts the need for it but disputes the criterion of success." },
+                { "key": "C", "text": "He believes it should be paid for entirely by the city." },
+                { "key": "D", "text": "He is indifferent, since markets are bound to close." }
+              ],
+              "answer": "B",
+              "analysis": "E 段开头明确说 none of this is an argument against improvement，漏雨的屋顶并不浪漫；随后把争论归结为 what counts as success，即标准问题而非要不要改。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "None of this is an argument against improvement"
+            },
+            {
+              "number": 50,
+              "stem": "Which measure would the author regard as evidence that a renovation has worked?",
+              "options": [
+                { "key": "A", "text": "A rise in the number of visitors at weekends." },
+                { "key": "B", "text": "Higher rental income for the city." },
+                { "key": "C", "text": "Residents still buying everyday food there in winter." },
+                { "key": "D", "text": "Coverage of the building in design magazines." }
+              ],
+              "answer": "C",
+              "analysis": "E 段提出用「二月里还有谁在那里买菜」来衡量改造，并说这样一换标准，鱼摊留下、壁画取消、涨租被重新定性。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "Measure the renovation by who is still buying vegetables there in February"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Four out of five apartment blocks in the inner suburbs of Chinese cities were built before 2000, when a lift was a luxury and six floors were considered walkable. They are now full of people for whom six floors is not walkable at all. A woman of seventy-eight who has lived in the same flat for forty years may leave it twice a week, and each departure is planned like an expedition. Since 2019 the central government has offered subsidies for retrofitted lifts, and the programme has stalled in exactly the buildings that need it most."
+            },
+            {
+              "label": "B",
+              "text": "The obstacle is not engineering. A lift shaft can be bolted to the outside of a building in a few months. The obstacle is consent. Rules vary by city, but most require agreement from two-thirds of households, and some require unanimity, which gives a single dissenting family a veto. The objections are not irrational. A shaft outside the kitchen window removes the light that made a ground-floor flat tolerable, and the noise arrives at the hour when its occupants are trying to sleep."
+            },
+            {
+              "label": "C",
+              "text": "Money divides the building just as sharply. A household on the top floor may gain a third of the value of its flat; a household on the ground floor gains nothing and loses daylight. Yet the standard formula spreads the cost by floor in a way that asks the first floor to pay for a benefit it will never receive. The result is a negotiation in which the parties are not arguing about the same thing: one is buying mobility, the other is being asked to sell light."
+            },
+            {
+              "label": "D",
+              "text": "Where it has worked, it has usually worked because someone paid the ground floor to agree. In one Hangzhou block the settlement was a package: the upper floors financed a new window and a share of the maintenance fund for the objecting family, and the design was changed so the shaft stood a metre further from the wall. The lift was installed in a year. In a neighbouring district, the same problem went to court and took three years, during which two of the elderly residents died."
+            },
+            {
+              "label": "E",
+              "text": "It is tempting to conclude that the subsidy is too small. It is not; in most cities it covers half the cost. The bottleneck is the procedure. Cities have forgotten how to run a negotiation between neighbours, having spent thirty years outsourcing such things to developers and property managers. Retrofitting a lift requires exactly the local institution that was dismantled: a body that can convene the residents, hear the objections, and put money on the table. Until that exists, more subsidy will produce more meetings, and the woman on the sixth floor will go on planning her expeditions."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the first paragraph suggest about the residents of these blocks?",
+              "options": [
+                { "key": "A", "text": "They mostly moved in after 2000." },
+                { "key": "B", "text": "Their flats were designed for a younger population." },
+                { "key": "C", "text": "They have asked to be rehoused." },
+                { "key": "D", "text": "They rarely use the stairs at all." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：这些楼建于 2000 年前，当时「六层还算能爬」，如今住满了爬不动六层的人。建筑是按另一个年龄结构设计的，人口却已改变。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "They are now full of people for whom six floors is not walkable at all"
+            },
+            {
+              "number": 52,
+              "stem": "Why is the requirement of unanimity significant?",
+              "options": [
+                { "key": "A", "text": "It makes the process slower but fairer." },
+                { "key": "B", "text": "It gives one household the power to block the project." },
+                { "key": "C", "text": "It obliges every family to contribute equally." },
+                { "key": "D", "text": "It is the rule in every city in the country." }
+              ],
+              "answer": "B",
+              "analysis": "B 段：多数城市要求三分之二同意，有些要求全体一致，这就让「一个反对的家庭拥有否决权」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "gives a single dissenting family a veto"
+            },
+            {
+              "number": 53,
+              "stem": "What does the third paragraph identify as the core of the conflict?",
+              "options": [
+                { "key": "A", "text": "The two sides want different things from the same deal." },
+                { "key": "B", "text": "The upper floors cannot afford the installation." },
+                { "key": "C", "text": "The building's structure cannot support a shaft." },
+                { "key": "D", "text": "The ground floor would gain more than it loses." }
+              ],
+              "answer": "A",
+              "analysis": "C 段末：谈判双方谈的不是同一件事——一方在买「可移动性」，另一方被要求卖「采光」。利益不可通约，才是症结。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the parties are not arguing about the same thing"
+            },
+            {
+              "number": 54,
+              "stem": "What does the Hangzhou case show?",
+              "options": [
+                { "key": "A", "text": "Courts resolve such disputes faster than negotiation." },
+                { "key": "B", "text": "Compensation and redesign can convert a veto into consent." },
+                { "key": "C", "text": "Subsidies are unnecessary when neighbours cooperate." },
+                { "key": "D", "text": "Ground-floor families always oppose the scheme." }
+              ],
+              "answer": "B",
+              "analysis": "D 段：杭州那个楼栋用「补偿＋改设计」的一揽子方案换来同意，一年装成；隔壁区走诉讼，三年，期间两位老人去世。对比说明可谈判的方案更有效。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "the settlement was a package"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's conclusion about the programme?",
+              "options": [
+                { "key": "A", "text": "It needs far more public money to succeed." },
+                { "key": "B", "text": "It should be limited to buildings with younger residents." },
+                { "key": "C", "text": "Its real shortage is a local body able to negotiate." },
+                { "key": "D", "text": "It will succeed once lifts become cheaper." }
+              ],
+              "answer": "C",
+              "analysis": "E 段：补贴并不少（通常覆盖一半），真正卡住的是程序——城市失去了组织邻里协商的地方机构；没有它，更多的钱只会带来更多的会。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "The bottleneck is the procedure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n漆扇是近年来重新流行起来的一种手工艺品。制作者把天然大漆滴入水中，用细签轻轻拨动，让漆在水面形成流动的纹理，再把素白的扇面浸入水中，颜料便附着其上，取出晾干，一把扇子就做成了。水面流动无法复制，每把漆扇的图案都独一无二。中国的漆艺已有数千年历史，常用于装饰家具和器皿。如今，漆扇制作直观、成品美观，成为许多年轻人接触传统工艺的入门方式。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe lacquer fan is a craft that has become popular again in recent years. The maker drips natural lacquer into water and stirs it gently with a thin stick, so that the lacquer forms flowing patterns on the surface. A plain white fan is then dipped into the water, the pigment settles on it, and the fan is lifted out and left to dry in the air. Because the movement of the water can never be reproduced exactly, no two fans carry the same pattern. Lacquer work in China goes back at least several thousand years and has long been used to decorate furniture, vessels and dishes. Today, because the process is easy to watch and the result is beautiful, the lacquer fan has become for many young people a first step into traditional craft.\n\n【要点】①「把漆滴入水中」用 drip…into water，注意主语一致；②「让漆形成流动的纹理」用 so that 引导结果状语从句，比逐字译 make the lacquer form 更自然；③「浸入」「附着其上」「取出晾干」用三个并列的被动结构，保持动作顺序；④「无法复制」用 can never be reproduced，被动语态体现「被复制」，加 exactly 更贴合「完全一样」之意；⑤「入门方式」宜意译为 a first step into，直译 entrance method 生硬；⑥时态：描述工艺过程用一般现在时，「已有数千年历史」用一般现在时或现在完成时均可。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

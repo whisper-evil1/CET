@@ -1,0 +1,647 @@
+{
+  "id": "cet6-2024-12-s2",
+  "level": "CET6",
+  "year": 2024,
+  "month": 12,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether universities should require every student to take courses in the humanities. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nShould the Humanities Be Compulsory?\n\nThe case for compulsion rests on a claim that is easy to defend in theory: a university is not a training centre, and a graduate who can price a derivative but cannot read a contract critically is only half educated. Compulsory courses also protect the subjects that students, left alone, would never choose—and those subjects are rarely the ones that pay.\n\nThe case against is stronger than academics usually admit. A requirement is a course taken for a grade by people who did not want it, and the result is often a survey course taught to a resentful hall. Nothing extinguishes an interest in philosophy faster than being examined on it at eight in the morning.\n\nA better arrangement is neither abolition nor compulsion but design. Require one course, and make it a good one: small, argumentative, taught by people who can show why the question matters. Let the rest be elective. The purpose of a requirement is to guarantee an encounter, not to manufacture enthusiasm, and one genuine encounter is worth more than four dutiful ones.\n\n（约 200 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Heat is the quietest of climate hazards and the deadliest. Unlike a flood it leaves no rubble to photograph: its victims die at home, alone, in the afternoon, and the death certificate records a heart attack rather than a temperature. Cities have therefore begun to draw up heat plans that treat a forecast as a public-health warning—26______ hospitals in advance, opening cooled rooms in libraries and 27______ outdoor work between noon and four. The measures are inexpensive, and their 28______ is unusually well documented: in the European heatwave of 2003 some 70,000 excess deaths were recorded, most of them elderly people living alone."
+            },
+            {
+              "label": "B",
+              "text": "What such plans cannot do is 29______ the heat itself. A city of glass towers and dark asphalt absorbs sunlight all day and releases it at night, so that the hours in which the body ought to recover become the hours of greatest 30______. The remedy is largely botanical. A mature street tree can lower the air beneath its canopy by two or three degrees, and a continuous canopy does more than the same number of trees 31______ at random. White roofs, parks running along old waterways and pavements that hold rain instead of shedding it all work on one principle: the city must be given back the capacity to 32______ the water and shade that concrete took away."
+            },
+            {
+              "label": "C",
+              "text": "Heat is also distributed unequally within a single postcode. Districts with thinner canopy, older housing and fewer cooled public buildings record higher mortality, and their residents are the least able to 33______ the cost of cooling. Money helps, but the most 34______ finding of recent research is that the difference between a city that copes and one that does not is rarely the temperature. It is the density of trees, the age of the neighbours and whether anybody knocks on the door. Officials who treat adaptation as a problem of engineering 35______ a simpler truth: the dead are usually found alone, and the cheapest protection ever devised is a neighbour with a key."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "closing" },
+                { "key": "B", "text": "alerting" },
+                { "key": "C", "text": "reserving" },
+                { "key": "D", "text": "inspecting" }
+              ],
+              "answer": "B",
+              "analysis": "与后文 opening cooled rooms、restricting outdoor work 并列的三项应急措施，第一项应是「提前提醒医院」：alert hospitals in advance。closing hospitals 与高温应对逻辑相反，reserving／inspecting 与「预警」这一功能无关。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "treat a forecast as a public-health warning"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "restricting" },
+                { "key": "B", "text": "expanding" },
+                { "key": "C", "text": "recording" },
+                { "key": "D", "text": "advertising" }
+              ],
+              "answer": "A",
+              "analysis": "正午到下午四点是最热时段，把户外作业「限制」在这一时段之外才是防暑措施；restrict outdoor work between noon and four 与 opening cooled rooms 同属降温减曝露。expanding（扩大）会把工人推入最危险的时段。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "between noon and four"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "expense" },
+                { "key": "B", "text": "popularity" },
+                { "key": "C", "text": "effectiveness" },
+                { "key": "D", "text": "novelty" }
+              ],
+              "answer": "C",
+              "analysis": "冒号后给出 2003 年热浪约七万例超额死亡的数据，是在证明这些措施的「有效性」有据可查（well documented）。expense 与前句 inexpensive 重复且矛盾；novelty 与「有据可查」不搭。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "some 70,000 excess deaths were recorded"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "measure" },
+                { "key": "B", "text": "predict" },
+                { "key": "C", "text": "eliminate" },
+                { "key": "D", "text": "export" }
+              ],
+              "answer": "C",
+              "analysis": "What such plans cannot do is… 是「能做什么／不能做什么」的对照，后文说城市白天吸热夜间释放，说明计划无法「消除」热本身，只能减轻后果。measure／predict 本是计划已经在做的事。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "cannot do is ... the heat itself"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "comfort" },
+                { "key": "B", "text": "risk" },
+                { "key": "C", "text": "humidity" },
+                { "key": "D", "text": "leisure" }
+              ],
+              "answer": "B",
+              "analysis": "本应让身体恢复的夜间反而成为最危险的时段，the hours of greatest risk 概括这一反直觉的判断；comfort 与 recover 的语义方向相反，humidity 只是可能的原因之一，不能概括「最……的时段」。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "the hours in which the body ought to recover"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "planted" },
+                { "key": "B", "text": "watered" },
+                { "key": "C", "text": "counted" },
+                { "key": "D", "text": "chosen" }
+              ],
+              "answer": "A",
+              "analysis": "the same number of trees planted at random 是过去分词短语作后置定语，与「连续树冠」形成对比：同样数量的树，零散种植效果更差。watered／counted／chosen 都不能表达「种植方式」这一变量。",
+              "type": "语法题",
+              "evidencePara": "B",
+              "evidenceText": "a continuous canopy does more than the same number of trees"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "drain" },
+                { "key": "B", "text": "retain" },
+                { "key": "C", "text": "heat" },
+                { "key": "D", "text": "transport" }
+              ],
+              "answer": "B",
+              "analysis": "pavements that hold rain instead of shedding it 已提示关键词 hold，故此处是让城市恢复「留住」水与阴凉的能力：retain。drain 正是被批评的「排水即逝」的旧做法。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "hold rain instead of shedding it"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "justify" },
+                { "key": "B", "text": "estimate" },
+                { "key": "C", "text": "afford" },
+                { "key": "D", "text": "reduce" }
+              ],
+              "answer": "C",
+              "analysis": "本段讲高温风险在同一邮编内部分配不均，树冠更少、住房更旧的居民「最无力承担」制冷费用：be able to afford the cost。justify／estimate 与「无力」搭配后语义不通。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "their residents are the least able to"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "expensive" },
+                { "key": "B", "text": "familiar" },
+                { "key": "C", "text": "recent" },
+                { "key": "D", "text": "striking" }
+              ],
+              "answer": "D",
+              "analysis": "后文给出一个反直觉结论——城市能否应对高温「很少取决于气温」，而是取决于树、邻居的年龄和有没有人敲门，故 the most striking finding「最引人注目的发现」。familiar 与反直觉的结论矛盾。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "the difference ... is rarely the temperature"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "confirm" },
+                { "key": "B", "text": "overlook" },
+                { "key": "C", "text": "repeat" },
+                { "key": "D", "text": "discover" }
+              ],
+              "answer": "B",
+              "analysis": "把适应问题当作工程问题的人「忽视」了一个更简单的事实：死者通常是独居者。后文 a simpler truth 表明这是被遗漏而非被证实或发现的内容。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "a simpler truth: the dead are usually found alone"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The great museums of nineteenth-century Europe were not neutral storehouses. They were arguments in stone about who a nation was: the Louvre opened in 1793 with the collections of the monarchy, the British Museum grew alongside an empire that supplied it, and both arranged the world in a sequence that placed the European present at the top. To walk the galleries was to be taught a version of history, and the lesson was absorbed through the feet rather than the ears."
+            },
+            {
+              "label": "B",
+              "text": "The work of memory happens at the label. An object enters a collection through a transaction—a purchase, a gift, a dig, a confiscation—and leaves the register as a specimen with a date, a place and a donor. What is written on the card becomes the object's public identity; what is left off the card becomes, in practice, unknowable. Curators have long understood that the caption is where authority is exercised most quietly, and where it can most easily be contested."
+            },
+            {
+              "label": "C",
+              "text": "What museums omitted was very often labour. A Benin bronze was catalogued by its kingdom and its metal, rarely by the expedition that removed it; a Chinese vase was dated to a dynasty but not to the kiln workers whose names were never recorded. The silence is not a conspiracy. Classification systems inherit the questions their makers thought worth asking, and those questions were usually asked by people who did not have to do the carrying."
+            },
+            {
+              "label": "D",
+              "text": "Since the 1990s a different practice has spread. Source communities are invited to interpret objects and, in some cases, to veto the way they are displayed; the principle, borrowed from disability activism, is that nothing about a community should be presented without that community. The results are not always comfortable. An exhibition that gives equal space to a curator and to a descendant of the people who made the objects raises an awkward question about which of them is the expert."
+            },
+            {
+              "label": "E",
+              "text": "Restitution has moved from the margins to the front of the agenda. In 2018 a report commissioned by President Macron recommended the return of African heritage held in French museums; in 2022 Germany began transferring ownership of the Benin Bronzes. The obstacles are legal as much as political: many collections are barred by statute from selling or giving away objects, and the international conventions drafted in the twentieth century were designed to protect property rather than to undo its acquisition."
+            },
+            {
+              "label": "F",
+              "text": "Digitisation has changed the terms of the argument without settling it. A photograph of an object can be seen anywhere, which is a genuine form of access; but a digital surrogate has no weight, no smell and no room around it, and it separates the thing from the place that gave it meaning. Museums that have put their collections online have found a new audience and a new problem: an object that exists everywhere is, in a sense, nowhere."
+            },
+            {
+              "label": "G",
+              "text": "The conclusion is uncomfortable for institutions that still speak of universal value. Memory is not a stock of objects but a practice of argument about them, and a museum's authority now depends less on what it owns than on how candidly it explains how the ownership came about. That is a smaller claim than the one the nineteenth century made, and a more defensible one."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Nineteenth-century museums taught a national version of history through the order of their displays.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "A",
+              "analysis": "A 段：卢浮宫与大英博物馆「按把欧洲当下置于顶端的次序排列世界」，参观即接受一种历史叙事。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "both arranged the world in a sequence that placed the European present at the top"
+            },
+            {
+              "number": 37,
+              "stem": "What the public understands an object to be is determined by the information recorded beside it.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：卡片上写的成为文物的公共身份，没写上的则事实上无从知晓。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "What is written on the card becomes the object's public identity"
+            },
+            {
+              "number": 38,
+              "stem": "Systems of classification carry the assumptions of the people who created them.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：分类体系「继承了制作者认为值得一问的问题」，而那些问题通常由不必亲自搬运的人提出。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "Classification systems inherit the questions their makers thought worth asking"
+            },
+            {
+              "number": 39,
+              "stem": "Communities of origin may now influence how their own heritage is exhibited.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：自 1990 年代以来，来源社群受邀解读文物，某些情况下还可否决陈列方式。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "Source communities are invited to interpret objects"
+            },
+            {
+              "number": 40,
+              "stem": "The guiding idea behind this practice was taken from campaigns by disabled people.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段明确说 the principle「borrowed from disability activism」，即「没有社群参与就不要呈现社群」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "borrowed from disability activism"
+            },
+            {
+              "number": 41,
+              "stem": "The law protects existing ownership more readily than it reverses it.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：许多藏品受成文法限制不得处置，二十世纪的国际公约「是为了保护财产而非撤销取得」。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "designed to protect property rather than to undo its acquisition"
+            },
+            {
+              "number": 42,
+              "stem": "An object can now be seen by anyone anywhere, at the cost of its link with a particular place.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：数字替身没有重量、气味与周围空间，「把物与赋予它意义的地点分开了」。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "it separates the thing from the place that gave it meaning"
+            },
+            {
+              "number": 43,
+              "stem": "Something accessible in every location is arguably present in none of them.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "F",
+              "analysis": "F 段末句：an object that exists everywhere is, in a sense, nowhere，正是该陈述的同义改写。",
+              "type": "词句含义题",
+              "evidencePara": "F",
+              "evidenceText": "an object that exists everywhere is, in a sense, nowhere"
+            },
+            {
+              "number": 44,
+              "stem": "A museum's standing now rests on candour about provenance rather than on the size of its holdings.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "G",
+              "analysis": "G 段：权威「现在较少取决于它拥有什么，而更多取决于它多坦率地解释所有权如何形成」。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "less on what it owns than on how candidly it explains how the ownership came about"
+            },
+            {
+              "number": 45,
+              "stem": "A report ordered by a head of state urged the return of African objects.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：2018 年马克龙委托的报告建议归还法国博物馆收藏的非洲文物。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "a report commissioned by President Macron recommended the return of African heritage"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Financial education has become the policy of first resort. More than seventy countries now require some personal-finance content in the school curriculum, and international organisations promote it with the confidence once reserved for literacy itself. The appeal is easy to understand: it costs less than regulation, offends no industry and speaks in the language of opportunity. A young person who understands compound interest is, on this view, equipped for a lifetime of decisions that earlier generations are said to have made badly."
+            },
+            {
+              "label": "B",
+              "text": "The evidence is less obliging. Reviews of school programmes find that they raise test scores reliably and change behaviour modestly, and that the behavioural gains fade within a year or two unless they are reinforced at the moment a decision is actually taken. A student who can calculate an interest rate at seventeen may still take out a payday loan at twenty-five, because the loan was not a calculation problem. It was a cash-flow emergency at the end of a month."
+            },
+            {
+              "label": "C",
+              "text": "This points to the deeper difficulty. Financial behaviour is shaped by the design of products, the volatility of income and the defaults that a bank or an employer chooses. Where a pension is automatic, participation rises from roughly half the workforce to near ninety per cent without anyone being taught anything; where the same form must be completed by hand, an identical population produces a very different result. Financial literacy is being asked to do work that regulation, product design and a stable income do better."
+            },
+            {
+              "label": "D",
+              "text": "The remedy is not to abandon teaching. Understanding how a mortgage amortises, what an annual percentage rate includes and why a guaranteed return is a warning sign are genuine goods, and they are best delivered just before they are needed—at the point of a first loan, a first payslip, a first credit card. Several regulators now require a short, compulsory module at the moment of borrowing, and the early results are more encouraging than anything achieved in a classroom."
+            },
+            {
+              "label": "E",
+              "text": "The risk is political. A government that teaches people to budget can plausibly claim to have addressed poverty without having changed the price of housing, the cost of credit or the wage that makes budgeting impossible. Financial education is a useful skill and a poor alibi. The honest formulation is that it should be taught as one part of consumer protection, never as a substitute for it."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "Why do policymakers find financial education so attractive?",
+              "options": [
+                { "key": "A", "text": "It has been shown to raise national savings rates." },
+                { "key": "B", "text": "It appears to offer a cheaper alternative to regulating markets." },
+                { "key": "C", "text": "It is opposed by the financial industry." },
+                { "key": "D", "text": "It replaces the need for school mathematics." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：it costs less than regulation, offends no industry，且用「机会」的语言说话——这正是政策制定者偏爱它的原因。文章并未说它已被证明能提高国民储蓄率（B 段反而质疑其效果）。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "it costs less than regulation, offends no industry"
+            },
+            {
+              "number": 47,
+              "stem": "What do reviews of school programmes conclude?",
+              "options": [
+                { "key": "A", "text": "They improve knowledge but alter behaviour only slightly and briefly." },
+                { "key": "B", "text": "They have no measurable effect of any kind." },
+                { "key": "C", "text": "They work best when taught to older students." },
+                { "key": "D", "text": "They reduce borrowing among young adults substantially." }
+              ],
+              "answer": "A",
+              "analysis": "B 段：课程「可靠地提高考试分数，对行为的改变却很有限」，且行为收益一两年内消退。B 项过于绝对，原文明确说 raise test scores reliably。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "raise test scores reliably and change behaviour modestly"
+            },
+            {
+              "number": 48,
+              "stem": "The payday-loan example is used to show that",
+              "options": [
+                { "key": "A", "text": "young people cannot understand interest rates" },
+                { "key": "B", "text": "bad financial choices often stem from circumstance rather than ignorance" },
+                { "key": "C", "text": "payday lenders should be banned outright" },
+                { "key": "D", "text": "school courses are taught by unqualified staff" }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：那笔贷款「不是计算问题，而是月底的现金流紧急状况」，即决策由处境而非知识水平决定。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "It was a cash-flow emergency at the end of a month"
+            },
+            {
+              "number": 49,
+              "stem": "What does the pension comparison demonstrate?",
+              "options": [
+                { "key": "A", "text": "Older workers save more than younger ones." },
+                { "key": "B", "text": "Teaching people about pensions is unnecessary." },
+                { "key": "C", "text": "How a scheme is designed matters more than what people know." },
+                { "key": "D", "text": "Handwritten forms are more reliable than digital ones." }
+              ],
+              "answer": "C",
+              "analysis": "C 段：自动参保时参与率从约一半升至近九成，而「无人被教过任何东西」；同一人群换个填表方式结果迥异，说明制度设计比知识更有力。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "without anyone being taught anything"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's attitude towards financial education?",
+              "options": [
+                { "key": "A", "text": "It should be abandoned in favour of stricter regulation." },
+                { "key": "B", "text": "It is valuable, but must not be offered as a substitute for protection." },
+                { "key": "C", "text": "It is the most effective tool available to governments." },
+                { "key": "D", "text": "It mainly benefits the financial industry." }
+              ],
+              "answer": "B",
+              "analysis": "末段：The remedy is not to abandon teaching，但「作为消费者保护的一部分来教，绝不作为其替代品」；a useful skill and a poor alibi 正是这一分寸。A 项与 not to abandon 冲突。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "never as a substitute for it"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Adaptation to heat has a favourite technology, and it is the one that caused the problem. Global sales of air conditioners have climbed steeply for two decades; the International Energy Agency counts roughly two billion units in use and projects that the number could more than triple by 2050. Each unit protects the person inside the room. Each unit also dumps waste heat into the street, raises demand on the grid at the hour when the grid is most fragile and, where the electricity comes from coal, adds to the loading that made the summer dangerous in the first place."
+            },
+            {
+              "label": "B",
+              "text": "The same pattern appears in insurance. Insurers do not argue about the climate; they reprice. In parts of California and Florida, companies have withdrawn from entire regions or been declared insolvent after a sequence of fires and storms. Withdrawal is the market's quiet way of announcing that a place has become uninsurable, and the announcement arrives long before any government is willing to say that the place should not be rebuilt."
+            },
+            {
+              "label": "C",
+              "text": "Engineering can also move risk rather than remove it. A levee protects the land behind it and encourages building there; when it fails, the damage is greater than it would have been without it. A sea wall holds the water back from one stretch of coast and accelerates erosion along the next. None of this is an argument against walls. It is an argument against counting the value protected and ignoring the cost transferred."
+            },
+            {
+              "label": "D",
+              "text": "The distributional question decides whether an adaptation is honest. A household that can afford insulation, a heat pump and a generator adapts privately and quietly; a household that cannot stays in the same heat and waits for a bus. Cities that have measured this find that the districts with the least green space are also those with the oldest residents and the lowest incomes—which is to say that the people least able to move are the most exposed to the hazard that is hardest to escape."
+            },
+            {
+              "label": "E",
+              "text": "It follows that adaptation cannot be judged by the damage it prevents in aggregate. A project that protects an expensive neighbourhood and pushes the water onto a cheap one has reduced the total on the spreadsheet and increased the injustice on the ground. The test is not whether a city survives the summer, but who in the city survives it, and at whose expense the rest were kept cool."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What is paradoxical about air conditioning as a response to heat?",
+              "options": [
+                { "key": "A", "text": "It is too expensive for most households to buy." },
+                { "key": "B", "text": "It cools interiors while making the outdoor heat worse." },
+                { "key": "C", "text": "It works only in countries with coal-fired power." },
+                { "key": "D", "text": "It has become less efficient over the past twenty years." }
+              ],
+              "answer": "B",
+              "analysis": "A 段首句点明「它正是造成问题的技术」：室内降温，却把废热排到街上、在电网最脆弱时推高需求。C 项把「若电力来自煤」的条件偷换成「只在……才有效」。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "it is the one that caused the problem"
+            },
+            {
+              "number": 52,
+              "stem": "What does 'Insurers do not argue about the climate; they reprice' imply?",
+              "options": [
+                { "key": "A", "text": "Insurers have no opinion on climate policy." },
+                { "key": "B", "text": "Premiums are set by governments rather than markets." },
+                { "key": "C", "text": "Their pricing communicates risk more frankly than public debate does." },
+                { "key": "D", "text": "Insurance has become unprofitable everywhere." }
+              ],
+              "answer": "C",
+              "analysis": "B 段：退出与涨价是「市场宣告某地已不可保的安静方式」，且比任何政府愿意承认的时间都早——即以价格而非言辞表达判断。",
+              "type": "词句含义题",
+              "evidencePara": "B",
+              "evidenceText": "the market's quiet way of announcing that a place has become uninsurable"
+            },
+            {
+              "number": 53,
+              "stem": "The levee example illustrates that",
+              "options": [
+                { "key": "A", "text": "flood defences always fail eventually" },
+                { "key": "B", "text": "protection can attract further development into danger" },
+                { "key": "C", "text": "engineers overestimate the cost of construction" },
+                { "key": "D", "text": "governments should stop building defences" }
+              ],
+              "answer": "B",
+              "analysis": "C 段：堤坝保护其后的土地，同时「鼓励在那里建房」，一旦失守损失更大——风险被转移而非消除。末句明确说这不是反对建墙的论据，故 A、D 过度。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "encourages building there"
+            },
+            {
+              "number": 54,
+              "stem": "According to the fourth paragraph, what makes an adaptation 'honest'?",
+              "options": [
+                { "key": "A", "text": "Whether its costs and benefits are fairly distributed." },
+                { "key": "B", "text": "Whether it is approved by the affected residents." },
+                { "key": "C", "text": "Whether it uses the latest engineering techniques." },
+                { "key": "D", "text": "Whether it reduces total damage in the long run." }
+              ],
+              "answer": "A",
+              "analysis": "D 段首句：决定一种适应措施是否「诚实」的是分配问题——能负担的人私下适应，负担不起的人留在同样的高温里。B 项「居民批准」文中未提。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "The distributional question decides whether an adaptation is honest"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's main point in the final paragraph?",
+              "options": [
+                { "key": "A", "text": "Aggregate figures are the best guide to adaptation policy." },
+                { "key": "B", "text": "Wealthy districts should pay for their own defences." },
+                { "key": "C", "text": "Adaptation should be judged by who remains exposed, not by totals." },
+                { "key": "D", "text": "Cities cannot survive extreme heat without outside help." }
+              ],
+              "answer": "C",
+              "analysis": "E 段：把水推向便宜街区的工程「在表格上减少了损失总额，在地面上增加了不公」；标准不是城市能否熬过夏天，而是「城市里谁能熬过」。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "The test is not whether a city survives the summer, but who in the city survives it"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n乡村振兴战略于2017年首次提出，旨在缩小城乡差距、实现农业农村现代化。过去十年间，中国累计改造农村公路超过二百五十万公里，使具备条件的建制村全部通了硬化路；农村自来水普及率也已超过百分之九十。在产业方面，各地因地制宜发展特色种植、乡村旅游和农产品加工，为农民提供了新的收入来源。然而，青壮年劳动力外流、公共服务不足等问题依然存在。因此，乡村振兴不仅是一项经济工程，更是一场涉及教育、医疗与治理方式的社会变革。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe rural revitalisation strategy was first put forward in 2017, with the aim of narrowing the gap between town and countryside and modernising agriculture and rural areas. Over the past decade China has upgraded more than 2.5 million kilometres of rural roads, so that every administrative village meeting the necessary conditions is now connected by a paved road; the share of rural households with piped tap water has also risen above ninety per cent. On the industrial side, localities have developed specialised farming, rural tourism and the processing of agricultural produce in line with local conditions, creating new sources of income for farmers. Problems remain, however: young and middle-aged workers continue to leave for the cities, and public services are still inadequate. Rural revitalisation is therefore not merely an economic project but a social transformation touching on education, health care and the way local affairs are governed.\n\n【要点】①专有政策名用 rural revitalisation strategy，首次提出用 was first put forward；②「缩小城乡差距」用 narrowing the gap between town and countryside；③「具备条件的建制村」译为 every administrative village meeting the necessary conditions，用分词短语作后置定语；④「因地制宜」用 in line with local conditions，避免直译 according to local conditions 的机械感；⑤「不仅……更是……」用 not merely…but…，保持递进；⑥末句「治理方式」译为 the way local affairs are governed，比 governance 更具体。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

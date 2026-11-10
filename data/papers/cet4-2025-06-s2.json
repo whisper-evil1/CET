@@ -1,0 +1,647 @@
+{
+  "id": "cet4-2025-06-s2",
+  "level": "CET4",
+  "year": 2025,
+  "month": 6,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on why every college student should learn basic first aid. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nWhy Every College Student Should Learn Basic First Aid\n\nMost students will witness at least one emergency before they graduate: a classmate choking in the canteen, a cyclist hit by a car, a friend collapsing at a party. In that moment what matters is not courage but a few simple procedures.\n\nFirst aid is learnable in an afternoon. The three skills that save most lives are easy to describe: checking whether a person responds, calling for help and starting chest compressions, and stopping severe bleeding by pressing hard on the wound. None of them requires a medical degree, and all of them are more useful than the advanced mathematics many students forget within a year.\n\nLearning them also changes behaviour. People who have practised on a dummy are far more likely to act, because the fear of doing harm is replaced by the memory of doing it correctly. Universities already require swimming tests and physical education; a certified first-aid course would take four hours and might save a life in the next building.\n\n（约 175 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A supermarket throws away food for reasons that have little to do with hunger. A cucumber that bends, a loaf with the wrong shape, a yoghurt two days from its date: all of it can 26______ the shelves before anyone has tasted it. In France, a law passed in 2016 made it 27______ for large stores to destroy unsold food that is still safe to eat. Instead they must donate it to charities or send it for animal feed and compost."
+            },
+            {
+              "label": "B",
+              "text": "Three years later, researchers at the University of Grenoble 28______ how much the law had actually changed. Donations of fresh produce rose sharply, and the quantity of edible food sent to landfill fell by about a third. The 29______ was not entirely smooth: charities complained that they received too many carrots in January and almost nothing in July, and some stores simply 30______ the cost of storage onto the volunteers who collected the food."
+            },
+            {
+              "label": "C",
+              "text": "Economists point out that the law treats a 31______ of the problem as if it were the whole. Shops account for only a small part of wasted food; most of it is lost on farms or in kitchens. Still, campaigners argue that visible rules change 32______. When a store must weigh and record what it throws out, staff begin to order more carefully and to cut prices on food that is close to its date. Several chains have since 33______ their ordering systems, and some now sell imperfect vegetables at a 34______. The French experiment has been copied in Italy and Spain, though with weaker penalties. Whether it will 35______ in countries where food is cheap and storage is expensive remains an open question."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "label" },
+                { "key": "B", "text": "leave" },
+                { "key": "C", "text": "lift" },
+                { "key": "D", "text": "load" }
+              ],
+              "answer": "B",
+              "analysis": "弯的黄瓜、形状不对的面包、快过期的酸奶，还没人尝过就可能**离开**货架（leave the shelves）；label（贴标签）、lift（抬起）、load（装载）都不能与 shelves 搭配表示「下架丢弃」。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "before anyone has tasted it"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "illegal" },
+                { "key": "B", "text": "unlikely" },
+                { "key": "C", "text": "unnecessary" },
+                { "key": "D", "text": "unusual" }
+              ],
+              "answer": "A",
+              "analysis": "后句用 Instead they must donate（必须改为捐赠），说明法国 2016 年的法律把「销毁仍可食用的食品」定为**违法**（illegal）；unlikely 与 must 的法律强制性不符。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "Instead they must donate it to charities"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "exceeded" },
+                { "key": "B", "text": "exchanged" },
+                { "key": "C", "text": "excluded" },
+                { "key": "D", "text": "examined" }
+              ],
+              "answer": "D",
+              "analysis": "格勒诺布尔大学的研究者**考察**了法律究竟带来多少变化，后面给出捐赠上升、填埋下降等量化结论，正是 examined 的结果；exceeded（超过）、exchanged（交换）、excluded（排除）都不能接 how much 从句表示研究。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "how much the law had actually changed"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "tradition" },
+                { "key": "B", "text": "transition" },
+                { "key": "C", "text": "translation" },
+                { "key": "D", "text": "transport" }
+              ],
+              "answer": "B",
+              "analysis": "冒号后讲「一月胡萝卜太多、七月几乎什么都没有」，说明从旧做法转向捐赠的**过渡**（transition）并不顺利；tradition（传统）与法律改革相反，translation、transport 与语境无关。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "was not entirely smooth"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "packed" },
+                { "key": "B", "text": "paused" },
+                { "key": "C", "text": "passed" },
+                { "key": "D", "text": "praised" }
+              ],
+              "answer": "C",
+              "analysis": "pass the cost onto sb. 意为「把成本转嫁给某人」，句中是商店把仓储成本**转嫁**给上门收食物的志愿者；packed 与 paused 都不能接 the cost onto。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "onto the volunteers who collected the food"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "shape" },
+                { "key": "B", "text": "share" },
+                { "key": "C", "text": "shelf" },
+                { "key": "D", "text": "shift" }
+              ],
+              "answer": "B",
+              "analysis": "a share of the problem 表示「问题的一部分」：下一句用 only a small part of wasted food 呼应，说明法律只解决了很小的一份；shape、shift 无「份额」义。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "as if it were the whole"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "behaviour" },
+                { "key": "B", "text": "belief" },
+                { "key": "C", "text": "balance" },
+                { "key": "D", "text": "budget" }
+              ],
+              "answer": "A",
+              "analysis": "破折号后是证据：店员开始更谨慎地订货、给临期食品降价，这些都是**行为**（behaviour）的改变；belief（信念）无法解释具体的订货与定价动作。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "staff begin to order more carefully"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "removed" },
+                { "key": "B", "text": "revealed" },
+                { "key": "C", "text": "reversed" },
+                { "key": "D", "text": "revised" }
+              ],
+              "answer": "D",
+              "analysis": "几家连锁企业此后**修订**了订货系统（revise the ordering system），与前句「更谨慎地订货」一致；reversed 是「彻底颠倒」，removed（移除）、revealed（揭示）都不合逻辑。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "their ordering systems"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "discount" },
+                { "key": "B", "text": "dispute" },
+                { "key": "C", "text": "display" },
+                { "key": "D", "text": "distance" }
+              ],
+              "answer": "A",
+              "analysis": "at a discount 是固定搭配「打折出售」，与前半句 cut prices 同义：把长得不好看的蔬菜**降价**卖掉；dispute（争端）、display（展示）、distance（距离）都不能构成 at a ~ 的价格表达。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "sell imperfect vegetables"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "warn" },
+                { "key": "B", "text": "waste" },
+                { "key": "C", "text": "weigh" },
+                { "key": "D", "text": "work" }
+              ],
+              "answer": "D",
+              "analysis": "Whether it will ___ in countries where… 问的是这套办法在别国是否**行得通**（work），与全文「能否推广」的疑问一致；warn、waste、weigh 都不能以 it 作主语表示「奏效」。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "remains an open question"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For decades the night train looked like a relic. Cheap flights and high-speed lines had taken most of its passengers, and by 2014 Germany's state operator had withdrawn its sleeper services altogether. Then, in December 2021, Austria's national railway launched a Nightjet linking Vienna and Paris, and the service sold out within days."
+            },
+            {
+              "label": "B",
+              "text": "The revival is driven by policy as much as by demand. France banned short domestic flights on routes where a train journey of under two and a half hours exists, and several European governments now tax aviation fuel while exempting rail. A single night train from Brussels to Vienna carries roughly the same number of passengers as three short-haul flights, at a fraction of the emissions."
+            },
+            {
+              "label": "C",
+              "text": "Passengers give a simpler reason: a night train turns travel time into sleep. A business traveller who leaves Berlin at nine in the evening and arrives in Zurich at eight has saved a hotel bill and a working day. Families value the absence of airports and luggage limits. On busy routes, couchettes sell out weeks ahead, while the most expensive private cabins are the last to go."
+            },
+            {
+              "label": "D",
+              "text": "The economics, however, remain difficult. A sleeper carriage carries fewer people than a seated one, needs more staff, and spends its days parked. Track access charges are calculated per kilometre, so a train that crosses four borders pays four sets of fees. Operators say a night service needs to run at about 70 per cent occupancy all year to break even, a level that seasonal demand makes hard to reach."
+            },
+            {
+              "label": "E",
+              "text": "Rolling stock is the bottleneck. The carriages now in use are mostly thirty to forty years old, bought second-hand from operators that no longer wanted them. New sleeper trains were ordered in 2018 and began entering service only in 2023. A single set costs tens of millions of euros and takes years to build, which is longer than most governments stay in office."
+            },
+            {
+              "label": "F",
+              "text": "Coordination is another obstacle. A route from Amsterdam to Barcelona passes through four countries, each with its own signalling rules, safety approvals and timetable slots. A train that misses its slot at a border may wait an hour, which destroys the schedule for every passenger on board. The European Union has appointed a coordinator for night services, but progress is slow."
+            },
+            {
+              "label": "G",
+              "text": "None of this suggests that night trains will replace flying. Their realistic role is on routes of eight to fourteen hours, where a flight plus a hotel costs more and feels worse. In those corridors the demand now exists; the question is whether Europe can build enough carriages and agree on enough rules before the enthusiasm fades."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Travellers see the sleeper as a way to sleep through the journey and save a night in a hotel.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "C",
+              "analysis": "C 段首句：a night train turns travel time into sleep；随后举例说商务旅客省下了 a hotel bill and a working day。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "saved a hotel bill and a working day"
+            },
+            {
+              "number": 37,
+              "stem": "The shortage of suitable carriages is the main limit on expansion.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "E",
+              "analysis": "E 段首句直接点明 Rolling stock is the bottleneck（车辆是瓶颈）：现用车厢三四十年车龄、二手购入，新车 2018 年订货到 2023 年才投用。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "Rolling stock is the bottleneck"
+            },
+            {
+              "number": 38,
+              "stem": "Government measures against short flights have helped sleeper services.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：复兴「driven by policy as much as by demand」——法国禁止两小时半火车可达航线的短途航班，多国对航空燃油征税而免征铁路。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "France banned short domestic flights"
+            },
+            {
+              "number": 39,
+              "stem": "A sleeper only breaks even if it is well filled throughout the year.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：需要全年约 70% 的上座率才能 break even，而季节性需求使这一水平难以达到。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "70 per cent occupancy all year to break even"
+            },
+            {
+              "number": 40,
+              "stem": "One national operator had dropped all of its sleeper trains a decade earlier.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "A",
+              "analysis": "A 段：by 2014 Germany's state operator had withdrawn its sleeper services altogether——德国国营铁路在 2014 年前完全退出卧铺业务。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "withdrawn its sleeper services altogether"
+            },
+            {
+              "number": 41,
+              "stem": "Differing national technical rules make cross-border services hard to operate.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：阿姆斯特丹到巴塞罗那要过四国，各有 signalling rules、safety approvals 与时刻资源，协调被称作 another obstacle。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "each with its own signalling rules"
+            },
+            {
+              "number": 42,
+              "stem": "The most realistic market is medium-length journeys rather than very long ones.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "G",
+              "analysis": "G 段：现实定位是 8 到 14 小时的线路，这些线路上「机票加酒店更贵、体验更差」；同时明确夜车不会取代飞机。",
+              "type": "推断题",
+              "evidencePara": "G",
+              "evidenceText": "routes of eight to fourteen hours"
+            },
+            {
+              "number": 43,
+              "stem": "A sleeping carriage earns less than an ordinary one because it holds fewer people and needs more staff.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段第二句：卧铺车厢载客比座车少（carries fewer people than a seated one），需要更多乘务人员，白天还只能停着。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "carries fewer people than a seated one"
+            },
+            {
+              "number": 44,
+              "stem": "A single delay at a frontier can ruin the timetable for everyone aboard.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "F",
+              "analysis": "F 段第三句：错过边境时刻可能等一小时，destroys the schedule for every passenger on board，与题干一一对应。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "destroys the schedule for every passenger on board"
+            },
+            {
+              "number": 45,
+              "stem": "Demand is strong enough that the cheapest beds are booked long in advance.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：热门线路上 couchettes（简易卧铺）提前数周售罄，最贵的私人包间反而最后卖完——说明便宜的床位最难订。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "couchettes sell out weeks ahead"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2014 two psychologists asked students at Princeton and UCLA to take notes on a lecture, some by hand and some on a laptop. The laptop group wrote more words, almost verbatim. But when the students were tested a week later, the longhand group did better on questions that asked them to explain ideas, and the two groups were equal on simple factual questions."
+            },
+            {
+              "label": "B",
+              "text": "The explanation offered at the time was that handwriting is slow, so students must decide what matters and rephrase it, while typing encourages transcription without thought. The finding was reported as proof that keyboards damage learning, and some schools used it to justify banning laptops in classrooms."
+            },
+            {
+              "label": "C",
+              "text": "Later studies complicated the picture. When researchers asked students to use laptops but instructed them to summarise rather than transcribe, the advantage of handwriting disappeared. A review of more than sixty experiments found that the medium mattered far less than what students did with it, and that the strongest predictor of recall was whether they tested themselves afterwards."
+            },
+            {
+              "label": "D",
+              "text": "There is also a practical point that the original study could not capture. Handwritten notes are hard to search, hard to share and easy to lose, and few students ever reread them. Digital notes can be indexed, annotated and merged with readings. For a course with a heavy reading load, a well-organised set of digital notes may be worth more than beautiful handwriting that is never opened again."
+            },
+            {
+              "label": "E",
+              "text": "The sensible conclusion is unglamorous. If a lecture is dense with facts, typing is efficient; if it is built on arguments, writing by hand forces the kind of processing that makes those arguments stick. What matters in either case is the moment after the lecture, when the notes are rewritten, reorganised or used to answer questions. Neither pen nor keyboard does that work for the student."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What did the 2014 experiment find?",
+              "options": [
+                { "key": "A", "text": "Laptop users wrote down fewer words than the others." },
+                { "key": "B", "text": "Handwriters did better on questions about ideas." },
+                { "key": "C", "text": "Neither group remembered the lecture a week later." },
+                { "key": "D", "text": "Handwriters recorded the lecture almost word for word." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：手写组在「要求解释观点」的题上表现更好，两组在简单事实题上持平；写得多、几乎逐字记录的恰恰是笔记本组，故 A、D 相反。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the longhand group did better on questions that asked them to explain ideas"
+            },
+            {
+              "number": 47,
+              "stem": "How was the handwriting advantage explained at the time?",
+              "options": [
+                { "key": "A", "text": "Handwriting is slower, so students must select and reword." },
+                { "key": "B", "text": "Paper notes are easier to keep for a long time." },
+                { "key": "C", "text": "Laptops distract students with games and messages." },
+                { "key": "D", "text": "Handwriting improves spelling and grammar." }
+              ],
+              "answer": "A",
+              "analysis": "B 段首句：手写慢，学生必须判断什么重要并用自己的话改写（decide what matters and rephrase it）；笔记是否易保存是 D 段才讨论的问题，C 项原文未提。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "handwriting is slow, so students must decide what matters"
+            },
+            {
+              "number": 48,
+              "stem": "What happened when laptop users were told to summarise?",
+              "options": [
+                { "key": "A", "text": "They wrote far less than before." },
+                { "key": "B", "text": "They performed worse than handwriters." },
+                { "key": "C", "text": "The advantage of handwriting disappeared." },
+                { "key": "D", "text": "They refused to use their laptops." }
+              ],
+              "answer": "C",
+              "analysis": "C 段第二句：当使用笔记本的学生被要求「概括而非逐字记录」时，手写的优势消失了，说明关键在怎么记，而非用什么记。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "the advantage of handwriting disappeared"
+            },
+            {
+              "number": 49,
+              "stem": "What did the review of more than sixty experiments conclude?",
+              "options": [
+                { "key": "A", "text": "Paper should replace screens in all classrooms." },
+                { "key": "B", "text": "How notes are used matters more than the medium." },
+                { "key": "C", "text": "Typing is always faster and therefore better." },
+                { "key": "D", "text": "Students remember more when they read notes aloud." }
+              ],
+              "answer": "B",
+              "analysis": "C 段末：综述发现 the medium mattered far less than what students did with it，并指出最强的预测因素是事后是否自测，故 A、C 都过于绝对。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "the medium mattered far less than what students did with it"
+            },
+            {
+              "number": 50,
+              "stem": "What practical weakness of handwritten notes is mentioned?",
+              "options": [
+                { "key": "A", "text": "They take too long to produce in class." },
+                { "key": "B", "text": "They cannot include diagrams." },
+                { "key": "C", "text": "They are hard to search and rarely reread." },
+                { "key": "D", "text": "They are usually written in the wrong language." }
+              ],
+              "answer": "C",
+              "analysis": "D 段：手写笔记难以检索、难以分享、容易丢失，而且很少有学生再读第二遍——这正是数字笔记可以索引、标注、合并的优势所在。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "hard to search, hard to share and easy to lose"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2016 Barcelona began turning groups of nine city blocks into superblocks, where through traffic is banned and the street space is given back to people. Cars may enter only to park or to deliver goods, and only at walking speed. Inside, junctions that once held traffic lights have become small squares with benches, trees and playgrounds."
+            },
+            {
+              "label": "B",
+              "text": "The immediate effects were measurable. Nitrogen dioxide levels inside the first superblock fell by around 25 per cent, and noise dropped by several decibels. The city's public health agency estimated that if the model were extended across Barcelona, several hundred premature deaths a year could be avoided, most of them from heart and lung disease."
+            },
+            {
+              "label": "C",
+              "text": "There was also an economic effect that surprised planners. Shops on the busiest streets expected to lose customers, since drivers could no longer pass their doors. In fact spending rose in the new pedestrian areas, because people on foot stop more often than people in cars. Rents on those streets have since climbed, which brings its own problem."
+            },
+            {
+              "label": "D",
+              "text": "That problem is displacement. The improvements make a neighbourhood more attractive, and higher rents push out the very residents who benefited most. Barcelona has tried to answer this by limiting new tourist flats and by requiring that a share of new housing in the area be social housing, but the rules are contested in court and slow to take effect."
+            },
+            {
+              "label": "E",
+              "text": "The wider lesson concerns who decides. Superblocks began as a plan drawn by engineers, and the early versions met angry resistance from drivers and shopkeepers. The projects that survived were those where the city published air-quality data street by street, held meetings in the affected squares, and let residents vote on the design of their own junction. Participation, in other words, was not decoration; it was the difference between a plan on paper and a finished street."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What is not allowed inside a superblock?",
+              "options": [
+                { "key": "A", "text": "Walking on the roadway." },
+                { "key": "B", "text": "Traffic passing straight through." },
+                { "key": "C", "text": "Parking by local residents." },
+                { "key": "D", "text": "Deliveries to shops." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：through traffic is banned（禁止穿越式通行），车辆只可进入停车或送货，且须以步行速度行驶，因此 C、D 是被允许的。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "through traffic is banned"
+            },
+            {
+              "number": 52,
+              "stem": "What did the city's public health agency estimate?",
+              "options": [
+                { "key": "A", "text": "Noise would rise near the new squares." },
+                { "key": "B", "text": "Hundreds of early deaths could be prevented each year." },
+                { "key": "C", "text": "Air quality would worsen in poorer districts." },
+                { "key": "D", "text": "Traffic would simply move to other streets." }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：若推广到全城，每年可避免数百例过早死亡（several hundred premature deaths a year），主要来自心肺疾病。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "several hundred premature deaths a year could be avoided"
+            },
+            {
+              "number": 53,
+              "stem": "Why did spending rise in the pedestrian areas?",
+              "options": [
+                { "key": "A", "text": "Shops lowered their prices after the change." },
+                { "key": "B", "text": "New residents moved into the district." },
+                { "key": "C", "text": "People on foot stop more often than drivers." },
+                { "key": "D", "text": "The city gave shoppers free parking." }
+              ],
+              "answer": "C",
+              "analysis": "C 段：because people on foot stop more often than people in cars——步行者比开车者更常停下来消费，这是「出乎规划者意料」的原因。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "people on foot stop more often"
+            },
+            {
+              "number": 54,
+              "stem": "What problem followed the improvement of these streets?",
+              "options": [
+                { "key": "A", "text": "Rising rents drove out the original residents." },
+                { "key": "B", "text": "Air quality became worse than before." },
+                { "key": "C", "text": "Shops began to close one after another." },
+                { "key": "D", "text": "The city ran out of building land." }
+              ],
+              "answer": "A",
+              "analysis": "C 段末提出租金上涨带来问题，D 段点明就是 displacement：更高的租金把受益最大的原住民挤走。B、C 与 B、C 段的数据相反。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "higher rents push out the very residents who benefited most"
+            },
+            {
+              "number": 55,
+              "stem": "What distinguished the projects that were completed?",
+              "options": [
+                { "key": "A", "text": "They were designed without engineers." },
+                { "key": "B", "text": "They began in the wealthiest districts." },
+                { "key": "C", "text": "They involved residents in the decisions." },
+                { "key": "D", "text": "They were funded by private companies." }
+              ],
+              "answer": "C",
+              "analysis": "E 段：存留下来的项目都公开逐街道的空气质量数据、在受影响广场开会、让居民投票决定路口设计——参与不是装饰，而是「图纸」与「建成的街道」之间的差别。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "let residents vote on the design of their own junction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n近年来，中国许多城市在河边、废弃铁路和高压线沿线修建绿道，把公园、社区和学校连接起来。绿道只供步行和骑行，不允许机动车进入。到2023年底，全国绿道总长度已超过九万公里。居民可以在上下班途中骑行，也可以在周末散步。研究表明，住处附近有绿道的人更愿意步行，也更少开车。不过，一些城市也遇到维护资金不足、绿道被电动车占用等问题。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nIn recent years, many cities in China have built greenways along rivers, along disused railway lines and beneath high-voltage power lines, linking parks, residential communities and schools together. The greenways are reserved for walking and cycling only, and motor vehicles are not permitted to enter them. By the end of 2023, the total length of greenways nationwide had already exceeded 90,000 kilometres. Residents can cycle along them on their way to and from work, or take a walk there at the weekend. Research shows that people who live close to a greenway are more willing to walk and less likely to drive a car. However, some cities have also run into problems such as insufficient funds for maintenance and greenways being occupied by electric bicycles.\n\n【要点】①「修建绿道」用 build / construct greenways；②「只供步行和骑行」用 be reserved for walking and cycling；③「到2023年底……已超过」用过去完成时 had passed，时间状语 by the end of 2023；④「更愿意步行、更少开车」用 be more willing to walk and less likely to drive；⑤「遇到……问题」用 run into problems such as…。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

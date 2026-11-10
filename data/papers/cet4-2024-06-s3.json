@@ -1,0 +1,981 @@
+{
+  "id": "cet4-2024-06-s3",
+  "level": "CET4",
+  "year": 2024,
+  "month": 6,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on why college students should learn to cook for themselves. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nWhy College Students Should Learn to Cook for Themselves\n\nCooking is the skill students most often postpone and most quickly need. The first month in a job, in a city where a bowl of noodles costs twenty-five yuan, is a poor time to begin learning.\n\nThe practical case is obvious. Three home-cooked meals a day cost roughly half of what canteens and delivery apps charge, and the food is better: less oil, less salt, more vegetables. A student who can cook also wastes less, because half a cabbage becomes two dishes instead of rubbish.\n\nThe less obvious case is social. Cooking for other people is the cheapest way to make a room full of strangers into friends, and it is the first thing a new colleague is invited to share. A person who can produce one good dish is never entirely dependent on restaurants or on other people's hospitality.\n\nNo one needs to become a chef. Six dishes, cooked until they are boring, are enough. The point is to be able to feed yourself and, now and then, someone else.\n\n（约 170 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Community supported agriculture runs on an old idea: households pay a farm in advance for a season of vegetables, and the farm spends the money before the first seed 26______. For a small producer the advantage is 27______ rather than profit. Banks are reluctant to lend to a business whose income arrives in a few weeks of summer, so a thousand households paying in February can carry a farm through the months when nothing is sold."
+            },
+            {
+              "label": "B",
+              "text": "The arrangement also 28______ the risk. If a late frost kills the apricots, or a wet June leaves the carrots small, members receive less and accept it, because they were told at the start that the harvest is shared. What they get in return is 29______: a box of whatever was picked that morning, left at a pick-up point or on a doorstep within a day. Keeping that chain short is expensive, since a lettuce that spends six hours in a warm van arrives 30______."
+            },
+            {
+              "label": "C",
+              "text": "Nobody can 31______ the size of a harvest in March, which is why the contract is written in boxes rather than kilos, and why a family that opens a 32______ box in July often does not renew. Farms that 33______ their members tend to do three things: they 34______ to complaints within a day, they publish the farm's accounts, and they are 35______ about a failure instead of hiding it. None of this makes the vegetables cheaper; it makes the relationship last longer than one season."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "spreads"
+                },
+                {
+                  "key": "B",
+                  "text": "remains"
+                },
+                {
+                  "key": "C",
+                  "text": "sprouts"
+                },
+                {
+                  "key": "D",
+                  "text": "delays"
+                }
+              ],
+              "answer": "C",
+              "analysis": "主语是 the first seed（第一粒种子），before 引导时间状语，种子在生长季开始时「发芽」，故 sprouts。spreads 指蔓延、铺开，remains 指仍然是，delays 指延误，都不能描述种子在土里的动作。",
+              "type": "选词填空",
+              "evidencePara": "A",
+              "evidenceText": "the farm spends the money before the first seed 26______"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "credit"
+                },
+                {
+                  "key": "B",
+                  "text": "cash"
+                },
+                {
+                  "key": "C",
+                  "text": "labour"
+                },
+                {
+                  "key": "D",
+                  "text": "storage"
+                }
+              ],
+              "answer": "B",
+              "analysis": "rather than profit 构成对比：农户提前拿到的是「现金」，利润要等收成才算，故 cash。credit（赊账、信贷）与「预付款」相反；labour（劳力）、storage（仓储）都不是预付制带来的直接好处。",
+              "type": "选词填空",
+              "evidencePara": "A",
+              "evidenceText": "For a small producer the advantage is 27______ rather than profit"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "hides"
+                },
+                {
+                  "key": "B",
+                  "text": "spreads"
+                },
+                {
+                  "key": "C",
+                  "text": "shares"
+                },
+                {
+                  "key": "D",
+                  "text": "avoids"
+                }
+              ],
+              "answer": "C",
+              "analysis": "后文说霜冻、雨水导致减产时会员「接受少收」，因为一开始就说好收成共担，所以这种安排是「分担」风险，故 shares。hides（隐藏）、avoids（回避）与共担相悖；spreads 是「扩散风险」，与会员共同承担的含义不同。",
+              "type": "选词填空",
+              "evidencePara": "B",
+              "evidenceText": "The arrangement also 28______ the risk"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "quantity"
+                },
+                {
+                  "key": "B",
+                  "text": "profit"
+                },
+                {
+                  "key": "C",
+                  "text": "freshness"
+                },
+                {
+                  "key": "D",
+                  "text": "speed"
+                }
+              ],
+              "answer": "C",
+              "analysis": "冒号后解释「当天早上采摘、一天内送到」，强调的正是新鲜，故 freshness。quantity 与「收到更少也接受」矛盾；profit 是会员不会得到的东西；speed 指速度，而句子描述的是蔬菜的状态。",
+              "type": "选词填空",
+              "evidencePara": "B",
+              "evidenceText": "What they get in return is 29______: a box of whatever was picked that morning"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "fresh"
+                },
+                {
+                  "key": "B",
+                  "text": "limp"
+                },
+                {
+                  "key": "C",
+                  "text": "heavy"
+                },
+                {
+                  "key": "D",
+                  "text": "cheap"
+                }
+              ],
+              "answer": "B",
+              "analysis": "在闷热的货车里放六小时，生菜送到时必然「蔫软」，与前半句 Keeping that chain short is expensive 形成因果，故 limp。fresh 与语境相反；heavy、cheap 与冷链运输造成的品质变化无关。",
+              "type": "选词填空",
+              "evidencePara": "B",
+              "evidenceText": "a lettuce that spends six hours in a warm van arrives 30______"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accept"
+                },
+                {
+                  "key": "B",
+                  "text": "repeat"
+                },
+                {
+                  "key": "C",
+                  "text": "explain"
+                },
+                {
+                  "key": "D",
+                  "text": "forecast"
+                }
+              ],
+              "answer": "D",
+              "analysis": "三月离收获还有几个月，谁也无法「预测」收成大小，这正是合同按「箱」而不按公斤写的原因，故 forecast。accept（接受）与 Nobody can 搭配不当；repeat、explain 都不能解释为何合同要留有余地。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "Nobody can 31______ the size of a harvest in March"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "satisfying"
+                },
+                {
+                  "key": "B",
+                  "text": "surprising"
+                },
+                {
+                  "key": "C",
+                  "text": "disappointing"
+                },
+                {
+                  "key": "D",
+                  "text": "ordinary"
+                }
+              ],
+              "answer": "C",
+              "analysis": "结果是不再续订（does not renew），说明这一箱让人失望，故 disappointing。satisfying 与不续订矛盾；surprising（令人惊讶的）、ordinary（普通的）都不足以导致退订。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "a family that opens a 32______ box in July often does not renew"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "replace"
+                },
+                {
+                  "key": "B",
+                  "text": "retain"
+                },
+                {
+                  "key": "C",
+                  "text": "train"
+                },
+                {
+                  "key": "D",
+                  "text": "pay"
+                }
+              ],
+              "answer": "B",
+              "analysis": "冒号后列的三件事（当天回复投诉、公开账目、坦白失败）都是留住会员的做法，故 retain（留住）。replace（替换）与后文维护关系的逻辑相反；train（培训）、pay（支付）都不是农场对会员的常规动作。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "Farms that 33______ their members tend to do three things"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "respond"
+                },
+                {
+                  "key": "B",
+                  "text": "object"
+                },
+                {
+                  "key": "C",
+                  "text": "refer"
+                },
+                {
+                  "key": "D",
+                  "text": "return"
+                }
+              ],
+              "answer": "A",
+              "analysis": "respond to complaints 是固定搭配，表示「回应投诉」，与 within a day 一起说明服务及时，故 respond。object to 意为「反对投诉」，语义相反；refer to（提及）、return to（回到）都不能表示处理投诉。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "they 34______ to complaints within a day"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "careful"
+                },
+                {
+                  "key": "B",
+                  "text": "silent"
+                },
+                {
+                  "key": "C",
+                  "text": "honest"
+                },
+                {
+                  "key": "D",
+                  "text": "slow"
+                }
+              ],
+              "answer": "C",
+              "analysis": "instead of hiding it（而不是隐瞒）提示取反：农场对失败「坦诚」，故 honest。silent（沉默）与 hiding 同义，正好被 instead of 排除；careful、slow 与「隐瞒/坦白」这组对立无关。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "they are 35______ about a failure instead of hiding it"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For decades the sleeper train looked like a relic. Budget airlines had made a weekend in another country cheaper than a night in a hotel, and rail operators closed their sleeping-car services one by one. Between 2000 and 2019 the number of night routes in Europe fell by about two thirds. Then the direction reversed."
+            },
+            {
+              "label": "B",
+              "text": "The change began with policy. In 2020 the Austrian state operator bought sleeping cars that Germany's national operator was discarding, and expanded its Nightjet network instead of shrinking it. The decision was not romantic: the government calculated that each night-train passenger replaced a short flight, and that the subsidy per tonne of avoided carbon was lower than for many other schemes."
+            },
+            {
+              "label": "C",
+              "text": "Other governments followed. France banned domestic flights in 2021 on routes where a train journey of under two and a half hours exists, a rule narrow enough to affect only a handful of services. Germany introduced a levy on flights in 2020. Neither policy created night trains by itself, but both changed the arithmetic for operators."
+            },
+            {
+              "label": "D",
+              "text": "Passengers, meanwhile, had reasons of their own. A night train is the only form of transport that turns travelling time into sleeping time; it delivers you to the centre of a city at eight in the morning, having cost you no hotel room. For travellers with small children, or with a fear of flying, that is not a novelty but a solution."
+            },
+            {
+              "label": "E",
+              "text": "The practical obstacles are stubborn. Sleeping cars are expensive to build and to clean, and a berth earns less per square metre than a seat. Track access charges are set by national regulators and vary wildly: a train crossing four borders may pay four different prices and wait for four different signalling systems. Rolling stock takes years to order, and few factories in Europe still build it."
+            },
+            {
+              "label": "F",
+              "text": "The economics only work with scale. A single night route needs enough passengers in both directions, every night, to fill a train that may carry 300 people. Start-up operators have found that a route can look viable on paper and still lose money for two years while travellers learn that it exists. Several announced services, including some much-publicised private ventures, have been postponed or quietly dropped."
+            },
+            {
+              "label": "G",
+              "text": "None of this means the sleeper is the future of long-distance travel. It is a small, expensive, useful part of it. The lesson of the past five years is that a service can be uneconomic for a company and still be worth running for a country, and that a timetable, unlike an airline route, can be changed by a government that decides to."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Cheap flights once made the sleeper train appear outdated, and services were closed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：廉价航空让周末出国比住一晚酒店还便宜，卧铺车被一家家关停，2000—2019 年欧洲夜车线路减少约三分之二。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "Budget airlines had made a weekend in another country cheaper than a night in a hotel"
+            },
+            {
+              "number": 37,
+              "stem": "A state-owned operator took over cars that another country was withdrawing and enlarged its network.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：2020 年奥地利国营铁路买下德国铁路正在淘汰的卧铺车，把 Nightjet 网络扩大而不是缩小（instead of shrinking it）。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "bought sleeping cars that Germany's national operator was discarding"
+            },
+            {
+              "number": 38,
+              "stem": "One country stopped some short domestic flights where a train makes the trip quickly.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：法国 2021 年禁止在火车两小时半可达的线路上开通国内航班，这一规定范围窄，只影响少数航线。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "banned domestic flights in 2021 on routes where a train journey of under two and a half hours exists"
+            },
+            {
+              "number": 39,
+              "stem": "For some passengers, the night train is the only way to use travel time for sleep.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：夜车是唯一能把「路上时间」变成「睡眠时间」的交通方式，早上八点把人送到市中心，还省下一晚房费。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "turns travelling time into sleeping time"
+            },
+            {
+              "number": 40,
+              "stem": "Crossing several countries means paying different charges and dealing with differing systems.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：路网使用费由各国监管机构定，差异极大；一列穿越四国的车要付四种价格、等四套信号系统。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "may pay four different prices and wait for four different signalling systems"
+            },
+            {
+              "number": 41,
+              "stem": "A single route must fill a large train in both directions every night to be viable.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph A"
+                }
+              ],
+              "answer": "B",
+              "analysis": "F 段：一条夜车线路需要每晚双向都有足够乘客，才能填满一列可载约 300 人的车，规模是经济性的前提。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "enough passengers in both directions, every night, to fill a train that may carry 300 people"
+            },
+            {
+              "number": 42,
+              "stem": "A service may lose money for a company and still be justified for a country.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph C"
+                }
+              ],
+              "answer": "B",
+              "analysis": "G 段倒数第二句：过去五年的教训是，一项服务对公司不经济，对一个国家仍然值得运营（uneconomic for a company and still be worth running for a country）。",
+              "type": "推断题",
+              "evidencePara": "G",
+              "evidenceText": "uneconomic for a company and still be worth running for a country"
+            },
+            {
+              "number": 43,
+              "stem": "New sleeping cars are slow to obtain because very few European factories still make them.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段末：车辆要提前数年订购，而且欧洲已很少有工厂还在生产（few factories in Europe still build it），这正是运力扩张慢的原因。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "few factories in Europe still build it"
+            },
+            {
+              "number": 44,
+              "stem": "New routes can lose money for two years while the public discovers that they exist.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "F 段：创业运营商发现，一条线路纸面上可行，却可能连亏两年，直到旅客知道它的存在；随后还提到若干项目被推迟或悄然取消。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "lose money for two years while travellers learn that it exists"
+            },
+            {
+              "number": 45,
+              "stem": "Unlike an airline route, a rail timetable can be altered by a government that chooses to do so.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph B"
+                }
+              ],
+              "answer": "C",
+              "analysis": "G 段末句：与航线不同，时刻表可以被一个决心已定的政府改变（can be changed by a government that decides to）。",
+              "type": "推断题",
+              "evidencePara": "G",
+              "evidenceText": "a timetable, unlike an airline route, can be changed by a government"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2014 two psychologists asked students to take notes on a lecture, some by hand and some on a laptop. The laptop group wrote more words, almost verbatim. The handwriting group wrote less and understood more. When tested a week later on factual questions the two groups were similar, but on questions that required them to explain a concept, the handwriting group did better."
+            },
+            {
+              "label": "B",
+              "text": "The explanation offered at the time was that handwriting is slow. Because a hand cannot keep up with a voice, the writer is forced to select, compress and connect, and that processing is where learning happens. Typing, fast enough to transcribe, allows the note-taker to switch off the mind and act as a recorder."
+            },
+            {
+              "label": "C",
+              "text": "The finding became popular and then, as findings do, was oversimplified into a rule: ban laptops. Later studies were less tidy. When students were told to paraphrase rather than transcribe, the advantage of handwriting shrank. When laptops were used with the internet switched off and with structured note-taking software, the gap disappeared in some experiments and reversed in others."
+            },
+            {
+              "label": "D",
+              "text": "A 2024 study in Norway put electrodes on the scalps of thirty-six students and found that handwriting produced stronger patterns of connectivity between brain regions involved in memory. That is an interesting physiological difference, but it measures the act of writing, not learning a week later. The researchers were careful to say so."
+            },
+            {
+              "label": "E",
+              "text": "What the debate tends to miss is that both methods are tools with different costs. A laptop holds a searchable record of a term's work; a notebook holds a slower, more selective summary that is easier to think with. Students who handwrite and then photograph their notes to keep a searchable copy seem to keep both advantages. The choice is less about which is better than about what the notes are for."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What did the 2014 experiment find?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Laptop users remembered more facts a week later."
+                },
+                {
+                  "key": "B",
+                  "text": "Handwriters wrote less but explained concepts better."
+                },
+                {
+                  "key": "C",
+                  "text": "Both groups performed equally on every question type."
+                },
+                {
+                  "key": "D",
+                  "text": "Students who typed were slower note-takers."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：用笔的一组写得少、理解得多；一周后事实题两组相当，但需要解释概念的题目上手写组更好。A 项与「事实题相似」矛盾，D 项与 typing is fast enough to transcribe 矛盾。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the handwriting group did better"
+            },
+            {
+              "number": 47,
+              "stem": "Why was handwriting thought to help learning?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It produces neater notes that are easier to read."
+                },
+                {
+                  "key": "B",
+                  "text": "Its slowness forces the writer to select and reorganise."
+                },
+                {
+                  "key": "C",
+                  "text": "It keeps students away from the internet."
+                },
+                {
+                  "key": "D",
+                  "text": "It uses more of the brain than typing does."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：手写速度慢于说话，写者被迫「筛选、压缩、联系」，而这一加工过程正是学习发生之处；D 项是 2024 年挪威研究的生理发现，不是当时给出的解释。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "forced to select, compress and connect"
+            },
+            {
+              "number": 48,
+              "stem": "What happened when later studies controlled how students took notes?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The advantage of handwriting became larger."
+                },
+                {
+                  "key": "B",
+                  "text": "The difference between the two methods narrowed or vanished."
+                },
+                {
+                  "key": "C",
+                  "text": "Laptops proved better in every subject."
+                },
+                {
+                  "key": "D",
+                  "text": "Students refused to take notes by hand."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：要求「改写而非照抄」时手写优势缩小；在断网并用结构化笔记软件时，差距在部分实验中消失，在另一些里甚至反转，故 B 最准确。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "the advantage of handwriting shrank"
+            },
+            {
+              "number": 49,
+              "stem": "How does the author assess the 2024 Norwegian study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It proves that handwriting should be compulsory."
+                },
+                {
+                  "key": "B",
+                  "text": "It measured the act of writing rather than later learning."
+                },
+                {
+                  "key": "C",
+                  "text": "It was too small to be worth reporting."
+                },
+                {
+                  "key": "D",
+                  "text": "It showed that electrodes improve memory."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：脑电结果显示手写时记忆相关脑区连接更强，这是有意思的生理差异，但它测的是「书写这一动作」，而不是一周后的学习效果；研究者自己也谨慎地作了说明。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "it measures the act of writing, not learning a week later"
+            },
+            {
+              "number": 50,
+              "stem": "What practical approach does the author suggest?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Banning laptops from all lecture rooms."
+                },
+                {
+                  "key": "B",
+                  "text": "Taking notes by hand and photographing them for searching."
+                },
+                {
+                  "key": "C",
+                  "text": "Using only structured note-taking software."
+                },
+                {
+                  "key": "D",
+                  "text": "Choosing a method according to the subject taught."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：先手写、再拍照留存可检索副本的学生，似乎同时保留两种好处；作者最后说关键不在哪种更好，而在于笔记是为什么用的，故 A 与 C 都过于绝对。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "handwrite and then photograph their notes"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 1999 the Spanish city of Pontevedra closed its historic centre to most motor traffic. The old town was pedestrianised, parking was removed, and through traffic was pushed onto a ring road. The population of the centre had been falling for two decades; it has since risen, and the city has won several international planning awards."
+            },
+            {
+              "label": "B",
+              "text": "The claim that shopkeepers make most often is that cars bring customers. Studies of pedestrianisation keep finding the opposite. Surveys in Bristol, Vienna and Vancouver have shown that people arriving on foot or by bicycle visit more often and spend more per month than those who drive, even though they spend less on each visit. A parking space in front of a shop produces fewer customers per square metre than a bench, a tree and a bike rack."
+            },
+            {
+              "label": "C",
+              "text": "Ghent, in Belgium, tested the idea at scale in 2017. The city was divided into zones, and cars could no longer drive from one side of the centre to the other; they had to use the ring road. Traffic in the centre fell by about a quarter within a year. Retail vacancy did not rise, and several streets recorded more pedestrians than before."
+            },
+            {
+              "label": "D",
+              "text": "The effects are not evenly spread. Shops selling heavy or bulky goods, such as furniture and building materials, depend on vehicles, and a ban can push them out. Residents with restricted mobility need a way in, which is why most schemes now allow delivery vans before eleven, taxis, and cars with a disabled badge. The losers in a badly designed scheme are usually those with the least political voice."
+            },
+            {
+              "label": "E",
+              "text": "Oslo went further in 2019 and removed almost all street parking from its centre without banning cars outright. The result was fewer vehicles but also fewer places to stop, and the city had to negotiate with disability groups for months. The programme survived because it was presented as a change in what the street is for, not as a war on drivers."
+            },
+            {
+              "label": "F",
+              "text": "The lesson from these cities is not that cars must disappear. It is that the street is the most valuable public space a city owns, and that it has been given away free to a use that serves a minority of journeys. Whether the change succeeds depends on details: deliveries, buses, blue badges and the patience to measure what happens."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What happened to central Pontevedra after 1999?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Its population continued to fall."
+                },
+                {
+                  "key": "B",
+                  "text": "Its population began to grow again."
+                },
+                {
+                  "key": "C",
+                  "text": "All shops in the old town closed."
+                },
+                {
+                  "key": "D",
+                  "text": "The ring road was removed."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：市中心人口此前已下降二十年，改造后「回升」（it has since risen）。C、D 均无依据，原文说车流被推到环路，而非拆掉环路。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "The population of the centre had been falling for two decades; it has since risen"
+            },
+            {
+              "number": 52,
+              "stem": "What do surveys of shoppers consistently suggest?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Drivers spend the most money per month."
+                },
+                {
+                  "key": "B",
+                  "text": "People on foot or bicycles are more frequent and valuable customers."
+                },
+                {
+                  "key": "C",
+                  "text": "Parking spaces attract more customers than benches."
+                },
+                {
+                  "key": "D",
+                  "text": "Shoppers prefer to visit large shopping centres."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：布里斯托、维也纳、温哥华的调查反复显示，步行或骑车来的人到店更频繁、每月总花费更多，尽管单次花费较少。这与店主「汽车带来顾客」的说法相反。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "visit more often and spend more per month than those who drive"
+            },
+            {
+              "number": 53,
+              "stem": "What did Ghent do in 2017?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It banned all vehicles from the whole city."
+                },
+                {
+                  "key": "B",
+                  "text": "It divided the centre into zones that cars could not cross."
+                },
+                {
+                  "key": "C",
+                  "text": "It built a new ring road around the old town."
+                },
+                {
+                  "key": "D",
+                  "text": "It removed parking but allowed through traffic."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：根特把城市划成若干区，汽车不能从市中心一侧穿到另一侧，必须走环路；一年内中心车流下降约四分之一。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "divided into zones, and cars could no longer drive from one side of the centre to the other"
+            },
+            {
+              "number": 54,
+              "stem": "Which businesses are most likely to be harmed by pedestrianisation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Cafes and restaurants."
+                },
+                {
+                  "key": "B",
+                  "text": "Shops selling furniture and building materials."
+                },
+                {
+                  "key": "C",
+                  "text": "Bookshops and clothing stores."
+                },
+                {
+                  "key": "D",
+                  "text": "Bicycle shops."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：卖家具、建材等「重而大」商品的店铺依赖车辆运输，禁令可能把它们挤出去；咖啡店、书店反而常因行人增多而受益。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "Shops selling heavy or bulky goods"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's main point in the last paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Cars should be banned from every city centre immediately."
+                },
+                {
+                  "key": "B",
+                  "text": "Street space has been given to a use that benefits few journeys."
+                },
+                {
+                  "key": "C",
+                  "text": "Pedestrianisation always raises retail vacancy."
+                },
+                {
+                  "key": "D",
+                  "text": "Only wealthy cities can afford such schemes."
+                }
+              ],
+              "answer": "B",
+              "analysis": "F 段：作者明确说结论不是「汽车必须消失」，而是街道作为城市最宝贵的公共空间，被免费让给只服务少数出行的用途；成败取决于配送、公交、无障碍通行等细节。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "given away free to a use that serves a minority of journeys"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n二十四节气是中国古人根据太阳在一年中位置的变化划分的时间体系，用来指导农业生产和日常生活。它把一年分为二十四个阶段，每个阶段约十五天，并用简短的名称描述气候与物候的变化。农民据此决定何时播种、灌溉和收获。2016年，二十四节气被联合国教科文组织列入人类非物质文化遗产名录。今天，它仍出现在日历上，也影响着人们的饮食与养生习惯。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe twenty-four solar terms form a system of time created by the ancient Chinese according to changes in the sun's position during the year, and were used to guide farming and daily life. The system divides a year into twenty-four periods of about fifteen days each, and describes changes in weather and in plants and animals with short names. Farmers relied on it to decide when to sow, when to irrigate and when to harvest. In 2016 the twenty-four solar terms were inscribed by UNESCO on the Representative List of the Intangible Cultural Heritage of Humanity. Today they still appear on calendars and continue to shape what people eat and how they look after their health.\n\n【要点】①「节气」用 solar terms，是通行译法；②「根据……划分」用 according to / based on 引导的状语；③「物候」不必逐字译，可展开为 changes in plants and animals；④「被列入……名录」用 were inscribed on the list，也可用 were added to；⑤「指导农业生产」用 guide farming，避免逐字译 guide agricultural production；⑥全文以一般现在时为主，2016 年那一句用过去时。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

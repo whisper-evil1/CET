@@ -1,0 +1,1097 @@
+{
+  "id": "cet4-2024-12-s2",
+  "level": "CET4",
+  "year": 2024,
+  "month": 12,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether taking a gap year before university is a good idea. You should state your opinion and give reasons. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nA Gap Year, Used Well, Is Not a Waste of Time\n\nParents often hear 'gap year' and picture a young person sleeping until noon. The evidence is more interesting: students who take a structured year, whether working, volunteering or learning a language, tend to arrive at university with a clearer idea of why they are there.\n\nThe argument for a year is strongest when it has a purpose. A job in a warehouse teaches more about employment than a lecture on the labour market, and a season of volunteering, arranged through a responsible organisation, tests whether a career in medicine or teaching is really wanted.\n\nThe argument against is cost. A year without a plan can become a year of drifting, and money spent travelling is money not spent on tuition or rent.\n\nMy view is that the year should be earned rather than assumed: write down what you intend to learn, and who will confirm that you learned it. A gap year is not a pause in education; it is education on a different timetable.\n\n（约 170 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A generation ago, buying a sofa meant saving for it, or borrowing on a credit card that charged interest from the first month. Then a new option appeared at the online checkout: pay in four instalments, interest-free. The service, known as buy now, pay later, was offered by apps such as Klarna and Afterpay, and it spread fastest among shoppers under thirty."
+            },
+            {
+              "label": "B",
+              "text": "The 26______ is obvious to retailers. A customer who can spread the cost over six weeks is far more likely to 27______ the purchase, and the shop pays the app a commission rather than carrying the risk itself. The apps earn most of their money from the 28______ charged to shops, which are higher than those charged by card networks. Because the shopper pays no interest, the cost is easy to 29______, and the sum involved is small enough to feel harmless."
+            },
+            {
+              "label": "C",
+              "text": "Regulators take a different view. They worry that the model 30______ people to spend beyond their means, and that the checks made before lending are lighter than those required for a credit card. In Britain the market grew to 31______ three billion pounds a year, and charities report that some young borrowers 32______ several apps at once, each unaware of the others. Missing a payment can 33______ a mark on a credit file that affects a future mortgage. The rules were written for credit cards, not for 34______ payments, and several countries are now redrafting them. Whether the model is a convenience or a 35______ is still being argued."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "type": "词义题",
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "danger"
+                },
+                {
+                  "key": "B",
+                  "text": "appeal"
+                },
+                {
+                  "key": "C",
+                  "text": "price"
+                },
+                {
+                  "key": "D",
+                  "text": "colour"
+                }
+              ],
+              "answer": "B",
+              "analysis": "空后一句解释「可以分六周付款的顾客更可能下单」，对商家来说这是「吸引力」（the appeal is obvious）。danger 与商家立场相反，price、colour 与后文的激励逻辑无关。",
+              "evidencePara": "B",
+              "evidenceText": "A customer who can spread the cost"
+            },
+            {
+              "number": 27,
+              "type": "词义题",
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "cancel"
+                },
+                {
+                  "key": "B",
+                  "text": "return"
+                },
+                {
+                  "key": "C",
+                  "text": "complete"
+                },
+                {
+                  "key": "D",
+                  "text": "forget"
+                }
+              ],
+              "answer": "C",
+              "analysis": "分四期免息的作用是让顾客更容易「完成」这笔交易，complete the purchase 是下单成交的固定表达。cancel、return 是相反动作，forget 与分期付款的动机不符。",
+              "evidencePara": "B",
+              "evidenceText": "the purchase, and the shop pays the app a commission"
+            },
+            {
+              "number": 28,
+              "type": "词义题",
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "fees"
+                },
+                {
+                  "key": "B",
+                  "text": "taxes"
+                },
+                {
+                  "key": "C",
+                  "text": "salaries"
+                },
+                {
+                  "key": "D",
+                  "text": "rent"
+                }
+              ],
+              "answer": "A",
+              "analysis": "后半句 which are higher than those charged by card networks 说明这是按交易收取的「手续费」，与 charge 搭配的是 fees。taxes 由国家征收、salaries 是工资、rent 是租金，都不能被 card networks 收取。",
+              "evidencePara": "B",
+              "evidenceText": "charged to shops"
+            },
+            {
+              "number": 29,
+              "type": "词义题",
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "measure"
+                },
+                {
+                  "key": "B",
+                  "text": "reduce"
+                },
+                {
+                  "key": "C",
+                  "text": "share"
+                },
+                {
+                  "key": "D",
+                  "text": "ignore"
+                }
+              ],
+              "answer": "D",
+              "analysis": "因为顾客不用付利息，这笔成本就「容易被忽略」，与后半句「金额小到感觉无害」构成同一个心理机制。measure、reduce、share 都无法解释消费者低估成本。",
+              "evidencePara": "B",
+              "evidenceText": "small enough to feel harmless"
+            },
+            {
+              "number": 30,
+              "type": "词义题",
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "trains"
+                },
+                {
+                  "key": "B",
+                  "text": "tempts"
+                },
+                {
+                  "key": "C",
+                  "text": "forces"
+                },
+                {
+                  "key": "D",
+                  "text": "permits"
+                }
+              ],
+              "answer": "B",
+              "analysis": "监管者担心这种模式「诱使」人们超支：tempt sb to do 表示引诱，语气介于允许与强迫之间。forces 语气过强（并无强制），permits 只表示许可，trains 与消费无关。",
+              "evidencePara": "C",
+              "evidenceText": "spend beyond their means"
+            },
+            {
+              "number": 31,
+              "type": "词义题",
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "hardly"
+                },
+                {
+                  "key": "B",
+                  "text": "briefly"
+                },
+                {
+                  "key": "C",
+                  "text": "roughly"
+                },
+                {
+                  "key": "D",
+                  "text": "equally"
+                }
+              ],
+              "answer": "C",
+              "analysis": "数字前需要表示约数的副词，grew to roughly three billion pounds 意为「增长到约三十亿英镑」。hardly 表否定、briefly 表时间、equally 表比较，都不能修饰金额。",
+              "evidencePara": "C",
+              "evidenceText": "three billion pounds a year"
+            },
+            {
+              "number": 32,
+              "type": "词义题",
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "run"
+                },
+                {
+                  "key": "B",
+                  "text": "close"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "count"
+                }
+              ],
+              "answer": "A",
+              "analysis": "空格后 several apps at once 与 each unaware of the others 说明借款人同时在「使用/周转」多个应用，run several apps 是运营、使用多款应用的常用说法。close、avoid 与「多头借贷」的风险相反，count 只表示计数。",
+              "evidencePara": "C",
+              "evidenceText": "each unaware of the others"
+            },
+            {
+              "number": 33,
+              "type": "词义题",
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "remove"
+                },
+                {
+                  "key": "B",
+                  "text": "read"
+                },
+                {
+                  "key": "C",
+                  "text": "copy"
+                },
+                {
+                  "key": "D",
+                  "text": "leave"
+                }
+              ],
+              "answer": "D",
+              "analysis": "逾期会在信用档案上「留下」记录，leave a mark on a credit file 是固定搭配，也与后文「影响将来房贷」的后果衔接。remove 方向相反，read、copy 与信用记录无关。",
+              "evidencePara": "C",
+              "evidenceText": "affects a future mortgage"
+            },
+            {
+              "number": 34,
+              "type": "词义题",
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "weekly"
+                },
+                {
+                  "key": "B",
+                  "text": "instalment"
+                },
+                {
+                  "key": "C",
+                  "text": "foreign"
+                },
+                {
+                  "key": "D",
+                  "text": "cash"
+                }
+              ],
+              "answer": "B",
+              "analysis": "与前句 credit cards 对照，这里说的是「分期付款」这一新形态，全文主题 pay in four instalments 已给出提示。weekly 只说明频率、foreign 说明地域、cash 与分期相反。",
+              "evidencePara": "C",
+              "evidenceText": "The rules were written for credit cards"
+            },
+            {
+              "number": 35,
+              "type": "词义题",
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "habit"
+                },
+                {
+                  "key": "B",
+                  "text": "discount"
+                },
+                {
+                  "key": "C",
+                  "text": "trap"
+                },
+                {
+                  "key": "D",
+                  "text": "receipt"
+                }
+              ],
+              "answer": "C",
+              "analysis": "a convenience or a ___ 需要与「便利」形成对立，指可能让人负债的「陷阱」，与全文监管担忧一致。habit、discount、receipt 都无法承担这种价值判断。",
+              "evidencePara": "C",
+              "evidenceText": "is still being argued"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 1997 the Swedish parliament adopted a road safety policy with an unusual premise: that no one should be killed or seriously injured in traffic. The policy, called Vision Zero, shifted responsibility. Instead of asking road users to be more careful, it asked the people who design roads and vehicles to make mistakes survivable. A collision at 30 km/h is usually a crash; the same collision at 70 km/h is usually a death."
+            },
+            {
+              "label": "B",
+              "text": "The engineering that followed was unglamorous and effective. Junctions were rebuilt as roundabouts, which remove the right-angle and head-on impacts that cause the worst injuries. Towns lowered limits to 30 km/h on residential streets, and cameras were placed where they would catch the most speeders rather than where they were easiest to install."
+            },
+            {
+              "label": "C",
+              "text": "The most visible change was the 2+1 road: a single carriageway widened so that traffic alternates between two lanes in one direction and one in the other, with a steel cable between them. The barrier is cheap, and it prevents the head-on crash, the most lethal kind. Sweden's annual road deaths fell from about 600 in the early 1990s to roughly 200 by 2015."
+            },
+            {
+              "label": "D",
+              "text": "The policy has critics. Some argue that a system designed to forgive error can encourage carelessness, and that the state has quietly taken over a responsibility that belongs to drivers. Others point out that Sweden's results depend on low traffic density, strict enforcement and a public that accepts limits, conditions that cannot simply be exported to other countries."
+            },
+            {
+              "label": "E",
+              "text": "The numbers have also stopped improving as quickly as they once did. Deaths have plateaued since 2015, and motorcyclists now account for a growing share of them, a group that road design does less to protect. Rural roads, where speeds are high and traffic is thin, remain the hardest case of all."
+            },
+            {
+              "label": "F",
+              "text": "Other cities have adopted the label anyway. New York announced a Vision Zero programme in 2014 and reported a fall in traffic deaths over the following years, though progress varied from district to district. In the United States as a whole, pedestrian deaths rose during the pandemic, which suggests that a slogan without engineering and enforcement changes very little."
+            },
+            {
+              "label": "G",
+              "text": "The deeper argument is about what a road is for. If the answer is moving vehicles as quickly as possible, deaths are a cost to be accepted and reduced where convenient. If the answer is moving people safely, then a limit that saves lives but adds two minutes to the average journey is not a difficult decision. Vision Zero is less a set of measures than a refusal to treat death as normal."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The policy made road designers responsible for protecting people who make mistakes.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：责任转移——不再要求使用者更小心，而要求设计道路与车辆的人「让错误可以幸存」。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "make mistakes survivable"
+            },
+            {
+              "number": 37,
+              "stem": "Roundabouts replaced junctions in order to remove the most harmful kinds of impact.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：路口被改为环岛，从而消除造成最严重伤害的直角碰撞与正面碰撞。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "remove the right-angle and head-on impacts"
+            },
+            {
+              "number": 38,
+              "stem": "A cheap steel cable separates traffic moving in opposite directions.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：2+1 道路在双向车道之间加一道钢缆，成本低，专门防止最致命的正面相撞。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "a steel cable between them"
+            },
+            {
+              "number": 39,
+              "stem": "Annual road deaths fell to about a third of their earlier level in roughly two decades.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：年死亡人数从 1990 年代初约 600 人降到 2015 年约 200 人，约为原来的三分之一。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "from about 600 in the early 1990s to roughly 200 by 2015"
+            },
+            {
+              "number": 40,
+              "stem": "Some critics believe the approach may make drivers less careful.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：有人认为一个「为错误兜底」的系统反而会鼓励粗心（encourage carelessness）。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "can encourage carelessness"
+            },
+            {
+              "number": 41,
+              "stem": "Sweden's particular conditions make its results difficult to reproduce elsewhere.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段后半：低交通密度、严格执法与接受限速的公众，这些条件「无法简单输出到他国」。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "cannot simply be exported to other countries"
+            },
+            {
+              "number": 42,
+              "stem": "Improvement in the death figures has levelled off since 2015.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段首：数字不再像从前那样快速改善，2015 年后死亡人数进入平台期（plateaued）。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "Deaths have plateaued since 2015"
+            },
+            {
+              "number": 43,
+              "stem": "Motorcyclists now make up a larger proportion of those killed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：摩托车手在死亡者中占比上升，而道路设计对这一群体保护有限。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "a growing share of them"
+            },
+            {
+              "number": 44,
+              "stem": "A city abroad adopted the name and reported fewer traffic deaths.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：纽约 2014 年推出同名的 Vision Zero 计划，随后几年报告交通事故死亡下降，但各区进展不一。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "New York announced a Vision Zero programme in 2014"
+            },
+            {
+              "number": 45,
+              "stem": "The author describes the policy as a refusal to accept death as normal.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段末句：Vision Zero 与其说是一套措施，不如说是「拒绝把死亡当作正常」。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "a refusal to treat death as normal"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 1995 the American space agency NASA asked a question that pilots had been asking for years: does a short sleep in the afternoon make a difference? In a study of long-haul crews, pilots who took a planned nap of about twenty-six minutes in the cockpit seat performed 34 per cent better on a reaction test afterwards and showed a 54 per cent improvement in alertness, compared with crews who did not nap."
+            },
+            {
+              "label": "B",
+              "text": "The finding has since been repeated in offices, hospitals and laboratories. What the studies agree on is the length. A nap of ten to twenty minutes restores attention without leaving the sleeper groggy; a nap of more than about thirty minutes carries the risk of sleep inertia, the heavy, confused state that follows waking from deep sleep. Someone who sleeps for an hour at three in the afternoon may feel worse at four than someone who slept for fifteen minutes."
+            },
+            {
+              "label": "C",
+              "text": "Timing matters as much as duration. The dip in alertness that most adults feel between one and three in the afternoon is not, as people once assumed, caused by a heavy lunch. It is a second, smaller low point in the daily rhythm, present even in people who skip lunch entirely. Napping at the bottom of that dip works with the body's own schedule; napping at five in the evening works against it, and makes falling asleep at night harder."
+            },
+            {
+              "label": "D",
+              "text": "Some workplaces have taken the research literally. Companies in California and Tokyo provide quiet rooms with reclining chairs and alarm clocks set to twenty minutes, and a few airports rent sleeping pods by the hour. Japanese practice has long accepted inemuri, sleeping in public while appearing to remain present, which is tolerated in meetings but read very differently from a nap taken openly at a desk in Germany or the United States."
+            },
+            {
+              "label": "E",
+              "text": "There is a warning, however. Studies that follow large groups for years have found an association between long daytime naps and heart disease, but the direction of cause is unclear: people who are already ill sleep more during the day. Researchers are careful to say that the correlation does not license the conclusion that napping damages health. It does, though, argue against treating a two-hour afternoon sleep as a harmless habit."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What did the NASA study find about a short nap?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It improved pilots' reactions and alertness."
+                },
+                {
+                  "key": "B",
+                  "text": "It helped pilots sleep better at night."
+                },
+                {
+                  "key": "C",
+                  "text": "It replaced the need for longer rest periods."
+                },
+                {
+                  "key": "D",
+                  "text": "It worked only for long-haul crews."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：约 26 分钟的驾驶舱小睡使反应测试成绩提高 34%、警觉度提高 54%。B 项是 C 段讨论的夜间入睡问题，方向相反；C、D 文中均无。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "34 per cent better on a reaction test"
+            },
+            {
+              "number": 47,
+              "stem": "Why does the author mention sleep inertia?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To explain why naps should be kept short."
+                },
+                {
+                  "key": "B",
+                  "text": "To show that deep sleep is unhealthy."
+                },
+                {
+                  "key": "C",
+                  "text": "To argue that naps should be avoided entirely."
+                },
+                {
+                  "key": "D",
+                  "text": "To describe how pilots recover from jet lag."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段先说研究在小睡时长上达成一致，再指出超过三十分钟会出现睡眠惯性（醒后昏沉），一小时午睡不如十五分钟——用来说明「为什么要短」。B 项曲解、C 项与全文肯定小睡矛盾、D 项无关。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "a nap of more than about thirty minutes carries the risk"
+            },
+            {
+              "number": 48,
+              "stem": "What causes the early-afternoon dip in alertness?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A heavy midday meal."
+                },
+                {
+                  "key": "B",
+                  "text": "A natural low point in the daily rhythm."
+                },
+                {
+                  "key": "C",
+                  "text": "A lack of exposure to daylight."
+                },
+                {
+                  "key": "D",
+                  "text": "Long hours of sitting at a desk."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段明确否定了「午饭吃太多」的解释：这是日节律里第二个较小的低谷，即使不吃午饭的人也存在。A 项是文中被推翻的旧假设。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "a second, smaller low point in the daily rhythm"
+            },
+            {
+              "number": 49,
+              "stem": "What does the example of inemuri show?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That Japanese workers sleep less than others."
+                },
+                {
+                  "key": "B",
+                  "text": "That attitudes to sleeping at work vary between cultures."
+                },
+                {
+                  "key": "C",
+                  "text": "That sleeping in meetings is now accepted everywhere."
+                },
+                {
+                  "key": "D",
+                  "text": "That naps at desks are more effective than in pods."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段把日本的 inemuri 与德国、美国办公桌上公开打盹作对比：同样在公共场合睡，含义与容忍度完全不同，说明文化差异。A、C、D 均与原文不符。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "read very differently from a nap taken openly at a desk"
+            },
+            {
+              "number": 50,
+              "stem": "How does the author treat the link between long naps and heart disease?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "As proof that naps cause illness."
+                },
+                {
+                  "key": "B",
+                  "text": "As a reason to ban naps at work."
+                },
+                {
+                  "key": "C",
+                  "text": "As a correlation whose cause may run the other way."
+                },
+                {
+                  "key": "D",
+                  "text": "As a finding that has been disproved."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：长期追踪发现长午睡与心脏病相关，但因果方向不明——可能本身有病的人才白天多睡；作者强调相关不等于因果，只提醒别把两小时午睡当成无害习惯。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "the direction of cause is unclear"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When universities closed in 2020, lecturers recorded their classes and posted them online. Most expected the practice to end with the pandemic. It did not: recording lectures has become standard in many institutions, and the arguments about it have barely changed since."
+            },
+            {
+              "label": "B",
+              "text": "The case for recording is strongest for students who cannot be in the room. A student with a part-time job that starts at four, a parent with a sick child, or someone with a hearing difficulty all benefit from a version they can watch twice. International students say the same: a lecture delivered at speed is easier to follow the second time, when they can pause and look up a word."
+            },
+            {
+              "label": "C",
+              "text": "The evidence on learning is less dramatic than either side claims. A review of several dozen studies found that access to recordings had no measurable effect on examination marks, but did improve students' satisfaction with a course. In other words, students liked having the recording; they did not, on average, learn more because of it."
+            },
+            {
+              "label": "D",
+              "text": "The costs appear elsewhere. When lectures are recorded, attendance falls, and a half-empty room changes the nature of the class: questions dry up, and the lecturer talks to a camera rather than to people. Some students also postpone watching until the week before the examination, turning a weekly habit into a rush. Lecturers, meanwhile, report that being recorded makes them more cautious and less willing to try an idea that might fail."
+            },
+            {
+              "label": "E",
+              "text": "The sensible arrangement is not to choose between recording and attendance but to change what the hour is for. If a lecture is only the delivery of information, a recording does the job at least as well. If it is a place where a difficult idea is worked out in front of an audience, then the value lies in being present, and the recording is a backup rather than a substitute."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What happened to lecture recording after 2020?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was abandoned once campuses reopened."
+                },
+                {
+                  "key": "B",
+                  "text": "It became a normal part of university teaching."
+                },
+                {
+                  "key": "C",
+                  "text": "It was banned in most institutions."
+                },
+                {
+                  "key": "D",
+                  "text": "It replaced face-to-face lectures entirely."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：多数人以为疫情结束就会停止，但事实并非如此——录课在许多院校已成常规。A、C 与原文相反，D 夸大了程度。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "recording lectures has become standard"
+            },
+            {
+              "number": 52,
+              "stem": "Who benefits most clearly from recorded lectures?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Students who want to skip all their classes."
+                },
+                {
+                  "key": "B",
+                  "text": "Students who cannot attend in person."
+                },
+                {
+                  "key": "C",
+                  "text": "Lecturers who dislike repeating themselves."
+                },
+                {
+                  "key": "D",
+                  "text": "Students who already have high marks."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：最有力的理由是给「无法到场」的学生——四点钟要上班的、带孩子的、有听力困难的，以及需要暂停查词的国际学生。A 是后文提到的弊端，C、D 无据。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "students who cannot be in the room"
+            },
+            {
+              "number": 53,
+              "stem": "What did the review of studies find?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Recordings raised marks but lowered satisfaction."
+                },
+                {
+                  "key": "B",
+                  "text": "Recordings improved satisfaction but not marks."
+                },
+                {
+                  "key": "C",
+                  "text": "Recordings made no difference to anything."
+                },
+                {
+                  "key": "D",
+                  "text": "Recordings harmed students who attended class."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：综述发现能看录课对考试分数没有可测的影响，但提高了课程满意度——学生「喜欢有录像」，平均而言并没有因此学得更多。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "no measurable effect on examination marks, but did improve"
+            },
+            {
+              "number": 54,
+              "stem": "What is one effect of falling attendance mentioned in Paragraph D?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Lecturers speak to a camera instead of to people."
+                },
+                {
+                  "key": "B",
+                  "text": "Students ask more questions online."
+                },
+                {
+                  "key": "C",
+                  "text": "Examinations become easier to mark."
+                },
+                {
+                  "key": "D",
+                  "text": "Rooms are used for other purposes."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：录课后出勤下降，教室半空改变了课堂性质——提问消失，讲者面对摄像机而不是面对人。B、C、D 均非该段内容。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "talks to a camera rather than to people"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's recommendation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Stop recording lectures altogether."
+                },
+                {
+                  "key": "B",
+                  "text": "Record every lecture and cancel the live class."
+                },
+                {
+                  "key": "C",
+                  "text": "Reconsider what the live hour is for."
+                },
+                {
+                  "key": "D",
+                  "text": "Make attendance compulsory again."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：合理的做法不是在「录课」与「出勤」之间二选一，而是改变这一小时本身的用途；若课堂只是传递信息，录像足够；若要当场推演难点，价值就在现场。A、B、D 都与这一主张不符。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "change what the hour is for"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国书法是以毛笔书写汉字的艺术，已有三千多年的历史。书法不仅讲究每个字的结构与笔画，也讲究整幅作品的节奏和空白。历代书法家留下的碑帖，至今仍是学习者的范本。2009年，中国书法被联合国教科文组织列入人类非物质文化遗产代表作名录。今天，不少学校开设书法课，也有年轻人重新拿起毛笔，在一笔一画中体会汉字的美感。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChinese calligraphy is the art of writing Chinese characters with a brush, and it has a history of more than three thousand years. It pays attention not only to the structure and strokes of each character but also to the rhythm of a whole piece and to the empty space within it. The stone inscriptions and model copies left by calligraphers of earlier dynasties are still used as examples for learners today. In 2009 Chinese calligraphy was inscribed by UNESCO on the Representative List of the Intangible Cultural Heritage of Humanity. Today many schools offer calligraphy classes, and some young people have taken up the brush again, discovering the beauty of Chinese characters stroke by stroke.\n\n【要点】①「以毛笔书写汉字的艺术」可用 the art of writing Chinese characters with a brush，避免逐字译；②「不仅……也……」用 not only ... but also ...，注意两个 to 的宾语并列；③「碑帖」可合并译作 stone inscriptions and model copies，不必逐字对应；④「被联合国教科文组织列入……名录」用 be inscribed by UNESCO on the list，比 be listed 更贴合遗产语境；⑤「重新拿起毛笔」用 take up the brush again，比 pick up a brush 更地道；⑥「在一笔一画中」译作 stroke by stroke，保留原句的画面感。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

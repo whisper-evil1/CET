@@ -1,0 +1,1101 @@
+{
+  "id": "cet4-2021-06-s3",
+  "level": "CET4",
+  "year": 2021,
+  "month": 6,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether it is better to study in a big city or in a small town. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nStudying in a Big City or a Small Town\n\nEvery summer, thousands of students choose between a university in a metropolis and one in a quieter town, and the argument is rarely settled by the ranking alone.\n\nThe big city offers things a campus cannot manufacture: internships within a bus ride, lectures by people who work in the field, museums, concerts and a crowd of strangers who think differently. A student who spends four years there usually leaves with a network as well as a degree. The cost is equally clear: higher rent, longer journeys and a tendency to treat every hour as a career move.\n\nA small town offers the opposite bargain. Life is cheaper, the campus is quieter, and a student can read for three hours without being tempted by anything. Teachers know names, and friendships form without competition. The risk is a certain narrowness: fewer employers visit, and it is easy to postpone the question of what comes next.\n\nMy own view is that the choice should follow the subject. Those who need laboratories, industry contacts or archives belong in the city; those who need long, uninterrupted thought may do better where nothing happens.\n\n（约 170 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2012, the OECD added a financial literacy test to its international survey of fifteen-year-olds. The 26______ were sobering: in most countries fewer than one in three students could explain how interest works. Since then, several governments have made personal finance a part of the school timetable, usually inside mathematics or social studies."
+            },
+            {
+              "label": "B",
+              "text": "The 27______ for teaching the subject is straightforward. Young people sign mobile phone contracts, take out student loans and 28______ advertisements for credit cards every day. A single bad decision can follow someone for years. Yet finance is often taught, if at all, by a maths teacher with no special training, using materials written for bank employees."
+            },
+            {
+              "label": "C",
+              "text": "The results of the first national programmes are mixed. In the United Kingdom, financial education became part of the curriculum in 2014, but a later survey found that many teenagers still could not 29______ an annual percentage rate. Supporters argue that the 30______ should be practical: comparing two phone contracts, reading a payslip, or working out what a loan really 31______."
+            },
+            {
+              "label": "D",
+              "text": "Critics raise a deeper 32______. Knowing about interest does not mean behaving well, and a single course is unlikely to 33______ habits formed over fifteen years. They point to evidence that the people who 34______ most confident about money are often the ones who borrow worst. Even so, most researchers agree that starting early is better than starting never, and that the 35______ of a course should be measured years later, not at the end of term."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "findings"
+                },
+                {
+                  "key": "B",
+                  "text": "advice"
+                },
+                {
+                  "key": "C",
+                  "text": "habit"
+                },
+                {
+                  "key": "D",
+                  "text": "value"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后是调查得出的具体结果（多数国家不到三分之一的学生讲不清利息），故用 findings（调查结果）。advice 是建议、habit 是习惯，都不能指代冒号后的数据。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "fewer than one in three students could explain how interest works"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "case"
+                },
+                {
+                  "key": "B",
+                  "text": "advice"
+                },
+                {
+                  "key": "C",
+                  "text": "record"
+                },
+                {
+                  "key": "D",
+                  "text": "concern"
+                }
+              ],
+              "answer": "A",
+              "analysis": "The case for teaching the subject is straightforward 意为「开设这门课的理由很直接」，后文列举学生签合约、办贷款、天天面对信用卡广告，正是理由。case for 是固定搭配。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "Young people sign mobile phone contracts"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "face"
+                },
+                {
+                  "key": "B",
+                  "text": "measure"
+                },
+                {
+                  "key": "C",
+                  "text": "promise"
+                },
+                {
+                  "key": "D",
+                  "text": "record"
+                }
+              ],
+              "answer": "A",
+              "analysis": "空白处与 sign、take out 并列，宾语是 advertisements for credit cards，意为每天「面对」信用卡广告，face 最贴合。measure、promise、record 与 advertisements 搭配都不成句意。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "advertisements for credit cards every day"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "explain"
+                },
+                {
+                  "key": "B",
+                  "text": "measure"
+                },
+                {
+                  "key": "C",
+                  "text": "promise"
+                },
+                {
+                  "key": "D",
+                  "text": "record"
+                }
+              ],
+              "answer": "A",
+              "analysis": "第一段已用 could explain how interest works 描述同一能力，此处仍在说学生讲不清「年化利率」，故选 explain。measure 意为测量，用于利率不合语境。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "could not explain how interest works"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "lessons"
+                },
+                {
+                  "key": "B",
+                  "text": "findings"
+                },
+                {
+                  "key": "C",
+                  "text": "habits"
+                },
+                {
+                  "key": "D",
+                  "text": "costs"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后是比较两份手机合约、看工资单、算贷款真实成本，这些都是课上要练的内容，故 the lessons should be practical（课程内容要实用）。findings 指调查结果，与 should be practical 不搭。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "comparing two phone contracts"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "costs"
+                },
+                {
+                  "key": "B",
+                  "text": "measures"
+                },
+                {
+                  "key": "C",
+                  "text": "promises"
+                },
+                {
+                  "key": "D",
+                  "text": "records"
+                }
+              ],
+              "answer": "A",
+              "analysis": "what a loan really ______ 与「算清贷款的真实代价」呼应，cost 作动词表示「使……花费、代价为」，主语是 a loan，用第三人称单数 costs。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "working out what a loan really"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "concern"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "value"
+                },
+                {
+                  "key": "D",
+                  "text": "advice"
+                }
+              ],
+              "answer": "A",
+              "analysis": "Critics raise a deeper ______ 后接批评者的担忧：懂利息不等于会理财、一门课改不了十五年的习惯，故为 concern（担忧）。raise a concern 是常见搭配。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "Knowing about interest does not mean behaving well"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "change"
+                },
+                {
+                  "key": "B",
+                  "text": "measure"
+                },
+                {
+                  "key": "C",
+                  "text": "promise"
+                },
+                {
+                  "key": "D",
+                  "text": "record"
+                }
+              ],
+              "answer": "A",
+              "analysis": "is unlikely to ______ habits formed over fifteen years 指一门课难以「改变」多年形成的习惯，change habits 搭配自然。measure、record 的对象是数据而非习惯，promise 后不接 habits。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "habits formed over fifteen years"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "feel"
+                },
+                {
+                  "key": "B",
+                  "text": "measure"
+                },
+                {
+                  "key": "C",
+                  "text": "promise"
+                },
+                {
+                  "key": "D",
+                  "text": "explain"
+                }
+              ],
+              "answer": "A",
+              "analysis": "who ______ most confident about money 需要一个系动词与 confident 搭配，feel confident 即「自认为很懂」。后文 are often the ones who borrow worst 说明这种自信并不可靠。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "are often the ones who borrow worst"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "value"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "concern"
+                },
+                {
+                  "key": "D",
+                  "text": "advice"
+                }
+              ],
+              "answer": "A",
+              "analysis": "the ______ of a course should be measured years later 意为「一门课的价值要在多年后衡量」，value 与 measured 搭配最自然，也与 not at the end of term 形成时间上的对比。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "should be measured years later"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A farmer who buys a tractor expects to repair it himself, as farmers have done for a century. Since the 1990s, however, the machine has come with software that will not recognise a replacement part unless a dealer authorises it. The same has happened to phones, laptops and coffee machines: the case is glued shut, the battery is fixed with adhesive, and a special screwdriver is needed to open what once had four screws."
+            },
+            {
+              "label": "B",
+              "text": "The response has been a set of laws known as right to repair. In 2021 the European Union adopted rules requiring manufacturers of washing machines, fridges and televisions to supply spare parts for up to ten years and to publish repair manuals. Britain introduced similar requirements the same year, and France went further with an index that scores each product out of ten for how easily it can be fixed."
+            },
+            {
+              "label": "C",
+              "text": "France's index is printed on the label in the shop, beside the energy rating. It is calculated from criteria that include the availability of parts, the price of those parts, the time a repair takes and whether the manual is public. Within a year of its introduction several manufacturers had changed their designs, in one case by making a battery easier to remove, because a low score was visible to every customer who walked in."
+            },
+            {
+              "label": "D",
+              "text": "Manufacturers object on three grounds. Safety: a badly repaired battery can catch fire. Liability: a company may be blamed for a fault it did not cause. Property: the software is theirs, and they argue that opening it invites copying. Each objection is real, and each has an answer. Independent repair has always existed for cars, and the rules could require training rather than prohibition."
+            },
+            {
+              "label": "E",
+              "text": "In the United States, progress has been slower and more local. Massachusetts voters approved a right to repair cars in 2012 and widened it in 2020, and several states have since considered bills covering electronics. The bills usually pass the state senate and then stall, because manufacturers argue that a patchwork of rules across fifty states would be impossible to design for."
+            },
+            {
+              "label": "F",
+              "text": "The environmental case is the strongest argument for change. The world generated about 50 million tonnes of electronic waste in 2018, and only a fifth of it was formally collected and recycled. Extending the life of a smartphone by a single year, researchers calculate, avoids roughly the same emissions as taking a car off the road for several months. Repairs also create local jobs that cannot be moved abroad."
+            },
+            {
+              "label": "G",
+              "text": "What the laws cannot do is make repair fashionable. A cheap new device will often beat an expensive repair, and the rules so far cover large appliances better than phones. Still, the direction is clear: the question has shifted from whether consumers may open their own possessions to how long a product is expected to last, and who is expected to keep it working."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Some machines refuse to accept a new part without the maker's approval.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "A 段：拖拉机的软件不认非原厂配件，除非经销商授权；手机、笔记本、咖啡机也被胶封死、用特殊螺丝。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "unless a dealer authorises it"
+            },
+            {
+              "number": 37,
+              "stem": "One set of rules obliges companies to keep supplying parts for as long as a decade.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：2021 年欧盟要求洗衣机、冰箱、电视厂商提供长达十年的备件并公开维修手册。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "supply spare parts for up to ten years"
+            },
+            {
+              "number": 38,
+              "stem": "A label in the shop tells buyers how repairable a product is.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：法国的可修复性指数印在商店标签上，与能效等级并列，按十分制打分。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "printed on the label in the shop"
+            },
+            {
+              "number": 39,
+              "stem": "Making a poor rating public led some firms to redesign their products.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph C"
+                }
+              ],
+              "answer": "G",
+              "analysis": "C 段后半：指数推出一年内，多家厂商改设计（有一家把电池做得更易拆），因为低分会被每个进店的顾客看到。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "a low score was visible to every customer"
+            },
+            {
+              "number": 40,
+              "stem": "Manufacturers argue that a repaired device may be unsafe.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph A"
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段列厂商三条反对理由：安全（修坏的电池可能起火）、责任、知识产权。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "a badly repaired battery can catch fire"
+            },
+            {
+              "number": 41,
+              "stem": "Firms claim that different rules in many states would be impossible to work with.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "analysis": "E 段：美国各州法案常在参议院通过后搁置，因为厂商称五十个州各一套规则（a patchwork of rules）无法应对。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "a patchwork of rules across fifty states"
+            },
+            {
+              "number": 42,
+              "stem": "Only a small share of electronic waste is officially collected and recycled.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：2018 年全球产生约五千万吨电子垃圾，只有五分之一被正式回收。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "only a fifth of it was formally collected and recycled"
+            },
+            {
+              "number": 43,
+              "stem": "Repair work keeps employment in the local area.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "analysis": "F 段末：维修还能创造无法迁往国外的本地就业。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "create local jobs that cannot be moved abroad"
+            },
+            {
+              "number": 44,
+              "stem": "Current rules deal with large household goods more fully than with mobile phones.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "A",
+              "analysis": "G 段：法律暂时对大型家电的覆盖好于手机；便宜的新机往往比昂贵维修更划算。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "cover large appliances better than phones"
+            },
+            {
+              "number": 45,
+              "stem": "The argument has moved from ownership to how long a product should serve its owner.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "G 段末：问题已从「消费者能否打开自己买的东西」转为「产品应使用多久、由谁维持其运转」。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "how long a product is expected to last"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2017 a group of amateur entomologists published a study that changed the conversation about insects. Working with standard traps at 63 nature reserves in Germany, they had weighed the flying insects caught each season since 1989. The total had fallen by more than 75 per cent, with the steepest losses in midsummer. The reserves were protected areas; the decline was happening inside them."
+            },
+            {
+              "label": "B",
+              "text": "The finding has since been tested elsewhere and largely confirmed, though the picture is uneven. Long-term records for British butterflies show a similar downward trend, and surveys in Puerto Rico found sharp falls in both insects and the birds that eat them. A few species, including certain mosquitoes and crop pests, are expanding. The overall direction, most reviewers agree, is down."
+            },
+            {
+              "label": "C",
+              "text": "No single cause explains it. Intensive farming removes hedgerows and flowers, leaving insects without food or shelter. Pesticides, particularly the neonicotinoids that are absorbed by the whole plant, affect the nervous system of insects at doses far too low to kill them outright. Artificial light at night disrupts mating and migration, and warmer winters disturb the timing on which species depend. Each factor removes a little; together they leave very little."
+            },
+            {
+              "label": "D",
+              "text": "The consequences reach beyond the insects themselves. About three-quarters of the world's food crops depend at least partly on animal pollination, and most of that work is done by wild insects rather than by managed honeybees. Insects also feed the birds, bats and fish above them in the food chain; the collapse of insect numbers is one explanation offered for the parallel loss of farmland birds."
+            },
+            {
+              "label": "E",
+              "text": "The responses are small but measurable. The European Union restricted the outdoor use of three neonicotinoids in 2018, and several countries now pay farmers to leave flower strips along field edges. Monitoring has improved, partly because volunteers with phone cameras can record what professionals have no time to count. The weakest point is expertise: the number of people who can identify an insect to species level is falling almost as fast as the insects."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What made the 2017 study particularly alarming?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was carried out by amateurs rather than professionals."
+                },
+                {
+                  "key": "B",
+                  "text": "It covered only a single season."
+                },
+                {
+                  "key": "C",
+                  "text": "It measured birds instead of insects."
+                },
+                {
+                  "key": "D",
+                  "text": "The losses were happening in protected areas."
+                }
+              ],
+              "answer": "D",
+              "analysis": "A 段末：这些是保护区，而衰退就发生在保护区之内，这正是研究令人震动之处。研究由业余昆虫学家完成是事实，但不是「令人警觉」的原因。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "The reserves were protected areas"
+            },
+            {
+              "number": 47,
+              "stem": "What does the author say about the overall trend?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is downward, although a few species are spreading."
+                },
+                {
+                  "key": "B",
+                  "text": "It has been reversed since 2017."
+                },
+                {
+                  "key": "C",
+                  "text": "It cannot be confirmed outside Germany."
+                },
+                {
+                  "key": "D",
+                  "text": "It affects only species that live on farms."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：德国之外的记录大体证实了这一发现，虽有个别物种（某些蚊子和农业害虫）在扩张，但总体方向是下降（The overall direction... is down）。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "The overall direction, most reviewers agree, is down"
+            },
+            {
+              "number": 48,
+              "stem": "Why are neonicotinoids especially damaging?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are sprayed only in midsummer."
+                },
+                {
+                  "key": "B",
+                  "text": "They kill only the insects that eat crops."
+                },
+                {
+                  "key": "C",
+                  "text": "They are taken up by the whole plant and harm insects at low doses."
+                },
+                {
+                  "key": "D",
+                  "text": "They remain in hedgerows for decades."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：这类农药被整株植物吸收，在远低于致死量的剂量下就影响昆虫神经系统，因此危害隐蔽而广泛。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "absorbed by the whole plant"
+            },
+            {
+              "number": 49,
+              "stem": "Why does insect loss threaten food production?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Insects eat most of the crops grown for humans."
+                },
+                {
+                  "key": "B",
+                  "text": "Wild insects do most of the pollination that crops need."
+                },
+                {
+                  "key": "C",
+                  "text": "Farmers depend on insects to break down pesticides."
+                },
+                {
+                  "key": "D",
+                  "text": "Honeybees can no longer be managed."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：约四分之三的粮食作物部分依赖动物授粉，而这项工作大部分由野生昆虫而非家养蜜蜂完成，因此野生昆虫减少直接威胁产量。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "most of that work is done by wild insects"
+            },
+            {
+              "number": 50,
+              "stem": "What is described as the weakest point in the response?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The level of government spending."
+                },
+                {
+                  "key": "B",
+                  "text": "The willingness of farmers to leave flower strips."
+                },
+                {
+                  "key": "C",
+                  "text": "The accuracy of phone cameras."
+                },
+                {
+                  "key": "D",
+                  "text": "The number of people able to identify species."
+                }
+              ],
+              "answer": "D",
+              "analysis": "E 段末：最薄弱的一环是专业能力——能把昆虫鉴定到种的人正在以几乎和昆虫一样快的速度减少。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "The weakest point is expertise"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When health codes became a condition of entry to shops and buses in 2020, millions of older people found themselves shut out of ordinary life. Official figures put the number of internet users aged 60 and over at more than 100 million, but the same statistics showed that a large share of the elderly had never made a mobile payment. A phone that a grandchild had set up in ten minutes became, for its owner, an object of mild fear."
+            },
+            {
+              "label": "B",
+              "text": "The barriers are rarely about intelligence. Type is small, menus move, and an app that updates itself rearranges everything the user has just learned. Advertising and fraud are constant, and older users know they are targets: a single scam call can cost a year of savings. Many are also embarrassed to ask for help, having spent a lifetime being the person others ask."
+            },
+            {
+              "label": "C",
+              "text": "Classes have appeared in community centres, libraries and bank branches. The best of them are small, free and repeated weekly, and they begin with what the learners want: a video call with a grandchild, a hospital appointment, a bus timetable. Volunteers sit beside their students rather than lecturing from the front, and the same pair meets again the following week, so that a difficult question can wait until then."
+            },
+            {
+              "label": "D",
+              "text": "Design changes matter more than classes. A larger typeface, fewer steps to reach the payment screen and a button that connects to a family member have done more than any course. Some banks now offer an app in which an adult child can see the same screen remotely and guide a parent through a transfer. The feature was requested by customers; it was not invented by designers in an office."
+            },
+            {
+              "label": "E",
+              "text": "There is a risk in all this attention. Treating every older person as helpless is both inaccurate and insulting: the majority manage perfectly well, and many are quicker than their children assume. What they ask for is not a simplified world but a reliable one, with clear prices, fewer traps and someone to call when something goes wrong. Confidence, teachers report, arrives with practice, and with the discovery that a mistake can usually be undone."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What happened to many older people in 2020?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They stopped using mobile phones altogether."
+                },
+                {
+                  "key": "B",
+                  "text": "They were given free smartphones."
+                },
+                {
+                  "key": "C",
+                  "text": "They were unable to take part in everyday activities."
+                },
+                {
+                  "key": "D",
+                  "text": "They moved in with their children."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段：健康码成为进店、乘车的条件，数以百万计的老人被挡在日常生活之外（shut out of ordinary life）。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "found themselves shut out of ordinary life"
+            },
+            {
+              "number": 52,
+              "stem": "What does the author say about the difficulties older users face?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are mainly caused by a lack of intelligence."
+                },
+                {
+                  "key": "B",
+                  "text": "They come from interface design, fraud and embarrassment."
+                },
+                {
+                  "key": "C",
+                  "text": "They disappear once a phone has been set up."
+                },
+                {
+                  "key": "D",
+                  "text": "They are limited to people over eighty."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段首句明确「障碍很少与智力有关」，随后列出字号小、菜单变动、诈骗电话、不好意思求助等原因。",
+              "type": "主旨题",
+              "evidencePara": "B",
+              "evidenceText": "The barriers are rarely about intelligence"
+            },
+            {
+              "number": 53,
+              "stem": "What is typical of the most successful classes?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They cover every app in a single long session."
+                },
+                {
+                  "key": "B",
+                  "text": "They are taught by bank staff in large halls."
+                },
+                {
+                  "key": "C",
+                  "text": "They use printed manuals instead of phones."
+                },
+                {
+                  "key": "D",
+                  "text": "They are small, repeated, and built around learners' own goals."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段：最好的课程规模小、免费、每周重复，并从学员真正想做的事（视频通话、挂号、查公交）开始，志愿者坐在旁边而非在台上讲。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "they begin with what the learners want"
+            },
+            {
+              "number": 54,
+              "stem": "What has proved more effective than courses?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Changes to the design of apps and phones."
+                },
+                {
+                  "key": "B",
+                  "text": "Stricter punishment of online fraud."
+                },
+                {
+                  "key": "C",
+                  "text": "Cheaper mobile data plans."
+                },
+                {
+                  "key": "D",
+                  "text": "More community centres."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段首句：Design changes matter more than classes，更大的字号、更少的步骤、一键联系家人，比任何课程都管用。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "Design changes matter more than classes"
+            },
+            {
+              "number": 55,
+              "stem": "What do older users actually want?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A much simpler version of the internet."
+                },
+                {
+                  "key": "B",
+                  "text": "To be treated as helpless and protected."
+                },
+                {
+                  "key": "C",
+                  "text": "A dependable system with clear prices and help when needed."
+                },
+                {
+                  "key": "D",
+                  "text": "To have their children manage their accounts."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：他们要的不是被简化的世界，而是一个可靠的世界——价格清楚、陷阱更少、出问题时有人可问；作者还批评把老人一概当作无能既不准也不尊重。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "not a simplified world but a reliable one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "请将下面一段话译成英语：\n\n中医药是中国传统文化的重要组成部分。它讲究人与自然的平衡，强调预防，而不是只在生病之后才去治疗。近年来，中医药在海外的影响不断扩大：一些大学开设了相关课程，针灸在许多国家被用来缓解疼痛。2019年，世界卫生组织把传统医学纳入其国际疾病分类，这被视为对中医药的一种认可。不过，中药的疗效与安全仍需更多现代研究来验证。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nTraditional Chinese medicine is an important part of China's traditional culture. It stresses the balance between human beings and nature, and gives priority to prevention rather than treatment only after illness has appeared. In recent years, its influence overseas has continued to grow: some universities have set up courses on the subject, and acupuncture is used in many countries to relieve pain. In 2019, the World Health Organization included traditional medicine in its international classification of diseases, which was seen as a form of recognition for traditional Chinese medicine. However, the effectiveness and safety of Chinese herbal medicine still need to be confirmed by more modern research. In China itself, many hospitals combine the two systems, and patients can choose between them according to the illness and their own preference.\n\n【要点】①「重要组成部分」用 an important part of；②「讲究人与自然的平衡」用 stresses the balance between... and...，动词选 stress 比 pay attention to 更书面；③「强调预防，而不是只在生病之后才去治疗」用 gives priority to prevention rather than treatment only after illness，rather than 前后保持名词性结构；④「针灸」用 acupuncture，「缓解疼痛」用 relieve pain；⑤「被纳入国际疾病分类」用 include... in its international classification of diseases，注意被动语态与非谓语 which was seen as... 的衔接；⑥「仍需更多现代研究来验证」用 still need to be confirmed by more modern research。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

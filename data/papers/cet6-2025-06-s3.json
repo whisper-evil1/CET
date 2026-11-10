@@ -1,0 +1,1101 @@
+{
+  "id": "cet6-2025-06-s3",
+  "level": "CET6",
+  "year": 2025,
+  "month": 6,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on the obligation of specialists to explain their work to the general public. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nOn the Duty to Explain\n\nSpecialists are frequently told, by politicians and by the public, to speak plainly. The demand is reasonable and slightly unfair. A virologist cannot describe a new variant in the language of a shopping list without saying something false, and a statistician who drops the confidence interval has not simplified the finding but distorted it.\n\nYet the obligation to explain is real, and it rests on a simple fact: expertise is paid for, directly or indirectly, by people who do not share it. A doctor's training is subsidised, a regulator's authority is borrowed from the public, a researcher's grant comes out of taxation. Authority that is borrowed has to be accounted for, and accounting means explanation.\n\nThe difficulty is that explanation is a skill distinct from the expertise it serves, and it is seldom taught. A scholar trained to spend ten pages qualifying a claim is not trained to say in one sentence what she knows and, more importantly, what she does not. When she declines to simplify, the space she leaves is filled by someone with fewer scruples.\n\nSpeaking plainly is therefore not a concession to ignorance. It is the last, necessary step in knowing something properly.\n\n（约 197 词，四段：让步—论证—困难—收束）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The central library in Helsinki, opened in 2018, contains no silent reading room of the traditional kind. It has a cinema, a recording studio, three hundred seats for public events, a kitchen that residents may book, and, on the top floor, a balcony where people sit and look at the city. It also lends books. The building was visited more than three million times in its first year, in a country of five and a half million people, and it has become the most 26______ argument in the world for what a library is for."
+            },
+            {
+              "label": "B",
+              "text": "The old justification rested on 27______: a library existed to lend books to people who could not afford to buy them. That case has weakened as books became cheap and information free at the point of use. What has replaced it is a claim about place. A library is one of the few indoor spaces a person may enter without buying anything, joining anything, or explaining why they are there. In an age of 28______ housing and disappearing public benches, that is not a sentimental 29______; it is infrastructure."
+            },
+            {
+              "label": "C",
+              "text": "The evidence is 30______ but consistent. Branch libraries report that the largest single use of their computers is form-filling: benefit claims, job applications, visa paperwork, all of which have moved online and none of which has become easier. Librarians have become, without anyone deciding it, the last 31______ source of help with the state. Budgets, meanwhile, have fallen in real terms for a decade, and closures fall 32______ on poorer neighbourhoods, where the alternative is a bus ride and a queue. Some councils have responded by 33______ the library with other services—a post office counter, an advice desk, a warm room in winter—which keeps the door open but 34______ the staff who must now administer three systems. Whether that is 35______ or merely survivable is the question the next decade will answer."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "persuasive"
+                },
+                {
+                  "key": "B",
+                  "text": "costly"
+                },
+                {
+                  "key": "C",
+                  "text": "official"
+                },
+                {
+                  "key": "D",
+                  "text": "rigid"
+                }
+              ],
+              "answer": "A",
+              "analysis": "首段用「没有传统阅览室、却有影院与录音棚，一年三百万人次到访」这一事实，为「图书馆是做什么用的」提供了全世界最有说服力的论据，故 persuasive。costly 与官方性质均非本段重点。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "visited more than three million times in its first year"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "tradition"
+                },
+                {
+                  "key": "B",
+                  "text": "charity"
+                },
+                {
+                  "key": "C",
+                  "text": "duty"
+                },
+                {
+                  "key": "D",
+                  "text": "commerce"
+                }
+              ],
+              "answer": "B",
+              "analysis": "冒号后解释：图书馆为「买不起书的人」借书，这是慈善救济的逻辑，故 rest on charity（建立在慈善之上）。duty 指义务，commerce 指商业，均与「买不起」的语境不符。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "people who could not afford to buy them"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "precarious"
+                },
+                {
+                  "key": "B",
+                  "text": "abundant"
+                },
+                {
+                  "key": "C",
+                  "text": "official"
+                },
+                {
+                  "key": "D",
+                  "text": "temporary"
+                }
+              ],
+              "answer": "A",
+              "analysis": "与 disappearing public benches 并列，说明居住状况同样在恶化：precarious housing 指「朝不保夕的、不稳定的住房」。abundant 与整段论证相反。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "disappearing public benches"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "failure"
+                },
+                {
+                  "key": "B",
+                  "text": "tradition"
+                },
+                {
+                  "key": "C",
+                  "text": "luxury"
+                },
+                {
+                  "key": "D",
+                  "text": "ambition"
+                }
+              ],
+              "answer": "C",
+              "analysis": "not a sentimental luxury; it is infrastructure（不是多愁善感的奢侈品，而是基础设施）——sentimental luxury 是常见搭配，与 infrastructure 形成价值对照。",
+              "type": "搭配题",
+              "evidencePara": "B",
+              "evidenceText": "it is infrastructure"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "anecdotal"
+                },
+                {
+                  "key": "B",
+                  "text": "costly"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusive"
+                },
+                {
+                  "key": "D",
+                  "text": "alarming"
+                }
+              ],
+              "answer": "A",
+              "analysis": "but consistent 提示前后形成「虽不严密却方向一致」的让步：证据多为各分馆的零散见闻，故为 anecdotal（轶事性的、非系统性的）。conclusive 与 but 的转折逻辑冲突。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "Branch libraries report that"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "dependable"
+                },
+                {
+                  "key": "B",
+                  "text": "commercial"
+                },
+                {
+                  "key": "C",
+                  "text": "generous"
+                },
+                {
+                  "key": "D",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "A",
+              "analysis": "the last dependable source of help with the state 指「最后一个可靠的、能帮你对付政府部门的地方」；前文列举福利申请、求职、签证等均转为线上，正说明其不可替代。commercial 与公共图书馆性质相反。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "benefit claims, job applications, visa paperwork"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "deliberately"
+                },
+                {
+                  "key": "B",
+                  "text": "disproportionately"
+                },
+                {
+                  "key": "C",
+                  "text": "equally"
+                },
+                {
+                  "key": "D",
+                  "text": "reluctantly"
+                }
+              ],
+              "answer": "B",
+              "analysis": "closes fall disproportionately on poorer neighbourhoods 意为「闭馆不成比例地落在贫困社区」，与后半句「替代方案是坐公交再加排队」呼应；equally 与后文描述的不平等相反。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "where the alternative is a bus ride and a queue"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "merging"
+                },
+                {
+                  "key": "B",
+                  "text": "filling"
+                },
+                {
+                  "key": "C",
+                  "text": "comparing"
+                },
+                {
+                  "key": "D",
+                  "text": "replacing"
+                }
+              ],
+              "answer": "A",
+              "analysis": "merge A with B 为固定搭配「把 A 与 B 合并」；破折号后列出邮局柜台、咨询台、冬季暖房，说明多种服务被并入同一空间，而非取代图书馆。",
+              "type": "搭配题",
+              "evidencePara": "C",
+              "evidenceText": "a post office counter, an advice desk, a warm room in winter"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "trains"
+                },
+                {
+                  "key": "B",
+                  "text": "burdens"
+                },
+                {
+                  "key": "C",
+                  "text": "recruits"
+                },
+                {
+                  "key": "D",
+                  "text": "protects"
+                }
+              ],
+              "answer": "B",
+              "analysis": "but 转折：门虽继续开着，却让「要同时管理三套系统」的员工负担加重，故 burdens（使……负重）。protects 与 but 的转折方向相反。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "the staff who must now administer three systems"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "sustainable"
+                },
+                {
+                  "key": "B",
+                  "text": "temporary"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusive"
+                },
+                {
+                  "key": "D",
+                  "text": "popular"
+                }
+              ],
+              "answer": "A",
+              "analysis": "sustainable or merely survivable 构成对照：这种模式究竟「可持续」，还是只能勉强维持——正是作者留给下一个十年的问题。temporary 与 merely survivable 语义重复，不能构成对照。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "or merely survivable"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2018 Cape Town came within weeks of running out of water. The reservoirs that supply the city had fallen below twenty per cent, a level at which the remaining water is difficult to pump and increasingly saline. Officials published a date—Day Zero—on which the taps would be turned off and residents would queue at collection points for a daily ration. The date was moved four times, and then the winter rain arrived. Day Zero never came. The response has since been studied as a case of what a modern city can do in an emergency, and as a warning about how little of it was planned."
+            },
+            {
+              "label": "B",
+              "text": "The consumption figures are striking. In 2015 the city used about 1.1 billion litres a day. By early 2018 it was using under 600 million, a reduction of nearly half in three years, achieved by a population that had scarcely grown. Households cut their use from 250 litres per person a day to below 90. Industry cut by a third. The instruments were unremarkable: a tariff that rose steeply with use, a public dashboard updated daily, restrictions on watering gardens and filling pools, and a steady flow of information about which dams were falling fastest."
+            },
+            {
+              "label": "C",
+              "text": "The distribution of that sacrifice was not equal. Wealthier households could install rainwater tanks, boreholes and greywater systems; a suburb with gardens and swimming pools reduced its use by proportionally less than a township where a single tap served a street. When the city published a map of consumption by area, it revealed a pattern that had been invisible: the poorest residents were already using very little, and the largest savings came from those who had most to save. That finding has changed how the city talks about water, though not, so far, how it prices it."
+            },
+            {
+              "label": "D",
+              "text": "The emergency also exposed a structural problem that no amount of restraint could fix. Cape Town's supply depends on a system of dams whose catchment is small and whose rainfall is projected to fall. A drought that once occurred twice a century is now expected more often. The city's answer has been to diversify: desalination plants, extraction from aquifers, and a reuse scheme that returns treated wastewater to the system. Each is expensive and each consumes energy, which is why the cheapest source remains the water that is not used."
+            },
+            {
+              "label": "E",
+              "text": "Economists draw a cautious lesson. Price works, but only where meters exist and bills are paid; in the informal settlements, where water arrives through shared taps and is not metered, the price signal never reaches the user. Information works, but only where people trust the messenger, and trust is precisely what a city loses when it announces a deadline and then postpones it. The most effective measure, several analyses conclude, was neither price nor persuasion but the visible involvement of neighbours: streets that cut their use did so together, and the norm spread from house to house."
+            },
+            {
+              "label": "F",
+              "text": "A final irony is worth recording. The crisis made Cape Town a model of urban water management, and its officials now advise cities from Chennai to Sao Paulo. The advice is sound: meter everything, price water progressively, publish the data, prepare for the drought after this one. The difficulty is political. Every measure that worked was unpopular when it was introduced, and the rain, when it came, removed the sense of urgency that had made those measures possible."
+            },
+            {
+              "label": "G",
+              "text": "Day Zero, in other words, was avoided by a combination of engineering, pricing and luck. The engineering can be replicated; the pricing can be legislated; the luck cannot. Cities that wait for their own emergency will discover that the three do not arrive together, and that the cheapest moment to build a reservoir is twenty years before anyone needs it."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The threatened shutdown was postponed several times and then averted by rain.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：官方公布「零水日」，日期四次推迟，随后冬雨到来，零水日始终没有发生。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "The date was moved four times, and then the winter rain arrived"
+            },
+            {
+              "number": 37,
+              "stem": "Water use was almost halved within three years.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：日用水量从约 11 亿升降到不足 6 亿升，「三年内减少近一半」，而人口几乎没有增长。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "a reduction of nearly half in three years"
+            },
+            {
+              "number": 38,
+              "stem": "Affluent districts made proportionally smaller cuts than the poorest ones.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：有花园与泳池的郊区降幅按比例小于「一个水龙头供一条街」的镇区。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "reduced its use by proportionally less than a township"
+            },
+            {
+              "number": 39,
+              "stem": "Those who had least room to economise were already consuming very little.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：用水地图显示「最贫困的居民本来就用量极少」，最大的节约来自「最有可节约空间的人」。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the poorest residents were already using very little"
+            },
+            {
+              "number": 40,
+              "stem": "The city's water rests on a catchment that is both limited and drying.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：供水依赖的水库「集水区狭小，且降雨量预计将持续下降」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "whose catchment is small and whose rainfall is projected to fall"
+            },
+            {
+              "number": 41,
+              "stem": "New supply options are costly and themselves require power.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：海水淡化、抽取含水层、再生水回用「每一项都昂贵且耗能」，故最便宜的仍是「没被用掉的水」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "Each is expensive and each consumes energy"
+            },
+            {
+              "number": 42,
+              "stem": "Charging for water has no effect where supply is shared and unmetered.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：价格有效「但只在装了水表、有人缴费的地方」；非正式定居点共用龙头、不计费，价格信号无法抵达使用者。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "the price signal never reaches the user"
+            },
+            {
+              "number": 43,
+              "stem": "Neighbours acting together did more than either charges or appeals.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：最有效的既非价格也非劝导，而是「邻里可见的共同参与」，一条街一起节水，规范便逐户扩散。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "neither price nor persuasion but the visible involvement of neighbours"
+            },
+            {
+              "number": 44,
+              "stem": "A missed deadline damages the credibility a city needs for its next request.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：信息之所以有效，前提是民众信任发布者；而信任恰恰是城市「宣布期限又推迟」时失去的东西。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "trust is precisely what a city loses when it announces a deadline and then postpones it"
+            },
+            {
+              "number": 45,
+              "stem": "The measures that proved effective were unwelcome at the time they were adopted.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：每项奏效的措施在推出时都不受欢迎，而雨一来，又消解了当初使其成为可能的紧迫感。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "Every measure that worked was unpopular when it was introduced"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The idea is elegant. A company that cannot eliminate its emissions pays someone else to reduce an equivalent amount: to protect a forest that would otherwise be cut, to install a solar cooker in place of firewood, to capture methane from a landfill. Money flows from the rich world to projects that would not otherwise happen, and the atmosphere is spared the difference. In 2023 the market for these credits was worth roughly two billion dollars, and a large share of the world's biggest companies had bought some."
+            },
+            {
+              "label": "B",
+              "text": "The elegance depends on a counterfactual that nobody can observe. A forest that is protected was not cut down—but would it have been cut down anyway? If the land was already a national park, or the timber too remote to sell, the credit pays for a saving that would have occurred without it. Researchers who examined a large sample of rainforest credits found that most were associated with forests that were not, in fact, under serious threat. A similar problem affects renewable-energy credits, where a wind farm may be profitable with no subsidy at all."
+            },
+            {
+              "label": "C",
+              "text": "Verification is meant to solve this, and does not. A developer hires an auditor, who applies a methodology written by a standards body, which is funded by the same market. The incentives run in one direction: a methodology that certifies many credits is popular with developers, and a standards body that rejects projects loses fees. Several investigations have found auditors approving projects whose baseline had been inflated—an inflated baseline makes the saving look larger—and no auditor has faced a penalty proportionate to the sums involved."
+            },
+            {
+              "label": "D",
+              "text": "Defenders of the market make two arguments. The first is that perfection is the enemy of speed: a credit that is only seventy per cent real still moves money to a forest that might otherwise be logged, and waiting for a flawless system means waiting. The second is that offsets are not meant to replace emission cuts at home but to finance cheaper cuts elsewhere, which is precisely what a carbon price is supposed to do. Both arguments have force, and both are compatible with the conclusion that most current credits are worth far less than their face value."
+            },
+            {
+              "label": "E",
+              "text": "That conclusion has begun to have consequences. Several large buyers have stopped purchasing credits altogether; others have shifted to removals—paying for trees to be planted, or for carbon to be captured and stored—where the accounting is easier to verify but the cost is ten times higher and the volume tiny. Regulators in the European Union and Britain have moved to require disclosure of how offsets are used, which does not make them real but does make them visible. The market is shrinking, and the projects that depended on it are losing their income."
+            },
+            {
+              "label": "F",
+              "text": "The deeper issue is what offsets were asked to do. They were invented to let economic growth continue while emissions fell, and they have been used by companies as evidence of climate action that requires no change to the business. A credit is a claim about a counterfactual, and no counterfactual can bear that weight. The instrument is not wicked; it is simply being asked to do a job that only a tax or a cap can do—to make pollution expensive for everyone, rather than optional for those who can afford the paperwork."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the forest example in the second paragraph illustrate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Rainforests are no longer being cut down."
+                },
+                {
+                  "key": "B",
+                  "text": "National parks are the best way to store carbon."
+                },
+                {
+                  "key": "C",
+                  "text": "Credits may pay for outcomes that would have happened anyway."
+                },
+                {
+                  "key": "D",
+                  "text": "Timber is too valuable to leave standing."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：若土地本就是国家公园、或木材太偏远运不出去，那么这块信用买到的「减排」本来就会发生；研究也发现多数雨林信用对应的森林「并未真正受到威胁」。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "a saving that would have occurred without it"
+            },
+            {
+              "number": 47,
+              "stem": "Why does the certification system fail to catch inflated baselines?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Auditors are not technically qualified."
+                },
+                {
+                  "key": "B",
+                  "text": "Its financial incentives reward approving projects."
+                },
+                {
+                  "key": "C",
+                  "text": "Governments forbid auditors from publishing data."
+                },
+                {
+                  "key": "D",
+                  "text": "Baselines are set by an independent court."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：开发方雇审计，审计用标准机构写的方法学，而标准机构「由同一个市场出资」——认证越多越受欢迎，否决项目就失去费用，激励只朝一个方向。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "The incentives run in one direction"
+            },
+            {
+              "number": 48,
+              "stem": "What is the author's view of the defenders' two arguments?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are simply dishonest."
+                },
+                {
+                  "key": "B",
+                  "text": "They prove that offsets are unnecessary."
+                },
+                {
+                  "key": "C",
+                  "text": "They apply only to renewable-energy projects."
+                },
+                {
+                  "key": "D",
+                  "text": "They have some force but do not rescue existing credits."
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：两个论点「都有力量」，但「都与这一结论相容——当前多数信用的价值远低于其面值」。作者两面承认，结论仍偏批评。",
+              "type": "态度题",
+              "evidencePara": "D",
+              "evidenceText": "Both arguments have force"
+            },
+            {
+              "number": 49,
+              "stem": "What has criticism of the market produced so far?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Buyers withdrawing, projects losing income, and new disclosure rules."
+                },
+                {
+                  "key": "B",
+                  "text": "A global ban on forest credits."
+                },
+                {
+                  "key": "C",
+                  "text": "Cheaper removal credits and rising volumes."
+                },
+                {
+                  "key": "D",
+                  "text": "Prosecutions of the auditors involved."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：部分大买家停止购买，另一些转向成本十倍、规模极小的「移除类」信用；欧盟与英国要求披露；市场在萎缩，依赖它的项目正在失去收入。D 项与 C 段「没有审计师受到相称处罚」相反。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "The market is shrinking, and the projects that depended on it are losing their income"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's central argument in the final paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Offsets are fraudulent and should be prosecuted."
+                },
+                {
+                  "key": "B",
+                  "text": "Economic growth must be abandoned to cut emissions."
+                },
+                {
+                  "key": "C",
+                  "text": "Disclosure alone is sufficient to fix the market."
+                },
+                {
+                  "key": "D",
+                  "text": "Offsets cannot substitute for making pollution costly for all."
+                }
+              ],
+              "answer": "D",
+              "analysis": "F 段：信用是「关于反事实的声明」，无法承担这一重量；这件工具并不邪恶，只是被要求去做「只有税或总量管制才能做的事」——让污染对所有人昂贵，而不是对买得起文书工作的人可选。A 项「欺诈、应起诉」超出作者分寸。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "to make pollution expensive for everyone"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "France was the first country to legislate on the right to disconnect. A 2017 amendment to the labour code did not ban after-hours email. It required companies with more than fifty employees to negotiate the terms on which staff may ignore messages outside working time: how much contact is acceptable, what counts as urgent, and who may be called. Where no agreement was reached, the employer had to publish a charter instead. The obligation was procedural, and deliberately so. The aim was to make the boundary discussable rather than to punish individual managers."
+            },
+            {
+              "label": "B",
+              "text": "Ireland took a different route. Its 2021 code of practice is not statute; it creates neither a fine nor a claim in itself. But it sets out what a reasonable employer should do, a written policy, training for managers, and a stated expectation that staff need not answer outside hours, and a workplace relations tribunal may take the code into account when judging a case. Portugal went further, making it an offence for an employer to contact a worker outside agreed hours, though the penalty has been applied rarely. Spain and Italy have comparable rules, limited to particular sectors or to remote-work contracts."
+            },
+            {
+              "label": "C",
+              "text": "The health argument is less about any single message than about expectation. A person who receives one email at ten in the evening can choose to ignore it; a person who knows that a reply is expected within the hour cannot. Research on availability links that permanent readiness to poorer sleep, slower recovery at weekends and higher reported exhaustion, and the effect appears strongest among staff who have least control over their own schedules. The harm, in other words, lies in the uncertainty rather than in the text."
+            },
+            {
+              "label": "D",
+              "text": "Enforcement is where these laws become modest. Someone has to decide whether a call was urgent, and a client in another time zone will always supply a reason. Managers are often excluded from the protection they are expected to grant, while the self-employed, platform drivers and carers fall outside it altogether. Small firms argue that a two-person business cannot write a policy for every evening. What the statutes seem to change most reliably is the default: where a company states that nothing is expected after seven, an employee no longer has to negotiate the boundary alone."
+            },
+            {
+              "label": "E",
+              "text": "That is also the strongest argument for the softer approach. A law can fine a few employers; a norm can excuse millions of workers from answering. The measures that appear to work are unglamorous: delayed sending, automatic replies, meetings kept inside a core of shared hours, and managers who visibly log off. Their virtue is that they protect the people least able to refuse, who are rarely the ones who would ask for a policy in the first place."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Under the 2017 French amendment, large companies were required to",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "forbid all contact with employees after working hours."
+                },
+                {
+                  "key": "B",
+                  "text": "negotiate rules on when staff may ignore messages."
+                },
+                {
+                  "key": "C",
+                  "text": "pay staff for every email answered at home."
+                },
+                {
+                  "key": "D",
+                  "text": "shorten the working week for their managers."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段第二、三句：修正案并未禁止下班后邮件，而是要求五十人以上企业与员工「协商下班后可不必回复信息的具体条件」，谈不成则须发布章程。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "It required companies with more than fifty employees to negotiate the terms on which staff may ignore messages outside working time"
+            },
+            {
+              "number": 52,
+              "stem": "How does Ireland's approach differ from the French one?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It applies only to firms with more than fifty employees."
+                },
+                {
+                  "key": "B",
+                  "text": "It imposes a fixed fine for contacting staff at night."
+                },
+                {
+                  "key": "C",
+                  "text": "It relies on a code that a tribunal may consider rather than on a legal duty."
+                },
+                {
+                  "key": "D",
+                  "text": "It bans remote work outside normal office hours."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段前三句：爱尔兰 2021 年的做法不是成文法，本身不产生罚款或诉权，而是行为准则，但劳资审裁机构「可将准则纳入考量」。A 项是法国的门槛，属偷换。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "a workplace relations tribunal may take the code into account when judging a case"
+            },
+            {
+              "number": 53,
+              "stem": "According to the author, the main damage of constant availability is",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "the sheer volume of messages received in the evening."
+                },
+                {
+                  "key": "B",
+                  "text": "the technical difficulty of switching devices off."
+                },
+                {
+                  "key": "C",
+                  "text": "the cost of mobile data borne by employees."
+                },
+                {
+                  "key": "D",
+                  "text": "the expectation of answering soon after a message arrives."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段首句与末句：危害主要不在单条信息，而在「期待」——知道一小时内会被要求回复的人无法选择忽略；作者明确说伤害来自不确定性而非文字本身。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "a person who knows that a reply is expected within the hour cannot"
+            },
+            {
+              "number": 54,
+              "stem": "What does the author suggest about enforcing right-to-disconnect laws?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Tribunals have been willing to impose heavy penalties."
+                },
+                {
+                  "key": "B",
+                  "text": "Their reach is limited by who is covered and by judgements of urgency."
+                },
+                {
+                  "key": "C",
+                  "text": "Most European employers have refused to accept them."
+                },
+                {
+                  "key": "D",
+                  "text": "They protect managers more strictly than other staff."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段前三句：执法成效有限——「是否紧急」要人来判断，跨时区客户总能给出理由；管理者常被排除在保护之外，自雇者、平台司机、照护者根本不在范围内。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "Managers are often excluded from the protection they are expected to grant"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's attitude towards softer measures such as delayed sending and automatic replies?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are useless because they carry no legal force."
+                },
+                {
+                  "key": "B",
+                  "text": "They mainly benefit senior staff who already control their hours."
+                },
+                {
+                  "key": "C",
+                  "text": "They are valuable because they reset expectations and shield those who cannot refuse."
+                },
+                {
+                  "key": "D",
+                  "text": "They should be dropped in favour of laws with financial penalties."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：法律只能罚少数雇主，规范却能让数百万人不必回复；这些不起眼的做法「保护的是最没有能力拒绝的人」，作者因此持肯定态度。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "Their virtue is that they protect the people least able to refuse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n昆曲发源于元末明初的江苏昆山，距今已有六百多年历史。它把唱、念、做、打融为一体，唱腔婉转细腻，被称为「水磨腔」。汤显祖的《牡丹亭》是昆曲最著名的作品，至今仍在上演。2001年，昆曲被联合国教科文组织列入首批「人类口头和非物质遗产代表作」名录。近年来，昆曲走进校园和小剧场，年轻观众渐渐多了起来，但如何在保留韵味的同时创新，仍是它的难题。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nKunqu opera originated in the Kunshan area of Jiangsu Province in the late Yuan and early Ming dynasties, and has a history of more than six hundred years. It integrates singing, recitation, acting and acrobatic fighting into a single art, and its melodies, subtle and finely modulated, are known as the Water Mill tune. The Peony Pavilion, written by the Ming playwright Tang Xianzu, is its most famous work and is still performed today. In 2001 Kunqu was among the first forms to be inscribed by UNESCO as a masterpiece of the oral and intangible heritage of humanity. In recent years it has moved into schools and small theatres, and its audiences have grown younger, yet how to innovate without losing its distinctive flavour remains the difficult question it faces.\n\n【要点】①「发源于」用 originated in；②朝代纪年译作 in the late Yuan and early Ming dynasties，不用具体公元年份；③「唱、念、做、打」是中国戏曲术语，宜用 singing, recitation, acting and acrobatic fighting 并保持四项并列；④「水磨腔」直译为 the Water Mill tune，保留意象；⑤「被列入名录」用 was inscribed as／was added to the list，注意 UNESCO 为主语时用被动；⑥「年轻观众渐渐多了起来」不必直译人数，用 its audiences have grown younger 更地道；⑦「在保留……的同时创新」用 innovate without losing...，比 while preserving 更简洁。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

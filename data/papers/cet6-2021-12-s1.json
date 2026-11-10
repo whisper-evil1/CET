@@ -1,0 +1,1101 @@
+{
+  "id": "cet6-2021-12-s1",
+  "level": "CET6",
+  "year": 2021,
+  "month": 12,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether cities should give more road space to pedestrians. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nShould Cities Give More Space to Pedestrians?\n\nA street is a fixed width of asphalt, and every metre given to one user is taken from another. Whether pedestrians deserve more of it sounds like a matter of taste, but it is really a question about what streets are for.\n\nFor most of the past century the answer was movement: streets existed to carry vehicles, and people on foot were tolerated at the edges. That model is now being questioned for practical rather than sentimental reasons. A shop on a street with wide pavements and slow traffic often sells more than the same shop beside a four-lane road, and a child who can walk to school alone costs the health service less than one who is driven everywhere. Where space is reallocated, the benefits tend to appear quickly, while the predicted congestion often fails to materialise.\n\nThe objection is fairness. Delivery drivers, tradespeople and people with disabilities who depend on a car are not making a lifestyle choice, and a street redesigned only for the able-bodied walker can exclude them. The sensible answer is not to choose between the two, but to design for the slowest and most vulnerable user first and to leave room for the vehicle that has no alternative.\n\nCities are right to move in this direction. The test of a good scheme is not how elegant it looks in a photograph, but whether the parent with a pushchair, the wheelchair user and the van driver can all still reach where they are going.\n\n（约 205 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Electricity has always been hard to store, which is why its price has traditionally followed demand rather than supply. A household that runs a washing machine at seven in the evening pays for the fact that everyone else is cooking at the same time. Time-of-use tariffs 26______ this logic, making the same unit of power cheap at three in the morning and expensive at six in the evening, and a home battery lets a family 27______ on the difference: it charges overnight, when power is cheap, and discharges when the kettle goes on."
+            },
+            {
+              "label": "B",
+              "text": "The arithmetic looks 28______ until the capital cost is included. A battery large enough for a typical house costs several thousand pounds, and the saving on an annual bill is a few hundred; payback periods of ten to fifteen years are common, which is roughly the working life of the equipment. A cautious buyer may reasonably 29______ that the warranty will outlast the savings. Yet sales have grown fast for reasons that have little to do with arbitrage. In several markets the battery is now 30______ with rooftop solar, and the combination protects a household from price spikes that have nothing to do with the time of day. When wholesale gas prices tripled, a family with panels and a battery discovered that its exposure to the market had 31______."
+            },
+            {
+              "label": "C",
+              "text": "There is a collective argument as well. A million batteries charging at midnight and discharging at six would 32______ the peak that the grid was built to serve, and postpone the construction of power stations used for a few hours a year. The 33______ is that the benefit depends on coordination: if every battery charges in the same cheap hour, the cheap hour stops being cheap. Some suppliers now 34______ the charging window remotely for exactly this reason, which is efficient and slightly unsettling, since the household has 35______ control over an asset it owns."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "invert"
+                },
+                {
+                  "key": "B",
+                  "text": "preserve"
+                },
+                {
+                  "key": "C",
+                  "text": "announce"
+                },
+                {
+                  "key": "D",
+                  "text": "expand"
+                }
+              ],
+              "answer": "A",
+              "analysis": "上文说电价历来「随需求走」——傍晚贵；分时电价把凌晨变便宜、傍晚变贵，正好把这一逻辑「颠倒」过来。invert 意为使反转，与后文 cheap at three in the morning and expensive at six in the evening 呼应。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "cheap at three in the morning and expensive at six in the evening"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "profit"
+                },
+                {
+                  "key": "B",
+                  "text": "insist"
+                },
+                {
+                  "key": "C",
+                  "text": "expand"
+                },
+                {
+                  "key": "D",
+                  "text": "preserve"
+                }
+              ],
+              "answer": "A",
+              "analysis": "profit on the difference 是固定搭配，意为「从差价中获利」；冒号后「夜里充、白天放」正是赚差价的做法。",
+              "type": "搭配题",
+              "evidencePara": "A",
+              "evidenceText": "it charges overnight, when power is cheap"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "appealing"
+                },
+                {
+                  "key": "B",
+                  "text": "complete"
+                },
+                {
+                  "key": "C",
+                  "text": "fragile"
+                },
+                {
+                  "key": "D",
+                  "text": "generous"
+                }
+              ],
+              "answer": "A",
+              "analysis": "look 后接形容词作表语；until the capital cost is included 表明后文要转折——账面「看起来诱人」，把设备成本算进去就不然。appealing 意为有吸引力的。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "until the capital cost is included"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "doubt"
+                },
+                {
+                  "key": "B",
+                  "text": "announce"
+                },
+                {
+                  "key": "C",
+                  "text": "preserve"
+                },
+                {
+                  "key": "D",
+                  "text": "expand"
+                }
+              ],
+              "answer": "A",
+              "analysis": "doubt that... 表示「怀疑（某事不会发生）」；前文说回本期与设备寿命相当，谨慎的买家自然怀疑保修期能否长过省钱期。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "payback periods of ten to fifteen years are common"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compared"
+                },
+                {
+                  "key": "B",
+                  "text": "bundled"
+                },
+                {
+                  "key": "C",
+                  "text": "replaced"
+                },
+                {
+                  "key": "D",
+                  "text": "announced"
+                }
+              ],
+              "answer": "B",
+              "analysis": "be bundled with sth 意为「与……捆绑销售」；下一句说「装了光伏板又配电池的家庭」，说明两者常打包出售，而非相互比较或替代。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "a family with panels and a battery"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "shrunk"
+                },
+                {
+                  "key": "B",
+                  "text": "expanded"
+                },
+                {
+                  "key": "C",
+                  "text": "preserved"
+                },
+                {
+                  "key": "D",
+                  "text": "doubled"
+                }
+              ],
+              "answer": "A",
+              "analysis": "When wholesale gas prices tripled 与 found that... 构成反差：气价涨了三倍，而家庭的「市场敞口」缩小了。exposure had shrunk 用过去完成时，表示先于发现的变化。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "When wholesale gas prices tripled"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "create"
+                },
+                {
+                  "key": "B",
+                  "text": "flatten"
+                },
+                {
+                  "key": "C",
+                  "text": "reward"
+                },
+                {
+                  "key": "D",
+                  "text": "preserve"
+                }
+              ],
+              "answer": "B",
+              "analysis": "flatten the peak 是电力行业惯用语，意为「削峰」；后文 postpone the construction of power stations used for a few hours a year 正是削峰的结果。",
+              "type": "搭配题",
+              "evidencePara": "C",
+              "evidenceText": "the peak that the grid was built to serve"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "reward"
+                },
+                {
+                  "key": "B",
+                  "text": "catch"
+                },
+                {
+                  "key": "C",
+                  "text": "rumour"
+                },
+                {
+                  "key": "D",
+                  "text": "fashion"
+                }
+              ],
+              "answer": "B",
+              "analysis": "The catch is that... 是口语中引出「麻烦之处」的固定说法；冒号后「人人都挤在同一便宜时段，便宜时段就不再便宜」正是这一隐患。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "if every battery charges in the same cheap hour, the cheap hour stops being cheap"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adjust"
+                },
+                {
+                  "key": "B",
+                  "text": "announce"
+                },
+                {
+                  "key": "C",
+                  "text": "inspect"
+                },
+                {
+                  "key": "D",
+                  "text": "expand"
+                }
+              ],
+              "answer": "A",
+              "analysis": "远程「调整」充电时段才能错峰，与前文 coordination 的难题对应；announce、inspect 都不解决时段撞车的问题。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the charging window remotely"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "limited"
+                },
+                {
+                  "key": "B",
+                  "text": "complete"
+                },
+                {
+                  "key": "C",
+                  "text": "equal"
+                },
+                {
+                  "key": "D",
+                  "text": "formal"
+                }
+              ],
+              "answer": "A",
+              "analysis": "slightly unsettling 提示作者的不安：设备归自己所有，控制权却「有限」，因为充电时间由供应商远程决定。limited control over sth 为常见搭配。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "control over an asset it owns"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A healthy reef is a wall of coral and a factory. It shelters perhaps a quarter of all marine species while covering less than one per cent of the sea floor, it breaks the force of waves before they reach the shore, and it supports fisheries and dive tourism worth billions. In the past three decades the world has lost roughly half of its shallow-water coral. Bleaching, in which heat drives the coral to expel the algae that feed it, is no longer an unusual event but an annual risk, and a single hot summer can undo a decade of growth."
+            },
+            {
+              "label": "B",
+              "text": "Restoration has grown from a volunteer hobby into a small industry. The standard technique is coral gardening: divers break a healthy colony into fragments, grow them on ropes, frames or tables in sheltered water until they are large enough to plant, and then cement them onto bare rock. A single project may run nurseries at several sites, employ full-time dive teams and move tens of thousands of fragments a year. The methods are now taught in courses, priced in catalogues, and insured."
+            },
+            {
+              "label": "C",
+              "text": "The economics are sobering. Restoring a hectare of reef can cost a million dollars or more, and a reef system of any size covers thousands of hectares. The best-funded programmes in the world have between them restored a few dozen hectares, a figure that would fit inside a large city park. Enthusiasts answer that the cost per hectare will fall with practice, as it did for solar panels; critics reply that the comparison is misleading, because a panel is manufactured while a coral must grow."
+            },
+            {
+              "label": "D",
+              "text": "A newer line of work asks which corals to plant. Not every colony survives a warm year, and the survivors pass some of their tolerance to their offspring. Selecting the toughest and breeding from them, sometimes called assisted evolution, could produce reefs that endure the sea temperatures expected by mid-century. The risk is genetic: if restoration plants the same few clones across a region, a single disease could sweep through them, and the diversity that makes a reef resilient would have been quietly removed."
+            },
+            {
+              "label": "E",
+              "text": "Some practitioners argue that the ground matters more than the fragments. Storms, anchors and blast fishing leave reefs flattened, and coral larvae need a rough, stable surface to settle on. Projects therefore stabilise loose rubble, lay mesh over it, or sink ceramic and printed structures designed to mimic the complexity of a natural reef. Without that preparation, planted fragments are simply washed away in the next swell, which is one reason early projects reported losses of half their coral within a year."
+            },
+            {
+              "label": "F",
+              "text": "The cheapest gains, however, lie outside the nursery. Sewage, farm runoff and sediment smother corals and feed the algae that compete with them; removing a single outflow pipe can matter more than a decade of planting. Protecting parrotfish, which graze the algae, and culling the coral-eating crown-of-thorns starfish are unglamorous measures with well-documented results. A reef relieved of these local pressures often recovers by itself, at no cost per hectare at all."
+            },
+            {
+              "label": "G",
+              "text": "Restoration is therefore best understood as a supplement rather than a substitute. It can buy time for a reef, and it can keep a small, precious site alive while the climate policy that would save it is negotiated. What it cannot do is compensate for continued warming: planting coral in water that will soon be too hot is, as one marine biologist puts it, like replanting a forest while the chainsaws are still running. On that view the money is not wasted, but it should be spent in the knowledge that somebody else must stop the cutting."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Reefs occupy a tiny share of the ocean floor yet shelter a large share of its species.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段首句：珊瑚礁覆盖不到海底百分之一，却为约四分之一的海洋物种提供栖身之处。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "less than one per cent of the sea floor"
+            },
+            {
+              "number": 37,
+              "stem": "Reef repair, once done by volunteers, is now a business with staff, courses and insurance.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：修复从「志愿者爱好」变成小产业，雇全职潜水队、开设课程、明码标价、可投保。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "grown from a volunteer hobby into a small industry"
+            },
+            {
+              "number": 38,
+              "stem": "The price of rebuilding a reef is far beyond what most projects can raise.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：恢复一公顷珊瑚礁可能要上百万美元，而礁体动辄数千公顷，资金最充足的项目也只恢复了数十公顷。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "Restoring a hectare of reef can cost a million dollars or more"
+            },
+            {
+              "number": 39,
+              "stem": "Breeding only the toughest corals could leave reefs vulnerable to a single disease.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：若整片海域种下同样的少数无性系，一种病害即可席卷全礁，抗逆性所依赖的多样性被悄然移除。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "a single disease could sweep through them"
+            },
+            {
+              "number": 40,
+              "stem": "Reefs flattened by storms offer young corals nothing solid to attach to.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：礁体被风浪、锚与炸鱼炸平后，珊瑚幼虫需要粗糙而稳定的基底才能附着，因此要先稳固碎石、铺设网架或人工结构。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "coral larvae need a rough, stable surface to settle on"
+            },
+            {
+              "number": 41,
+              "stem": "Tackling pollution and protecting grazing fish may achieve more than planting coral.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：最便宜的收益在苗圃之外——截断排污、保护啃食藻类的鹦嘴鱼，往往比种十年珊瑚更有效。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "The cheapest gains, however, lie outside the nursery"
+            },
+            {
+              "number": 42,
+              "stem": "The writer doubts that planting can make up for a warming ocean.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：修复只能算补充，无法抵消持续升温——在即将过热的水里种珊瑚，如同「电锯还在响就去补种森林」。",
+              "type": "态度题",
+              "evidencePara": "G",
+              "evidenceText": "What it cannot do is compensate for continued warming"
+            },
+            {
+              "number": 43,
+              "stem": "One unusually warm season can destroy many years of coral growth.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末：白化已从偶发变为每年都可能出现的风险，一个炎热的夏天就能抹掉十年的生长。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "a single hot summer can undo a decade of growth"
+            },
+            {
+              "number": 44,
+              "stem": "The total area of reef restored so far is small enough to fit in a city park.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：全球资金最充足的几个项目合计只恢复了几十公顷，面积「可以塞进一个大城市公园」。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "a figure that would fit inside a large city park"
+            },
+            {
+              "number": 45,
+              "stem": "Fragments are raised in underwater nurseries before being fixed in place.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：潜水员把健康群体敲成小枝，在绳、架或台上养大，再粘固到裸露的礁石上——这就是 coral gardening。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "grow them on ropes, frames or tables"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A generation ago, taking a university course while still at school was an exotic option for a few gifted teenagers. Today it is close to routine. In many American states more than a third of secondary pupils leave with at least one course carrying college credit, and the numbers have risen fastest among students who would once have been considered unlikely to attend university at all. The courses go by several names - advanced placement, dual enrolment, dual credit - but the promise is the same: a head start."
+            },
+            {
+              "label": "B",
+              "text": "The case for the expansion is easy to state. A student who completes a semester of college work at sixteen arrives at university with momentum, a lighter timetable and, in some systems, a bill reduced by thousands of dollars. Advocates add that the experience demystifies higher education for families with no history of it: a teenager who has sat in a lecture hall and survived is far more likely to apply. Several evaluations do find higher graduation rates among participants, particularly among low-income students, and these findings have been repeated often enough to become the standard justification for public funding."
+            },
+            {
+              "label": "C",
+              "text": "The evidence, however, is weaker than the advocacy. Students who choose to take college courses at sixteen are not a random sample: they are organised, well advised and usually already doing well, and those qualities predict graduation with or without the extra course. Where researchers have compared similar students, the advantage shrinks, and in some studies it disappears. There is a second, quieter effect. Because the school day has a fixed number of hours, a course taken at the local college often replaces an art, music or shop class, so the benefit to one student may be paid for by the narrowing of another's education."
+            },
+            {
+              "label": "D",
+              "text": "Quality is the least examined question and the most important. Who teaches a dual-credit course varies enormously: a certified subject teacher in a high school, an adjunct hired by the university, or an online instructor neither institution has met. Oversight ranges from a formal syllabus review to a memorandum and a signature. When the same credit can be earned in a seminar of fifteen and in a video class of two hundred, the label on the transcript tells an admissions office very little."
+            },
+            {
+              "label": "E",
+              "text": "None of this argues for retreat. Early access to challenging work is one of the few interventions that costs a state almost nothing to expand and can change what a teenager believes about herself. But expansion without quality control is a discount that students pay for later, when a credit is refused by the university they actually attend, or when they arrive at a second-year course without the habits the first year was supposed to teach. The remedy is unglamorous: fund the courses properly, require the same end-of-course standards as the campus version, and publish which credits transfer where, so that a family can see the bargain before signing up for it."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What change does the first paragraph describe?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "College courses for school pupils have become commonplace."
+                },
+                {
+                  "key": "B",
+                  "text": "Universities have lowered their entry requirements."
+                },
+                {
+                  "key": "C",
+                  "text": "Gifted teenagers are now taught separately."
+                },
+                {
+                  "key": "D",
+                  "text": "Secondary schools have shortened their programmes."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：三十年前还是少数天才的「异乎寻常的选择」，如今「近乎常规」，多数州三分之一以上的中学生毕业时已修过带大学学分的课程。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "Today it is close to routine"
+            },
+            {
+              "number": 47,
+              "stem": "Supporters regard dual enrolment as valuable mainly because it",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "raises the academic standard of high schools."
+                },
+                {
+                  "key": "B",
+                  "text": "reduces the cost and time needed for a degree."
+                },
+                {
+                  "key": "C",
+                  "text": "employs university professors in schools."
+                },
+                {
+                  "key": "D",
+                  "text": "replaces the final year of secondary school."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：支持者强调「提前半个学期」「课表更轻」，某些体系下学费可减数千美元——即省钱省时；此外还有「破除神秘感」的附带好处，但中心是成本与时间。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "a bill reduced by thousands of dollars"
+            },
+            {
+              "number": 48,
+              "stem": "Why does the author say the evidence is weaker than the advocacy?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The programmes have never been evaluated."
+                },
+                {
+                  "key": "B",
+                  "text": "Participants differ from other students before they enrol."
+                },
+                {
+                  "key": "C",
+                  "text": "Graduation rates have fallen nationwide."
+                },
+                {
+                  "key": "D",
+                  "text": "Low-income students are excluded from the courses."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：选课的学生本就有条理、有指导、成绩好，这些特质本身就能预测毕业；与「相似学生」比较后，优势缩小甚至消失——即选择效应。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "are not a random sample"
+            },
+            {
+              "number": 49,
+              "stem": "What hidden cost of the expansion is mentioned in the third paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Other subjects may be squeezed out of the timetable."
+                },
+                {
+                  "key": "B",
+                  "text": "Colleges charge schools for every enrolled pupil."
+                },
+                {
+                  "key": "C",
+                  "text": "Teachers are asked to mark university essays."
+                },
+                {
+                  "key": "D",
+                  "text": "Students must travel between two campuses."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段末：学校的课时固定，去大学上课往往挤掉美术、音乐或手工课——一个学生的收益，可能是另一个学生课程面变窄的代价。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "often replaces an art, music or shop class"
+            },
+            {
+              "number": 50,
+              "stem": "What does 'a discount that students pay for later' suggest about cheap credits?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are usually offered free of charge."
+                },
+                {
+                  "key": "B",
+                  "text": "They save money but may not be accepted or may not prepare students."
+                },
+                {
+                  "key": "C",
+                  "text": "They are priced lower for poorer families."
+                },
+                {
+                  "key": "D",
+                  "text": "They become more valuable as students get older."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：所谓「折扣」，账单上先省了钱，代价却由学生日后承担——学分可能不被真正就读的大学承认，或升入二年级却缺少一年级本该养成的学习习惯。",
+              "type": "词句含义题",
+              "evidencePara": "E",
+              "evidenceText": "a credit is refused by the university they actually attend"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The ordinary student is no longer ordinary. It is now normal to begin a degree at one institution, spend a term or a year at another, change programme once, and finish somewhere else again. Systems that were designed for a student who arrives at eighteen and leaves at twenty-two have struggled to keep up, and the point at which they fail most visibly is the transfer of credit: the unit of account by which one institution recognises what another has taught."
+            },
+            {
+              "label": "B",
+              "text": "The losses are large and they fall on individuals. Surveys in several countries find that students who move between institutions lose a substantial share of the credits they have earned - a semester's worth is common, a year's worth is not rare - and pay for it twice, first in tuition for a course they have already passed and then in the salary they do not earn while repeating it. The students most likely to be affected are those who move for reasons beyond their control: a family relocation, a change of visa status, a course that is withdrawn."
+            },
+            {
+              "label": "C",
+              "text": "The causes are structural rather than malicious. Institutions guard their autonomy, and a course in statistics taught in one department is genuinely not the same as a course with the same name taught in another. Accreditors certify programmes, not equivalences. Funding formulas reward enrolments, which gives a registrar little incentive to accept a rival's work. Professional bodies add their own requirements, so that a credit acceptable in one programme is worthless in a programme one door away."
+            },
+            {
+              "label": "D",
+              "text": "Some systems have attacked the problem with administrative machinery. A common course-numbering scheme lets a student in one state college know in advance that a course will be recognised by every public university in that state. Block transfer agreements accept a completed two-year diploma as satisfying the first half of a degree, without auditing individual modules. Transcript databases let applicants see, before they apply, how previous work has been assessed elsewhere. Where these tools exist, credit loss falls sharply, which suggests that the problem is one of information and incentive rather than of academic principle."
+            },
+            {
+              "label": "E",
+              "text": "The objection is that harmonisation has a price. If every institution must accept every equivalent, the easiest way to comply is to make the course easier, and the standard drifts towards the least demanding provider. Professional accreditation exists precisely because some differences matter: a nurse who has not practised a procedure cannot be signed off by a paperwork agreement. To say that a credit should travel is not to say that all courses are interchangeable, and the reforms that work tend to preserve a route for institutions to refuse an equivalence, provided they explain why in public."
+            },
+            {
+              "label": "F",
+              "text": "What students need, in the end, is not uniformity but predictability. A learner should be able to know, at the moment of enrolling, what will happen to her credits if she moves, and to appeal a refusal to somebody other than the office that made it. That is a modest demand. It does not require a national curriculum, only that the rules be written down, applied consistently and published before a student pays her fees rather than after."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the first paragraph suggest about credit transfer?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has become simpler as students move more often."
+                },
+                {
+                  "key": "B",
+                  "text": "It is where institutions' assumptions are most exposed."
+                },
+                {
+                  "key": "C",
+                  "text": "It applies only to students who change programme."
+                },
+                {
+                  "key": "D",
+                  "text": "It was designed for the modern mobile student."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：制度原本是为「十八岁入学、二十二岁毕业」的学生设计的，面对流动学生力不从心，而「最明显地失效之处」就是学分转移。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "the point at which they fail most visibly is the transfer of credit"
+            },
+            {
+              "number": 52,
+              "stem": "Who bears the cost of lost credits according to the second paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The receiving institution, which must provide extra tuition."
+                },
+                {
+                  "key": "B",
+                  "text": "The government, through additional funding."
+                },
+                {
+                  "key": "C",
+                  "text": "Students, who pay twice and lose earnings."
+                },
+                {
+                  "key": "D",
+                  "text": "Employers, who must train graduates again."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：损失由个人承担——为已通过的课程再交一次学费，还要承担重读期间本可赚到的工资，即「付两次钱」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "pay for it twice"
+            },
+            {
+              "number": 53,
+              "stem": "Which factor does the author identify as an obstacle to transfer?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Institutions' fear of losing students to rivals."
+                },
+                {
+                  "key": "B",
+                  "text": "Funding that rewards enrolment numbers."
+                },
+                {
+                  "key": "C",
+                  "text": "Students' unwillingness to supply transcripts."
+                },
+                {
+                  "key": "D",
+                  "text": "A shortage of qualified registrars."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段列出四点：院校自治与课程实有差异、认证只管项目不管等值、拨款按注册人数计算（故招生办缺乏承认他校课程的动机）、专业团体另设要求。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "Funding formulas reward enrolments"
+            },
+            {
+              "number": 54,
+              "stem": "What does the success of common course numbering indicate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That academic standards are basically identical everywhere."
+                },
+                {
+                  "key": "B",
+                  "text": "That the problem is practical rather than a matter of principle."
+                },
+                {
+                  "key": "C",
+                  "text": "That students should choose institutions more carefully."
+                },
+                {
+                  "key": "D",
+                  "text": "That professional bodies should set the rules."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段末：有这些工具的地方学分损失大减，说明症结在「信息与激励」而非「学术原则」上的不可通约。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "a problem of information and incentive rather than of academic principle"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's attitude towards harmonising credit rules?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Supportive, provided institutions can still refuse with reasons."
+                },
+                {
+                  "key": "B",
+                  "text": "Hostile, because standards will inevitably fall."
+                },
+                {
+                  "key": "C",
+                  "text": "Indifferent, since few students are affected."
+                },
+                {
+                  "key": "D",
+                  "text": "Confident that a national curriculum is the answer."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段承认「统一」有代价（标准向要求最低者漂移），但指出可行的改革会「保留院校拒绝等值的通道，只要公开说明理由」；F 段强调要的是可预期而非统一。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "preserve a route for institutions to refuse an equivalence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n风筝在中国已有两千多年的历史。相传最早的风筝由鲁班用竹木制成，曾用于传递信号。唐宋以后，放风筝逐渐成为春季的民间娱乐，人们在纸鸢上绘制花鸟人物，寄托祈福的心愿。制作风筝讲究选竹、削骨、裱纸、绘画四道工序，重量与平衡决定它能否飞得高。山东潍坊是著名的风筝产地，每年春天举办国际风筝会。2006 年，风筝制作技艺被列入国家级非物质文化遗产名录。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe kite has a history of more than two thousand years in China. Legend has it that the earliest kite was made of bamboo and wood by Lu Ban and was once used to send signals. After the Tang and Song dynasties, kite flying gradually became a popular spring pastime, and people painted flowers, birds and figures on the paper kites to express their wishes for good fortune. Making a kite involves four steps: selecting the bamboo, whittling the frame, pasting on the paper and painting it, and it is weight and balance that decide whether it can fly high. Weifang in Shandong Province is a famous centre of kite making and holds an international kite festival every spring. In 2006 the craft of kite making was placed on the national list of intangible cultural heritage.\n\n【要点】①「相传」用 Legend has it that... 或 It is said that...；②「用于传递信号」用 was used to send signals，注意用被动语态；③「唐宋以后」用 After the Tang and Song dynasties，朝代名不加冠词；④「寄托祈福的心愿」用 to express their wishes for good fortune，避免逐字直译；⑤「讲究……四道工序」可拆为 involves four steps 并列举；⑥「决定它能否飞得高」用 it is weight and balance that decide whether... 的强调句更有力；⑦「被列入……名录」用 was placed on / was inscribed on the national list。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

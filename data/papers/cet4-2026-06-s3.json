@@ -1,0 +1,1483 @@
+{
+  "id": "cet4-2026-06-s3",
+  "level": "CET4",
+  "year": 2026,
+  "month": 6,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "For this part, you are allowed 30 minutes to write an essay on the value of learning from failure. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nThe Value of Learning from Failure\n\nStudents are trained to avoid mistakes: the red cross on a page feels like a judgement on the person who made it. Yet most of the skills that matter later in life are learned by failing at them first.\n\nFailure is useful for two reasons. First, it gives information that success hides. A plan that works may work for reasons we never notice, while a plan that collapses shows exactly where it was weak. Second, it teaches a kind of endurance. Anyone who has revised an essay three times, or lost a competition and tried again, knows that ability is not fixed and that improvement is usually slow and uneven.\n\nWhat matters is how a student responds. Failure that is explained becomes a lesson; failure that is hidden becomes a fear. So the sensible response is to look at the mistake closely, ask someone who knows more, and try again with one thing changed.\n\nThe student who has never failed has probably never attempted anything difficult.\n\n（约 170 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "China has hundreds of local dialects, and linguists warn that many of them are 26______ at an alarming rate. In some villages, children understand the speech of their grandparents but answer in the standard language, which makes every family meal a small 27______ of translation. The causes are not hard to find. Television, schooling and migration all push people towards a common language, and parents believe, reasonably, that a national language brings 28______ in education and work. Nobody forces a family to stop speaking its own dialect; the change happens through a thousand small 29______. Some educators now argue that the loss matters. A dialect carries local history, humour and ways of describing the weather or the harvest that no dictionary records. When it disappears, the 30______ is not only a set of words but a way of seeing the local world. Attempts to 31______ interest are under way. In a few primary schools, one afternoon a week is set aside for stories told in the local speech, and students record elderly neighbours on their phones. The recordings are 32______ in a public archive, where anyone may listen. Language apps have added dialect courses, and short videos of street interviews attract millions of views. None of this will 33______ the tide by itself. A dialect survives when parents use it at home with small children, and that decision cannot be 34______ by policy. What schools can do is remove the 35______: a child who speaks two languages should be treated as fortunate, not corrected."
+            },
+            {
+              "label": "词库",
+              "text": "A) accidents   B) act   C) advantages   D) answer   E) avoid   F) avoided   G) cause   H) decisions   I) disappearing   J) loss   K) made   L) revive   M) shame   N) stored   O) turn"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accidents"
+                },
+                {
+                  "key": "B",
+                  "text": "act"
+                },
+                {
+                  "key": "C",
+                  "text": "advantages"
+                },
+                {
+                  "key": "D",
+                  "text": "answer"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "avoided"
+                },
+                {
+                  "key": "G",
+                  "text": "cause"
+                },
+                {
+                  "key": "H",
+                  "text": "decisions"
+                },
+                {
+                  "key": "I",
+                  "text": "disappearing"
+                },
+                {
+                  "key": "J",
+                  "text": "loss"
+                },
+                {
+                  "key": "K",
+                  "text": "made"
+                },
+                {
+                  "key": "L",
+                  "text": "revive"
+                },
+                {
+                  "key": "M",
+                  "text": "shame"
+                },
+                {
+                  "key": "N",
+                  "text": "stored"
+                },
+                {
+                  "key": "O",
+                  "text": "turn"
+                }
+              ],
+              "answer": "I",
+              "analysis": "at an alarming rate（以惊人速度）只能搭配负面变化；下一段谈 loss 与「挽救」，说明方言在快速消失。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "the loss matters"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accidents"
+                },
+                {
+                  "key": "B",
+                  "text": "act"
+                },
+                {
+                  "key": "C",
+                  "text": "advantages"
+                },
+                {
+                  "key": "D",
+                  "text": "answer"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "avoided"
+                },
+                {
+                  "key": "G",
+                  "text": "cause"
+                },
+                {
+                  "key": "H",
+                  "text": "decisions"
+                },
+                {
+                  "key": "I",
+                  "text": "disappearing"
+                },
+                {
+                  "key": "J",
+                  "text": "loss"
+                },
+                {
+                  "key": "K",
+                  "text": "made"
+                },
+                {
+                  "key": "L",
+                  "text": "revive"
+                },
+                {
+                  "key": "M",
+                  "text": "shame"
+                },
+                {
+                  "key": "N",
+                  "text": "stored"
+                },
+                {
+                  "key": "O",
+                  "text": "turn"
+                }
+              ],
+              "answer": "B",
+              "analysis": "孩子听得懂却用普通话回答，因此每顿饭都要「翻译一下」，a small act of translation 指这一小小的翻译动作。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "answer in the standard language"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accidents"
+                },
+                {
+                  "key": "B",
+                  "text": "act"
+                },
+                {
+                  "key": "C",
+                  "text": "advantages"
+                },
+                {
+                  "key": "D",
+                  "text": "answer"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "avoided"
+                },
+                {
+                  "key": "G",
+                  "text": "cause"
+                },
+                {
+                  "key": "H",
+                  "text": "decisions"
+                },
+                {
+                  "key": "I",
+                  "text": "disappearing"
+                },
+                {
+                  "key": "J",
+                  "text": "loss"
+                },
+                {
+                  "key": "K",
+                  "text": "made"
+                },
+                {
+                  "key": "L",
+                  "text": "revive"
+                },
+                {
+                  "key": "M",
+                  "text": "shame"
+                },
+                {
+                  "key": "N",
+                  "text": "stored"
+                },
+                {
+                  "key": "O",
+                  "text": "turn"
+                }
+              ],
+              "answer": "C",
+              "analysis": "家长认为通用语言在求学和工作上带来「好处」，与 reasonably（有道理地）一致。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "parents believe, reasonably"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accidents"
+                },
+                {
+                  "key": "B",
+                  "text": "act"
+                },
+                {
+                  "key": "C",
+                  "text": "advantages"
+                },
+                {
+                  "key": "D",
+                  "text": "answer"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "avoided"
+                },
+                {
+                  "key": "G",
+                  "text": "cause"
+                },
+                {
+                  "key": "H",
+                  "text": "decisions"
+                },
+                {
+                  "key": "I",
+                  "text": "disappearing"
+                },
+                {
+                  "key": "J",
+                  "text": "loss"
+                },
+                {
+                  "key": "K",
+                  "text": "made"
+                },
+                {
+                  "key": "L",
+                  "text": "revive"
+                },
+                {
+                  "key": "M",
+                  "text": "shame"
+                },
+                {
+                  "key": "N",
+                  "text": "stored"
+                },
+                {
+                  "key": "O",
+                  "text": "turn"
+                }
+              ],
+              "answer": "H",
+              "analysis": "前句说「没有人强迫家庭放弃方言」，改变来自无数个细小的「决定」（如在家说什么话），而不是错误或意外。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "Nobody forces a family to stop speaking its own dialect"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accidents"
+                },
+                {
+                  "key": "B",
+                  "text": "act"
+                },
+                {
+                  "key": "C",
+                  "text": "advantages"
+                },
+                {
+                  "key": "D",
+                  "text": "answer"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "avoided"
+                },
+                {
+                  "key": "G",
+                  "text": "cause"
+                },
+                {
+                  "key": "H",
+                  "text": "decisions"
+                },
+                {
+                  "key": "I",
+                  "text": "disappearing"
+                },
+                {
+                  "key": "J",
+                  "text": "loss"
+                },
+                {
+                  "key": "K",
+                  "text": "made"
+                },
+                {
+                  "key": "L",
+                  "text": "revive"
+                },
+                {
+                  "key": "M",
+                  "text": "shame"
+                },
+                {
+                  "key": "N",
+                  "text": "stored"
+                },
+                {
+                  "key": "O",
+                  "text": "turn"
+                }
+              ],
+              "answer": "J",
+              "analysis": "前句 When it disappears 已点明是「消失」；失去的不只是一批词，还有看世界的方式，loss 承接 disappear。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "When it disappears"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accidents"
+                },
+                {
+                  "key": "B",
+                  "text": "act"
+                },
+                {
+                  "key": "C",
+                  "text": "advantages"
+                },
+                {
+                  "key": "D",
+                  "text": "answer"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "avoided"
+                },
+                {
+                  "key": "G",
+                  "text": "cause"
+                },
+                {
+                  "key": "H",
+                  "text": "decisions"
+                },
+                {
+                  "key": "I",
+                  "text": "disappearing"
+                },
+                {
+                  "key": "J",
+                  "text": "loss"
+                },
+                {
+                  "key": "K",
+                  "text": "made"
+                },
+                {
+                  "key": "L",
+                  "text": "revive"
+                },
+                {
+                  "key": "M",
+                  "text": "shame"
+                },
+                {
+                  "key": "N",
+                  "text": "stored"
+                },
+                {
+                  "key": "O",
+                  "text": "turn"
+                }
+              ],
+              "answer": "L",
+              "analysis": "后文列举学校故事课、录音存档、方言课程，都是在「重新唤起」人们对母语方言的兴趣，revive interest。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "one afternoon a week is set aside"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accidents"
+                },
+                {
+                  "key": "B",
+                  "text": "act"
+                },
+                {
+                  "key": "C",
+                  "text": "advantages"
+                },
+                {
+                  "key": "D",
+                  "text": "answer"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "avoided"
+                },
+                {
+                  "key": "G",
+                  "text": "cause"
+                },
+                {
+                  "key": "H",
+                  "text": "decisions"
+                },
+                {
+                  "key": "I",
+                  "text": "disappearing"
+                },
+                {
+                  "key": "J",
+                  "text": "loss"
+                },
+                {
+                  "key": "K",
+                  "text": "made"
+                },
+                {
+                  "key": "L",
+                  "text": "revive"
+                },
+                {
+                  "key": "M",
+                  "text": "shame"
+                },
+                {
+                  "key": "N",
+                  "text": "stored"
+                },
+                {
+                  "key": "O",
+                  "text": "turn"
+                }
+              ],
+              "answer": "N",
+              "analysis": "录音存进公共档案库，供任何人收听；archive 与 stored 搭配，且与 where anyone may listen 呼应（不是 hidden）。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "where anyone may listen"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accidents"
+                },
+                {
+                  "key": "B",
+                  "text": "act"
+                },
+                {
+                  "key": "C",
+                  "text": "advantages"
+                },
+                {
+                  "key": "D",
+                  "text": "answer"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "avoided"
+                },
+                {
+                  "key": "G",
+                  "text": "cause"
+                },
+                {
+                  "key": "H",
+                  "text": "decisions"
+                },
+                {
+                  "key": "I",
+                  "text": "disappearing"
+                },
+                {
+                  "key": "J",
+                  "text": "loss"
+                },
+                {
+                  "key": "K",
+                  "text": "made"
+                },
+                {
+                  "key": "L",
+                  "text": "revive"
+                },
+                {
+                  "key": "M",
+                  "text": "shame"
+                },
+                {
+                  "key": "N",
+                  "text": "stored"
+                },
+                {
+                  "key": "O",
+                  "text": "turn"
+                }
+              ],
+              "answer": "O",
+              "analysis": "turn the tide 是固定搭配，意为扭转局面；下一句说方言能否存续取决于家长在家使用，故这些努力「单独无法扭转大势」。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "A dialect survives when parents use it at home"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accidents"
+                },
+                {
+                  "key": "B",
+                  "text": "act"
+                },
+                {
+                  "key": "C",
+                  "text": "advantages"
+                },
+                {
+                  "key": "D",
+                  "text": "answer"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "avoided"
+                },
+                {
+                  "key": "G",
+                  "text": "cause"
+                },
+                {
+                  "key": "H",
+                  "text": "decisions"
+                },
+                {
+                  "key": "I",
+                  "text": "disappearing"
+                },
+                {
+                  "key": "J",
+                  "text": "loss"
+                },
+                {
+                  "key": "K",
+                  "text": "made"
+                },
+                {
+                  "key": "L",
+                  "text": "revive"
+                },
+                {
+                  "key": "M",
+                  "text": "shame"
+                },
+                {
+                  "key": "N",
+                  "text": "stored"
+                },
+                {
+                  "key": "O",
+                  "text": "turn"
+                }
+              ],
+              "answer": "K",
+              "analysis": "能否在家说方言是家庭的「决定」，政策无法替家庭作这个决定，make a decision 为固定搭配。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "that decision"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accidents"
+                },
+                {
+                  "key": "B",
+                  "text": "act"
+                },
+                {
+                  "key": "C",
+                  "text": "advantages"
+                },
+                {
+                  "key": "D",
+                  "text": "answer"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "avoided"
+                },
+                {
+                  "key": "G",
+                  "text": "cause"
+                },
+                {
+                  "key": "H",
+                  "text": "decisions"
+                },
+                {
+                  "key": "I",
+                  "text": "disappearing"
+                },
+                {
+                  "key": "J",
+                  "text": "loss"
+                },
+                {
+                  "key": "K",
+                  "text": "made"
+                },
+                {
+                  "key": "L",
+                  "text": "revive"
+                },
+                {
+                  "key": "M",
+                  "text": "shame"
+                },
+                {
+                  "key": "N",
+                  "text": "stored"
+                },
+                {
+                  "key": "O",
+                  "text": "turn"
+                }
+              ],
+              "answer": "M",
+              "analysis": "冒号后说「会说两种语言的孩子应被视为幸运，而不是被纠正」，说明要消除的是「羞耻感」；孩子因被纠正而不敢说方言。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "should be treated as fortunate, not corrected"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "At four in the morning the wholesale market is at its busiest and darkest. Lorries reverse into bays under floodlights, crates of tomatoes and cabbage are weighed, and prices are argued over in the cold. By seven the work is almost finished and the place looks abandoned. This is the part that outsiders misunderstand: the market's product is not vegetables but a price. Bargaining between a few hundred buyers and a few hundred sellers establishes, before most residents have woken up, what a kilo of cucumbers will cost in every shop and restaurant in the city that day."
+            },
+            {
+              "label": "B",
+              "text": "The hour is not a tradition; it is a response to traffic rules. Most cities ban heavy lorries from the centre during the working day, so refrigerated vehicles have to arrive at night and be gone before the ban begins. That constraint shapes everything else: trading starts early because the lorries must leave, and the people who work there keep hours that few others would choose. Where a city has allowed quiet electric vans to deliver in the evening, the timetable has stretched a little, but the cold chain still prefers the cool hours before dawn, when a failing refrigeration unit does less damage."
+            },
+            {
+              "label": "C",
+              "text": "Prices travel outward unevenly. A ten per cent rise at wholesale rarely becomes a ten per cent rise in the shop, because rent, wages and wastage take a larger share of the retail price than the food itself does, and a restaurant's margin absorbs the rest. This is why a poor harvest can lead the news for a week while the price of a tomato moves by a few coins. The market also works in the other direction: when wholesale prices collapse, retailers are slow to pass the fall on, and the gap is where a good deal of the profit in food retailing is made."
+            },
+            {
+              "label": "D",
+              "text": "Land is the force that moves markets. A site of several hectares near a city centre is worth more covered with offices and flats than used as a place where lorries idle at night, and sooner or later the market is sold and rebuilt thirty kilometres out. The new building is cleaner, colder and easier to inspect. It is also further from the small restaurants and independent shops that used to walk there, and those buyers must either pay for transport or drift towards a supermarket. Traders complain that the move costs them their oldest customers, and the evidence usually supports them."
+            },
+            {
+              "label": "E",
+              "text": "Restaurants have not abandoned the market, but they use it differently. A chef still comes at five to look at fish, to smell it and to choose a particular crate rather than accept a standard box; nothing in a catalogue can do that. What has changed is the volume. Routine items such as oil, rice, frozen chips and bottled drinks now arrive by van from a distributor, and the market keeps the part of the trade where judgement matters. For a small kitchen it is less a shop than a place to find out what is good this week."
+            },
+            {
+              "label": "F",
+              "text": "The future is likely to mean fewer and larger markets, with screens instead of shouted prices and orders placed on a phone before the lorry arrives. Some of that is already happening. What is unlikely to change is the hour, because freshness is a physical fact rather than a piece of information: a fish caught at midnight is not the same fish at noon. As long as cities eat fresh food, someone will be awake at four to put a price on it."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "type": "推断题",
+              "stem": "The market's real output is a figure that other businesses then build their own prices on.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：市场真正的产出不是蔬菜而是价格——几百名买家与卖家讨价还价，在多数居民醒来之前就定下当天全城商店与餐馆的黄瓜价格。",
+              "evidencePara": "A",
+              "evidenceText": "the market's product is not vegetables but a price"
+            },
+            {
+              "number": 37,
+              "type": "细节题",
+              "stem": "The timing of the trade is decided by when heavy vehicles are allowed into the city.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：这个钟点不是传统，而是对交通规则的反应——多数城市白天禁止重型货车进城，冷藏车只能夜里到达、禁令生效前离开，交易因此提前开始。",
+              "evidencePara": "B",
+              "evidenceText": "Most cities ban heavy lorries from the centre during the working day"
+            },
+            {
+              "number": 38,
+              "type": "细节题",
+              "stem": "Shop prices respond less strongly than wholesale prices do.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：批发价涨一成，零售价很少也涨一成，因为房租、工资与损耗在零售价中占比更大；所以歉收能上一周新闻，番茄却只贵几毛钱。",
+              "evidencePara": "C",
+              "evidenceText": "A ten per cent rise at wholesale rarely becomes a ten per cent rise in the shop"
+            },
+            {
+              "number": 39,
+              "type": "细节题",
+              "stem": "Rising land values push markets away from the centre of the city.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：市中心几公顷的地，盖写字楼和公寓比让货车夜里停着更值钱，市场最终被卖掉并在三十公里外重建。",
+              "evidencePara": "D",
+              "evidenceText": "worth more covered with offices and flats"
+            },
+            {
+              "number": 40,
+              "type": "细节题",
+              "stem": "Restaurants still come in person when the quality of a product has to be judged.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：厨师仍会在五点来看鱼、闻鱼、挑某一箱而不是接受标准装箱，这是目录做不到的；只有油、米、冻薯条这类常规品改由配送商送。",
+              "evidencePara": "E",
+              "evidenceText": "nothing in a catalogue can do that"
+            },
+            {
+              "number": 41,
+              "type": "细节题",
+              "stem": "Most of the work has finished before the city begins its day.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段第二句：到七点活儿差不多干完，这地方看上去像被废弃了——说明交易在城市开始运转之前就已结束。",
+              "evidencePara": "A",
+              "evidenceText": "By seven the work is almost finished"
+            },
+            {
+              "number": 42,
+              "type": "推断题",
+              "stem": "Cooling needs, as much as regulation, keep the trade in the hours before dawn.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：即使放宽晚间配送，冷链仍偏好黎明前的凉时段，因为制冷机一旦故障，低温天气造成的损失更小——这是保鲜要求而非规定。",
+              "evidencePara": "B",
+              "evidenceText": "the cold chain still prefers the cool hours before dawn"
+            },
+            {
+              "number": 43,
+              "type": "推断题",
+              "stem": "When wholesale prices fall, shops do not always reduce what they charge.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：批发价暴跌时，零售商降价很慢，这段差价正是食品零售利润的重要来源。",
+              "evidencePara": "C",
+              "evidenceText": "retailers are slow to pass the fall on"
+            },
+            {
+              "number": 44,
+              "type": "细节题",
+              "stem": "Relocation makes life harder for small buyers who used to come on foot.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：新址离过去步行可达的小餐馆和独立小店更远，这些买家要么付运费要么转向超市；商户抱怨搬迁让他们失去最老的客户。",
+              "evidencePara": "D",
+              "evidenceText": "the move costs them their oldest customers"
+            },
+            {
+              "number": 45,
+              "type": "主旨题",
+              "stem": "The early hour will survive because freshness cannot be sent electronically.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：市场会变少变大、用屏幕和手机下单，但钟点难改——新鲜是物理事实而非信息，午夜捕的鱼不是中午那条鱼。",
+              "evidencePara": "F",
+              "evidenceText": "freshness is a physical fact rather than a piece of information"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Few classroom debates survive as long as the one about handwriting. It usually starts with a much-quoted study in which students watched lectures and took notes either by hand or on a laptop. The typists wrote more words, almost word for word, and remembered less. The explanation offered was that the hand is too slow to copy speech, so the writer must decide what matters, and that decision is what makes the notes useful."
+            },
+            {
+              "label": "B",
+              "text": "The study has been repeated many times since, with smaller results. A review of more than fifty experiments concluded that handwriting gives a small advantage, mainly on questions that ask students to explain ideas rather than to recall dates. On simple factual questions the difference often disappears. The authors describe the effect as real but easily outweighed by other factors."
+            },
+            {
+              "label": "C",
+              "text": "One of those factors is distraction. When the same students take notes on a laptop, the machine also offers messages, shopping and videos. Experiments that blocked other sites found the gap between the two groups narrowed, which suggests that part of the laptop penalty comes not from the keyboard but from everything else on the screen."
+            },
+            {
+              "label": "D",
+              "text": "A more useful way to look at the question is to ask what the note-taker is doing. Notes that reorganise an idea in the writer's own words help memory; notes that copy a slide help very little, however neat they look. Handwriting slows the writer down, and that slowness forces exactly the reorganising that matters. A typist who pauses to summarise does just as well, but few do, because the keyboard rewards speed."
+            },
+            {
+              "label": "E",
+              "text": "None of this supports banning laptops. Students with handwriting difficulties, or those who need to look up a term during a lecture, gain from a keyboard. What the research does support is teaching students how to take notes, and telling them plainly that a complete record of a lecture is not the same thing as a set of notes. The tool matters less than the habit of choosing."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What did the much-quoted study find about students who typed?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They recorded more words but remembered less."
+                },
+                {
+                  "key": "B",
+                  "text": "They made fewer spelling mistakes."
+                },
+                {
+                  "key": "C",
+                  "text": "They took fewer notes but understood more."
+                },
+                {
+                  "key": "D",
+                  "text": "They preferred lectures to discussions."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：打字的学生记下的词更多、几乎是逐字记录，但记住的内容更少。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "wrote more words, almost word for word, and remembered less"
+            },
+            {
+              "number": 47,
+              "stem": "What did the review of fifty experiments conclude?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Handwriting is clearly better for remembering dates."
+                },
+                {
+                  "key": "B",
+                  "text": "Typing is better in every kind of test."
+                },
+                {
+                  "key": "C",
+                  "text": "Handwriting helps a little, mostly with explaining ideas."
+                },
+                {
+                  "key": "D",
+                  "text": "The earlier study could not be repeated at all."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：综述认为手写只有「很小的优势」，且主要体现在要求解释观点的题目上，纯事实题差异常常消失。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "mainly on questions that ask students to explain ideas"
+            },
+            {
+              "number": 48,
+              "stem": "What happened when other websites were blocked during laptop note-taking?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Handwriting became slower."
+                },
+                {
+                  "key": "B",
+                  "text": "Both groups stopped taking notes."
+                },
+                {
+                  "key": "C",
+                  "text": "The laptop group did better than before."
+                },
+                {
+                  "key": "D",
+                  "text": "The difference between the groups became smaller."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段：屏蔽其他网站后，两组差距「缩小」，说明笔记本电脑的劣势有一部分来自屏幕上的其他东西，而非键盘本身。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the gap between the two groups narrowed"
+            },
+            {
+              "number": 49,
+              "stem": "According to the author, what makes notes useful?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Putting ideas into the writer's own words."
+                },
+                {
+                  "key": "B",
+                  "text": "Writing down as much of the lecture as possible."
+                },
+                {
+                  "key": "C",
+                  "text": "Using a keyboard rather than a pen."
+                },
+                {
+                  "key": "D",
+                  "text": "Copying slides neatly and completely."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：用自己的话重新组织信息的笔记有助于记忆；照抄幻灯片「再整齐也帮助很小」。",
+              "type": "主旨题",
+              "evidencePara": "D",
+              "evidenceText": "reorganise an idea in the writer's own words"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's position in the last paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Laptops should be banned in lectures."
+                },
+                {
+                  "key": "B",
+                  "text": "Handwriting should be tested in examinations."
+                },
+                {
+                  "key": "C",
+                  "text": "Students should be taught how to take notes."
+                },
+                {
+                  "key": "D",
+                  "text": "The debate has no practical value."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：作者明确不支持禁用笔记本，主张教学生「怎么做笔记」，并说明完整记录不等于笔记。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "teaching students how to take notes"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When the pandemic emptied city streets, several governments laid down temporary cycle lanes in a matter of weeks, using paint, posts and planters. The lanes were meant to last a few months. Five years later many are permanent, because the counts that were supposed to justify removing them showed the opposite: on some corridors bicycle traffic tripled and has stayed high since offices reopened."
+            },
+            {
+              "label": "B",
+              "text": "Safety, not weather, is the reason most people give for not cycling. Surveys in cities with heavy traffic find that a majority would ride if they had a route separated from cars, and very few name rain as the obstacle. The evidence supports them: streets with physical separation see far fewer injuries per kilometre than streets with painted lines, and most serious crashes happen at junctions, where a line on the road offers no protection at all."
+            },
+            {
+              "label": "C",
+              "text": "Shopkeepers are often the loudest opponents, because they expect to lose customers who arrive by car. Studies of street spending have repeatedly found otherwise: on some shopping streets, people on foot or on bicycles spend more in total than drivers, who take up more space per customer. Deliveries are a genuine problem, however, and a lane that leaves no room for a van at seven in the morning will not survive a council meeting."
+            },
+            {
+              "label": "D",
+              "text": "The bicycle itself has changed. Electric assistance has extended the distance people are willing to ride and made hills unimportant, which brings in older riders and parents carrying children. Cargo bikes now move a surprising share of small deliveries in some European cities, replacing vans on short trips. As a result, cycling is no longer an option only for the young and the fit."
+            },
+            {
+              "label": "E",
+              "text": "None of this means a city can be rebuilt around the bicycle alone. Distances are too long in low-density suburbs, winters are too cold in some places, and a bicycle cannot carry a hospital patient. The lesson from the cities that succeeded is that a network matters more than a showpiece: a lane that ends after four hundred metres helps nobody, while an ordinary grid of connected routes changes how a whole district moves."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why did many temporary cycle lanes become permanent?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Traffic counts showed high and lasting use."
+                },
+                {
+                  "key": "B",
+                  "text": "Drivers asked for them to stay."
+                },
+                {
+                  "key": "C",
+                  "text": "The paint and posts could not be removed."
+                },
+                {
+                  "key": "D",
+                  "text": "They cost less than expected to build."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：本应用来证明可以拆除的车流统计结果相反——部分路段自行车流量增至三倍，办公恢复后仍很高，于是改为永久。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "bicycle traffic tripled and has stayed high"
+            },
+            {
+              "number": 52,
+              "stem": "What is the main reason people give for not cycling?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Fear of riding among cars."
+                },
+                {
+                  "key": "B",
+                  "text": "The distance to work."
+                },
+                {
+                  "key": "C",
+                  "text": "The price of bicycles."
+                },
+                {
+                  "key": "D",
+                  "text": "Bad weather."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段首句：不骑车的首要原因是安全而非天气；多数人表示若有与汽车隔离的路线就愿意骑，很少有人把下雨当障碍。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "Safety, not weather, is the reason"
+            },
+            {
+              "number": 53,
+              "stem": "What have studies of street spending found?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Shops lose money when lanes are added."
+                },
+                {
+                  "key": "B",
+                  "text": "People walking and cycling spend more in total."
+                },
+                {
+                  "key": "C",
+                  "text": "Spending cannot be measured reliably."
+                },
+                {
+                  "key": "D",
+                  "text": "Drivers spend the most per customer."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：多项研究发现，步行与骑车的人「总花费」高于开车者，而开车者人均占用空间更大。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "spend more in total than drivers"
+            },
+            {
+              "number": 54,
+              "stem": "What has electric assistance done for cycling?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has replaced public transport in suburbs."
+                },
+                {
+                  "key": "B",
+                  "text": "It has brought in older riders and parents."
+                },
+                {
+                  "key": "C",
+                  "text": "It has made cycle lanes unnecessary."
+                },
+                {
+                  "key": "D",
+                  "text": "It has made bicycles cheaper to buy."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：电助力延长了可接受的距离、让坡道不再重要，于是把年长骑手和带孩子出行的父母带了进来。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "brings in older riders and parents carrying children"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author consider the lesson of successful cities?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Weather decides whether cycling can succeed."
+                },
+                {
+                  "key": "B",
+                  "text": "A connected network matters more than a single impressive lane."
+                },
+                {
+                  "key": "C",
+                  "text": "A city should be rebuilt around bicycles only."
+                },
+                {
+                  "key": "D",
+                  "text": "Cycle lanes work best in low-density suburbs."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：作者先否认「只靠自行车重建城市」，再给出结论：成功的城市证明「路网比样板工程更重要」，四百米就断的路帮不了人。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "a network matters more than a showpiece"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n二十四节气是中国古人根据太阳位置和气候变化总结出的时间体系，用来指导农业生产。一年有二十四个节气，每个约十五天。人们按节气安排播种、收获和日常生活，也把它写进饮食与节日习俗。2016年，二十四节气被列入联合国教科文组织人类非物质文化遗产名录。今天，它仍提醒人们顺应季节、尊重自然。",
+              "analysis": "【参考译文】\nThe twenty-four solar terms are a system of time developed by the ancient Chinese on the basis of the sun's position and changes in climate, and they were used to guide farming. A year is divided into twenty-four terms, each lasting about fifteen days. People arrange sowing, harvesting and daily life according to the terms, and they have also written them into their food and festival customs. In 2016 the twenty-four solar terms were added to UNESCO's list of intangible cultural heritage of humanity. Today they still remind people to follow the seasons and respect nature.\n\n【要点】①「总结出来的一套时间体系」用 a system of time developed by...，后用定语从句或分词；②「被列入……名录」用被动语态 were added to / were inscribed on the list；③「联合国教科文组织人类非物质文化遗产名录」为固定译名 UNESCO's list of intangible cultural heritage of humanity；④「顺应季节、尊重自然」用 follow the seasons and respect nature，保持并列。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

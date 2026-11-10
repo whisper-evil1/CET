@@ -1,0 +1,1097 @@
+{
+  "id": "cet4-2024-12-s3",
+  "level": "CET4",
+  "year": 2024,
+  "month": 12,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on the benefits of joining a student club or society at university. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nWhy Joining a Club Is Worth an Evening a Week\n\nA student club looks like a hobby with paperwork. In practice it is the cheapest training in organisation that a university offers, and it happens outside the classroom, where nobody is marking you.\n\nConsider what running a small society requires. Someone must book a room, write a budget, persuade a speaker to come, advertise the event, and discover on the night that half the people who promised to attend have not. That sequence teaches planning, persuasion and recovery from failure in a way that a lecture cannot.\n\nClubs also produce the friendships that survive graduation. A seminar gives you classmates; a club gives you people you have stayed up until two in the morning with, folding chairs.\n\nOne warning: a student who joins six societies and leads none learns only how to attend meetings. Choose one, do something concrete, and let it take an evening a week.\n\n（约 165 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2010 just over a tenth of Germans aged 60 to 64 were still in work. By 2022 the figure had reached nearly half. The change was not a sudden enthusiasm for office life: the retirement age was raised in steps towards 67, and the rules were altered so that leaving early costs more. Germany is not alone. Japan counts more than nine million workers over 65, about a quarter of that age group, and Britain's state pension age is rising to 67 by 2028."
+            },
+            {
+              "label": "B",
+              "text": "Economics explains most of it. People live longer and need more years of income, and employers in skilled trades and health care face shortages that a shrinking pool of young applicants cannot fill. A 26______ worker who knows a factory's machines or a hospital's routines is 27______ to replace than to keep, which is why some firms now 28______ to retain staff past retirement age with part-time contracts and 29______ hours."
+            },
+            {
+              "label": "C",
+              "text": "The obstacles are less about willingness than about 30______. Many jobs were designed for a younger body: shifts that run until midnight, ladders, heavy loads. Age 31______ in hiring is illegal in most European countries but hard to prove, and older applicants report 32______ answers to their applications. Training is another gap: companies 33______ to fund courses for someone who may leave in five years, so the worker who most needs new skills is the one least likely to be offered them. Policy has begun to 34______. Germany part-funds shorter hours for employees approaching retirement, and several countries now allow a pension to be drawn while wages continue. Whether such schemes 35______ the problem or merely postpone it is still being argued."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "type": "词义题",
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "temporary"
+                },
+                {
+                  "key": "B",
+                  "text": "skilled"
+                },
+                {
+                  "key": "C",
+                  "text": "younger"
+                },
+                {
+                  "key": "D",
+                  "text": "foreign"
+                }
+              ],
+              "answer": "B",
+              "analysis": "whose 从句说这个人熟悉工厂机器或医院流程，正是「熟练工人」，也与上文 skilled trades 呼应。younger 与整段「老年劳动人口」主题相反，temporary 与「干了很多年」矛盾，foreign 无据。",
+              "evidencePara": "B",
+              "evidenceText": "knows a factory's machines or a hospital's routines"
+            },
+            {
+              "number": 27,
+              "type": "词义题",
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "easier"
+                },
+                {
+                  "key": "B",
+                  "text": "cheaper"
+                },
+                {
+                  "key": "C",
+                  "text": "harder"
+                },
+                {
+                  "key": "D",
+                  "text": "safer"
+                }
+              ],
+              "answer": "C",
+              "analysis": "后半句 which is why some firms now try to retain staff 给出结果：因为「重新招一个更难」，企业才宁愿留人。easier、cheaper 都会推出「不必留人」的反向结论，safer 与人力替代无关。",
+              "evidencePara": "B",
+              "evidenceText": "which is why some firms now"
+            },
+            {
+              "number": 28,
+              "type": "词义题",
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "refuse"
+                },
+                {
+                  "key": "B",
+                  "text": "forget"
+                },
+                {
+                  "key": "C",
+                  "text": "try"
+                },
+                {
+                  "key": "D",
+                  "text": "fail"
+                }
+              ],
+              "answer": "C",
+              "analysis": "企业用兼职合同、弹性工时去留住超过退休年龄的员工，是主动努力，用 try to retain。refuse、forget、fail 都否定了这一行为，与「提供兼职合同」的具体做法矛盾。",
+              "evidencePara": "B",
+              "evidenceText": "with part-time contracts"
+            },
+            {
+              "number": 29,
+              "type": "词义题",
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "flexible"
+                },
+                {
+                  "key": "B",
+                  "text": "fixed"
+                },
+                {
+                  "key": "C",
+                  "text": "longer"
+                },
+                {
+                  "key": "D",
+                  "text": "extra"
+                }
+              ],
+              "answer": "A",
+              "analysis": "与 part-time contracts 并列，指向可协商的工时，这正是吸引年长员工的条件，也与下文「边领养老金边拿工资」呼应。fixed 与兼职的灵活性相反，longer、extra 对想逐步退休的人没有吸引力。",
+              "evidencePara": "B",
+              "evidenceText": "part-time contracts"
+            },
+            {
+              "number": 30,
+              "type": "词义题",
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "health"
+                },
+                {
+                  "key": "B",
+                  "text": "design"
+                },
+                {
+                  "key": "C",
+                  "text": "language"
+                },
+                {
+                  "key": "D",
+                  "text": "law"
+                }
+              ],
+              "answer": "B",
+              "analysis": "下一句说明难处在于岗位本身「是按年轻身体设计的」——夜班、梯子、重物，所以问题在岗位设计（job design）而非意愿。law 与「年龄歧视已经违法」相反，health、language 概括不了后文列举的工作条件。",
+              "evidencePara": "C",
+              "evidenceText": "Many jobs were designed for a younger body"
+            },
+            {
+              "number": 31,
+              "type": "词义题",
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "limit"
+                },
+                {
+                  "key": "B",
+                  "text": "record"
+                },
+                {
+                  "key": "C",
+                  "text": "discrimination"
+                },
+                {
+                  "key": "D",
+                  "text": "range"
+                }
+              ],
+              "answer": "C",
+              "analysis": "「招聘中的年龄___在多数欧洲国家违法，却很难举证」——违法的是歧视行为，age discrimination 是固定说法，也与后文「申请只得到含糊答复」构成举证难。age limit 恰恰是歧视的表现形式，说它「违法却难举证」逻辑不顺。",
+              "evidencePara": "C",
+              "evidenceText": "illegal in most European countries but hard to prove"
+            },
+            {
+              "number": 32,
+              "type": "词义题",
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "polite"
+                },
+                {
+                  "key": "B",
+                  "text": "written"
+                },
+                {
+                  "key": "C",
+                  "text": "vague"
+                },
+                {
+                  "key": "D",
+                  "text": "shorter"
+                }
+              ],
+              "answer": "C",
+              "analysis": "与上句「歧视难以举证」呼应：年长申请者收到的是「含糊的」回复，不说明拒绝理由，这正是难以举证的原因。polite、written 解释不了举证困难，shorter 只描述长度。",
+              "evidencePara": "C",
+              "evidenceText": "hard to prove"
+            },
+            {
+              "number": 33,
+              "type": "词义题",
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "promise"
+                },
+                {
+                  "key": "B",
+                  "text": "hesitate"
+                },
+                {
+                  "key": "C",
+                  "text": "agree"
+                },
+                {
+                  "key": "D",
+                  "text": "manage"
+                }
+              ],
+              "answer": "B",
+              "analysis": "后半句 so the worker who most needs new skills is least likely to be offered them 说明企业「犹豫」是否为五年后可能离职的人出钱培训。promise、agree 与这一结果相反，manage 不表示顾虑。",
+              "evidencePara": "C",
+              "evidenceText": "for someone who may leave in five years"
+            },
+            {
+              "number": 34,
+              "type": "词义题",
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "respond"
+                },
+                {
+                  "key": "B",
+                  "text": "disappear"
+                },
+                {
+                  "key": "C",
+                  "text": "cost"
+                },
+                {
+                  "key": "D",
+                  "text": "fail"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后是德国「补贴缩短工时」、多国允许「边领养老金边拿工资」等政策动作，说明政策已开始「回应」。disappear、cost、fail 与随后列举的具体措施相反。",
+              "evidencePara": "C",
+              "evidenceText": "Germany part-funds shorter hours"
+            },
+            {
+              "number": 35,
+              "type": "词义题",
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "create"
+                },
+                {
+                  "key": "B",
+                  "text": "solve"
+                },
+                {
+                  "key": "C",
+                  "text": "repeat"
+                },
+                {
+                  "key": "D",
+                  "text": "avoid"
+                }
+              ],
+              "answer": "B",
+              "analysis": "or merely postpone it 提供对立面：这些方案究竟是「解决问题」还是只把问题推后。solve ... or postpone 是常见对照，create、repeat、avoid 都无法与 postpone 构成「彻底解决 vs 拖延」的选择。",
+              "evidencePara": "C",
+              "evidenceText": "or merely postpone it"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A city is usually warmer than the fields around it, and the difference is largest at night. Asphalt and concrete absorb heat during the day and release it slowly; trees that would have provided shade have been removed; and air conditioners pump waste heat into streets that are already hot. In a large city the gap can reach five degrees, which is the difference between a difficult night and a dangerous one for an elderly person."
+            },
+            {
+              "label": "B",
+              "text": "Ahmedabad in western India provided the first serious test of what to do about it. After a heatwave in 2010 killed more than 1,300 people, the city launched a heat action plan in 2013, the first in South Asia. It combined forecasts and public warnings with cooling centres, changes to working hours for outdoor labour, and white paint on the roofs of low-income housing."
+            },
+            {
+              "label": "C",
+              "text": "The programme was evaluated afterwards, and the estimate was that it had prevented around 1,100 deaths a year. That figure is uncertain, but the method behind it was simple enough to copy: paint reflects sunlight, a painted roof can be several degrees cooler than a bare one, and the cost per household is small. Cities in Gujarat and Maharashtra have since adopted versions of the plan."
+            },
+            {
+              "label": "D",
+              "text": "Los Angeles approached the same problem from the street. Since 2017 the city has applied a reflective grey coating to asphalt in selected neighbourhoods, measuring surface temperatures before and after. Coated streets have been recorded several degrees cooler in the afternoon. The city also planted trees in the same areas, on the argument that shade and reflection solve different parts of the problem."
+            },
+            {
+              "label": "E",
+              "text": "In Europe the vocabulary has changed. Athens appointed a chief heat officer in 2021, the first city in Europe to create such a post, with a mandate to coordinate the response across departments. Seville began naming heatwaves in 2022, in the way storms are named, so that a period of extreme heat would appear in the news as an event with a beginning and an end rather than as ordinary summer weather."
+            },
+            {
+              "label": "F",
+              "text": "None of these measures is a complete answer. White roofs reduce daytime heating but do not create shade; trees provide shade and release water vapour but need years and irrigation before they work. Reflective surfaces can also increase glare, and some studies suggest they slightly reduce the benefit of night-time cooling. The most effective programmes combine several measures and maintain them, which is less exciting than a single dramatic fix."
+            },
+            {
+              "label": "G",
+              "text": "There is also a question of who gets the protection. Within the same city, districts with less tree cover and more asphalt are consistently poorer, and their residents are more likely to work outdoors. Yet the people who decide whether a roof is painted are often landlords who do not pay the electricity bill, and the tenants who suffer the heat have no say in the decision."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The gap between city and countryside temperatures is widest after dark.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段第二句：城市与周边田野的温差在夜间最大，因为柏油和混凝土白天吸热、夜里缓慢释放。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the difference is largest at night"
+            },
+            {
+              "number": 37,
+              "stem": "A deadly heatwave led a city to create the region's first heat action plan.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：2010 年热浪致 1300 多人死亡后，艾哈迈达巴德 2013 年推出行动计划，是南亚第一个。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "the first in South Asia"
+            },
+            {
+              "number": 38,
+              "stem": "A cheap measure was estimated to have saved about a thousand lives a year.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：评估认为该计划每年避免约 1100 人死亡，而白漆屋顶每户成本很低，方法简单到可以被复制。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "prevented around 1,100 deaths a year"
+            },
+            {
+              "number": 39,
+              "stem": "One city tested a coating on roads and measured temperatures before and after.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：洛杉矶自 2017 年起在部分街区给沥青刷反光涂层，并在施工前后测量地表温度。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "measuring surface temperatures before and after"
+            },
+            {
+              "number": 40,
+              "stem": "Heatwaves may in future be given names like storms.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：塞维利亚 2022 年开始像给风暴命名那样给热浪命名，让极端高温成为有始有终的新闻事件。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "began naming heatwaves in 2022"
+            },
+            {
+              "number": 41,
+              "stem": "Individual measures have drawbacks, so the best plans combine several of them.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：白屋顶不造荫、树要多年浇水、反光面可能增加眩光，所以最有效的方案是多项措施并用并持续维护。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "combine several measures and maintain them"
+            },
+            {
+              "number": 42,
+              "stem": "Those who decide on roof colour may not be the ones who pay the electricity bill.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：决定屋顶是否刷白的是房东，而房东不付电费；承受高温的租户在决定中没有发言权——典型的主体错位。",
+              "type": "推断题",
+              "evidencePara": "G",
+              "evidenceText": "landlords who do not pay the electricity bill"
+            },
+            {
+              "number": 43,
+              "stem": "Poorer districts tend to have less shade and more paved surface.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段第二句：同一城市里树荫更少、沥青更多的地方总是更穷，居民也更可能从事户外工作。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "less tree cover and more asphalt are consistently poorer"
+            },
+            {
+              "number": 44,
+              "stem": "Air conditioners make the outdoor air hotter.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：空调把废热排进本已炎热的街道（pump waste heat into streets），是城市更热的原因之一。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "pump waste heat into streets"
+            },
+            {
+              "number": 45,
+              "stem": "A city created a post to coordinate heat policy across departments.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：雅典 2021 年设立欧洲首位「首席高温官」，职责是跨部门协调应对措施。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "appointed a chief heat officer in 2021"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The self-checkout till was supposed to solve a problem every supermarket has: queues. The first systems appeared in the 1980s, and by the 2010s large chains had installed them by the thousand, promising shorter waits and lower labour costs. Then something unusual happened. In 2023 several chains began taking them out again: Booths, a British grocer, removed most of its self-service tills, and parts of Walmart and Costco followed."
+            },
+            {
+              "label": "B",
+              "text": "The reasons were not only technical. Shops found that self-checkout lanes lost more stock to theft and error than staffed ones: customers scanned the wrong item, weighed oranges as onions, or simply walked out. One British chain estimated that the losses were larger than the wages saved. The machines also break down, need an assistant to clear the message 'unexpected item in the bagging area', and stop altogether when a customer cannot find a barcode."
+            },
+            {
+              "label": "C",
+              "text": "Customers are divided. For a basket of six items, self-checkout is quicker, and many people prefer it. For a full trolley it is slower than a good cashier, and it turns the shopper into unpaid staff. Older customers, and anyone buying alcohol or medicine that needs approval, often wait for the single assistant who is looking after twelve machines at once."
+            },
+            {
+              "label": "D",
+              "text": "There is also a social cost that is rarely counted. A checkout is one of the few places where a stranger speaks to you during the week: a cashier notices that you look tired, remembers what you bought last time, asks about the weather. The chains that removed the machines said customers had asked for human contact, particularly in small towns where the shop is also a meeting place."
+            },
+            {
+              "label": "E",
+              "text": "The reversal does not mean the technology has failed. It means the arithmetic was done too narrowly: labour saved was counted, and lost sales, theft, frustration and loneliness were not. A checkout is not only a device for taking money; it is the last point at which a shop is still a place rather than a warehouse."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What happened to self-checkout tills in 2023?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They were installed more widely than before."
+                },
+                {
+                  "key": "B",
+                  "text": "Some chains started removing them."
+                },
+                {
+                  "key": "C",
+                  "text": "They were made compulsory in large stores."
+                },
+                {
+                  "key": "D",
+                  "text": "They became cheaper to maintain."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：2023 年出现反常现象——几家连锁开始撤走自助收银机，英国的 Booths 拆掉大部分，沃尔玛与 Costco 部分门店跟进。A 与「撤走」相反，C、D 无据。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "several chains began taking them out again"
+            },
+            {
+              "number": 47,
+              "stem": "Why did some shops find self-checkout unprofitable?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The machines were too slow to scan fruit."
+                },
+                {
+                  "key": "B",
+                  "text": "Losses from theft and mistakes exceeded the wages saved."
+                },
+                {
+                  "key": "C",
+                  "text": "Customers refused to use them at all."
+                },
+                {
+                  "key": "D",
+                  "text": "The machines used too much electricity."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：自助通道的货品损失（偷窃与错误）高于人工通道，有连锁估算损失超过省下的工资。A 只是次要的机器问题，C 与「很多人偏爱自助」矛盾，D 未提。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "the losses were larger than the wages saved"
+            },
+            {
+              "number": 48,
+              "stem": "For which situation is self-checkout described as an improvement?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A large weekly shop."
+                },
+                {
+                  "key": "B",
+                  "text": "Buying alcohol or medicine."
+                },
+                {
+                  "key": "C",
+                  "text": "A small basket of items."
+                },
+                {
+                  "key": "D",
+                  "text": "Shopping with young children."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：买六件东西时自助更快，很多人更喜欢；而整车采购比熟练收银员慢，买酒或药还要等唯一的一名助手。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "For a basket of six items, self-checkout is quicker"
+            },
+            {
+              "number": 49,
+              "stem": "What did the chains that removed the machines say customers wanted?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Lower prices."
+                },
+                {
+                  "key": "B",
+                  "text": "Contact with other people."
+                },
+                {
+                  "key": "C",
+                  "text": "Faster service at all costs."
+                },
+                {
+                  "key": "D",
+                  "text": "Longer opening hours."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：拆机的连锁说顾客要求「人与人接触」，在小镇尤其明显——商店同时也是聚会的场所。A、C、D 与「社会成本」这一论点无关。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "customers had asked for human contact"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's main point in the last paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The technology itself was badly designed."
+                },
+                {
+                  "key": "B",
+                  "text": "The savings were calculated without counting the losses."
+                },
+                {
+                  "key": "C",
+                  "text": "Supermarkets should never save on labour."
+                },
+                {
+                  "key": "D",
+                  "text": "Cashiers will always be cheaper than machines."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：作者说技术并未失败，问题在于「账算得太窄」——只算了省下的工资，没算流失的销售、偷窃、沮丧与孤独。A、C、D 都是过度或错误的推论。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "the arithmetic was done too narrowly"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2002 a survey in southern Spain found 94 Iberian lynx left in the wild, in two small populations in Andalusia. The animal, which hunts rabbits in Mediterranean scrub, had been declining for decades, and the International Union for Conservation of Nature listed it as critically endangered, one step from extinction in the wild."
+            },
+            {
+              "label": "B",
+              "text": "The causes were connected. Rabbits, which make up most of the lynx's diet, were hit first by myxomatosis in the 1950s and then by a haemorrhagic disease that appeared in the late 1980s, removing food from huge areas. Roads cut the remaining populations into fragments, and cats were killed by cars and, in some districts, by hunters who blamed them for losses of game."
+            },
+            {
+              "label": "C",
+              "text": "The recovery programme, largely paid for by the European Union, worked on all three problems at once. Breeding centres in Spain and Portugal produced animals for release; land managers were paid to create rabbit warrens and restore scrub; and underpasses were built beneath the roads that had been killing the cats. By 2015 more than 300 lynx were living in the wild, and releases had moved beyond Andalusia into Portugal and Castilla-La Mancha."
+            },
+            {
+              "label": "D",
+              "text": "In June 2024 the conservation union changed the lynx's status from endangered to vulnerable, after a census counted 2,021 animals. It was one of the few cases in which a large mammal has moved down the list rather than up it, and the officials who announced it were careful to say that vulnerable does not mean safe."
+            },
+            {
+              "label": "E",
+              "text": "The remaining risks are real. Almost all the animals descend from a handful of founders, so the population carries little genetic variety and a disease could pass through it quickly. Road deaths have risen as the cats spread into new territory, drought reduces the rabbit population, and some landowners still regard the lynx as a competitor rather than an asset."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What was the situation of the Iberian lynx in 2002?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was found across the whole of Spain."
+                },
+                {
+                  "key": "B",
+                  "text": "Only 94 remained, in two small groups."
+                },
+                {
+                  "key": "C",
+                  "text": "It had already disappeared from the wild."
+                },
+                {
+                  "key": "D",
+                  "text": "Its numbers were beginning to recover."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：2002 年调查在西班牙南部只找到 94 只，分布在安达卢西亚的两个小种群，被列为极危。C、D 与「野外还剩 94 只、距灭绝一步」矛盾，A 与我们已知的分布相反。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "found 94 Iberian lynx left in the wild"
+            },
+            {
+              "number": 52,
+              "stem": "What was the first blow to the lynx's food supply?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Drought caused by climate change."
+                },
+                {
+                  "key": "B",
+                  "text": "The spread of a rabbit disease in the 1950s."
+                },
+                {
+                  "key": "C",
+                  "text": "Competition from other predators."
+                },
+                {
+                  "key": "D",
+                  "text": "The building of new roads."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：作为主要食物的兔子先遭 1950 年代黏液瘤病，后又遇 1980 年代末出现的出血性疾病。干旱是 E 段当下的风险，道路属于栖息地破碎化而非食物，C 项无据。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "hit first by myxomatosis in the 1950s"
+            },
+            {
+              "number": 53,
+              "stem": "How did the recovery programme deal with road deaths?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By closing roads at night."
+                },
+                {
+                  "key": "B",
+                  "text": "By building crossings beneath the roads."
+                },
+                {
+                  "key": "C",
+                  "text": "By moving the animals to zoos."
+                },
+                {
+                  "key": "D",
+                  "text": "By reducing speed limits in towns."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：在曾撞死猞猁的公路下方修建动物通道（underpasses），与繁育放归、恢复兔群同时推进。A、D 未提，C 与「放归野外」相反。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "underpasses were built beneath the roads"
+            },
+            {
+              "number": 54,
+              "stem": "What did the 2024 change of status mean?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The species is now completely safe."
+                },
+                {
+                  "key": "B",
+                  "text": "Its risk of extinction has fallen by one level."
+                },
+                {
+                  "key": "C",
+                  "text": "It no longer needs legal protection."
+                },
+                {
+                  "key": "D",
+                  "text": "Its population has stopped growing."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：普查 2021 只后，等级由「濒危」降为「易危」，是大型哺乳动物少有的「下榜」案例；但官员强调易危不等于安全。A 被末句直接否定，C、D 无据。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "vulnerable does not mean safe"
+            },
+            {
+              "number": 55,
+              "stem": "What is a genetic problem for the recovered population?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The animals are too few to find mates."
+                },
+                {
+                  "key": "B",
+                  "text": "They all descend from very few ancestors."
+                },
+                {
+                  "key": "C",
+                  "text": "They have interbred with another species."
+                },
+                {
+                  "key": "D",
+                  "text": "Their genes make them avoid rabbits."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：几乎所有个体都出自少数几只奠基者，种群基因多样性低，一场疾病可能迅速传遍。A 与 2021 只的数量矛盾，C、D 无据。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "descend from a handful of founders"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n福建土楼主要分布在福建省西南部的山区，是客家人在明清时期建造的大型民居。土楼多以夯土筑成，外形有圆形和方形两种，一座楼可以容纳数十户人家共同居住。楼内设有水井、粮仓和祠堂，厚实的土墙既能防潮，也能在冬天保暖、夏天隔热。2008年，福建土楼被列入世界文化遗产名录。如今，许多土楼仍有人居住，也有部分被改造成民宿和展览馆，向游客介绍客家的生活方式。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nFujian tulou are large residential buildings put up by the Hakka people during the Ming and Qing dynasties. They are found mainly in the mountains of south-western Fujian and were built largely of rammed earth, in either a round or a square form. A single building could house dozens of families living together. Inside there were wells, grain stores and ancestral halls, and the thick earth walls kept out damp while holding in warmth in winter and blocking heat in summer. In 2008 the Fujian tulou were inscribed on the World Heritage List. Today many of them are still lived in, while others have been turned into guesthouses and exhibition halls that introduce visitors to the Hakka way of life.\n\n【要点】①「土楼」用拼音 tulou 加类别词，Fujian tulou 作复数；②「夯土筑成」译作 built of rammed earth，不要逐字译成 hit earth；③「容纳数十户人家共同居住」可用 house dozens of families，house 作动词更简洁；④「防潮、保暖、隔热」用 kept out damp / holding in warmth / blocking heat，三个动词短语并列；⑤「被列入世界文化遗产名录」用被动 were inscribed on the World Heritage List；⑥「民宿」译作 guesthouses，比 homestay 更贴合土楼改造后的经营形态。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

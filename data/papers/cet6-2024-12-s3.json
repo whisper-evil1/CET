@@ -1,0 +1,1101 @@
+{
+  "id": "cet6-2024-12-s3",
+  "level": "CET6",
+  "year": 2024,
+  "month": 12,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on who should have the final say in deciding how public spaces are used. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nWho Gets to Define Public Space?\n\nA public square is never neutral ground. Somebody decides where the benches go, whether they have armrests, who may sell there and at what hour the gates close. Those decisions are usually taken by officials and designers on behalf of a public that is consulted late, briefly and in a language it may not speak.\n\nThe result is a space that is public in law and private in feel. A plaza without shade, a toilet or a bench is open to everyone and usable by almost no one; a park that shuts at dusk belongs to whoever is free in the afternoon. Design is not decoration. It is a set of judgements about which bodies are welcome.\n\nThe objection—that professionals must weigh competing claims and cannot please everybody—is reasonable but incomplete. Weighing claims is not the same as hearing none of them, and the groups least able to attend a consultation are usually the ones whose needs go unrepresented.\n\nThe better question is therefore not who owns the space but who can shape it. A city that lets residents argue about benches and closing hours is not being inefficient; it is doing the work that public space exists to make possible.\n\n（约 205 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Every rich country is running the same experiment in slow motion. The share of the population over eighty is rising faster than the number of people able to look after them, and the arithmetic is unforgiving: the care that used to be 26______ by daughters and daughters-in-law has moved, in a single generation, into a market that employs strangers. Governments have responded by 27______ the money away from institutions and towards the home, on the assumption that older people prefer to remain where they have always lived."
+            },
+            {
+              "label": "B",
+              "text": "The assumption is sound, but the savings are largely 28______. A visit from a professional carer lasts half an hour and covers the tasks on a checklist; it does not cover the conversation, the shopping, or the business of noticing that a prescription has never been collected. That work is still done, overwhelmingly by women, and it is still 29______: it appears in no national accounts and earns no pension. Surveys in several countries put its value at between three and six per cent of GDP—a figure larger than the defence budget and 30______ from the statistics that ministers quote."
+            },
+            {
+              "label": "C",
+              "text": "The second shortage is of time. A care worker in Japan, Germany or Britain is typically 31______ for the minutes spent with a client, not for the journey between clients, and the resulting schedule leaves no 32______ for the part of the job that cannot be timed. Turnover follows. In England roughly one in ten care posts stands vacant, and new recruits leave within a few years. Ministers who 33______ the problem as one of wages alone miss half of it: pay matters, but so does the 34______ of doing a task that is measured out in six-minute units. None of this can be repaired by exhorting families to do more. The countries that have managed the transition best have done two unglamorous things. They have 35______ care work as a skilled occupation, with proper training and a career structure, and they have paid for it out of general taxation rather than through a means test that humiliates the people it is meant to help."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "promised"
+                },
+                {
+                  "key": "B",
+                  "text": "provided"
+                },
+                {
+                  "key": "C",
+                  "text": "purchased"
+                },
+                {
+                  "key": "D",
+                  "text": "refused"
+                }
+              ],
+              "answer": "B",
+              "analysis": "the care that used to be 过去分词 by daughters 是「过去由女儿提供的照护」，provide care 为固定搭配；下一分句说这种照护已转入市场，正说明原先并非购买而来。",
+              "type": "搭配题",
+              "evidencePara": "A",
+              "evidenceText": "has moved, in a single generation, into a market that employs strangers"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "shifting"
+                },
+                {
+                  "key": "B",
+                  "text": "borrowing"
+                },
+                {
+                  "key": "C",
+                  "text": "hiding"
+                },
+                {
+                  "key": "D",
+                  "text": "counting"
+                }
+              ],
+              "answer": "A",
+              "analysis": "away from institutions and towards the home 是典型的位移，shift money away from…towards…「把资金从……转向……」。counting 与 away from 冲突，borrowing／hiding 与政策转向无关。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "away from institutions and towards the home"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "delayed"
+                },
+                {
+                  "key": "B",
+                  "text": "generous"
+                },
+                {
+                  "key": "C",
+                  "text": "illusory"
+                },
+                {
+                  "key": "D",
+                  "text": "obvious"
+                }
+              ],
+              "answer": "C",
+              "analysis": "but 表转折，后文逐项列举居家照护「没有覆盖」的工作，说明节省下来的钱只是「表面上的」：illusory。generous 与 but 的转折语气相反。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "it does not cover the conversation, the shopping"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "voluntary"
+                },
+                {
+                  "key": "B",
+                  "text": "skilled"
+                },
+                {
+                  "key": "C",
+                  "text": "insured"
+                },
+                {
+                  "key": "D",
+                  "text": "unpaid"
+                }
+              ],
+              "answer": "D",
+              "analysis": "冒号后的解释是判断依据：不进国民账户、不产生养老金，故为「无酬」照护。voluntary 强调自愿，而此处强调的是没有报酬、不被计量；下一句 this unpaid care 亦为呼应。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "it appears in no national accounts and earns no pension"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "absent"
+                },
+                {
+                  "key": "B",
+                  "text": "derived"
+                },
+                {
+                  "key": "C",
+                  "text": "quoted"
+                },
+                {
+                  "key": "D",
+                  "text": "updated"
+                }
+              ],
+              "answer": "A",
+              "analysis": "与 larger than the defence budget 形成反差：价值如此之大，却「不在」部长们引用的统计里。be absent from 为固定搭配；quoted 恰好与「不被引用」相反。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "the statistics that ministers quote"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "praised"
+                },
+                {
+                  "key": "B",
+                  "text": "trained"
+                },
+                {
+                  "key": "C",
+                  "text": "paid"
+                },
+                {
+                  "key": "D",
+                  "text": "tested"
+                }
+              ],
+              "answer": "C",
+              "analysis": "for the minutes spent with a client, not for the journey between clients 说的是计酬口径，故为 be paid for…；本段末句 pay matters 也是同一话题的复现。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "for the minutes spent with a client, not for the journey"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "budget"
+                },
+                {
+                  "key": "B",
+                  "text": "room"
+                },
+                {
+                  "key": "C",
+                  "text": "excuse"
+                },
+                {
+                  "key": "D",
+                  "text": "reason"
+                }
+              ],
+              "answer": "B",
+              "analysis": "leave no room for sth 意为「没有给……留出余地」，指排班没有为无法计时的部分留出空间。excuse／reason 与 leave no…for 连用时语义不通。",
+              "type": "搭配题",
+              "evidencePara": "C",
+              "evidenceText": "the part of the job that cannot be timed"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "solve"
+                },
+                {
+                  "key": "B",
+                  "text": "ignore"
+                },
+                {
+                  "key": "C",
+                  "text": "frame"
+                },
+                {
+                  "key": "D",
+                  "text": "welcome"
+                }
+              ],
+              "answer": "C",
+              "analysis": "frame sth. as sth.「把……界定为……」，与 as one of wages alone 搭配；作者随后用 miss half of it 指出这种界定不完整，说明部长们并非「解决」或「忽视」问题，而是「框定」错了。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "as one of wages alone miss half of it"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "indignity"
+                },
+                {
+                  "key": "B",
+                  "text": "pleasure"
+                },
+                {
+                  "key": "C",
+                  "text": "cost"
+                },
+                {
+                  "key": "D",
+                  "text": "speed"
+                }
+              ],
+              "answer": "A",
+              "analysis": "被拆成六分钟一个单位来计量的工作，带给人的是「屈辱感」而非报酬问题；与 pay matters, but so does… 并列，说明这是工资之外的另一个维度。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "a task that is measured out in six-minute units"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "dismissed"
+                },
+                {
+                  "key": "B",
+                  "text": "compared"
+                },
+                {
+                  "key": "C",
+                  "text": "imagined"
+                },
+                {
+                  "key": "D",
+                  "text": "recognised"
+                }
+              ],
+              "answer": "D",
+              "analysis": "recognise sth. as sth.「承认……为……」，与 as a skilled occupation、with proper training and a career structure 构成完整逻辑；dismissed 与后文的正向做法相反。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "as a skilled occupation, with proper training"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Privacy law rests on a fiction that has survived for fifty years: that a person who ticks a box has agreed to what follows. The fiction was workable when the box appeared once. It is not workable when a single page loads forty trackers before the text has finished drawing, none of which the visitor has seen, and all of which are described in a document nobody reads."
+            },
+            {
+              "label": "B",
+              "text": "Europe's General Data Protection Regulation, in force since 2018, was meant to end the pretence. It gave regulators the power to fine a company up to four per cent of global turnover, and it demanded a lawful basis for processing rather than a signature at the foot of a form. The penalties have not been theoretical: in 2023 the Irish regulator fined Meta 1.2 billion euros over the transfer of European users' data to the United States."
+            },
+            {
+              "label": "C",
+              "text": "Enforcement, however, has been slow and uneven. The European Court of Auditors has reported that cross-border cases can take years, that the 'one-stop shop' leaves a single national authority responsible for a company's entire European business, and that smaller regulators lack the staff to challenge the largest ones. A right that takes four years to enforce is, for practical purposes, not a right at all."
+            },
+            {
+              "label": "D",
+              "text": "Consent has also been degraded by design. A banner that makes 'accept all' a large coloured button and 'reject' a grey line of small print is not a neutral request; it is a test of patience. Researchers once calculated that reading every privacy policy a person meets would take about 250 hours a year—more than a month of working time—which is another way of saying that informed consent has become a category error at this scale."
+            },
+            {
+              "label": "E",
+              "text": "Other jurisdictions have chosen different instruments. China's Personal Information Protection Law, effective in 2021, places duties on the processor and creates a separate regime for sensitive data; several countries regulate health, finance and children through sectoral rules rather than a single statute. Neither model is obviously superior, but both proceed from the same premise: the burden should fall on the organisation that collects, not on the individual who is collected."
+            },
+            {
+              "label": "F",
+              "text": "The deeper issue is that privacy is not a preference to be traded but a condition of autonomous life. A person who is watched changes what he does; a population that is watched changes what it is willing to read, say and search for. That chilling effect is hard to measure and impossible to compensate, which is why serious regulators reach for structural remedies—data minimisation, purpose limitation, outright bans on certain categories of processing—rather than for clearer notices."
+            },
+            {
+              "label": "G",
+              "text": "The test of the coming decade is therefore concrete. It is not whether citizens have been told their rights, but whether the default setting of an ordinary service collects less than it did before, and whether a company that ignores the rules loses money faster than it earns it."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "For half a century the law has treated a ticked box as proof of agreement.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段首句：隐私法建立在「勾选方框即表示同意」这一「虚构」之上，且已沿用五十年。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "a fiction that has survived for fifty years"
+            },
+            {
+              "number": 37,
+              "stem": "A regulator may now impose a penalty scaled to a firm's worldwide revenue.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：GDPR 赋予监管机构最高按全球营业额 4% 罚款的权力。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "fine a company up to four per cent of global turnover"
+            },
+            {
+              "number": 38,
+              "stem": "A very large sum was demanded over data moved from one country to another.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：2023 年爱尔兰监管机构因向美国传输用户数据对 Meta 罚款 12 亿欧元。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "fined Meta 1.2 billion euros over the transfer of European users' data"
+            },
+            {
+              "number": 39,
+              "stem": "Cases involving several countries are slow because one authority speaks for a whole continent.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：跨境案件可拖数年，「一站式」机制使单一国家机构负责某公司在全欧洲的业务。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "the 'one-stop shop' leaves a single national authority responsible"
+            },
+            {
+              "number": 40,
+              "stem": "A protection that takes years to enforce is in effect no protection.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末句几乎是原句的同义改写：A right that takes four years to enforce is … not a right at all。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "A right that takes four years to enforce is, for practical purposes, not a right at all"
+            },
+            {
+              "number": 41,
+              "stem": "The layout of a request is arranged so that refusing costs more effort than agreeing.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：把「全部接受」做成醒目的彩色按钮、把「拒绝」做成灰色小字，这不是中立的询问，而是「耐心的测试」。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "it is a test of patience"
+            },
+            {
+              "number": 42,
+              "stem": "Reading all the notices an individual encounters would consume roughly a month of work.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：研究者估算读完全部隐私政策每年约需 250 小时，超过一个月的工作时间。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "about 250 hours a year—more than a month of working time"
+            },
+            {
+              "number": 43,
+              "stem": "Some laws make the collector, not the person collected from, carry the obligation.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：两种模式共同的前提是「责任应由收集数据的组织承担，而不是由被收集的个人承担」。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "the burden should fall on the organisation that collects"
+            },
+            {
+              "number": 44,
+              "stem": "Surveillance alters what people are prepared to read and discuss.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：被注视的人会改变行为，「被注视的人群会改变它愿意阅读、言说和搜索的东西」。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "a population that is watched changes what it is willing to read, say and search for"
+            },
+            {
+              "number": 45,
+              "stem": "Success will be measured by quieter data collection and by financial loss, not by published entitlements.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：检验标准不是「是否告知了公民权利」，而是默认设置是否少收集、违规公司是否「亏得比赚得快」。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "whether a company that ignores the rules loses money faster than it earns it"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Every university system balances three sources of money: the state, the student and the endowment. Which one is asked to carry the weight is a political choice dressed as an accounting one. England made the choice abruptly in 2012, when the cap on tuition rose from about 3,000 to 9,000 pounds a year and the public grant was cut by a comparable amount; Australia made a different one, keeping the sticker price high but collecting it through an income-contingent loan repaid only above a threshold."
+            },
+            {
+              "label": "B",
+              "text": "The Australian design is elegant in theory. Nobody pays up front, repayment scales with earnings, and the debt dies with the debtor, so that a graduate who becomes a nurse contributes less than one who becomes a banker. Yet the elegance has a limit that its architects underestimated. Fees are not only a price; they are also a signal, and a headline figure of 40,000 pounds is read by a sixteen-year-old as a reason not to apply long before she reads the small print about repayment."
+            },
+            {
+              "label": "C",
+              "text": "The evidence on this point is now fairly consistent. Studies of debt aversion find that otherwise identical applicants from poorer households are more likely to choose a cheaper institution, a shorter course or no degree at all when the sticker price rises, even where the net cost after grants is unchanged. The deterrent operates at the point of application, years before any loan is signed, which is precisely where the policy's designers were not looking."
+            },
+            {
+              "label": "D",
+              "text": "In the United States the argument has taken a different shape, because the sums are larger and the loan system is not income-contingent in the same way. Outstanding student debt passed 1.7 trillion dollars, and the proposition that generous federal aid merely permits universities to raise prices—known, after its author, as the Bennett hypothesis—has been argued over for forty years without resolution. The evidence suggests that the effect exists in some sectors and is small in others, which is an unsatisfying answer for a political argument that wants a villain."
+            },
+            {
+              "label": "E",
+              "text": "What the research does support is narrower and more useful. Need-based grants change who enrols; merit scholarships mostly redistribute money to families that would have sent their children to university anyway. Maintenance support, the money that pays rent and food rather than fees, has a larger effect on completion than an equivalent reduction in tuition, because the student who drops out is usually the one who cannot afford to eat while studying."
+            },
+            {
+              "label": "F",
+              "text": "The question, then, is not whether somebody pays, since somebody always does. It is when, and by whom. A system financed by tuition is a transfer from the young to the old, collected at the moment of greatest uncertainty in a life; a system financed by taxation is a transfer from those who benefited to those who follow. Both are defensible. Only one of them is usually described in the language of fairness."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the first paragraph suggest about the choice of who pays for university?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is determined by accounting standards."
+                },
+                {
+                  "key": "B",
+                  "text": "It is a political decision presented as a technical one."
+                },
+                {
+                  "key": "C",
+                  "text": "It has been identical in England and Australia."
+                },
+                {
+                  "key": "D",
+                  "text": "It matters less than the quality of teaching."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段第二句：让哪一方承担是「装扮成会计问题的政治选择」——正是选项 B 的改写。英国与澳大利亚的做法被明确写成 different，故 C 错。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "a political choice dressed as an accounting one"
+            },
+            {
+              "number": 47,
+              "stem": "What limit to the Australian model does the author identify?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Repayment takes too long for most graduates."
+                },
+                {
+                  "key": "B",
+                  "text": "The advertised fee discourages applicants before they learn how repayment works."
+                },
+                {
+                  "key": "C",
+                  "text": "Nurses end up paying more than bankers."
+                },
+                {
+                  "key": "D",
+                  "text": "The government cannot afford to subsidise the loans."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：学费不只是价格，也是信号；十六岁的人看到「四万镑」这个数字就决定不申请，「远在她读到还款细则之前」。C 项与原文相反（护士缴得比银行家少）。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "long before she reads the small print about repayment"
+            },
+            {
+              "number": 48,
+              "stem": "What do studies of debt aversion find?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Poorer applicants react to headline prices even when net costs are equal."
+                },
+                {
+                  "key": "B",
+                  "text": "All applicants are equally sensitive to tuition levels."
+                },
+                {
+                  "key": "C",
+                  "text": "Grants have no effect on the decision to apply."
+                },
+                {
+                  "key": "D",
+                  "text": "Students from richer households avoid debt more strongly."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：家庭收入较低的申请者在「标价」上涨时更可能选择便宜的学校或干脆不读，「即使扣除补助后的净成本没有变化」。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "even where the net cost after grants is unchanged"
+            },
+            {
+              "number": 49,
+              "stem": "Why does the author call the Bennett hypothesis 'unsatisfying'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has never been tested empirically."
+                },
+                {
+                  "key": "B",
+                  "text": "It applies only to private universities."
+                },
+                {
+                  "key": "C",
+                  "text": "The evidence is mixed, while the debate demands a clear culprit."
+                },
+                {
+                  "key": "D",
+                  "text": "It was refuted by its author forty years ago."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段末：证据显示该效应「在某些领域存在、在另一些领域很小」，而这场政治争论却想要一个「坏人」——混合证据无法满足非黑即白的叙事。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "an unsatisfying answer for a political argument that wants a villain"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's point in the final paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Tuition should be abolished altogether."
+                },
+                {
+                  "key": "B",
+                  "text": "The real issue is the timing and incidence of payment, not whether payment occurs."
+                },
+                {
+                  "key": "C",
+                  "text": "Tax-funded systems are always fairer."
+                },
+                {
+                  "key": "D",
+                  "text": "Young people should borrow more while rates are low."
+                }
+              ],
+              "answer": "B",
+              "analysis": "F 段：问题不是「有没有人付钱」（总有人付），而是「何时付、由谁付」；学费制是「从年轻人向年长者的转移」，且发生在人生最不确定的时刻。作者说两种制度「都可辩护」，故 A、C 的绝对判断不符。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "It is when, and by whom"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The shortage of people willing to look after the very old is usually described as a consequence of demography, and demography is certainly part of it. Japan, whose population is ageing faster than any other large economy, projects a shortfall of more than half a million care workers by 2040. But the same projection, run for countries with younger populations, produces shortages of a similar shape, which suggests that the binding constraint is not the number of old people. It is the number of people willing to do the work at the wage offered."
+            },
+            {
+              "label": "B",
+              "text": "Rich countries have plugged the gap with migration. In several OECD members a quarter or more of long-term care workers were born abroad, and in some cities the figure is far higher. The arrangement suits everyone until it becomes visible. Recruitment agencies in low-income countries supply staff whose training was paid for by a health system that now loses them, and the country that receives the worker records a gain in its labour supply while the country that trained her records a loss that appears in no budget."
+            },
+            {
+              "label": "C",
+              "text": "The wage itself is the puzzle. Care work is paid less than occupations requiring similar levels of qualification, and the gap is not small: comparisons in Britain and the United States put it at roughly ten to twenty per cent. Economists have a name for a possible explanation—compensating differentials, the idea that pleasant or meaningful work commands a lower wage—but the explanation does not survive contact with the staff themselves, who describe the work as physically hard, emotionally draining and poorly supervised."
+            },
+            {
+              "label": "D",
+              "text": "Technology is offered as the alternative. Lifting equipment and monitoring sensors can remove the tasks that break backs, and both are worth having. What they cannot do is the part of the job that consists of being a person in the room: noticing that a resident has stopped eating, persuading a frightened man to be washed, sitting with someone who is dying. The evidence on robots in Japanese nursing homes is instructive precisely because it is modest—machines reduce the lifting, and the vacancy rates barely move."
+            },
+            {
+              "label": "E",
+              "text": "The conclusion is uncomfortable because it is so ordinary. The countries with the smallest shortages are not the ones with the most robots or the youngest populations; they are the ones that pay care workers more, train them for longer and give them a route to promotion. That is not a technological problem or a demographic one. It is a decision about what a society is prepared to spend on the last years of a life, and it is taken every year by every government that sets a budget."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why does the author doubt that demography explains the shortage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Japan's population is not in fact ageing."
+                },
+                {
+                  "key": "B",
+                  "text": "Younger countries show shortages of the same kind."
+                },
+                {
+                  "key": "C",
+                  "text": "Official projections have been shown to be wrong."
+                },
+                {
+                  "key": "D",
+                  "text": "The number of old people has stopped rising."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：把同样的推算用于人口更年轻的国家，得到的短缺形态相似，说明真正的约束不是老人数量，而是「愿意按所给工资做这份工作的人」的数量。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "countries with younger populations, produces shortages of a similar shape"
+            },
+            {
+              "number": 52,
+              "stem": "What does the author mean by a loss 'that appears in no budget'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Recruiting agencies do not pay tax."
+                },
+                {
+                  "key": "B",
+                  "text": "The training costs borne by poorer countries are never counted as a cost to them."
+                },
+                {
+                  "key": "C",
+                  "text": "Migrant workers are paid less than native ones."
+                },
+                {
+                  "key": "D",
+                  "text": "Care budgets are deliberately hidden from voters."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：接收国在劳动力供给上「记账为收益」，而为其支付培训费的输出国「记账为损失，只是这笔损失不出现在任何预算里」——人才流失的成本无人核算。",
+              "type": "词句含义题",
+              "evidencePara": "B",
+              "evidenceText": "the country that trained her records a loss that appears in no budget"
+            },
+            {
+              "number": 53,
+              "stem": "Why is the 'compensating differentials' explanation rejected?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The wage gap is too small to measure."
+                },
+                {
+                  "key": "B",
+                  "text": "Care workers say the work is hard and badly supervised."
+                },
+                {
+                  "key": "C",
+                  "text": "Economists have never proposed such a theory."
+                },
+                {
+                  "key": "D",
+                  "text": "Care workers earn more than comparable occupations."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：该理论认为「令人愉快或有意义的工作可以用较低工资补偿」，但从业者自己描述这份工作「体力辛苦、情绪耗竭、督导不足」，与理论前提相反。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "physically hard, emotionally draining and poorly supervised"
+            },
+            {
+              "number": 54,
+              "stem": "What does the Japanese evidence about robots show?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Machines can replace most care tasks."
+                },
+                {
+                  "key": "B",
+                  "text": "Robots reduce physical strain without filling vacancies."
+                },
+                {
+                  "key": "C",
+                  "text": "Residents prefer machines to human carers."
+                },
+                {
+                  "key": "D",
+                  "text": "Japan has solved its staffing problem."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：机器能减少搬运，「但空缺率几乎没动」；且被判为「有启发恰恰因为其成效有限」，说明技术只替代了体力部分。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "machines reduce the lifting, and the vacancy rates barely move"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's final position?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The shortage reflects a choice about how much a society will spend on old age."
+                },
+                {
+                  "key": "B",
+                  "text": "Migration is the only durable solution."
+                },
+                {
+                  "key": "C",
+                  "text": "Ageing populations make the problem unavoidable."
+                },
+                {
+                  "key": "D",
+                  "text": "Better technology will resolve the shortage within a decade."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：短缺最小的国家既非机器人最多也非人口最年轻，而是「付得更多、培训更久、有晋升通道」的国家；这最终是「一个社会愿意为生命最后几年花多少钱」的决定。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "a decision about what a society is prepared to spend on the last years of a life"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国航天事业起步于1956年，从仿制近程导弹开始，逐步建立起独立的研发体系。1970年，第一颗人造地球卫星“东方红一号”发射成功，中国成为世界上第五个独立发射卫星的国家。2003年，神舟五号将航天员杨利伟送入太空，中国由此成为第三个掌握载人航天技术的国家。此后，中国完成了月球探测“绕、落、回”三步走，并建成了自己的空间站。2020年，嫦娥五号带回月球样品；2021年，天问一号成功着陆火星。这些成就的背后，是几代科研人员的长期投入。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChina's space programme began in 1956 with the copying of short-range missiles and gradually built up an independent capacity for research and development. In 1970 the launch of Dongfanghong-1, the country's first artificial satellite, made China the fifth nation to put a satellite into orbit on its own. In 2003 Shenzhou-5 carried the astronaut Yang Liwei into space, and China became the third country to master human spaceflight. It later completed the three-stage lunar programme—orbiting, landing and returning—and built a space station of its own. In 2020 Chang'e-5 brought back lunar samples, and in 2021 Tianwen-1 landed successfully on Mars. Behind these achievements lies the long commitment of several generations of researchers.\n\n【要点】①「起步于……从……开始」合并为 began in 1956 with…，避免两个谓语叠加；②「仿制」用 the copying of，比 imitation 更贴近原意；③「独立发射卫星的国家」用 the fifth nation to put a satellite into orbit on its own，用不定式作后置定语；④「绕、落、回」三步走译为 the three-stage lunar programme—orbiting, landing and returning，用破折号列出三个动名词；⑤「掌握载人航天技术」用 master human spaceflight，比直译 technology 更地道；⑥末句用 Behind these achievements lies… 的倒装，突出「长期投入」。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

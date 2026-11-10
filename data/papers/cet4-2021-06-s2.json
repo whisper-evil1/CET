@@ -1,0 +1,1101 @@
+{
+  "id": "cet4-2021-06-s2",
+  "level": "CET4",
+  "year": 2021,
+  "month": 6,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on the importance of learning to work with people from different backgrounds. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nLearning to Work with People from Different Backgrounds\n\nA group project at university is usually the first place where a student has to work with someone who grew up somewhere else, speaks differently and disagrees about what a deadline means. Handling that experience well is one of the most useful skills a degree can give.\n\nThe reasons are practical. Most workplaces are mixed: colleagues differ in age, region, training and habits of speech. A person who can only work with people who think like herself will spend her career annoyed. A person who can ask a question instead of assuming, and who can say I had not thought of that, will get more done and be trusted with better work.\n\nThe skill can be learned. Listen before arguing. Ask why a teammate prefers a method rather than telling her it is wrong. Say clearly what you need instead of hinting. None of these habits is complicated, but all of them need practice.\n\nDifference is not a problem to be managed. In most teams it is the reason the answer is any good.\n\n（约 165 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Ten years ago, few people thought of cities as good places for bees. Today hives stand on the roofs of opera houses, banks and hotels, and the waiting list for a hive of one's own can run to two years. The fashion began in Paris and London and has since 26______ to almost every European capital."
+            },
+            {
+              "label": "B",
+              "text": "Supporters offer two 27______. Cities are warmer than the countryside, so flowers open earlier and last longer; and urban gardens, parks and balconies are rarely sprayed with the pesticides that farmers rely on. In a good year a single hive can 28______ sixty kilograms of honey, and that honey sells for far more than the ordinary kind."
+            },
+            {
+              "label": "C",
+              "text": "Ecologists tell a more complicated 29______. The bees kept in cities are honeybees, a domestic animal, not the wild bumblebees and solitary bees whose numbers are actually falling. A roof holding forty hives can 30______ the flowers within flying distance of their nectar, leaving less for everything else. Studies in Paris and London have 31______ traces of lead and other metals in honey from urban hives, though usually at levels below the safety limit."
+            },
+            {
+              "label": "D",
+              "text": "The 32______ is not to ban the hives but to count them. Several cities now 33______ beekeepers to register, and a few limit the number of hives per square kilometre. Beekeepers themselves have begun to 34______ that a roof full of hives may mean a garden with less room for the insects that were there first. Honey, after all, is a 35______ of a healthy landscape, not a substitute for one."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "widened"
+                },
+                {
+                  "key": "B",
+                  "text": "spread"
+                },
+                {
+                  "key": "C",
+                  "text": "refused"
+                },
+                {
+                  "key": "D",
+                  "text": "counted"
+                }
+              ],
+              "answer": "B",
+              "analysis": "has since ______ to almost every European capital 讲这股风气从巴黎、伦敦扩散到几乎所有欧洲首都，spread to 表示「传播到」，过去分词仍是 spread。refuse、count、record 都不能与 to a capital 搭配表示扩散，语义上也不成立。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "began in Paris and London"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "profit"
+                },
+                {
+                  "key": "B",
+                  "text": "arguments"
+                },
+                {
+                  "key": "C",
+                  "text": "damage"
+                },
+                {
+                  "key": "D",
+                  "text": "story"
+                }
+              ],
+              "answer": "B",
+              "analysis": "冒号后是支持者的两条理由：城市更暖、花期更长，且很少喷洒农药，故 offer two arguments（提出两个理由）。profit 指利润，与本段论据不符；damage 是损害，语义相反。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "Cities are warmer than the countryside"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "refuse"
+                },
+                {
+                  "key": "B",
+                  "text": "count"
+                },
+                {
+                  "key": "C",
+                  "text": "produce"
+                },
+                {
+                  "key": "D",
+                  "text": "record"
+                }
+              ],
+              "answer": "C",
+              "analysis": "a single hive can ______ sixty kilograms of honey 指一箱蜂一年能「产出」六十公斤蜂蜜，produce 与重量搭配自然。count 是计数、record 是记录，都不能表示蜂群产蜜；refuse 语义相反。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "sixty kilograms of honey"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "profit"
+                },
+                {
+                  "key": "B",
+                  "text": "story"
+                },
+                {
+                  "key": "C",
+                  "text": "damage"
+                },
+                {
+                  "key": "D",
+                  "text": "sign"
+                }
+              ],
+              "answer": "B",
+              "analysis": "tell a more complicated story 是固定表达，意为「讲述一个更复杂的故事」，下文随即给出生态学家的不同看法（城市蜂群挤占野生蜂的食源、蜂蜜含微量重金属）。profit、damage、sign 都不能作 tell 的宾语表达这一含义。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "not the wild bumblebees and solitary bees"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "refuse"
+                },
+                {
+                  "key": "B",
+                  "text": "count"
+                },
+                {
+                  "key": "C",
+                  "text": "record"
+                },
+                {
+                  "key": "D",
+                  "text": "exhaust"
+                }
+              ],
+              "answer": "D",
+              "analysis": "leaving less for everything else 说明四十箱蜂把飞行范围内的花蜜「用尽」，exhaust the flowers 即耗尽花蜜资源。count、record 只是记录数量，不会造成「别的昆虫分得更少」的结果。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "leaving less for everything else"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "recorded"
+                },
+                {
+                  "key": "B",
+                  "text": "delayed"
+                },
+                {
+                  "key": "C",
+                  "text": "detected"
+                },
+                {
+                  "key": "D",
+                  "text": "measured"
+                }
+              ],
+              "answer": "C",
+              "analysis": "have ______ traces of lead and other metals in honey 指研究在蜂蜜中「检出」微量铅等金属，detect traces of 是常见搭配。record 侧重记录，count 是计数，refuse 语义相反，三者都无法与 traces of 构成「检出污染物」之意。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "traces of lead and other metals"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "profit"
+                },
+                {
+                  "key": "B",
+                  "text": "answer"
+                },
+                {
+                  "key": "C",
+                  "text": "damage"
+                },
+                {
+                  "key": "D",
+                  "text": "story"
+                }
+              ],
+              "answer": "B",
+              "analysis": "后文给出解决办法——要求养蜂人登记、限制每平方公里蜂箱数，故 The answer is not to ban the hives but to count them（对策不是禁止而是统计）。profit、damage 与前后的措施无逻辑关系。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "limit the number of hives per square kilometre"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "refuse"
+                },
+                {
+                  "key": "B",
+                  "text": "count"
+                },
+                {
+                  "key": "C",
+                  "text": "require"
+                },
+                {
+                  "key": "D",
+                  "text": "record"
+                }
+              ],
+              "answer": "C",
+              "analysis": "Several cities now ______ beekeepers to register 意为几座城市现在「要求」养蜂人登记，require sb to do sth 是固定结构。refuse 后接 to do 时主语应是人；count、record 不能接 beekeepers to register。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "beekeepers to register"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "refuse"
+                },
+                {
+                  "key": "B",
+                  "text": "count"
+                },
+                {
+                  "key": "C",
+                  "text": "record"
+                },
+                {
+                  "key": "D",
+                  "text": "accept"
+                }
+              ],
+              "answer": "D",
+              "analysis": "that 从句是养蜂人不太愿意承认的事实（满屋顶蜂箱意味着别的昆虫空间更小），have begun to accept that 表示「开始接受」。refuse 与「开始」的转变方向矛盾；count、record 后接 that 从句不成立。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "less room for the insects that were there first"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "profit"
+                },
+                {
+                  "key": "B",
+                  "text": "sign"
+                },
+                {
+                  "key": "C",
+                  "text": "damage"
+                },
+                {
+                  "key": "D",
+                  "text": "answer"
+                }
+              ],
+              "answer": "B",
+              "analysis": "a ______ of a healthy landscape, not a substitute for one 意为蜂蜜是健康景观的「标志」而非替代品，sign of 搭配自然，并与 substitute for 形成对照。profit、damage 与「健康景观」的评价色彩不符。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "not a substitute for one"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Host cities have always promised that the Games would leave something behind. For a long time the promise was vague, and the bill was not. Athens spent more than nine billion euros on the 2004 Olympics; a decade later a third of its venues were unused, and several had been fenced off. The weight of that debt became a warning to every city that followed."
+            },
+            {
+              "label": "B",
+              "text": "Rio de Janeiro tried to avoid the mistake by building fewer permanent structures. Its aquatics centre was designed to be taken apart and rebuilt elsewhere as two smaller pools, and the golf course was later opened to the public. Even so, parts of the Olympic park stood empty for years, and the city's finances collapsed under a combination of Games spending and a wider recession."
+            },
+            {
+              "label": "C",
+              "text": "London, in 2012, is often held up as the better model. The stadium was designed with a smaller permanent capacity so that a football club could take it over, the press centre became a technology hub, and the athletes' village turned into flats. The park itself was planned as a new district rather than a temporary stage, with housing, schools and a railway line added afterwards."
+            },
+            {
+              "label": "D",
+              "text": "The most useful rule may be the least glamorous one: build temporary structures wherever a permanent one is not needed. London's basketball arena, the largest temporary venue ever built for a Games, was taken down after 2012 and its parts were reused at other events. Seats, roofs and lighting can be rented rather than owned, which turns a construction bill into a rental fee."
+            },
+            {
+              "label": "E",
+              "text": "Winter hosts have taken a different route. Beijing's 2022 Games reused four venues from 2008, including the Water Cube, which became a curling hall; Sochi built a cluster of arenas within walking distance of the village. Reuse avoids the most expensive item in any Games budget, which is not the stadium itself but the transport and housing built around it."
+            },
+            {
+              "label": "F",
+              "text": "Public opinion has changed too. Hamburg withdrew its bid for 2024 after a referendum, Calgary's voters rejected a bid for 2026, and several European cities abandoned their plans when the costs rose. The International Olympic Committee responded by changing its rules, encouraging hosts to use existing venues and even to hold events in neighbouring cities."
+            },
+            {
+              "label": "G",
+              "text": "The lesson is not that the Games cannot be justified. It is that the justification has to be written down before construction begins: which building will be used by whom, in which year, and at what rent. Cities that answer those questions early tend to end up with a park; those that answer them afterwards tend to end up with photographs of empty seats."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "One host city was left with many unused venues and a heavy debt.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段：雅典 2004 年奥运会花了九十多亿欧元，十年后三分之一的场馆闲置、部分被围起，债务成为后来城市的警示。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "a third of its venues were unused"
+            },
+            {
+              "number": 37,
+              "stem": "One city designed some venues so that they could be taken apart and used again elsewhere.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段：里约的水上中心被设计成可以拆开、在别处重建成两个较小的泳池，以减少永久建筑。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "designed to be taken apart and rebuilt elsewhere"
+            },
+            {
+              "number": 38,
+              "stem": "Treating the site as a new urban district, not just a stage for sport, made one Games more successful.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：伦敦把奥运公园规划成一个新城区而不是临时舞台，赛后加上住宅、学校和铁路。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "planned as a new district rather than a temporary stage"
+            },
+            {
+              "number": 39,
+              "stem": "Renting equipment can replace buying it and turn a capital cost into a smaller one.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "D 段末：座椅、屋顶和照明可以租而不必买，把一笔建设费用变成租金。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "turns a construction bill into a rental fee"
+            },
+            {
+              "number": 40,
+              "stem": "Using venues that already exist also avoids spending on transport and housing.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：重复利用避开的是奥运预算中最贵的一项——不是体育场本身，而是围绕它修建的交通与住房。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "not the stadium itself but the transport and housing"
+            },
+            {
+              "number": 41,
+              "stem": "In several cities, voters stopped a bid before any building work started.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "analysis": "F 段：汉堡公投后退出 2024 年申办，卡尔加里选民否决 2026 年申办，多个欧洲城市因成本上升放弃计划。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "Hamburg withdrew its bid for 2024 after a referendum"
+            },
+            {
+              "number": 42,
+              "stem": "The governing body of the Games now asks host cities to rely on buildings that already exist.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "G",
+              "analysis": "F 段后半：国际奥委会修改规则，鼓励主办方使用现有场馆，甚至可在邻国城市办赛。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "encouraging hosts to use existing venues"
+            },
+            {
+              "number": 43,
+              "stem": "The biggest temporary sports building ever made for the Games was removed and its parts used again.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：伦敦篮球馆是有史以来最大的临时场馆，2012 年后被拆除，部件在其他赛事中再次使用。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "the largest temporary venue ever built"
+            },
+            {
+              "number": 44,
+              "stem": "The essential task is to decide in advance who will occupy each building.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph B"
+                }
+              ],
+              "answer": "C",
+              "analysis": "G 段：必须在动工前写清楚哪栋楼将由谁使用、哪一年用、租金多少；早回答的城市得到公园，晚回答的只剩空座照片。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "which building will be used by whom"
+            },
+            {
+              "number": 45,
+              "stem": "Careful planning could not protect one host city from a broader economic decline.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：里约虽然少建永久场馆，但奥运公园部分区域仍空置多年，城市财政在赛事支出与更大范围经济衰退的双重压力下崩溃。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "a wider recession"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The Kubuqi desert in Inner Mongolia is one of the sources of the dust storms that reach Beijing every spring. Fifty years ago it was expanding by hundreds of square kilometres a year, swallowing grassland, roads and the occasional village. Today satellite images show the opposite: a green band crossed by a highway that no longer has to be cleared of sand after every strong wind."
+            },
+            {
+              "label": "B",
+              "text": "The change began in 1988, when a local salt company agreed to fund tree planting in exchange for rights to the land. The arrangement was unusual at the time: instead of a government campaign that paid farmers to plant and then withdrew, the company hired local people, paid them by the hectare and shared the profits from whatever grew. More than 6,000 square kilometres have been treated since."
+            },
+            {
+              "label": "C",
+              "text": "The techniques are low-technology and repetitive. Workers push wheat straw into the sand in a grid of one-metre squares, which stops the surface from moving; then they plant drought-tolerant shrubs inside the squares. Where groundwater is close, they grow liquorice, whose roots fix nitrogen and whose stems can be sold. On newer sites, solar panels are raised above the shrubs, so that the same land produces electricity and shade."
+            },
+            {
+              "label": "D",
+              "text": "Money matters as much as method. A farmer who plants and maintains a hectare earns a fee, and the harvest of liquorice or the rent from a solar farm adds a second income. Because the trees and shrubs belong to whoever maintains them, there is an interest in keeping them alive long after the project photographs have been taken. Researchers who have studied the area argue that this is the difference between a plantation and a landscape that lasts."
+            },
+            {
+              "label": "E",
+              "text": "Not all the claims stand up. Some ecologists warn that dense planting can lower the water table, and that the green band looks healthier from a satellite than it does on the ground, where a single species may dominate. The companies involved have been accused of exaggerating the area restored. Even critics, however, accept that the direction has changed, and that paying local people for a result is more durable than a campaign that ends when the funding does."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the first paragraph suggest about Kubuqi?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Dust storms no longer reach Beijing."
+                },
+                {
+                  "key": "B",
+                  "text": "The spread of the desert has been halted or reversed."
+                },
+                {
+                  "key": "C",
+                  "text": "The highway has been moved away from the sand."
+                },
+                {
+                  "key": "D",
+                  "text": "The area is now used mainly for farming."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段用对比：五十年前沙漠每年扩张数百平方公里，如今卫星图显示相反景象——一条绿色带，公路不必每次大风后清沙，说明扩张已被遏制甚至逆转。「沙尘暴不再到达北京」文中无据，只说库布其是沙尘来源之一；「公路已迁离沙地」与「公路不再需要清沙」相反；「如今主要用于农业」也未提及。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "satellite images show the opposite"
+            },
+            {
+              "number": 47,
+              "stem": "What was unusual about the 1988 arrangement?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The government paid farmers directly."
+                },
+                {
+                  "key": "B",
+                  "text": "Foreign experts directed the work."
+                },
+                {
+                  "key": "C",
+                  "text": "Only native trees were planted."
+                },
+                {
+                  "key": "D",
+                  "text": "A company funded the planting and shared the profits."
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段：一家本地盐业公司出资种树以换取土地使用权，雇当地人、按公顷付钱、并分享收益，这与当时「政府发动、付钱后撤走」的做法不同。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "fund tree planting in exchange for rights to the land"
+            },
+            {
+              "number": 48,
+              "stem": "Why is wheat straw pushed into the sand?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To hold the surface in place."
+                },
+                {
+                  "key": "B",
+                  "text": "To store water for the shrubs."
+                },
+                {
+                  "key": "C",
+                  "text": "To provide nitrogen for the soil."
+                },
+                {
+                  "key": "D",
+                  "text": "To mark the boundaries of each field."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：把麦草插进沙里形成一米见方的格子，which stops the surface from moving，即固定流沙；固氮是甘草根系的作用，不是麦草。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "stops the surface from moving"
+            },
+            {
+              "number": 49,
+              "stem": "Why does ownership matter in this project?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It allows the company to sell the land later."
+                },
+                {
+                  "key": "B",
+                  "text": "It prevents farmers from moving to cities."
+                },
+                {
+                  "key": "C",
+                  "text": "It gives people a reason to keep the plants alive."
+                },
+                {
+                  "key": "D",
+                  "text": "It reduces the cost of solar panels."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段：树木归维护者所有，因此「在拍完宣传照很久之后」仍有人愿意让它们活下去，作者认为这正是「种植园」与「能持续生长的景观」的区别。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "there is an interest in keeping them alive"
+            },
+            {
+              "number": 50,
+              "stem": "What do even the critics accept?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The area restored has been understated."
+                },
+                {
+                  "key": "B",
+                  "text": "The trend has turned and paying for results works better."
+                },
+                {
+                  "key": "C",
+                  "text": "Dense planting has no effect on groundwater."
+                },
+                {
+                  "key": "D",
+                  "text": "A single species is the best choice for the desert."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段末：批评者虽指出耗水、单一物种、夸大面积等问题，但承认方向已变，且「为结果付钱给当地人」比资金一断就停的运动更持久。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "Even critics, however, accept that the direction has changed"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "An open-admission shelter cannot say no. About six million dogs and cats enter American shelters in a year, and the municipal ones that must take every animal brought to their door are the first to run out of space. The number killed for want of a home has fallen from some fourteen million a year in the 1970s to under a million, but the improvement has largely stalled since about 2015."
+            },
+            {
+              "label": "B",
+              "text": "The campaign to persuade people to adopt rather than buy has changed advertising more than behaviour. Adoption is now the majority route to a dog in several countries, yet demand for particular breeds, and for puppies small enough to carry, keeps a commercial trade alive. Shelters are left with the animals hardest to place: the old, the large, and those whose history nobody knows."
+            },
+            {
+              "label": "C",
+              "text": "Trap-neuter-return is the policy most cities have settled on for free-roaming cats. Animals are caught, sterilised, vaccinated and returned where they were found, on the argument that removing them merely opens the territory to the next arrivals. Colonies managed this way do shrink, slowly, and the method costs a fraction of kennelling; whether it lowers numbers across a whole city is far less certain."
+            },
+            {
+              "label": "D",
+              "text": "Money is the binding constraint. A municipal contract normally pays for impounding and kennelling, not for veterinary treatment, so shelters live on donations and on volunteers who foster animals in their own homes. The arrangement is efficient and fragile at once: it works while the volunteers are there, and it fails when a few of them, having taken in one animal too many, stop answering the phone."
+            },
+            {
+              "label": "E",
+              "text": "The public-health case cuts both ways. Shelters are where rabies vaccination is delivered cheaply and where bites are recorded, so a city without one does not have fewer strays, only fewer records. Set against that, free-roaming cats are estimated to kill between one and four billion birds a year in the United States alone, a number wildlife biologists treat as a conservation problem rather than a welfare one."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the passage say about the decline in the number of shelter animals killed?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has continued at an accelerating rate."
+                },
+                {
+                  "key": "B",
+                  "text": "It was reversed after the 1970s."
+                },
+                {
+                  "key": "C",
+                  "text": "It has largely stopped making progress since about 2015."
+                },
+                {
+                  "key": "D",
+                  "text": "It reflects a steady fall in the number of animals entering shelters."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段末句 but the improvement has largely stalled since about 2015，即自 2015 年前后基本停滞，与 C 对应。A 项\"加速\"与 stalled 相反；B 项把 1970 年代的一千四百万说成\"被逆转\"，与原文\"从一千四百万降到不足一百万\"矛盾；D 项原文未说入笼数量下降，反而给出每年约六百万进入。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the improvement has largely stalled since about 2015"
+            },
+            {
+              "number": 52,
+              "stem": "Why has the campaign in favour of adoption had a limited effect?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Shelters refuse to take animals of unknown origin."
+                },
+                {
+                  "key": "B",
+                  "text": "Demand for particular breeds keeps commercial breeding profitable."
+                },
+                {
+                  "key": "C",
+                  "text": "Adoption has proved more expensive than buying a puppy."
+                },
+                {
+                  "key": "D",
+                  "text": "Most countries still lack any shelter system."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段说领养宣传\"改变的更多是广告而非行为\"，因为对特定品种和小型幼犬的需求让商业繁殖链条存活，对应 B。A 项与原文相反——收容所收的正是来历不明、老弱体大的动物；C 项原文未比较价格；D 项原文说若干国家领养已是主要途径。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "demand for particular breeds, and for puppies small enough to carry, keeps a commercial trade alive"
+            },
+            {
+              "number": 53,
+              "stem": "How does the author assess trap-neuter-return?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is cheap but unnecessarily cruel to the animals."
+                },
+                {
+                  "key": "B",
+                  "text": "It has been abandoned by most municipal authorities."
+                },
+                {
+                  "key": "C",
+                  "text": "It has been shown to empty a city of free-roaming cats."
+                },
+                {
+                  "key": "D",
+                  "text": "It works on individual colonies but is unproven at city scale."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段 Colonies managed this way do shrink, slowly ... whether it lowers numbers across a whole city is far less certain：对单个猫群有效且成本低，但对全市总量是否有效并不确定，D 是准确的概括。A 项\"残酷\"原文未提；B 项与 most cities have settled on 相反；C 项把\"不确定\"说成\"已被证明清空\"。",
+              "type": "推理题",
+              "evidencePara": "C",
+              "evidenceText": "whether it lowers numbers across a whole city is far less certain"
+            },
+            {
+              "number": 54,
+              "stem": "Why is the foster system described as efficient yet fragile?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It relies on volunteers who may simply stop taking animals."
+                },
+                {
+                  "key": "B",
+                  "text": "It costs councils more than kennelling does."
+                },
+                {
+                  "key": "C",
+                  "text": "It removes animals from the shelter before they are vaccinated."
+                },
+                {
+                  "key": "D",
+                  "text": "It cannot be used for old or large animals."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段说这套办法\"在志愿者还在时运转，在几位志愿者收得太多、不再接电话时崩掉\"，脆弱性来自对志愿者的依赖，A 正确。B 项与\"市政合同只付收容不付医疗\"的省钱逻辑相反；C、D 项原文均未提及。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "it works while the volunteers are there, and it fails when a few of them, having taken in one animal too many, stop answering the phone"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's attitude towards the public-health argument for shelters?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is exaggerated and unsupported by any evidence."
+                },
+                {
+                  "key": "B",
+                  "text": "It is irrelevant to the question of how strays should be managed."
+                },
+                {
+                  "key": "C",
+                  "text": "It is genuine, but it does not answer the objection from wildlife."
+                },
+                {
+                  "key": "D",
+                  "text": "It outweighs all concerns about the damage done by cats."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段先承认收容所在狂犬病疫苗接种与咬伤记录上的公共价值（The public-health case cuts both ways 之后先讲其正面），随即用 Set against that 引出流浪猫每年杀死十亿至四十亿只鸟的保育问题，态度是\"承认但不因此终结争论\"，C 最贴近。A 项否定证据，与\"疫苗便宜、咬伤有记录\"矛盾；B、D 项分别低估与高估了该论据。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "a number wildlife biologists treat as a conservation problem rather than a welfare one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "请将下面一段话译成英语：\n\n过去十年，中国的快递网络从城市扩展到乡村。如今，全国绝大多数的乡镇都设有快递服务点，许多村庄可以在几天内收到网购的商品。快递进村不仅让农民买到了更便宜的家电和衣服，也让当地的苹果、茶叶和手工艺品卖到了全国各地。一些年轻人因此回到家乡，开起了网店。不过，配送成本高、道路条件差，仍然是偏远地区面临的主要困难。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nOver the past decade, China's parcel delivery network has expanded from cities into the countryside. Today, delivery points have been set up in the great majority of townships across the country, and many villages can receive goods ordered online within a few days. Delivery services reaching villages have not only allowed farmers to buy cheaper household appliances and clothes, but also enabled local apples, tea and handicrafts to be sold all over the country. As a result, some young people have returned to their home towns and opened online shops. However, high delivery costs and poor roads remain the main difficulties faced by remote areas. In some counties, several companies now share a single warehouse and a single van, which keeps costs down and reduces the number of half-empty trucks on the road.\n\n【要点】①「过去十年」用 Over the past decade，句子取现在完成时；②「绝大多数乡镇」用 the great majority of townships，注意 township 与 village 的层级区别；③「快递进村」译成 delivery services reaching villages 作主语，避免直译；④「不仅……也……」用 not only... but also...，两个分句保持 allow sb to do 与 enable sth to be done 的平行；⑤「一些年轻人因此回到家乡」用 As a result 承接因果；⑥「面临的主要困难」用 remain the main difficulties faced by，remain 后接名词作表语。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1097 @@
+{
+  "id": "cet6-2024-06-s2",
+  "level": "CET6",
+  "year": 2024,
+  "month": 6,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether cities should restrict the use of private cars. You should discuss both the case for restriction and the objection to it. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nShould Cities Restrain the Private Car?\n\nThe case for restraint is usually argued in the language of emissions, which is a mistake, because a driver can reply by buying an electric car. The stronger case is about space. A lane of asphalt carries roughly two thousand cars an hour, or ten thousand people in buses; a parking space holds one car for a day and a shop's customers for minutes. Cities that price that space honestly - London, Stockholm, Singapore - have found that traffic falls.\n\nThe objection is fairness. A charge on driving is regressive unless the revenue returns to those who have no alternative: the shift worker, the carer, the parent with three children and no bus after eight. London's congestion charge was accepted partly because the buses it funded visibly improved. Where the money vanished into a general budget, the policy was resented and, in several cities, reversed.\n\nThe question, then, is not whether to restrain cars but in what order. Build the alternative, price the scarce space, recycle the revenue. Do it in that sequence and the policy survives; reverse it and it becomes a tax on the poor dressed as environmentalism.\n\n（约 196 词）\n\n【思路】①不按「减排」立论，而改用「空间」这一更硬的论据，并用车道通行量与停车位时长的数字支撑；②第二段正面处理公平性质疑，以伦敦拥堵费与公交改善的绑定说明收入用途决定政策成败；③结尾把问题转为「顺序」：先建替代、再定价、再返还收入。全文避免 should 堆砌，靠 The case for ... The objection is ... The question, then, is ... 推进层次。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When a national park is fenced, the animals inside it are protected and the people outside it absorb the cost. Elephants raid maize the night before harvest; lions take cattle from an enclosure; a single bad night can 26______ the income of a whole year. Conservation organisations once treated such losses as an 27______ cost of doing business, a price paid by people who had no part in the 28______ that created the park in the first place."
+            },
+            {
+              "label": "B",
+              "text": "Community conservancies changed the arithmetic. In Namibia, land is 29______ by a local body that earns money from tourism and from hunting quotas and pays out when livestock are killed. The 30______ is conditional: households must report losses, and the payment covers a share rather than the whole animal. Studies of these schemes report modest but real 31______ - fewer retaliatory killings, and, more surprisingly, greater tolerance of predators even in districts where compensation arrives late."
+            },
+            {
+              "label": "C",
+              "text": "None of this 32______ the underlying conflict. A conservancy works only where tourism revenue is large enough to 33______ the losses, which excludes the drylands where herders and wildlife compete hardest. Nor is money a 34______ for land: a payment for a dead cow does not restore the grazing that the herd has lost, and the herd is usually the household's savings account. The honest conclusion is 35______: community-based conservation does not end the conflict between people and animals, but it moves the cost to those best able to carry it, which is the least that justice requires."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "absorb"
+                },
+                {
+                  "key": "B",
+                  "text": "settle"
+                },
+                {
+                  "key": "C",
+                  "text": "erase"
+                },
+                {
+                  "key": "D",
+                  "text": "justify"
+                }
+              ],
+              "answer": "C",
+              "analysis": "erase 在此表示「一笔勾销」：一夜之间就能抹去全家一年的收入；比 spend 更强调损失不可追回，与后文 savings account 的比喻呼应。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a single bad night"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "avoidable"
+                },
+                {
+                  "key": "B",
+                  "text": "unavoidable"
+                },
+                {
+                  "key": "C",
+                  "text": "modest"
+                },
+                {
+                  "key": "D",
+                  "text": "obvious"
+                }
+              ],
+              "answer": "B",
+              "analysis": "an unavoidable cost of doing business 意为「做这门生意无法回避的成本」；后文 a price paid by people who had no part in ... 正是对这种成本转嫁的解释。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a price paid by people who had no part in"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "decline"
+                },
+                {
+                  "key": "B",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "C",
+                  "text": "dispute"
+                },
+                {
+                  "key": "D",
+                  "text": "decision"
+                }
+              ],
+              "answer": "D",
+              "analysis": "the decision that created the park 指设立公园的那个决定；have no part in 后需接名词，说明当地人在决策中没有发言权。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "had no part in"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "governed"
+                },
+                {
+                  "key": "B",
+                  "text": "absorb"
+                },
+                {
+                  "key": "C",
+                  "text": "justify"
+                },
+                {
+                  "key": "D",
+                  "text": "decline"
+                }
+              ],
+              "answer": "A",
+              "analysis": "land is governed by a local body 土地由地方机构管理；被动语态加 by，与后面 earns money from tourism 的主语一致。",
+              "type": "搭配题",
+              "evidencePara": "B",
+              "evidenceText": "by a local body that earns money from tourism"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "decline"
+                },
+                {
+                  "key": "B",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "C",
+                  "text": "bargain"
+                },
+                {
+                  "key": "D",
+                  "text": "dispute"
+                }
+              ],
+              "answer": "C",
+              "analysis": "The bargain is conditional 这笔「交易」附有条件；bargain 含双方交换之意，恰指社区以容忍野生动物换取收益与补偿的安排。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "households must report losses"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "decline"
+                },
+                {
+                  "key": "B",
+                  "text": "dispute"
+                },
+                {
+                  "key": "C",
+                  "text": "promise"
+                },
+                {
+                  "key": "D",
+                  "text": "gains"
+                }
+              ],
+              "answer": "D",
+              "analysis": "modest but real gains 微小但真实的收益；破折号后 fewer retaliatory killings 即是对 gains 的具体说明，与 decline 形成反义干扰。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "fewer retaliatory killings"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "removes"
+                },
+                {
+                  "key": "B",
+                  "text": "justify"
+                },
+                {
+                  "key": "C",
+                  "text": "explain"
+                },
+                {
+                  "key": "D",
+                  "text": "absorb"
+                }
+              ],
+              "answer": "A",
+              "analysis": "None of this removes the underlying conflict 这些做法都不能消除根本冲突；remove 与 conflict 搭配，且与末句 does not resolve 前后照应，避免重复用词。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "the underlying conflict"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "B",
+                  "text": "cover"
+                },
+                {
+                  "key": "C",
+                  "text": "explain"
+                },
+                {
+                  "key": "D",
+                  "text": "predict"
+                }
+              ],
+              "answer": "B",
+              "analysis": "large enough to cover the losses 足以弥补损失；cover the cost / the loss 是固定搭配，指收入能够抵补支出。",
+              "type": "搭配题",
+              "evidencePara": "C",
+              "evidenceText": "large enough to ... the losses"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "luxury"
+                },
+                {
+                  "key": "B",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "C",
+                  "text": "remedy"
+                },
+                {
+                  "key": "D",
+                  "text": "substitute"
+                }
+              ],
+              "answer": "D",
+              "analysis": "a substitute for land 土地的替代品；substitute for 为固定搭配，冒号后「赔一头牛不能恢复失去的草场」正是解释为何不能替代。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "does not restore the grazing"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "obvious"
+                },
+                {
+                  "key": "B",
+                  "text": "modest"
+                },
+                {
+                  "key": "C",
+                  "text": "uncomfortable"
+                },
+                {
+                  "key": "D",
+                  "text": "fragile"
+                }
+              ],
+              "answer": "C",
+              "analysis": "The honest conclusion is uncomfortable 诚实的结论令人不安；冒号后的判断是「不能解决冲突、只能把代价转移给更能承受的一方」，显然不「显而易见」。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "moves the cost to those best able to carry it"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For thirty years the dominant idea in manufacturing was that inventory was waste. Components arrived hours before they were needed, suppliers were chosen on price, and a single plant could serve a continent. The model worked because it was measured on cost per unit, and by that measure nothing beats a chain with no slack in it."
+            },
+            {
+              "label": "B",
+              "text": "The pandemic exposed what the measure had left out. A fire at one factory, a blocked canal, a shortage of cardboard: each was trivial in itself, and each stopped production somewhere. Firms discovered that they did not know who their suppliers' suppliers were, because the information had never been worth collecting. Surveys in 2021 found that a majority of large manufacturers could not name the second-tier suppliers of their most critical components."
+            },
+            {
+              "label": "C",
+              "text": "The bullwhip explains why the shortages were so violent. When demand for a product rises by five per cent, retailers order ten, wholesalers order twenty, and the factory at the end of the chain sees a doubling. Panic buying adds to the swing. The chain amplifies shocks instead of absorbing them, which is why a modest shift in household spending produced empty shelves for a year."
+            },
+            {
+              "label": "D",
+              "text": "Concentration is the second mechanism. One Taiwanese firm makes most of the world's most advanced processor chips; a handful of plants in India and China make the active ingredients in common antibiotics. Efficiency rewards scale, and scale means fewer places to make a thing. The saving is real, and so is the exposure: one drought, one export ban, one earthquake."
+            },
+            {
+              "label": "E",
+              "text": "The fashionable answer is to bring production home. On its own it is a poor answer. Reshoring a mature industry usually raises costs, and a country that makes everything badly is not more secure than one that buys well. Analyses by the OECD draw a distinction between resilience and self-sufficiency: what matters is the capacity to substitute, not the nationality of the last delivery."
+            },
+            {
+              "label": "F",
+              "text": "What actually helps is unglamorous. Buying from two suppliers costs a few per cent and removes a single point of failure. Holding strategic stock looks wasteful until the week it is needed. Mapping a chain to the second and third tier is dull work that no shareholder rewards. None of this makes a headline, and all of it is cheaper than the alternative."
+            },
+            {
+              "label": "G",
+              "text": "The deeper lesson concerns measurement. A supply chain optimised for cost alone will always converge on the fragile design, because fragility is the price of leanness and the price is paid by someone else, later, often in another country. Resilience is therefore less an engineering problem than an accounting one: it appears only when the cost of failure is entered in the same ledger as the cost of inventory."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "For a generation, holding stock was read as a sign of inefficiency.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段首句：三十年间制造业的主流观念是「库存即浪费」，零部件要到需要前几小时才到。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "inventory was waste"
+            },
+            {
+              "number": 37,
+              "stem": "Firms often did not know who supplied their suppliers.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：企业发现自己并不清楚供应商的供应商是谁，因为这类信息过去从不值得收集。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "they did not know who their suppliers' suppliers were"
+            },
+            {
+              "number": 38,
+              "stem": "Small movements in consumer demand are amplified into large movements in orders.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段的牛鞭效应：需求涨 5%，零售商订 10%，批发商订 20%，链条末端的工厂看到的是翻倍。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "demand rises by five per cent, retailers order ten"
+            },
+            {
+              "number": 39,
+              "stem": "Production of some essential inputs is confined to very few sites.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：最先进处理器芯片由台湾一家企业生产，常见抗生素的有效成分集中在印度和中国的少数工厂。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "a handful of plants in India and China"
+            },
+            {
+              "number": 40,
+              "stem": "Producing everything at home is not the same thing as being secure.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：把成熟产业迁回本国通常抬升成本，什么都在国内做但做得很差，并不比善于采购更安全。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "a country that makes everything badly is not more secure"
+            },
+            {
+              "number": 41,
+              "stem": "Buying from two sources removes a single point of failure at a small price.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：双源采购只贵几个百分点，却消除了单点失效。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "costs a few per cent and removes a single point of failure"
+            },
+            {
+              "number": 42,
+              "stem": "Failure costs must be counted alongside holding costs before resilience is managed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：韧性不是工程问题而是会计问题——只有当失效成本与库存成本记在同一本账上，韧性才会被管理。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "the cost of failure is entered in the same ledger as the cost of inventory"
+            },
+            {
+              "number": 43,
+              "stem": "A narrow measure of efficiency produced a system no one would have chosen deliberately.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：因为只按单位成本衡量，所以必然选中最无缓冲的链条；这种设计是度量方式的产物，而非有人有意选择。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "measured on cost per unit, and by that measure nothing beats a chain with no slack"
+            },
+            {
+              "number": 44,
+              "stem": "Ignorance of one's own supply network was general, not exceptional.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：2021 年调查显示，多数大型制造商说不出最关键部件的二级供应商——可见无知是普遍现象。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "a majority of large manufacturers could not name"
+            },
+            {
+              "number": 45,
+              "stem": "The difficulty lies in accounting rather than in engineering.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段末句原话：韧性「与其说是工程问题，不如说是会计问题」。",
+              "type": "态度题",
+              "evidencePara": "G",
+              "evidenceText": "less an engineering problem than an accounting one"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Between 2012 and 2015 the share of American adolescents reporting that they felt persistently sad or hopeless rose sharply, and the rate of self-harm recorded in emergency departments rose with it. The timing is striking because it coincides with the years in which the smartphone became almost universal among teenagers. That correlation is the strongest single piece of evidence in a dispute which has now run for a decade."
+            },
+            {
+              "label": "B",
+              "text": "The dispute is about magnitude. One influential analysis tested tens of thousands of combinations of measures and found that the association between screen time and wellbeing was negative but tiny - smaller than the association with eating potatoes or wearing glasses. On that reading, phones are a symptom of adolescent difficulty rather than a cause, and the panic says more about adults than about children."
+            },
+            {
+              "label": "C",
+              "text": "Averages, however, can hide the thing that matters. If a small minority is badly affected while most are not, the average effect will be near zero and the harm will be entirely real. Studies that separate heavy users from light ones find effects several times larger at the top of the distribution, and girls, who spend more time on image-based platforms, are consistently more affected than boys."
+            },
+            {
+              "label": "D",
+              "text": "The strongest designs look for an accident of timing. When Facebook reached a campus, the date was set by the company's rollout schedule rather than by anything about the students. Comparing campuses that had it with those that did not, one study found a rise in poor mental health of about a tenth of a standard deviation, concentrated among those who used the site most. The effect is not catastrophic; in a population of millions it is not small either."
+            },
+            {
+              "label": "E",
+              "text": "What follows for policy is less than campaigners want and more than the platforms admit. A ban removes the possibility of harm without teaching anyone to manage it, and adolescents have always found ways around rules written for them. The promising measures are dull: no notifications at night by default, no infinite scroll for minors, and an obligation on platforms to publish what their own experiments found. None of these requires a theory of what phones do to the brain; they require only that the default setting not be the one that maximises use."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does Paragraph A suggest about the timing of the trend?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It proves that phones caused the rise in distress."
+                },
+                {
+                  "key": "B",
+                  "text": "It invites a causal reading that the evidence cannot establish."
+                },
+                {
+                  "key": "C",
+                  "text": "It shows that the trend began earlier than assumed."
+                },
+                {
+                  "key": "D",
+                  "text": "It has been ignored by researchers for a decade."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段只说时间「吻合」，并称之为这场争论中最有力的一项相关证据；作者用 correlation 一词而非 cause，正提示不能据此断定因果。A 项过度断言。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "That correlation is the strongest single piece of evidence"
+            },
+            {
+              "number": 47,
+              "stem": "The comparison with potatoes and glasses is intended to show that",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "diet is a more serious risk than screen time."
+                },
+                {
+                  "key": "B",
+                  "text": "the measured association is negligible in size."
+                },
+                {
+                  "key": "C",
+                  "text": "wellbeing cannot be measured statistically."
+                },
+                {
+                  "key": "D",
+                  "text": "adolescents eat poorly and need glasses."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：屏幕时间与幸福感的关联为负但极小，「比吃土豆或戴眼镜的关联还小」，是用比较说明效应量微不足道。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "negative but tiny - smaller than the association with eating potatoes"
+            },
+            {
+              "number": 48,
+              "stem": "What weakness does Paragraph C identify in the argument from averages?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Averaging conceals harm concentrated in a small group."
+                },
+                {
+                  "key": "B",
+                  "text": "Averages are impossible to calculate for teenagers."
+                },
+                {
+                  "key": "C",
+                  "text": "Boys are studied far more often than girls."
+                },
+                {
+                  "key": "D",
+                  "text": "Heavy users are too few to be sampled."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：若少数人受严重影响而多数人不受影响，平均效应会接近零，而伤害完全真实；作者因此要求把重度使用者单独看。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the average effect will be near zero and the harm will be entirely real"
+            },
+            {
+              "number": 49,
+              "stem": "Why is the campus rollout study considered stronger evidence?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It used a much larger sample of students."
+                },
+                {
+                  "key": "B",
+                  "text": "The timing of exposure was fixed by outside decisions."
+                },
+                {
+                  "key": "C",
+                  "text": "It measured wellbeing with clinical interviews."
+                },
+                {
+                  "key": "D",
+                  "text": "It compared students of different ages."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：某校何时开通 Facebook 由公司推广日程决定，与学生自身特征无关，近似自然实验，因此比横断面相关更能支持因果推断。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "set by the company's rollout schedule rather than by anything about the students"
+            },
+            {
+              "number": 50,
+              "stem": "The author regards a ban as",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "the only measure the evidence supports."
+                },
+                {
+                  "key": "B",
+                  "text": "effective because adolescents obey clear rules."
+                },
+                {
+                  "key": "C",
+                  "text": "a removal of exposure that leaves the underlying skill untaught."
+                },
+                {
+                  "key": "D",
+                  "text": "a concession to platform lobbying."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：禁令消除了受害的可能，却不教任何人如何应对，而青少年总会绕过为他们写的规则；作者随后提出「默认设置」式的枯燥措施，说明禁令不充分但并未被全盘否定。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "removes the possibility of harm without teaching anyone to manage it"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Few education policies command as much public agreement as the school phone ban, and few rest on such thin evidence. Until recently the argument was conducted almost entirely through anecdote: the teacher who counted the phones collected at the start of a lesson, the parent who could no longer reach a child at lunchtime."
+            },
+            {
+              "label": "B",
+              "text": "The evidence has improved. In England, schools that imposed bans before 2011 saw test scores rise by the equivalent of about a week of extra instruction, with the largest gains among the lowest-attaining pupils and almost none among the highest. In Norway, a national study found that a ban reduced visits to general practitioners for psychological symptoms among girls, and that the effect grew over the three years observed."
+            },
+            {
+              "label": "C",
+              "text": "The mechanism is not simply distraction. A phone in a pocket changes what a pupil is thinking about even when it is not used, and it changes the social world of the corridor: the photograph taken at lunch, the group chat that decides who is included. Removing the device addresses the second of these only indirectly, by taking away the instrument while leaving the hierarchy intact."
+            },
+            {
+              "label": "D",
+              "text": "There are costs that the studies do not capture. A phone is a lifeline for a child with a medical condition, a translation tool for a newly arrived pupil, and a safety device on a difficult journey home. Schools that have banned outright have had to write exemptions, and exemptions are exactly the sort of discretion that gets applied unevenly - to the child whose parents complain, and not to the child whose parents do not."
+            },
+            {
+              "label": "E",
+              "text": "The most defensible policy is therefore narrower than a ban and harder than one. Phones out of sight during lessons, no use in corridors, and a clear undertaking that the school will not communicate with families through a channel that requires a device. That is a smaller claim than the campaigners make. It is also the only version a school can enforce without pretending that the technology has gone away."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the author say about the debate in Paragraph A?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has been settled by a large body of research."
+                },
+                {
+                  "key": "B",
+                  "text": "It rested largely on individual stories."
+                },
+                {
+                  "key": "C",
+                  "text": "It was conducted mainly by technology firms."
+                },
+                {
+                  "key": "D",
+                  "text": "It concerned primary schools only."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：这一议题公众共识极强，证据却极薄，论争几乎全靠轶事——教师数收上来的手机、家长中午联系不上孩子。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "conducted almost entirely through anecdote"
+            },
+            {
+              "number": 52,
+              "stem": "The English and Norwegian studies both suggest that",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "bans help some groups considerably more than others."
+                },
+                {
+                  "key": "B",
+                  "text": "bans raise attainment equally across the ability range."
+                },
+                {
+                  "key": "C",
+                  "text": "the benefits disappear after one year."
+                },
+                {
+                  "key": "D",
+                  "text": "test scores are the only reliable measure."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：英格兰的研究中，成绩提升最大的是基础最差的学生，最好的学生几乎无变化；挪威研究则发现对女生的心理就诊影响更大且逐年增强。共同点是效应分布不均。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "the largest gains among the lowest-attaining pupils"
+            },
+            {
+              "number": 53,
+              "stem": "What does Paragraph C imply about removing phones from schools?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It eliminates distraction completely."
+                },
+                {
+                  "key": "B",
+                  "text": "It leaves the social order among pupils unchanged."
+                },
+                {
+                  "key": "C",
+                  "text": "It improves corridor behaviour immediately."
+                },
+                {
+                  "key": "D",
+                  "text": "It makes group chats impossible to sustain."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段末：拿走工具，却把等级关系原样留下（leaving the hierarchy intact），说明禁令只触及工具，未触及走廊里的社交秩序。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "taking away the instrument while leaving the hierarchy intact"
+            },
+            {
+              "number": 54,
+              "stem": "The word 'discretion' (Paragraph D) refers to",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "the freedom to decide who is exempt."
+                },
+                {
+                  "key": "B",
+                  "text": "the caution schools show in enforcing rules."
+                },
+                {
+                  "key": "C",
+                  "text": "the secrecy surrounding school records."
+                },
+                {
+                  "key": "D",
+                  "text": "the confidentiality of medical information."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：全面禁令必须写出例外条款，而例外正是那种「自由裁量权」——会偏向会投诉的家长，而不是不会投诉的家长。discretion 指决定谁可例外的裁量空间。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "applied unevenly - to the child whose parents complain"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's view of the policy he recommends?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is stricter than a ban and therefore harder to sell."
+                },
+                {
+                  "key": "B",
+                  "text": "It asks for less than campaigners do but is enforceable."
+                },
+                {
+                  "key": "C",
+                  "text": "It concedes too much to parents and platforms."
+                },
+                {
+                  "key": "D",
+                  "text": "It will become unnecessary once phones are redesigned."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：作者主张的政策「比禁令窄，却比禁令难」，随后说 That is a smaller claim than the campaigners make，并强调这是学校唯一能真正执行、又不必假装技术已消失的版本。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "narrower than a ban and harder than one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国高铁的运营里程已超过四万公里，占全球高铁总里程的三分之二以上。近年来，中国企业同多个国家合作建设高铁，把设计、施工、装备和运营经验一并带出去。雅万高铁是东南亚第一条高速铁路，把雅加达到万隆的旅行时间从三个多小时缩短到四十分钟左右。建设期间，项目培训了数千名当地技术人员。对中国来说，高铁出海不只是工程输出，也是标准与人才的输出；对合作国来说，考验在于长期运营与维护。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChina's high-speed rail network now extends over 40,000 kilometres, more than two-thirds of the world total. In recent years Chinese firms have built lines in partnership with a number of countries, taking design, construction, equipment and operating experience abroad together. The Jakarta-Bandung line, the first high-speed railway in South-East Asia, has cut the journey between the two cities from more than three hours to about forty minutes. During construction the project trained several thousand local technicians. For China, exporting high-speed rail is not merely a matter of selling engineering; it is also an export of standards and of trained people. For the partner countries, the real test lies in operating and maintaining the line long after the opening ceremony. The project has also become a showcase for a model that Chinese contractors hope to repeat elsewhere.\n\n【要点】①「运营里程」用 network extends over ... kilometres，避免 operating mileage 这类硬译；②「占……三分之二以上」用 more than two-thirds of the world total，独立成分补充说明；③「把……一并带出去」译 taking design, construction, equipment and operating experience abroad together，用分词结构衔接；④「雅万高铁」用通行译名 the Jakarta-Bandung line；⑤「高铁出海」不宜直译 going to sea，用 exporting high-speed rail；⑥「真正的考验在于……」用 the real test lies in doing，末句加 long after the opening ceremony 补足语义。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

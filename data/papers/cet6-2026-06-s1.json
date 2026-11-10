@@ -1,0 +1,1411 @@
+{
+  "id": "cet6-2026-06-s1",
+  "level": "CET6",
+  "year": 2026,
+  "month": 6,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "For this part, you are allowed 30 minutes to write an essay on the importance of changing one's mind when the evidence changes. You should write at least 150 words but no more than 200 words.",
+              "analysis": "【参考范文】\nThe Importance of Changing One's Mind\n\nWe admire people who hold to their principles and distrust those who shift with the wind. Yet there is a difference between consistency and stubbornness, and public argument would improve if more of us learned it.\n\nChanging one's mind when the evidence changes is not weakness; it is the discipline that makes expertise possible. A doctor who ignores a new trial because it contradicts ten years of practice is not being loyal to her patients. A manager who keeps a failing strategy because abandoning it would look like an error is protecting her reputation at the company's expense.\n\nThe difficulty is social. Admitting error is costly in a culture that treats a changed position as a confession, and the internet preserves every earlier sentence as evidence. The alternative, however, is worse: a debate in which nobody may ever concede becomes a contest of volume rather than a search for what is true.\n\nThe practical rule is modest. Say in advance what would change your mind; then, when it does, say so aloud. The person who can admit a mistake is not less credible than the one who never does—over time, such people are the only credible voices left.\n\n（约 195 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Economists have a name for the resource that modern media sells: attention. The term is 26______ in one respect—attention, unlike coal, cannot be mined and stored—and misleading in another, since the supply is not fixed. What the industry actually trades is the 27______ to interrupt. A platform that can predict when a user is most 28______ to pick up a phone can charge more for that moment than for the message it delivers. The consequences are easy to describe and hard to 29______. Content that holds people longest is not necessarily content that informs them; outrage is 30______ and therefore profitable. The same logic explains why a headline may be rewritten a dozen times before it is published: each version is shown to a small share of readers, and the one that keeps them longest is the one everybody else will see. Critics argue that the resulting 31______ between what is good for a reader and what is good for a platform cannot be resolved by personal discipline alone. The usual advice—delete the app, set a timer—treats a structural problem as a private 32______. Some users do 33______ their habits successfully, but the design of the environment has far more 34______ over behaviour than willpower does. It is easier to stop checking a phone at dinner when the phone is in another room than when it is in a pocket, and easier still when everyone at the table has agreed to the same rule. A more honest response would be to 35______ the business model rather than blame the user. That argument is uncomfortable for the platforms, and convenient for regulators who would rather not act; but it has the merit of naming the thing that actually needs to change, and of sparing individual users a guilt they did not earn. Whether such a reform is possible while advertising pays the bills is another question, and one that no timer on a phone can answer."
+            },
+            {
+              "label": "词库",
+              "text": "A) able   B) accurate   C) advantage   D) afraid   E) avoid   F) balance   G) change   H) conflict   I) contagious   J) failure   K) influence   L) likely   M) measure   N) reform   O) right"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "accurate"
+                },
+                {
+                  "key": "C",
+                  "text": "advantage"
+                },
+                {
+                  "key": "D",
+                  "text": "afraid"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "balance"
+                },
+                {
+                  "key": "G",
+                  "text": "change"
+                },
+                {
+                  "key": "H",
+                  "text": "conflict"
+                },
+                {
+                  "key": "I",
+                  "text": "contagious"
+                },
+                {
+                  "key": "J",
+                  "text": "failure"
+                },
+                {
+                  "key": "K",
+                  "text": "influence"
+                },
+                {
+                  "key": "L",
+                  "text": "likely"
+                },
+                {
+                  "key": "M",
+                  "text": "measure"
+                },
+                {
+                  "key": "N",
+                  "text": "reform"
+                },
+                {
+                  "key": "O",
+                  "text": "right"
+                }
+              ],
+              "answer": "B",
+              "analysis": "破折号解释「注意力不能像煤那样被开采储存」，说明这一说法在某个方面是「准确的」；后文 misleading 与之形成对照。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "in one respect ... and misleading in another"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "accurate"
+                },
+                {
+                  "key": "C",
+                  "text": "advantage"
+                },
+                {
+                  "key": "D",
+                  "text": "afraid"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "balance"
+                },
+                {
+                  "key": "G",
+                  "text": "change"
+                },
+                {
+                  "key": "H",
+                  "text": "conflict"
+                },
+                {
+                  "key": "I",
+                  "text": "contagious"
+                },
+                {
+                  "key": "J",
+                  "text": "failure"
+                },
+                {
+                  "key": "K",
+                  "text": "influence"
+                },
+                {
+                  "key": "L",
+                  "text": "likely"
+                },
+                {
+                  "key": "M",
+                  "text": "measure"
+                },
+                {
+                  "key": "N",
+                  "text": "reform"
+                },
+                {
+                  "key": "O",
+                  "text": "right"
+                }
+              ],
+              "answer": "O",
+              "analysis": "平台真正买卖的是「打断你的权利/机会」；后文说它能为某一时刻定价，说明这是一种可以出售的许可，the right to do sth。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "charge more for that moment"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "accurate"
+                },
+                {
+                  "key": "C",
+                  "text": "advantage"
+                },
+                {
+                  "key": "D",
+                  "text": "afraid"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "balance"
+                },
+                {
+                  "key": "G",
+                  "text": "change"
+                },
+                {
+                  "key": "H",
+                  "text": "conflict"
+                },
+                {
+                  "key": "I",
+                  "text": "contagious"
+                },
+                {
+                  "key": "J",
+                  "text": "failure"
+                },
+                {
+                  "key": "K",
+                  "text": "influence"
+                },
+                {
+                  "key": "L",
+                  "text": "likely"
+                },
+                {
+                  "key": "M",
+                  "text": "measure"
+                },
+                {
+                  "key": "N",
+                  "text": "reform"
+                },
+                {
+                  "key": "O",
+                  "text": "right"
+                }
+              ],
+              "answer": "L",
+              "analysis": "平台预测用户「最可能」拿起手机的时刻，be likely to do 表示可能性；这类时刻对广告主价值最高。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "predict when a user is most ... to pick up a phone"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "accurate"
+                },
+                {
+                  "key": "C",
+                  "text": "advantage"
+                },
+                {
+                  "key": "D",
+                  "text": "afraid"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "balance"
+                },
+                {
+                  "key": "G",
+                  "text": "change"
+                },
+                {
+                  "key": "H",
+                  "text": "conflict"
+                },
+                {
+                  "key": "I",
+                  "text": "contagious"
+                },
+                {
+                  "key": "J",
+                  "text": "failure"
+                },
+                {
+                  "key": "K",
+                  "text": "influence"
+                },
+                {
+                  "key": "L",
+                  "text": "likely"
+                },
+                {
+                  "key": "M",
+                  "text": "measure"
+                },
+                {
+                  "key": "N",
+                  "text": "reform"
+                },
+                {
+                  "key": "O",
+                  "text": "right"
+                }
+              ],
+              "answer": "M",
+              "analysis": "easy to describe and hard to… 是常见对照结构；后文说明「最吸引人的内容未必最有信息量」，这类后果难以「衡量」。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "holds people longest is not necessarily content that informs them"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "accurate"
+                },
+                {
+                  "key": "C",
+                  "text": "advantage"
+                },
+                {
+                  "key": "D",
+                  "text": "afraid"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "balance"
+                },
+                {
+                  "key": "G",
+                  "text": "change"
+                },
+                {
+                  "key": "H",
+                  "text": "conflict"
+                },
+                {
+                  "key": "I",
+                  "text": "contagious"
+                },
+                {
+                  "key": "J",
+                  "text": "failure"
+                },
+                {
+                  "key": "K",
+                  "text": "influence"
+                },
+                {
+                  "key": "L",
+                  "text": "likely"
+                },
+                {
+                  "key": "M",
+                  "text": "measure"
+                },
+                {
+                  "key": "N",
+                  "text": "reform"
+                },
+                {
+                  "key": "O",
+                  "text": "right"
+                }
+              ],
+              "answer": "I",
+              "analysis": "愤怒情绪「易传染」所以能带来流量与利润；and therefore profitable 表明前一词解释了盈利原因。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "outrage is ... and therefore profitable"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "accurate"
+                },
+                {
+                  "key": "C",
+                  "text": "advantage"
+                },
+                {
+                  "key": "D",
+                  "text": "afraid"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "balance"
+                },
+                {
+                  "key": "G",
+                  "text": "change"
+                },
+                {
+                  "key": "H",
+                  "text": "conflict"
+                },
+                {
+                  "key": "I",
+                  "text": "contagious"
+                },
+                {
+                  "key": "J",
+                  "text": "failure"
+                },
+                {
+                  "key": "K",
+                  "text": "influence"
+                },
+                {
+                  "key": "L",
+                  "text": "likely"
+                },
+                {
+                  "key": "M",
+                  "text": "measure"
+                },
+                {
+                  "key": "N",
+                  "text": "reform"
+                },
+                {
+                  "key": "O",
+                  "text": "right"
+                }
+              ],
+              "answer": "H",
+              "analysis": "读者利益与平台利益相对立，形成 the conflict between A and B；下文说个人自律无法解决，正是冲突之意。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "between what is good for a reader and what is good for a platform"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "accurate"
+                },
+                {
+                  "key": "C",
+                  "text": "advantage"
+                },
+                {
+                  "key": "D",
+                  "text": "afraid"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "balance"
+                },
+                {
+                  "key": "G",
+                  "text": "change"
+                },
+                {
+                  "key": "H",
+                  "text": "conflict"
+                },
+                {
+                  "key": "I",
+                  "text": "contagious"
+                },
+                {
+                  "key": "J",
+                  "text": "failure"
+                },
+                {
+                  "key": "K",
+                  "text": "influence"
+                },
+                {
+                  "key": "L",
+                  "text": "likely"
+                },
+                {
+                  "key": "M",
+                  "text": "measure"
+                },
+                {
+                  "key": "N",
+                  "text": "reform"
+                },
+                {
+                  "key": "O",
+                  "text": "right"
+                }
+              ],
+              "answer": "J",
+              "analysis": "把结构性问题当作「个人失败/个人缺陷」是作者批评的归因错误，与 structural problem 形成对照。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "treats a structural problem as a private"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "accurate"
+                },
+                {
+                  "key": "C",
+                  "text": "advantage"
+                },
+                {
+                  "key": "D",
+                  "text": "afraid"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "balance"
+                },
+                {
+                  "key": "G",
+                  "text": "change"
+                },
+                {
+                  "key": "H",
+                  "text": "conflict"
+                },
+                {
+                  "key": "I",
+                  "text": "contagious"
+                },
+                {
+                  "key": "J",
+                  "text": "failure"
+                },
+                {
+                  "key": "K",
+                  "text": "influence"
+                },
+                {
+                  "key": "L",
+                  "text": "likely"
+                },
+                {
+                  "key": "M",
+                  "text": "measure"
+                },
+                {
+                  "key": "N",
+                  "text": "reform"
+                },
+                {
+                  "key": "O",
+                  "text": "right"
+                }
+              ],
+              "answer": "G",
+              "analysis": "Some users do… successfully 是让步：确有人成功「改变」习惯，但环境设计的影响更大。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "but the design of the environment has far more"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "accurate"
+                },
+                {
+                  "key": "C",
+                  "text": "advantage"
+                },
+                {
+                  "key": "D",
+                  "text": "afraid"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "balance"
+                },
+                {
+                  "key": "G",
+                  "text": "change"
+                },
+                {
+                  "key": "H",
+                  "text": "conflict"
+                },
+                {
+                  "key": "I",
+                  "text": "contagious"
+                },
+                {
+                  "key": "J",
+                  "text": "failure"
+                },
+                {
+                  "key": "K",
+                  "text": "influence"
+                },
+                {
+                  "key": "L",
+                  "text": "likely"
+                },
+                {
+                  "key": "M",
+                  "text": "measure"
+                },
+                {
+                  "key": "N",
+                  "text": "reform"
+                },
+                {
+                  "key": "O",
+                  "text": "right"
+                }
+              ],
+              "answer": "K",
+              "analysis": "环境设计对行为的影响力远大于意志力，have influence over sth 为固定搭配。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "than willpower does"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "accurate"
+                },
+                {
+                  "key": "C",
+                  "text": "advantage"
+                },
+                {
+                  "key": "D",
+                  "text": "afraid"
+                },
+                {
+                  "key": "E",
+                  "text": "avoid"
+                },
+                {
+                  "key": "F",
+                  "text": "balance"
+                },
+                {
+                  "key": "G",
+                  "text": "change"
+                },
+                {
+                  "key": "H",
+                  "text": "conflict"
+                },
+                {
+                  "key": "I",
+                  "text": "contagious"
+                },
+                {
+                  "key": "J",
+                  "text": "failure"
+                },
+                {
+                  "key": "K",
+                  "text": "influence"
+                },
+                {
+                  "key": "L",
+                  "text": "likely"
+                },
+                {
+                  "key": "M",
+                  "text": "measure"
+                },
+                {
+                  "key": "N",
+                  "text": "reform"
+                },
+                {
+                  "key": "O",
+                  "text": "right"
+                }
+              ],
+              "answer": "N",
+              "analysis": "rather than blame the user 表明作者主张改造「商业模式」而非责怪用户，reform 与 blame 构成对照。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "rather than blame the user"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2011 a group of psychologists set out to repeat a hundred published experiments. Barely a third produced the original result. The project was not a story about fraud; most of the original authors had acted in good faith. It was a demonstration that a large body of published findings had never been as solid as their readers assumed, and the phrase 'replication crisis' entered the language."
+            },
+            {
+              "label": "B",
+              "text": "The pattern has since been found well beyond psychology. Attempts to repeat influential papers in cancer biology, economics and medicine have produced similar rates of success. The details differ from field to field, but the shape is the same: a literature that looks confident when read one paper at a time looks fragile when the papers are tested together."
+            },
+            {
+              "label": "C",
+              "text": "The causes are now fairly well understood, and none of them requires anyone to be dishonest. Small samples produce unreliable results. An analyst who tries several defensible ways of treating the data and reports the one that 'works' will produce an effect that is not really there. Journals prefer positive findings, so null results stay in drawers. And careers reward novelty, which means the study most likely to be published is also the one most likely to be wrong."
+            },
+            {
+              "label": "D",
+              "text": "The reforms are unglamorous and mostly procedural. Pre-registration obliges researchers to state their hypothesis and their analysis before collecting data. Under the registered-report model, a journal accepts a paper on the strength of its design, before the results exist. Consortia pool dozens of laboratories to test a single claim properly. Data and code are shared, so that errors can be found by people who did not make them."
+            },
+            {
+              "label": "E",
+              "text": "Reform has costs that fall unevenly. Pre-registration slows the exploratory work that often generates the best ideas; consortia are expensive and take years; and a junior researcher who spends two years failing to confirm a senior figure's finding may struggle to find a post. Some argue, too, that the crisis is overstated: science has always advanced by discarding most of its hypotheses, and a modest replication rate may be the ordinary price of curiosity."
+            },
+            {
+              "label": "F",
+              "text": "The more radical reading is that the problem is institutional rather than personal. Individuals respond to the incentives they are given: journals that publish novelty, funders who count papers, universities that promote on citation. Exhorting researchers to be more careful changes little while those incentives stand. The remedy, on this view, is not better character but different rules—a slower and far less satisfying thing to ask for."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "A hundred published studies were repeated, and most of them did not hold up.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：重做一百个已发表实验，仅约三分之一得到原结果。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "Barely a third produced the original result"
+            },
+            {
+              "number": 37,
+              "stem": "The same weakness has been detected in cancer biology and economics.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：肿瘤生物学、经济学、医学中重复重要论文的成功率同样偏低。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "cancer biology, economics and medicine"
+            },
+            {
+              "number": 38,
+              "stem": "Trying many analyses and reporting the one that works creates effects that are not real.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：分析者试多种处理数据的方法、只报告「成功」的那一种，就会得出并不存在的效应。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "reports the one that 'works'"
+            },
+            {
+              "number": 39,
+              "stem": "Failures are rarely published because journals want positive results.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：期刊偏爱阳性结果，零结果只能留在抽屉里。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "null results stay in drawers"
+            },
+            {
+              "number": 40,
+              "stem": "Some journals now decide to publish before anyone knows the results.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段：注册报告模式下，期刊按研究设计决定录用，此时结果尚未出现。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "before the results exist"
+            },
+            {
+              "number": 41,
+              "stem": "Shared data allows people outside a study to detect its mistakes.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段末：共享数据与代码，使「没有参与研究的人」也能发现错误。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "found by people who did not make them"
+            },
+            {
+              "number": 42,
+              "stem": "Doing replication work can cost a young researcher a job.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "D",
+              "analysis": "E 段：年轻研究者花两年却未能重复资深学者的结果，可能难以找到职位。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "may struggle to find a post"
+            },
+            {
+              "number": 43,
+              "stem": "Some scholars hold that a low replication rate is simply what research costs.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段后半：有人认为危机被夸大，科学本就靠抛弃大多数假设前进，低重复率是好奇心的「正常代价」。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "the ordinary price of curiosity"
+            },
+            {
+              "number": 44,
+              "stem": "Individual carefulness cannot fix a system built on the wrong rewards.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "F 段：只要期刊、资助方与高校的激励不变，告诫研究者「更谨慎」收效甚微。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "changes little while those incentives stand"
+            },
+            {
+              "number": 45,
+              "stem": "The proposed cure is a change of rules rather than of character.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "F 段末：解决办法不是「更好的品格」而是「不同的规则」。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "not better character but different rules"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Governments have found a cheap alternative to laws and taxes. Rather than banning a behaviour or paying people to avoid it, they alter what behavioural economists call the 'choice architecture': the order of a menu, the wording of a letter, the box that is already ticked. Making pension enrolment the default raised participation in several countries from about half of employees to more than nine in ten, without compelling anyone to save."
+            },
+            {
+              "label": "B",
+              "text": "The appeal is obvious. Nudges cost little, offend nobody, and can be tested like medicines, with a control group and a measured outcome. Behavioural units spread to more than fifty governments. Rhetoric changed too: policies were justified less by what citizens ought to want than by what they actually chose once the form became simpler."
+            },
+            {
+              "label": "C",
+              "text": "The effects, however, have proved smaller than the first studies promised. When trials were pooled, the average effect shrank sharply, and several celebrated results could not be reproduced at scale. Publication bias explains part of this—a nudge that fails is not interesting—context explains more, and time explains the remainder: the power of a default fades once people learn that it exists and begin to treat it as an obstacle."
+            },
+            {
+              "label": "D",
+              "text": "A second objection is ethical rather than statistical. A nudge works by exploiting the same shortcuts in reasoning that advertisers exploit. If a ministry may redirect attention without saying so, what prevents a company from doing the same? Defenders reply that every choice is framed by somebody, so the real question is who frames it, and for whom. That is a fair answer, but it shifts the argument onto ground where transparency is indispensable—and many nudges are, by design, invisible."
+            },
+            {
+              "label": "E",
+              "text": "The third objection is political. Because nudges are cheap and popular, they can displace the expensive measures that would actually solve a problem. A letter urging homeowners to insulate their lofts is not a substitute for obliging landlords to do it. When a minister is asked why fuel poverty has not fallen, 'we are helping people make better choices' is a convenient sentence to say."
+            },
+            {
+              "label": "F",
+              "text": "None of this means the approach should be abandoned. A well-tested nudge is a useful addition to any toolkit, and the insistence on measurement has improved the quality of policy argument. The reasonable rule is narrower: a nudge should be transparent, independently evaluated, and never offered as a substitute for regulation when regulation is what the evidence supports."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What defines a nudge, as described in the first paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A law that forbids a harmful behaviour."
+                },
+                {
+                  "key": "B",
+                  "text": "A payment given for making a good choice."
+                },
+                {
+                  "key": "C",
+                  "text": "A campaign that warns people of risks."
+                },
+                {
+                  "key": "D",
+                  "text": "A change in how choices are presented."
+                }
+              ],
+              "answer": "D",
+              "analysis": "A 段：不禁止也不付钱，而是改变「选择架构」——菜单顺序、信件措辞、默认勾选。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "they alter what behavioural economists call the 'choice architecture'"
+            },
+            {
+              "number": 47,
+              "stem": "What does the pension example demonstrate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A default can change behaviour dramatically."
+                },
+                {
+                  "key": "B",
+                  "text": "People resented being enrolled automatically."
+                },
+                {
+                  "key": "C",
+                  "text": "Saving rates depend mainly on income."
+                },
+                {
+                  "key": "D",
+                  "text": "Compulsion works better than persuasion."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末：把参保设为默认，参与率从约一半升到九成以上，且并未强制任何人。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "from about half of employees to more than nine in ten"
+            },
+            {
+              "number": 48,
+              "stem": "Why did the average effect shrink when trials were pooled?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because later trials used larger samples."
+                },
+                {
+                  "key": "B",
+                  "text": "Because failures are less likely to be published."
+                },
+                {
+                  "key": "C",
+                  "text": "Because governments stopped funding research."
+                },
+                {
+                  "key": "D",
+                  "text": "Because participants were paid to take part."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段把原因列为三点：发表偏倚（失败的助推没意思、不易发表）、情境差异、以及时效衰减。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "Publication bias explains part of this"
+            },
+            {
+              "number": 49,
+              "stem": "What is the ethical difficulty raised in the fourth paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Nudges cost more than regulation."
+                },
+                {
+                  "key": "B",
+                  "text": "Companies are forbidden from using the same methods."
+                },
+                {
+                  "key": "C",
+                  "text": "The influence is exerted without the citizen's knowledge."
+                },
+                {
+                  "key": "D",
+                  "text": "Citizens are unable to make any choice at all."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段：助推利用与广告相同的思维捷径，且「按设计就是不可见的」，因此在不知情的情况下影响他人。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "many nudges are, by design, invisible"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author suggest about ministers who praise nudges?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They use cheap measures to avoid costly ones."
+                },
+                {
+                  "key": "B",
+                  "text": "They are honest about the limits of policy."
+                },
+                {
+                  "key": "C",
+                  "text": "They have reduced fuel poverty successfully."
+                },
+                {
+                  "key": "D",
+                  "text": "They prefer regulation to persuasion."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：正因为助推便宜又受欢迎，才可能「取代」真正解决问题的昂贵措施；部长那句「我们在帮人们做更好的选择」是「说起来不花钱」的方便话。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "they can displace the expensive measures"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Four kilometres down, on the abyssal plain, lie trillions of nodules: black, potato-sized lumps of manganese, nickel, cobalt and copper that grow by a millimetre or so every million years. In principle they are exactly what the battery industry needs, and no state owns the water above them, which is why several companies have already secured exploration rights."
+            },
+            {
+              "label": "B",
+              "text": "The difficulty is that the nodules are not merely lying there. Each is a habitat. A survey of a single tract has recorded hundreds of species, most of them new to science, living on or inside the lumps. Nor is the damage confined to the spot: when a collector passes, it lifts sediment that does not settle quickly, and plumes have been traced for tens of kilometres."
+            },
+            {
+              "label": "C",
+              "text": "Regulation is thin. The International Seabed Authority, created by treaty, has issued exploration contracts but has never agreed a code for commercial extraction. In 2021 a small Pacific state invoked a rule obliging the Authority to produce rules within two years; no code has been adopted. Some states sponsor mining; others, including France and Chile, have called for a moratorium until the science is clearer."
+            },
+            {
+              "label": "D",
+              "text": "Industry makes an uncomfortable argument. Land mining has costs as well: forests cleared for nickel, rivers polluted by runoff, cobalt dug by hand in conditions no camera would tolerate. Demand for batteries is rising whatever happens in the ocean, so the choice is not between damage and no damage but between one kind of damage and another that is, at least, far from most voters."
+            },
+            {
+              "label": "E",
+              "text": "Scientists answer that the comparison cannot yet be made. There is no baseline: nobody knows how many species occupy a tract before a collector arrives, so a promise of 'no net loss' cannot be measured, only asserted. Recovery, where it has been observed at all, is measured in centuries. In a place where the clock runs that slowly, they argue, the burden of proof belongs with those who wish to dig."
+            },
+            {
+              "label": "F",
+              "text": "What is at stake is therefore larger than the nodules. The decision will set a precedent for how the ocean is governed: as a resource to be divided among those who can reach it, or as a commons to be protected until the case for use is proven. That question will be settled politically, and sooner than most people expect."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why are the nodules of commercial interest?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They can be burned as fuel."
+                },
+                {
+                  "key": "B",
+                  "text": "They are protected by international law."
+                },
+                {
+                  "key": "C",
+                  "text": "They contain metals used in batteries."
+                },
+                {
+                  "key": "D",
+                  "text": "They grow quickly enough to be farmed."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段：结核富含锰、镍、钴、铜，正是电池产业所需；注意原文说它们每一百万年才长一毫米，故「生长快得可以养殖」的说法与原文相反。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "exactly what the battery industry needs"
+            },
+            {
+              "number": 52,
+              "stem": "What does the second paragraph emphasise about the seabed?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Mining damage would spread beyond the mined area."
+                },
+                {
+                  "key": "B",
+                  "text": "The nodules are too deep to reach."
+                },
+                {
+                  "key": "C",
+                  "text": "Most species there have already been catalogued."
+                },
+                {
+                  "key": "D",
+                  "text": "Sediment settles within a few days."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：沉积物不易沉降，羽流可延伸数十公里，说明影响不止于开采点。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "plumes have been traced for tens of kilometres"
+            },
+            {
+              "number": 53,
+              "stem": "What is the industry's central argument?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Land mining does no harm at all."
+                },
+                {
+                  "key": "B",
+                  "text": "Battery demand will fall in the near future."
+                },
+                {
+                  "key": "C",
+                  "text": "Deep-sea mining requires no regulation."
+                },
+                {
+                  "key": "D",
+                  "text": "Damage is unavoidable somewhere, so the comparison matters."
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：陆上采矿同样有代价，而电池需求无论如何都会上升，所以真正的选择是「一种损害与另一种损害」之间的比较。",
+              "type": "主旨题",
+              "evidencePara": "D",
+              "evidenceText": "not between damage and no damage but between one kind of damage and another"
+            },
+            {
+              "number": 54,
+              "stem": "What does 'the burden of proof belongs with those who wish to dig' imply?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Scientists must prove that mining is safe."
+                },
+                {
+                  "key": "B",
+                  "text": "Miners must show that their operations are safe."
+                },
+                {
+                  "key": "C",
+                  "text": "Governments must fund more research first."
+                },
+                {
+                  "key": "D",
+                  "text": "No proof will ever be sufficient."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：没有基线、恢复以百年计，因此举证责任在「想开采的一方」——须由开采者证明安全，而非由科学界证明有害。",
+              "type": "词句含义题",
+              "evidencePara": "E",
+              "evidenceText": "the burden of proof belongs with those who wish to dig"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's main concern in the final paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That the case will set a lasting pattern for ocean governance."
+                },
+                {
+                  "key": "B",
+                  "text": "That nodules will run out before rules are written."
+                },
+                {
+                  "key": "C",
+                  "text": "That France and Chile will dominate the debate."
+                },
+                {
+                  "key": "D",
+                  "text": "That scientists have exaggerated the risks."
+                }
+              ],
+              "answer": "A",
+              "analysis": "F 段：真正攸关的不只是结核，而是这次决定将为海洋治理立下先例——是把海洋当作可分割的资源，还是须经证明才可使用公域。",
+              "type": "态度题",
+              "evidencePara": "F",
+              "evidenceText": "The decision will set a precedent for how the ocean is governed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n二十四节气是中国古人根据太阳运行规律总结出的时间体系，用以指导农业。它把一年分为二十四个阶段，每段约十五天，对应不同的气候与农事活动。立春标志春天的开始，冬至是一年中白昼最短的一天。两千多年来，节气不仅帮助农民安排耕种与收获，也影响了中国人的饮食与节日习俗。2016 年，二十四节气被列入联合国教科文组织非遗名录。",
+              "analysis": "【参考译文】\nThe twenty-four solar terms form a system of time that the ancient Chinese developed from the movement of the sun in order to guide farming. It divides the year into twenty-four periods of about fifteen days each, to which different weather patterns and farm activities correspond. The Beginning of Spring marks the start of the season, while the Winter Solstice is the shortest day of the year. For more than two thousand years the solar terms have not only helped farmers plan ploughing and harvests but also shaped Chinese eating habits and festival customs. In 2016 they were inscribed on UNESCO's list of intangible cultural heritage of humanity.\n\n【要点】①「根据太阳的运行规律总结出」用 developed from the movement of the sun；②「用来指导农业生产」用 in order to guide farming，作目的状语；③「对应着」用 to which… correspond 的定语从句，避免逐字直译；④「立春／冬至」用 The Beginning of Spring / the Winter Solstice；⑤「被列入……名录」用 were inscribed on / were added to the list；⑥时态：前两句用一般现在时，末句用一般过去时被动。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

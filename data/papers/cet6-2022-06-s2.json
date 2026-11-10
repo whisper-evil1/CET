@@ -1,0 +1,651 @@
+{
+  "id": "cet6-2022-06-s2",
+  "level": "CET6",
+  "year": 2022,
+  "month": 6,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether privacy has become a luxury good. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nHas Privacy Become a Luxury?\n\nA generation ago privacy was ordinary. A letter stayed in an envelope, a conversation stayed in a room, and nobody could reconstruct your Tuesday from a database. Today the ordinary version has largely gone, and a privileged version has appeared in its place: the paid inbox with no advertising, the phone that promises not to listen, the house whose doorbell does not upload its footage.\n\nIt is tempting to call this a market solution. It is not. Markets allocate what exists; they do not create a right. If privacy can be bought, then those who cannot buy it are not merely worse off, they are exposed—and the exposure is not evenly distributed. A worker whose employer monitors keystrokes, a tenant whose landlord installs a camera at the entrance, a teenager whose school requires an app that tracks location: each has the same formal right and no practical way to exercise it.\n\nThe honest conclusion is that privacy is neither a luxury nor a commodity but a condition of equal citizenship. It should be protected by default, not purchased afterwards.\n\n（约 195 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Forests are often described as the cheapest machine we have for taking carbon out of the air, and in one sense they are: a growing tree 26______ carbon in wood, roots and soil at no cost to anybody. On the strength of that arithmetic, governments and companies pay landowners to leave forests standing, and count the carbon so held against their own emissions. The scheme has an obvious appeal. It is popular with everyone, it requires no new technology, and its benefits can be written down in a spreadsheet."
+            },
+            {
+              "label": "B",
+              "text": "Fire 27______ the arithmetic. When a forest burns, most of the carbon returns to the atmosphere within weeks, so a project that promised to lock carbon away for a century can be 28______ in a single afternoon. Insurance exists, but premiums have 29______ as fire seasons lengthen, and insurers now ask questions about permanence that project developers find 30______. A promise that the carbon will stay put is, in a drying landscape, a promise about the weather."
+            },
+            {
+              "label": "C",
+              "text": "The deeper problem is what counts as additional. If a forest would have survived anyway, paying somebody to protect it changes nothing, and the offset becomes an accounting entry rather than a reduction. Some researchers therefore argue that the 31______ should shift from storage to resilience: thinning, controlled burning, the unglamorous work of making a forest less likely to explode. Others 32______ that offsets are a distraction from the only measure that 33______, which is leaving fossil carbon in the ground. In a 34______ landscape nobody can honestly promise permanence, and the sensible response is to 35______ the risk and price it rather than to pretend it away."
+            },
+            {
+              "label": "词库",
+              "text": "A) acknowledge   B) cheap   C) climbed   D) counter   E) destroyed   F) disrupts   G) emphasis   H) hidden   I) improve   J) matters   K) shrink   L) steady   M) stores   N) uncomfortable   O) warming"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "stores" },
+                { "key": "B", "text": "shrink" },
+                { "key": "C", "text": "hidden" },
+                { "key": "D", "text": "improve" }
+              ],
+              "answer": "A",
+              "analysis": "store carbon in wood, roots and soil 指树木把碳「储存」在木质、根系与土壤中，与后半句 at no cost to anybody 共同说明森林为何被称为「最便宜的机器」。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "at no cost to anybody"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "improve" },
+                { "key": "B", "text": "disrupts" },
+                { "key": "C", "text": "steady" },
+                { "key": "D", "text": "cheap" }
+              ],
+              "answer": "B",
+              "analysis": "上一段说这笔账很漂亮，本段开头用 Fire… 转折：火灾「打乱」了这笔算法。后文碳在数周内回到大气，正是打乱的具体表现。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "most of the carbon returns to the atmosphere within weeks"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "destroyed" },
+                { "key": "B", "text": "steady" },
+                { "key": "C", "text": "cheap" },
+                { "key": "D", "text": "hidden" }
+              ],
+              "answer": "A",
+              "analysis": "承诺把碳封存一百年的项目，可能在一个下午就被「毁掉」；in a single afternoon 与 for a century 的时间对比是关键线索。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "in a single afternoon"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "hidden" },
+                { "key": "B", "text": "improve" },
+                { "key": "C", "text": "climbed" },
+                { "key": "D", "text": "shrink" }
+              ],
+              "answer": "C",
+              "analysis": "火灾季变长，保险费自然「上涨」。climb 用于价格、成本、数量是常见搭配，与 as fire seasons lengthen 的因果相符。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "as fire seasons lengthen"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "cheap" },
+                { "key": "B", "text": "steady" },
+                { "key": "C", "text": "uncomfortable" },
+                { "key": "D", "text": "hidden" }
+              ],
+              "answer": "C",
+              "analysis": "保险公司追问「碳能否长久存留」，项目开发商对此感到「不舒服」，因为答案取决于天气，无法保证。find sth + adj. 为常见结构。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "insurers now ask questions about permanence"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "emphasis" },
+                { "key": "B", "text": "shrink" },
+                { "key": "C", "text": "steady" },
+                { "key": "D", "text": "improve" }
+              ],
+              "answer": "A",
+              "analysis": "the emphasis should shift from A to B 意为「重点应从 A 转向 B」。破折号后的间伐、计划烧除，都是「韧性」而非「储存」的具体做法。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "from storage to resilience"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "improve" },
+                { "key": "B", "text": "counter" },
+                { "key": "C", "text": "hidden" },
+                { "key": "D", "text": "cheap" }
+              ],
+              "answer": "B",
+              "analysis": "Some… Others… 是典型的对立结构，双方观点相反，故用 counter（反驳）——另一派认为抵消机制本身就是干扰，真正的办法是把化石碳留在地下。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "the only measure that ... leaving fossil carbon in the ground"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "matters" },
+                { "key": "B", "text": "shrink" },
+                { "key": "C", "text": "steady" },
+                { "key": "D", "text": "hidden" }
+              ],
+              "answer": "A",
+              "analysis": "the only measure that matters 意为「唯一真正重要的措施」，that 引导定语从句，谓语需用第三人称单数，语义上也与 distraction 形成对照。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "a distraction from the only measure"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "steady" },
+                { "key": "B", "text": "warming" },
+                { "key": "C", "text": "cheap" },
+                { "key": "D", "text": "improve" }
+              ],
+              "answer": "B",
+              "analysis": "in a warming landscape 指「在变暖的环境下」。前文说景观正在变干、火灾季在延长，这正是 warming 的表现，也是无法承诺永久封存的原因。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "nobody can honestly promise permanence"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "acknowledge" },
+                { "key": "B", "text": "improve" },
+                { "key": "C", "text": "shrink" },
+                { "key": "D", "text": "hidden" }
+              ],
+              "answer": "A",
+              "analysis": "rather than pretend it away 与 to… 形成对照：作者主张「承认」风险并为其定价，而不是假装它不存在。acknowledge 与 pretend 构成反义呼应。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "rather than to pretend it away"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Every bid for a major sporting event arrives with a document that promises three things: regeneration, tourists and a legacy. The stadium will anchor a neglected district, visitors will fill the hotels, and the world will notice. These promises are made in good faith by people who believe them, and they are repeated almost word for word in city after city, including the ones where the promises were not kept."
+            },
+            {
+              "label": "B",
+              "text": "The cost record is the least disputed part of the story. Studies of large projects find that nine in ten overrun, and that the average Olympic Games since 1960 has cost roughly twice its early estimate. The pattern has a name, the megaproject paradox: the projects most likely to overrun are the ones whose overruns are hardest to absorb. The reasons are structural rather than corrupt. A city hosts the event only once, so it cannot learn from experience; the deadline cannot move; and the specification is written by a body that does not pay the bill."
+            },
+            {
+              "label": "C",
+              "text": "Benefits are harder to see than costs because they are diffuse and partly imaginary. Visitors do arrive, but they displace the ordinary tourists who would have come anyway, so the net addition is much smaller than the gross number. Hotels raise their prices; restaurants in the host district do well; the dry cleaner two streets away does not. The stadium, meanwhile, needs a tenant. Outside a handful of leagues, a fifty-thousand-seat ground that stands empty for forty weeks a year is not an asset but a maintenance contract."
+            },
+            {
+              "label": "D",
+              "text": "Voters have begun to notice. Boston, Hamburg and Calgary all withdrew from bids after referendums, and the organising bodies responded as monopolies do when the queue shortens: they rewrote the rules. Recent reforms allow cities to reuse existing venues, to spread events across a region and to spend less on spectacle. The changes are genuine, and they were conceded under pressure rather than offered as a gift."
+            },
+            {
+              "label": "E",
+              "text": "The counter-case deserves a hearing. Barcelona in 1992 is the standard example of an event that paid: the city timed the Games to a plan it had already adopted, opened the waterfront, and built transport that residents still use. The lesson is not that the Olympics work; it is that they work when they accelerate something the city intended to do anyway. Where the event is the plan, the plan is usually the event."
+            },
+            {
+              "label": "F",
+              "text": "The accounts are also easy to flatter. Security, transport links and the clean-up of the site are often carried by other budgets, so the sports budget can balance while the city does not. A tunnel built for the Games may have been useful in any case, but it was built to a deadline, at deadline prices, and paid for by people who were never asked."
+            },
+            {
+              "label": "G",
+              "text": "The interesting question, then, is not whether an event pays back. It is who pays and who receives. A stadium is a transfer from a general taxpayer to a particular district, and from the future to the present. If what a city buys is national prestige, the nation should help to pay, as it does for a national theatre or a space programme. If what it buys is a party, it should say so, and let the voters decide whether the party is worth the price."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Bidding cities routinely promise renewal, visitors and a lasting benefit.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "A",
+              "analysis": "A 段：每一份申办文件都承诺三件事——旧区复兴、游客、遗产效益。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "regeneration, tourists and a legacy"
+            },
+            {
+              "number": 37,
+              "stem": "Almost every large event since 1960 has ended up costing more than predicted.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：十个大型项目中有九个超支，1960 年以来奥运会平均花费约为最初估算的两倍。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "roughly twice its early estimate"
+            },
+            {
+              "number": 38,
+              "stem": "Event visitors largely take the place of tourists who would have come anyway.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：赛事游客「取代」了本来也会来的普通游客，净增量远小于总量。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "they displace the ordinary tourists"
+            },
+            {
+              "number": 39,
+              "stem": "A stadium with no regular tenant is a burden rather than an asset.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：除了少数联赛，一年空置四十周的场馆不是资产，而是一份维护合同。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "not an asset but a maintenance contract"
+            },
+            {
+              "number": 40,
+              "stem": "In several cities the public voted to abandon the bid altogether.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：波士顿、汉堡、卡尔加里在公投后退出申办。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "withdrew from bids after referendums"
+            },
+            {
+              "number": 41,
+              "stem": "The governing bodies have relaxed their demands now that fewer cities want to host.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：排队的人变少，组织方像垄断者一样改写规则，允许复用场馆、分散办赛、减少排场；但这是压力下的让步。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "they rewrote the rules"
+            },
+            {
+              "number": 42,
+              "stem": "One city benefited because the event fitted plans it had already made.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：巴塞罗那把奥运会嵌入自己早已通过的城市计划，开放滨水区、修建居民至今仍在使用的交通。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "they work when they accelerate something the city intended to do anyway"
+            },
+            {
+              "number": 43,
+              "stem": "Some expenditure is recorded in other budgets, which makes the sports accounts look balanced.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：安保、交通、场地清理常由别的预算承担，于是「体育预算」平衡了，城市却没有。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "carried by other budgets"
+            },
+            {
+              "number": 44,
+              "stem": "The real issue is distribution rather than whether there is any return at all.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "G",
+              "analysis": "G 段首：问题不是「能不能回本」，而是「谁付钱、谁受益」。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "It is who pays and who receives"
+            },
+            {
+              "number": 45,
+              "stem": "If the gain is national reputation, the cost should be shared by the whole country.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "G",
+              "analysis": "G 段：若城市买到的是国家声望，就应像国家剧院或航天计划那样由国家分担费用。",
+              "type": "推断题",
+              "evidencePara": "G",
+              "evidenceText": "the nation should help to pay"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When offices closed in 2020, commentators predicted a quiet revolution in the division of household labour. Both parents would be at home, the commute would vanish, and the old excuses would run out. The data, four years on, tell a more conservative story. Fathers did more childcare than they had before. Mothers did considerably more, and were far more likely to reduce their hours, decline a promotion or leave employment altogether."
+            },
+            {
+              "label": "B",
+              "text": "The mechanism is rarely a decision taken at the kitchen table. It is a sequence of small ones. When a child is sent home from school, somebody has to be free at three o'clock, and the parent whose work is already understood to be flexible is the one who volunteers. Flexibility, in this sense, is not a benefit that women enjoy; it is a penalty paid in promotions. Studies of professional firms find that employees who use flexible arrangements are rated less promotable, and that the penalty for men is even larger, which is precisely why so few men use them."
+            },
+            {
+              "label": "C",
+              "text": "The office, for all its costs, had one egalitarian feature: it made everyone equally absent from home. Remote work dissolves that. It brings the household into the working day and lets the household's existing inequalities set the timetable. Time-use surveys in several countries show the gap in unpaid work narrowing during the closures and then widening again, in step with the reopening of schools, which suggests that the arrangement was never the cause of the change, only its occasion."
+            },
+            {
+              "label": "D",
+              "text": "The picture is not uniform, and it would be dishonest to draw it as one. For single parents, for disabled workers, for people in regions with thin labour markets, remote work has been a genuine liberation, and the gains are largest for those with the least bargaining power. Fathers who wanted to be present at bedtime describe benefits no salary would have bought. The average, however, hides an asymmetry: the gains are widely shared, the career costs are not."
+            },
+            {
+              "label": "E",
+              "text": "The policy conclusion is uncomfortable for employers who would rather not pay for childcare. Remote work cannot substitute for it, because the binding constraint is not where the desk is but whether there is anybody at home to look after a child. Treating flexibility as a private arrangement between worker and manager guarantees that its costs fall on whoever has least room to refuse. The alternative is unglamorous and expensive: funded leave, predictable schedules, and a serious count of who is actually being promoted."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What happened to the predicted revolution in household labour?",
+              "options": [
+                { "key": "A", "text": "It occurred, but only among fathers in professional jobs." },
+                { "key": "B", "text": "It happened in part, while mothers absorbed most of the extra work." },
+                { "key": "C", "text": "It was reversed, with fathers doing most of the childcare." },
+                { "key": "D", "text": "It never took place because offices stayed open." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：父亲确实多做了家务，但母亲做得更多，且更可能减工时、放弃晋升或离职。故变化只是部分的，负担仍不对称。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "Mothers did considerably more"
+            },
+            {
+              "number": 47,
+              "stem": "Why does the author call flexibility 'a penalty paid in promotions'?",
+              "options": [
+                { "key": "A", "text": "Flexible workers are given more work for the same pay." },
+                { "key": "B", "text": "Those who use it are regarded as less suitable for advancement." },
+                { "key": "C", "text": "Flexible arrangements are illegal in most firms." },
+                { "key": "D", "text": "Promotions require workers to move to another city." }
+              ],
+              "answer": "B",
+              "analysis": "B 段：使用弹性安排的员工被评为「更不宜晋升」，且男性所受惩罚更大，所以很少男人使用——这说明弹性被读作缺乏事业心。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "employees who use flexible arrangements are rated less promotable"
+            },
+            {
+              "number": 48,
+              "stem": "What did the office provide that remote work removes?",
+              "options": [
+                { "key": "A", "text": "A shared absence from domestic demands." },
+                { "key": "B", "text": "Higher pay for women with children." },
+                { "key": "C", "text": "A strict separation between work and friendship." },
+                { "key": "D", "text": "Free childcare for employees." }
+              ],
+              "answer": "A",
+              "analysis": "C 段：办公室有一个「平等主义」特征——让所有人同样地不在家。居家办公取消了这种缺席，家庭内部既有的不平等便直接决定作息。",
+              "type": "词句含义题",
+              "evidencePara": "C",
+              "evidenceText": "it made everyone equally absent from home"
+            },
+            {
+              "number": 49,
+              "stem": "What does the author say about the benefits of remote work?",
+              "options": [
+                { "key": "A", "text": "They are exaggerated by advocacy groups." },
+                { "key": "B", "text": "They accrue mainly to senior managers." },
+                { "key": "C", "text": "They are real but distributed unevenly." },
+                { "key": "D", "text": "They disappear once schools reopen." }
+              ],
+              "answer": "C",
+              "analysis": "D 段：对单亲家长、残障员工、劳动力市场薄弱地区的人而言，居家办公确实是解放；但「平均值掩盖了一种不对称」——收益广布，代价集中。",
+              "type": "态度题",
+              "evidencePara": "D",
+              "evidenceText": "the gains are widely shared, the career costs are not"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's objection to treating flexibility as a private arrangement?",
+              "options": [
+                { "key": "A", "text": "It gives managers too much information about employees." },
+                { "key": "B", "text": "It leaves the cost with those least able to refuse it." },
+                { "key": "C", "text": "It prevents fathers from working from home." },
+                { "key": "D", "text": "It makes schedules impossible to predict." }
+              ],
+              "answer": "B",
+              "analysis": "E 段：把弹性视为员工与经理之间的私人安排，必然使代价落到「最没有拒绝余地的人」身上；真正的约束是家里有没有人照看孩子。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "its costs fall on whoever has least room to refuse"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A single barge on the Rhine can carry three thousand tonnes of gravel, the load of a hundred lorries, on a fraction of the fuel and with none of the congestion. Inland waterways move a fifth of freight in Germany and a larger share in the Netherlands, and for bulk cargo—coal, ore, grain, containers going to and from the coast—they remain the cheapest option available. The case for them is not romantic. It is arithmetic: per tonne carried a kilometre, a barge emits perhaps a fifth of the carbon of a truck."
+            },
+            {
+              "label": "B",
+              "text": "Yet the mode has been declining for half a century, and the reasons are equally arithmetical. Water is slow, and modern supply chains are organised around hours rather than weeks. Rivers do not go where warehouses are, so every barge load needs a lorry at each end. Above all, waterways require maintenance: locks, dredging, banks, bridges that lift. That money is spent by governments that prefer to open a new road, because a road can be photographed on the day it opens and a dredged channel cannot."
+            },
+            {
+              "label": "C",
+              "text": "Climate policy has given the argument a new shape, and a new difficulty. The case for shifting freight onto water is stronger than it has ever been. But the same warming that makes the case also threatens the asset: in the drought of 2022 the Rhine fell so low that barges sailed at a third of capacity, freight rates tripled, and chemical plants on the river cut production. A mode justified by its low emissions per tonne is being constrained by the weather that those emissions helped to change."
+            },
+            {
+              "label": "D",
+              "text": "There is also the question of the last mile. A port that cannot move containers onto rail or road within an hour is a warehouse with a view. The successful inland terminals are the ones that were built with the road and rail connections from the beginning, rather than added afterwards when the land had been sold. This is unglamorous planning, of the kind that produces no ribbon to cut."
+            },
+            {
+              "label": "E",
+              "text": "The policy implication is therefore less exciting than a new canal and more useful. Price the externalities of the lorry—carbon, congestion, road damage, accidents—and the barge becomes competitive without subsidy. Maintain the channel that already exists before digging another. And accept that the returns arrive slowly, over decades, in a political system that thinks in electoral cycles. The cheapest tonne-kilometre is usually the one already available, if somebody has bothered to dredge the river."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What is the main advantage of inland shipping described in the first paragraph?",
+              "options": [
+                { "key": "A", "text": "It is faster than road transport." },
+                { "key": "B", "text": "It carries bulk goods at low cost and low emissions." },
+                { "key": "C", "text": "It requires no public infrastructure." },
+                { "key": "D", "text": "It can reach warehouses directly." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：一条驳船运三千吨，油耗与拥堵都远低于百辆卡车，每吨公里碳排放约为卡车的五分之一。核心是大宗货物 + 低成本 + 低排放。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "a barge emits perhaps a fifth of the carbon of a truck"
+            },
+            {
+              "number": 52,
+              "stem": "Why does maintenance spending favour roads over rivers?",
+              "options": [
+                { "key": "A", "text": "Roads are cheaper to build per kilometre." },
+                { "key": "B", "text": "Rivers belong to private owners." },
+                { "key": "C", "text": "A new road can be shown to the public on opening day." },
+                { "key": "D", "text": "Dredging has no effect on capacity." }
+              ],
+              "answer": "C",
+              "analysis": "B 段末：政府更愿意修新路，因为通车当天可以剪彩拍照，而疏浚过的河道拍不出照片。作者用这一点讽刺政治激励。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "a road can be photographed on the day it opens"
+            },
+            {
+              "number": 53,
+              "stem": "What does the 2022 drought illustrate?",
+              "options": [
+                { "key": "A", "text": "Barges are unsuitable for carrying chemicals." },
+                { "key": "B", "text": "Freight rates are controlled by governments." },
+                { "key": "C", "text": "The low-carbon mode is itself vulnerable to climate change." },
+                { "key": "D", "text": "River transport has recovered its former share." }
+              ],
+              "answer": "C",
+              "analysis": "C 段：莱茵河水位过低，驳船只得以三分之一载重航行，运价翻三倍——「以低排放为理由的模式，正被那些排放所助长的天气所限制」。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "constrained by the weather that those emissions helped to change"
+            },
+            {
+              "number": 54,
+              "stem": "What does 'a warehouse with a view' suggest about some inland ports?",
+              "options": [
+                { "key": "A", "text": "They are attractive to tourists but useless for freight." },
+                { "key": "B", "text": "They handle containers efficiently." },
+                { "key": "C", "text": "They were built without adequate onward connections." },
+                { "key": "D", "text": "They have been converted into apartments." }
+              ],
+              "answer": "C",
+              "analysis": "D 段：一小时之内不能把集装箱转到铁路或公路的港口，只是一个「有风景的仓库」；成功的内河码头在规划之初就配好了集疏运通道。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "A port that cannot move containers onto rail or road within an hour"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's policy recommendation?",
+              "options": [
+                { "key": "A", "text": "Build new canals to increase capacity." },
+                { "key": "B", "text": "Subsidise barge operators directly." },
+                { "key": "C", "text": "Charge road freight for its wider costs and maintain existing waterways." },
+                { "key": "D", "text": "Shift all bulk freight onto rail instead." }
+              ],
+              "answer": "C",
+              "analysis": "E 段给出三条：把卡车的外部成本（碳、拥堵、路面损耗、事故）计入价格；先维护已有航道再谈新挖；接受回报要几十年。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "Price the externalities of the lorry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n灯彩是中国传统节日里常见的一种民间工艺，多在元宵节前后悬挂。匠人用竹篾或铁丝扎出骨架，糊上薄纸或丝绸，再绘上花鸟、人物等图案，内部点上灯烛，夜晚便通体透亮。各地灯彩风格不同：有的以体量取胜，有的以针刺细纹见长。旧时灯彩多由家族世代相传，如今不少地方把它与旅游结合，在城墙、河边举办灯会。灯彩不只是装饰，也寄托了人们对团圆与丰收的期望。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nFestive lanterns are a folk craft commonly seen in traditional Chinese festivals, and they are usually hung around the Lantern Festival. The craftsman first builds a frame from thin bamboo strips or wire, then covers it with thin paper or silk and paints flowers, birds or figures on the surface. Candles or lamps are placed inside, so that the whole lantern glows at night. Styles differ from place to place: some lanterns impress by their size, while others are admired for the fineness of their pin-pricked patterns. In the past the craft was passed down within families from one generation to the next; today many places combine it with tourism and hold lantern fairs along city walls and river banks. Lanterns are more than decoration: they carry people's hopes for reunion and for a good harvest.\n\n【要点】①「扎出骨架」用 build a frame，不用 tie；②「糊上……再绘上……」用 then covers…and paints…，保持工序顺序；③「内部点上灯烛」用被动 Candles or lamps are placed inside，再接 so that 表结果；④「以……取胜／见长」宜意译为 impress by / be admired for，避免逐字直译；⑤「世代相传」用 be passed down within families；⑥「寄托了……的期望」用 carry people's hopes for，比 express 更贴合「承载」之意。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

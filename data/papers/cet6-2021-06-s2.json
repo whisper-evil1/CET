@@ -1,0 +1,637 @@
+{
+  "id": "cet6-2021-06-s2",
+  "level": "CET6",
+  "year": 2021,
+  "month": 6,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether celebrities should be held responsible for the products they endorse. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nEndorsement and Responsibility\n\nA familiar face is paid to hold a bottle of skincare and say that it changed her life. The product turns out to be ordinary, or unsafe, and the buyers who trusted her ask what she owes them.\n\nThe case for responsibility rests on influence. A celebrity is not a billboard; she is a person whose judgement the audience has been invited to trust, and that trust is what the fee purchases. If she has never used the product, she has sold something she does not own.\n\nNo endorser can audit a factory, and a rule that she must guarantee every claim would make advertising impossible for anyone honest. What can reasonably be demanded is process: evidence that the product has been tested, disclosure of the fee, and an apology when things go wrong.\n\nThe law already punishes outright falsehood; it is weaker on carelessness. Endorsers of health and financial products should be liable for the claims they repeat, as they would be if they repeated them to a friend. Trust is a public good, and those who sell it should pay when they spend it badly.\n\n（约 195 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Ask where the cloud is and the answer is a warehouse on the edge of a town, filled with racks that never sleep. The electricity such buildings consume has become a subject of public argument; the water they consume is 26______ discussed. A single large data centre may draw millions of litres a day to carry heat away from its servers, and in a dry region that is a 27______ which farmers notice."
+            },
+            {
+              "label": "B",
+              "text": "Two methods compete for the same purpose. Evaporative cooling is cheap and effective, but it can 28______ water into the air, where it cannot be used again. Closed-loop systems, which recirculate the same coolant, use almost none, yet they 29______ more electricity, and in a hot climate they perform worst exactly when demand is highest. Engineers therefore 30______ a compromise: evaporative cooling in winter, mechanical cooling in summer, and a contract with the local water utility either way."
+            },
+            {
+              "label": "C",
+              "text": "The comparison is harder than it looks. Water withdrawn is not water consumed: much of what a plant takes in returns to the river, 31______ warmer than it left. Regulators measure the two differently, and operators naturally 32______ the figure that flatters them. Nor is the local picture simple: a plant that draws on a river may 33______ a reservoir on which a city also depends, and the city has no say in the bargain."
+            },
+            {
+              "label": "D",
+              "text": "None of this would matter if the industry were small. But the growth in demand is 34______: total consumption rises even as each query becomes cheaper, and efficiency gains are spent on doing more rather than on doing less. Some operators now promise to be 'water positive' by 2030, meaning that they will return more than they withdraw; so far such pledges 35______ on projects that have not been built. Whether the promise is a plan or a public-relations exercise will be decided by the contracts, not by the press release."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "rapidly" },
+                { "key": "B", "text": "rarely" },
+                { "key": "C", "text": "modest" },
+                { "key": "D", "text": "refuse" }
+              ],
+              "answer": "B",
+              "analysis": "分号前后对比：耗电已成公共议题，耗水却「很少」被讨论；rarely 与前半句 public argument 形成反差，也解释了后文为何要专门算水的账。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "has become a subject of public argument"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "shortage" },
+                { "key": "B", "text": "drain" },
+                { "key": "C", "text": "modest" },
+                { "key": "D", "text": "absorb" }
+              ],
+              "answer": "B",
+              "analysis": "每天取水数百万升用于散热，在干旱地区就是农民能察觉到的「消耗／负担」；a drain on local water 为常见搭配，shortage 指短缺本身而非取水行为。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "draw millions of litres a day"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "release" },
+                { "key": "B", "text": "absorb" },
+                { "key": "C", "text": "refuse" },
+                { "key": "D", "text": "modest" }
+              ],
+              "answer": "A",
+              "analysis": "蒸发冷却的缺点是水被「释放」到空气中无法回收；where it cannot be used again 说明水的去向，absorb 方向相反。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "where it cannot be used again"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "refuse" },
+                { "key": "B", "text": "consume" },
+                { "key": "C", "text": "shortage" },
+                { "key": "D", "text": "rapidly" }
+              ],
+              "answer": "B",
+              "analysis": "yet 转折指出闭环系统的代价：几乎不耗水，却「消耗」更多电；与前半句 use almost none 构成资源上的交换。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "use almost none, yet they"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "seek" },
+                { "key": "B", "text": "refuse" },
+                { "key": "C", "text": "absorb" },
+                { "key": "D", "text": "modest" }
+              ],
+              "answer": "A",
+              "analysis": "冒号后列出冬夏两套方案，说明工程师在「寻求」折中；seek a compromise 为固定搭配，refuse 与语义相反。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "evaporative cooling in winter, mechanical cooling in summer"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "rapidly" },
+                { "key": "B", "text": "slightly" },
+                { "key": "C", "text": "modest" },
+                { "key": "D", "text": "absorb" }
+              ],
+              "answer": "B",
+              "analysis": "补充说明回流水只是「略微」升温，程度副词修饰 warmer；这正说明「取水」与「耗水」不能等同。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "returns to the river"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "absorb" },
+                { "key": "B", "text": "refuse" },
+                { "key": "C", "text": "choose" },
+                { "key": "D", "text": "shortage" }
+              ],
+              "answer": "C",
+              "analysis": "监管口径不同，运营方自然「挑选」对自己有利的数字；the figure that flatters them 表明这是一种选择性呈现。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the figure that flatters them"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "share" },
+                { "key": "B", "text": "absorb" },
+                { "key": "C", "text": "refuse" },
+                { "key": "D", "text": "rapidly" }
+              ],
+              "answer": "A",
+              "analysis": "数据中心取水的河流可能连着城市也依赖的水库，即双方「共用」同一水源；后文 the city has no say 进一步说明这种共用关系。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "a reservoir on which a city also depends"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "modest" },
+                { "key": "B", "text": "relentless" },
+                { "key": "C", "text": "rapidly" },
+                { "key": "D", "text": "shortage" }
+              ],
+              "answer": "B",
+              "analysis": "冒号后说即使单次查询更便宜、总耗水仍在上升，效率提升被用于「做更多」，可见需求增长是「无休止的」；modest 与之矛盾。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "total consumption rises even as each query becomes cheaper"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "depend" },
+                { "key": "B", "text": "refuse" },
+                { "key": "C", "text": "absorb" },
+                { "key": "D", "text": "modest" }
+              ],
+              "answer": "A",
+              "analysis": "so far 提示承诺尚未兑现：这些保证「依赖」于还没建成的项目；depend on 为固定搭配，末句 contracts 与 press release 的对比也指向同一判断。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "projects that have not been built"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For most of the last century, sport for children was something schools provided: a pitch, a volunteer teacher, a match on Saturday. The past thirty years have moved that activity into clubs, many of them private, most of them charging fees. The change is rarely described as a privatisation, yet that is what it amounts to. A family that once paid nothing beyond a pair of boots now budgets for coaching, kit, travel and tournament entry, and the child whose parents cannot budget at all plays less."
+            },
+            {
+              "label": "B",
+              "text": "The participation figures look healthy until they are broken down by age. Numbers hold up through primary school and then fall sharply at about thirteen, especially among girls. The usual explanations—schoolwork, screens, changing bodies—are real but incomplete. Surveys that ask children why they stopped produce a strikingly consistent answer, and it is not 'too much homework'. It is that the sport stopped being fun: the practices became drills, the matches became auditions, and the coach stopped smiling."
+            },
+            {
+              "label": "C",
+              "text": "Coaching is where the money and the neglect both concentrate. A club may employ one qualified coach and rely on parents for everything else; those parents are often enthusiastic, occasionally excellent, and almost never trained in how to teach a child who is afraid of the ball. The research on youth sport is unusually clear here: the quality of the coach's relationship with the players predicts whether they come back far better than the team's win rate does. Certificates matter less than the ability to make a mistake safe."
+            },
+            {
+              "label": "D",
+              "text": "Access follows money and geography. Clubs that charge several hundred pounds a season select for income; travel teams select for families with two cars and flexible jobs. A child in a rural district may live forty minutes from the nearest pool. Girls' teams are fewer, and teams for disabled children fewer still, so the children with the most to gain from sport are the ones most easily excluded. Subsidy schemes exist, but they are usually small, poorly advertised and humiliating to claim."
+            },
+            {
+              "label": "E",
+              "text": "Clubs and schools also compete for the same children and the same facilities. When a club offers better coaching, the school team loses its best players and eventually its reason to exist; when a school keeps its gym closed in the evening, the club has nowhere to train. The result is a patchwork in which a minority receives excellent instruction and the majority receives whatever an exhausted teacher can manage after a full day of lessons."
+            },
+            {
+              "label": "F",
+              "text": "What works is not mysterious, and it is cheap. Multi-sport programmes that delay specialisation keep children longer. Leagues that publish scores but do not rank teams until the teenage years retain more of the merely average. Coaching courses of a weekend, aimed at parents, raise the quality of practice more than new kit does. And the single most effective change is the least glamorous: asking the children what they want, and then arranging the session so that they get it."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Children's sport has moved from schools to clubs that charge fees.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "A",
+              "analysis": "A 段：过去由学校提供场地、志愿教师和周六比赛，近三十年转移到多为私营、普遍收费的俱乐部，作者称之为事实上的私有化。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "moved that activity into clubs, many of them private, most of them charging fees"
+            },
+            {
+              "number": 37,
+              "stem": "Numbers drop sharply at thirteen, particularly among girls.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：参与人数在小学阶段稳定，十三岁左右急剧下降，女生尤为明显。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "fall sharply at about thirteen, especially among girls"
+            },
+            {
+              "number": 38,
+              "stem": "Children usually give up because the activity stops being enjoyable.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：问卷答案高度一致，不是作业太多，而是「不再好玩」——训练变成操练，比赛变成选拔，教练不再笑。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "It is that the sport stopped being fun"
+            },
+            {
+              "number": 39,
+              "stem": "Whether children continue depends more on the coach's manner than on winning.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：教练与队员关系的质量，比球队胜率更能预测孩子是否回来；证书不如「让犯错变得安全」的能力。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "predicts whether they come back far better than the team's win rate does"
+            },
+            {
+              "number": 40,
+              "stem": "Many clubs depend on parents who have no coaching training.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：俱乐部可能只雇一名有资质的教练，其余全靠家长，而这些家长「几乎从未受过训练」。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "almost never trained in how to teach a child"
+            },
+            {
+              "number": 41,
+              "stem": "Cost and distance shut out the children who would benefit most.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：收费与地理位置决定谁能参加，农村孩子可能离最近的泳池四十分钟车程；「最该从运动受益的孩子最容易被排除」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "the children with the most to gain from sport are the ones most easily excluded"
+            },
+            {
+              "number": 42,
+              "stem": "Financial support exists but is hard to obtain without embarrassment.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：补贴方案规模小、宣传差，申请过程「令人难堪」（humiliating to claim）。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "small, poorly advertised and humiliating to claim"
+            },
+            {
+              "number": 43,
+              "stem": "Clubs and schools weaken each other by chasing the same players.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：俱乐部教练更好则校队失去最好的球员乃至存在理由；学校晚间不开放场馆，俱乐部又无处训练。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "compete for the same children and the same facilities"
+            },
+            {
+              "number": 44,
+              "stem": "Postponing specialisation helps children stay in sport.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "F",
+              "analysis": "F 段第一条：推迟专项化的多项运动项目能让孩子留得更久。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "Multi-sport programmes that delay specialisation keep children longer"
+            },
+            {
+              "number": 45,
+              "stem": "Asking children what they want improves sessions more than new equipment.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：最有效也最不出彩的改变，是问孩子想要什么，再据此安排训练；前文也提到家长课程比新装备更能提升训练质量。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "asking the children what they want"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Chinese cities have quietly built a new layer of social infrastructure. Within a fifteen-minute walk of most urban households there is now supposed to be a station offering meals, day care, rehabilitation and an emergency call service, usually on the ground floor of a residential block. The policy rests on a reasonable finding: older people overwhelmingly prefer to remain in their own neighbourhoods rather than move to an institution, and a neighbourhood is cheaper to equip than a nursing home is to build."
+            },
+            {
+              "label": "B",
+              "text": "The meal service is the hinge on which the rest turns. A canteen serving lunch to eighty people a day gives the station a reason to exist and gives residents a reason to walk in; once they are inside, blood pressure checks, physiotherapy and a conversation become possible. Operators describe the queue as their best marketing. The meal also reveals the economics: a subsidised lunch may cost twelve yuan to produce and sell for eight, and the gap has to be found somewhere."
+            },
+            {
+              "label": "C",
+              "text": "That gap is the central problem. Rent is commercial, staff must be paid, and the fees residents can afford are low. Subsidies are usually tied to the number of places rather than to the quality of care, and they arrive late. The result is a sector of small operators who survive on the profitable parts—private home care for the minority who can pay—and quietly drop the rest. Several of the most praised stations have closed within three years, not because nobody came but because the arithmetic never worked."
+            },
+            {
+              "label": "D",
+              "text": "Demand is also slower than the buildings suggest. Older residents are reluctant to be seen accepting help, and their children, who often live in another city, are the ones most eager to buy the service. Trust is built by familiarity: a station that has run a calligraphy class for five years will be believed when it offers nursing, and one that opened last month will not. Staff turnover undermines exactly this asset. Wages are low, training is short, and the good carers leave for hospitals that pay more."
+            },
+            {
+              "label": "E",
+              "text": "It follows that the station should be judged as a hub rather than a solution. Its value lies in what it connects—the clinic, the pharmacy, the delivery rider, the neighbours who notice that a light has not come on. Counting beds and places measures the wrong thing. The better question is whether an eighty-year-old who falls at home is found within an hour, and whether the person who finds her is paid enough to still be there next year."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What assumption does the policy rest on?",
+              "options": [
+                { "key": "A", "text": "Older people prefer to stay in familiar surroundings." },
+                { "key": "B", "text": "Nursing homes are too expensive to run." },
+                { "key": "C", "text": "Families are unwilling to care for parents." },
+                { "key": "D", "text": "Cities have too few hospital beds." }
+              ],
+              "answer": "A",
+              "analysis": "A 段：政策建立在「老年人绝大多数更愿意留在自己社区而非住进机构」这一发现上，且社区改造比新建养老院便宜。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "prefer to remain in their own neighbourhoods"
+            },
+            {
+              "number": 47,
+              "stem": "Why is the canteen described as 'the hinge'?",
+              "options": [
+                { "key": "A", "text": "It is the only service that makes a profit." },
+                { "key": "B", "text": "It draws residents in and makes other services possible." },
+                { "key": "C", "text": "It is required by the subsidy rules." },
+                { "key": "D", "text": "It replaces the need for medical staff." }
+              ],
+              "answer": "B",
+              "analysis": "B 段：食堂给站点一个存在的理由，也给居民一个走进来的理由；人进来之后，量血压、理疗和聊天才有可能。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "once they are inside, blood pressure checks, physiotherapy and a conversation become possible"
+            },
+            {
+              "number": 48,
+              "stem": "What is wrong with the way subsidies are designed?",
+              "options": [
+                { "key": "A", "text": "They reward capacity rather than quality and come late." },
+                { "key": "B", "text": "They are given only to private operators." },
+                { "key": "C", "text": "They are too generous to be sustained." },
+                { "key": "D", "text": "They go directly to older residents." }
+              ],
+              "answer": "A",
+              "analysis": "C 段：补贴按名额而非照护质量发放，且拨付滞后；于是小运营者靠能付费的少数人维持，把其余人悄悄放弃。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "tied to the number of places rather than to the quality of care"
+            },
+            {
+              "number": 49,
+              "stem": "What does 'this asset' refer to in the fourth paragraph?",
+              "options": [
+                { "key": "A", "text": "The building owned by the operator." },
+                { "key": "B", "text": "The subsidy received from the government." },
+                { "key": "C", "text": "The trust that familiarity creates." },
+                { "key": "D", "text": "The fees paid by residents' children." }
+              ],
+              "answer": "C",
+              "analysis": "D 段先说信任靠熟悉建立——办了五年书法班的站点才被相信能提供护理；接着说人员流动破坏的正是这种「资产」，即熟悉带来的信任。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "Trust is built by familiarity"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author propose as a better measure of success?",
+              "options": [
+                { "key": "A", "text": "The number of beds and places provided." },
+                { "key": "B", "text": "The speed of response when someone needs help." },
+                { "key": "C", "text": "The profit made by each station." },
+                { "key": "D", "text": "The number of classes on offer." }
+              ],
+              "answer": "B",
+              "analysis": "E 段：数床位是「量错了东西」，更好的问题是独居老人跌倒后能否一小时内被发现，以及发现她的人是否被付够工资、明年还在。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "whether an eighty-year-old who falls at home is found within an hour"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A tonne of discarded circuit boards contains more gold than a tonne of gold ore. That fact has powered a decade of optimism about 'urban mining', the idea that the metals in obsolete phones and laptops could supply a clean, domestic alternative to digging. The same tonne also contains lead, mercury and brominated flame retardants, which is why the informal workshops that recover the gold with acid and fire are among the most polluted places on earth."
+            },
+            {
+              "label": "B",
+              "text": "The export story, familiar from the 1990s, is now largely out of date. Most electronic waste is generated and processed inside the country that consumes the devices, and the trade that remains runs as much between rich economies as from north to south. What has not changed is the hierarchy of value: the copper and gold are extracted, and the plastic, glass and low-grade residue are dumped or burned by whoever is poorest in the chain."
+            },
+            {
+              "label": "C",
+              "text": "Collection, not processing, is the bottleneck. A refrigerator is collected because a truck can take it; a phone is not, because it fits in a drawer and might be worth something, or might hold photographs nobody has copied. Municipal schemes often require a journey; retail take-back depends on the shop still existing. The result is that the most valuable and most hazardous fraction—small devices with lithium batteries—is the fraction least likely to reach a proper facility."
+            },
+            {
+              "label": "D",
+              "text": "Fear about data is a real obstacle, and an underestimated one. Surveys find that people keep old phones because they are unsure whether their messages and bank details have been erased, and the certified wiping that would reassure them is either unavailable or costs more than the phone is worth. A collection scheme that offered on-the-spot, verifiable destruction would convert a hoarded object into a recoverable one, at a fraction of the cost of mining the metal it contains."
+            },
+            {
+              "label": "E",
+              "text": "Recycling is nonetheless a smaller idea than it appears. A phone designed so that its battery cannot be replaced is a phone that will be discarded earlier, whatever happens to it afterwards; a device glued together is one whose metals are lost in shredding. Recovery rates for some twenty elements remain in single figures. The policy that would matter most is therefore upstream—fewer devices, longer lives, and screws instead of adhesive—and that is a harder sell than a bin with a picture of a tree on it."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the first paragraph suggest about 'urban mining'?",
+              "options": [
+                { "key": "A", "text": "Its promise is real but inseparable from serious hazards." },
+                { "key": "B", "text": "It produces more pollution than ordinary mining." },
+                { "key": "C", "text": "It has failed to recover any valuable metals." },
+                { "key": "D", "text": "It is banned in most countries." }
+              ],
+              "answer": "A",
+              "analysis": "A 段一面说电路板含金量高于金矿、可作「城市采矿」，一面列出铅、汞、溴化阻燃剂，并指非正规作坊污染极重，即价值与危害并存。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "The same tonne also contains lead, mercury and brominated flame retardants"
+            },
+            {
+              "number": 52,
+              "stem": "What has changed since the 1990s?",
+              "options": [
+                { "key": "A", "text": "Rich countries no longer produce electronic waste." },
+                { "key": "B", "text": "Most e-waste is now handled where it is generated." },
+                { "key": "C", "text": "Informal recycling has been eliminated." },
+                { "key": "D", "text": "Gold is no longer recovered from old devices." }
+              ],
+              "answer": "B",
+              "analysis": "B 段：1990 年代那种「出口到南方」的叙事已大体过时，绝大部分电子废物在其消费国国内产生并处理；残存的贸易也多在富国之间。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "generated and processed inside the country that consumes the devices"
+            },
+            {
+              "number": 53,
+              "stem": "Why do small devices rarely reach proper recycling facilities?",
+              "options": [
+                { "key": "A", "text": "They contain no metals worth recovering." },
+                { "key": "B", "text": "Recycling them is illegal in most cities." },
+                { "key": "C", "text": "They are easy to keep and hard to hand in conveniently." },
+                { "key": "D", "text": "Retailers refuse to accept them." }
+              ],
+              "answer": "C",
+              "analysis": "C 段：冰箱能被收走因为有车能拉，手机则塞进抽屉——「装着不占地方，或许还值点钱，或许存着没备份的照片」；回收点往往要专门跑一趟。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "it fits in a drawer"
+            },
+            {
+              "number": 54,
+              "stem": "What does the author say about people's fear of data theft?",
+              "options": [
+                { "key": "A", "text": "It is exaggerated by the media." },
+                { "key": "B", "text": "It could be reduced by verifiable destruction on the spot." },
+                { "key": "C", "text": "It has no effect on collection rates." },
+                { "key": "D", "text": "It applies only to business users." }
+              ],
+              "answer": "B",
+              "analysis": "D 段：人们不确定信息是否被抹掉，而可信的擦除服务要么没有、要么比旧手机还贵；若能在现场提供可验证的销毁，积存之物就能变成可回收之物。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "on-the-spot, verifiable destruction"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's main point in the final paragraph?",
+              "options": [
+                { "key": "A", "text": "Recycling campaigns deserve more public money." },
+                { "key": "B", "text": "Shredding is the most efficient recovery method." },
+                { "key": "C", "text": "Consumers should pay a deposit on every device." },
+                { "key": "D", "text": "Design decisions matter more than recycling afterwards." }
+              ],
+              "answer": "D",
+              "analysis": "E 段：电池不可更换、机身用胶粘合，都会让金属在破碎中流失；真正重要的是上游——更少的产品、更长的寿命、用螺丝而非胶水，这比印着树的回收桶更难推销。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "The policy that would matter most is therefore upstream"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n折扇在中国已有千年历史。它由竹制扇骨和纸或绢制的扇面组成，可以折起，便于携带。文人喜欢在扇面上题诗作画，因此折扇不仅是纳凉的工具，也是一件艺术品。明清时期，折扇成为社交场合常见的礼物。做一把好扇要经过选料、削骨、裱面、绘画等十几道工序，许多技艺至今仍靠手工传承。今天，折扇出现在戏曲、舞蹈和收藏之中，但它所代表的雅致趣味依然受人喜爱。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe folding fan has a history of more than a thousand years in China. It consists of bamboo ribs and a leaf of paper or silk, and because it can be folded up, it is easy to carry about. Scholars liked to write poems and paint pictures on the leaf, so the fan was not merely a device for cooling the face but a work of art that one carried in a sleeve. During the Ming and Qing dynasties it became a common gift on social occasions. Making a good fan involves more than a dozen steps, from choosing the material and shaving the ribs to mounting the leaf and painting it, and many of these skills are still passed down by hand. Today the folding fan appears mainly in opera, dance and private collections, yet the refined taste it stands for is still admired.\n\n【要点】①「折扇」译作 the folding fan，后文再出现时用 the fan 指代，避免重复；②「由……组成」用 consists of；③「可以折起，便于携带」用 because 引导的原因状语把两个短句合并，比 and it can be folded 更紧凑；④「题诗作画」用 write poems and paint pictures on the leaf；⑤「不仅……也……」用 not merely... but...；⑥「十几道工序」不必逐项罗列，用 from... to... 举例后以 many of these skills 收束；⑦「雅致趣味」译作 the refined taste，避免直译为 elegant interest。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

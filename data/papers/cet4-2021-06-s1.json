@@ -1,0 +1,1101 @@
+{
+  "id": "cet4-2021-06-s1",
+  "level": "CET4",
+  "year": 2021,
+  "month": 6,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether college students should take part-time jobs. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nWhether College Students Should Take Part-time Jobs\n\nPart-time work is now common among undergraduates, and opinion about it is divided. In my view, a part-time job is worth doing, provided that it does not swallow the hours meant for study.\n\nThe benefits are concrete. A student who works in a bookshop or a cafe learns to arrive on time, to deal with an impatient customer and to finish a task that nobody will check afterwards. These lessons are hard to teach in a classroom. A salary, even a small one, also changes how a young person thinks about money: the first month of earning usually makes a student far more careful about spending.\n\nThe risks are equally real. Some jobs teach nothing and pay little, and a student who works twenty hours a week may find that essays are written at midnight and morning lectures are missed altogether. The main purpose of university is still to learn.\n\nMy conclusion is therefore a practical one: choose a job that teaches something, keep it under ten hours a week, and treat study as the real work.\n\n（约 170 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "On the first Saturday of every month, a church hall in Amsterdam fills with broken things: lamps, kettles, bicycles, a wooden chair missing one leg. Volunteers sit at tables with tools, and visitors wait their turn. This is a repair cafe, a small 26______ that began in the Netherlands in 2009 and has since spread to more than thirty countries."
+            },
+            {
+              "label": "B",
+              "text": "The idea is simple. Instead of throwing away a toaster that no longer works, you bring it in and fix it with help. There is no 27______: volunteers are not paid, and visitors are not customers. The point is not the money but the 28______ of a skill. Many people under forty have never opened a plug or mended a bicycle chain, and they arrive with little 29______ of how the things around them actually work."
+            },
+            {
+              "label": "C",
+              "text": "Supporters say the model can 30______ two problems at once. It keeps goods out of landfill, and it gives people a reason to meet their neighbours. In one survey, four out of five visitors said they came back mainly for the 31______, not for the repair."
+            },
+            {
+              "label": "D",
+              "text": "Not everything can be saved. Volunteers 32______ that modern devices are often sealed, with parts glued in place, and that some repairs would cost more than a new item. Even so, the movement has 33______ a wider argument about how long products should last. For its founders, a repaired kettle is a small 34______ against a culture that treats everything as disposable. The next 35______ may be a law: several European governments are now discussing rules that would require manufacturers to supply spare parts for ten years."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "donation"
+                },
+                {
+                  "key": "B",
+                  "text": "experiment"
+                },
+                {
+                  "key": "C",
+                  "text": "company"
+                },
+                {
+                  "key": "D",
+                  "text": "protest"
+                }
+              ],
+              "answer": "B",
+              "analysis": "本句介绍「修理咖啡馆」的来历：2009 年始于荷兰、后扩散到三十多个国家，说明它最初只是一次小规模试验（a small experiment）。donation（捐赠）、company（公司）、protest（抗议）都无法与 began in 2009 and has since spread 构成「由小到大的尝试」这一语义。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "began in the Netherlands in 2009"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "charge"
+                },
+                {
+                  "key": "B",
+                  "text": "invitation"
+                },
+                {
+                  "key": "C",
+                  "text": "donation"
+                },
+                {
+                  "key": "D",
+                  "text": "understanding"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后给出解释：志愿者不拿报酬、来的人不是顾客，说明这里不收费。There is no charge 是固定表达「不收费」。donation 会与「不是顾客」矛盾（捐赠仍是给钱），understanding 与收费无关。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "volunteers are not paid"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "donation"
+                },
+                {
+                  "key": "B",
+                  "text": "sharing"
+                },
+                {
+                  "key": "C",
+                  "text": "company"
+                },
+                {
+                  "key": "D",
+                  "text": "charge"
+                }
+              ],
+              "answer": "B",
+              "analysis": "not the money but... 是对比结构，空白处应与 money 相对，指技能上的「分享、传授」（the sharing of a skill）。后文「四十岁以下的人从没打开过插头」正说明需要有人教。donation 仍是钱的问题，charge 也是费用。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "The point is not the money"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "invitation"
+                },
+                {
+                  "key": "B",
+                  "text": "donation"
+                },
+                {
+                  "key": "C",
+                  "text": "understanding"
+                },
+                {
+                  "key": "D",
+                  "text": "step"
+                }
+              ],
+              "answer": "C",
+              "analysis": "arrive with little understanding of how things work 意为「几乎不懂这些东西的原理」，与前半句「从没打开过插头、没修过车链」构成因果。invitation、donation、step 都不能被 little 修饰来表达「了解程度」。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "have never opened a plug"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "ignore"
+                },
+                {
+                  "key": "B",
+                  "text": "address"
+                },
+                {
+                  "key": "C",
+                  "text": "admit"
+                },
+                {
+                  "key": "D",
+                  "text": "refuse"
+                }
+              ],
+              "answer": "B",
+              "analysis": "冒号后列出两个好处：让东西不进填埋场、让人有理由认识邻居，说明这个模式能同时「应对」两个问题。address a problem 是固定搭配；ignore 意思相反，admit 后要接事实而非 problem，refuse 后不接 problem。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "two problems at once"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "company"
+                },
+                {
+                  "key": "B",
+                  "text": "invitation"
+                },
+                {
+                  "key": "C",
+                  "text": "protest"
+                },
+                {
+                  "key": "D",
+                  "text": "sharing"
+                }
+              ],
+              "answer": "A",
+              "analysis": "not for the repair 与空白处形成对照，加上上一句「给人一个认识邻居的理由」，可判断人们主要为「有人做伴」而来，for the company 即「为了有个伴」。invitation、protest 与本句无关，sharing 指技能分享，不是到店动机。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "a reason to meet their neighbours"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "admit"
+                },
+                {
+                  "key": "B",
+                  "text": "ignore"
+                },
+                {
+                  "key": "C",
+                  "text": "address"
+                },
+                {
+                  "key": "D",
+                  "text": "refuse"
+                }
+              ],
+              "answer": "A",
+              "analysis": "that 从句讲的是局限：现代设备被封死、有些修理比买新的还贵，这是志愿者「承认」的事实，故用 admit。ignore 与后文「仍有人认为这场运动有意义」的让步语气不符；refuse 后接 that 从句时表示拒绝某事，语义不通。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "modern devices are often sealed"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "cleaned"
+                },
+                {
+                  "key": "B",
+                  "text": "counted"
+                },
+                {
+                  "key": "C",
+                  "text": "sparked"
+                },
+                {
+                  "key": "D",
+                  "text": "repaired"
+                }
+              ],
+              "answer": "C",
+              "analysis": "has + 过去分词构成现在完成时，宾语是 a wider argument about how long products should last，意为「引发了一场关于产品寿命的更大讨论」。spark an argument/debate 是常见搭配；cleaned、refuse 等其余选项与 argument 搭配均不成立。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "a wider argument about how long products should last"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "step"
+                },
+                {
+                  "key": "B",
+                  "text": "protest"
+                },
+                {
+                  "key": "C",
+                  "text": "charge"
+                },
+                {
+                  "key": "D",
+                  "text": "invitation"
+                }
+              ],
+              "answer": "B",
+              "analysis": "against a culture that treats everything as disposable（对抗「用过即弃」的文化）说明这是「一次小小的抗议」，a small protest against 搭配自然。step 一般说 a step towards，charge、invitation 与 against 不搭配。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "a culture that treats everything as disposable"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "charge"
+                },
+                {
+                  "key": "B",
+                  "text": "company"
+                },
+                {
+                  "key": "C",
+                  "text": "step"
+                },
+                {
+                  "key": "D",
+                  "text": "protest"
+                }
+              ],
+              "answer": "C",
+              "analysis": "冒号后说多国政府正在讨论强制厂商供应十年备件，这是运动的「下一步」，The next step may be a law 意为「下一步可能是一项立法」。charge、company、protest 都无法与 may be a law 衔接。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "several European governments are now discussing rules"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For most of the twentieth century, admission to a selective American university depended on three things: school grades, a personal essay and a score on a standardised test. The SAT, and later the ACT, was treated as a common yardstick that allowed colleges to compare students from very different schools. Critics answered that the yardstick measured family income as much as ability, since wealthy families can pay for private tutoring, books and repeated attempts."
+            },
+            {
+              "label": "B",
+              "text": "Then came 2020. With test centres closed and travel restricted, hundreds of universities announced that scores would be optional for the following year. Almost all of them described the change as temporary, a response to an emergency rather than a judgement about the tests themselves. Few admissions officers expected the policy to outlive the pandemic."
+            },
+            {
+              "label": "C",
+              "text": "A smaller group went further. A few universities, including the entire University of California system, adopted test-blind policies, which meant that scores would not be looked at even if a student sent them. California's decision covered more than 280,000 applicants a year and turned a temporary experiment into the largest test of what happens when a wealthy state stops using the SAT."
+            },
+            {
+              "label": "D",
+              "text": "The first effect was arithmetic. Applications rose by double digits at many selective colleges, and the increase was largest among students whose parents had not attended university and whose schools rarely sent anyone to such institutions. A teenager who might once have judged herself unqualified now had, at least on paper, the same chance as everyone else."
+            },
+            {
+              "label": "E",
+              "text": "The second effect was quieter. Without a score, admissions staff had to read files more slowly, and they found that school records are not easy to compare. An A in one high school may mean something quite different from an A in another, and grade inflation has made the problem worse: in some districts most students now graduate with grades above B."
+            },
+            {
+              "label": "F",
+              "text": "Do students admitted without scores struggle? The evidence so far says no. Colleges that dropped the requirement years ago, such as Bates in Maine, have followed their graduates for decades. They report that students who withheld scores performed about as well as those who submitted them: similar grades, similar graduation rates, similar records afterwards. The test, in other words, forecast first-year marks slightly better than it forecast anything that mattered later."
+            },
+            {
+              "label": "G",
+              "text": "What happens next is unclear. Some universities have extended the policy indefinitely and now describe the test as one optional piece of evidence among many. Others are waiting to see whether applications remain as large once travel and testing return to normal. The more interesting question has shifted: not whether to use the SAT, but what should take its place when a single number no longer decides."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "For decades, one test score was treated as a fair way to compare pupils from different schools.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段第二句：SAT 及后来的 ACT 被视为 a common yardstick，让高校得以比较来自很不一样学校的学生。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "a common yardstick that allowed colleges to compare students"
+            },
+            {
+              "number": 37,
+              "stem": "The change was forced by the fact that many students could not sit the examination.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "analysis": "B 段开头：考场关闭、出行受限，数百所大学宣布下一年分数可选——可见是被疫情逼出来的。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "With test centres closed and travel restricted"
+            },
+            {
+              "number": 38,
+              "stem": "One large university system chose not to see the scores at all.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：加州大学系统实行 test-blind，即使学生寄送分数也不看，一年覆盖 28 万余名申请者。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "scores would not be looked at even if a student sent them"
+            },
+            {
+              "number": 39,
+              "stem": "Applications grew fastest among groups that had seldom applied to such colleges before.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：申请量两位数增长，增幅最大的是父母没上过大学、学校极少有人申请这类院校的学生。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "the increase was largest among students whose parents had not attended university"
+            },
+            {
+              "number": 40,
+              "stem": "Grades from different schools are hard to weigh against each other.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "G",
+              "analysis": "E 段：没有分数后招生官发现校内成绩难以比较，一所高中的 A 与另一所的 A 含义可能不同，评分通胀让问题更糟。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "school records are not easy to compare"
+            },
+            {
+              "number": 41,
+              "stem": "Students who kept their scores hidden have done about as well as those who sent them.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "analysis": "F 段：长期跟踪毕业生的院校（如缅因州 Bates）发现，未提交分数者在成绩、毕业率与毕业后表现上与提交者相近。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "performed about as well as those who submitted them"
+            },
+            {
+              "number": 42,
+              "stem": "Universities presented the new rule as a short-term answer to an emergency.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph C"
+                }
+              ],
+              "answer": "F",
+              "analysis": "B 段：几乎所有学校都说这是 temporary，是对紧急情况的应对，而非对考试本身的判断。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "described the change as temporary"
+            },
+            {
+              "number": 43,
+              "stem": "Richer families are able to buy coaching and more than one chance at the test.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph B"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末：批评者认为这把尺子量的是家庭收入，因为富裕家庭能买辅导、买书、反复重考。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "pay for private tutoring, books and repeated attempts"
+            },
+            {
+              "number": 44,
+              "stem": "Discussion has moved on to the question of what should replace the test.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "G 段末：更有意思的问题已经转移——不再是是否使用 SAT，而是一个数字不再决定录取后该由什么取代它。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "what should take its place when a single number no longer decides"
+            },
+            {
+              "number": 45,
+              "stem": "It is still not certain whether the new rules will become permanent.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph B"
+                }
+              ],
+              "answer": "C",
+              "analysis": "G 段：一部分大学无限期延长政策，另一部分则在观望旅行与考试恢复后申请量是否仍这么大，前景未定。",
+              "type": "推断题",
+              "evidencePara": "G",
+              "evidenceText": "Others are waiting to see whether applications remain as large"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Sand is the second most used material on earth after water, and the world consumes between 40 and 50 billion tonnes of it every year. It goes into concrete, glass, asphalt and the reclaimed land on which whole cities are built. Not all sand will do, however: desert grains are rounded by wind and do not lock together, so builders prefer the sharper sand found in riverbeds and on the seabed. That preference has turned ordinary rivers into quarries."
+            },
+            {
+              "label": "B",
+              "text": "The consequences are visible from space. Dredging removes the sediment that deltas need in order to keep pace with the rising sea, and the Mekong, the Ganges and the Yangtze are all sinking. Riverbanks collapse, wells turn salty and fish lose the shallows where they breed. In one stretch of the Mekong, researchers recorded more than 50 million tonnes of sand removed in a single year, a volume larger than the river could replace."
+            },
+            {
+              "label": "C",
+              "text": "Because demand is high and regulation is weak, extraction has attracted organised crime. In parts of India and Morocco, so-called sand mafias dig at night, bribe officials and intimidate villagers who complain. Few countries even measure how much sand leaves their rivers, which makes the trade difficult to police. A recent United Nations report recommended treating sand as a strategic resource, in the way that water and oil are treated."
+            },
+            {
+              "label": "D",
+              "text": "Cities that import sand have discovered how quickly the market can tighten. Singapore, which has enlarged its territory by about a quarter through reclamation, found its suppliers closing their doors one after another: Indonesia, Malaysia and later Vietnam restricted or banned exports. Prices tripled within a decade and construction projects slowed. The lesson was not that sand had run out, but that the cheap, convenient kind had."
+            },
+            {
+              "label": "E",
+              "text": "Alternatives exist. Crushed rock, sold as manufactured sand, now supplies a growing share of concrete; rubble from demolished buildings can replace gravel in roads; and engineers are learning to design structures that need less concrete in the first place. Each option costs more than river sand, which is precisely why the old habit persists. Economists point out that the price of river sand never included the damage it caused, and that a fair comparison would change the arithmetic."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "Why do builders prefer sand from rivers and the seabed?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It contains fewer harmful minerals."
+                },
+                {
+                  "key": "B",
+                  "text": "It is easier and cheaper to transport."
+                },
+                {
+                  "key": "C",
+                  "text": "Its grains are sharper and fit together better."
+                },
+                {
+                  "key": "D",
+                  "text": "It can be taken without any machinery."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段：沙漠沙粒被风磨圆、彼此咬合不住，所以建筑商偏爱河床与海床中更「有棱角」的沙。B、C、D 文中均未提及。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "builders prefer the sharper sand found in riverbeds"
+            },
+            {
+              "number": 47,
+              "stem": "What does the example of the Mekong show?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "More sand is being taken than the river can replace."
+                },
+                {
+                  "key": "B",
+                  "text": "Rivers can carry far more sand than expected."
+                },
+                {
+                  "key": "C",
+                  "text": "Fish populations have risen in recent years."
+                },
+                {
+                  "key": "D",
+                  "text": "Dredging is now illegal along the river."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段末：湄公河某段一年被挖走五千万吨以上，a volume larger than the river could replace，即开采量超过河流的补充能力。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "larger than the river could replace"
+            },
+            {
+              "number": 48,
+              "stem": "Why is illegal sand mining difficult to control?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It takes place only at night."
+                },
+                {
+                  "key": "B",
+                  "text": "Local people support the miners."
+                },
+                {
+                  "key": "C",
+                  "text": "The sand is exported before it is counted."
+                },
+                {
+                  "key": "D",
+                  "text": "Few countries record how much is taken."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段：几乎没有国家统计有多少沙从河里被取走，这让监管非常困难。夜间作业只是手段之一，不是根本原因。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "Few countries even measure how much sand leaves their rivers"
+            },
+            {
+              "number": 49,
+              "stem": "What happened after some countries restricted sand exports?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Reclamation projects were abandoned completely."
+                },
+                {
+                  "key": "B",
+                  "text": "Prices rose sharply within a decade."
+                },
+                {
+                  "key": "C",
+                  "text": "Buyers switched to desert sand instead."
+                },
+                {
+                  "key": "D",
+                  "text": "The exporting countries increased production."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：印尼、马来西亚、越南先后限制或禁止出口后，价格在十年内涨到三倍，工程放缓。文中未说工程全部放弃，也没说改用沙漠沙（前文已说沙漠沙不可用）。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "Prices tripled within a decade"
+            },
+            {
+              "number": 50,
+              "stem": "What point do economists make about the alternatives?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are already cheaper than river sand."
+                },
+                {
+                  "key": "B",
+                  "text": "They cannot be used in large buildings."
+                },
+                {
+                  "key": "C",
+                  "text": "They would look competitive if river sand carried its true cost."
+                },
+                {
+                  "key": "D",
+                  "text": "They produce more carbon dioxide than concrete."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段末：河沙的价格从未包含它造成的环境损害，若把代价计入，比较结果就会改变，即替代品其实有竞争力。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "the price of river sand never included the damage it caused"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2013 the software company SAP began a programme it called Autism at Work. The aim was not charity but recruitment: the company had found that some tasks, such as testing software for errors or checking long documents, were performed unusually well by employees on the autism spectrum. Microsoft started a similar scheme two years later. Both were responding to an awkward statistic: in many rich countries an estimated eight in ten adults with autism are unemployed or underemployed, despite often having ordinary or above-average qualifications."
+            },
+            {
+              "label": "B",
+              "text": "The obstacle is usually the hiring process rather than the job. A standard interview rewards quick small talk, sustained eye contact and the ability to improvise an answer about teamwork. Candidates who find those things difficult may never reach the stage where their actual skills are tested. SAP therefore replaced the first interview with a two-week practical exercise, in which applicants built robots or wrote code while trainers watched."
+            },
+            {
+              "label": "C",
+              "text": "Adjustments at work are modest and cheap. Written instructions instead of spoken ones, a desk away from the busiest corridor, a fixed weekly schedule, and one colleague who agrees to be the first person to ask. None of this is expensive, and much of it helps other employees too. A quiet corner and a clear brief are not special favours; they are ordinary good management."
+            },
+            {
+              "label": "D",
+              "text": "The results have been encouraging. Retention in these programmes is high, and managers report that some participants notice patterns in data that others miss, or remember details of regulations that nobody else bothers to read. One team leader admitted that her department had been paying for an expensive software tool to do work that a new colleague now did by hand in an afternoon."
+            },
+            {
+              "label": "E",
+              "text": "Not everyone is comfortable with the enthusiasm. Critics warn that such programmes tend to select candidates who are articulate and highly qualified, leaving behind those whose autism comes with learning difficulties. They also worry about a new stereotype: the idea that autistic employees are natural programmers, which puts pressure on people whose talents lie elsewhere. A job, one researcher notes, is not a prize for being unusual; it is a place where a person can build a career."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What was SAP's main purpose in starting the programme?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To improve its public image."
+                },
+                {
+                  "key": "B",
+                  "text": "To reduce the cost of staff training."
+                },
+                {
+                  "key": "C",
+                  "text": "To satisfy a government requirement."
+                },
+                {
+                  "key": "D",
+                  "text": "To fill jobs that some autistic people do particularly well."
+                }
+              ],
+              "answer": "D",
+              "analysis": "A 段：The aim was not charity but recruitment，公司发现查错、核对长文档等任务由自闭症员工做得出奇地好，故目的是招人填补这些岗位。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "The aim was not charity but recruitment"
+            },
+            {
+              "number": 52,
+              "stem": "According to the passage, what usually keeps autistic candidates out?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their lack of technical skills."
+                },
+                {
+                  "key": "B",
+                  "text": "The interview format."
+                },
+                {
+                  "key": "C",
+                  "text": "Their unwillingness to work in teams."
+                },
+                {
+                  "key": "D",
+                  "text": "The length of the training period."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段首句：障碍通常在招聘流程而非工作本身；标准面试奖励闲聊、眼神交流与临场应对，这些人可能永远到不了展示技能的环节。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "The obstacle is usually the hiring process"
+            },
+            {
+              "number": 53,
+              "stem": "What does the author say about the workplace adjustments?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are costly for small firms."
+                },
+                {
+                  "key": "B",
+                  "text": "They are rarely requested by employees."
+                },
+                {
+                  "key": "C",
+                  "text": "They also benefit people without autism."
+                },
+                {
+                  "key": "D",
+                  "text": "They slow down the work of a team."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：这些调整花费很小，而且 much of it helps other employees too，作者还强调「安静的角落和清楚的说明不是特殊照顾，而是普通的好管理」。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "much of it helps other employees too"
+            },
+            {
+              "number": 54,
+              "stem": "What does the team leader's remark illustrate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Some participants bring unexpected value to a team."
+                },
+                {
+                  "key": "B",
+                  "text": "Software tools are usually a waste of money."
+                },
+                {
+                  "key": "C",
+                  "text": "New employees often need close supervision."
+                },
+                {
+                  "key": "D",
+                  "text": "Routine tasks should be automated."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：主管承认部门一直花钱买软件做的工作，新同事一个下午手工就完成了，用来说明参与者带来了意想不到的价值。「软件工具通常是浪费钱」把个例扩大为普遍结论，属过度推断；「新人需要密切监督」与原文「做得又快又好」相反；「日常任务应自动化」也不是该例要说明的问题。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "did work that a new colleague now did by hand in an afternoon"
+            },
+            {
+              "number": 55,
+              "stem": "What is the critics' main worry?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The programmes cost more than they return."
+                },
+                {
+                  "key": "B",
+                  "text": "Autistic employees are paid less than others."
+                },
+                {
+                  "key": "C",
+                  "text": "Managers refuse to change their working methods."
+                },
+                {
+                  "key": "D",
+                  "text": "The programmes may create a narrow and misleading image of autistic workers."
+                }
+              ],
+              "answer": "D",
+              "analysis": "E 段：批评者担心项目只挑表达好、学历高的人，并制造「自闭症员工天生是程序员」的新刻板印象，给天赋在别处的人带来压力。其余三项（项目花费、薪酬水平、管理者是否愿意改变）文中均未提及，属无中生有。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "a new stereotype"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "请将下面一段话译成英语：\n\n近年来，中国的新能源汽车产业发展迅速。2020年，中国新能源汽车销量超过136万辆，连续多年居世界第一。政府通过补贴、免税以及建设充电桩等方式推动这一行业。如今，许多城市的公交车和出租车已经换成了电动车，空气质量因此有所改善。与此同时，电池成本和充电是否方便，仍是普通消费者最关心的问题。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nIn recent years, China's new energy vehicle industry has developed rapidly. In 2020, sales of new energy vehicles in China exceeded 1.36 million units, ranking first in the world for several years in a row. The government has promoted the industry through subsidies, tax exemptions and the construction of charging points. Today, buses and taxis in many cities have been replaced by electric vehicles, and air quality has improved as a result. At the same time, the cost of batteries and the convenience of charging remain the concerns that ordinary consumers care about most. Many owners charge their cars at home overnight, while fast chargers along motorways make longer journeys possible. Analysts expect the share of electric models to keep rising as battery prices fall.\n\n【要点】①「销量超过136万辆」用 exceeded 1.36 million units，注意单位与数字表达；②「连续多年居世界第一」用现在分词 ranking first in the world for several years in a row 作伴随状语；③「通过补贴、免税以及建设充电桩等方式」用 through subsidies, tax exemptions and the construction of charging points，保持三项并列的名词结构；④「空气质量因此有所改善」用 has improved as a result，时态取现在完成时；⑤「仍是……最关心的问题」用 remain the concerns that ordinary consumers care about most，remain 作系动词。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

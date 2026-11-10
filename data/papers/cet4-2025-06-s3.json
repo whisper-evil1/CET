@@ -1,0 +1,1057 @@
+{
+  "id": "cet4-2025-06-s3",
+  "level": "CET4",
+  "year": 2025,
+  "month": 6,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on why small local markets are worth supporting. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nWhy Small Local Markets Are Worth Supporting\n\nA stallholder selling tomatoes on a Saturday morning rarely has the buying power of a supermarket chain. That is why the market deserves a second look. Prices are often competitive, not because the goods are poor, but because the seller carries no warehouse, no fleet and no shareholders to satisfy.\n\nThe economics are tighter than shoppers imagine. A pitch may cost less than a week's rent for a shop, but the trader pays it whether it rains or not, and carries home whatever is unsold. Money spent at a stall also tends to stay in the neighbourhood, paying a grower or a baker two streets away, while a supermarket's takings leave for a head office in another city.\n\nThe social argument matters just as much. A market is one of the few places where people of different incomes still stand in the same queue and talk. Supermarkets are efficient, but efficiency is not the only thing a street needs. Once a market closes, its stalls are hard to bring back.\n\n（约 170 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2020, when most other activities were cancelled, birdwatching quietly became one of the fastest-growing hobbies in the world. Sales of binoculars rose sharply, and the Cornell Lab of Ornithology recorded a 26______ in downloads of its identification app. The appeal is easy to explain: birds are everywhere, the equipment is cheap, and a walk in a local park can 27______ into a morning of discovery."
+            },
+            {
+              "label": "B",
+              "text": "Scientists value the hobby for a different reason. Amateur birdwatchers 28______ millions of observations to public databases every year, and these records have been used to track how species 29______ in response to a warming climate. A study of North American birds found that many of them had shifted their winter range northwards by an average of more than a hundred kilometres. Such a 30______ would be impossible for a handful of researchers to detect alone."
+            },
+            {
+              "label": "C",
+              "text": "Not all the effects are scientific. Birders are unusually 31______ to protect the places they watch: surveys suggest that they are more likely than the general public to support wetland protection and to 32______ local conservation groups. In Britain, the Royal Society for the Protection of Birds has more members than any political party."
+            },
+            {
+              "label": "D",
+              "text": "There are complaints too. Popular sites can be 33______ on a spring weekend, and rare birds attract crowds that trample plants and disturb the very animals people came to see. Some reserves now 34______ the number of visitors per hour, and a few have closed paths during the nesting season. Experienced birders argue that the answer is not to keep people away but to teach them how to watch: stay on the path, keep your distance, and never play a recording of a bird's song to 35______ it closer."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "surface"
+                },
+                {
+                  "key": "B",
+                  "text": "surge"
+                },
+                {
+                  "key": "C",
+                  "text": "survey"
+                },
+                {
+                  "key": "D",
+                  "text": "surplus"
+                }
+              ],
+              "answer": "B",
+              "analysis": "前半句说望远镜销量大涨，与下载量呼应的应是一个「激增」（a surge in downloads）；surface 是「浮出水面」，survey 是「调查」，surplus 是「盈余」，都不能接 in downloads 表示数量猛增。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "Sales of binoculars rose sharply"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "turn"
+                },
+                {
+                  "key": "B",
+                  "text": "fall"
+                },
+                {
+                  "key": "C",
+                  "text": "grow"
+                },
+                {
+                  "key": "D",
+                  "text": "split"
+                }
+              ],
+              "answer": "A",
+              "analysis": "turn into 意为「变成」：在本地公园散步可以变成一上午的发现之旅，这正是前面「门槛低」的原因；fall into（陷入）、split into（分裂）与 grow into 都与「散步变成探索」的语义不合。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a morning of discovery"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compare"
+                },
+                {
+                  "key": "B",
+                  "text": "complain"
+                },
+                {
+                  "key": "C",
+                  "text": "contribute"
+                },
+                {
+                  "key": "D",
+                  "text": "compete"
+                }
+              ],
+              "answer": "C",
+              "analysis": "contribute … to 是固定搭配「向……贡献/提交」，句中指业余观鸟者每年向公共数据库**上传**数百万条记录；compare 要与 with 搭配，complain 要接 about，compete 接 with。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "millions of observations to public databases"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "move"
+                },
+                {
+                  "key": "B",
+                  "text": "melt"
+                },
+                {
+                  "key": "C",
+                  "text": "mark"
+                },
+                {
+                  "key": "D",
+                  "text": "match"
+                }
+              ],
+              "answer": "A",
+              "analysis": "下一句给出证据：许多鸟类的越冬区平均北移一百多公里，因此空格应是「物种如何**移动**」（how species move）；melt（融化）、mark（标记）、match（匹配）都无法由「北移一百公里」来验证。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "shifted their winter range northwards"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "package"
+                },
+                {
+                  "key": "B",
+                  "text": "pattern"
+                },
+                {
+                  "key": "C",
+                  "text": "passage"
+                },
+                {
+                  "key": "D",
+                  "text": "patient"
+                }
+              ],
+              "answer": "B",
+              "analysis": "Such a ___ 指前文「多个物种一致北移」这种**模式/规律**（pattern），少数研究者独自难以发现；package（包裹）、passage（段落）、patient（病人）与「一致的趋势」无关。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "by an average of more than a hundred kilometres"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "wealthy"
+                },
+                {
+                  "key": "B",
+                  "text": "willing"
+                },
+                {
+                  "key": "C",
+                  "text": "worthy"
+                },
+                {
+                  "key": "D",
+                  "text": "wild"
+                }
+              ],
+              "answer": "B",
+              "analysis": "be willing to do 表示「愿意做」，冒号后用「更可能支持湿地保护、加入环保组织」加以证明；wealthy 与「是否愿意保护」无逻辑关系，worthy 不能接 to protect。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "more likely than the general public to support wetland protection"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "join"
+                },
+                {
+                  "key": "B",
+                  "text": "judge"
+                },
+                {
+                  "key": "C",
+                  "text": "justify"
+                },
+                {
+                  "key": "D",
+                  "text": "jump"
+                }
+              ],
+              "answer": "A",
+              "analysis": "与 support 并列的动作应是**加入**地方保护组织（join local conservation groups）；judge（评判）、justify（为……辩护）都不能接组织名作宾语表示参与。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "local conservation groups"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "covered"
+                },
+                {
+                  "key": "B",
+                  "text": "crowded"
+                },
+                {
+                  "key": "C",
+                  "text": "curious"
+                },
+                {
+                  "key": "D",
+                  "text": "creative"
+                }
+              ],
+              "answer": "B",
+              "analysis": "后半句说稀有鸟引来人群踩踏植物、惊扰鸟类，可见春季周末的热门地点会非常**拥挤**（crowded）；covered（被覆盖）、curious、creative 都不能解释人多带来的破坏。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "attract crowds that trample plants"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "limit"
+                },
+                {
+                  "key": "B",
+                  "text": "lend"
+                },
+                {
+                  "key": "C",
+                  "text": "lift"
+                },
+                {
+                  "key": "D",
+                  "text": "list"
+                }
+              ],
+              "answer": "A",
+              "analysis": "保护区**限制**每小时入园人数（limit the number of visitors per hour），与随后「繁殖季关闭部分步道」同属管控措施；lend、lift、list 都不能表示「限额」。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "the number of visitors per hour"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "approach"
+                },
+                {
+                  "key": "B",
+                  "text": "arrange"
+                },
+                {
+                  "key": "C",
+                  "text": "attract"
+                },
+                {
+                  "key": "D",
+                  "text": "assume"
+                }
+              ],
+              "answer": "C",
+              "analysis": "播放鸟鸣录音是为了把鸟**吸引**得更近（attract it closer），而资深观鸟者认为这干扰鸟类，故应禁止；approach 作动词是「靠近」但不接宾语加 closer，arrange、assume 与录音诱鸟无关。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "never play a recording of a bird's song"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Homework is one of the few educational questions on which almost everyone has a strong opinion and almost nobody has recent evidence. The standard figure, repeated for decades, is ten minutes a night for every year of a child's age. It appears in school handbooks and government advice, but it has never been tested against outcomes, and it seems to have originated in a magazine article in the 1990s."
+            },
+            {
+              "label": "B",
+              "text": "The evidence that does exist points in two directions. For secondary school students, several reviews find a modest positive link between homework and test scores, strongest in mathematics. For primary school children the link is close to zero. A large study drawing on data from more than sixty countries reached the same conclusion and added a warning: beyond a certain number of hours, more homework is associated with worse results and lower satisfaction with school."
+            },
+            {
+              "label": "C",
+              "text": "Why the difference? Younger children may lack the concentration, and the tasks they are set are often repetitive. Older students can work independently, and homework lets them practise procedures that a lesson can only introduce. The benefit therefore depends less on the quantity of work than on whether the child can do it alone. Where parents must supervise, homework becomes a test of the household."
+            },
+            {
+              "label": "D",
+              "text": "That is the equity problem. A pupil with a quiet room, a laptop and a parent who finished university has an advantage no school can equal. Teachers who set projects rather than exercises often find that the projects are completed by adults. Some schools have responded by moving practice into the school day and reserving home time for reading, which requires no supervision and shows clear benefits."
+            },
+            {
+              "label": "E",
+              "text": "Opponents of homework go further and argue for its abolition in primary schools altogether. The case is strongest for the youngest children, where the academic gain is close to zero and the cost in family conflict is real. But abolition can also widen gaps, because families with money will fill the time with music lessons and tutoring, while others will not."
+            },
+            {
+              "label": "F",
+              "text": "A defensible policy is therefore modest and specific: short, purposeful tasks that a child can complete without help; reading every night; and a clear limit that teachers of different subjects respect. The question is not whether homework works in general, but whether the work set for tonight is worth the evening it takes."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "A widely quoted rule about homework has no research behind it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：「每晚十分钟乘以年龄」这条流传数十年的说法 never been tested against outcomes，而且似乎源自 1990 年代的一篇杂志文章。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "never been tested against outcomes"
+            },
+            {
+              "number": 37,
+              "stem": "For teenagers the link with achievement is small but real, especially in maths.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段第二句：中学生身上作业与考试成绩呈 modest positive link，strongest in mathematics——「小幅但真实、数学最强」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "strongest in mathematics"
+            },
+            {
+              "number": 38,
+              "stem": "Homework helps most when children can manage it without an adult.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：收益「取决于孩子能否独立完成」；需要家长监督时，作业就变成了对家庭的考验。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "whether the child can do it alone"
+            },
+            {
+              "number": 39,
+              "stem": "Conditions at home give some pupils an advantage that schools cannot match.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：安静的房间、一台笔记本、一位读过大学的家长，构成「任何学校都比不了」的优势，这就是公平问题（equity problem）。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "an advantage no school can equal"
+            },
+            {
+              "number": 40,
+              "stem": "Abolishing homework may make inequality worse.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：取消作业也可能扩大差距——有钱家庭会把时间填满音乐课和补习，别的家庭不会。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "abolition can also widen gaps"
+            },
+            {
+              "number": 41,
+              "stem": "Too much homework is linked to poorer results and less enjoyment of school.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：超过一定小时数后，更多作业与 worse results 和 lower satisfaction with school 相关，这正是「成绩更差、更不喜欢学校」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "worse results and lower satisfaction with school"
+            },
+            {
+              "number": 42,
+              "stem": "Some schools now do practice in class and leave only reading for home.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：一些学校把练习移回课堂（moving practice into the school day），只把阅读留在家里，因为阅读无需监督且效果明确。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "moving practice into the school day"
+            },
+            {
+              "number": 43,
+              "stem": "The strongest case for abolition concerns the youngest pupils.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：The case is strongest for the youngest children——年龄最小的孩子学业收益接近零，而家庭冲突的代价是真实的。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "The case is strongest for the youngest children"
+            },
+            {
+              "number": 44,
+              "stem": "A sensible policy sets short tasks and one limit that all teachers keep to.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：可辩护的政策应是「短而有目的、孩子能独立完成的任务；每晚阅读；各科老师共同遵守的明确上限」。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "a clear limit that teachers of different subjects respect"
+            },
+            {
+              "number": 45,
+              "stem": "A familiar figure about homework per night was never checked against results.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：ten minutes a night for every year of a child's age 这一标准数字被写进手册与政府建议，却从未与学习结果对照检验（tested against outcomes）。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "ten minutes a night for every year"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Walk down almost any high street and you will pass a shop with paper taped to the window. Empty units have become a permanent feature of British town centres, and landlords who once waited for a five-year tenant now accept almost anyone who will pay for a month. Into that gap has stepped the pop-up market: a dozen stalls selling bread, plants, records and repaired bicycles, open for a fortnight and then gone. For the landlord the calculation is simple. A short let pays the service charge and keeps the building from looking abandoned, and a shop full of people is easier to show to the next serious tenant than a dark room."
+            },
+            {
+              "label": "B",
+              "text": "For the trader the arithmetic is different. A permanent lease means a deposit, a solicitor, business rates from the day the keys are handed over, and a commitment measured in years. A pop-up means a week's rent, a table, and a card reader. Somebody who makes candles in a kitchen can find out whether strangers will pay twelve pounds for one without risking a life's savings. The same fortnight tells a shopkeeper whether a location works, which is knowledge that used to cost a great deal to acquire."
+            },
+            {
+              "label": "C",
+              "text": "Councils have noticed. A market that fills an empty unit brings people into the street, and people who come for bread may buy a newspaper or a coffee. Several towns now count the visitors a market attracts, and compare the takings of nearby shops on market days with ordinary ones. The figures usually show a modest rise, though a market that sells exactly what the shop next door sells can take trade away as easily as it adds."
+            },
+            {
+              "label": "D",
+              "text": "None of this happens by itself. A market in a disused unit must satisfy the fire service, which will ask about exits, extinguishers and how many people can stand in a room with one staircase. Food stalls need registration and a hygiene inspection; anyone playing music needs a licence; the insurance has to name the landlord. For a two-week event the paperwork can cost more than the rent, and organisers report that a single unanswered letter can delay an opening until the season has passed."
+            },
+            {
+              "label": "E",
+              "text": "Whether pop-ups revive a high street is still an open question. They fill space and they bring colour, and for a few traders they are the first step towards a real lease. But a market that appears for a fortnight and vanishes leaves the same empty window behind it, and shoppers trained to expect something new every month may not settle into the ordinary shops that remain. The honest verdict is that pop-ups buy time for a street rather than save it."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "Why are landlords now willing to let shops on very short terms?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They expect rents to rise sharply next year."
+                },
+                {
+                  "key": "B",
+                  "text": "Fewer traders are able to sign long leases."
+                },
+                {
+                  "key": "C",
+                  "text": "A short let covers costs and keeps the property presentable."
+                },
+                {
+                  "key": "D",
+                  "text": "Councils pay them to fill empty units."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段末两句给出房东的算盘：短租能付掉 service charge，还能让房子不显得荒废，而且「满人的店比黑屋子更好带下一位正经租户看」——既覆盖成本又保持门面，C 正确。A 项说房东预期租金上涨，文中只说他们不再等五年长约的租户；B 是现象不是房东的理由；D 项「议会补贴」文中无据，议会只是统计客流。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "A short let pays the service charge and keeps the building from looking abandoned"
+            },
+            {
+              "number": 47,
+              "stem": "What is the main financial attraction of a pop-up for a trader?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It removes the need to pay rent altogether."
+                },
+                {
+                  "key": "B",
+                  "text": "It avoids a deposit, business rates and a long commitment."
+                },
+                {
+                  "key": "C",
+                  "text": "It guarantees a profit within the first fortnight."
+                },
+                {
+                  "key": "D",
+                  "text": "It allows goods to be sold without any insurance."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段把两种租约对举：长租要押金、律师费、拿到钥匙当天起的商业房产税和多年承诺；快闪只需「一周租金、一张桌子、一个刷卡机」。省掉的正是押金、税费和长约，B 正确。A 项说「完全不用付租金」与 a week's rent 矛盾；C 项「保证盈利」文中只说可以「试探」顾客是否愿付十二镑；D 项保险在 D 段明确要求投保并写上房东名字。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "A permanent lease means a deposit, a solicitor, business rates ... A pop-up means a week's rent, a table, and a card reader."
+            },
+            {
+              "number": 48,
+              "stem": "What do the councils' counts usually indicate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Nearby shops take slightly more on market days."
+                },
+                {
+                  "key": "B",
+                  "text": "Markets lower takings along the whole street."
+                },
+                {
+                  "key": "C",
+                  "text": "Visitors seldom buy anything outside the market."
+                },
+                {
+                  "key": "D",
+                  "text": "The effect on nearby shops is impossible to measure."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段说各城镇比较市集日与平常日附近店铺的营业额，「数字通常显示小幅上升」（a modest rise），A 正确。B 项与 modest rise 相反；C 项与「来买面包的人可能顺手买份报纸或咖啡」矛盾；D 项文中恰恰是已经做了统计比较。注意末句的让步：若市集卖的东西与隔壁店完全一样，也可能抢走生意，但这是例外而非「通常」。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "The figures usually show a modest rise"
+            },
+            {
+              "number": 49,
+              "stem": "According to paragraph D, what often delays a market's opening?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The refusal of landlords to repair empty units."
+                },
+                {
+                  "key": "B",
+                  "text": "A shortage of traders willing to join a market."
+                },
+                {
+                  "key": "C",
+                  "text": "The paperwork required before trading can begin."
+                },
+                {
+                  "key": "D",
+                  "text": "Objections from shops already in the street."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段列举消防、食品登记与卫生检查、音乐许可、保险，随后总结：两周的活动「文书成本可能高过租金」，而且「一封没人回的信就能把开业拖到季末」，因此延误来自审批文书，C 正确。A、B、D 三项所述内容在本段均未出现。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "the paperwork can cost more than the rent ... a single unanswered letter can delay an opening"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's final verdict on pop-ups?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They will replace permanent shops in most town centres."
+                },
+                {
+                  "key": "B",
+                  "text": "They give a street time but do not rescue it."
+                },
+                {
+                  "key": "C",
+                  "text": "They are of little value to landlords or traders."
+                },
+                {
+                  "key": "D",
+                  "text": "They should be limited to a fortnight each year."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段先承认快闪填了空铺、带来人气，是少数商家走向正式租约的第一步；但转折后指出：两周后撤走，留下的还是同一扇空窗，习惯了「每月都有新东西」的顾客未必回流到常设店铺。结论句 pop-ups buy time for a street rather than save it 正是「争取时间而非挽救」，B 正确。A 项过度推断；C 项与「对房东和商家都有价值」矛盾；D 项文中无此建议。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "pop-ups buy time for a street rather than save it"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The collection began with a box. In 2016 a retired teacher clearing a cupboard in the town library found six cassette tapes recorded in the 1980s, labelled only with first names. They held interviews with men who had worked the fishing boats out of the harbour, and the language in them was already going: the words for parts of a net, for the wind off a particular headland, for the man who kept the accounts on shore. She started recording again, and eight years later the archive holds some four hundred hours of conversation with people born between 1925 and 1955."
+            },
+            {
+              "label": "B",
+              "text": "The method is simple and slow. A session lasts ninety minutes and rarely follows the list of questions. The interviewer is told to speak as little as possible, because the useful material usually arrives after a pause, once the person has stopped giving the answer they think is expected. Questions are open: what did you do on your first day? The second session is often the better one, since by then the recorder has been forgotten and the stories have had a week to surface."
+            },
+            {
+              "label": "C",
+              "text": "Someone then has to turn sound into text. A volunteer needs five or six hours to transcribe one hour of speech, and the training takes another day: where to mark a pause, how to spell a word that exists only in speech. The archive's rule is that the recording is the master and the transcript an index. Tidying the grammar would make the page easier to read and would also remove the evidence of how people actually spoke, which is half the reason for keeping it."
+            },
+            {
+              "label": "D",
+              "text": "Rights are settled before anything is published. Each speaker signs a consent form explaining where the material will be held, who may listen and how to withdraw it, and a separate agreement covers copyright, so that a clip can be used in a school lesson without asking again. The difficult cases involve other people. An interview about a strike or a family quarrel names neighbours who never agreed to be recorded, and the archive's practice is to seal such recordings for ten years."
+            },
+            {
+              "label": "E",
+              "text": "The future depends less on enthusiasm than on money and use. The work is paid for by small grants that must be applied for every two years, and the volunteers are growing older. The most successful partnership has been with a secondary school, where pupils interview their grandparents and the archive supplies clips for history lessons. A collection that is only stored is a collection that will eventually be forgotten. What the tapes keep is not only the vocabulary of a trade but the ordinary detail, wages and weather and who married whom, that official records never thought to note."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why were the old cassette tapes thought to be worth keeping?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They recorded interviews with well-known local figures."
+                },
+                {
+                  "key": "B",
+                  "text": "They had already been catalogued by the town council."
+                },
+                {
+                  "key": "C",
+                  "text": "They preserved words for tools and tasks that were dying out."
+                },
+                {
+                  "key": "D",
+                  "text": "They proved how a particular accident at sea had happened."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段：磁带里是港口渔船工人的访谈，其中的词汇「was already going」——渔网部件、某处海角的风、岸上记账人的叫法。这些词随行业消失，才是保存的理由。A、B、D 原文均未提及。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the words for parts of a net, for the wind off a particular headland"
+            },
+            {
+              "number": 52,
+              "stem": "Why is a second recording session often more useful than the first?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The speaker has got used to the machine and had time to remember."
+                },
+                {
+                  "key": "B",
+                  "text": "The interviewer brings a longer list of questions."
+                },
+                {
+                  "key": "C",
+                  "text": "The first session is usually spoilt by background noise."
+                },
+                {
+                  "key": "D",
+                  "text": "The speaker reads from written notes the second time."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段末：第二次往往更好，因为「the recorder has been forgotten」，故事也有一周时间慢慢浮上来。B 与原文相反（问题不在于清单更长），C、D 属无中生有。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "by then the recorder has been forgotten and the stories have had a week to surface"
+            },
+            {
+              "number": 53,
+              "stem": "The word \"master\" in Paragraph C is closest in meaning to",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "a person in charge of the archive."
+                },
+                {
+                  "key": "B",
+                  "text": "a teaching copy for new volunteers."
+                },
+                {
+                  "key": "C",
+                  "text": "a summary prepared for the website."
+                },
+                {
+                  "key": "D",
+                  "text": "the original recording that other versions are checked against."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段：规则是「the recording is the master and the transcript an index」，即录音是母本、转写稿只是索引；后文说整理语法会抹掉「人们实际怎么说话」的证据，可见母本指原始录音。A 是 master 的另一义，与上下文不符。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "the recording is the master and the transcript an index"
+            },
+            {
+              "number": 54,
+              "stem": "Some recordings are kept closed for ten years because",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "the sound quality is too poor to publish."
+                },
+                {
+                  "key": "B",
+                  "text": "people mentioned in them never gave permission."
+                },
+                {
+                  "key": "C",
+                  "text": "the speakers asked to be paid before release."
+                },
+                {
+                  "key": "D",
+                  "text": "a school is using them in its history lessons."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：难处理的是「其他人」——讲罢工或家事的访谈会点到从未同意录音的邻居，因此档案馆的做法是封存十年。A、C、D 均无原文依据。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "neighbours who never agreed to be recorded"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author suggest matters most to the archive's survival?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Being used by schools and local people rather than merely stored."
+                },
+                {
+                  "key": "B",
+                  "text": "Buying better equipment for the recording sessions."
+                },
+                {
+                  "key": "C",
+                  "text": "Persuading the library to provide a permanent room."
+                },
+                {
+                  "key": "D",
+                  "text": "Publishing the transcripts as a printed book."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：经费要靠两年一申请的补助、志愿者在变老，作者因此强调「A collection that is only stored ... will eventually be forgotten」，并把与中学的合作称为最成功的做法——存活取决于被使用。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "A collection that is only stored is a collection that will eventually be forgotten"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n从2019年起，中国一些城市开始在社区里开办食堂，主要服务老年人。一顿午饭通常只要十元左右，菜品清淡，桌椅也方便老人使用。行动不便的居民还可以请人送餐上门。社区食堂同时向所有居民开放，附近上班的年轻人也常常来吃。对独居老人来说，食堂不仅解决了吃饭问题，也提供了一个与人交谈的场所。不过，如何在不提高价格的前提下维持经营，仍是许多食堂面临的难题。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nSince 2019, some cities in China have begun to open canteens inside residential communities, mainly to serve elderly people. A lunch there usually costs only about ten yuan; the dishes are lightly cooked, and the tables and chairs are designed to be easy for older people to use. Residents who have difficulty moving around can also ask for a meal to be delivered to their door. Community canteens are open to all residents at the same time, and young people who work nearby often come to eat as well. For an elderly person living alone, such a canteen solves the problem of getting a proper meal and also provides a place to talk with others. However, how to keep the business running without raising prices remains a difficult question for many of these canteens.\n\n【要点】①「从2019年起」用 Since 2019，主句用现在完成时 have begun；②「菜品清淡」可译为 the dishes are lightly cooked / the food is plain and light；③「行动不便」用 have difficulty moving around；④「送餐上门」用 have a meal delivered to one's door；⑤「在不提高价格的前提下」用 without raising prices，注意 keep the business running 表达「维持经营」。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

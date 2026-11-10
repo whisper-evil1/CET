@@ -51,6 +51,7 @@ data/ecdict-raw/
 
 # 截图（验证产物，不进 git）
 /shots/
+/.build/
 verify-out.txt
 
 # npm pack 产物
@@ -61,3 +62,12 @@ verify-out.txt
 *.log
 prisma/seed.db
 prisma/*.db-journal
+
+# 交付产物（按版本隔离的归档目录，含 zip 包，不进 git —— 一份就在这里，别在仓库里留第二份）
+/交付/
+.deliver-stage/
+# 交付包抽验时解压出来的临时目录
+.zip-check/
+
+# dev 与生产产物目录分离后的 dev 产物（见 next.config.ts distDir）
+.next-dev/

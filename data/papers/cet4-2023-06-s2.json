@@ -1,0 +1,1097 @@
+{
+  "id": "cet4-2023-06-s2",
+  "level": "CET4",
+  "year": 2023,
+  "month": 6,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on why college students should do some volunteer work in their community. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\n\nWhy Students Should Do Some Volunteer Work\n\nVolunteering is often sold to students as a line on a CV. That is the least interesting reason to do it, and the one most likely to end in a single afternoon of tidying a park.\n\nThe stronger reason is that volunteering teaches a skill no lecture can: dealing with people who did not choose to meet you. A student who spends a term helping at a care home learns to listen to someone who tells the same story three times, to speak clearly to a person who cannot hear well, and to be useful without being praised for it. None of that appears on an exam paper.\n\nIt also shows a city to the people who live in it. Students who tutor children in a poor district discover that the address on their student card is not the whole of the place they have moved to.\n\nTwo hours a week is enough. What matters is to choose one thing and keep going, because the people you help will notice whether you come back.\n\n（约 170 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Twenty years ago the independent bookshop looked finished. Supermarkets sold bestsellers at a discount, an online retailer 26______ orders from a warehouse the size of a village, and the small shop on the high street had no obvious answer. Yet the shops did not vanish. In Britain their number has risen for several years running, and the newest ones 27______ far more than books: most have a coffee machine, a noticeboard, and a room at the back where authors 28______ on Thursday evenings."
+            },
+            {
+              "label": "B",
+              "text": "The business model has changed with them. A shop that sells only new titles at full price cannot pay city-centre 29______, which has risen faster than the price of a paperback, and the gap between a chain's price and an independent's is often thirty per cent. So the independents sell something the chains cannot: 30______. Staff who have read the stock can 31______ a customer towards a novel she would never have found by searching online, and that conversation is what people come back for."
+            },
+            {
+              "label": "C",
+              "text": "Online selling has not replaced the shop but 32______ it. Many independents now take orders through a website and 33______ them in the shop the same afternoon, and a few publish 34______ of their events on social media, which brings in readers who would not otherwise come through the door. The margins remain 35______: a single title may earn less than the coffee sold beside it. What keeps these shops open is not a business theory but a neighbourhood that treats them as part of its daily life."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "spreads"
+                },
+                {
+                  "key": "B",
+                  "text": "remains"
+                },
+                {
+                  "key": "C",
+                  "text": "shipped"
+                },
+                {
+                  "key": "D",
+                  "text": "delayed"
+                }
+              ],
+              "answer": "C",
+              "analysis": "主语是 an online retailer（网络零售商），宾语是 orders（订单），需要一个表示「发货、配送」的过去式动词；与后半句「仓库有一个村子那么大」呼应，故 shipped。spreads 指「传播、铺开」，remains 意为「仍然是」，delayed 是「延误」，都与零售商的发货动作相反或无关。",
+              "type": "选词填空",
+              "evidencePara": "A",
+              "evidenceText": "an online retailer 26______ orders from a warehouse the size of a village"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "ignore"
+                },
+                {
+                  "key": "B",
+                  "text": "offer"
+                },
+                {
+                  "key": "C",
+                  "text": "refuse"
+                },
+                {
+                  "key": "D",
+                  "text": "praise"
+                }
+              ],
+              "answer": "B",
+              "analysis": "冒号后列出咖啡机、布告栏、作者朗读的房间，说明新书店「提供」的不只是书，故 offer。ignore（忽视）、refuse（拒绝）与之相反；praise（称赞）与宾语 far more than books 搭配不通。",
+              "type": "选词填空",
+              "evidencePara": "A",
+              "evidenceText": "the newest ones 27______ far more than books"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "read"
+                },
+                {
+                  "key": "B",
+                  "text": "speak"
+                },
+                {
+                  "key": "C",
+                  "text": "argue"
+                },
+                {
+                  "key": "D",
+                  "text": "perform"
+                }
+              ],
+              "answer": "A",
+              "analysis": "本句讲书店后屋的活动，作者（authors）在周四晚上做的事在书店语境下是「朗读」，故 read。speak 过于笼统且不与作品搭配；argue（争论）、perform（表演）都不是作者在书店的典型活动。",
+              "type": "选词填空",
+              "evidencePara": "A",
+              "evidenceText": "a room at the back where authors 28______ on Thursday evenings"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "stock"
+                },
+                {
+                  "key": "B",
+                  "text": "furniture"
+                },
+                {
+                  "key": "C",
+                  "text": "rent"
+                },
+                {
+                  "key": "D",
+                  "text": "shelves"
+                }
+              ],
+              "answer": "C",
+              "analysis": "定语从句 has risen faster than the price of a paperback 说的是「涨价比平装书还快」的开支，对实体店而言是市中心租金，故 rent。stock（存货）、furniture（家具）、shelves（书架）不会年年上涨，也无法与 price 形成比较。",
+              "type": "选词填空",
+              "evidencePara": "B",
+              "evidenceText": "cannot pay city-centre 29______, which has risen faster than the price of a paperback"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "advice"
+                },
+                {
+                  "key": "B",
+                  "text": "profit"
+                },
+                {
+                  "key": "C",
+                  "text": "space"
+                },
+                {
+                  "key": "D",
+                  "text": "loyalty"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后紧接着说店员读过书、能把顾客引向某本小说，这正是「建议、推荐」，故 advice。profit 是连锁店也追求的东西，不能构成对比；space（空间）、loyalty（忠诚）与后文的荐书对话无关。",
+              "type": "选词填空",
+              "evidencePara": "B",
+              "evidenceText": "the independents sell something the chains cannot: 30______"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "push"
+                },
+                {
+                  "key": "B",
+                  "text": "force"
+                },
+                {
+                  "key": "C",
+                  "text": "warn"
+                },
+                {
+                  "key": "D",
+                  "text": "guide"
+                }
+              ],
+              "answer": "D",
+              "analysis": "guide sb towards sth 是固定搭配，表示「把某人引向某物」，语气温和，符合店员荐书，故 guide。push、force 带有强迫意味，与独立书店的服务语气不符；warn（警告）不能接 towards。",
+              "type": "选词填空",
+              "evidencePara": "B",
+              "evidenceText": "Staff who have read the stock can 31______ a customer towards a novel"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "weakened"
+                },
+                {
+                  "key": "B",
+                  "text": "replaced"
+                },
+                {
+                  "key": "C",
+                  "text": "strengthened"
+                },
+                {
+                  "key": "D",
+                  "text": "delayed"
+                }
+              ],
+              "answer": "C",
+              "analysis": "not ... but ... 表示转折对比：网售没有「取代」实体店，反而「增强」了它，后文网上下单、店里取货正是证据，故 strengthened。weakened 与转折后的语义相反；replaced 与前半句重复；delayed（延误）不合逻辑。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "Online selling has not replaced the shop but 32______ it"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "post"
+                },
+                {
+                  "key": "B",
+                  "text": "return"
+                },
+                {
+                  "key": "C",
+                  "text": "store"
+                },
+                {
+                  "key": "D",
+                  "text": "process"
+                }
+              ],
+              "answer": "D",
+              "analysis": "承接 take orders（接单），同一句的动作是在店里「处理」这些订单，故 process。post（邮寄）与 the same afternoon 在店里完成矛盾；return（退回）、store（存放）都不是处理订单。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "take orders through a website and 33______ them in the shop the same afternoon"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "photos"
+                },
+                {
+                  "key": "B",
+                  "text": "recordings"
+                },
+                {
+                  "key": "C",
+                  "text": "reviews"
+                },
+                {
+                  "key": "D",
+                  "text": "prices"
+                }
+              ],
+              "answer": "B",
+              "analysis": "书店在社交媒体上发布活动的「录音/录像」，才能吸引没进过店的人，与 events（朗读、对谈）搭配最紧，故 recordings。photos 虽可发布，但下一句强调的是「听见」活动内容；reviews 是评论、prices 是价格，都与活动记录无关。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "a few publish 34______ of their events on social media"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "healthy"
+                },
+                {
+                  "key": "B",
+                  "text": "stable"
+                },
+                {
+                  "key": "C",
+                  "text": "wide"
+                },
+                {
+                  "key": "D",
+                  "text": "thin"
+                }
+              ],
+              "answer": "D",
+              "analysis": "冒号后说「一本书赚的还不如旁边那杯咖啡」，说明利润空间很小，thin margins 是固定说法，故 thin。healthy、wide 都表示利润丰厚，与解释句相反；stable 只说稳定，不表示微薄。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "The margins remain 35______: a single title may earn less than the coffee sold beside it"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In the early 1970s, Dutch cities were rebuilding their centres for cars, and the number of children killed in traffic was rising. A campaign that took the name Stop de Kindermoord, or Stop Child Murder, began holding protests on the streets where the deaths had happened. Within a decade, national and city money had shifted towards protected cycle tracks, and the result is visible today: Amsterdam, with about 900,000 residents, has more bicycles than people."
+            },
+            {
+              "label": "B",
+              "text": "Seville shows how quickly a network can be built. In 2007 the Spanish city had almost no cycling and a car-dominated centre. Over the next eighteen months it laid about eighty kilometres of tracks separated from traffic by a raised kerb, and the share of trips made by bicycle rose from roughly 0.5 per cent to about 7 per cent. The cost stayed modest because the city took space from cars on main roads instead of digging up narrow side streets."
+            },
+            {
+              "label": "C",
+              "text": "Ghent took a different route. In 2017 the Belgian city closed its medieval centre to through traffic, dividing the area into zones that cars may enter but not cross. Shopkeepers predicted ruin. A study five years later found that the number of businesses in the centre had grown and that visitors stayed longer. Not every trader was convinced, and the plan was adjusted twice after complaints from residents who needed a car for work."
+            },
+            {
+              "label": "D",
+              "text": "Some experiments are temporary, and that is the point. Since 1974 Bogotá has closed more than a hundred kilometres of main road to cars every Sunday. The ciclovía costs little, employs hundreds of people to manage the crossings, and gives families a taste of streets without traffic. Planners elsewhere have copied the idea precisely because it is reversible: a city can try a car-free Sunday before committing to a permanent lane."
+            },
+            {
+              "label": "E",
+              "text": "Not all investment pays off. Several cities painted bicycle symbols on busy roads and counted the scheme a success before anybody had ridden. Where a lane runs between moving buses and parked cars, cyclists are exposed to doors opening and to drivers who have not noticed them. Surveys in such cities find that adults who say they would like to cycle still refuse to let their children do so, and it is that fear, rather than distance, that keeps the numbers flat."
+            },
+            {
+              "label": "F",
+              "text": "Money is the argument that decides most council votes. Research in Toronto and London has found that people arriving on foot or by bicycle spend more in local shops over a month than those arriving by car, simply because they come more often. Drivers still spend more per visit, which is why traders on a street with free parking tend to resist change. The honest answer is that the effect depends on the street: a supermarket beside a ring road is not a bakery in a city centre."
+            },
+            {
+              "label": "G",
+              "text": "The lesson from the successful cities is dull: build a network, not a showpiece. A single safe route attracts almost nobody, because a rider who must join traffic at either end will take the car instead. Cities that reached a share of ten per cent or more did so by connecting homes, schools and workplaces. Electric bicycles have made the task easier in hilly or spread-out places, where a ten-kilometre commute used to be out of the question."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "type": "细节题",
+              "stem": "Protests about road deaths changed how Dutch cities spent their transport budgets.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：1970 年代初儿童交通事故死亡上升，Stop de Kindermoord 运动在事发街道抗议，十年内国家和城市的钱转向了受保护的自行车道。",
+              "evidencePara": "A",
+              "evidenceText": "national and city money had shifted towards protected cycle tracks"
+            },
+            {
+              "number": 37,
+              "type": "细节题",
+              "stem": "One city built most of its network fast and cheaply by taking space from cars.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：塞维利亚用十八个月铺了约八十公里隔离车道，骑行比例从 0.5% 升到约 7%，成本不高，因为占用的是主干道上的汽车空间。",
+              "evidencePara": "B",
+              "evidenceText": "took space from cars on main roads"
+            },
+            {
+              "number": 38,
+              "type": "细节题",
+              "stem": "Banning through traffic from an old centre did not ruin trade, a later study found.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：根特 2017 年把中世纪老城对穿行车辆关闭，店主预言要破产，五年后的研究发现中心区商铺数量反而增加、访客停留更久。",
+              "evidencePara": "C",
+              "evidenceText": "the number of businesses in the centre had grown"
+            },
+            {
+              "number": 39,
+              "type": "推断题",
+              "stem": "A weekly road closure appeals to planners partly because it can be undone.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：其他城市照搬这一做法，正是因为它可以撤回——先试一个无车星期日，再决定要不要修永久车道。",
+              "evidencePara": "D",
+              "evidenceText": "precisely because it is reversible"
+            },
+            {
+              "number": 40,
+              "type": "细节题",
+              "stem": "Painting symbols on busy roads has not produced more cyclists.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：几座城市只在繁忙路段画上自行车标志，还没人骑就先宣布成功，结果骑行人数一直停滞。",
+              "evidencePara": "E",
+              "evidenceText": "counted the scheme a success before anybody had ridden"
+            },
+            {
+              "number": 41,
+              "type": "推断题",
+              "stem": "Parents' fear for their children, rather than the length of the trip, explains low cycling rates.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：说自己想骑车的大人仍不肯让孩子骑，正是这种恐惧而非距离让骑行比例上不去（it is that fear, rather than distance）。",
+              "evidencePara": "E",
+              "evidenceText": "that fear, rather than distance"
+            },
+            {
+              "number": 42,
+              "type": "细节题",
+              "stem": "People on foot or on bikes spend more in local shops over a month than drivers do.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：多伦多与伦敦的研究发现，步行或骑车到店的人一个月内在本地店铺花的钱比开车的人多，因为他们来得更频繁。",
+              "evidencePara": "F",
+              "evidenceText": "spend more in local shops over a month"
+            },
+            {
+              "number": 43,
+              "type": "细节题",
+              "stem": "Shopkeepers beside free parking usually oppose losing it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段中段：开车的人每次花的钱更多，所以门前有免费车位的商户往往抵制改变。",
+              "evidencePara": "F",
+              "evidenceText": "traders on a street with free parking tend to resist change"
+            },
+            {
+              "number": 44,
+              "type": "主旨题",
+              "stem": "One safe route on its own will not persuade people to leave the car at home.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：成功城市的经验很朴素——要建网络而不是建样板路；孤零零一条安全路线几乎无人使用，因为两头还得汇入车流。",
+              "evidencePara": "G",
+              "evidenceText": "A single safe route attracts almost nobody"
+            },
+            {
+              "number": 45,
+              "type": "细节题",
+              "stem": "Electric bicycles have made cycling possible in places with hills or long distances.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段末：电动自行车让多坡或分散的地方也骑得动，而这些地方过去十公里的通勤几乎不可能。",
+              "evidencePara": "G",
+              "evidenceText": "Electric bicycles have made the task easier"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Caffeine is the only drug that most teenagers take every day without anyone calling it a drug. It arrives in cola, iced coffee, chocolate and, increasingly, in sweet powders sold as study aids. A 2022 survey of 800 students aged thirteen to seventeen in the north of England found that one in five had consumed an energy drink before nine in the morning."
+            },
+            {
+              "label": "B",
+              "text": "The pharmacology is not mysterious. Caffeine blocks adenosine, the molecule that builds up during the day and makes us sleepy. In an adult a cup of coffee is cleared in about five hours. In a teenager the same dose may take seven or eight, because the liver enzyme that breaks caffeine down is still maturing. A cola drunk at four in the afternoon can therefore still be active at midnight."
+            },
+            {
+              "label": "C",
+              "text": "The effect on sleep has been measured. Teenagers given caffeine after lunch fell asleep about forty minutes later than those who were not, and their deep sleep was shorter. Deep sleep is when the body releases growth hormone and consolidates what was learned during the day, so the cost is paid twice: in mood the following morning and in memory for the exam that the caffeine was supposed to help with."
+            },
+            {
+              "label": "D",
+              "text": "Schools have begun to respond. Some have removed energy drinks from vending machines, and a few have banned them from the building altogether. Coaches, however, describe a new pattern: students who use caffeine to get through an evening training session, then cannot sleep, then drink more the next day to stay awake in class. It looks less like study and more like a small, self-managed cycle of debt."
+            },
+            {
+              "label": "E",
+              "text": "Advice is easy to give and hard to follow. Several health bodies suggest no more than one milligram per kilogram of body weight for adolescents, which for a student of fifty kilograms means roughly half a can of a strong energy drink. The more useful rule may be a clock: nothing with caffeine after two in the afternoon, and nothing in the four hours before a match or an examination, when what is needed is calm rather than speed."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "type": "细节题",
+              "stem": "What did the 2022 survey find?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "One in five students had an energy drink before nine in the morning."
+                },
+                {
+                  "key": "B",
+                  "text": "Most students drank coffee instead of cola."
+                },
+                {
+                  "key": "C",
+                  "text": "Few students knew that cola contains caffeine."
+                },
+                {
+                  "key": "D",
+                  "text": "Energy drinks were cheaper than chocolate."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末：英格兰北部 800 名 13 至 17 岁学生的调查显示，五分之一的人在早上九点前就喝过能量饮料。B、C、D 文中均未提及。",
+              "evidencePara": "A",
+              "evidenceText": "one in five had consumed an energy drink before nine in the morning"
+            },
+            {
+              "number": 47,
+              "type": "细节题",
+              "stem": "Why does caffeine remain in a teenager's body longer?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Teenagers drink larger cups than adults."
+                },
+                {
+                  "key": "B",
+                  "text": "The liver enzyme that breaks it down is still developing."
+                },
+                {
+                  "key": "C",
+                  "text": "Teenagers sleep less, so the body clears it more slowly."
+                },
+                {
+                  "key": "D",
+                  "text": "Energy drinks contain a second, slower drug."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：成人五小时左右代谢完一杯咖啡，青少年可能要七八小时，原因是分解咖啡因的肝酶尚在发育。A、C、D 均无原文依据。",
+              "evidencePara": "B",
+              "evidenceText": "the liver enzyme that breaks caffeine down is still maturing"
+            },
+            {
+              "number": 48,
+              "type": "细节题",
+              "stem": "What did the sleep study show?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Caffeine made teenagers fall asleep faster."
+                },
+                {
+                  "key": "B",
+                  "text": "Caffeine had no measurable effect on sleep."
+                },
+                {
+                  "key": "C",
+                  "text": "Teenagers given caffeine after lunch slept later and had less deep sleep."
+                },
+                {
+                  "key": "D",
+                  "text": "Only energy drinks, not cola, affected sleep."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：午饭后摄入咖啡因的青少年入睡晚约四十分钟，深度睡眠更短。A、B 与原文相反；D 属于缩小范围，文中说咖啡因本身起作用。",
+              "evidencePara": "C",
+              "evidenceText": "fell asleep about forty minutes later"
+            },
+            {
+              "number": 49,
+              "type": "推断题",
+              "stem": "What pattern do coaches describe?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Students training harder because they sleep well."
+                },
+                {
+                  "key": "B",
+                  "text": "A cycle in which caffeine is used to make up for lost sleep."
+                },
+                {
+                  "key": "C",
+                  "text": "Students giving up sport in order to study."
+                },
+                {
+                  "key": "D",
+                  "text": "A fall in the number of evening training sessions."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：学生靠咖啡因撑过晚间训练，睡不着，第二天又靠更多咖啡因在课堂上保持清醒，作者称之为「自己管理的负债循环」。A 与事实相反；C、D 未提及。",
+              "evidencePara": "D",
+              "evidenceText": "a small, self-managed cycle of debt"
+            },
+            {
+              "number": 50,
+              "type": "细节题",
+              "stem": "Under the suggested limit, how much could a fifty-kilogram student have?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "About half a can of a strong energy drink."
+                },
+                {
+                  "key": "B",
+                  "text": "Three cups of coffee."
+                },
+                {
+                  "key": "C",
+                  "text": "Two litres of cola."
+                },
+                {
+                  "key": "D",
+                  "text": "No caffeine at all."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：建议上限约为每公斤体重 1 毫克，五十公斤的学生约合半罐高浓度能量饮料。B、C 远超该量；D 与「有上限」而非「完全禁止」不符。",
+              "evidencePara": "E",
+              "evidenceText": "roughly half a can of a strong energy drink"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 1911, just under a million people in Wales spoke Welsh, close to half the population. A century later the figure had fallen to about 538,000, under one in five. The decline was not an accident of fashion. Children were punished for speaking Welsh at school, and families who moved to the valleys for work found that English was the language of the office, the shop and the pit."
+            },
+            {
+              "label": "B",
+              "text": "The recovery began with law rather than with enthusiasm. The Welsh Language Act of 1993 gave Welsh equal standing with English in public services, which meant bilingual road signs and forms and, in time, a television channel of its own. A commissioner can now investigate complaints, and public bodies must publish plans showing how they will increase the use of the language."
+            },
+            {
+              "label": "C",
+              "text": "Schools did most of the work. Welsh-medium education, in which every subject is taught in Welsh, grew from a handful of primary schools into a national system; about a quarter of children in Wales are now taught that way. The rule that produced the largest change was less dramatic than it sounds: parents who speak no Welsh may still choose a Welsh-medium school for their children."
+            },
+            {
+              "label": "D",
+              "text": "The weakness comes after school. Many pupils leave Welsh-medium education fluent in the classroom and then rarely use the language again, because their friends, their jobs and their entertainment are in English. Surveys suggest that the number of people able to speak Welsh has been rising slightly, while the number who speak it every day has not."
+            },
+            {
+              "label": "E",
+              "text": "That is why the official target of one million speakers by 2050 is treated with scepticism by some campaigners. Reaching it will depend less on classrooms than on ordinary life: whether a young person can order a coffee in Welsh without being answered in English, and whether a family can raise a child in the language without feeling that they are making a political statement."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "type": "细节题",
+              "stem": "What caused the long decline of Welsh?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A law that banned the language in churches."
+                },
+                {
+                  "key": "B",
+                  "text": "Punishment at school and the dominance of English at work."
+                },
+                {
+                  "key": "C",
+                  "text": "The arrival of television in the 1960s."
+                },
+                {
+                  "key": "D",
+                  "text": "A fall in the population of Wales."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段末：孩子在学校说威尔士语会被处罚，为工作迁入谷地的家庭发现办公室、商店、矿井都用英语。A 文中无此法律；C、D 未提及。",
+              "evidencePara": "A",
+              "evidenceText": "Children were punished for speaking Welsh at school"
+            },
+            {
+              "number": 52,
+              "type": "细节题",
+              "stem": "What did the 1993 Act achieve?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It made Welsh equal to English in public services."
+                },
+                {
+                  "key": "B",
+                  "text": "It required all schools to teach in Welsh."
+                },
+                {
+                  "key": "C",
+                  "text": "It gave every family a grant for bilingual books."
+                },
+                {
+                  "key": "D",
+                  "text": "It created a separate Welsh parliament."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：1993 年《威尔士语法》让威尔士语在公共服务中与英语地位相同，带来双语路牌、表格，后来还有专属电视频道。B 夸大了范围（只是一部分学校）；C、D 未提及。",
+              "evidencePara": "B",
+              "evidenceText": "gave Welsh equal standing with English in public services"
+            },
+            {
+              "number": 53,
+              "type": "细节题",
+              "stem": "What produced the largest change in education?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A rule that only Welsh-speaking parents could apply."
+                },
+                {
+                  "key": "B",
+                  "text": "The decision to teach Welsh as a second language only."
+                },
+                {
+                  "key": "C",
+                  "text": "Allowing parents with no Welsh to choose Welsh-medium schools."
+                },
+                {
+                  "key": "D",
+                  "text": "Closing primary schools that taught in English."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：变化最大的规定听上去并不惊人——不会说威尔士语的父母也可以为孩子选择威尔士语学校。A 与原文相反；B、D 无依据。",
+              "evidencePara": "C",
+              "evidenceText": "parents who speak no Welsh may still choose a Welsh-medium school"
+            },
+            {
+              "number": 54,
+              "type": "推断题",
+              "stem": "What is the main weakness of the revival?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Children no longer learn Welsh in class."
+                },
+                {
+                  "key": "B",
+                  "text": "Speakers are not using the language much once they leave school."
+                },
+                {
+                  "key": "C",
+                  "text": "The language has no television channel."
+                },
+                {
+                  "key": "D",
+                  "text": "Too many adults are moving into Wales."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：许多学生毕业时课堂上很流利，之后几乎不用，因为朋友、工作与娱乐都是英语；能说的人略增，每天说的人没有增加。A、C 与事实相反，D 未提及。",
+              "evidencePara": "D",
+              "evidenceText": "the number who speak it every day has not"
+            },
+            {
+              "number": 55,
+              "type": "主旨题",
+              "stem": "What does the author say the 2050 target depends on?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "More money for bilingual road signs."
+                },
+                {
+                  "key": "B",
+                  "text": "A larger number of Welsh-medium teachers."
+                },
+                {
+                  "key": "C",
+                  "text": "Everyday situations rather than classroom teaching."
+                },
+                {
+                  "key": "D",
+                  "text": "A change in the official census method."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：实现百万目标「与其说靠课堂，不如说靠日常生活」——能否用威尔士语点一杯咖啡而不被用英语回答，能否在家里用这门语言养育孩子。A、B、D 都不是作者强调的重点。",
+              "evidencePara": "E",
+              "evidenceText": "depend less on classrooms than on ordinary life"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n共享单车自2015年前后在中国大城市出现，很快成为一种常见的出行方式。用户用手机扫码解锁，按骑行时间付费，到达目的地后可停放在指定的区域。它解决了从地铁站到住处的「最后一公里」问题，也减少了短途汽车出行。不过，乱停乱放和车辆损坏曾给城市管理带来困扰，一些城市因此划定了停车区并限制了投放数量。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nShared bicycles appeared in China's large cities around 2015 and quickly became a common way of getting around. Users unlock a bike by scanning a code with their phone and pay according to how long they ride, then leave it in a designated area when they reach their destination. The bikes solved the last-kilometre problem between a subway station and home, and they also cut down on short car trips. In the early years, however, careless parking and damaged bicycles caused trouble for city managers, and piles of broken bikes outside stations became a familiar sight. Some cities responded by marking out parking zones and capping the number of bicycles each company may put on the street.\n\n【要点】①「扫码解锁」用 unlock by scanning a code；②「按骑行时间付费」用 pay according to how long they ride，不必逐字译成 riding time；③「最后一公里」是固定说法 the last-kilometre problem；④「划定停车区」用 mark out parking zones；⑤「限制投放数量」用 cap the number of bicycles，cap 作动词表示设上限。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

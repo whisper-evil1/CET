@@ -35,6 +35,23 @@
 
   --radius-card: 10px;
   --ease-out-soft: cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* v2.3 学习台 / 闯关 / 创作平台用色。
+     仍是纸感底 + 朱砂主色，只加了五个低饱和「页签色」区分功能区，
+     不做蓝紫渐变那一套——那是把参考图硬搬过来，和正文的衬线排版打架。 */
+  --color-tint-jade: #e9f2ec; /* 背单词 */
+  --color-tint-amber: #faf0dd; /* 阅读 */
+  --color-tint-indigo: #ebedf9; /* 写作翻译 */
+  --color-tint-rose: #fbece7; /* 小说英译 */
+  --color-tint-sky: #e7eff5; /* 短视频出海 */
+  --color-jade-ink: #2f6b51;
+  --color-amber-ink: #8a6420;
+  --color-indigo-ink: #43457f;
+  --color-rose-ink: #8f4a38;
+  --color-sky-ink: #3a5f78;
+
+  --radius-soft: 16px;
+  --shadow-soft: 0 1px 2px rgba(40, 32, 20, 0.04), 0 8px 24px -16px rgba(40, 32, 20, 0.18);
 }
 
 :root {
@@ -49,6 +66,53 @@
 html,
 body {
   height: 100%;
+}
+
+/* iOS 横屏/放大手势下会自动放大字号，锁住，避免版式跳动 */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+/* 手机端输入框一律 16px：iOS Safari 在字号 < 16px 时会强制放大整页，
+   登录、答题、AI 提问、写笔记全都点一次跳一次，体验很差。
+   这里只能 !important —— Tailwind 的 text-[13.5px] 是类选择器，元素选择器压不住。 */
+@media (max-width: 640px) {
+  input,
+  textarea,
+  select {
+    font-size: 16px !important;
+  }
+}
+
+/* 刘海屏/Home 条：抽屉底部是输入框和发送按钮，不加安全区会被指示条盖住。
+   env() 不认的内核会直接丢弃这条声明，不需要写降级。 */
+aside {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+/* 练习页整屏容器：手机浏览器地址栏伸缩时 100vh 会比可见区域高，
+   底部提交按钮会被挤到屏幕外（容器 overflow:hidden，滚不到）。
+   dvh 不认的内核直接忽略第二行，退回 100vh，与改动前一致。 */
+.app-shell {
+  height: 100vh;
+  height: 100dvh;
+}
+
+/* Tailwind v4 的半透明底色靠 color-mix() 生成，而 color-mix 要 Chrome 111 / Safari 16.2。
+   Chrome 99–110 这类「认得 @layer、也认得可选链，但不认得 color-mix」的内核，
+   会把整条 background 声明丢掉 —— 顶栏和底部工具条直接变透明，滚动时文字互相压。
+   这里只在真的不支持时补成不透明底色，现代浏览器完全不受影响。 */
+@supports not (background-color: color-mix(in oklab, #ffffff, #000000)) {
+  header.sticky {
+    background-color: #faf8f3;
+  }
+  [class*="bg-surface/"] {
+    background-color: #ffffff;
+  }
+  [class*="bg-paper/"] {
+    background-color: #faf8f3;
+  }
 }
 
 body {
@@ -267,3 +331,261 @@ body {
   color: var(--color-ink);
   font-size: 1em;
 }
+
+/* ================= v2.3 学习台 / 闯关 / 创作平台 =================
+   参考图借的是「卡片节奏 + 游戏化信息层级」，不是它的蓝紫渐变。
+   这里的卡片仍然是纸底 + 1px 细线 + 极浅投影，只是圆角放大到 16px，
+   和正文区的直角答题卡区分开：功能区柔和，阅读区仍像印刷品。 */
+
+.card-soft {
+  background: var(--color-surface);
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-soft);
+  box-shadow: var(--shadow-soft);
+}
+
+/* 功能色块：底是低饱和 tint，字用对应的深色，白底上也不会糊成一片 */
+.tile-jade {
+  background: var(--color-tint-jade);
+  border: 1px solid rgba(47, 107, 81, 0.16);
+  color: var(--color-jade-ink);
+}
+.tile-amber {
+  background: var(--color-tint-amber);
+  border: 1px solid rgba(138, 100, 32, 0.16);
+  color: var(--color-amber-ink);
+}
+.tile-indigo {
+  background: var(--color-tint-indigo);
+  border: 1px solid rgba(67, 69, 127, 0.16);
+  color: var(--color-indigo-ink);
+}
+.tile-rose {
+  background: var(--color-tint-rose);
+  border: 1px solid rgba(143, 74, 56, 0.16);
+  color: var(--color-rose-ink);
+}
+.tile-sky {
+  background: var(--color-tint-sky);
+  border: 1px solid rgba(58, 95, 120, 0.16);
+  color: var(--color-sky-ink);
+}
+
+/* Hero 的极淡纸纹叠色：两层 radial，比图片省一个请求，也不会被阻断 */
+.hero-paper {
+  background-image:
+    radial-gradient(120% 90% at 8% 0%, rgba(166, 57, 43, 0.07) 0%, transparent 55%),
+    radial-gradient(90% 80% at 100% 10%, rgba(58, 95, 120, 0.08) 0%, transparent 60%);
+}
+
+/* 连击/得分数字跳动：只在数值变化时加这个类，动画一次性 */
+.pop {
+  animation: popIn 260ms var(--ease-out-soft);
+}
+@keyframes popIn {
+  0% {
+    transform: scale(0.86);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* 进度环：SVG 描边动画在旧内核也能跑，不用 conic-gradient */
+.ring-track {
+  stroke: var(--color-line);
+}
+.ring-value {
+  stroke: var(--color-accent);
+  transition: stroke-dashoffset 420ms var(--ease-out-soft);
+}
+
+/* 横滑卡片条（小屏下「更多作品」），隐去滚动条，保留可滚动 */
+.rail {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.rail::-webkit-scrollbar {
+  display: none;
+}
+
+/* ================= v2.5 趣味闯关页皮肤（对齐 LingGo 设计稿） =================
+   上一版（v2.3）只借了那张稿子的「卡片节奏」，配色仍走纸感 + 朱砂，理由是
+   蓝紫渐变会和正文的衬线排版打架。这次用户明确要求「趣味闯关做成跟这个画面一样」，
+   所以这一页换成稿子那套：白卡 + 18px 圆角 + 亮蓝主按钮 + 彩色插画块。
+
+   范围只到 .arcade-skin 里面：其它页面一个变量都不受影响，正文区仍是纸感。
+   之所以不整站换肤 —— 阅读区要长时间看，亮蓝底白卡会把眼睛拉走。 */
+.arcade-skin {
+  --game-blue: #3882f6;
+  --game-blue-deep: #2563eb;
+  --game-blue-soft: #eaf1fe;
+  --game-green: #10b981;
+  --game-green-soft: #e6f7f1;
+  --game-amber: #f59e0b;
+  --game-amber-soft: #fdf3e3;
+  --game-violet: #6366f1;
+  --game-violet-soft: #ecedfd;
+  --game-line: #e6e9ef;
+  --game-heart: #ef4444; /* 心形命值：设计稿的错误红，不用朱砂 */
+  --game-ink: #111827;
+  --game-mute: #6b7280;
+  --game-shadow: 0 1px 2px rgba(17, 24, 39, 0.04), 0 14px 34px -18px rgba(17, 24, 39, 0.28);
+}
+
+.card-game {
+  background: #ffffff;
+  border: 1px solid var(--game-line);
+  border-radius: 18px;
+  box-shadow: var(--game-shadow);
+}
+
+/* 主按钮：稿子里是亮蓝实心 + 蓝色投影，不用渐变（渐变在低端安卓上会有色带） */
+.btn-game {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  border-radius: 12px;
+  padding: 10px 18px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.2;
+  background: var(--game-blue);
+  color: #ffffff;
+  box-shadow: 0 8px 18px -10px rgba(56, 130, 246, 0.9);
+  transition: background-color 150ms ease;
+}
+.btn-game:hover {
+  background: var(--game-blue-deep);
+}
+
+.btn-game-ghost {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  border-radius: 12px;
+  padding: 10px 18px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.2;
+  background: #ffffff;
+  color: var(--game-ink);
+  border: 1px solid var(--game-line);
+  transition: border-color 150ms ease, background-color 150ms ease;
+}
+.btn-game-ghost:hover {
+  border-color: #c9d2e0;
+  background: #fbfcfe;
+}
+
+/* 功能入口卡：hover 抬一点，靠 border + shadow 变化，不做 transform:
+   scale —— 手机上没有 hover，且 transform 会在旧内核上把子元素文字糊掉 */
+.tile-game {
+  transition: box-shadow 180ms ease, border-color 180ms ease;
+}
+.tile-game:hover {
+  border-color: #d3dced;
+  box-shadow: 0 2px 4px rgba(17, 24, 39, 0.05), 0 18px 40px -20px rgba(17, 24, 39, 0.34);
+}
+
+/* 进度条：轨道浅灰 + 蓝色填充，纯 div 宽度，不用 conic-gradient */
+.bar-game {
+  height: 8px;
+  border-radius: 99px;
+  background: #eef1f6;
+  overflow: hidden;
+}
+.bar-game > span {
+  display: block;
+  height: 100%;
+  border-radius: 99px;
+  background: var(--game-blue);
+  transition: width 420ms var(--ease-out-soft);
+}
+
+/* 插画块底色：三关各一档，都是极浅的 tint，和稿子里彩色头图同构 */
+.art-game {
+  border-radius: 14px;
+  border: 1px solid transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.art-jade {
+  background: var(--game-green-soft);
+  border-color: #cdeee1;
+}
+.art-amber {
+  background: var(--game-amber-soft);
+  border-color: #f6e2c0;
+}
+.art-violet {
+  background: var(--game-violet-soft);
+  border-color: #dcdefb;
+}
+.art-rose {
+  background: #fdecea;
+  border-color: #f7d2cd;
+}
+.art-teal {
+  background: #e9f7ef;
+  border-color: #c9ebda;
+}
+
+/* 语义色类。
+   不写 text-[var(--game-mute)] 这类任意值：Tailwind 对「只是一个 var()」的取值
+   无法判断该生成 font-size 还是 color，会静默生成错的那条。写成具名类最稳。 */
+.g-ink {
+  color: var(--game-ink);
+}
+.g-mute {
+  color: var(--game-mute);
+}
+.g-blue {
+  color: var(--game-blue);
+}
+.g-blue-deep {
+  color: var(--game-blue-deep);
+}
+.g-line {
+  border-color: var(--game-line);
+}
+.g-green-bg {
+  background: var(--game-green);
+  border-color: var(--game-green);
+}
+.g-blue-soft-bg {
+  background: var(--game-blue-soft);
+}
+
+/* 三关页面（背单词/阅读/写作）里用的是通用的 .card-soft。
+   与其把组件的类名一个个换掉，不如在闯关作用域里给 .card-soft 换个皮 ——
+   组件内部一个字不用改，其它页面也不受影响。
+   注意这条必须写在 .card-soft 之后：两条都是无层级规则，靠顺序决出胜负。 */
+.arcade-skin .card-soft {
+  background: #ffffff;
+  border: 1px solid var(--game-line);
+  border-radius: 18px;
+  box-shadow: var(--game-shadow);
+}
+
+/* 阅读原文在小屏整段展开，交给页面滚动。
+   手机上「页面里再套一层内部滚动」非常难用：手指滑到文章区就被吃掉，
+   滑不出去也翻不到下一段。桌面仍是独立的可滚动栏（左文右题）。 */
+@media (max-width: 1023px) {
+  .scroll-pane.scroll-open {
+    max-height: none;
+    overflow-y: visible;
+  }
+}
+
+
+

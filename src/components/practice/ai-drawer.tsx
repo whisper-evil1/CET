@@ -5,6 +5,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { cloud, cloudReady } from "@/lib/cloud";
 import { withSharecode } from "@/lib/share-code";
+import { prepareMarkdown } from "@/lib/markdown";
 
 type Props = {
   questionId: string;
@@ -285,7 +286,9 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
 
       setMessages((prev) => {
         const copy = [...prev];
-        if (copy.at(-1)?.content === "") copy.pop();
+        // 不用 copy.at(-1)：Array.prototype.at 是 ES2022，老内核（Chrome<92 / iOS<15.4）没有
+        const last = copy[copy.length - 1];
+        if (last && last.content === "") copy.pop();
         return copy;
       });
     } finally {
@@ -359,7 +362,7 @@ export function AiDrawer({ questionId, quickPrompts, onClose }: Props) {
               ) : (
                 <div className="prose-tight">
                   {message.content ? (
-                    <ReactMarkdown remarkPlugins={[remarkGfm]}>{message.content}</ReactMarkdown>
+                    <ReactMarkdown remarkPlugins={[remarkGfm]}>{prepareMarkdown(message.content)}</ReactMarkdown>
                   ) : (
                     <span className="caret text-[12.5px] text-ink-mute">思考中</span>
                   )}

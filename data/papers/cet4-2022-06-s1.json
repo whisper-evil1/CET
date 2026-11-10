@@ -1,0 +1,1097 @@
+{
+  "id": "cet4-2022-06-s1",
+  "level": "CET4",
+  "year": 2022,
+  "month": 6,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on the value of learning a practical skill outside your major. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nThe Value of a Practical Skill\n\nMost students choose a major and assume that everything useful will come from it. A practical skill learned outside the classroom — cooking, basic coding, bicycle repair, public speaking — often proves more valuable than another elective.\n\nThe reasons are concrete. First, practical skills build confidence. A student who can fix a leaking tap or debug a simple script learns that problems are solvable, and that feeling carries into academic work. Second, they create options. Graduates change careers several times, and a skill acquired at twenty may become income at thirty. Third, they connect people. Joining a repair workshop or a debate club is a way of meeting students from other departments, which a lecture hall rarely provides.\n\nNone of this means that majors are unimportant. It means that education is larger than a transcript: a student who studies only for exams may graduate with knowledge but without the habit of learning by doing.\n\n（约 155 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "On the edge of most large cities there is a warehouse that smells of six different dinners at once. Inside, a dozen small kitchens are rented by the hour to cooks who want to sell food but cannot yet afford a restaurant of their own. The arrangement is usually called a shared kitchen, and it has grown quickly since delivery apps made it possible to reach customers without a dining room. For about twenty dollars an hour a cook gets a legal stove, a cold room, a steel table and, most important, a 26______ to prepare food for the public. Renting even a tiny restaurant would 27______ a deposit, a long lease and a fit-out that few beginners can 28______."
+            },
+            {
+              "label": "B",
+              "text": "The savings are real, but so are the rules. A shared kitchen must 29______ the same health and fire inspections as any restaurant: an extractor hood above every stove, a signed cleaning rota and a hand basin within reach of each work surface. The manager checks the fridges every morning and 30______ anyone who leaves food uncovered. Members also share the cost of waste collection and pest control, bills that a cook working alone could hardly 31______. What they gain is an address a supplier will accept, and a company number that lets them buy fifty kilos of flour at trade price."
+            },
+            {
+              "label": "C",
+              "text": "The harder lesson concerns customers. Most members sell through delivery apps, which take a 32______ of between fifteen and thirty per cent of every order, and on a bowl of noodles that commission can 33______ the whole margin. Many kitchens therefore 34______ to office lunches and weekend markets, where buyers pay in cash and no platform takes anything. The model also creates work that a single restaurant could not support: one cleaner, one bookkeeper and one driver may serve a dozen businesses at once, and the neighbourhood keeps those jobs. City halls have begun to notice, and several now 35______ part of the rent in the first year, arguing that a restaurant which fails costs them more in benefit payments than the subsidy does."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "recipe"
+                },
+                {
+                  "key": "B",
+                  "text": "licence"
+                },
+                {
+                  "key": "C",
+                  "text": "menu"
+                },
+                {
+                  "key": "D",
+                  "text": "schedule"
+                }
+              ],
+              "answer": "B",
+              "analysis": "空处是 a ______ to prepare food for the public 的中心词，指「获准面向公众做饭」的那份证件。licence 与 prepare food for the public 搭配，表示取得合法经营许可，后文 legal stove、health and fire inspections 也都在讲「合法」。recipe（食谱）、menu（菜单）虽属餐饮词，但「一份食谱/菜单」不能使人获得卖饭资格；schedule（时间表）与经营资质无关。",
+              "type": "选词填空",
+              "evidencePara": "A",
+              "evidenceText": "a cook gets a legal stove, a cold room, a steel table and, most important, a 26______ to prepare food for the public"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "refund"
+                },
+                {
+                  "key": "B",
+                  "text": "require"
+                },
+                {
+                  "key": "C",
+                  "text": "reduce"
+                },
+                {
+                  "key": "D",
+                  "text": "avoid"
+                }
+              ],
+              "answer": "B",
+              "analysis": "主语是 Renting even a tiny restaurant，后面并列 deposit、a long lease 和 a fit-out，三项都是开店要先掏的钱，所以空处应表示「需要、要求」，require 正好接这三种成本。refund（退还）方向相反；reduce（减少）虽能与 deposit 搭配，但句中是在罗列必须付出的成本，不是削减；avoid（避开）与后半句「很少有新手能负担装修」自相矛盾。",
+              "type": "选词填空",
+              "evidencePara": "A",
+              "evidenceText": "Renting even a tiny restaurant would 27______ a deposit, a long lease and a fit-out"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "predict"
+                },
+                {
+                  "key": "B",
+                  "text": "imagine"
+                },
+                {
+                  "key": "C",
+                  "text": "finance"
+                },
+                {
+                  "key": "D",
+                  "text": "repeat"
+                }
+              ],
+              "answer": "C",
+              "analysis": "a fit-out 指店面的装修与设备投入，是纯粹的花钱项；few beginners can finance it 意为「很少有新手拿得出这笔钱」，finance 作动词表示「为……提供资金」，与前文 deposit、lease 的花费逻辑一致。predict（预料）、imagine（想象）说的是想法而非付钱；repeat（重复）与装修费用无关，也无法与 can 构成「负担得起」的意思。",
+              "type": "选词填空",
+              "evidencePara": "A",
+              "evidenceText": "a fit-out that few beginners can 28______"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "pass"
+                },
+                {
+                  "key": "B",
+                  "text": "conduct"
+                },
+                {
+                  "key": "C",
+                  "text": "cancel"
+                },
+                {
+                  "key": "D",
+                  "text": "record"
+                }
+              ],
+              "answer": "A",
+              "analysis": "pass the same health and fire inspections 是「通过同样严格的卫生与消防检查」的固定说法：检查由监管部门做，厨房是被检查、要过关的一方，冒号后列的排风罩、清洁轮值表、洗手池正是检查内容。conduct 的主语应是检查方，若厨房自己 conduct inspections 就成了自查；cancel（取消）与「必须达到同样标准」相反；record（记录）只是留档，不等于合格。",
+              "type": "选词填空",
+              "evidencePara": "B",
+              "evidenceText": "A shared kitchen must 29______ the same health and fire inspections as any restaurant"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "excuses"
+                },
+                {
+                  "key": "B",
+                  "text": "employs"
+                },
+                {
+                  "key": "C",
+                  "text": "warns"
+                },
+                {
+                  "key": "D",
+                  "text": "invites"
+                }
+              ],
+              "answer": "C",
+              "analysis": "空格前是 The manager checks the fridges every morning，后接 anyone who leaves food uncovered，指经理对「把食物敞着放」的人采取的动作，warn sb 表示「警告某人」，符合卫生管理的语境。excuse（原谅、免罚）与管理者纠正违规的角色相反；employ（雇用）、invite（邀请）都无法接「食物没盖好」这一行为作对象。",
+              "type": "选词填空",
+              "evidencePara": "B",
+              "evidenceText": "and 30______ anyone who leaves food uncovered"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "inspect"
+                },
+                {
+                  "key": "B",
+                  "text": "afford"
+                },
+                {
+                  "key": "C",
+                  "text": "measure"
+                },
+                {
+                  "key": "D",
+                  "text": "postpone"
+                }
+              ],
+              "answer": "B",
+              "analysis": "bills 指垃圾清运和除虫的账单，a cook working alone could hardly ______ 说明独自开火的人几乎付不起，因此 Members also share the cost 才成立，afford 与 bills 搭配表示「负担得起」。inspect（检查账单）与「分摊费用」无关；measure（衡量）、postpone（推迟）都不能解释为什么大家要合租厨房分摊成本。",
+              "type": "选词填空",
+              "evidencePara": "B",
+              "evidenceText": "bills that a cook working alone could hardly 31______"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "cut"
+                },
+                {
+                  "key": "B",
+                  "text": "list"
+                },
+                {
+                  "key": "C",
+                  "text": "copy"
+                },
+                {
+                  "key": "D",
+                  "text": "price"
+                }
+              ],
+              "answer": "A",
+              "analysis": "take a cut of ... per cent 是固定搭配，指外卖平台从每笔订单中抽走一定比例；紧随其后的 that commission 正是对这个 cut 的复指，十五到三十个百分点也说明它是抽成。list（清单）、copy（副本）都无法与百分比构成「抽取」义；price 是卖方定的售价，不能说平台 take a price of 15%，被拿走的是佣金而非定价权。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "delivery apps, which take a 32______ of between fifteen and thirty per cent of every order"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "protect"
+                },
+                {
+                  "key": "B",
+                  "text": "double"
+                },
+                {
+                  "key": "C",
+                  "text": "explain"
+                },
+                {
+                  "key": "D",
+                  "text": "erase"
+                }
+              ],
+              "answer": "D",
+              "analysis": "前句说平台抽走 15%–30%，本句 on a bowl of noodles（一碗面本就薄利）说明这点佣金足以把利润全部吃掉，erase the whole margin 是「抹掉全部利润」的形象说法。protect（保护利润）与抽成的作用相反；double（使翻倍）既夸大又不符合薄利语境；explain（解释利润）与「钱被拿走」没有关系。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "on a bowl of noodles that commission can 33______ the whole margin"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "turn"
+                },
+                {
+                  "key": "B",
+                  "text": "object"
+                },
+                {
+                  "key": "C",
+                  "text": "listen"
+                },
+                {
+                  "key": "D",
+                  "text": "belong"
+                }
+              ],
+              "answer": "A",
+              "analysis": "turn to 是「转向、改做」的固定搭配，后接 office lunches and weekend markets，说明商家为躲开平台抽成而改做别的生意，与 where buyers pay in cash and no platform takes anything 呼应。object to 意为「反对」，与「另找出路」的主动调整相反；listen to 后接「午餐」不合逻辑；belong to 表归属，无法表达改变经营方向。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "Many kitchens therefore 34______ to office lunches and weekend markets"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "collect"
+                },
+                {
+                  "key": "B",
+                  "text": "raise"
+                },
+                {
+                  "key": "C",
+                  "text": "cover"
+                },
+                {
+                  "key": "D",
+                  "text": "estimate"
+                }
+              ],
+              "answer": "C",
+              "analysis": "several now ______ part of the rent in the first year 讲市政府替创业者承担部分租金，cover 表示「支付、负担（费用）」，与后半句「餐馆倒闭要让政府多付救济金」的补贴逻辑一致。collect（收取租金）方向相反，市政府在这里是出钱方；raise（提高）与补贴相反；estimate（估算）只是计算金额，不构成实际资助。",
+              "type": "选词填空",
+              "evidencePara": "C",
+              "evidenceText": "several now 35______ part of the rent in the first year, arguing that a restaurant which fails costs them more in benefit payments"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In most museums, the rule is the same: look, but do not touch. For a visitor who cannot see, that rule removes almost everything. A painting becomes a label; a sculpture becomes a shape described by someone else. Over the past decade, a number of large museums have begun to redesign parts of their buildings around this group of visitors, who number around 250 million worldwide."
+            },
+            {
+              "label": "B",
+              "text": "The most familiar change is audio description. A trained describer records a commentary that gives not only subject and colour but also composition, texture and scale — \"the woman's hands are the brightest thing in the painting\" rather than \"a portrait of a woman\". Good description takes hours to write for a single work, and museums that produce it usually start with a small selection rather than the whole collection."
+            },
+            {
+              "label": "C",
+              "text": "A second change is touch. At the Tate in London, visitors can handle small versions of sculptures, made from the same stone or bronze, in a session led by a curator. The Metropolitan Museum of Art in New York runs touch tours of its Egyptian galleries, where original objects are protected but replicas are not. Museum staff report that sighted visitors who join these tours often say they notice more than they did on their own."
+            },
+            {
+              "label": "D",
+              "text": "Design matters as much as programming. Glass cases reflect light and create glare that hides the object behind them; low labels cannot be read by someone using a white cane; handrails that end suddenly are worse than none. Several museums now employ access officers whose job is to walk the building as a visitor would and record every point where the route fails."
+            },
+            {
+              "label": "E",
+              "text": "Money is the obvious obstacle. Audio description, replica making and staff training all cost, and few museums can afford to treat every gallery this way. Smaller institutions have responded by sharing resources: a group of regional museums in Britain now commissions descriptions jointly and lends the recordings to one another, which cuts the cost of each to a fraction."
+            },
+            {
+              "label": "F",
+              "text": "There is also a question of attitude. For years, access was treated as a duty to be met at the end of a project, when the exhibition was already designed. The museums that do it well involve disabled visitors at the planning stage, asking them what they want to know about an object before anyone writes a word. This changes the result: descriptions become less about what the curator finds important and more about what a visitor needs in order to picture the thing."
+            },
+            {
+              "label": "G",
+              "text": "The wider effect may be the most interesting. Once a museum explains a painting in words, or lets a hand follow the curve of a bowl, the explanation stays on the wall or in the app for everyone. Access, in other words, has turned out to be a form of good teaching — one that helps the visitor who is blind and the visitor who is simply tired, distracted or new to art."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "type": "细节题",
+              "stem": "Accessibility was once handled only after an exhibition had already been designed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：多年来无障碍被当作项目末尾才完成的义务，「在展览设计完成之后」。对应句为 access was treated as a duty to be met at the end of a project。",
+              "evidencePara": "F",
+              "evidenceText": "at the end of a project, when the exhibition was already designed"
+            },
+            {
+              "number": 37,
+              "type": "细节题",
+              "stem": "A good spoken description includes composition and texture, not just the subject.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段指出，好的口述不仅讲主题和颜色，还要讲构图、质感和尺度，并给出「手是画中最亮的部分」这一实例。",
+              "evidencePara": "B",
+              "evidenceText": "not only subject and colour but also composition, texture and scale"
+            },
+            {
+              "number": 38,
+              "type": "细节题",
+              "stem": "Some museums allow visitors to hold objects or copies of them.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段讲泰特美术馆让观众触摸雕塑的小型复制品，大都会博物馆则在埃及展厅提供触摸导览。",
+              "evidencePara": "C",
+              "evidenceText": "visitors can handle small versions of sculptures"
+            },
+            {
+              "number": 39,
+              "type": "细节题",
+              "stem": "Smaller museums reduce costs by commissioning work together.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：一批地方博物馆联合委托制作解说，并互相借用录音，使每家成本降到零头。",
+              "evidencePara": "E",
+              "evidenceText": "commissions descriptions jointly and lends the recordings"
+            },
+            {
+              "number": 40,
+              "type": "推断题",
+              "stem": "Badly designed galleries can block access even when programmes exist.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段列举玻璃反光、标签过低、扶手突然中断等问题，说明设计本身就会把观众挡在展品之外。",
+              "evidencePara": "D",
+              "evidenceText": "every point where the route fails"
+            },
+            {
+              "number": 41,
+              "type": "推断题",
+              "stem": "Sighted visitors also gain from facilities intended for blind people.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：文字解说留在墙上或应用里供所有人使用，无障碍因此成了一种好的教学，也帮到疲惫或初接触艺术的观众。",
+              "evidencePara": "G",
+              "evidenceText": "the visitor who is simply tired, distracted or new to art"
+            },
+            {
+              "number": 42,
+              "type": "细节题",
+              "stem": "The group of people affected by this issue is very large.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末给出数字：全球约有 2.5 亿视障观众，说明受影响人群规模巨大。",
+              "evidencePara": "A",
+              "evidenceText": "who number around 250 million worldwide"
+            },
+            {
+              "number": 43,
+              "type": "细节题",
+              "stem": "Some staff are employed simply to walk around and note where visitors get stuck.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段说一些博物馆设「无障碍专员」，职责就是像观众一样走一遍建筑，记录线路失败的每一处。",
+              "evidencePara": "D",
+              "evidenceText": "walk the building as a visitor would"
+            },
+            {
+              "number": 44,
+              "type": "细节题",
+              "stem": "Producing a single description can take many hours of work.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：为一件作品写好解说要花数小时，因此博物馆通常先做少量精选，而非整馆覆盖。",
+              "evidencePara": "B",
+              "evidenceText": "takes hours to write for a single work"
+            },
+            {
+              "number": 45,
+              "type": "细节题",
+              "stem": "Sharing the cost makes high-quality access affordable for small institutions.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段首句点明费用是主要障碍，随后给出解法：联合委托、共享录音，把每家的成本降到很小一部分。",
+              "evidencePara": "E",
+              "evidenceText": "cuts the cost of each to a fraction"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Online shopping was sold to consumers on a promise of convenience, and nothing embodies that promise more than the free return. Buy three sizes, keep one, send the rest back at no cost: the phrase is now standard in fashion retail. The arrangement is convenient for the shopper, but the cost does not disappear. It moves to the retailer, and eventually to the customer in the form of higher prices."
+            },
+            {
+              "label": "B",
+              "text": "The scale is larger than most shoppers imagine. In Germany, returns account for roughly one in every six online fashion purchases; in the United States the figure is closer to one in five. A returned garment rarely goes straight back on the shelf. It must be opened, inspected, steam-cleaned, re-tagged and re-folded, and a significant share is never resold at full price. Some is sold to discounters; some, in the case of cheap items, is destroyed because handling costs more than the product is worth."
+            },
+            {
+              "label": "C",
+              "text": "Transport adds another layer. A parcel that travels from a warehouse to a home and back may cover several hundred kilometres, and many returns are sent individually rather than in bulk. That is one reason some European retailers have begun to charge a small fee for returns made through the post while keeping store returns free. The fee is not designed to make money; it is designed to make people think before ordering three sizes."
+            },
+            {
+              "label": "D",
+              "text": "A newer strategy attacks the problem earlier. Virtual fitting rooms, better size charts and photographs of clothes on models of different heights have all been shown to reduce returns, though modestly. Some brands now ask customers who return frequently to explain why, and a few have closed the accounts of people who send back almost everything they order — a practice that has attracted both praise and complaints from consumer groups."
+            },
+            {
+              "label": "E",
+              "text": "The most radical suggestion comes from researchers who study packaging. If a product is likely to be returned, they argue, it should be designed for the return journey from the start: a box that reseals, a label that can be reversed, a garment bag that protects the item on its second trip. None of this makes returns free. It makes them less wasteful, which is a different and more honest goal."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "type": "主旨题",
+              "stem": "What does the author emphasize about free returns?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The cost is passed on to shoppers through prices."
+                },
+                {
+                  "key": "B",
+                  "text": "They are the main reason people shop online."
+                },
+                {
+                  "key": "C",
+                  "text": "They have been banned in several countries."
+                },
+                {
+                  "key": "D",
+                  "text": "Retailers make a profit from the fees."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末句明确：免费退货的成本并未消失，而是转给商家，最终以更高价格转给消费者。B 夸大其作用，C 文中无据，D 与 C 段「收费不为赚钱」矛盾。",
+              "evidencePara": "A",
+              "evidenceText": "eventually to the customer in the form of higher prices"
+            },
+            {
+              "number": 47,
+              "type": "细节题",
+              "stem": "Why are some cheap returned goods destroyed?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are too dirty to clean."
+                },
+                {
+                  "key": "B",
+                  "text": "Handling them costs more than they are worth."
+                },
+                {
+                  "key": "C",
+                  "text": "Regulations forbid reselling them."
+                },
+                {
+                  "key": "D",
+                  "text": "Customers refuse to buy discounted items."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：低价商品被销毁，是因为处理成本高于商品本身价值。A、C、D 均未在文中出现。",
+              "evidencePara": "B",
+              "evidenceText": "handling costs more than the product is worth"
+            },
+            {
+              "number": 48,
+              "type": "推断题",
+              "stem": "Why do some retailers charge for postal returns?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To cover the cost of steam-cleaning."
+                },
+                {
+                  "key": "B",
+                  "text": "To encourage customers to think before ordering."
+                },
+                {
+                  "key": "C",
+                  "text": "To push shoppers towards expensive products."
+                },
+                {
+                  "key": "D",
+                  "text": "To reduce the number of physical stores."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段末句：收费不是为了赚钱，而是让人在下单买三个尺码之前先想一想。A 属另一环节，C、D 无据。",
+              "evidencePara": "C",
+              "evidenceText": "make people think before ordering three sizes"
+            },
+            {
+              "number": 49,
+              "type": "细节题",
+              "stem": "What does the author say about virtual fitting rooms?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have solved the returns problem."
+                },
+                {
+                  "key": "B",
+                  "text": "They reduce returns only to a limited degree."
+                },
+                {
+                  "key": "C",
+                  "text": "They are too costly for most brands."
+                },
+                {
+                  "key": "D",
+                  "text": "They work better for men than for women."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：虚拟试衣、尺码表和不同身高模特的照片都被证明能减少退货，但幅度有限（though modestly）。A 绝对化，C、D 无据。",
+              "evidencePara": "D",
+              "evidenceText": "have all been shown to reduce returns, though modestly"
+            },
+            {
+              "number": 50,
+              "type": "主旨题",
+              "stem": "What do packaging researchers propose?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Charging customers for every return."
+                },
+                {
+                  "key": "B",
+                  "text": "Designing products for the return trip in advance."
+                },
+                {
+                  "key": "C",
+                  "text": "Selling all returned goods at full price."
+                },
+                {
+                  "key": "D",
+                  "text": "Replacing cardboard with plastic packaging."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：如果商品很可能被退回，就应从一开始按「回程」设计——可重新封口的盒子、可反向使用的标签等。A 是 C 段零售商做法，C、D 无据。",
+              "evidencePara": "E",
+              "evidenceText": "designed for the return journey from the start"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2001, a 3,500-acre farm in Sussex, England, stopped farming. The owners of Knepp had spent years losing money on intensive arable land and decided to do something that sounded like surrender: they removed the fences, put back old breeds of cattle and pigs, and let the land do what it wanted. Twenty years later, the estate is one of the most studied rewilding projects in Europe."
+            },
+            {
+              "label": "B",
+              "text": "The results were not what the owners expected. They had hoped for birds; they got insects first. Scrub grew where crops had been, and with it came nightingales, turtle doves and purple emperor butterflies, species that had been disappearing from the British countryside for decades. Free-roaming animals created muddy patches and bare ground, small disturbances that turned out to be essential for plants that had nowhere else to grow."
+            },
+            {
+              "label": "C",
+              "text": "Rewilding is not the same as leaving land alone. At Knepp, large herbivores replace the grazing that wild aurochs and boar once provided, and their numbers are managed. Conservationists argue about how far to go: some want to reintroduce predators such as lynx; others say that in a crowded country the risks to livestock and the objections of farmers are too great. Even beavers, widely praised for creating wetlands, have been removed from some rivers after flooding farmland."
+            },
+            {
+              "label": "D",
+              "text": "The economics are equally contested. Rewilding can pay through tourism, carbon credits and food from free-roaming animals, but these incomes are small and slow compared with conventional farming. Public subsidies matter, and they are politically fragile: a scheme that pays landowners to restore habitat can be cut when budgets tighten, leaving projects without a business model."
+            },
+            {
+              "label": "E",
+              "text": "For all the arguments, the Knepp experiment has changed the terms of the debate. It showed that degraded farmland can recover faster than ecologists predicted, and that the recovery is messy, unpredictable and full of species that nobody planted. The lesson is uncomfortable for planners: nature does not follow a design. The best that people can do may be to remove the obstacles and then wait."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "type": "细节题",
+              "stem": "What did the owners of Knepp decide to do in 2001?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Sell the farm to a conservation group."
+                },
+                {
+                  "key": "B",
+                  "text": "Stop farming and let the land develop naturally."
+                },
+                {
+                  "key": "C",
+                  "text": "Turn the farm into a housing estate."
+                },
+                {
+                  "key": "D",
+                  "text": "Grow a wider range of crops."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：农场停止耕作，拆掉围栏，放回老品种牛羊，让土地「按自己的意愿生长」，即停止农耕、任其自然演替。",
+              "evidencePara": "A",
+              "evidenceText": "stopped farming"
+            },
+            {
+              "number": 52,
+              "type": "细节题",
+              "stem": "What surprised the owners about the results?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Birds arrived before insects."
+                },
+                {
+                  "key": "B",
+                  "text": "Insects appeared before the birds they hoped for."
+                },
+                {
+                  "key": "C",
+                  "text": "No new species appeared at all."
+                },
+                {
+                  "key": "D",
+                  "text": "The land became less fertile."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：他们本来盼着鸟，结果先来的是昆虫，随后灌木长出，夜莺、斑鸠等才随之而来。A 顺序颠倒。",
+              "evidencePara": "B",
+              "evidenceText": "They had hoped for birds; they got insects first"
+            },
+            {
+              "number": 53,
+              "type": "推断题",
+              "stem": "Why is rewilding not simply a matter of leaving land alone?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Large grazing animals must be introduced and controlled."
+                },
+                {
+                  "key": "B",
+                  "text": "All fences must be removed immediately."
+                },
+                {
+                  "key": "C",
+                  "text": "Farmers are not allowed to sell their land."
+                },
+                {
+                  "key": "D",
+                  "text": "Trees have to be planted by hand."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段首两句：再野化不等于放任不管，Knepp 用大型食草动物替代已消失的野牛与野猪的啃食，并对其数量进行管理。",
+              "evidencePara": "C",
+              "evidenceText": "their numbers are managed"
+            },
+            {
+              "number": 54,
+              "type": "推断题",
+              "stem": "What is a weakness of rewilding as a business?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Tourists are not interested in wild land."
+                },
+                {
+                  "key": "B",
+                  "text": "It depends on subsidies that may be withdrawn."
+                },
+                {
+                  "key": "C",
+                  "text": "It produces no food at all."
+                },
+                {
+                  "key": "D",
+                  "text": "Carbon credits are illegal in Britain."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：旅游、碳信用和放养家畜的收入都小且慢，公共补贴至关重要却又「政治上脆弱」，预算收紧时可能被砍掉。C 与「放养动物提供食物」矛盾。",
+              "evidencePara": "D",
+              "evidenceText": "they are politically fragile"
+            },
+            {
+              "number": 55,
+              "type": "主旨题",
+              "stem": "What is the main lesson of the Knepp experiment?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Nature recovers in unpredictable ways if obstacles are removed."
+                },
+                {
+                  "key": "B",
+                  "text": "Ecologists can accurately predict how land will recover."
+                },
+                {
+                  "key": "C",
+                  "text": "Farmland should never be used for food production."
+                },
+                {
+                  "key": "D",
+                  "text": "Only species planted by people will survive."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：恢复比生态学家预想的更快，但过程杂乱、不可预测，长出的物种没人种过；人能做的最好是移开障碍然后等待。B、D 与原文相反，C 过度推论。",
+              "evidencePara": "E",
+              "evidenceText": "nature does not follow a design"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国的新能源汽车产业发展迅速，产销量连续多年位居世界第一。越来越多消费者选择电动车，因为充电比加油便宜，许多城市还不对新能源车限行。各地因此加快充电桩建设，高速公路服务区也基本实现覆盖。不过，冬季续航缩短、老旧小区难以安装充电桩等问题仍然存在。业内人士认为，随着电池技术进步和充电网络完善，电动车将走进更多家庭。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nIn recent years, China's new energy vehicle industry has grown rapidly, and its output and sales have ranked first in the world for several years running. More and more consumers are choosing electric cars, because charging costs less than buying petrol and many cities do not restrict their use on days when traffic limits apply. To support this shift, local governments have accelerated the building of charging points, and highway service areas are now largely covered. Problems remain, however: driving ranges shrink in winter, and installing chargers in old residential compounds is difficult. Some owners also worry about the resale value of their cars, and public chargers in remote areas are still hard to find. Industry observers believe that as battery technology improves and the charging network expands, electric vehicles will enter more and more households.\n\n【要点】①「产销量」译为 output and sales，避免逐字直译；②「位居世界第一」用 rank first in the world；③「不限行」意译为 do not restrict their use，比直译 no traffic restriction 更自然；④「续航」用 driving range，是固定说法；⑤「老旧小区」可译为 old residential compounds；⑥时态以现在完成时为主，末句用将来时。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "id": "cet4-2024-06-s2",
+  "level": "CET4",
+  "year": 2024,
+  "month": 6,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on the importance of learning to manage money before leaving university. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nThe Importance of Learning to Manage Money Before Leaving University\n\nMost students handle more money than ever before and understand it less. A monthly allowance arrives, a phone bill is paid automatically, and by the twentieth of the month the account is empty with nothing to show for it. Graduation does not fix this; it raises the stakes.\n\nManaging money is really three small skills. The first is knowing where it goes: for one month, write down every purchase, including the two-yuan ones. The second is separating what is fixed from what is chosen—rent and transport are fixed, takeaway dinners are chosen, and only the second can be reduced. The third is saving before spending rather than after, even if the amount is fifty yuan.\n\nThese habits matter because adult life charges for things students never budget for: a deposit, a broken laptop, a train ticket home in an emergency. A graduate with three months of expenses saved can refuse a bad job offer. That is not a financial detail; it is freedom.\n\n（约 170 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "An empty corner between two blocks of flats is easy to ignore. In many cities, however, such corners have become community gardens, and the people who tend them say that the vegetables are the least important part of the harvest. The first task is practical. Soil in a former car park is often 26______ with oil and rubble, so raised beds filled with clean earth are built instead. Water is the second problem: a garden far from a tap needs 27______, and most groups collect rain from the roof of a shed."
+            },
+            {
+              "label": "B",
+              "text": "The social results are harder to 28______. A plot costs little to rent, but it gives a retired man somewhere to go in the morning and a young mother a reason to 29______ her neighbours. In one Bristol estate the garden became the place where residents 30______ a campaign against a planned road."
+            },
+            {
+              "label": "C",
+              "text": "Not every project survives. Gardens fail when the land is sold, when a volunteer moves away, or when the group cannot 31______ the work through the winter. Those that last tend to share three habits: a waiting list that keeps interest alive, a rule that members 32______ at least one working morning a month, and a treasurer who is 33______ about money."
+            },
+            {
+              "label": "D",
+              "text": "Councils have noticed. Some now write gardens into planning agreements, and a few 34______ land for a nominal rent. The reason is not sentiment. A well-used garden costs less than mowing an empty lawn, and it 35______ neighbours who might otherwise never speak."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {"key": "A", "text": "crowded"},
+                {"key": "B", "text": "contaminated"},
+                {"key": "C", "text": "decorated"},
+                {"key": "D", "text": "divided"}
+              ],
+              "answer": "B",
+              "analysis": "空后 with oil and rubble（含油污与碎石）说明前停车场的土壤已被「污染」，因而不直接用，改做高架种植床；crowded 用于人或物拥挤，decorated 与 divided 都不含污染之意。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "so raised beds filled with clean earth are built instead"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {"key": "A", "text": "irrigation"},
+                {"key": "B", "text": "permission"},
+                {"key": "C", "text": "attention"},
+                {"key": "D", "text": "protection"}
+              ],
+              "answer": "A",
+              "analysis": "前半句是 Water is the second problem（水是第二个难题），后半句说大多数小组从棚顶收集雨水，说明缺的是「灌溉」；permission 与 water 无关，protection 不解决缺水问题。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "Water is the second problem"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {"key": "A", "text": "avoid"},
+                {"key": "B", "text": "ignore"},
+                {"key": "C", "text": "measure"},
+                {"key": "D", "text": "repeat"}
+              ],
+              "answer": "C",
+              "analysis": "与上段 the first task is practical 对照，本段讲社会效果「更难衡量」；后文用退休老人、年轻母亲、社区运动等具体表现来量化这种效果，故用 measure。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "The social results are harder to measure"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {"key": "A", "text": "question"},
+                {"key": "B", "text": "blame"},
+                {"key": "C", "text": "copy"},
+                {"key": "D", "text": "meet"}
+              ],
+              "answer": "D",
+              "analysis": "a reason to ... her neighbours 与前半句 somewhere to go 并列，都指园子带来的社交机会，因此是「认识」邻居；question 与 blame 带敌意，与社区花园的和睦语境相反。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "a reason to meet her neighbours"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {"key": "A", "text": "delayed"},
+                {"key": "B", "text": "launched"},
+                {"key": "C", "text": "recorded"},
+                {"key": "D", "text": "cancelled"}
+              ],
+              "answer": "B",
+              "analysis": "a campaign against a planned road 指居民「发起」一场反对修路的运动，launch a campaign 是固定搭配；delayed 与语境相反，attended 不接 campaign 作宾语。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "a campaign against a planned road"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {"key": "A", "text": "sustain"},
+                {"key": "B", "text": "finish"},
+                {"key": "C", "text": "describe"},
+                {"key": "D", "text": "share"}
+              ],
+              "answer": "A",
+              "analysis": "through the winter（整整一个冬天）强调持续性，与前面 the group cannot（小组无力）搭配，指无法「维持」冬季的劳作；finish 只指做完，afford 侧重钱，均不合「持续维护」之意。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "cannot sustain the work through the winter"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {"key": "A", "text": "join"},
+                {"key": "B", "text": "miss"},
+                {"key": "C", "text": "attend"},
+                {"key": "D", "text": "discuss"}
+              ],
+              "answer": "C",
+              "analysis": "宾语是 at least one working morning a month（每月至少一个劳动日上午），指「参加」集体劳动，attend 直接接活动；join 需接组织或加 in，miss 意思相反。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "attend at least one working morning a month"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {"key": "A", "text": "cheerful"},
+                {"key": "B", "text": "senior"},
+                {"key": "C", "text": "generous"},
+                {"key": "D", "text": "careful"}
+              ],
+              "answer": "D",
+              "analysis": "能与 about money 搭配、又是园子得以长期维持的条件，只能是管账人「谨慎」；generous 虽也接 about money，但对财务管理者而言恰是缺点，与前文 three habits 的正面评价矛盾。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "a treasurer who is careful about money"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {"key": "A", "text": "sell"},
+                {"key": "B", "text": "buy"},
+                {"key": "C", "text": "lease"},
+                {"key": "D", "text": "study"}
+              ],
+              "answer": "C",
+              "analysis": "for a nominal rent（象征性租金）说明是出租而非买卖，lease land 指出租土地；sell 与 for a rent 自相矛盾，buy 方向相反。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "for a nominal rent"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {"key": "A", "text": "reminds"},
+                {"key": "B", "text": "connects"},
+                {"key": "C", "text": "divides"},
+                {"key": "D", "text": "replaces"}
+              ],
+              "answer": "B",
+              "analysis": "who might otherwise never speak（否则可能从不交谈）说明园子让邻里「建立联系」，与全篇的社交主题一致；divides 意思相反，replaces 与 neighbours 搭配不当。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "neighbours who might otherwise never speak"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Most cities have two rush hours, and they are not accidents of geography. When offices, schools and shops all begin within the same forty minutes, demand for trains and roads is squeezed into a peak that no operator can serve comfortably. A commuter who boards at eight o'clock stands in a crowded carriage; the same train at ten past nine runs half empty. The line is not short of capacity over the day, only at the moment everyone has agreed to use it."
+            },
+            {
+              "label": "B",
+              "text": "Flexible starting times are the simplest response. Instead of a single beginning, employers offer a window, say seven thirty to ten, and staff still work their full contracted hours. Because arrival times spread out, the number of people entering a station in any quarter hour falls sharply, even though the same people travel on the same day. Transport planners call this smoothing the peak, and it costs a company almost nothing to try."
+            },
+            {
+              "label": "C",
+              "text": "A trial organised with thirty employers and about four thousand staff found that entries to two central stations during the peak quarter hour dropped by fifteen to twenty per cent once start times were loosened. The organisers were careful about the claim: the change was achieved with a timetable and a conversation, not with new track. Compared with the cost of a new metro line, they argued, the measure paid for itself many times over."
+            },
+            {
+              "label": "D",
+              "text": "Parents are the awkward exception. A flexible office day is of limited use if the school gate opens at eight fifteen and closes at three thirty. Where schools and employers have coordinated, with breakfast clubs from seven, a slightly later first lesson and after-school care until six, the effect on the peak is much larger. Staggering office hours while leaving school hours untouched tends to move the queue rather than remove it."
+            },
+            {
+              "label": "E",
+              "text": "Employers also carry costs that the trials rarely count. A small firm with one receptionist cannot offer her a choice of starting times, and a shop must open when its customers expect it. Supervisors need to record hours that used to be obvious, and teams lose the hour when everyone was certainly present. The savings in travel time belong mostly to the employee, while the administrative burden stays inside the business."
+            },
+            {
+              "label": "F",
+              "text": "Operators have their own interest in the peak. Season tickets and peak fares supply a large share of revenue, and a spread-out demand curve can mean less money for the same service. There is an equity point as well: nurses, cleaners and kitchen staff already travel outside the rush, not because they chose to but because their shifts begin early or end late. Flexibility offered to office staff does nothing for them."
+            },
+            {
+              "label": "G",
+              "text": "The honest conclusion is that no single policy will empty the rush hour. Flexible hours, school timetables, off-peak pricing and decisions about where new housing is built all pull in the same direction, and each is modest on its own. Spreading the peak is cheap and worth doing, but it is not a substitute for capacity on a line that is full at every hour of the working day."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "A trial with several thousand workers showed that entries to two stations in the busiest quarter hour fell by up to a fifth.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段第一句：三十家雇主、约四千名员工的试验显示，放宽上班时间后，两个中心车站在高峰一刻钟的进站量下降 15%–20%，即「最多五分之一」。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "entries to two central stations during the peak quarter hour dropped by fifteen to twenty per cent"
+            },
+            {
+              "number": 37,
+              "stem": "A very small business may find it impossible to let staff choose when to start because of the way its work is covered.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段第二句：只有一名前台的小公司无法给她选择上班时间的自由，商店也必须在顾客期望的时间开门——岗位必须有人守，弹性就无从谈起。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "A small firm with one receptionist cannot offer her a choice of starting times"
+            },
+            {
+              "number": 38,
+              "stem": "Fixed starting times squeeze travel demand into a brief period that the network cannot serve comfortably.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段第二句：办公、学校、商店都在同一四十分钟内开始，把出行需求压进一个任何运营方都无法从容应对的高峰。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "demand for trains and roads is squeezed into a peak that no operator can serve comfortably"
+            },
+            {
+              "number": 39,
+              "stem": "Unless the school day is adjusted too, flexible working tends to shift congestion rather than reduce it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末句：只错开办公时间而不动学校时间，只是「把队列挪个位置」，而不是消除它。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "Staggering office hours while leaving school hours untouched tends to move the queue rather than remove it"
+            },
+            {
+              "number": 40,
+              "stem": "Transport operators may be reluctant because their income depends on crowded peak services.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段第二句：月票与高峰票价贡献了很大一部分收入，需求曲线被摊平意味着同样的服务换来更少的钱——运营方因此缺乏动力。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "Season tickets and peak fares supply a large share of revenue"
+            },
+            {
+              "number": 41,
+              "stem": "Staff still complete their contracted hours but may begin work at any point inside a given range.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段第二句：雇主给出一个时间窗（七点半到十点），员工仍要上满合同工时——自由的是起点，不是总量。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "staff still work their full contracted hours"
+            },
+            {
+              "number": 42,
+              "stem": "The author concludes that spreading the peak cannot take the place of extra capacity.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段末句：错峰便宜且值得做，但对于全天满载的线路，它「不能替代运力」（not a substitute for capacity）。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "it is not a substitute for capacity on a line that is full at every hour"
+            },
+            {
+              "number": 43,
+              "stem": "The measure was described as far cheaper than building new infrastructure.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末两句：靠一张时刻表加一次沟通就实现，没有新建轨道；与新地铁线的造价相比，「早已回本多次」。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "the measure paid for itself many times over"
+            },
+            {
+              "number": 44,
+              "stem": "Keeping a record of working time becomes an additional task for managers.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段第三句：主管需要记录过去一目了然的工时，团队也失去了「所有人肯定都在」的那一个小时——这些都是落在企业内部的行政负担。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "Supervisors need to record hours that used to be obvious"
+            },
+            {
+              "number": 45,
+              "stem": "Trains are crowded for only a short part of the day and run with spare room later.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段第三、四句：八点的车厢人挤人，九点十分的同一趟车却空着一半；线路缺的不是全天运力，只是大家约定同时出行的那一刻。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the same train at ten past nine runs half empty"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The ocean is not silent, but for most of its history it was quiet in the frequencies that whales use. Sound travels about four times faster in water than in air, which is why a humpback can hear another whale many kilometres away. Since the 1950s, however, the noise created by shipping has raised background levels in the low frequencies by roughly one order of magnitude."
+            },
+            {
+              "label": "B",
+              "text": "The noise comes mainly from propellers. A large container ship generates a continuous rumble below 200 hertz that overlaps almost exactly with the calls of baleen whales. The result is not deafness but masking: a whale can still hear, but the distance at which it can pick out a mate or a calf shrinks. In busy shipping lanes, researchers estimate that this usable range may fall by half or more."
+            },
+            {
+              "label": "C",
+              "text": "In 2017 the Port of Vancouver tried an experiment called ECHO. Ships were asked to slow down as they approached, from about 18 knots to 11, in exchange for a small rebate on harbour fees. Slower ships are quieter ships: the trials measured a reduction of up to 55 per cent in underwater noise from individual vessels. Most operators joined voluntarily, and the programme has since been extended."
+            },
+            {
+              "label": "D",
+              "text": "Speed is only part of the answer. Quieter propeller designs exist, but a ship lasts thirty years, so the fleet changes slowly. Washing a hull reduces drag and noise at the same time, which makes the economics easier. Moving shipping lanes away from feeding grounds costs almost nothing and can be done by agreement between coast guards."
+            },
+            {
+              "label": "E",
+              "text": "The difficulty is that noise, unlike an oil spill, leaves no photograph. It is invisible, it disperses, and no single ship can be blamed. Regulators therefore find it hard to act, and the industry argues, reasonably, that it needs a standard it can design to. An international limit on radiated noise for new ships would give naval architects a target. Until that exists, the cheapest gains come from slowing down."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What has happened to low-frequency sound in the ocean since the 1950s?",
+              "options": [
+                {"key": "A", "text": "It has become harder for whales to produce."},
+                {"key": "B", "text": "It has risen by about ten times."},
+                {"key": "C", "text": "It has spread into deeper water."},
+                {"key": "D", "text": "It has been reduced by new propellers."}
+              ],
+              "answer": "B",
+              "analysis": "A 段末：航运噪声使低频背景声提高了约一个数量级（roughly one order of magnitude），即约十倍。D 项说反了，静音螺旋桨只是 D 段提到的部分解法。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "by roughly one order of magnitude"
+            },
+            {
+              "number": 47,
+              "stem": "Why is propeller noise especially harmful to baleen whales?",
+              "options": [
+                {"key": "A", "text": "It makes them unable to hear anything at all."},
+                {"key": "B", "text": "It overlaps with the frequencies of their calls."},
+                {"key": "C", "text": "It forces them to swim in deeper water."},
+                {"key": "D", "text": "It damages their hearing permanently."}
+              ],
+              "answer": "B",
+              "analysis": "B 段：大型集装箱船 200 赫兹以下的持续轰鸣与须鲸的叫声几乎完全重叠，结果是「遮蔽」而非失聪——能听见，但能分辨伴侣或幼崽的距离缩短。A、D 都误读了 not deafness but masking。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "overlaps almost exactly with the calls of baleen whales"
+            },
+            {
+              "number": 48,
+              "stem": "What did the ECHO programme ask ship operators to do?",
+              "options": [
+                {"key": "A", "text": "Replace their propellers before entering port."},
+                {"key": "B", "text": "Slow down in return for a fee reduction."},
+                {"key": "C", "text": "Take a different route to the harbour."},
+                {"key": "D", "text": "Report their noise levels each month."}
+              ],
+              "answer": "B",
+              "analysis": "C 段：进港船舶被要求从约 18 节减速到 11 节，作为交换获得港口费的少量返还（a small rebate on harbour fees）；换螺旋桨（A）与改航道（C）是 D 段另外提到的措施。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "in exchange for a small rebate on harbour fees"
+            },
+            {
+              "number": 49,
+              "stem": "Why is underwater noise harder to regulate than an oil spill?",
+              "options": [
+                {"key": "A", "text": "It is invisible and cannot be traced to one ship."},
+                {"key": "B", "text": "It only affects species that are not protected."},
+                {"key": "C", "text": "It disappears too quickly to be measured."},
+                {"key": "D", "text": "It is produced mainly by fishing boats."}
+              ],
+              "answer": "A",
+              "analysis": "E 段：噪声不像漏油那样能拍成照片，看不见、会扩散，也无法归咎于某一条船（no single ship can be blamed），因此监管难。C 项与它 disperses 但仍可长期测量的事实不符。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "It is invisible, it disperses, and no single ship can be blamed"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author suggest as the cheapest immediate measure?",
+              "options": [
+                {"key": "A", "text": "Building a new generation of ships."},
+                {"key": "B", "text": "Setting an international noise limit at once."},
+                {"key": "C", "text": "Reducing ship speed."},
+                {"key": "D", "text": "Closing busy shipping lanes."}
+              ],
+              "answer": "C",
+              "analysis": "E 段末：在国际噪声限值出台之前，最便宜的收益来自减速（the cheapest gains come from slowing down）。B 项是作者期待的长期方案，而非当下最便宜的做法。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "the cheapest gains come from slowing down"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "About a third of students in American higher education are the first in their family to attend university. The category is broad: it includes a farmer's daughter from a town of 900 and the child of immigrants who arrived at fourteen. What they share is a kind of knowledge that nobody at home can supply."
+            },
+            {
+              "label": "B",
+              "text": "The gap appears early. First-generation students apply to fewer universities and are more likely to choose one within an hour of home. They are less likely to know that a professor's office hours are an invitation rather than a punishment, or that a poor grade in the first term is common and recoverable. Small misunderstandings accumulate: a scholarship deadline missed, a form returned without a signature."
+            },
+            {
+              "label": "C",
+              "text": "Money is part of it, but not all of it. First-generation students work longer hours in paid jobs and are more likely to live at home, which reduces the time available for laboratories, societies and the unpaid internships that lead to good jobs. They are also more likely to leave without a degree, even when their school results were as good as those of their classmates."
+            },
+            {
+              "label": "D",
+              "text": "Universities have tried several remedies. The oldest American programme, TRIO, dates from 1965 and offers tutoring and advice to students from low-income families. Recent efforts are smaller and more targeted: a phone call in the summer before arrival from a current student, a named adviser, a small grant for textbooks that arrives before term rather than after it."
+            },
+            {
+              "label": "E",
+              "text": "The evidence on what works points to information rather than inspiration. Telling students what to do, in specific terms and at the moment they need it, helps; motivational speeches do not. One experiment at a large state university found that simplifying the financial-aid form raised re-enrolment by several percentage points. Another showed that a text message from a peer mentor in week three was worth more than a welcome event in week one."
+            },
+            {
+              "label": "F",
+              "text": "The wider point is that a university's rules are written for people who already know them. A first-generation student is not less able; she is reading an unfamiliar set of instructions without a translator. Changing the instructions is cheaper than changing the student."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Who are counted as first-generation students?",
+              "options": [
+                {"key": "A", "text": "Students whose parents did not attend university."},
+                {"key": "B", "text": "Students born outside the United States."},
+                {"key": "C", "text": "Students from families with low incomes only."},
+                {"key": "D", "text": "Students who are the first to study abroad."}
+              ],
+              "answer": "A",
+              "analysis": "A 段首句：家中第一个上大学的人。同段强调这一类别很宽（农场主的女儿、移民子女都有），故 C 项「只限低收入家庭」不成立；B、D 与定义无关。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the first in their family to attend university"
+            },
+            {
+              "number": 52,
+              "stem": "What does the author mention as an early disadvantage?",
+              "options": [
+                {"key": "A", "text": "They are refused places at selective universities."},
+                {"key": "B", "text": "They do not understand how informal academic customs work."},
+                {"key": "C", "text": "They are given lower grades than classmates."},
+                {"key": "D", "text": "They cannot afford to live away from home."}
+              ],
+              "answer": "B",
+              "analysis": "B 段：他们不知道教授的 office hours 是「邀请」而不是惩罚，也不知道第一学期成绩差很常见、可以补救——这些都是不成文的学术惯例。C 项与后文「成绩和同学一样好」矛盾。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "office hours are an invitation rather than a punishment"
+            },
+            {
+              "number": 53,
+              "stem": "Why does the author say that money is not the whole story?",
+              "options": [
+                {"key": "A", "text": "Because tuition is now free for these students."},
+                {"key": "B", "text": "Because paid work and living at home take time from other opportunities."},
+                {"key": "C", "text": "Because their families refuse to support them."},
+                {"key": "D", "text": "Because scholarships cover all their costs."}
+              ],
+              "answer": "B",
+              "analysis": "C 段：钱只是一部分——他们打工时间更长、更可能住家里，于是用于实验室、社团和无薪实习的时间减少，而这些恰是通向好工作的路径；且即便成绩相当，也更可能拿不到学位。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "reduces the time available for laboratories, societies and the unpaid internships"
+            },
+            {
+              "number": 54,
+              "stem": "What kind of support does the evidence favour?",
+              "options": [
+                {"key": "A", "text": "Speeches by successful graduates."},
+                {"key": "B", "text": "Large welcome events at the start of term."},
+                {"key": "C", "text": "Specific information given at the moment it is needed."},
+                {"key": "D", "text": "Long-term financial support only."}
+              ],
+              "answer": "C",
+              "analysis": "E 段：证据指向 information rather than inspiration——在需要的时候给出具体指引有帮助，励志演讲没有；第三周同伴导师的一条短信比第一周的迎新活动更有价值（否定 B）。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "in specific terms and at the moment they need it"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's conclusion?",
+              "options": [
+                {"key": "A", "text": "Universities should admit fewer first-generation students."},
+                {"key": "B", "text": "Universities should change their rules rather than the students."},
+                {"key": "C", "text": "Parents should be taught how universities work."},
+                {"key": "D", "text": "The problem cannot be solved by universities."}
+              ],
+              "answer": "B",
+              "analysis": "F 段末：改变「说明书」比改变学生更便宜（Changing the instructions is cheaper than changing the student）。作者还强调这类学生并不笨，只是在读一份没人翻译的陌生说明，故 B 正确。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "Changing the instructions is cheaper than changing the student"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n景德镇位于江西省，自宋代起就以制瓷闻名。当地的高岭土质地纯净，加上充足的木材和便利的水运，使这里成为中国最重要的瓷器产地。青花瓷在元代趋于成熟，明清时期大量销往海外，被欧洲人称为「白色黄金」。今天，城中仍有数以千计的作坊与工作室，许多年轻陶艺家从各地前来学习，制瓷技艺在这里代代相传。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nJingdezhen lies in Jiangxi Province and has been famous for porcelain since the Song Dynasty. Its kaolin is unusually pure, and the abundant supply of firewood and convenient water transport made the town the most important centre of porcelain production in China. Blue-and-white porcelain matured during the Yuan Dynasty and was exported in large quantities in the Ming and Qing periods, when Europeans called it white gold. Today there are still thousands of workshops and studios in the city, and many young potters come from all over the country to learn there. The craft of porcelain making has thus been passed down from one generation to the next.\n\n【要点】①「位于」用 lies in / is located in；②「以……闻名」用 has been famous for，配 since 用现在完成时；③「使这里成为」可用 made the town…，避免与前面并列句重复；④「青花瓷」固定译法 blue-and-white porcelain；⑤「被欧洲人称为」用被动 was called / was known as；⑥「代代相传」用 has been passed down from one generation to the next。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

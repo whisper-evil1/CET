@@ -1,0 +1,1403 @@
+{
+  "id": "cet4-2025-12-s2",
+  "level": "CET4",
+  "year": 2025,
+  "month": 12,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "For this part, you are allowed 30 minutes to write an essay on whether university students should be required to do community service. You should state your opinion and give reasons. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nShould Community Service Be Required?\n\nSome universities now make community service a condition of graduation. I believe this is a reasonable requirement, provided that students are given real choices about what they do.\n\nFirst, service forces students out of the campus bubble. Tutoring a child in a crowded neighbourhood, or helping elderly residents use a phone, teaches things a lecture cannot: how to explain an idea to someone who does not share your vocabulary, and how to be useful when you are not in charge. Second, it makes the university a better neighbour. Institutions that take young people for four years should give something back to the city that hosts them.\n\nOpponents argue that compulsory kindness is not kindness at all, and that busy students already work part-time jobs. This is fair, which is why the requirement should be small, flexible and unpaid only in name—travel costs should be covered.\n\nA requirement of forty hours over three years is not a burden. It is a small, structured push towards a habit that many graduates keep for life.\n\n（约 170 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Second-hand clothing has moved from charity shops to the high street. Online platforms now let people sell a jacket they have worn twice, and younger shoppers increasingly see used clothes as 26______ rather than shameful. Part of the appeal is 27______: prices are lower, and the quality of older garments is often better than that of cheap new ones. There is an environmental argument too. Every shirt that is worn again is one that does not go to a 28______ site, and making a new cotton T-shirt uses a large 29______ of water. Yet the trade is not without problems. Critics point out that clothes donated in rich countries can 30______ textile industries in poorer ones, where local makers cannot compete with free imports. Sellers, meanwhile, are often 31______ to describe faults honestly, since a small stain may cut the price in half. Regulators in several countries have begun to 32______ platforms that copy the language of sustainability without any evidence. For buyers, the practical advice is simple: check the seams, ask for measurements, and 33______ any item whose photographs look too good. If the market is to 34______, trust must matter more than style, which is why the most successful platforms now 35______ every transaction and publish buyer reviews."
+            },
+            {
+              "label": "词库",
+              "text": "A) able   B) advise   C) amount   D) avoid   E) building   F) buy   G) cancel   H) damage   I) economic   J) fashionable   K) grow   L) landfill   M) monitor   N) penalise   O) reluctant"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "advise"
+                },
+                {
+                  "key": "C",
+                  "text": "amount"
+                },
+                {
+                  "key": "D",
+                  "text": "avoid"
+                },
+                {
+                  "key": "E",
+                  "text": "building"
+                },
+                {
+                  "key": "F",
+                  "text": "buy"
+                },
+                {
+                  "key": "G",
+                  "text": "cancel"
+                },
+                {
+                  "key": "H",
+                  "text": "damage"
+                },
+                {
+                  "key": "I",
+                  "text": "economic"
+                },
+                {
+                  "key": "J",
+                  "text": "fashionable"
+                },
+                {
+                  "key": "K",
+                  "text": "grow"
+                },
+                {
+                  "key": "L",
+                  "text": "landfill"
+                },
+                {
+                  "key": "M",
+                  "text": "monitor"
+                },
+                {
+                  "key": "N",
+                  "text": "penalise"
+                },
+                {
+                  "key": "O",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "J",
+              "analysis": "空白与 rather than shameful（丢人的）形成对照，且主语是「年轻买家」，说明他们把旧衣看作「时髦的」；后文 style 也呼应。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "see used clothes as ... rather than shameful"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "advise"
+                },
+                {
+                  "key": "C",
+                  "text": "amount"
+                },
+                {
+                  "key": "D",
+                  "text": "avoid"
+                },
+                {
+                  "key": "E",
+                  "text": "building"
+                },
+                {
+                  "key": "F",
+                  "text": "buy"
+                },
+                {
+                  "key": "G",
+                  "text": "cancel"
+                },
+                {
+                  "key": "H",
+                  "text": "damage"
+                },
+                {
+                  "key": "I",
+                  "text": "economic"
+                },
+                {
+                  "key": "J",
+                  "text": "fashionable"
+                },
+                {
+                  "key": "K",
+                  "text": "grow"
+                },
+                {
+                  "key": "L",
+                  "text": "landfill"
+                },
+                {
+                  "key": "M",
+                  "text": "monitor"
+                },
+                {
+                  "key": "N",
+                  "text": "penalise"
+                },
+                {
+                  "key": "O",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "I",
+              "analysis": "冒号后的解释是「价格更低、旧衣质量常好于廉价新品」，都属于钱的因素，因此是 economic（经济上的）。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "prices are lower"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "advise"
+                },
+                {
+                  "key": "C",
+                  "text": "amount"
+                },
+                {
+                  "key": "D",
+                  "text": "avoid"
+                },
+                {
+                  "key": "E",
+                  "text": "building"
+                },
+                {
+                  "key": "F",
+                  "text": "buy"
+                },
+                {
+                  "key": "G",
+                  "text": "cancel"
+                },
+                {
+                  "key": "H",
+                  "text": "damage"
+                },
+                {
+                  "key": "I",
+                  "text": "economic"
+                },
+                {
+                  "key": "J",
+                  "text": "fashionable"
+                },
+                {
+                  "key": "K",
+                  "text": "grow"
+                },
+                {
+                  "key": "L",
+                  "text": "landfill"
+                },
+                {
+                  "key": "M",
+                  "text": "monitor"
+                },
+                {
+                  "key": "N",
+                  "text": "penalise"
+                },
+                {
+                  "key": "O",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "L",
+              "analysis": "一件衣服不再穿就被送去填埋场，landfill site 是固定说法；本句讲的是旧衣复穿减少垃圾，与环保论点一致。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "does not go to a ... site"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "advise"
+                },
+                {
+                  "key": "C",
+                  "text": "amount"
+                },
+                {
+                  "key": "D",
+                  "text": "avoid"
+                },
+                {
+                  "key": "E",
+                  "text": "building"
+                },
+                {
+                  "key": "F",
+                  "text": "buy"
+                },
+                {
+                  "key": "G",
+                  "text": "cancel"
+                },
+                {
+                  "key": "H",
+                  "text": "damage"
+                },
+                {
+                  "key": "I",
+                  "text": "economic"
+                },
+                {
+                  "key": "J",
+                  "text": "fashionable"
+                },
+                {
+                  "key": "K",
+                  "text": "grow"
+                },
+                {
+                  "key": "L",
+                  "text": "landfill"
+                },
+                {
+                  "key": "M",
+                  "text": "monitor"
+                },
+                {
+                  "key": "N",
+                  "text": "penalise"
+                },
+                {
+                  "key": "O",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "C",
+              "analysis": "water 是不可数名词，要用 a large amount of；a large number of 只能接可数名词复数，a great deal of 前不加 large。",
+              "type": "语法搭配题",
+              "evidencePara": "A",
+              "evidenceText": "uses a large ... of water"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "advise"
+                },
+                {
+                  "key": "C",
+                  "text": "amount"
+                },
+                {
+                  "key": "D",
+                  "text": "avoid"
+                },
+                {
+                  "key": "E",
+                  "text": "building"
+                },
+                {
+                  "key": "F",
+                  "text": "buy"
+                },
+                {
+                  "key": "G",
+                  "text": "cancel"
+                },
+                {
+                  "key": "H",
+                  "text": "damage"
+                },
+                {
+                  "key": "I",
+                  "text": "economic"
+                },
+                {
+                  "key": "J",
+                  "text": "fashionable"
+                },
+                {
+                  "key": "K",
+                  "text": "grow"
+                },
+                {
+                  "key": "L",
+                  "text": "landfill"
+                },
+                {
+                  "key": "M",
+                  "text": "monitor"
+                },
+                {
+                  "key": "N",
+                  "text": "penalise"
+                },
+                {
+                  "key": "O",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "H",
+              "analysis": "后半句说当地制衣者「无法与免费进口货竞争」，可见捐赠衣物伤害了当地纺织业，选 damage。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "local makers cannot compete with free imports"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "advise"
+                },
+                {
+                  "key": "C",
+                  "text": "amount"
+                },
+                {
+                  "key": "D",
+                  "text": "avoid"
+                },
+                {
+                  "key": "E",
+                  "text": "building"
+                },
+                {
+                  "key": "F",
+                  "text": "buy"
+                },
+                {
+                  "key": "G",
+                  "text": "cancel"
+                },
+                {
+                  "key": "H",
+                  "text": "damage"
+                },
+                {
+                  "key": "I",
+                  "text": "economic"
+                },
+                {
+                  "key": "J",
+                  "text": "fashionable"
+                },
+                {
+                  "key": "K",
+                  "text": "grow"
+                },
+                {
+                  "key": "L",
+                  "text": "landfill"
+                },
+                {
+                  "key": "M",
+                  "text": "monitor"
+                },
+                {
+                  "key": "N",
+                  "text": "penalise"
+                },
+                {
+                  "key": "O",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "O",
+              "analysis": "because 从句说明「一个小污点会让价格减半」，利益驱动下卖家「不愿」如实描述瑕疵，be reluctant to do 搭配正确。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a small stain may cut the price in half"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "advise"
+                },
+                {
+                  "key": "C",
+                  "text": "amount"
+                },
+                {
+                  "key": "D",
+                  "text": "avoid"
+                },
+                {
+                  "key": "E",
+                  "text": "building"
+                },
+                {
+                  "key": "F",
+                  "text": "buy"
+                },
+                {
+                  "key": "G",
+                  "text": "cancel"
+                },
+                {
+                  "key": "H",
+                  "text": "damage"
+                },
+                {
+                  "key": "I",
+                  "text": "economic"
+                },
+                {
+                  "key": "J",
+                  "text": "fashionable"
+                },
+                {
+                  "key": "K",
+                  "text": "grow"
+                },
+                {
+                  "key": "L",
+                  "text": "landfill"
+                },
+                {
+                  "key": "M",
+                  "text": "monitor"
+                },
+                {
+                  "key": "N",
+                  "text": "penalise"
+                },
+                {
+                  "key": "O",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "N",
+              "analysis": "监管机构针对「无证据却套用可持续话术」的平台，动作应是处罚（penalise），而非表扬或雇用。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "platforms that copy the language of sustainability without any evidence"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "advise"
+                },
+                {
+                  "key": "C",
+                  "text": "amount"
+                },
+                {
+                  "key": "D",
+                  "text": "avoid"
+                },
+                {
+                  "key": "E",
+                  "text": "building"
+                },
+                {
+                  "key": "F",
+                  "text": "buy"
+                },
+                {
+                  "key": "G",
+                  "text": "cancel"
+                },
+                {
+                  "key": "H",
+                  "text": "damage"
+                },
+                {
+                  "key": "I",
+                  "text": "economic"
+                },
+                {
+                  "key": "J",
+                  "text": "fashionable"
+                },
+                {
+                  "key": "K",
+                  "text": "grow"
+                },
+                {
+                  "key": "L",
+                  "text": "landfill"
+                },
+                {
+                  "key": "M",
+                  "text": "monitor"
+                },
+                {
+                  "key": "N",
+                  "text": "penalise"
+                },
+                {
+                  "key": "O",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "D",
+              "analysis": "给买家的建议是「照片看起来太好」的商品要避开，与前文「检查缝线、询问尺寸」同属防骗建议。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "any item whose photographs look too good"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "advise"
+                },
+                {
+                  "key": "C",
+                  "text": "amount"
+                },
+                {
+                  "key": "D",
+                  "text": "avoid"
+                },
+                {
+                  "key": "E",
+                  "text": "building"
+                },
+                {
+                  "key": "F",
+                  "text": "buy"
+                },
+                {
+                  "key": "G",
+                  "text": "cancel"
+                },
+                {
+                  "key": "H",
+                  "text": "damage"
+                },
+                {
+                  "key": "I",
+                  "text": "economic"
+                },
+                {
+                  "key": "J",
+                  "text": "fashionable"
+                },
+                {
+                  "key": "K",
+                  "text": "grow"
+                },
+                {
+                  "key": "L",
+                  "text": "landfill"
+                },
+                {
+                  "key": "M",
+                  "text": "monitor"
+                },
+                {
+                  "key": "N",
+                  "text": "penalise"
+                },
+                {
+                  "key": "O",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "K",
+              "analysis": "if the market is to ... 表示「市场若要发展壮大」，与后文「成功平台监控交易、公开评价」的措施构成目的关系。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "trust must matter more than style"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "able"
+                },
+                {
+                  "key": "B",
+                  "text": "advise"
+                },
+                {
+                  "key": "C",
+                  "text": "amount"
+                },
+                {
+                  "key": "D",
+                  "text": "avoid"
+                },
+                {
+                  "key": "E",
+                  "text": "building"
+                },
+                {
+                  "key": "F",
+                  "text": "buy"
+                },
+                {
+                  "key": "G",
+                  "text": "cancel"
+                },
+                {
+                  "key": "H",
+                  "text": "damage"
+                },
+                {
+                  "key": "I",
+                  "text": "economic"
+                },
+                {
+                  "key": "J",
+                  "text": "fashionable"
+                },
+                {
+                  "key": "K",
+                  "text": "grow"
+                },
+                {
+                  "key": "L",
+                  "text": "landfill"
+                },
+                {
+                  "key": "M",
+                  "text": "monitor"
+                },
+                {
+                  "key": "N",
+                  "text": "penalise"
+                },
+                {
+                  "key": "O",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "M",
+              "analysis": "与 publish buyer reviews 并列，都是建立信任的做法，故为「监控每笔交易」，monitor 符合语境。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "publish buyer reviews"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The five-day working week is not a law of nature. It is a settlement reached in the early twentieth century, when Henry Ford cut his workers' hours and discovered, to general surprise, that output did not fall. For a hundred years the arrangement has looked permanent, yet it rests on assumptions about factories and typewriters that no longer describe most jobs."
+            },
+            {
+              "label": "B",
+              "text": "In the past few years a series of trials has tested a simple idea: pay people the same, ask them to work four days, and see what happens. In Britain more than sixty companies took part in a six-month experiment; in Iceland public-sector offices ran shorter weeks for several years. Most participants kept pay unchanged and gave staff one extra day off each week."
+            },
+            {
+              "label": "C",
+              "text": "The reported results were striking. Revenue stayed roughly flat or rose, staff turnover fell, and the number of sick days dropped sharply. Employees said they slept better and argued less at home. But the evidence has limits: the samples were small, the firms volunteered, and almost everything was measured by asking people how they felt."
+            },
+            {
+              "label": "D",
+              "text": "What interests researchers more is how the firms managed it. Successful participants cut meetings, shortened email, and stopped work that nobody could justify. Several introduced quiet hours in the morning. The extra day, in other words, was paid for by deleting waste rather than by squeezing more effort out of fewer hours."
+            },
+            {
+              "label": "E",
+              "text": "Not every sector can do this. A hospital ward or a bus company cannot simply close on Fridays. Even in offices, critics warn of hidden costs: staff may compress the same workload into fewer days and arrive exhausted, and small firms with thin margins may find the change impossible without hiring more people."
+            },
+            {
+              "label": "F",
+              "text": "The likeliest outcome is not a universal four-day week but a widening gap. Firms that sell knowledge will use shorter hours to attract talent; firms that sell hours of service will not. The lasting effect may be a change in the question itself: instead of asking how many days we work, employees have begun to ask which hours are genuinely productive."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The length of the working week was decided by history rather than by nature.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段首句「五天工作制不是自然规律」，而是二十世纪初达成的一种安排（settlement）。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "not a law of nature"
+            },
+            {
+              "number": 37,
+              "stem": "A carmaker found that shorter hours did not mean lower production.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段提到 Henry Ford 缩短工时后发现产量并未下降（output did not fall）。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "output did not fall"
+            },
+            {
+              "number": 38,
+              "stem": "Companies in the experiments protected their employees' income.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：多数参与公司保持工资不变（kept pay unchanged），并每周多给一天假。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "kept pay unchanged"
+            },
+            {
+              "number": 39,
+              "stem": "A good deal of the evidence rests on participants' own accounts.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段末尾指出证据的局限：几乎一切都靠「问员工感觉如何」来测量。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "measured by asking people how they felt"
+            },
+            {
+              "number": 40,
+              "stem": "The saved time came from removing unnecessary tasks, not from working faster.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段末：多出的一天是靠「删掉无用工作」换来的，而不是把更多工作压进更少时间。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "deleting waste rather than by squeezing"
+            },
+            {
+              "number": 41,
+              "stem": "Jobs that must be covered at all times are unsuited to a four-day week.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：医院病房或公交公司不能在周五关门，说明需要持续有人值守的岗位不适用。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "cannot simply close on Fridays"
+            },
+            {
+              "number": 42,
+              "stem": "Workers might end up more tired under the new arrangement.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "D",
+              "analysis": "E 段批评者提醒隐性代价：员工可能把同样工作量压进更少天数，「到岗时已精疲力竭」。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "arrive exhausted"
+            },
+            {
+              "number": 43,
+              "stem": "Companies that sell expertise will use the policy to compete for staff.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "F 段：卖知识的公司会用更短工时吸引人才，而卖服务时长的公司不会，差距因此扩大。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "Firms that sell knowledge will use shorter hours to attract talent"
+            },
+            {
+              "number": 44,
+              "stem": "The discussion is shifting from the number of days to the quality of hours.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "F 段末：问题本身变了——不再是「工作几天」，而是「哪些时段真正有产出」。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "which hours are genuinely productive"
+            },
+            {
+              "number": 45,
+              "stem": "The trial findings looked impressive but came from a limited group of firms.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段先说结果「惊人」，随即指出样本小、公司是自愿参加，因此证据有限。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the samples were small, the firms volunteered"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Artificial light is one of the quietest forms of pollution. It leaves no residue and makes no noise, yet satellite records suggest that the area of the planet lit at night is growing by roughly two per cent a year, and that the light is becoming brighter as old lamps are replaced by cheaper LEDs. The change is welcomed by shopkeepers and feared by biologists, and the argument between them is now being fought street by street."
+            },
+            {
+              "label": "B",
+              "text": "The biological case is broad. Insects, which pollinate a large share of wild plants, are drawn to lamps and then circle them until they die of exhaustion or are eaten. In parts of Europe, moth populations near bright roads have fallen faster than in dark countryside. Migrating birds, which navigate partly by stars, are attracted to tall lit buildings and collide with them. Among humans, bright bedrooms suppress melatonin, the hormone that prepares the body for sleep, and shift workers exposed to strong light at night show higher rates of some illnesses."
+            },
+            {
+              "label": "C",
+              "text": "What makes the problem unusual is that much of the light is wasted. A badly designed street lamp sends half its output sideways and upwards, where it illuminates nothing except the sky. Because the waste is visible from space, it is unusually easy to fix: shades that direct light downwards can cut energy use by a third while making the pavement brighter for pedestrians. Several cities have found that simply switching off decorative floodlighting after midnight costs nothing at all."
+            },
+            {
+              "label": "D",
+              "text": "The obstacle is not technical but political. Residents often assume that more light means less crime, and councillors are reluctant to be blamed for a dark street. Studies of the relationship between lighting and crime are mixed: some show a modest fall in thefts in newly lit car parks, others find no effect once the extra police patrols that usually accompany new lights are taken into account. Meanwhile, the people most exposed to bad light—shift workers, and residents of towers whose bedrooms face a floodlit monument—rarely have a say in the decisions."
+            },
+            {
+              "label": "E",
+              "text": "Campaigners therefore no longer ask for darkness. They ask for aim: light where it is needed, at the hour it is needed, in the colour that does least harm. A street that is bright enough to see the pavement but not bright enough to read a book by is, on the evidence, both safer and cheaper. The difficulty is that such a rule cannot be seen from space, and cannot be photographed for a press release."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What do satellite records show about night-time lighting?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has been falling since LEDs appeared."
+                },
+                {
+                  "key": "B",
+                  "text": "It is limited to large cities."
+                },
+                {
+                  "key": "C",
+                  "text": "It is spreading and growing brighter."
+                },
+                {
+                  "key": "D",
+                  "text": "It no longer leaves any measurable trace."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段：夜间被照亮的面积每年约增 2%，且随着廉价 LED 替换旧灯而更亮。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "growing by roughly two per cent a year"
+            },
+            {
+              "number": 47,
+              "stem": "Why are insects mentioned in the second paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To show that lamps attract and kill useful species."
+                },
+                {
+                  "key": "B",
+                  "text": "To prove that moths are disappearing everywhere."
+                },
+                {
+                  "key": "C",
+                  "text": "To explain how pollination produces light."
+                },
+                {
+                  "key": "D",
+                  "text": "To suggest that insects prefer dark roads."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段说昆虫承担大量植物授粉，却会被灯吸引、绕灯至力竭或被捕食，用以说明光污染的生态代价。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "drawn to lamps and then circle them until they die"
+            },
+            {
+              "number": 48,
+              "stem": "What does the author find encouraging about the problem?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "City councils have already banned all floodlighting."
+                },
+                {
+                  "key": "B",
+                  "text": "LEDs consume no electricity at all."
+                },
+                {
+                  "key": "C",
+                  "text": "Satellites can now measure melatonin levels."
+                },
+                {
+                  "key": "D",
+                  "text": "Much of the wasted light can be redirected cheaply."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段：大量光被浪费，只要加装向下遮光的灯罩就能省三分之一电，还能让人行道更亮——成本低、易解决。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "cut energy use by a third"
+            },
+            {
+              "number": 49,
+              "stem": "What makes reducing light politically difficult?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The equipment needed is too expensive."
+                },
+                {
+                  "key": "B",
+                  "text": "People believe darkness encourages crime."
+                },
+                {
+                  "key": "C",
+                  "text": "Scientists cannot agree that light is harmful."
+                },
+                {
+                  "key": "D",
+                  "text": "Shift workers demand brighter streets."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：居民常以为灯越多犯罪越少，议员怕被指责让街道变黑；而照明与犯罪的实证研究结论并不一致。",
+              "type": "原因题",
+              "evidencePara": "D",
+              "evidenceText": "assume that more light means less crime"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's attitude towards the campaigners' proposal?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Supportive, though aware of a political disadvantage."
+                },
+                {
+                  "key": "B",
+                  "text": "Doubtful, because the evidence is too weak."
+                },
+                {
+                  "key": "C",
+                  "text": "Indifferent, since the problem is minor."
+                },
+                {
+                  "key": "D",
+                  "text": "Critical, because it ignores the cost of LEDs."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段用 on the evidence 肯定「按需照明既更安全又更省钱」，但末句指出它不上镜、难宣传，属于支持中带保留。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "both safer and cheaper"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Every September a new group of students is told that taking notes by hand is better than typing. The claim comes from a much-cited experiment in which students watched lectures and were then tested. Those who wrote by hand remembered more of the ideas, while those who typed produced almost verbatim records and did worse on questions that required them to explain a concept."
+            },
+            {
+              "label": "B",
+              "text": "The explanation offered was simple and appealing. Writing is slow, so the hand cannot keep up with speech; the writer is therefore forced to choose, shorten and rephrase, and that act of compression is itself a kind of learning. Typing is fast enough to transcribe, and transcription requires no thought—the words pass from ear to screen without passing through the mind."
+            },
+            {
+              "label": "C",
+              "text": "Later work has made the picture less tidy. Several attempts to repeat the original result found a smaller effect or none at all, and one study found that students who typed did better when the test asked for facts rather than ideas. The difference, it turns out, depends less on the tool than on what the student does with it: a laptop user who summarises, or who reviews notes afterwards, outperforms a hand-writer who copies the slides."
+            },
+            {
+              "label": "D",
+              "text": "There is also the question of what a lecture is for. If its purpose is to deliver information, typing is efficient; if its purpose is to make students think while listening, then slowness may help. Most courses are a mixture, which is why the advice to abandon laptops looks excessive. A more useful rule is to write by hand when the material is difficult and conceptual, and to type when it is dense with names, dates and numbers."
+            },
+            {
+              "label": "E",
+              "text": "The deeper risk is passivity of any kind. A student who photographs the board, records the lecture and downloads someone else's notes has done none of the work that makes knowledge stick. The pen is not magic; the effort is. Whatever the device, the question to ask at the end of an hour is not what was captured, but what could now be explained to someone else."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What did the much-cited experiment find?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Typists remembered more facts than hand-writers."
+                },
+                {
+                  "key": "B",
+                  "text": "Both groups performed equally well."
+                },
+                {
+                  "key": "C",
+                  "text": "Students who typed wrote longer summaries."
+                },
+                {
+                  "key": "D",
+                  "text": "Hand-writers understood ideas better than typists."
+                }
+              ],
+              "answer": "D",
+              "analysis": "A 段：手写者记住更多观点，打字者记录近乎逐字，在需要解释概念的题上表现更差。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "remembered more of the ideas"
+            },
+            {
+              "number": 52,
+              "stem": "Why was handwriting thought to help learning?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because it produces neater notes."
+                },
+                {
+                  "key": "B",
+                  "text": "Because its slowness forces students to reword."
+                },
+                {
+                  "key": "C",
+                  "text": "Because it uses more muscles."
+                },
+                {
+                  "key": "D",
+                  "text": "Because it prevents students from listening."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：手写慢，跟不上讲话，被迫取舍、缩写、改写，而这一「压缩」过程本身就是学习。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "that act of compression is itself a kind of learning"
+            },
+            {
+              "number": 53,
+              "stem": "What have later studies shown?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The advantage depends on how notes are made."
+                },
+                {
+                  "key": "B",
+                  "text": "The original effect has been confirmed in every detail."
+                },
+                {
+                  "key": "C",
+                  "text": "Typing is always worse for every kind of test."
+                },
+                {
+                  "key": "D",
+                  "text": "Handwriting has no effect on memory at all."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：重复实验效应更小甚至消失；优势「更多取决于学生怎么做笔记」，会总结、会复习的打字者反而更好。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "depends less on the tool than on what the student does with it"
+            },
+            {
+              "number": 54,
+              "stem": "What does the author suggest about choosing a method?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Laptops should be banned in all lectures."
+                },
+                {
+                  "key": "B",
+                  "text": "Students should always write by hand."
+                },
+                {
+                  "key": "C",
+                  "text": "The choice should match the kind of material."
+                },
+                {
+                  "key": "D",
+                  "text": "Notes should never be reviewed."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段：材料难且概念性强时手写，信息密集（人名、日期、数字）时打字——按材料性质选择。",
+              "type": "主旨题",
+              "evidencePara": "D",
+              "evidenceText": "write by hand when the material is difficult and conceptual"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's main concern?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That pens are becoming too expensive."
+                },
+                {
+                  "key": "B",
+                  "text": "That students record lectures without processing them."
+                },
+                {
+                  "key": "C",
+                  "text": "That lectures contain too many facts."
+                },
+                {
+                  "key": "D",
+                  "text": "That teachers mark notes too strictly."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：真正的风险是任何形式的被动——拍照、录音、下载别人的笔记，都没做让知识留住的那份功夫。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "The pen is not magic; the effort is"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n中国是茶的故乡，饮茶的历史已有数千年。茶最初被当作药材，后来逐渐成为日常饮品。唐代以后，茶馆在城市中兴起，人们在那里喝茶、聊天、听书。中国茶分为绿茶、红茶、乌龙茶等几大类，制作工艺各不相同。如今，茶不仅是一种饮料，也代表着一种安静、从容的生活态度。许多年轻人重新走进茶馆，学习泡茶的方法，从中体会传统文化的魅力。",
+              "analysis": "【参考译文】\nChina is the homeland of tea, and the history of tea drinking there goes back thousands of years. Tea was first used as a medicine and only gradually became an everyday drink. After the Tang Dynasty, tea houses sprang up in cities, where people drank tea, chatted and listened to storytellers. Chinese tea falls into several major categories, including green tea, black tea and oolong tea, each made by a different process. Today tea is not merely a beverage but also stands for a quiet and unhurried attitude to life. Many young people are returning to tea houses, learning how to brew tea and discovering the charm of traditional culture in the process.\n\n【要点】①「茶的故乡」用 the homeland of tea；②「被当作药材」用被动 was used as a medicine；③「唐代以后」用 After the Tang Dynasty；④「分为几大类」用 falls into several categories；⑤「不仅……也……」用 not merely… but also…；⑥「体会……魅力」可用 discovering / appreciating the charm of…。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

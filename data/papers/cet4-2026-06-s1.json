@@ -1,0 +1,1407 @@
+{
+  "id": "cet4-2026-06-s1",
+  "level": "CET4",
+  "year": 2026,
+  "month": 6,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "For this part, you are allowed 30 minutes to write an essay on why college students should protect their sleep. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nWhy College Students Should Protect Their Sleep\n\nMany college students treat sleep as the first thing to cut when deadlines pile up. Yet losing sleep is a poor bargain: it buys a few extra hours and costs a week of concentration.\n\nThe reasons are practical. First, memory depends on sleep. What we learn in class is consolidated during deep sleep, so a night of study followed by four hours in bed usually produces less than a full night plus one focused hour. Second, mood and judgement suffer. Tired students snap at roommates, skip meals and make careless mistakes in exams. Third, health problems built up in college tend to follow us for years.\n\nProtecting sleep does not mean sleeping longer; it means sleeping regularly. Put the phone outside the bed, keep a fixed bedtime, and finish the hardest task before ten. A rested mind is not a luxury for students—it is the cheapest way to study better.\n\n（约 160 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Cities around the world are turning empty office floors into homes. The change began quietly: after years of remote work, companies found they needed less desk space, and landlords found they needed new tenants. Converting a building is not simple, because offices and apartments obey different rules for light, plumbing and fire safety. Still, the maths often works. A 26______ office block in the city centre already has transport links, shops and schools nearby, so the cost of a 27______ is far below building on empty land. Planners now see conversion as a way to 28______ housing shortages without spreading further into the countryside. Residents, however, are not always pleased. Some complain that converted flats are small and dark, with windows that face a 29______ wall. Others worry that the 30______ of new neighbours will strain local services. City officials answer that the alternative—leaving towers empty—is worse. To make the policy work, several cities now offer tax relief to owners who 31______ at least part of a building to housing. Early results are 32______: in one district, more than a thousand homes appeared in three years. Researchers warn that the model cannot solve everything, since not every office can be 33______ converted. Buildings with deep floors and few windows remain 34______ to residential use. Even so, the experiment has changed how planners think: the cheapest new home may be one that already 35______."
+            },
+            {
+              "label": "词库",
+              "text": "A) arrival   B) available   C) blank   D) clean   E) conversion   F) convert   G) crowded   H) decoration   I) demolition   J) ease   K) easily   L) empty   M) encouraging   N) stands   O) unsuitable"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "arrival"
+                },
+                {
+                  "key": "B",
+                  "text": "available"
+                },
+                {
+                  "key": "C",
+                  "text": "blank"
+                },
+                {
+                  "key": "D",
+                  "text": "clean"
+                },
+                {
+                  "key": "E",
+                  "text": "conversion"
+                },
+                {
+                  "key": "F",
+                  "text": "convert"
+                },
+                {
+                  "key": "G",
+                  "text": "crowded"
+                },
+                {
+                  "key": "H",
+                  "text": "decoration"
+                },
+                {
+                  "key": "I",
+                  "text": "demolition"
+                },
+                {
+                  "key": "J",
+                  "text": "ease"
+                },
+                {
+                  "key": "K",
+                  "text": "easily"
+                },
+                {
+                  "key": "L",
+                  "text": "empty"
+                },
+                {
+                  "key": "M",
+                  "text": "encouraging"
+                },
+                {
+                  "key": "N",
+                  "text": "stands"
+                },
+                {
+                  "key": "O",
+                  "text": "unsuitable"
+                }
+              ],
+              "answer": "L",
+              "analysis": "空后说「已有交通、商店、学校」，说明这是市中心一栋**空置**办公楼；且后文「留下空塔更糟」呼应 empty。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "leaving towers empty"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "arrival"
+                },
+                {
+                  "key": "B",
+                  "text": "available"
+                },
+                {
+                  "key": "C",
+                  "text": "blank"
+                },
+                {
+                  "key": "D",
+                  "text": "clean"
+                },
+                {
+                  "key": "E",
+                  "text": "conversion"
+                },
+                {
+                  "key": "F",
+                  "text": "convert"
+                },
+                {
+                  "key": "G",
+                  "text": "crowded"
+                },
+                {
+                  "key": "H",
+                  "text": "decoration"
+                },
+                {
+                  "key": "I",
+                  "text": "demolition"
+                },
+                {
+                  "key": "J",
+                  "text": "ease"
+                },
+                {
+                  "key": "K",
+                  "text": "easily"
+                },
+                {
+                  "key": "L",
+                  "text": "empty"
+                },
+                {
+                  "key": "M",
+                  "text": "encouraging"
+                },
+                {
+                  "key": "N",
+                  "text": "stands"
+                },
+                {
+                  "key": "O",
+                  "text": "unsuitable"
+                }
+              ],
+              "answer": "E",
+              "analysis": "全文主题就是把写字楼改成住宅（conversion），成本比在空地新建低得多。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "Converting a building is not simple"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "arrival"
+                },
+                {
+                  "key": "B",
+                  "text": "available"
+                },
+                {
+                  "key": "C",
+                  "text": "blank"
+                },
+                {
+                  "key": "D",
+                  "text": "clean"
+                },
+                {
+                  "key": "E",
+                  "text": "conversion"
+                },
+                {
+                  "key": "F",
+                  "text": "convert"
+                },
+                {
+                  "key": "G",
+                  "text": "crowded"
+                },
+                {
+                  "key": "H",
+                  "text": "decoration"
+                },
+                {
+                  "key": "I",
+                  "text": "demolition"
+                },
+                {
+                  "key": "J",
+                  "text": "ease"
+                },
+                {
+                  "key": "K",
+                  "text": "easily"
+                },
+                {
+                  "key": "L",
+                  "text": "empty"
+                },
+                {
+                  "key": "M",
+                  "text": "encouraging"
+                },
+                {
+                  "key": "N",
+                  "text": "stands"
+                },
+                {
+                  "key": "O",
+                  "text": "unsuitable"
+                }
+              ],
+              "answer": "J",
+              "analysis": "「不往乡下扩张而缓解住房短缺」，ease a shortage 是固定搭配（缓解短缺）。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "without spreading further into the countryside"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "arrival"
+                },
+                {
+                  "key": "B",
+                  "text": "available"
+                },
+                {
+                  "key": "C",
+                  "text": "blank"
+                },
+                {
+                  "key": "D",
+                  "text": "clean"
+                },
+                {
+                  "key": "E",
+                  "text": "conversion"
+                },
+                {
+                  "key": "F",
+                  "text": "convert"
+                },
+                {
+                  "key": "G",
+                  "text": "crowded"
+                },
+                {
+                  "key": "H",
+                  "text": "decoration"
+                },
+                {
+                  "key": "I",
+                  "text": "demolition"
+                },
+                {
+                  "key": "J",
+                  "text": "ease"
+                },
+                {
+                  "key": "K",
+                  "text": "easily"
+                },
+                {
+                  "key": "L",
+                  "text": "empty"
+                },
+                {
+                  "key": "M",
+                  "text": "encouraging"
+                },
+                {
+                  "key": "N",
+                  "text": "stands"
+                },
+                {
+                  "key": "O",
+                  "text": "unsuitable"
+                }
+              ],
+              "answer": "C",
+              "analysis": "居民抱怨改造后的房子小而暗，窗户对着「blank wall」（无窗的实墙），符合「暗」的原因。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "small and dark"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "arrival"
+                },
+                {
+                  "key": "B",
+                  "text": "available"
+                },
+                {
+                  "key": "C",
+                  "text": "blank"
+                },
+                {
+                  "key": "D",
+                  "text": "clean"
+                },
+                {
+                  "key": "E",
+                  "text": "conversion"
+                },
+                {
+                  "key": "F",
+                  "text": "convert"
+                },
+                {
+                  "key": "G",
+                  "text": "crowded"
+                },
+                {
+                  "key": "H",
+                  "text": "decoration"
+                },
+                {
+                  "key": "I",
+                  "text": "demolition"
+                },
+                {
+                  "key": "J",
+                  "text": "ease"
+                },
+                {
+                  "key": "K",
+                  "text": "easily"
+                },
+                {
+                  "key": "L",
+                  "text": "empty"
+                },
+                {
+                  "key": "M",
+                  "text": "encouraging"
+                },
+                {
+                  "key": "N",
+                  "text": "stands"
+                },
+                {
+                  "key": "O",
+                  "text": "unsuitable"
+                }
+              ],
+              "answer": "A",
+              "analysis": "新邻居的「到来」会给本地公共服务带来压力，arrival 与 strain services 搭配。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "strain local services"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "arrival"
+                },
+                {
+                  "key": "B",
+                  "text": "available"
+                },
+                {
+                  "key": "C",
+                  "text": "blank"
+                },
+                {
+                  "key": "D",
+                  "text": "clean"
+                },
+                {
+                  "key": "E",
+                  "text": "conversion"
+                },
+                {
+                  "key": "F",
+                  "text": "convert"
+                },
+                {
+                  "key": "G",
+                  "text": "crowded"
+                },
+                {
+                  "key": "H",
+                  "text": "decoration"
+                },
+                {
+                  "key": "I",
+                  "text": "demolition"
+                },
+                {
+                  "key": "J",
+                  "text": "ease"
+                },
+                {
+                  "key": "K",
+                  "text": "easily"
+                },
+                {
+                  "key": "L",
+                  "text": "empty"
+                },
+                {
+                  "key": "M",
+                  "text": "encouraging"
+                },
+                {
+                  "key": "N",
+                  "text": "stands"
+                },
+                {
+                  "key": "O",
+                  "text": "unsuitable"
+                }
+              ],
+              "answer": "F",
+              "analysis": "税收减免给的是「把至少一部分楼改成住宅」的业主，与首句 turning empty office floors into homes 同义。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "offer tax relief to owners"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "arrival"
+                },
+                {
+                  "key": "B",
+                  "text": "available"
+                },
+                {
+                  "key": "C",
+                  "text": "blank"
+                },
+                {
+                  "key": "D",
+                  "text": "clean"
+                },
+                {
+                  "key": "E",
+                  "text": "conversion"
+                },
+                {
+                  "key": "F",
+                  "text": "convert"
+                },
+                {
+                  "key": "G",
+                  "text": "crowded"
+                },
+                {
+                  "key": "H",
+                  "text": "decoration"
+                },
+                {
+                  "key": "I",
+                  "text": "demolition"
+                },
+                {
+                  "key": "J",
+                  "text": "ease"
+                },
+                {
+                  "key": "K",
+                  "text": "easily"
+                },
+                {
+                  "key": "L",
+                  "text": "empty"
+                },
+                {
+                  "key": "M",
+                  "text": "encouraging"
+                },
+                {
+                  "key": "N",
+                  "text": "stands"
+                },
+                {
+                  "key": "O",
+                  "text": "unsuitable"
+                }
+              ],
+              "answer": "M",
+              "analysis": "冒号后给出证据「三年一千多套住房」，是积极结果，encouraging（令人鼓舞的）。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "more than a thousand homes appeared in three years"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "arrival"
+                },
+                {
+                  "key": "B",
+                  "text": "available"
+                },
+                {
+                  "key": "C",
+                  "text": "blank"
+                },
+                {
+                  "key": "D",
+                  "text": "clean"
+                },
+                {
+                  "key": "E",
+                  "text": "conversion"
+                },
+                {
+                  "key": "F",
+                  "text": "convert"
+                },
+                {
+                  "key": "G",
+                  "text": "crowded"
+                },
+                {
+                  "key": "H",
+                  "text": "decoration"
+                },
+                {
+                  "key": "I",
+                  "text": "demolition"
+                },
+                {
+                  "key": "J",
+                  "text": "ease"
+                },
+                {
+                  "key": "K",
+                  "text": "easily"
+                },
+                {
+                  "key": "L",
+                  "text": "empty"
+                },
+                {
+                  "key": "M",
+                  "text": "encouraging"
+                },
+                {
+                  "key": "N",
+                  "text": "stands"
+                },
+                {
+                  "key": "O",
+                  "text": "unsuitable"
+                }
+              ],
+              "answer": "K",
+              "analysis": "下一句说深进深、窗少的楼不适合住人，说明并非每栋办公楼都能「轻易」改造。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "not every office can be"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "arrival"
+                },
+                {
+                  "key": "B",
+                  "text": "available"
+                },
+                {
+                  "key": "C",
+                  "text": "blank"
+                },
+                {
+                  "key": "D",
+                  "text": "clean"
+                },
+                {
+                  "key": "E",
+                  "text": "conversion"
+                },
+                {
+                  "key": "F",
+                  "text": "convert"
+                },
+                {
+                  "key": "G",
+                  "text": "crowded"
+                },
+                {
+                  "key": "H",
+                  "text": "decoration"
+                },
+                {
+                  "key": "I",
+                  "text": "demolition"
+                },
+                {
+                  "key": "J",
+                  "text": "ease"
+                },
+                {
+                  "key": "K",
+                  "text": "easily"
+                },
+                {
+                  "key": "L",
+                  "text": "empty"
+                },
+                {
+                  "key": "M",
+                  "text": "encouraging"
+                },
+                {
+                  "key": "N",
+                  "text": "stands"
+                },
+                {
+                  "key": "O",
+                  "text": "unsuitable"
+                }
+              ],
+              "answer": "O",
+              "analysis": "深进深、窗少的楼对居住用途是「不适合的」（unsuitable to residential use）。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "Buildings with deep floors and few windows"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "arrival"
+                },
+                {
+                  "key": "B",
+                  "text": "available"
+                },
+                {
+                  "key": "C",
+                  "text": "blank"
+                },
+                {
+                  "key": "D",
+                  "text": "clean"
+                },
+                {
+                  "key": "E",
+                  "text": "conversion"
+                },
+                {
+                  "key": "F",
+                  "text": "convert"
+                },
+                {
+                  "key": "G",
+                  "text": "crowded"
+                },
+                {
+                  "key": "H",
+                  "text": "decoration"
+                },
+                {
+                  "key": "I",
+                  "text": "demolition"
+                },
+                {
+                  "key": "J",
+                  "text": "ease"
+                },
+                {
+                  "key": "K",
+                  "text": "easily"
+                },
+                {
+                  "key": "L",
+                  "text": "empty"
+                },
+                {
+                  "key": "M",
+                  "text": "encouraging"
+                },
+                {
+                  "key": "N",
+                  "text": "stands"
+                },
+                {
+                  "key": "O",
+                  "text": "unsuitable"
+                }
+              ],
+              "answer": "N",
+              "analysis": "「最便宜的新房，可能是一栋已经**立在那里**的楼」，stands 与前文 empty towers 呼应。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "the cheapest new home"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For most of the twentieth century, the office was designed around a simple belief: people work better when they can be seen. Managers walked the floor, desks faced each other, and the corner office rewarded seniority. The pandemic did not invent remote work, but it proved that a great deal of it could be done from a kitchen table."
+            },
+            {
+              "label": "B",
+              "text": "When companies called staff back, they discovered a problem of arithmetic. A team of twenty that once needed twenty desks now needed eight on any given day, because people came in on different schedules. Firms that had signed fifteen-year leases found themselves paying for space they no longer used."
+            },
+            {
+              "label": "C",
+              "text": "The first response was to shrink. Companies gave up floors, moved to cheaper districts, and packed remaining desks more tightly. The second response, less visible, was to change what the office was for. If routine work could be done at home, the office had to justify the commute: it became a place for meetings, training and the kind of conversation that does not happen on a video call."
+            },
+            {
+              "label": "D",
+              "text": "This shift has consequences for cities. Office districts that emptied at six in the evening now empty at three in the afternoon, which hurts restaurants, gyms and shops that depended on after-work crowds. Some local governments have responded by allowing offices to be turned into housing, a policy that sounds simple but runs into fire regulations, daylight rules and the objections of neighbours."
+            },
+            {
+              "label": "E",
+              "text": "Not everyone welcomes the change. Junior employees, in particular, report that they learn more slowly at home. Much of what a new recruit picks up—how to handle a difficult client, when to escalate a problem, which email to ignore—is absorbed by overhearing. Senior staff, by contrast, tend to report higher productivity and less interruption."
+            },
+            {
+              "label": "F",
+              "text": "What seems to be emerging is not a return to the old model nor a triumph of remote work, but a hybrid arrangement that neither side planned carefully. Its success depends less on technology than on management: clear expectations about which days matter, meetings that start and end on time, and a willingness to judge people by output rather than by the number of hours their chair is occupied."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Companies ended up paying for space that their staff no longer filled every day.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：员工按不同日程到岗，二十人的团队每天只需八个工位，签了十五年租约的公司还在为空置面积付费。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "paying for space they no longer used"
+            },
+            {
+              "number": 37,
+              "stem": "The office began to be valued for activities that are hard to do online.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：办公室变成开会、培训和「视频会议里不会发生的那种交谈」的场所。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "the kind of conversation that does not happen on a video call"
+            },
+            {
+              "number": 38,
+              "stem": "Local businesses that relied on evening crowds have been hit.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段：写字楼区从晚六点变下午三点就空了，餐馆、健身房、商店受影响。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "hurts restaurants, gyms and shops"
+            },
+            {
+              "number": 39,
+              "stem": "New employees gain a lot simply by hearing colleagues work.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph B"
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：新人在家学得慢，很多经验是「靠旁听」吸收的（absorbed by overhearing）。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "absorbed by overhearing"
+            },
+            {
+              "number": 40,
+              "stem": "Experienced staff often say they get more done without being interrupted.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段后半：资深员工反而报告效率更高、打扰更少（less interruption）。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "higher productivity and less interruption"
+            },
+            {
+              "number": 41,
+              "stem": "For a long time, offices were built on the idea that visibility equals performance.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段首句：「人们被看得见时工作得更好」是二十世纪办公室设计的基本信念。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "people work better when they can be seen"
+            },
+            {
+              "number": 42,
+              "stem": "Converting offices into flats is harder than it looks.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：政策听起来简单，但要过消防、采光规定，还要面对邻居反对。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "runs into fire regulations, daylight rules"
+            },
+            {
+              "number": 43,
+              "stem": "The arrangement now in use was not deliberately designed by either side.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph A"
+                }
+              ],
+              "answer": "C",
+              "analysis": "F 段：出现的不是旧模式回归，也不是远程胜利，而是一种「双方都没认真规划过」的混合安排。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "neither side planned carefully"
+            },
+            {
+              "number": 44,
+              "stem": "Whether hybrid work succeeds depends on clear rules rather than on tools.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "analysis": "F 段：成败「与其说取决于技术，不如说取决于管理」——明确的期望与按产出评价。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "less on technology than on management"
+            },
+            {
+              "number": 45,
+              "stem": "Some firms first tried to solve the problem by simply using less space.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段开头：第一个反应是「缩小」——退楼层、搬到便宜地段、把工位排得更密。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "The first response was to shrink"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When a city plants trees, it usually counts them. Few cities measure what those trees actually do. A new study of eight European cities tried to put numbers on the benefits and found that the returns are large but unevenly distributed: wealthier neighbourhoods tend to have both more trees and cooler streets."
+            },
+            {
+              "label": "B",
+              "text": "The researchers combined satellite images with ground measurements taken over two summers. In the hottest week of the year, streets with a full canopy were up to four degrees cooler than bare streets a few hundred metres away. The effect was strongest in the afternoon, when heat stress on elderly residents peaks."
+            },
+            {
+              "label": "C",
+              "text": "Trees also saved money. Buildings shaded by mature trees used measurably less electricity for cooling, and the reduction was largest in low-rise housing, where roofs and walls are directly exposed. The authors calculate that in one city the annual saving came close to the cost of maintaining its street trees for a year—an unusual result, since urban trees are often treated as decoration rather than infrastructure."
+            },
+            {
+              "label": "D",
+              "text": "The uneven distribution is the uncomfortable finding. In the cities studied, districts with higher incomes had on average twice the canopy cover of the poorest districts. The reasons are historical rather than biological: poorer districts were built denser, with narrower streets and less space for roots, and they are more often crossed by wide roads that are difficult to plant along."
+            },
+            {
+              "label": "E",
+              "text": "Planting more trees is therefore not simply a matter of budget. A young tree in a narrow street may need years of watering before it provides shade, and it may never reach the size of a tree in a park. The authors argue that cities should treat canopy cover as a public-health target, measured street by street, rather than as a number to be reported at city level."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the new study suggest about urban trees?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their benefits are real but not shared equally."
+                },
+                {
+                  "key": "B",
+                  "text": "They cost more than cities can afford."
+                },
+                {
+                  "key": "C",
+                  "text": "Their cooling effect has been exaggerated."
+                },
+                {
+                  "key": "D",
+                  "text": "They matter mainly in wealthy areas."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末句：收益大，但分布不均——富裕社区树更多、街道更凉。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "large but unevenly distributed"
+            },
+            {
+              "number": 47,
+              "stem": "How did the researchers obtain their data?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By interviewing residents of eight cities."
+                },
+                {
+                  "key": "B",
+                  "text": "By combining satellite images with ground measurements."
+                },
+                {
+                  "key": "C",
+                  "text": "By comparing electricity bills across countries."
+                },
+                {
+                  "key": "D",
+                  "text": "By planting trees and observing them for two summers."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段首句：把卫星影像与两个夏季的实地测量结合起来。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "combined satellite images with ground measurements"
+            },
+            {
+              "number": 48,
+              "stem": "Why was the saving greatest in low-rise housing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Such buildings are usually older."
+                },
+                {
+                  "key": "B",
+                  "text": "Their roofs and walls are directly exposed."
+                },
+                {
+                  "key": "C",
+                  "text": "They have more trees around them."
+                },
+                {
+                  "key": "D",
+                  "text": "Their residents stay home longer."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：低层住宅的屋顶与墙面直接暴露在阳光下，遮阴后空调耗电下降最明显。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "roofs and walls are directly exposed"
+            },
+            {
+              "number": 49,
+              "stem": "What does the author imply about the cost comparison?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It proves that trees are cheaper than air conditioners."
+                },
+                {
+                  "key": "B",
+                  "text": "It is surprising because trees are usually seen as decoration."
+                },
+                {
+                  "key": "C",
+                  "text": "It applies only to the richest of the eight cities."
+                },
+                {
+                  "key": "D",
+                  "text": "It excludes the cost of watering young trees."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段末：这个结果「不寻常」，因为城市树木常被当作装饰而非基础设施。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "treated as decoration rather than infrastructure"
+            },
+            {
+              "number": 50,
+              "stem": "What solution do the authors propose?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Reporting a single canopy figure for the whole city."
+                },
+                {
+                  "key": "B",
+                  "text": "Setting canopy targets measured street by street."
+                },
+                {
+                  "key": "C",
+                  "text": "Planting only in parks where trees grow faster."
+                },
+                {
+                  "key": "D",
+                  "text": "Replacing narrow streets with wide roads."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段末：应把树冠覆盖率当作公共健康目标，按街道逐条测量，而不是在城市层面报一个数。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "measured street by street"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Libraries have always been judged by what they hold. The digital age changed the question: what should a library hold when almost any text can be reached from a phone? Some predicted decline. Instead, visits to many public libraries have risen, and the busiest rooms are often those with the fewest books."
+            },
+            {
+              "label": "B",
+              "text": "Part of the explanation is practical. A library offers heat in winter, air conditioning in summer, a desk, a socket and a toilet—things that a small flat may not. In cities where rents are high, the library has become an extension of the home for students, freelancers and retired people. Staff describe regulars who arrive at nine and leave at six."
+            },
+            {
+              "label": "C",
+              "text": "The other part is less visible. A library is one of the few indoor places where a person may stay for hours without buying anything and without being asked why they are there. That quality—being unprofitable and unbothered—is difficult to price and easy to cut when budgets are tight."
+            },
+            {
+              "label": "D",
+              "text": "This creates a tension. Librarians are under pressure to show numbers: visits, loans, events. But the most valuable service they provide may be the one that produces no record at all—the quiet hour that lets someone finish a job application, or the warmth that keeps an elderly reader out of a cold room. Counting what is countable can push out what matters."
+            },
+            {
+              "label": "E",
+              "text": "Some libraries have responded by redesigning themselves around use rather than storage. Shelves are on wheels; desks have lamps and power; meeting rooms can be booked by community groups. Book stocks shrink but are chosen more carefully, and interlibrary loans fill the gaps. The building becomes a workshop with a good reference collection, rather than a warehouse that happens to have chairs."
+            },
+            {
+              "label": "F",
+              "text": "None of this means books have become unimportant. It means the library's claim on public money no longer rests on books alone. The argument that works with a council is not that reading is good for you—most councillors already believe that—but that the building is used every day by people who have nowhere else to go."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What has happened to public library visits in the digital age?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have fallen sharply."
+                },
+                {
+                  "key": "B",
+                  "text": "They have risen in many places."
+                },
+                {
+                  "key": "C",
+                  "text": "They have stayed exactly the same."
+                },
+                {
+                  "key": "D",
+                  "text": "They are no longer recorded."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：不少人预言衰退，但实际上许多公共图书馆到访量上升，最热闹的房间往往书最少。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "visits to many public libraries have risen"
+            },
+            {
+              "number": 52,
+              "stem": "Why do some people treat the library as an extension of home?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because it lends laptops and tools."
+                },
+                {
+                  "key": "B",
+                  "text": "Because housing is expensive and small."
+                },
+                {
+                  "key": "C",
+                  "text": "Because it offers free evening classes."
+                },
+                {
+                  "key": "D",
+                  "text": "Because it is quieter than their office."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：房租高的城市里，小公寓缺少取暖、空调、书桌、插座，图书馆成了家的延伸。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "In cities where rents are high"
+            },
+            {
+              "number": 53,
+              "stem": "What quality of the library is hard to measure?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The size of its book collection."
+                },
+                {
+                  "key": "B",
+                  "text": "The number of events it holds."
+                },
+                {
+                  "key": "C",
+                  "text": "Its willingness to let people stay without paying."
+                },
+                {
+                  "key": "D",
+                  "text": "The speed of its internet connection."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：可以待上几小时、不买东西、不被追问来意——这种「不盈利也不打扰」的品质难以定价。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "without buying anything and without being asked why"
+            },
+            {
+              "number": 54,
+              "stem": "What risk does the author point out about counting services?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Numbers are often invented by staff."
+                },
+                {
+                  "key": "B",
+                  "text": "What is counted may crowd out what matters."
+                },
+                {
+                  "key": "C",
+                  "text": "Visitors dislike being counted."
+                },
+                {
+                  "key": "D",
+                  "text": "Budgets grow faster than visits."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段末：只统计可统计的东西，会把真正重要的东西挤出去。",
+              "type": "主旨题",
+              "evidencePara": "D",
+              "evidenceText": "Counting what is countable can push out what matters"
+            },
+            {
+              "number": 55,
+              "stem": "How do some libraries justify their funding to local government?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By arguing that reading improves character."
+                },
+                {
+                  "key": "B",
+                  "text": "By pointing out daily use by people with no alternative."
+                },
+                {
+                  "key": "C",
+                  "text": "By selling part of their buildings."
+                },
+                {
+                  "key": "D",
+                  "text": "By reducing their opening hours."
+                }
+              ],
+              "answer": "B",
+              "analysis": "F 段：真正说服议会的不是「读书有益」，而是这栋楼每天被无处可去的人使用。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "used every day by people who have nowhere else to go"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n中国的高铁网络在过去十几年里迅速扩展，运营里程居世界首位。高铁把许多中小城市与大都市连接起来，使人们可以在一天之内往返。它不仅缩短了出行时间，也改变了人们选择工作与居住地点的方式。一些年轻人开始在小城市居住、到大城市上班。",
+              "analysis": "【参考译文】\nChina's high-speed rail network has expanded rapidly over the past decade or so, and its operating mileage ranks first in the world. High-speed trains connect many small and medium-sized cities with major metropolises, enabling people to make a round trip within a single day. It has not only shortened travel time but also changed the way people choose where to work and live. Some young people have begun to live in smaller cities while working in big ones.\n\n【要点】①「运营里程居世界首位」用 ranks first in the world；②「使人们可以……往返」用 enabling people to… 分词结构；③「不仅……也……」用 not only… but also…；④时态以现在完成时为主。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

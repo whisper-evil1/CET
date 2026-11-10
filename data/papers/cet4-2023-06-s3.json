@@ -1,0 +1,1097 @@
+{
+  "id": "cet4-2023-06-s3",
+  "level": "CET4",
+  "year": 2023,
+  "month": 6,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on how college students can deal with the flood of information on their phones. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\n\nLiving With Too Much Information\n\nA student today can read more in an afternoon than a scholar could have read in a lifetime a century ago, and this is not entirely good news. The problem is no longer access. It is attention.\n\nThree habits help. The first is to choose before you scroll: decide what you need to know, then go and look for it, instead of letting a feed decide what you think about. The second is to read one long thing a week — a report, a chapter, an essay — because following an argument for twenty pages is a skill, and it weakens when it is never used. The third is to notice when a piece of news makes you angry. Anger travels faster than accuracy, and a story built to shock is usually a story with something missing.\n\nNone of this means refusing the phone. It means being the one who decides what enters your head, which is a smaller ambition than it sounds and harder than it looks.\n\n（约 172 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In the summer of 2023 the Belgian city of Ghent opened its first public drinking fountain in a square where a market has been held for six centuries. The water is free, and anyone who brings a bottle can 26______ it as often as they like. Campaigners had argued for years that the 27______ was modest: a fountain costs about as much as a hundred metres of cycle lane. A litre of bottled water, by contrast, sells for roughly a hundred times the price of a litre from the tap, and about a third of the plastic 28______ produced in Europe is still buried or burned rather than recycled."
+            },
+            {
+              "label": "B",
+              "text": "Two problems appear once the fountains are in place. The first is 29______. A fountain that is dirty or out of order teaches people that public water cannot be trusted, so several cities now publish their test results online and print the date of the last inspection on the fountain itself. The second is 30______. Filters have to be replaced, leaves cleared from the drains and the taps that children have broken repaired, and none of this is free. In Ghent the work is done by the team that already cleans the public toilets, so the city does not have to 31______ much extra money each year."
+            },
+            {
+              "label": "C",
+              "text": "None of this makes bottled water a 32______ choice. In blind tests few people can 33______ between the two, and the bottle itself is the larger problem: one that is used for ten minutes may survive four hundred years in the sea. What a fountain changes, in the end, is not the water but the 34______. Once cold, free water is 35______ on a hot afternoon, the bottle stops being a necessity and becomes a convenience."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "type": "词义题",
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "boil"
+                },
+                {
+                  "key": "B",
+                  "text": "refill"
+                },
+                {
+                  "key": "C",
+                  "text": "buy"
+                },
+                {
+                  "key": "D",
+                  "text": "test"
+                }
+              ],
+              "answer": "B",
+              "analysis": "前句说 the water is free，空格前是 anyone who brings a bottle，说明自带瓶子的人可以反复「续装」，refill 与 bring a bottle 构成完整逻辑。boil 指煮沸，test 指检测，都不是公众取水的动作；buy 与 free 直接矛盾。",
+              "evidencePara": "A",
+              "evidenceText": "The water is free, and anyone who brings a bottle can"
+            },
+            {
+              "number": 27,
+              "type": "词义题",
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "noise"
+                },
+                {
+                  "key": "B",
+                  "text": "space"
+                },
+                {
+                  "key": "C",
+                  "text": "cost"
+                },
+                {
+                  "key": "D",
+                  "text": "taste"
+                }
+              ],
+              "answer": "C",
+              "analysis": "冒号后的解释是 a fountain costs about as much as a hundred metres of cycle lane，用造价对比说明「花费不大」，故填 cost。noise、space、taste 都无法与「造价相当于一百米自行车道」这一解释对应。",
+              "evidencePara": "A",
+              "evidenceText": "a fountain costs about as much as a hundred metres of cycle lane"
+            },
+            {
+              "number": 28,
+              "type": "词义题",
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "waste"
+                },
+                {
+                  "key": "B",
+                  "text": "industry"
+                },
+                {
+                  "key": "C",
+                  "text": "surface"
+                },
+                {
+                  "key": "D",
+                  "text": "trade"
+                }
+              ],
+              "answer": "A",
+              "analysis": "被 buried or burned rather than recycled 修饰的只能是「塑料垃圾」，plastic waste 是固定搭配。industry（产业）、surface（表面）、trade（贸易）都不能「被填埋或焚烧」。",
+              "evidencePara": "A",
+              "evidenceText": "is still buried or burned rather than recycled"
+            },
+            {
+              "number": 29,
+              "type": "词义题",
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "cleanliness"
+                },
+                {
+                  "key": "B",
+                  "text": "location"
+                },
+                {
+                  "key": "C",
+                  "text": "weather"
+                },
+                {
+                  "key": "D",
+                  "text": "design"
+                }
+              ],
+              "answer": "A",
+              "analysis": "后文用 dirty or out of order、test results、last inspection 展开，讲的都是水是否干净、能否放心饮用，因此第一个问题是「清洁」。location、weather、design 都无法承接 test results 与 inspection 这两个线索。",
+              "evidencePara": "B",
+              "evidenceText": "A fountain that is dirty or out of order"
+            },
+            {
+              "number": 30,
+              "type": "词义题",
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "advertising"
+                },
+                {
+                  "key": "B",
+                  "text": "maintenance"
+                },
+                {
+                  "key": "C",
+                  "text": "competition"
+                },
+                {
+                  "key": "D",
+                  "text": "transport"
+                }
+              ],
+              "answer": "B",
+              "analysis": "换滤芯、清落叶、修被弄坏的水龙头，都是设备的日常维护，故为 maintenance。advertising、competition、transport 与这串具体维修工作没有关系。",
+              "evidencePara": "B",
+              "evidenceText": "Filters have to be replaced, leaves cleared from the drains"
+            },
+            {
+              "number": 31,
+              "type": "词义题",
+              "stem": "Choose the word for blank 31.",
+      "options": [
+        {
+          "key": "A",
+          "text": "spend"
+        },
+        {
+          "key": "B",
+          "text": "save"
+        },
+        {
+          "key": "C",
+          "text": "borrow"
+        },
+        {
+          "key": "D",
+          "text": "owe"
+        }
+      ],
+      "answer": "A",
+      "analysis": "前半句说维护工作由原本就清洁公厕的队伍承担，所以市政府不必「花」太多额外的钱；does not have to 后接动词原形，spend money 搭配成立。save 表示省钱，与「不必多花」重复且不通；borrow、owe 指借入与欠款，与每年支出无关。",
+              "evidencePara": "B",
+              "evidenceText": "the team that already cleans the public toilets"
+            },
+            {
+              "number": 32,
+              "type": "词义题",
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "wise"
+                },
+                {
+                  "key": "B",
+                  "text": "quick"
+                },
+                {
+                  "key": "C",
+                  "text": "rare"
+                },
+                {
+                  "key": "D",
+                  "text": "similar"
+                }
+              ],
+              "answer": "A",
+              "analysis": "后文说盲测里几乎分不出差别、瓶子在海里留存四百年，都是在否定瓶装水的合理性，故 None of this makes bottled water a wise choice。quick、rare、similar 都不能修饰 choice 来表达「明智的选择」。",
+              "evidencePara": "C",
+              "evidenceText": "In blind tests few people can"
+            },
+            {
+              "number": 33,
+              "type": "词义题",
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "distinguish"
+                },
+                {
+                  "key": "B",
+                  "text": "hesitate"
+                },
+                {
+                  "key": "C",
+                  "text": "bargain"
+                },
+                {
+                  "key": "D",
+                  "text": "adjust"
+                }
+              ],
+              "answer": "A",
+              "analysis": "blind tests 里让人分辨两者，distinguish between A and B 是固定搭配。hesitate between 表示「在两者间犹豫」，与盲测要检验的辨别能力无关；bargain、adjust 都不与 between 搭配。",
+              "evidencePara": "C",
+              "evidenceText": "the bottle itself is the larger problem"
+            },
+            {
+              "number": 34,
+              "type": "词义题",
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "habit"
+                },
+                {
+                  "key": "B",
+                  "text": "taste"
+                },
+                {
+                  "key": "C",
+                  "text": "price"
+                },
+                {
+                  "key": "D",
+                  "text": "health"
+                }
+              ],
+              "answer": "A",
+              "analysis": "not the water but the ______ 与末句 the bottle stops being a necessity and becomes a convenience 呼应，说的是人们买水的习惯被改变了。taste 与上文「盲测分不出」相反；price 前文已作对比，此处 the water 的对立面是行为而非价格。",
+              "evidencePara": "C",
+              "evidenceText": "the bottle stops being a necessity and becomes a convenience"
+            },
+            {
+              "number": 35,
+              "type": "词义题",
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "available"
+                },
+                {
+                  "key": "B",
+                  "text": "expensive"
+                },
+                {
+                  "key": "C",
+                  "text": "invisible"
+                },
+                {
+                  "key": "D",
+                  "text": "frozen"
+                }
+              ],
+              "answer": "A",
+              "analysis": "on a hot afternoon 有免费的凉水随时能取，才是「不再是必需品」的原因，故 available。expensive 与 free 矛盾；invisible 与「看得见、取得到」相反；frozen 指结冰，与 cold water、hot afternoon 都不符。",
+              "evidencePara": "C",
+              "evidenceText": "Once cold, free water is"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Universities of the Third Age began in Toulouse in 1973, when a professor of law invited retired people to attend lectures that were not for credit and not for a qualification. The idea spread quickly: by the 1990s there were such institutions in most European countries, and later in Japan, China and Latin America. Their founding principle was unusual — members were to teach one another rather than be lectured at."
+            },
+            {
+              "label": "B",
+              "text": "In Britain the model took a different shape. The first branch opened in 1982, and within a decade the movement had become entirely self-run: no lecturers paid by a university, no entry requirements, no examinations. A retired engineer teaches astronomy; a former nurse runs a class on heart disease. Members pay a small annual subscription and, in most branches, nothing for individual courses."
+            },
+            {
+              "label": "C",
+              "text": "China's version grew from a different root. The first university for older people opened in Shandong in 1983, run by the government rather than by its members, and there are now tens of thousands of such schools. Demand outstrips places: in some cities a seat in a calligraphy or singing class is allocated by lottery, and people queue overnight when registration opens."
+            },
+            {
+              "label": "D",
+              "text": "What members say they want is rarely a certificate. Studies of older learners in several countries find that the main motives are social contact, a structure to the week and the wish to understand something rather than be tested on it. One survey of 1,200 members in Australia found that the most popular classes were history, languages and practical crafts, and the least popular were those that felt like school."
+            },
+            {
+              "label": "E",
+              "text": "Health researchers have taken an interest for reasons of money. Keeping an older person mentally and socially active is cheap compared with the cost of treating isolation and depression, and several trials suggest that regular group learning slows the decline in memory. The evidence is not yet strong enough to promise that classes prevent dementia, and some researchers warn against selling them that way."
+            },
+            {
+              "label": "F",
+              "text": "The practical problems are dull and familiar. Buildings need lifts and hearing loops; classes fill in the morning and empty after dark; transport is the reason many members stop attending altogether. The volunteers who run the branches are themselves elderly, and recruitment is the complaint heard most often: the people who built the organisation are now in their eighties."
+            },
+            {
+              "label": "G",
+              "text": "None of this makes the movement small. What began as an experiment in one French city now involves millions of people, and its growth says something about the century ahead: the years after sixty are no longer a short interval between work and death, and institutions designed for the young are being quietly rebuilt by the old."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "type": "细节题",
+              "stem": "A scheme started by a law professor spread to many countries and expected members to teach each other.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：1973 年图卢兹一位法学教授请退休人士来听不授学位、不计学分的讲座，原则是「会员互教」而非被讲授，此后传到多国。",
+              "evidencePara": "A",
+              "evidenceText": "members were to teach one another"
+            },
+            {
+              "number": 37,
+              "type": "细节题",
+              "stem": "In one country the organisation is run by its members, with no university-paid lecturers.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：英国模式完全自治——没有大学付薪的讲师、没有入学要求、没有考试，退休工程师教天文，前护士开心脏病课。",
+              "evidencePara": "B",
+              "evidenceText": "no lecturers paid by a university"
+            },
+            {
+              "number": 38,
+              "type": "细节题",
+              "stem": "Somewhere demand is so high that places are given out by lottery.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：中国 1983 年山东开办第一所老年大学，由政府而非会员办，如今学校数以万计，一些城市书法、声乐班的名额要摇号，报名时有人通宵排队。",
+              "evidencePara": "C",
+              "evidenceText": "allocated by lottery"
+            },
+            {
+              "number": 39,
+              "type": "推断题",
+              "stem": "Older learners are less interested in certificates than in company and understanding.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：会员很少想要证书，主要动机是社交、给一周建立节奏、想弄懂而不是被考试，澳大利亚 1200 人的调查也显示最受欢迎的课是历史、语言和手工艺。",
+              "evidencePara": "D",
+              "evidenceText": "rarely a certificate"
+            },
+            {
+              "number": 40,
+              "type": "细节题",
+              "stem": "Health services see group learning as a cheap way to reduce the cost of loneliness.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：让老人保持脑力与社交活跃，比治疗孤独和抑郁便宜，因此健康研究者出于「钱的理由」关注这类课程。",
+              "evidencePara": "E",
+              "evidenceText": "cheap compared with the cost of treating isolation and depression"
+            },
+            {
+              "number": 41,
+              "type": "推断题",
+              "stem": "Researchers warn that the benefits for memory should not be overstated.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：证据还不足以承诺上课能预防失智，一些研究者提醒不要这样宣传。",
+              "evidencePara": "E",
+              "evidenceText": "warn against selling them that way"
+            },
+            {
+              "number": 42,
+              "type": "细节题",
+              "stem": "Practical matters such as transport decide whether members keep coming.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：楼里要有电梯和助听线圈、课早上满晚上空，而「交通」是许多会员彻底不再来的原因。",
+              "evidencePara": "F",
+              "evidenceText": "transport is the reason many members stop attending"
+            },
+            {
+              "number": 43,
+              "type": "细节题",
+              "stem": "The branches cannot easily find new volunteers as their founders age.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：管理分支的志愿者本身也是老人，被抱怨最多的是招不到人——当年创建组织的人已经八十多岁。",
+              "evidencePara": "F",
+              "evidenceText": "the people who built the organisation are now in their eighties"
+            },
+            {
+              "number": 44,
+              "type": "细节题",
+              "stem": "The courses people like best are those that do not feel like formal schooling.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：最受欢迎的是历史、语言和实用手工，最不受欢迎的是「让人感觉像上学」的课。",
+              "evidencePara": "D",
+              "evidenceText": "the least popular were those that felt like school"
+            },
+            {
+              "number": 45,
+              "type": "主旨题",
+              "stem": "The growth of these institutions reflects a longer period of life after work.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：六十岁之后的岁月不再是工作与死亡之间的短暂间隔，为年轻人设计的机构正被老年人悄悄重建。",
+              "evidencePara": "G",
+              "evidenceText": "no longer a short interval between work and death"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The job title sounds like a joke: night mayor. Amsterdam created the post in 2003, and cities from London to New York have copied it since. The person appointed is not a mayor and has no power to pass laws. The task is to sit between two groups that otherwise meet mainly in court: the bars, clubs and venues that keep a city awake, and the residents who would like to sleep."
+            },
+            {
+              "label": "B",
+              "text": "The first problem a night mayor discovers is that a city has no single map of the night. Licensing, noise, transport, waste collection and policing are handled by separate departments, each with its own hours and its own idea of what the problem is. A club may hold a licence that nobody has read since 1998. Much of the job is making five departments talk to each other for the first time."
+            },
+            {
+              "label": "C",
+              "text": "The second problem is measuring success. A good night is loud, profitable and slightly chaotic; a well-managed night is quieter, and quietness does not appear in any budget. Night-time industries in London employ about 1.6 million people, but the benefits are easy to take for granted while the complaints arrive by email every morning."
+            },
+            {
+              "label": "D",
+              "text": "The methods that seem to work are unglamorous. Amsterdam moved noisy venues towards the edges of the centre and agreed closing times with residents before licences were renewed. London ran trains through the night on Fridays and Saturdays from 2016, which shortened the hours when thousands of people stood on pavements waiting for a bus. Manchester built a radio network so that venues could warn one another about trouble before the police were needed."
+            },
+            {
+              "label": "E",
+              "text": "Critics say the role reveals something less flattering: cities want the money that nightlife brings without the political cost of defending it. A night mayor with no budget and no statutory power can advise, mediate and publicise, but cannot stop a venue from closing or a resident from complaining. The post works where a city already wants to listen, and becomes decoration where it does not."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "type": "细节题",
+              "stem": "What is the night mayor expected to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Pass local laws about noise."
+                },
+                {
+                  "key": "B",
+                  "text": "Act as a link between venues and residents."
+                },
+                {
+                  "key": "C",
+                  "text": "Manage the police at night."
+                },
+                {
+                  "key": "D",
+                  "text": "Own and run the city's clubs."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：这个职位既不是市长，也无权立法，任务是坐在两组人之间——让城市不眠的酒吧、俱乐部，和想睡觉的居民。A、C 夸大了职权，D 与「调解者」身份不符。",
+              "evidencePara": "A",
+              "evidenceText": "sit between two groups"
+            },
+            {
+              "number": 47,
+              "type": "细节题",
+              "stem": "What does a night mayor usually find first?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "No department has an overall picture of the night."
+                },
+                {
+                  "key": "B",
+                  "text": "Most licences are out of date."
+                },
+                {
+                  "key": "C",
+                  "text": "Residents refuse to talk to venues."
+                },
+                {
+                  "key": "D",
+                  "text": "There are too few bars in the centre."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段首句：城市没有一张关于夜晚的整体地图，执照、噪音、交通、垃圾、治安分散在不同部门，各自有各自的时间表和对问题的理解。B 只是其中一个例子，不是「首先发现」的总体问题。",
+              "evidencePara": "B",
+              "evidenceText": "a city has no single map of the night"
+            },
+            {
+              "number": 48,
+              "type": "推断题",
+              "stem": "Why is success hard to measure?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Night-time industries keep no records."
+                },
+                {
+                  "key": "B",
+                  "text": "Benefits are spread out while complaints arrive daily."
+                },
+                {
+                  "key": "C",
+                  "text": "Nobody knows how many people work at night."
+                },
+                {
+                  "key": "D",
+                  "text": "Quiet nights earn more money than loud ones."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：夜晚的经济收益容易被视为理所当然，而投诉每天早上准时进邮箱，安静这种「成果」不会出现在任何预算里。A、C 与文中 1.6  million 就业数字矛盾；D 无依据。",
+              "evidencePara": "C",
+              "evidenceText": "the benefits are easy to take for granted"
+            },
+            {
+              "number": 49,
+              "type": "细节题",
+              "stem": "Which measure shortened the time people spent waiting in the street at night?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Moving venues to the edge of the centre."
+                },
+                {
+                  "key": "B",
+                  "text": "Agreeing closing times with residents."
+                },
+                {
+                  "key": "C",
+                  "text": "Running trains through the night at weekends."
+                },
+                {
+                  "key": "D",
+                  "text": "Building a radio network for venues."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段：伦敦自 2016 年起在周五、周六通宵行车，缩短了成千上万人在人行道上等公交的时间。A、B 处理的是噪音与关闭时间，D 是曼彻斯特的预警网络。",
+              "evidencePara": "D",
+              "evidenceText": "shortened the hours when thousands of people stood on pavements"
+            },
+            {
+              "number": 50,
+              "type": "主旨题",
+              "stem": "What criticism is made of the post?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It costs cities far too much money."
+                },
+                {
+                  "key": "B",
+                  "text": "It may become a symbol rather than a source of change."
+                },
+                {
+                  "key": "C",
+                  "text": "It gives residents too much power over venues."
+                },
+                {
+                  "key": "D",
+                  "text": "It has replaced the work of the police."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：批评者说这个角色暴露了城市想要夜生活的钱、却不愿承担为之辩护的政治成本；没有预算与法定权力时，它只能在城市本就愿意倾听的地方起作用，「否则就成了装饰」。",
+              "evidencePara": "E",
+              "evidenceText": "becomes decoration where it does not"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2018 a supermarket chain in the north of England began switching off its music and dimming its lights for one hour a week. Tills were told to stop beeping, announcements were suspended, and staff avoided stacking shelves in the aisles during that hour. The change had been requested by a group of parents of autistic children, who described shopping as an ordeal of sound."
+            },
+            {
+              "label": "B",
+              "text": "The reason is sensory rather than social. Many autistic people process sound and light differently: a flickering tube, a fridge hum, a beeping till and a public announcement arriving together can make a shop physically painful. A 2019 survey by a national autism charity found that more than half of autistic adults avoided shops because of the sensory environment, and that a third had left a shop without buying anything for that reason."
+            },
+            {
+              "label": "C",
+              "text": "The idea spread quickly because it is cheap. A quiet hour costs a shop almost nothing: no building work, no extra staff, no training programme. Supermarkets in Australia, Canada and Ireland have tried versions of it, and some cinemas and museums have followed. The details vary: some chains dim the lights, others only turn off the music, and a few have found that dimming makes the shop harder to navigate for customers with low vision."
+            },
+            {
+              "label": "D",
+              "text": "Retailers report a benefit that has little to do with charity. Quiet hours were meant for a small group, but they also attract parents with small children, older shoppers and anyone who finds a Saturday supermarket tiring. Several chains have extended the hour or moved it to a busier time of day, which suggests that the commercial case is at least as strong as the moral one."
+            },
+            {
+              "label": "E",
+              "text": "There is a limit to what one hour can do. Campaigners point out that a shop is quiet for sixty minutes and difficult for the other sixty-five hours of the week, and that a chain which dims its lights while still playing music has misunderstood the request. The more useful change, they argue, is not a special hour but a lower everyday level: fewer announcements, softer lighting and staff who know what to do when a customer is overwhelmed."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "type": "细节题",
+              "stem": "What did the supermarket chain do in 2018?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It closed its shops for an hour each week."
+                },
+                {
+                  "key": "B",
+                  "text": "It made one hour a week quieter and less bright."
+                },
+                {
+                  "key": "C",
+                  "text": "It hired staff trained in autism care."
+                },
+                {
+                  "key": "D",
+                  "text": "It moved its tills to a separate room."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：每周有一小时关掉音乐、调暗灯光、让收银机不响、暂停广播、不在通道补货。A 是「关店」，与原文相反；C、D 文中未提。",
+              "evidencePara": "A",
+              "evidenceText": "switching off its music and dimming its lights"
+            },
+            {
+              "number": 52,
+              "type": "细节题",
+              "stem": "Why is the sensory environment such a serious issue?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Shops are usually too dark for autistic people."
+                },
+                {
+                  "key": "B",
+                  "text": "Many autistic people process sound and light differently."
+                },
+                {
+                  "key": "C",
+                  "text": "Autistic customers dislike talking to staff."
+                },
+                {
+                  "key": "D",
+                  "text": "Most shops play music that is too loud."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：原因在于感官而非社交——许多自闭症者对声光的处理方式不同，灯管闪烁、冰箱嗡嗡、收银机响、广播同时出现，会让商店在身体上造成痛苦。A 与「调暗灯光反而不利于低视力顾客」不符；C、D 未提及。",
+              "evidencePara": "B",
+              "evidenceText": "process sound and light differently"
+            },
+            {
+              "number": 53,
+              "type": "细节题",
+              "stem": "What did the 2019 survey find?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Half of autistic adults shopped online instead."
+                },
+                {
+                  "key": "B",
+                  "text": "A third of autistic adults had left a shop without buying anything."
+                },
+                {
+                  "key": "C",
+                  "text": "Most supermarkets had already introduced quiet hours."
+                },
+                {
+                  "key": "D",
+                  "text": "Autistic adults preferred shopping in the evening."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：超过一半的自闭症成年人因感官环境而避开商店，三分之一的人因此空手离开商店。A、C、D 文中均无依据。",
+              "evidencePara": "B",
+              "evidenceText": "a third had left a shop without buying anything"
+            },
+            {
+              "number": 54,
+              "type": "推断题",
+              "stem": "What unexpected benefit do retailers report?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Quiet hours attract other customers as well."
+                },
+                {
+                  "key": "B",
+                  "text": "Quiet hours reduce the number of staff needed."
+                },
+                {
+                  "key": "C",
+                  "text": "Quiet hours make products look more expensive."
+                },
+                {
+                  "key": "D",
+                  "text": "Quiet hours allow shops to open later."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：安静时段本是为少数人设计的，却也吸引了带小孩的父母、年长顾客和觉得周六超市累人的人；一些连锁店因此延长时段或改到更忙的时间，说明商业理由不比道德理由弱。",
+              "evidencePara": "D",
+              "evidenceText": "they also attract parents with small children"
+            },
+            {
+              "number": 55,
+              "type": "主旨题",
+              "stem": "What do campaigners think would help most?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A longer quiet hour every day."
+                },
+                {
+                  "key": "B",
+                  "text": "Separate shopping times for autistic customers."
+                },
+                {
+                  "key": "C",
+                  "text": "A permanently calmer shop rather than one special hour."
+                },
+                {
+                  "key": "D",
+                  "text": "More staff training in medical care."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：商店一周只有一小时安静，其余六十五小时仍然难受；更有用的不是「特别时段」，而是把日常基线降下来——少广播、灯光更柔、员工知道顾客不知所措时该怎么做。",
+              "evidencePara": "E",
+              "evidenceText": "not a special hour but a lower everyday level"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n剪纸是中国流传很广的民间艺术，用剪刀或刻刀在红纸上剪出人物、动物和花卉等图案。过去，人们把剪纸贴在窗户和门上，寄托对丰收和平安的祝愿。剪纸的题材多来自日常生活和民间故事，风格因地区而异。如今，剪纸不仅出现在节日装饰中，也被用于服装设计和广告，一些学校把它列入美术课，让这项手艺得以传承。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nPaper-cutting is a widely practised folk art in China: patterns of people, animals and flowers are cut out of red paper with scissors or a small knife. In the past, people pasted such cuttings on windows and doors as a wish for a good harvest and a peaceful year. The subjects come mostly from everyday life and folk stories, and the style differs from one region to another: northern cuttings tend to be bold and simple, while those in the south are finer and more detailed. Today paper-cutting appears not only in festival decorations but also in fashion design, in advertising and on book covers, and some schools have added it to their art lessons so that the craft is not lost. At a craft fair a visitor can often watch an artist finish a whole design in ten minutes, which is the best argument for the art that any exhibition could make.\n\n【要点】①「剪纸」用 paper-cutting，动词短语 cut out of red paper；②「寄托对……的祝愿」可用 as a wish for …，避免逐字硬译；③「题材」用 subjects，「因地区而异」用 differs from one region to another；④「不仅……也……」用 not only … but also …；⑤「得以传承」可译 so that the craft is not lost，比被动语态更自然。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1049 @@
+{
+  "id": "cet4-2021-12-s1",
+  "level": "CET4",
+  "year": 2021,
+  "month": 12,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on the benefits and problems of taking a part-time job while studying. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nPart-time work has become ordinary for Chinese undergraduates, and the debate about it is usually conducted in slogans. The honest answer is that a job teaches things a classroom cannot, and costs things a timetable cannot replace.\n\nThe benefits are concrete. A student who serves customers for ten hours a week learns to stay calm when someone is angry, to finish a task without being reminded, and to explain a mistake to a manager. These are the skills employers actually test in the first month. A wage also changes how a young person thinks about money: the price of a phone becomes three weeks of work rather than a number on a screen.\n\nThe problems are equally concrete. Twenty hours of work will damage sleep, grades and friendships, and the jobs available to students are often exhausting and unrelated to their studies. The sensible arrangement is a limit: no more than twelve hours a week, no night shifts before exams, and a clear rule that study comes first. Part-time work is a good teacher only when it stays part-time.\n\n（约 165 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Coffee is the fuel of the modern office, and it leaves a mountain of waste behind. Every cup served in a café produces a handful of used grounds, which most cities simply send to landfill. A few companies are now turning that 26______ into something useful. One British firm dries the grounds and presses them into logs that burn longer than wood; another mixes them with recycled plastic to make 27______ for desks and shelves. The idea is not entirely new, but the scale is. In London alone, roughly 200,000 tonnes of coffee waste are produced each year, and only a small 28______ is currently reused."
+            },
+            {
+              "label": "B",
+              "text": "Supporters argue that the 29______ is obvious: the raw material costs nothing, and collecting it saves the café a waste charge. Critics point out that transport is expensive, because grounds are wet and heavy, so a plant must be 30______ to its suppliers. Local schemes avoid this problem by working with a few hundred cafés inside a single 31______. The products are also modest: a coffee log sells for less than a wooden one, and profit margins are thin. Even so, the model has 32______ interest from city governments looking for ways to cut landfill. Some planners now ask developers to leave space for small 33______ workshops in new districts. Whether the industry grows beyond a niche depends on 34______, particularly on whether councils treat coffee waste as a resource rather than rubbish. For the moment, the most 35______ result is cultural: customers who once threw their cups away now ask where the grounds go."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "waste"
+                },
+                {
+                  "key": "B",
+                  "text": "flavour"
+                },
+                {
+                  "key": "C",
+                  "text": "steam"
+                },
+                {
+                  "key": "D",
+                  "text": "labour"
+                }
+              ],
+              "answer": "A",
+              "analysis": "空处回指前句的 used grounds（咖啡渣）与后文「直接送进填埋场」，指的是这些「废弃物」。flavour（风味）、steam（蒸汽）、labour（劳动力）都不指固体废料。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "most cities simply send to landfill"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "loans"
+                },
+                {
+                  "key": "B",
+                  "text": "tiles"
+                },
+                {
+                  "key": "C",
+                  "text": "odours"
+                },
+                {
+                  "key": "D",
+                  "text": "crowds"
+                }
+              ],
+              "answer": "B",
+              "analysis": "「把咖啡渣与再生塑料混合，做成桌子和架子用的____」，需要一种板材类复数名词，tiles（板材、瓷砖）符合。loans（贷款）、odours（气味）、crowds（人群）与「桌子、架子」的用料无关。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "make ... for desks and shelves"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "total"
+                },
+                {
+                  "key": "B",
+                  "text": "figure"
+                },
+                {
+                  "key": "C",
+                  "text": "fraction"
+                },
+                {
+                  "key": "D",
+                  "text": "average"
+                }
+              ],
+              "answer": "C",
+              "analysis": "only a small ______ is reused 表示「只有很小一部分被再利用」，a small fraction of 是固定搭配（一小部分）。total（总量）与 only a small 矛盾；figure、average 不与 a small 这样搭配表比例。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "only a small ... is currently reused"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "profit"
+                },
+                {
+                  "key": "B",
+                  "text": "saving"
+                },
+                {
+                  "key": "C",
+                  "text": "income"
+                },
+                {
+                  "key": "D",
+                  "text": "budget"
+                }
+              ],
+              "answer": "B",
+              "analysis": "冒号后解释「原料不要钱，回收还替咖啡馆省下垃圾处理费」，说明「省钱」这一点显而易见，the saving is obvious。profit、income 是「盈利/收入」，budget 是「预算」，都不能被冒号后的内容解释。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "the raw material costs nothing"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "loyal"
+                },
+                {
+                  "key": "B",
+                  "text": "central"
+                },
+                {
+                  "key": "C",
+                  "text": "similar"
+                },
+                {
+                  "key": "D",
+                  "text": "close"
+                }
+              ],
+              "answer": "D",
+              "analysis": "因为咖啡渣又湿又重、运输贵，所以处理厂必须「靠近」供应方，be close to 是固定搭配。loyal（忠诚的）用于人；central to 意为「对……至关重要」，逻辑不通；similar to 与「运输成本」无关。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "transport is expensive"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "border"
+                },
+                {
+                  "key": "B",
+                  "text": "county"
+                },
+                {
+                  "key": "C",
+                  "text": "district"
+                },
+                {
+                  "key": "D",
+                  "text": "circle"
+                }
+              ],
+              "answer": "C",
+              "analysis": "本地项目靠「几百家咖啡馆集中在同一个____内」来缩短运输距离，指城市中的一片区域，district 最贴切。border（边界）、county（郡，行政区划过大）、circle（圆圈）都不表示收集范围。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "working with a few hundred cafés"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "prevented"
+                },
+                {
+                  "key": "B",
+                  "text": "donated"
+                },
+                {
+                  "key": "C",
+                  "text": "attracted"
+                },
+                {
+                  "key": "D",
+                  "text": "measured"
+                }
+              ],
+              "answer": "C",
+              "analysis": "市政府正在寻找减少填埋的办法，这一模式因此「吸引」了它们的兴趣，attract interest 是常见搭配。prevented（阻止）与 Even so 的转折方向相反；donated（捐赠）、measured（测量）不能与 interest 搭配。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "city governments looking for ways to cut landfill"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "printing"
+                },
+                {
+                  "key": "B",
+                  "text": "parking"
+                },
+                {
+                  "key": "C",
+                  "text": "training"
+                },
+                {
+                  "key": "D",
+                  "text": "processing"
+                }
+              ],
+              "answer": "D",
+              "analysis": "前文提到干燥、压制、混合等工序，这些都属于「加工」，所以规划者要求在新片区留出小型加工作坊的空间。printing（印刷）、parking（停车）、training（培训）与咖啡渣的干燥压制流程无关。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "dries the grounds and presses them"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "decoration"
+                },
+                {
+                  "key": "B",
+                  "text": "tradition"
+                },
+                {
+                  "key": "C",
+                  "text": "regulation"
+                },
+                {
+                  "key": "D",
+                  "text": "appetite"
+                }
+              ],
+              "answer": "C",
+              "analysis": "后半句「尤其取决于市政部门把咖啡渣当资源还是当垃圾」说的正是管理规定，与 regulation 对应。decoration（装饰）、tradition（传统）、appetite（胃口）都不能由 councils 的政策行为来解释。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "whether councils treat coffee waste as a resource"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "expensive"
+                },
+                {
+                  "key": "B",
+                  "text": "temporary"
+                },
+                {
+                  "key": "C",
+                  "text": "surprising"
+                },
+                {
+                  "key": "D",
+                  "text": "ancient"
+                }
+              ],
+              "answer": "C",
+              "analysis": "冒号后说「原本随手扔杯子的顾客开始打听咖啡渣去哪儿了」，这种观念变化出乎意料，surprising（令人意外的）最贴切。expensive、temporary、ancient 都不能修饰「文化层面的结果」。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "customers who once threw their cups away"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For decades, the economics of repair moved in one direction. A new toaster cost less than an hour of a technician's time, so when it broke it went into the bin. Manufacturers helped the process along: screws gave way to glue, batteries were sealed inside cases, and spare parts were sold only to authorised dealers. The result is measured in waste. Europeans throw away roughly two million tonnes of electrical goods a year, much of it working except for one failed component."
+            },
+            {
+              "label": "B",
+              "text": "The reaction began in France, which in 2021 required shops to display a repairability index on washing machines, laptops and televisions. The score is built from five questions: is the product easy to take apart, are spare parts available, how long will they stay available, what does the manual say, and how much does the repair cost? The score is printed beside the price, and early evidence suggests that shoppers do look at it. A low score has become a commercial problem rather than a moral one."
+            },
+            {
+              "label": "C",
+              "text": "Legislation followed. The European Union adopted rules obliging manufacturers to supply spare parts for up to ten years for certain appliances, and to design products so that common parts can be replaced with ordinary tools. Similar bills have appeared in more than twenty American states; the first to pass covered farm machinery, an area where the argument was unusually clear, since a broken tractor in harvest season can cost a farmer more than the machine itself."
+            },
+            {
+              "label": "D",
+              "text": "Manufacturers resist. Their case is not frivolous: modern devices contain sensors and software, and a careless repair can injure the user or let a battery overheat. They argue that cheap copies of components damage reliability, and that design secrets would leak if parts were sold openly. Critics answer that the same firms happily sell parts to their own service networks, and that safety is being used as an argument for control rather than for care."
+            },
+            {
+              "label": "E",
+              "text": "The practical obstacle is price. Even when parts are available, a repair may cost half the price of a new machine, and few households calculate the environmental cost of replacement. Repair cafés—volunteer workshops where people bring broken kettles and lamps—report that most items can be fixed in an hour. What they cannot fix is the habit of buying cheaply and discarding quickly, which no law addresses directly."
+            },
+            {
+              "label": "F",
+              "text": "The deeper change may be in expectations. A generation that grew up replacing a phone every two years is now being told, by labels and by law, that a product has a life which can be extended. Whether that message changes behaviour is not yet known. What is clear is that the argument has shifted: the question is no longer whether repair is possible, but who is allowed to do it, and at what price."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Products were deliberately designed in ways that make taking them apart difficult.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：螺丝被胶水取代、电池封在壳体里、配件只卖给授权商——正是「有意让拆解变难」的具体做法。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "screws gave way to glue, batteries were sealed inside cases"
+            },
+            {
+              "number": 37,
+              "stem": "A label showing how easily a product can be fixed may affect what people buy.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：法国 2021 年起要求洗衣机、笔记本电脑、电视标注可维修指数，分数印在价格旁，早期证据显示顾客确实会看。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "early evidence suggests that shoppers do look at it"
+            },
+            {
+              "number": 38,
+              "stem": "Agricultural equipment was the first category covered by a repair law in the United States.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：美国二十多个州出现类似法案，最先通过的一项针对农机——收割季坏一台拖拉机，损失可能超过机器本身。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "the first to pass covered farm machinery"
+            },
+            {
+              "number": 39,
+              "stem": "Makers claim that repairs carried out by untrained people can put users in danger.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：厂方称设备含有传感器与软件，粗心的维修可能伤到使用者或让电池过热——这是其「安全」理由的核心。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "a careless repair can injure the user"
+            },
+            {
+              "number": 40,
+              "stem": "Volunteer workshops show that a large share of broken goods can be mended quickly.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：repair café 这类志愿者工坊报告，大多数送来的物品一小时内就能修好。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "most items can be fixed in an hour"
+            },
+            {
+              "number": 41,
+              "stem": "The cost of fixing something can be nearly as high as buying a new one.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段首句：即使有配件，维修费也可能达到新机价格的一半，所以现实障碍是「价格」。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "a repair may cost half the price of a new machine"
+            },
+            {
+              "number": 42,
+              "stem": "The scale of discarded appliances is used to explain why repair matters.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末：欧洲人每年丢弃约两百万吨电器，其中很多只是坏了一个零件——用浪费规模说明维修的意义。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "roughly two million tonnes of electrical goods a year"
+            },
+            {
+              "number": 43,
+              "stem": "New rules require companies to keep supplying parts for many years.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：欧盟规定某些家电的配件须供应长达十年，并要求用普通工具即可更换常用零件。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "supply spare parts for up to ten years"
+            },
+            {
+              "number": 44,
+              "stem": "The discussion has moved from whether things can be fixed to who may fix them and at what cost.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：争论已经转向——问题不再是「能不能修」，而是「谁被允许修、以什么价格修」。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "who is allowed to do it, and at what price"
+            },
+            {
+              "number": 45,
+              "stem": "Firms are accused of hiding commercial control behind the language of safety.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：批评者指出这些公司自己也卖配件给自己的服务网络，安全只是被用来为「控制」辩护。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "safety is being used as an argument for control"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In February 2024 a shipment of seeds arrived in northern Norway, inside a tunnel cut into permafrost. The Svalbard Global Seed Vault received thousands of samples that day, as it has several times a year since 2008. The vault is often described as a backup for humanity, though the phrase misleads. It holds no collection of its own, only duplicates sent by national banks, stored at minus eighteen degrees in sealed boxes."
+            },
+            {
+              "label": "B",
+              "text": "The need is less dramatic than the headlines suggest, but real. Seed banks lose collections to power failures, floods and war. In 2015 researchers trying to save a collection in Aleppo sent boxes across the border in the back of a car; the material was later regrown and partly returned. A backup that requires no electricity, no staff and almost no maintenance is valuable precisely because it asks nothing of anyone."
+            },
+            {
+              "label": "C",
+              "text": "Storing seeds is not the same as saving them. Most crop seeds survive for decades once they are dried and frozen, but some—coffee, cocoa, mango—cannot be dried without dying and must be kept as living plants in field collections, where a single storm or disease can destroy years of work. Cryopreservation, the freezing of tissue in liquid nitrogen, offers a technical answer that few institutions can afford."
+            },
+            {
+              "label": "D",
+              "text": "There is also a question of what is worth keeping. A national collection built in the 1970s reflects the crops and varieties that mattered then, and the farmers who grew them. As agriculture consolidated around a few high-yield varieties, the number of varieties in fields fell sharply while the number in banks rose. Some researchers argue that banks have become museums of diversity rather than tools for using it."
+            },
+            {
+              "label": "E",
+              "text": "That criticism has begun to change practice. Banks now send samples back to farmers for trials, and breeders search databases for traits—drought tolerance, salt resistance—that were collected decades ago for no obvious reason. The vault in Norway plays no part in this work; it is deliberately passive. Its value lies in remaining unused, the way a fire escape is valuable on the day the building burns."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author say is misleading about the usual description of the vault?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It suggests the vault holds a complete collection of its own."
+                },
+                {
+                  "key": "B",
+                  "text": "It suggests the vault is open to the public."
+                },
+                {
+                  "key": "C",
+                  "text": "It suggests the seeds are stored at room temperature."
+                },
+                {
+                  "key": "D",
+                  "text": "It suggests the vault was built without any government support."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末两句：它常被称作「人类的备份」，但这一说法误导——它本身不收藏任何种子，只存放各国种子库送来的副本。B、C、D 均与原文无关。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "It holds no collection of its own"
+            },
+            {
+              "number": 47,
+              "stem": "Why were boxes of seeds carried across the border from Aleppo?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To sell them to foreign breeders."
+                },
+                {
+                  "key": "B",
+                  "text": "To escape a conflict that threatened the collection."
+                },
+                {
+                  "key": "C",
+                  "text": "To test whether they would survive transport."
+                },
+                {
+                  "key": "D",
+                  "text": "To return them to the farmers who grew them."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段先列举「停电、洪水、战争」会让种子库失去藏品，随后以 2015 年阿勒颇为例：研究者把种子装车送过边境。语境指向战乱。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "lose collections to power failures, floods and war"
+            },
+            {
+              "number": 48,
+              "stem": "Why must coffee and cocoa be kept as living plants?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their seeds are too large for sealed boxes."
+                },
+                {
+                  "key": "B",
+                  "text": "They produce seeds only once every ten years."
+                },
+                {
+                  "key": "C",
+                  "text": "Their seeds die if they are dried."
+                },
+                {
+                  "key": "D",
+                  "text": "Their seeds are needed fresh by farmers each season."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：多数作物种子干燥冷冻后可存活数十年，但咖啡、可可、芒果的种子「一干燥就会死」，只能作为活体植物保存在田间。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "cannot be dried without dying"
+            },
+            {
+              "number": 49,
+              "stem": "What criticism of seed banks is mentioned in paragraph D?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They keep varieties that are no longer useful to anyone."
+                },
+                {
+                  "key": "B",
+                  "text": "They collect more than they can store safely."
+                },
+                {
+                  "key": "C",
+                  "text": "They store diversity without helping anyone use it."
+                },
+                {
+                  "key": "D",
+                  "text": "They refuse to share material with farmers."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段末：有研究者认为种子库已变成「多样性的博物馆」，而不是加以利用的工具。A 说得过头（原文并未说品种无用），B、D 无据。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "museums of diversity rather than tools for using it"
+            },
+            {
+              "number": 50,
+              "stem": "What does the comparison with a fire escape suggest about the vault?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is expensive to maintain."
+                },
+                {
+                  "key": "B",
+                  "text": "Its value comes from being rarely needed."
+                },
+                {
+                  "key": "C",
+                  "text": "It should be checked more often."
+                },
+                {
+                  "key": "D",
+                  "text": "It was designed by engineers rather than scientists."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：它在日常工作中不起作用，是「刻意被动」的；它的价值恰在于一直没被用上——就像安全通道在大楼着火那天才显出价值。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "Its value lies in remaining unused"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A doctor in a British town can now send a patient to a choir instead of a pharmacy. The practice, called social prescribing, has expanded quickly: by 2024 more than a million referrals a year were being made in England, mostly to walking groups, art classes, gardening projects and advice services. The link worker, a role that barely existed a decade ago, is the person who makes the connection, sitting with the patient to find out what is actually wrong."
+            },
+            {
+              "label": "B",
+              "text": "The logic is financial as well as medical. Roughly a fifth of visits to a family doctor concern problems that medicine cannot solve—loneliness, debt, poor housing, the exhaustion of caring for a relative. A prescription for antidepressants may follow, and repeat visits accumulate. A referral to a local group costs less and, in theory, addresses the cause. Early evaluations report improvements in wellbeing scores and small reductions in visits."
+            },
+            {
+              "label": "C",
+              "text": "The evidence is thinner than the enthusiasm. Trials are difficult: patients cannot be blinded, groups vary in quality, and the people who accept a referral are already more motivated than those who refuse. A review of published studies found that results were positive but small, and that few studies followed patients for more than six months. Supporters reply that the alternative has weak evidence too, and a much longer history."
+            },
+            {
+              "label": "D",
+              "text": "There is a risk of shifting responsibility. If a lonely pensioner is sent to a gardening club because the council has closed the day centre, the referral hides a cut rather than solving a problem. Community groups depend on volunteers, and volunteers burn out. In poorer areas, where need is greatest, the number of clubs is smallest, so the scheme can widen the gap it was designed to close."
+            },
+            {
+              "label": "E",
+              "text": "None of this makes the idea foolish. What it requires is honesty about what it can do. Social prescribing works best as an addition to care rather than a replacement for it, and it depends on an infrastructure that takes years to build. The most useful measure may not be the money saved but whether the choir is still meeting in three years, and whether the doctor knows its name."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does a link worker do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Prescribes medication for anxiety."
+                },
+                {
+                  "key": "B",
+                  "text": "Connects patients with activities in their community."
+                },
+                {
+                  "key": "C",
+                  "text": "Trains volunteers to run local clubs."
+                },
+                {
+                  "key": "D",
+                  "text": "Decides which patients are eligible for free care."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段末：link worker 是十年前几乎不存在的岗位，与病人坐下来弄清「到底哪里出了问题」，然后把人接到合适的社区活动上。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the person who makes the connection"
+            },
+            {
+              "number": 52,
+              "stem": "Why is social prescribing attractive to health services?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It removes the need for family doctors."
+                },
+                {
+                  "key": "B",
+                  "text": "It keeps patients away from hospitals altogether."
+                },
+                {
+                  "key": "C",
+                  "text": "Many consultations concern problems that medicine cannot treat."
+                },
+                {
+                  "key": "D",
+                  "text": "It is cheaper than any form of drug treatment."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：约五分之一的就诊涉及药物解决不了的问题（孤独、债务、住房、照护疲惫），转介社区团体花费更低，理论上还针对病因。A、B 过于绝对，D 原文未作「任何药物」的比较。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "problems that medicine cannot solve"
+            },
+            {
+              "number": 53,
+              "stem": "What weakness of the evidence does the author point out?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Patients who accept referrals are already more motivated."
+                },
+                {
+                  "key": "B",
+                  "text": "Doctors refuse to take part in trials."
+                },
+                {
+                  "key": "C",
+                  "text": "No study has ever reported a positive result."
+                },
+                {
+                  "key": "D",
+                  "text": "The groups are all run by the same organisation."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：接受转介的病人本身就比拒绝者更有动力（自我选择偏差），且研究随访很少超过六个月，效果虽正面但很小。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "already more motivated than those who refuse"
+            },
+            {
+              "number": 54,
+              "stem": "What danger does paragraph D describe?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Volunteers may replace professional medical staff."
+                },
+                {
+                  "key": "B",
+                  "text": "Referrals may disguise cuts in public services."
+                },
+                {
+                  "key": "C",
+                  "text": "Gardening clubs are more popular than choirs."
+                },
+                {
+                  "key": "D",
+                  "text": "Poorer areas tend to have too many clubs."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：如果是因为议会关闭了日间照料中心，才把孤独的老人送去园艺俱乐部，那么转介只是「掩盖了削减」，而不是解决问题；而且越穷的地区俱乐部越少，可能反而扩大差距。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "the referral hides a cut rather than solving a problem"
+            },
+            {
+              "number": 55,
+              "stem": "What would the author consider a better measure of success?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The number of referrals made each year."
+                },
+                {
+                  "key": "B",
+                  "text": "The total saving to the health service."
+                },
+                {
+                  "key": "C",
+                  "text": "Whether a group is still running years later."
+                },
+                {
+                  "key": "D",
+                  "text": "How quickly patients are seen by a doctor."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段末：最有用的衡量标准可能不是省了多少钱，而是三年后合唱团是否还在活动、医生是否知道它的名字——即社区活动能否持续。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "whether the choir is still meeting in three years"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国是茶的故乡，饮茶的历史已有两千多年。茶叶最早在西南地区种植，后来沿着商路传遍全国，又经海路和陆路传到世界各地。中国人喝茶讲究水、器与心境：绿茶宜用八十度左右的水冲泡，乌龙茶则需沸水。茶馆曾是人们谈生意、听评书、议家常的场所，如今在城市里又重新流行起来。近年来，年轻人把茶与水果、牛奶混合，做出新的口味，让这种古老的饮品有了新的顾客。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChina is the homeland of tea, and tea drinking there goes back more than two thousand years. The plant was first grown in the south-west, then spread across the country along trade routes and reached the rest of the world by sea and by land. Chinese tea drinkers pay attention to the water, the vessels and the mood: green tea is best made with water at about eighty degrees, while oolong needs water that is fully boiling. Teahouses were once places where people discussed business, listened to storytellers and talked over family matters, and they have become popular in cities again in recent years. In the past few years young people have mixed tea with fruit and milk to create new flavours, giving this ancient drink a new generation of customers.\n\n【要点】①「茶的故乡」可译 the homeland of tea；②「已有两千多年」用 goes back more than two thousand years，避免逐字直译；③「讲究水、器与心境」用 pay attention to the water, the vessels and the mood；④「宜用八十度左右的水冲泡」用被动 is best made with water at about eighty degrees；⑤「让……有了新的顾客」用 giving… a new generation of customers 分词结构。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

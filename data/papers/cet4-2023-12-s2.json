@@ -1,0 +1,1093 @@
+{
+  "id": "cet4-2023-12-s2",
+  "level": "CET4",
+  "year": 2023,
+  "month": 12,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether it is better for college students to live alone or to share a flat with roommates. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nLiving with Roommates Is Worth the Friction\n\nAsked whether to live alone or share a flat, many students choose solitude for the sake of quiet. I would choose roommates, at least for the first two years.\n\nSharing a flat is the cheapest course in adult life a university offers. You learn to negotiate: who buys soap, whose music is too loud, how late a guest may stay. These arguments are annoying, but they are also practice for dealing with colleagues and neighbours later. Living alone removes the friction, and with it the lesson.\n\nSolitude has real advantages. A final-year student writing a thesis, or anyone who sleeps badly, may genuinely need a room of their own. The sensible arrangement is therefore not permanent: share early, when the cost of mistakes is low, and move out when work demands it.\n\nWhat matters is not the number of people in the flat but whether the rules are discussed before they are broken.\n\n（约 165 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For most of human history the night was genuinely dark. That changed within a single century, and the change came so gradually that few people noticed it. Today more than eighty per cent of the world's population lives under a sky bright enough to 26______ the Milky Way, according to a 2016 atlas compiled from satellite data. The 27______ is not limited to astronomers losing their view. Artificial light at night disturbs the 28______ of insects, birds and sea turtles, and a growing body of medical research links it to sleep disorders in people."
+            },
+            {
+              "label": "B",
+              "text": "The problem is rarely the total amount of light; it is the direction and the 29______. A street lamp that throws half its output upwards lights the clouds and nothing else, yet it 30______ the same electricity as one that points down. Towns that replaced old lamps with shielded LEDs cut their lighting bills by up to sixty per cent while making the streets 31______. The equipment had existed for decades; what was missing was a rule. Some places have now written one. In 2018 the French government 32______ a national law requiring shops and offices to switch off illuminated signs and façades after midnight, with exceptions for stations and airports. Several German cities have gone further, 33______ decorative floodlighting of monuments for most of the night. Public reaction has been quieter than expected: 34______, people reported seeing stars from their own gardens for the first time in years. Critics point out that darkness has costs too. Bright streets are widely believed to 35______ crime, although the evidence is thin and some studies find that more light produces no measurable change. The stronger argument concerns road safety, where light directed at the surface genuinely helps drivers. The goal, campaigners insist, is not to make cities dark but to stop wasting light on the sky."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "hide"
+                },
+                {
+                  "key": "B",
+                  "text": "reveal"
+                },
+                {
+                  "key": "C",
+                  "text": "trace"
+                },
+                {
+                  "key": "D",
+                  "text": "count"
+                }
+              ],
+              "answer": "A",
+              "analysis": "「sky bright enough to ___ the Milky Way」：天空太亮，把银河「遮住」了，用 hide。reveal 意思正相反（使显现）；trace 指追踪痕迹，count 指计数，都无法表达光污染遮蔽星空。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "lives under a sky bright enough"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "benefit"
+                },
+                {
+                  "key": "B",
+                  "text": "expense"
+                },
+                {
+                  "key": "C",
+                  "text": "debate"
+                },
+                {
+                  "key": "D",
+                  "text": "damage"
+                }
+              ],
+              "answer": "D",
+              "analysis": "后文列举昆虫、鸟类、海龟行为受扰与人类睡眠障碍，都是负面后果，且「not limited to」表示损害不止于天文学家看不到星空，用 damage。benefit 情感色彩相反；expense 只指花费；debate 指争论，与「后果不止于」不搭。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "disturbs the behaviour of insects, birds and sea turtles"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "behaviour"
+                },
+                {
+                  "key": "B",
+                  "text": "colour"
+                },
+                {
+                  "key": "C",
+                  "text": "number"
+                },
+                {
+                  "key": "D",
+                  "text": "size"
+                }
+              ],
+              "answer": "A",
+              "analysis": "人工光会扰乱动物的活动规律：昆虫趋光、候鸟迷航、海龟幼龟找不到海的方向，都属于 behaviour（行为）。colour 与 size 不能「被扰乱」；number 指数量，与后文迁徙、导航的例子不符。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "links it to sleep disorders"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "timing"
+                },
+                {
+                  "key": "B",
+                  "text": "colour"
+                },
+                {
+                  "key": "C",
+                  "text": "price"
+                },
+                {
+                  "key": "D",
+                  "text": "height"
+                }
+              ],
+              "answer": "A",
+              "analysis": "「it is the direction and the ___」与方向并列，后文法律要求「午夜之后」关灯、纪念碑照明「大半夜」关闭，强调的都是时间，故用 timing。price 与路灯无关；height 已由灯杆决定；colour 虽影响观感，但下文没有对应论述。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "after midnight"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "saves"
+                },
+                {
+                  "key": "B",
+                  "text": "uses"
+                },
+                {
+                  "key": "C",
+                  "text": "produces"
+                },
+                {
+                  "key": "D",
+                  "text": "reflects"
+                }
+              ],
+              "answer": "B",
+              "analysis": "「把一半光射向天上」的灯与「灯头朝下」的灯耗电量相同，用 uses the same electricity。saves 与 the same 矛盾；produces 指发电，主语是用电设备；reflects 指反射，宾语不能是 electricity。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "the same electricity as one that points down"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "darker"
+                },
+                {
+                  "key": "B",
+                  "text": "wider"
+                },
+                {
+                  "key": "C",
+                  "text": "safer"
+                },
+                {
+                  "key": "D",
+                  "text": "quieter"
+                }
+              ],
+              "answer": "C",
+              "analysis": "加装遮光罩的 LED 把光投向路面而不是天空，电费降六成而街道「更安全」——这是改造的正面结果。darker 与「路面照明改善」矛盾；wider 指路面变宽，与换灯无关；quieter 指噪音，与照明无关。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "light directed at the surface genuinely helps drivers"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "blocked"
+                },
+                {
+                  "key": "B",
+                  "text": "copied"
+                },
+                {
+                  "key": "C",
+                  "text": "studied"
+                },
+                {
+                  "key": "D",
+                  "text": "passed"
+                }
+              ],
+              "answer": "D",
+              "analysis": "「the French government ___ a national law requiring...」政府在 2018 年通过了一部要求商铺午夜后关闭灯箱的法律，pass a law 是固定搭配。blocked 指否决，与后文城市效仿矛盾；copied 指抄袭法律；studied 指研究，力度不足。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "requiring shops and offices to switch off illuminated signs"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "expanding"
+                },
+                {
+                  "key": "B",
+                  "text": "banning"
+                },
+                {
+                  "key": "C",
+                  "text": "restoring"
+                },
+                {
+                  "key": "D",
+                  "text": "measuring"
+                }
+              ],
+              "answer": "B",
+              "analysis": "「Several German cities have gone further」表示比法国更进一步，即禁止夜间大部分时间对古迹做装饰性泛光照明，用 banning。expanding 与「更进一步」的严格方向相反；restoring 指修复照明；measuring 指测量。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "have gone further"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "therefore"
+                },
+                {
+                  "key": "B",
+                  "text": "meanwhile"
+                },
+                {
+                  "key": "C",
+                  "text": "instead"
+                },
+                {
+                  "key": "D",
+                  "text": "otherwise"
+                }
+              ],
+              "answer": "C",
+              "analysis": "冒号前后是「反应比预期平静」与「人们说多年未见自家院子里的星星」的转折：不是抱怨，反而看到星空，用 instead。therefore 表因果，逻辑相反；meanwhile 表时间并行；otherwise 表否则，句子无此假设。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "Public reaction has been quieter than expected"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "reduce"
+                },
+                {
+                  "key": "B",
+                  "text": "increase"
+                },
+                {
+                  "key": "C",
+                  "text": "record"
+                },
+                {
+                  "key": "D",
+                  "text": "excuse"
+                }
+              ],
+              "answer": "A",
+              "analysis": "「Bright streets are widely believed to ___ crime」是大众的普遍看法：亮街道能「减少」犯罪，但紧接的 although 说证据薄弱，形成让步。increase 与「亮更安全」的常识相反；record、excuse 与 crime 搭配不通。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "the evidence is thin"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For two generations the university degree was treated as the natural destination of every able school-leaver. In Britain the share of young people entering higher education passed forty per cent in the 2010s, while the number starting an apprenticeship stagnated. Politicians of every party promised to restore technical training, yet the imbalance persisted, because parents, teachers and employers all used the degree as the measure of success."
+            },
+            {
+              "label": "B",
+              "text": "An apprenticeship is not a course with a bit of work experience attached. It is a paid job in which a young person is trained for a specific occupation, usually over two to four years. In England the standard requires at least twenty per cent of the apprentice's paid hours to be spent off the job, in a college or with a training provider, and the content of the programme is supposed to be designed by employers rather than by officials."
+            },
+            {
+              "label": "C",
+              "text": "Germany's dual system is the model most often copied. Around half a million young Germans begin an apprenticeship each year, spending three or four days a week in a company and the rest in a vocational school, across roughly 340 recognised occupations. Youth unemployment in Germany has stayed near six per cent, well below the European average, and employers say the system gives them workers who can do the job on the first day rather than graduates who need a year of training."
+            },
+            {
+              "label": "D",
+              "text": "Why do employers in other countries hesitate? Training costs money, and a firm that invests in a seventeen-year-old may lose her to a competitor at twenty-one. In England a levy was introduced in 2017, charging large employers 0.5 per cent of their payroll to fund apprenticeships. It raised money but did not always spend it well: for several years only about two-thirds of the funds collected were used, and a large share of the new places went to existing employees taking management courses rather than to young people starting out."
+            },
+            {
+              "label": "E",
+              "text": "Status is the harder problem. In countries where the academic route dominates, an apprenticeship is often understood as what you do if you fail at school. Switzerland shows that this is a choice rather than a law of nature: about two-thirds of Swiss teenagers enter vocational education, and the system is valued by families because it leads to secure employment and further study. Where the qualification is respected, the queue forms; where it is a consolation prize, it does not."
+            },
+            {
+              "label": "F",
+              "text": "Small firms employ most of the workforce but train a minority of apprentices, largely because the paperwork is heavy and one person's absence can disrupt a workshop. Group training associations, common in the German craft sector, solve this by sharing a trainer and a workshop between a dozen small businesses. The arrangement costs public money, but far less than the alternative of leaving small employers out of the system altogether."
+            },
+            {
+              "label": "G",
+              "text": "The evidence on outcomes is better than the debate suggests. British government data has repeatedly found that apprentices are more likely to be in work after five years than graduates of many non-selective degrees, and that they carry less debt. The returns are uneven, however: construction and engineering apprentices earn well, while some service-sector programmes pay barely above the minimum wage. The lesson is not that apprenticeships are always better, but that their value depends on the occupation and on whether the training is genuine."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "University became the route that almost every capable school-leaver was expected to take.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段首句：两代人以来，大学被视为「每个有能力的毕业生」的天然去处，英国高教入学率超过四成，而学徒人数停滞。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the natural destination of every able school-leaver"
+            },
+            {
+              "number": 37,
+              "stem": "Part of the paid working time must be spent in formal training.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：英格兰的标准要求至少 20% 的带薪工时用于脱产学习，可在学院或培训机构完成。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "at least twenty per cent of the apprentice's paid hours"
+            },
+            {
+              "number": 38,
+              "stem": "In one country, trainees divide each week between a company and a school.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：德国双元制，学徒每周三到四天在公司、其余时间在职校，覆盖约 340 个职业。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "three or four days a week in a company and the rest in a vocational school"
+            },
+            {
+              "number": 39,
+              "stem": "Firms fear that a rival will hire the workers they have trained.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段：培训要花钱，而投资一个十七岁学徒的公司，「到二十一岁可能被竞争对手挖走」——正是怕被搭便车。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "may lose her to a competitor"
+            },
+            {
+              "number": 40,
+              "stem": "Money raised for training has not been fully spent on it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：2017 年英格兰的 levy 征收雇员工资的 0.5%，但连续几年「只花掉约三分之二」，且不少名额流向在职员工的管理课程。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "only about two-thirds of the funds collected were used"
+            },
+            {
+              "number": 41,
+              "stem": "Where academic study is dominant, vocational training is seen as a fallback.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：在学术路线主导的国家，学徒常被理解为「考不上学校才去做的事」，即一种退路（consolation prize）。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "what you do if you fail at school"
+            },
+            {
+              "number": 42,
+              "stem": "Small businesses need outside help with administration to take on trainees.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "F 段：小企业雇了大部分劳动力却只培训少数学徒，原因是「文书负担重」、一个人缺席就会打乱车间；德国的集团培训协会把培训师与车间在十几家小企业间共享来化解。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "the paperwork is heavy"
+            },
+            {
+              "number": 43,
+              "stem": "Trainees are more likely to be employed afterwards than many graduates.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "G 段：英国政府数据反复显示，学徒五年后的就业概率高于许多非选拔性学位的毕业生，且负债更少。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "more likely to be in work after five years"
+            },
+            {
+              "number": 44,
+              "stem": "A country's low youth unemployment is connected with its training system.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：德国青年失业率长期在 6% 左右，远低于欧洲平均，雇主称双元制让他们得到「第一天就能上手」的员工。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "Youth unemployment in Germany has stayed near six per cent"
+            },
+            {
+              "number": 45,
+              "stem": "The financial return of an apprenticeship depends on the industry.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "G 段：收益不均——建筑与工程学徒收入不错，部分服务业项目「只略高于最低工资」，所以说价值取决于行业与培训是否真实。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "The returns are uneven"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The ten-thousand-step target has no medical origin. It comes from a Japanese pedometer sold for the 1964 Tokyo Olympics, whose name meant 'ten-thousand-step meter'. The number was a marketing decision, chosen because it was round and sounded ambitious, and it spread around the world attached to a device rather than to any study. For half a century, public health advice repeated it as though it were a prescription."
+            },
+            {
+              "label": "B",
+              "text": "The first large study to test the figure was published in 2022 by researchers at Harvard and Brigham and Women's Hospital. They asked 4,840 women in their seventies to wear a step counter for a week and followed them for about seven years. Mortality fell steadily as steps rose, but the benefit levelled off at around 7,500 steps a day. Walking further was not harmful; it simply added little."
+            },
+            {
+              "label": "C",
+              "text": "A much larger analysis in 2023 pooled seventeen studies covering 226,889 people on four continents. Compared with 2,000 steps a day, 3,960 steps were associated with a 20 per cent lower risk of dying from any cause, and each additional 1,000 steps with a further reduction of about 15 per cent, up to a plateau near 12,000. The message is not that the target should be lowered, but that the first few thousand steps buy the most."
+            },
+            {
+              "label": "D",
+              "text": "Counting steps also misses something important: how fast they are walked. A study of 78,500 British adults, published in 2018, found that pace mattered independently of total volume. People who walked briskly for part of the day had lower rates of heart disease than those who covered the same distance slowly, which suggests that the heart responds to effort as well as to distance. The same number of steps, taken in a shopping centre, is not the same exercise as a brisk walk to work."
+            },
+            {
+              "label": "E",
+              "text": "What should a doctor tell a patient who does almost nothing? Not 'ten thousand or nothing'. The risk curve is steepest at the beginning: moving from two thousand steps to four thousand produces a larger reduction in risk than moving from eight thousand to ten thousand. A target that sounds unreachable discourages the people who would gain most. The useful advice is to add a little, often, and to keep the habit when the weather turns bad."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "Where did the ten-thousand-step figure come from?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A clinical trial in Tokyo."
+                },
+                {
+                  "key": "B",
+                  "text": "A device marketed for the 1964 Olympics."
+                },
+                {
+                  "key": "C",
+                  "text": "A recommendation by the World Health Organization."
+                },
+                {
+                  "key": "D",
+                  "text": "A study of Japanese runners."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：这个数字来自 1964 年东京奥运会期间销售的一款日本计步器，名字意为「万步计」，是营销选择而非医学结论。C、D 原文均未提；A 与「no medical origin」矛盾。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "a Japanese pedometer sold for the 1964 Tokyo Olympics"
+            },
+            {
+              "number": 47,
+              "stem": "What did the 2022 Harvard study find?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Benefits stopped increasing at about 7,500 steps."
+                },
+                {
+                  "key": "B",
+                  "text": "Ten thousand steps were necessary for any benefit."
+                },
+                {
+                  "key": "C",
+                  "text": "Walking more than 7,500 steps was harmful."
+                },
+                {
+                  "key": "D",
+                  "text": "Step counts had no effect on mortality."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：研究对象是四千多名七十多岁女性，死亡率随步数上升而下降，但收益在约 7,500 步处「趋于平缓」；原文明确说再走并不有害（not harmful），只是增益很小。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "the benefit levelled off at around 7,500 steps a day"
+            },
+            {
+              "number": 48,
+              "stem": "What does the 2023 analysis suggest about the first few thousand steps?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They matter less than the last few thousand."
+                },
+                {
+                  "key": "B",
+                  "text": "They bring the largest reduction in risk."
+                },
+                {
+                  "key": "C",
+                  "text": "They are only useful for younger adults."
+                },
+                {
+                  "key": "D",
+                  "text": "They should be replaced by other exercise."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：与每天 2,000 步相比，3,960 步即与全因死亡风险低 20% 相关，此后每多 1,000 步再降约 15%，到 12,000 步左右趋平；作者总结「最前面几千步收益最大」。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the first few thousand steps buy the most"
+            },
+            {
+              "number": 49,
+              "stem": "Why does walking speed matter, according to the 2018 study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It changes the number of steps recorded."
+                },
+                {
+                  "key": "B",
+                  "text": "The heart responds to effort as well as to distance."
+                },
+                {
+                  "key": "C",
+                  "text": "Fast walkers tend to be younger."
+                },
+                {
+                  "key": "D",
+                  "text": "Slow walking burns more calories per step."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：七万八千多名英国成年人的研究显示，快走者心脏病发生率低于走同样距离但速度慢的人，说明「心脏对用力程度和距离都有反应」。A 项与「independently of total volume」矛盾。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "the heart responds to effort as well as to distance"
+            },
+            {
+              "number": 50,
+              "stem": "What advice does the author give in the last paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Aim for ten thousand steps or nothing."
+                },
+                {
+                  "key": "B",
+                  "text": "Start small and add a little regularly."
+                },
+                {
+                  "key": "C",
+                  "text": "Walk only in good weather."
+                },
+                {
+                  "key": "D",
+                  "text": "Replace walking with gym training."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：风险曲线在最开始最陡，从两千到四千步的收益大于从八千到一万步；作者主张「少量、经常、天冷也坚持」，而不是「一万步否则等于白走」。C 与「weather turns bad 仍要坚持」相反。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "to add a little, often"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "China is home to more than 130 languages, most of them spoken by small communities. Census figures and university surveys point the same way: in villages where three generations once lived under one roof, the youngest now answers in Mandarin and understands the local speech only partly. The shift is not caused by any single policy. Schooling, television, marriage across counties and the simple fact that jobs are found elsewhere all push in the same direction."
+            },
+            {
+              "label": "B",
+              "text": "Since 2015 a national project has sent teams of linguists to record speech at more than a thousand survey points, using video, audio and a standard questionnaire. The recordings are archived and, in many cases, published online with transcriptions and translations. The scale is unusual: most countries with endangered languages have recorded a handful of communities, not a thousand. The project's organisers describe it as building a sound archive for future scholars."
+            },
+            {
+              "label": "C",
+              "text": "An archive, however, is not a community. A recording preserves how a grandmother pronounced a word in 2018; it does not make anyone use that word in 2030. Linguists who work on revitalisation make a distinction between documentation, which is about saving evidence, and maintenance, which is about keeping a language in daily use. The second is far harder and cannot be done by outsiders. It depends on whether parents speak the language to children, and on whether speaking it feels normal rather than folkloric."
+            },
+            {
+              "label": "D",
+              "text": "There are signs of change in how the young regard local speech. A 2021 survey of 3,000 university students found that more than half had watched short videos in a regional dialect in the previous month, and that those who did were markedly less likely to describe their own dialect as embarrassing. Local opera troupes have begun streaming performances with subtitles, and pop songs mix dialect lyrics with Mandarin choruses. The effect is not to make everyone fluent, but to remove the sense that the dialect is a mark of backwardness."
+            },
+            {
+              "label": "E",
+              "text": "What follows for policy? Not the enforcement of purity, which no one can define and which turns a living language into a school subject. The practical measures are duller: bilingual signs in clinics and markets, staff at service counters who can switch, subtitles on local news, and permission for children to answer a question in the speech they use at home. A language survives where it is useful, and dies where it is only performed at festivals."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does paragraph A describe?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A government campaign to ban local dialects."
+                },
+                {
+                  "key": "B",
+                  "text": "A gradual shift among younger speakers."
+                },
+                {
+                  "key": "C",
+                  "text": "A rise in the number of languages spoken."
+                },
+                {
+                  "key": "D",
+                  "text": "A disagreement among linguists."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：三代同堂的村子里，最年轻的一代用普通话回答、只能部分听懂本地话；并说明这是就学、电视、跨县婚姻、外出就业共同推动的渐变，而非单一政策造成。A 项与「not caused by any single policy」矛盾。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "the youngest now answers in Mandarin"
+            },
+            {
+              "number": 52,
+              "stem": "What is unusual about the national recording project?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It collects speech from over a thousand places."
+                },
+                {
+                  "key": "B",
+                  "text": "It is funded entirely by universities."
+                },
+                {
+                  "key": "C",
+                  "text": "It forbids publication of the recordings."
+                },
+                {
+                  "key": "D",
+                  "text": "It teaches children to read old scripts."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：2015 年起，团队用视频、音频和统一问卷在「一千多个调查点」录音，规模罕见——多数有濒危语言的国家只记录过少数社区。C 与「published online」相反；B、D 原文未提。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "more than a thousand survey points"
+            },
+            {
+              "number": 53,
+              "stem": "What limitation of archives does paragraph C point out?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Recordings are often of poor quality."
+                },
+                {
+                  "key": "B",
+                  "text": "They preserve evidence but do not keep a language in use."
+                },
+                {
+                  "key": "C",
+                  "text": "They are too expensive for universities."
+                },
+                {
+                  "key": "D",
+                  "text": "They mislead future scholars."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：录音只能保存「祖母 2018 年怎么念一个词」，不能让人在 2030 年继续使用；作者区分 documentation（保存证据）与 maintenance（维持日常使用），后者无法由外部研究者完成。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "documentation, which is about saving evidence"
+            },
+            {
+              "number": 54,
+              "stem": "What has changed among young people, according to the 2021 survey?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They speak dialect more often at home."
+                },
+                {
+                  "key": "B",
+                  "text": "They are less ashamed of their local speech."
+                },
+                {
+                  "key": "C",
+                  "text": "They prefer opera to pop music."
+                },
+                {
+                  "key": "D",
+                  "text": "They refuse to learn Mandarin."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：2021 年对三千名大学生的调查显示，过半人上月看过方言短视频，而这些学生明显更少把家乡话形容为「丢人」；作者强调效果不是让人人流利，而是去掉「方言等于落后」的感觉。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "less likely to describe their own dialect as embarrassing"
+            },
+            {
+              "number": 55,
+              "stem": "Which measure would the author support?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Requiring pupils to speak only dialect at school."
+                },
+                {
+                  "key": "B",
+                  "text": "Defining and enforcing a pure standard form."
+                },
+                {
+                  "key": "C",
+                  "text": "Offering services and signs in local speech."
+                },
+                {
+                  "key": "D",
+                  "text": "Restricting dialect to festival performances."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：作者反对「强制纯洁」，主张务实措施——诊所与市场的双语标识、能切换方言的服务人员、地方新闻配字幕、允许孩子用家里的话回答问题；末句说语言「有用才活」，只在节庆表演就会死。D 恰是作者批评的做法。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "bilingual signs in clinics and markets"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n江西景德镇被称为中国的「瓷都」。早在宋代，这里的窑工就能烧制出洁白细腻的瓷器，产品沿着海上商路远销亚非各国。景德镇的瓷器以「白如玉、薄如纸、声如磬」著称。明清时期，皇家在此设立御窑，全国最优秀的工匠被征调到这座小城。今天，景德镇仍聚集着大批陶艺家，其中不少来自海外，他们在这里学习传统技法，也带来了新的设计理念。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nJingdezhen in Jiangxi Province is known as the porcelain capital of China. As early as the Song Dynasty, potters there were able to produce porcelain that was white and fine, and their wares were shipped along maritime trade routes to countries in Asia and Africa. Jingdezhen porcelain is famous for being 'white as jade, thin as paper and resonant as a chime'. During the Ming and Qing dynasties the imperial court set up a kiln here, and the finest craftsmen in the country were summoned to this small town. Today Jingdezhen still attracts a large number of ceramic artists, many of them from overseas, who come to learn traditional techniques and bring new ideas about design.\n\n【要点】①「被称为」用 is known as / is called；②「烧制出洁白细腻的瓷器」可处理为 produce porcelain that was white and fine；③「白如玉、薄如纸、声如磬」三个比喻宜保留排比：white as jade, thin as paper and resonant as a chime；④「御窑」译 imperial kiln，「征调」用 were summoned；⑤末句「其中不少来自海外」用 many of them from overseas 独立结构，避免断句。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

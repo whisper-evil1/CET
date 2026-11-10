@@ -54,14 +54,16 @@ export default async function ProfilePage() {
       <SiteHeader active="profile" />
 
       <main className="mx-auto max-w-[860px] px-5 pb-24">
-        <section className="flex items-end justify-between border-b border-line py-8">
-          <div className="flex items-center gap-4">
-            <span className="grid h-12 w-12 place-items-center rounded-full bg-accent font-serif text-[19px] text-white">
+        {/* 邮箱是长串、又不换行，320px 窄屏（iPhone SE）下这行会把整页顶宽 30 多像素。
+            让容器可换行、邮箱可省略，必要时「退出登录」掉到第二行，比横向滚动条友好。 */}
+        <section className="flex flex-wrap items-end justify-between gap-y-4 border-b border-line py-8">
+          <div className="flex min-w-0 items-center gap-4">
+            <span className="grid h-12 w-12 shrink-0 place-items-center rounded-full bg-accent font-serif text-[19px] text-white">
               {(user?.name ?? user?.email ?? "?").slice(0, 1).toUpperCase()}
             </span>
-            <div>
+            <div className="min-w-0">
               <h1 className="font-serif text-[24px] text-ink">{user?.name ?? "同学"}</h1>
-              <p className="mt-1 font-mono text-[11.5px] text-ink-mute">{user?.email}</p>
+              <p className="mt-1 truncate font-mono text-[11.5px] text-ink-mute">{user?.email}</p>
             </div>
           </div>
           <LogoutButton />

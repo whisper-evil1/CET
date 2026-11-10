@@ -1,0 +1,1097 @@
+{
+  "id": "cet4-2022-06-s3",
+  "level": "CET4",
+  "year": 2022,
+  "month": 6,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether universities should teach students financial literacy. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nShould Universities Teach Financial Literacy?\n\nMany graduates leave university able to analyse a poem but unable to read a payslip. The first year of work brings decisions about rent, insurance, pensions and credit, and mistakes made then can take a decade to repair. Universities should therefore teach financial literacy, though not as another examination subject.\n\nThe case is practical. A short course on interest, taxation and contracts would help students recognise a loan that costs far more than it appears to, and explain why saving a little early matters more than saving a lot late. These are simple ideas, but nobody teaches them.\n\nCritics argue that the topic belongs to families and that the curriculum is already crowded. But families differ enormously in what they can pass on, and a university is the last institution that reaches almost everyone before adult life begins. A single term of practical workshops would be enough.\n\nFinancial knowledge does not make people rich. It prevents avoidable harm, which is what education should do first.\n\n（约 168 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Sweden is often described as the most cashless country in the world. Cards and mobile payments account for almost all retail 26______, and many banks no longer keep notes in their branches. For most shoppers this is convenient: buses accept no cash, and splitting a bill takes seconds. For a minority, however, the 27______ has been harder."
+            },
+            {
+              "label": "B",
+              "text": "Older people, people with disabilities and those living in rural areas are the most 28______. A person who has never used a smartphone may find that a shop will not accept a note, and small businesses complain about the 29______ that card companies charge. Charities report that homeless people, who often receive cash, are increasingly 30______ from ordinary transactions.\n\nThe law has begun to respond. Sweden's central bank has asked parliament to 31______ the right to pay in cash for essential goods, and similar rules exist in Norway. Banks argue that maintaining cash is 32______ and that demand is falling. Campaigners reply that a payment system should work for everyone, not only for the 33______ majority.\n\nThe debate is not really about coins. It is about what happens to people who are 34______ behind by a system that everyone else finds convenient. A society can be efficient and still leave someone behind; the question is whether anyone 35______."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "type": "词义题",
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "operations"
+                },
+                {
+                  "key": "B",
+                  "text": "solutions"
+                },
+                {
+                  "key": "C",
+                  "text": "instructions"
+                },
+                {
+                  "key": "D",
+                  "text": "transactions"
+                }
+              ],
+              "answer": "D",
+              "analysis": "retail transactions 指零售交易，与「刷卡和移动支付」对应。operations 多指企业运营，solutions 指解决方案，instructions 指说明，都不能表示支付行为。",
+              "evidencePara": "A",
+              "evidenceText": "Cards and mobile payments account for almost all retail"
+            },
+            {
+              "number": 27,
+              "type": "词义题",
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "transport"
+                },
+                {
+                  "key": "B",
+                  "text": "transition"
+                },
+                {
+                  "key": "C",
+                  "text": "tradition"
+                },
+                {
+                  "key": "D",
+                  "text": "translation"
+                }
+              ],
+              "answer": "B",
+              "analysis": "全文讲从现金转向无现金的「转变」，对多数人方便，对少数人更艰难。transport 指交通，tradition 指传统，translation 指翻译，均与语境无关。",
+              "evidencePara": "A",
+              "evidenceText": "For a minority, however, the"
+            },
+            {
+              "number": 28,
+              "type": "词义题",
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "attracted"
+                },
+                {
+                  "key": "B",
+                  "text": "employed"
+                },
+                {
+                  "key": "C",
+                  "text": "affected"
+                },
+                {
+                  "key": "D",
+                  "text": "included"
+                }
+              ],
+              "answer": "C",
+              "analysis": "空后解释老人、残障者和农村居民遇到的困难，说明他们是最「受影响」的人群。attracted 指被吸引，employed 指被雇用，included 指被包含，均不合逻辑。",
+              "evidencePara": "B",
+              "evidenceText": "A person who has never used a smartphone"
+            },
+            {
+              "number": 29,
+              "type": "词义题",
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "fees"
+                },
+                {
+                  "key": "B",
+                  "text": "figures"
+                },
+                {
+                  "key": "C",
+                  "text": "fines"
+                },
+                {
+                  "key": "D",
+                  "text": "forms"
+                }
+              ],
+              "answer": "A",
+              "analysis": "卡公司向小商户收的是手续费，fees 最贴切。fines 指罚款（由执法机构开出），figures 指数字，forms 指表格，与 charge（收费）搭配不当。",
+              "evidencePara": "B",
+              "evidenceText": "that card companies charge"
+            },
+            {
+              "number": 30,
+              "type": "词义题",
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "excused"
+                },
+                {
+                  "key": "B",
+                  "text": "excluded"
+                },
+                {
+                  "key": "C",
+                  "text": "exported"
+                },
+                {
+                  "key": "D",
+                  "text": "expanded"
+                }
+              ],
+              "answer": "B",
+              "analysis": "常收到现金的流浪者越来越被「排除」在普通交易之外，be excluded from 是固定搭配。excused 指被原谅，exported 指出口，expanded 指扩张。",
+              "evidencePara": "B",
+              "evidenceText": "homeless people, who often receive cash"
+            },
+            {
+              "number": 31,
+              "type": "词义题",
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "prevent"
+                },
+                {
+                  "key": "B",
+                  "text": "protest"
+                },
+                {
+                  "key": "C",
+                  "text": "provide"
+                },
+                {
+                  "key": "D",
+                  "text": "protect"
+                }
+              ],
+              "answer": "D",
+              "analysis": "央行请议会「保护」用现金购买必需品的权利，protect the right 是常见搭配。prevent 指阻止（与权利相反），protest 是不及物用法居多，provide 后应接 sb with sth。",
+              "evidencePara": "B",
+              "evidenceText": "the right to pay in cash for essential goods"
+            },
+            {
+              "number": 32,
+              "type": "词义题",
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "costly"
+                },
+                {
+                  "key": "B",
+                  "text": "careful"
+                },
+                {
+                  "key": "C",
+                  "text": "current"
+                },
+                {
+                  "key": "D",
+                  "text": "curious"
+                }
+              ],
+              "answer": "A",
+              "analysis": "银行认为维持现金「成本高」且需求下降，与活动人士要求保留现金形成对立。careful、curious 形容态度，current 指当前的，都不能与 maintaining cash 构成成本论证。",
+              "evidencePara": "B",
+              "evidenceText": "demand is falling"
+            },
+            {
+              "number": 33,
+              "type": "词义题",
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "distant"
+                },
+                {
+                  "key": "B",
+                  "text": "direct"
+                },
+                {
+                  "key": "C",
+                  "text": "digital"
+                },
+                {
+                  "key": "D",
+                  "text": "diverse"
+                }
+              ],
+              "answer": "C",
+              "analysis": "与「所有人」相对的是已经习惯数字支付的「数字多数群体」，digital 与全文的手机支付、刷卡呼应。distant、direct、diverse 与支付方式无关。",
+              "evidencePara": "B",
+              "evidenceText": "not only for the"
+            },
+            {
+              "number": 34,
+              "type": "词义题",
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "held"
+                },
+                {
+                  "key": "B",
+                  "text": "locked"
+                },
+                {
+                  "key": "C",
+                  "text": "sorted"
+                },
+                {
+                  "key": "D",
+                  "text": "left"
+                }
+              ],
+              "answer": "D",
+              "analysis": "leave sb behind 意为「把某人落在后面」，本句指被便利系统抛下的人。held、locked、sorted 与 behind 搭配均不表示这一含义。",
+              "evidencePara": "B",
+              "evidenceText": "behind by a system that everyone else finds convenient"
+            },
+            {
+              "number": 35,
+              "type": "词义题",
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "mentions"
+                },
+                {
+                  "key": "B",
+                  "text": "notices"
+                },
+                {
+                  "key": "C",
+                  "text": "matters"
+                },
+                {
+                  "key": "D",
+                  "text": "admits"
+                }
+              ],
+              "answer": "B",
+              "analysis": "末句提出：社会可以高效却仍有人被落下，问题在于「有没有人注意到」。notices 与 whether anyone 搭配自然；mentions 需接宾语，matters 主语不能是 anyone，admits 语义不符。",
+              "evidencePara": "B",
+              "evidenceText": "A society can be efficient and still leave someone behind"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In the dry season, the forest around many Australian towns is a store of fuel. Bark hangs from eucalyptus trees, grass dries to straw, and a single spark can start a fire that moves faster than a person can run. For tens of thousands of years, the people who lived on this land managed that fuel deliberately, lighting small, cool fires at the right time of year. The practice is now called cultural burning."
+            },
+            {
+              "label": "B",
+              "text": "The fires were not random. They were lit in patches, often in the early dry season when the ground was still damp, and they burned low, clearing grass and small shrubs without killing mature trees. The result was a landscape of different ages: recently burned patches, patches recovering, and old growth. A fire that entered such a landscape would slow down when it reached ground that had little left to burn."
+            },
+            {
+              "label": "C",
+              "text": "Colonisation interrupted the practice. Governments banned burning by Aboriginal people, and the land was managed instead for grazing and timber. Fuel built up across millions of hectares. When fires came, they were larger and hotter than anything in the oral record, and the damage to soil, water and wildlife was correspondingly greater."
+            },
+            {
+              "label": "D",
+              "text": "Wildfire agencies in Australia and the United States have begun to work with Indigenous rangers again. In northern Australia, Aboriginal organisations now run burning programmes that cover tens of thousands of square kilometres and earn income from carbon credits, because cooler fires release less carbon than late-season wildfires. The programmes employ local people and combine traditional knowledge with satellite mapping and helicopters."
+            },
+            {
+              "label": "E",
+              "text": "The model is not easy to copy. Cultural burning depends on detailed local knowledge — which plants burn when, how the wind behaves on a particular slope — that cannot be transferred in a manual. It also requires legal permission, insurance and agreements with neighbours, and some agencies have been slow to accept that burning can be safe. Where it has worked, it has usually been because a senior ranger was given authority, not because a policy document said so."
+            },
+            {
+              "label": "F",
+              "text": "In California, the obstacles are different. Native tribes lost access to their lands generations ago, and controlled burning is restricted by air-quality rules. A few tribes have obtained permits and now burn small areas with state support, but the acreage is tiny compared with the backlog of overgrown forest. Fire officials who support the work admit that the permitting system was designed for industrial burns, not for a family lighting a patch of meadow."
+            },
+            {
+              "label": "G",
+              "text": "Researchers are careful not to oversell the idea. Cultural burning reduces risk near towns and restores some habitats; it does not stop a megafire driven by drought and wind. Its value may lie elsewhere: in rebuilding a relationship between people and land that treats fire as a tool rather than an enemy. That lesson, supporters say, is the one that modern fire management has most completely forgotten."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "type": "细节题",
+              "stem": "Small fires were set at a time of year when the ground still held moisture.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：火通常在旱季初期、地面仍潮湿时分块点燃，火势低，只烧草和小灌木。",
+              "evidencePara": "B",
+              "evidenceText": "in the early dry season when the ground was still damp"
+            },
+            {
+              "number": 37,
+              "type": "推断题",
+              "stem": "Banning traditional burning allowed fuel to build up across vast areas.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：殖民后政府禁止原住民烧荒，土地改作放牧与木材，燃料在数百万公顷上累积。",
+              "evidencePara": "C",
+              "evidenceText": "Fuel built up across millions of hectares"
+            },
+            {
+              "number": 38,
+              "type": "细节题",
+              "stem": "Some burning programmes earn money because cool fires release less carbon.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：北部澳大利亚的原住民组织经营烧荒项目，因低温火比晚季野火释放更少碳而获得碳信用收入。",
+              "evidencePara": "D",
+              "evidenceText": "earn income from carbon credits"
+            },
+            {
+              "number": 39,
+              "type": "推断题",
+              "stem": "Local knowledge of this practice cannot simply be written down and passed on.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：烧荒依赖「哪种植物何时烧、某处山坡风怎么走」的细节知识，无法写进手册传给他人。",
+              "evidencePara": "E",
+              "evidenceText": "cannot be transferred in a manual"
+            },
+            {
+              "number": 40,
+              "type": "细节题",
+              "stem": "Californian rules were written for large industrial burns, not small ones.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：支持这项工作的消防官员承认，许可制度是为工业规模烧除设计的，不适用于一家人点燃一小片草地。",
+              "evidencePara": "F",
+              "evidenceText": "designed for industrial burns"
+            },
+            {
+              "number": 41,
+              "type": "细节题",
+              "stem": "A patchwork of burnt and unburnt land can slow an approaching fire.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：烧荒形成不同「年龄」的地块，火进入后遇到几乎无可燃物的地面就会减速。",
+              "evidencePara": "B",
+              "evidenceText": "would slow down when it reached ground that had little left to burn"
+            },
+            {
+              "number": 42,
+              "type": "主旨题",
+              "stem": "The practice cannot remove the danger of the most extreme fires.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：文化烧荒降低城镇附近风险、恢复部分栖息地，但「无法阻止由干旱和大风驱动的特大火灾」。",
+              "evidencePara": "G",
+              "evidenceText": "it does not stop a megafire driven by drought and wind"
+            },
+            {
+              "number": 43,
+              "type": "细节题",
+              "stem": "Aboriginal people were legally stopped from setting fires.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段第二句：政府禁止原住民烧荒（Governments banned burning by Aboriginal people）。",
+              "evidencePara": "C",
+              "evidenceText": "Governments banned burning by Aboriginal people"
+            },
+            {
+              "number": 44,
+              "type": "推断题",
+              "stem": "Giving one senior person authority mattered more than written policy.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：成功之处通常是因为一位资深巡护员被授予决定权，而不是因为某份政策文件这样写。",
+              "evidencePara": "E",
+              "evidenceText": "a senior ranger was given authority"
+            },
+            {
+              "number": 45,
+              "type": "主旨题",
+              "stem": "Fire was once understood as an instrument rather than an enemy.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：文化烧荒的价值还在于重建人与土地的关系，把火当作工具而不是敌人，而这正是现代消防管理忘掉的。",
+              "evidencePara": "G",
+              "evidenceText": "treats fire as a tool rather than an enemy"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Steel is the most recycled material on earth and still one of the dirtiest. Making it from iron ore accounts for around seven per cent of global carbon emissions, more than the entire output of India. The chemistry is the problem: iron ore is iron oxide, and removing the oxygen traditionally requires coke, which releases carbon dioxide. Steelmakers have known for a century how to avoid this in theory. Doing it at scale is the difficulty."
+            },
+            {
+              "label": "B",
+              "text": "In 2021, a Swedish venture called HYBRIT delivered the first batch of steel made without coal to a customer. The plant replaces coke with hydrogen, produced using electricity from renewable sources. The hydrogen combines with oxygen in the ore to make water rather than carbon dioxide. The process works, but the quantities are small: the pilot plant produced a few hundred tonnes, against a global output of nearly two billion."
+            },
+            {
+              "label": "C",
+              "text": "The obstacle is electricity. Replacing coal with hydrogen requires enormous amounts of power, and clean power is the scarce ingredient. A single large steel plant converted to hydrogen would need more electricity than a medium-sized city. Producers in countries with cheap hydroelectricity, such as Norway, are ahead; those relying on coal-fired grids are waiting for the grid to change before they commit."
+            },
+            {
+              "label": "D",
+              "text": "Customers are beginning to create a market. Car manufacturers, appliance makers and construction firms have signed agreements to buy low-carbon steel at a premium, partly to meet their own climate targets. The premiums are currently high — in some contracts, twenty to thirty per cent above conventional prices — and analysts expect them to fall as production scales up. Whether consumers will pay more for a car because its steel is green remains an open question."
+            },
+            {
+              "label": "E",
+              "text": "Governments have a role that markets alone cannot fill. A plant that runs for forty years needs certainty about the price of carbon and the availability of hydrogen before anyone invests billions. The European Union's carbon border tax, which charges imports for their emissions, is intended to prevent cheaper, dirtier steel from undercutting the new plants. Without such rules, the first company to invest risks being the one that loses money."
+            },
+            {
+              "label": "F",
+              "text": "The transition will be uneven. Much of the world's steel is made in countries where coal is cheap and climate policy is weak, and those plants will not disappear quickly. The optimistic reading is that the technology now exists and the first customers are paying; the pessimistic one is that the industry will decarbonise in Europe and Japan while emissions rise elsewhere. Both may turn out to be true."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "type": "细节题",
+              "stem": "Why is steelmaking difficult to decarbonise?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Steel cannot be recycled."
+                },
+                {
+                  "key": "B",
+                  "text": "Removing oxygen from iron ore traditionally needs carbon."
+                },
+                {
+                  "key": "C",
+                  "text": "Iron ore is becoming scarce."
+                },
+                {
+                  "key": "D",
+                  "text": "Most steel plants are very small."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：铁矿石是氧化铁，传统去氧要靠焦炭，而焦炭释放二氧化碳，问题出在化学过程上。A 与首句「最常被回收的材料」相反。",
+              "evidencePara": "A",
+              "evidenceText": "removing the oxygen traditionally requires coke"
+            },
+            {
+              "number": 47,
+              "type": "细节题",
+              "stem": "What did the HYBRIT plant demonstrate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Steel can be made with hydrogen, at least at small scale."
+                },
+                {
+                  "key": "B",
+                  "text": "Coal-free steel is cheaper than ordinary steel."
+                },
+                {
+                  "key": "C",
+                  "text": "Hydrogen can replace electricity completely."
+                },
+                {
+                  "key": "D",
+                  "text": "Customers will not buy green steel."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：该厂用可再生能源制氢替代焦炭，向客户交付首批无煤钢；但产量只有几百吨，全球产量近 20 亿吨，说明仅在试验规模上成功。",
+              "evidencePara": "B",
+              "evidenceText": "the quantities are small"
+            },
+            {
+              "number": 48,
+              "type": "推断题",
+              "stem": "What limits the spread of hydrogen-based steelmaking?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A lack of iron ore."
+                },
+                {
+                  "key": "B",
+                  "text": "The huge amount of clean electricity required."
+                },
+                {
+                  "key": "C",
+                  "text": "Opposition from car manufacturers."
+                },
+                {
+                  "key": "D",
+                  "text": "A ban imposed by the European Union."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：一座大型钢厂改用氢所需的电力超过一座中等城市，而清洁电力才是稀缺原料；拥有廉价水电的挪威领先，依赖煤电的地区还在观望。",
+              "evidencePara": "C",
+              "evidenceText": "clean power is the scarce ingredient"
+            },
+            {
+              "number": 49,
+              "type": "推断题",
+              "stem": "What remains uncertain about the market for low-carbon steel?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Whether car makers will sign contracts."
+                },
+                {
+                  "key": "B",
+                  "text": "Whether ordinary consumers will accept the extra cost."
+                },
+                {
+                  "key": "C",
+                  "text": "Whether the steel is strong enough."
+                },
+                {
+                  "key": "D",
+                  "text": "Whether analysts can calculate the premium."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段末：消费者是否愿意因为钢材是「绿色」的而多付车款，仍是未解的问题。A 与原文「已签协议」相反。",
+              "evidencePara": "D",
+              "evidenceText": "remains an open question"
+            },
+            {
+              "number": 50,
+              "type": "推断题",
+              "stem": "What is the purpose of the EU's carbon border tax?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To raise money for new steel plants."
+                },
+                {
+                  "key": "B",
+                  "text": "To stop cheaper high-emission steel from winning on price."
+                },
+                {
+                  "key": "C",
+                  "text": "To ban all steel imports."
+                },
+                {
+                  "key": "D",
+                  "text": "To reduce the price of hydrogen."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：碳边境税对进口钢按排放收费，目的是防止更便宜、更脏的钢压低新厂价格；否则第一个投资者反而亏钱。",
+              "evidencePara": "E",
+              "evidenceText": "prevent cheaper, dirtier steel from undercutting the new plants"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Procrastination is usually treated as a problem of time management: if only we made better plans, we would stop putting things off. Research in psychology suggests the diagnosis is wrong. People who procrastinate are often perfectly able to plan; what they cannot do is tolerate the feeling that the task produces. The delay is a way of escaping a bad mood, and it works, briefly, which is why it repeats."
+            },
+            {
+              "label": "B",
+              "text": "The mood in question is rarely laziness. Studies by Timothy Pychyl and others have found that procrastination is associated with anxiety, self-doubt and a harsh inner critic. A student who fears that an essay will reveal her limitations avoids opening the document, because not starting feels better than starting badly. The relief is immediate; the cost arrives later, when the deadline is close and the original anxiety has been joined by guilt."
+            },
+            {
+              "label": "C",
+              "text": "The consequences are practical as well as emotional. Students who procrastinate earn lower grades, and adults who do it chronically report more stress, worse health and less satisfaction with their work. The pattern is self-reinforcing: delay produces a poorer result, the poorer result confirms the fear that produced the delay, and the next task looks even more threatening."
+            },
+            {
+              "label": "D",
+              "text": "What helps is not a better timetable. Interventions that teach people to notice the unpleasant feeling, name it and begin anyway have shown better results than those that focus on planning. One approach asks people to commit to working for just a few minutes, on the grounds that starting is the hardest part and that the aversion fades once the task is underway. Another replaces self-criticism with self-compassion, which sounds soft but reduces the fear that drives avoidance."
+            },
+            {
+              "label": "E",
+              "text": "There is a limit to individual solutions. Some procrastination is a rational response to work that is pointless, badly managed or impossible to finish. When a task has no clear purpose, no feedback and no end, delay is not a character flaw but a signal that something in the system is wrong. The most useful question may not be \"how do I stop delaying?\" but \"why is this task so hard to begin?\""
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "type": "主旨题",
+              "stem": "What does psychological research suggest about procrastination?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is mainly a failure of planning."
+                },
+                {
+                  "key": "B",
+                  "text": "It is a way of managing unpleasant feelings."
+                },
+                {
+                  "key": "C",
+                  "text": "It affects only students."
+                },
+                {
+                  "key": "D",
+                  "text": "It disappears with age."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：拖延者往往很会做计划，真正困难的是忍受任务带来的感受，拖延是逃避坏情绪的方式，而且短期有效，因此反复出现。",
+              "evidencePara": "A",
+              "evidenceText": "a way of escaping a bad mood"
+            },
+            {
+              "number": 52,
+              "type": "细节题",
+              "stem": "What typically accompanies procrastination?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Confidence and calm."
+                },
+                {
+                  "key": "B",
+                  "text": "Anxiety and self-doubt."
+                },
+                {
+                  "key": "C",
+                  "text": "Physical illness only."
+                },
+                {
+                  "key": "D",
+                  "text": "A lack of intelligence."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：研究把拖延与焦虑、自我怀疑和严苛的自我批评联系在一起；学生怕文章暴露自己的不足，于是干脆不打开文档。",
+              "evidencePara": "B",
+              "evidenceText": "associated with anxiety, self-doubt and a harsh inner critic"
+            },
+            {
+              "number": 53,
+              "type": "推断题",
+              "stem": "How does the pattern of procrastination reinforce itself?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Delay leads to worse results, which confirm the original fear."
+                },
+                {
+                  "key": "B",
+                  "text": "People forget the deadline and relax."
+                },
+                {
+                  "key": "C",
+                  "text": "Teachers give easier tasks over time."
+                },
+                {
+                  "key": "D",
+                  "text": "Stress improves performance in the long run."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段末：拖延导致结果更差，更差的结果又印证了引发拖延的恐惧，于是下一个任务看上去更可怕。",
+              "evidencePara": "C",
+              "evidenceText": "the poorer result confirms the fear that produced the delay"
+            },
+            {
+              "number": 54,
+              "type": "细节题",
+              "stem": "Which approach has shown better results?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Making a more detailed timetable."
+                },
+                {
+                  "key": "B",
+                  "text": "Noticing the bad feeling and starting anyway."
+                },
+                {
+                  "key": "C",
+                  "text": "Waiting until the mood improves."
+                },
+                {
+                  "key": "D",
+                  "text": "Punishing oneself for every delay."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：教人觉察不适、给它命名、然后照样开始，效果优于只做计划；哪怕先只工作几分钟也有效，因为最难的是开始。",
+              "evidencePara": "D",
+              "evidenceText": "notice the unpleasant feeling, name it and begin anyway"
+            },
+            {
+              "number": 55,
+              "type": "推断题",
+              "stem": "When is delay not a personal failing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "When the task is badly designed or pointless."
+                },
+                {
+                  "key": "B",
+                  "text": "When the person is unusually lazy."
+                },
+                {
+                  "key": "C",
+                  "text": "When there is no deadline."
+                },
+                {
+                  "key": "D",
+                  "text": "When the work is too easy."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：面对没有明确目的、没有反馈、永远做不完的工作，拖延是对系统问题的合理反应，不是性格缺陷。",
+              "evidencePara": "E",
+              "evidenceText": "a signal that something in the system is wrong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国空间站于2022年全面建成，由三个舱段组成，可以容纳三名航天员长期驻留。空间站开展的科学实验涉及生命科学、材料研究和天文观测等领域。为保证航天员的安全，地面团队需要全天候监测设备运行，并定期运送补给。中国表示，空间站向所有联合国会员国开放，外国科学家可以申请参与实验。未来，这里还将承担更多国际合作项目。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChina's space station was completed in 2022. It consists of three modules and can accommodate three astronauts for long stays. The scientific experiments carried out there cover fields such as life sciences, materials research and astronomical observation. To ensure the crew's safety, ground teams monitor equipment around the clock and deliver supplies at regular intervals. China has said that the station is open to all United Nations member states, and that foreign scientists may apply to take part in experiments. In the future, it will host more international cooperation projects, and it is expected to remain in orbit for at least a decade. The station also serves as a laboratory for testing technologies that will be needed for longer journeys, including future missions to the moon.\n\n【要点】①「全面建成」用 was completed，不必译出「全面」；②「舱段」译为 modules；③「长期驻留」用 for long stays / long-duration missions；④「全天候监测」可用 monitor around the clock；⑤「联合国会员国」为 UN member states；⑥中文多短句，英译时可合并，并用 it 指代空间站避免重复。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

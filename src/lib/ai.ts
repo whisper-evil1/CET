@@ -179,7 +179,7 @@ export async function streamFromProvider(
       } catch (error) {
         controller.enqueue(
           encoder.encode(
-            `\n\n> 连接中断：${error instanceof Error ? error.message : "未知错误"}，已切换到演示模式。`,
+            `\n\n> 连接中断：${error instanceof Error ? error.message : "未知错误"}，已切换为内置讲解。`,
           ),
         );
       } finally {
@@ -194,23 +194,62 @@ export async function streamFromProvider(
 function mockAnswer(messages: ChatMessage[]): string {
   const lastUser = [...messages].reverse().find((m) => m.role === "user")?.content ?? "";
   const ask = lastUser.slice(0, 40);
+  const wantsProductive = /批改|评分|打分|作文|写作|翻译|译文|范文/.test(lastUser);
 
-  return `**当前是演示模式**：还没有配置 AI Key，所以下面是内置的示例讲解；在 \`.env\` 里填上 \`AI_API_KEY\` 之后，这里会换成 ${"DeepSeek"} 的真实回答。
+  const head = `> 这次没能连上云端模型，下面是内置的通用讲解（换个网络再点一次通常就好了）。
 
-你问的是「${ask}${lastUser.length > 40 ? "…" : ""}」，按这个思路走：
+你问的是「${ask}${lastUser.length > 40 ? "…" : ""}」。
+`;
 
-1. **先回到题干定位关键词**：把题干里的人名、时间、专有名词当路标，回到原文扫一遍，找到同一段。
+  if (wantsProductive) {
+    return `${head}
+**写作 / 翻译这类题的采分点**
+
+1. **主干先立稳**：每个句子先确定主语和谓语，再把定语、状语挂上去。中文习惯把修饰堆在前面，直译过去最容易缺谓语。
+2. **时态统一**：一段话里不要今天用过去时、明天用现在时。中文没有时态标记，这一步最容易丢分。
+3. **数字、年代、专有名词必须落地**：题目里出现的数据、人名、地名一个都不能漏，这是硬采分点。
+4. **标点换半角**：中文的，。；：出现在英文里会被直接判错。
+5. **别用大词**：写不准的长难句不如写对的两三个短句，准确性优先于花哨。
+
+想要逐句批改，回到写作/翻译页面点「AI 批改」，那里会按 15 分制给分并指出具体句子。`;
+  }
+
+  return `${head}
+**阅读题按这个顺序走**
+
+1. **先看题干定位关键词**：把题干里的人名、时间、专有名词当路标，回原文扫一遍，找到同一段。
 2. **再看原文那句的主干**：四六级阅读的错误选项，多数是把原文某句话的主语、范围或程度偷偷换掉。
 3. **逐项排除**：把四个选项和原文原句摆在一起对照，只要有一处跟原文不符，就可以直接划掉。
 
-> 提示：点开题目下方的「答案与解析」，每条错项都写了具体错在哪个词，可以对照着看。
-
-配置好 Key 后，我就能结合这篇文章和这道题，逐句给你讲清楚。`;
+> 提示：提交答案后，题目下方会出现「答案与解析」，每条错项都写了具体错在哪个词。`;
 }
 
 export function streamMock(messages: ChatMessage[]): ReadableStream<Uint8Array> {
-  const text = mockAnswer(messages);
+  return streamStaticText(mockAnswer(messages));
+}
+
+/**
+ * 把一段固定文本按打字机节奏流式吐出。
+ *
+ * instant: 本地已经算好的内容（规则批改、数据归纳）用这个模式——整段一次吐出。
+ * 这些内容是同步算出来的，再按 15-35ms/片滴出去，几百字就要白等七八秒，
+ * 属于人为制造的延迟。只有真的要模拟"模型在生成"时才用默认节奏。
+ */
+export function streamStaticText(
+  text: string,
+  options: { instant?: boolean } = {},
+): ReadableStream<Uint8Array> {
   const encoder = new TextEncoder();
+
+  if (options.instant) {
+    return new ReadableStream<Uint8Array>({
+      start(controller) {
+        controller.enqueue(encoder.encode(text));
+        controller.close();
+      },
+    });
+  }
+
   let index = 0;
 
   return new ReadableStream<Uint8Array>({

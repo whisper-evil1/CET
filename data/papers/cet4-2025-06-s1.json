@@ -1,0 +1,933 @@
+{
+  "id": "cet4-2025-06-s1",
+  "level": "CET4",
+  "year": 2025,
+  "month": 6,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on why college students should learn basic personal finance before they graduate. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nWhy College Students Should Learn Basic Personal Finance\n\nA student can leave university able to explain the water cycle but unable to read a payslip. That gap is expensive. Within a year of graduating, most people sign a lease, choose a pension and decide whether to borrow money for a car — choices that will shape their finances for decades.\n\nThree habits matter most. First, know what money actually costs: a credit card charging 20 per cent a year turns a small purchase into a long project. Second, pay yourself first. Moving a fixed sum into savings on the day the salary arrives works better than saving whatever is left, because nothing is ever left. Third, keep one month of living costs in cash before investing in anything.\n\nNone of this requires a finance degree. One afternoon with a spreadsheet, a bank statement and a friend who understands interest is enough to begin. Universities teach students how to earn a living; they should also teach them how not to lose it.\n\n（约 170 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+            "order": 1,
+            "title": "Section A 选词填空",
+            "paragraphs": [
+              {
+                "label": "A",
+                "text": "At half past seven on a Tuesday morning, a four-year-old is dropped at a neighbour's flat with a bag containing a spare pair of socks and a banana. Her mother is not paying a nanny. She 26______ a shift in a childcare cooperative, a small group of families who look after one another's children in turn. The arrangement runs on a simple 27______. Every family earns a point for each hour it spends with other people's children and spends a point for each hour it uses. A shared spreadsheet records the balance, and a member who falls too far into 28______ is asked to take extra turns. No money changes hands, which is the whole 29______: a full-time nursery place in a large city can cost more than the rent."
+              },
+              {
+                "label": "B",
+                "text": "In practice the schedule is the hard part. Most members work shifts that change from month to month, so the rota has to be rebuilt 30______, and one child's illness can 31______ a week of carefully balanced plans. Families with a baby and families with a ten-year-old want different things from the same afternoon, and a 32______ who is shy of strangers will not be comforted by a neighbour's kitchen."
+              },
+              {
+                "label": "C",
+                "text": "Insurance is the question every new group meets first. Most household policies do not 33______ a neighbour's child, so the cooperative either buys a group policy or asks each member to sign a form accepting 34______. Some groups also insist that at least one adult on duty holds a first-aid 35______, and a few go further, paying a qualified worker for the core hours and using volunteers only to fill the gaps."
+              }
+            ],
+            "questions": [
+              {
+                "number": 26,
+                "stem": "Choose the word for blank 26.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "protects"
+                  },
+                  {
+                    "key": "B",
+                    "text": "works"
+                  },
+                  {
+                    "key": "C",
+                    "text": "wastes"
+                  },
+                  {
+                    "key": "D",
+                    "text": "misses"
+                  }
+                ],
+                "answer": "B",
+                "analysis": "work a shift 意为「值一个班、上一个班」，与前半句「不是花钱请保姆」形成对照：这位母亲用轮班换取照看。wastes（浪费）与 miss（错过）都会破坏「以工换工」的逻辑；protects（保护）不能与 a shift 搭配表示上班。",
+                "type": "选词填空",
+                "evidencePara": "A",
+                "evidenceText": "She works a shift in a childcare cooperative"
+              },
+              {
+                "number": 27,
+                "stem": "Choose the word for blank 27.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "contract"
+                  },
+                  {
+                    "key": "B",
+                    "text": "principle"
+                  },
+                  {
+                    "key": "C",
+                    "text": "budget"
+                  },
+                  {
+                    "key": "D",
+                    "text": "deposit"
+                  }
+                ],
+                "answer": "B",
+                "analysis": "run on a principle 意为「按某种原则运转」，紧接着的两句「每小时记一分、用一小时扣一分」正是这条原则的具体内容。contract（合同）需要双方签署并写明条款，与这里口头的计分规则不符；budget（预算）与 deposit（押金）都涉及钱，而本段末尾明确说「不经手金钱」。",
+                "type": "选词填空",
+                "evidencePara": "A",
+                "evidenceText": "The arrangement runs on a simple principle"
+              },
+              {
+                "number": 28,
+                "stem": "Choose the word for blank 28.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "budget"
+                  },
+                  {
+                    "key": "B",
+                    "text": "contract"
+                  },
+                  {
+                    "key": "C",
+                    "text": "debt"
+                  },
+                  {
+                    "key": "D",
+                    "text": "deposit"
+                  }
+                ],
+                "answer": "C",
+                "analysis": "fall into debt 是固定搭配「欠债」。这里借用记账的说法：用掉的时长超过自己付出的时长，账面上就成了负数，成员要多值几班补回来。budget（预算）讲的是收支计划，deposit（押金）是预先交的钱，contract（合同）是文书，都不能表示「积分亏欠」。",
+                "type": "选词填空",
+                "evidencePara": "A",
+                "evidenceText": "a member who falls too far into debt is asked to take extra turns"
+              },
+              {
+                "number": 29,
+                "stem": "Choose the word for blank 29.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "deposit"
+                  },
+                  {
+                    "key": "B",
+                    "text": "budget"
+                  },
+                  {
+                    "key": "C",
+                    "text": "contract"
+                  },
+                  {
+                    "key": "D",
+                    "text": "point"
+                  }
+                ],
+                "answer": "D",
+                "analysis": "the whole point 意为「全部意义所在」，冒号后正是解释：大城市全日制托儿所的费用可能比房租还高，省钱就是这件事的意义。deposit（押金）、budget（预算）只涉及钱的一个侧面，contract（合同）指文书，都不能与 the whole ... 搭配表示「关键所在」。",
+                "type": "选词填空",
+                "evidencePara": "A",
+                "evidenceText": "No money changes hands, which is the whole point"
+              },
+              {
+                "number": 30,
+                "stem": "Choose the word for blank 30.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "gradually"
+                  },
+                  {
+                    "key": "B",
+                    "text": "constantly"
+                  },
+                  {
+                    "key": "C",
+                    "text": "rarely"
+                  },
+                  {
+                    "key": "D",
+                    "text": "suddenly"
+                  }
+                ],
+                "answer": "B",
+                "analysis": "空处修饰 has to be rebuilt，说明排班要「不断」重做，原因就在前半句：多数成员的班次每个月都在变。rarely（很少）与「必须反复重建」直接矛盾；gradually（逐渐）说的是过程快慢，suddenly（突然）只描述单次变化，都不能体现频率之高。",
+                "type": "选词填空",
+                "evidencePara": "B",
+                "evidenceText": "the rota has to be rebuilt constantly"
+              },
+              {
+                "number": 31,
+                "stem": "Choose the word for blank 31.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "wastes"
+                  },
+                  {
+                    "key": "B",
+                    "text": "protects"
+                  },
+                  {
+                    "key": "C",
+                    "text": "wreck"
+                  },
+                  {
+                    "key": "D",
+                    "text": "delays"
+                  }
+                ],
+                "answer": "C",
+                "analysis": "wreck 意为「毁掉、搞砸」，一个孩子生病就足以让一周精心排好的计划全部作废，说明互助排班之脆弱。delays 只表示时间往后推，程度远轻于「计划被打乱」；wastes（浪费）不能以 a week of plans 为宾语表示全盘崩溃，protects 语义相反。",
+                "type": "选词填空",
+                "evidencePara": "B",
+                "evidenceText": "one child's illness can wreck a week of carefully balanced plans"
+              },
+              {
+                "number": 32,
+                "stem": "Choose the word for blank 32.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "contract"
+                  },
+                  {
+                    "key": "B",
+                    "text": "toddler"
+                  },
+                  {
+                    "key": "C",
+                    "text": "budget"
+                  },
+                  {
+                    "key": "D",
+                    "text": "deposit"
+                  }
+                ],
+                "answer": "B",
+                "analysis": "a ______ who is shy of strangers 需要一个指人的名词，且与前半句 families with a baby 呼应：刚学会走路的孩子最怕生，换到邻居厨房也不会安静下来。contract、budget、deposit 都是抽象名词，不能作 who 引导的定语从句的先行词来指幼儿。",
+                "type": "选词填空",
+                "evidencePara": "B",
+                "evidenceText": "a toddler who is shy of strangers"
+              },
+              {
+                "number": 33,
+                "stem": "Choose the word for blank 33.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "cover"
+                  },
+                  {
+                    "key": "B",
+                    "text": "protects"
+                  },
+                  {
+                    "key": "C",
+                    "text": "wastes"
+                  },
+                  {
+                    "key": "D",
+                    "text": "damages"
+                  }
+                ],
+                "answer": "A",
+                "analysis": "cover 在保险语境中意为「承保、把……纳入保障范围」，家庭财产险通常不把邻居家的孩子算在承保对象内，所以合作社才要另买集体保单。protect 泛指向「保护」，不涉及保单的责任范围；damages（损害赔偿）是赔付结果而非承保动作，wastes 与保险无关。",
+                "type": "选词填空",
+                "evidencePara": "C",
+                "evidenceText": "Most household policies do not cover a neighbour's child"
+              },
+              {
+                "number": 34,
+                "stem": "Choose the word for blank 34.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "budget"
+                  },
+                  {
+                    "key": "B",
+                    "text": "contract"
+                  },
+                  {
+                    "key": "C",
+                    "text": "deposit"
+                  },
+                  {
+                    "key": "D",
+                    "text": "responsibility"
+                  }
+                ],
+                "answer": "D",
+                "analysis": "accept responsibility 意为「承担责任」。sign a form accepting responsibility 即成员签字自担风险，与前半句「要么买集体保单」构成两条并列的解决路径。contract、deposit、budget 都不能与 accepting 搭配表示「承担照看孩子的责任」。",
+                "type": "选词填空",
+                "evidencePara": "C",
+                "evidenceText": "asks each member to sign a form accepting responsibility"
+              },
+              {
+                "number": 35,
+                "stem": "Choose the word for blank 35.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "contract"
+                  },
+                  {
+                    "key": "B",
+                    "text": "certificate"
+                  },
+                  {
+                    "key": "C",
+                    "text": "budget"
+                  },
+                  {
+                    "key": "D",
+                    "text": "deposit"
+                  }
+                ],
+                "answer": "B",
+                "analysis": "first-aid certificate 意为「急救证书」，说明值班的成人里至少要有一人持证，这是合作社对资质的最低门槛，也与后半句「雇专业保育员」形成程度递进。contract（合同）、budget（预算）、deposit（押金）都不能与 first-aid 搭配指资质证明。",
+                "type": "选词填空",
+                "evidencePara": "C",
+                "evidenceText": "at least one adult on duty holds a first-aid certificate"
+              }
+            ]
+          },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Calendar data from large employers tells a consistent story. The average office worker now spends around twenty hours a week in meetings, roughly double the figure recorded before 2020, and the increase has not come from longer meetings so much as from more of them. A day of half-hour calls, each with a different group, leaves the calendar technically full and the mind entirely empty; the work those calls were meant to support has to be done after six."
+            },
+            {
+              "label": "B",
+              "text": "Ask people why they attended and the answers are revealing. In surveys of knowledge workers, a third to a half of meetings are rated unnecessary, and the most common reason given is that there was no agenda, no decision to take and no one who owned the outcome. Meetings multiply because calling one is nearly free: the organiser spends a minute on the invitation, while the cost is paid by everyone who accepts it."
+            },
+            {
+              "label": "C",
+              "text": "Written communication is the obvious alternative for anything that does not require discussion. A shared document, a short recorded update or a thread with a deadline lets people read when they can concentrate and reply with a considered answer rather than a guess. It also survives distance, since nobody has to be awake at the same moment. The discipline it demands is real: writing clearly takes longer than speaking, and it needs quiet time that many calendars do not contain."
+            },
+            {
+              "label": "D",
+              "text": "Distributed teams meet the problem in its sharpest form. A call at nine in the morning for the London office falls at ten at night for colleagues in Singapore, and the team that always gives up the evening is rarely the one that chose the time. Some companies rotate the inconvenience; the better ones decide that anything carrying only information will be written, and reserve live calls for genuine disagreement."
+            },
+            {
+              "label": "E",
+              "text": "Several experiments have tested how much can be removed. A software company cancelled all internal meetings on Wednesdays for a month and found that meeting hours fell by a third while the number of completed tasks rose slightly. A larger manufacturer tried a meeting-free morning and reported similar gains, though two teams admitted that a weekly coordination call had been quietly reinstated because decisions were being duplicated."
+            },
+            {
+              "label": "F",
+              "text": "None of this argues that meetings are waste. A difficult decision, a new colleague, a conflict between two departments: these are handled faster face to face than in a document. What the evidence supports is a deliberate choice of format. An hour with ten people is not one hour but ten, and the question worth asking is whether the thing being bought is worth a working day."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Office staff now spend roughly twice as many hours in meetings as they did before 2020.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段第二句：现在每周约二十小时在开会，约为 2020 年前的两倍，且增量主要来自会议场次变多而非单场变长。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "around twenty hours a week in meetings, roughly double the figure recorded before 2020"
+            },
+            {
+              "number": 37,
+              "stem": "Cancelling meetings on one day of the week cut meeting time by about a third without reducing output.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段第二句：某软件公司一个月内取消周三全部内部会议，会议时长下降三分之一，完成任务数量反而略有上升。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "meeting hours fell by a third while the number of completed tasks rose slightly"
+            },
+            {
+              "number": 38,
+              "stem": "Written updates allow people in different time zones to contribute without being present at the same moment.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段第二、三句：共享文档、录好的更新让人能专心时再读、想清楚再答；并且「不受距离限制」，不必同时醒着。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "It also survives distance, since nobody has to be awake at the same moment"
+            },
+            {
+              "number": 39,
+              "stem": "The most frequently cited reason for a meeting being unnecessary is the absence of an agenda or a decision.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段第二句：三分之一到一半的会议被评为没必要，最常见的原因是「没有议程、没有要做的决定、也没有人对结果负责」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "there was no agenda, no decision to take and no one who owned the outcome"
+            },
+            {
+              "number": 40,
+              "stem": "The team that always sacrifices its evening is seldom the team that fixed the hour of the call.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段第二句：伦敦早上九点对应新加坡晚上十点，而「总是牺牲夜晚的那支团队，往往不是定时间的那一支」——时区成本分配不均。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "the team that always gives up the evening is rarely the one that chose the time"
+            },
+            {
+              "number": 41,
+              "stem": "An hour spent with ten colleagues should be counted as ten hours of work.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段末两句：十个人开一小时会不是一个小时而是十个小时，要问的是「买回来的东西值不值一个工作日」。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "An hour with ten people is not one hour but ten"
+            },
+            {
+              "number": 42,
+              "stem": "Back-to-back calls fill the calendar and push real work into the evening.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末句：一天排满半小时的会，日历上「填满了」，脑子却「空着」，这些会本该支撑的工作只能挪到六点以后做。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the work those calls were meant to support has to be done after six"
+            },
+            {
+              "number": 43,
+              "stem": "In one experiment, a weekly call had to be brought back because decisions were being made twice.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末句：某制造企业试行无会议上午，效果相近，但有两个团队承认「悄悄恢复了每周协调会」，因为决策被重复做了。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "a weekly coordination call had been quietly reinstated because decisions were being duplicated"
+            },
+            {
+              "number": 44,
+              "stem": "Writing things down costs more time and attention than talking them through.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末句：书面沟通的自律是真的——「写清楚比说出口更花时间」，而且需要日历里往往没有的安静时段。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "writing clearly takes longer than speaking, and it needs quiet time"
+            },
+            {
+              "number": 45,
+              "stem": "Calling a meeting costs the organiser almost nothing, while everyone invited pays for it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末句：发起会议几乎零成本——组织者只在邀请上花一分钟，成本由所有接受邀请的人分摊，这正是会议泛滥的机制。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "the organiser spends a minute on the invitation, while the cost is paid by everyone who accepts it"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2014 the American Academy of Pediatrics recommended that middle and high schools should start no earlier than 8.30 a.m. The advice rested on a biological fact: at puberty the body clock shifts later by up to two hours, so a teenager told to go to bed at ten may lie awake until midnight however hard she tries."
+            },
+            {
+              "label": "B",
+              "text": "Seattle became a natural test. In 2016 the city moved its high school start time from 7.50 to 8.45 a.m. Researchers at the University of Washington compared students before and after the change, using wrist monitors rather than self-reports. The median sleep gain was 34 minutes a night, and grades in one subject rose by 4.5 per cent."
+            },
+            {
+              "label": "C",
+              "text": "The benefits were not evenly shared. Students from poorer households gained the least sleep, because many of them worked evening shifts or looked after younger brothers and sisters. Attendance improved most in schools serving wealthier families. The authors concluded that a later bell helps everyone a little, but cannot on its own close gaps that begin outside the school gate."
+            },
+            {
+              "label": "D",
+              "text": "Opponents raise practical objections. Later starts collide with bus schedules shared by primary and secondary schools, with after-school sports, and with parents who must leave for work at seven. Districts that made the change often had to redraw transport contracts, an expense that falls in the first year while the benefits arrive over many years."
+            },
+            {
+              "label": "E",
+              "text": "The lesson is not that every school should copy Seattle. It is that the timing of the school day is a health decision disguised as an administrative one. Sleep is not a subject that can be taught in a lesson; it is a condition that schools either support or undermine by the hour at which they open."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What did the 2014 recommendation rest on?",
+              "options": [
+                { "key": "A", "text": "A change in the teenage body clock." },
+                { "key": "B", "text": "A survey of parents in Seattle." },
+                { "key": "C", "text": "A fall in attendance at high schools." },
+                { "key": "D", "text": "A comparison of bus timetables." }
+              ],
+              "answer": "A",
+              "analysis": "A 段：建议基于一个生物学事实——青春期生物钟后移最多两小时，所以让孩子十点上床也可能到午夜才睡着。B 项把后文的西雅图研究混进来，C、D 与首段无关。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "at puberty the body clock shifts later"
+            },
+            {
+              "number": 47,
+              "stem": "How did the Washington researchers measure students' sleep?",
+              "options": [
+                { "key": "A", "text": "By asking students to keep diaries." },
+                { "key": "B", "text": "By using devices worn on the wrist." },
+                { "key": "C", "text": "By interviewing their teachers." },
+                { "key": "D", "text": "By checking their exam papers." }
+              ],
+              "answer": "B",
+              "analysis": "B 段第三句：using wrist monitors rather than self-reports——用腕部监测设备而非学生自述，正是为了排除 A 项那种主观记录。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "using wrist monitors rather than self-reports"
+            },
+            {
+              "number": 48,
+              "stem": "What did the study find about students from poorer households?",
+              "options": [
+                { "key": "A", "text": "They slept less than before the change." },
+                { "key": "B", "text": "They gained the least additional sleep." },
+                { "key": "C", "text": "They attended school more regularly." },
+                { "key": "D", "text": "They benefited more than richer students." }
+              ],
+              "answer": "B",
+              "analysis": "C 段：贫困家庭的学生 gained the least sleep，因为要打晚班或照顾弟妹；出勤改善最明显的反而是富裕家庭学校，故 C、D 与原文相反。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "gained the least sleep"
+            },
+            {
+              "number": 49,
+              "stem": "Why do some districts hesitate to delay the school bell?",
+              "options": [
+                { "key": "A", "text": "Later starts would reduce teaching hours." },
+                { "key": "B", "text": "Parents oppose any change to the timetable." },
+                { "key": "C", "text": "It conflicts with transport, sport and parents' work." },
+                { "key": "D", "text": "Research on the subject is still incomplete." }
+              ],
+              "answer": "C",
+              "analysis": "D 段列举三项冲突：与中小学共用的校车时刻表、课后体育、以及七点就要出门上班的家长；同时还要重签运输合同、首年支出集中。A、B 属于过度推断。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "collide with bus schedules"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's main point in the last paragraph?",
+              "options": [
+                { "key": "A", "text": "Every school should copy Seattle's timetable." },
+                { "key": "B", "text": "Sleep should be taught as a school subject." },
+                { "key": "C", "text": "Start times are really a matter of student health." },
+                { "key": "D", "text": "Administrators should decide start times alone." }
+              ],
+              "answer": "C",
+              "analysis": "E 段：上课时间是一个 disguised as an administrative one 的健康决定——学校几点开门，本身就在支持或损害学生的睡眠。A 被首句明确否定，B 被「睡眠不是一门课」否定。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "a health decision disguised as an administrative one"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2013 the Rijksmuseum in Amsterdam put 700,000 images of its collection online, free for anyone to use, including for commercial purposes. Critics predicted that the museum would lose income from image licensing. Instead, visitor numbers rose, and the museum reported that its image sales increased, because the people who used the pictures most were also the people most likely to buy prints and books."
+            },
+            {
+              "label": "B",
+              "text": "Digitisation is often sold as preservation: a photograph of a fragile manuscript protects it from handling. That is true but incomplete. The larger effect is on research. A scholar in Nairobi can now compare watermarks across a dozen European collections without leaving her desk, a task that once required three grants and a year of travel."
+            },
+            {
+              "label": "C",
+              "text": "The costs are less visible than the benefits. A high-quality photograph of a large painting takes hours of specialist work, and every file needs a permanent home, a format that will still open in twenty years and a licence record. Institutions that budget for the camera often forget the server, and the bill for storage never stops."
+            },
+            {
+              "label": "D",
+              "text": "There is also a question of what gets chosen. Collections that are already famous attract money for digitisation, while provincial museums with unusual holdings wait. One survey of European institutions found that fewer than a fifth had a written plan for what to digitise first, and most of those plans followed what was easy to photograph rather than what was valuable."
+            },
+            {
+              "label": "E",
+              "text": "None of this argues against putting collections online. It argues for treating digitisation as a long project with running costs, not a one-off gift. The museums that have done it well share a habit: they publish their failures as well as their catalogues, so that the next institution does not pay twice for the same mistake."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What happened after the Rijksmuseum made its images free to use?",
+              "options": [
+                { "key": "A", "text": "Its income from licensing collapsed." },
+                { "key": "B", "text": "Both visitors and image sales went up." },
+                { "key": "C", "text": "Fewer people visited the building." },
+                { "key": "D", "text": "Other museums stopped lending it works." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：批评者预言图片授权收入会下降，结果 visitors rose，image sales increased——到馆人数与图片销售同时上升，A、C 与原文相反。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "visitor numbers rose, and the museum reported that its image sales increased"
+            },
+            {
+              "number": 52,
+              "stem": "What does the author consider the greater effect of digitisation?",
+              "options": [
+                { "key": "A", "text": "It protects fragile objects from handling." },
+                { "key": "B", "text": "It makes museum tickets cheaper." },
+                { "key": "C", "text": "It changes how research can be done." },
+                { "key": "D", "text": "It attracts more tourists to cities." }
+              ],
+              "answer": "C",
+              "analysis": "B 段：保护原件「true but incomplete」，更大的影响在 research——内罗毕的学者不出门就能比对十几家欧洲馆纸张上的水印。A 是作者承认但认为不完整的旧说法。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "The larger effect is on research"
+            },
+            {
+              "number": 53,
+              "stem": "Which cost does the author say institutions tend to overlook?",
+              "options": [
+                { "key": "A", "text": "The salary of the photographer." },
+                { "key": "B", "text": "The long-term storage of files." },
+                { "key": "C", "text": "The printing of catalogues." },
+                { "key": "D", "text": "The training of museum guards." }
+              ],
+              "answer": "B",
+              "analysis": "C 段末：机构为相机做预算，却常常忘记服务器——bill for storage never stops，即长期存储的持续支出；摄影人工成本文中反而在预算之内。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "budget for the camera often forget the server"
+            },
+            {
+              "number": 54,
+              "stem": "What did the survey of European institutions reveal?",
+              "options": [
+                { "key": "A", "text": "Most had no written priorities for digitisation." },
+                { "key": "B", "text": "Most had finished digitising their collections." },
+                { "key": "C", "text": "All of them refused to share their images." },
+                { "key": "D", "text": "Provincial museums received the most funding." }
+              ],
+              "answer": "A",
+              "analysis": "D 段：fewer than a fifth had a written plan for what to digitise first——不到五分之一有书面规划，即大多数没有明确优先级；且计划多按「好拍」而非「有价值」来定。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "fewer than a fifth had a written plan"
+            },
+            {
+              "number": 55,
+              "stem": "What do museums that handled digitisation well have in common?",
+              "options": [
+                { "key": "A", "text": "They keep their methods secret." },
+                { "key": "B", "text": "They digitise only famous works." },
+                { "key": "C", "text": "They publish what went wrong as well as what worked." },
+                { "key": "D", "text": "They charge for every image they release." }
+              ],
+              "answer": "C",
+              "analysis": "E 段末：它们既公布藏品目录，也公布失败经验，好让下一家机构不必为同一个错误付两次钱。A 与「公布」相反，B 与 D 段批评的「只做名作」同调，属错误做法。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "publish their failures as well as their catalogues"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n二十四节气是中国古人根据太阳位置的变化总结出的时间体系，用来指导农业生产和日常生活。它把一年分为二十四个阶段，每个阶段约十五天，各有名称和习俗。立春标志着春季的开始，冬至则是一年中白昼最短的一天。2016年，二十四节气被联合国教科文组织列入人类非物质文化遗产名录。今天，许多中国人仍会按照节气调整饮食和作息。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe twenty-four solar terms are a system of time that the ancient Chinese worked out from changes in the position of the sun, and the system was used to guide agricultural production and everyday life. It divides a whole year into twenty-four stages of about fifteen days each, and every stage has its own name and its own customs. The Start of Spring marks the beginning of the spring season, while the Winter Solstice is the day with the shortest daylight in the whole year. In 2016 the twenty-four solar terms were placed by UNESCO on its list of the intangible cultural heritage of humanity. Today, many Chinese people still arrange their meals, their rest and their daily routine according to the solar terms, and the old calendar continues to shape the way the seasons are described in ordinary conversation.\n\n【要点】①「古人根据……总结出」可用 the ancient Chinese worked out from…；②「被列入名录」用被动语态 were added to / were inscribed on the list；③「标志着」用 marks；④「调整饮食和作息」用 adjust one's diet and daily routine；⑤专有名词 Start of Spring、Winter Solstice、UNESCO 首字母大写，节气名称意译即可。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

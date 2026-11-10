@@ -1,0 +1,1101 @@
+{
+  "id": "cet6-2024-06-s1",
+  "level": "CET6",
+  "year": 2024,
+  "month": 6,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on the boundary between expert opinion and public judgement. You should state where expertise should be deferred to and where it should not. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nExpertise and the Limits of Deference\n\nEvery crisis produces a slogan about trusting the science, and every backlash produces one about arrogant experts. Both are too simple. The useful question is not whether experts should be believed, but which claims require which kind of judgement.\n\nOn matters of measurement - the half-life of a pollutant, the load a bridge will bear - there is no meaningful public opinion, only better and worse evidence. On matters of value - how much risk a community will accept, whose convenience yields to whose safety - expertise has no standing at all, because the question is not what is true but what is fair. Confusing the two makes experts sound imperious and citizens sound ignorant.\n\nThe boundary is therefore procedural. Experts should declare what they do not know and who paid for the study; the public should say what it will not accept, and say it before the report is written rather than after. Where the two meet - vaccine schedules, school closures, the siting of a waste store - the decision belongs to politics, informed by science but never delegated to it.\n\n（约 189 词）\n\n【思路】①开头否定「相信科学」与「专家傲慢」两种口号，提出真问题：哪类主张需要哪类判断；②以「测量问题」对「价值问题」划界，说明专家在事实上有权威、在价值上没有；③落到程序：专家须声明未知与经费来源，公众须事先说明不可接受的风险，冲突处交由政治裁决。句式上用 not whether ... but which ... 与 The boundary is therefore procedural rather than intellectual 控制节奏，避免堆砌长句。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Sociolinguists have long known that listeners infer a great deal from a voice within seconds. In a well-known experiment, British undergraduates rated the same argument as more 26______ when it was read aloud in an accent associated with the professional classes than when it was read in a regional one. The result has been repeated in studies of teachers' expectations, hiring decisions and even courtroom testimony. What makes the finding 27______ is not that prejudice exists but that it operates so quietly: few of the listeners would have described themselves as biased, and the accent carried no information whatever about the speaker's 28______."
+            },
+            {
+              "label": "B",
+              "text": "The consequences are not 29______. Speakers of stigmatised varieties learn to 30______ between contexts, dropping a vowel in an interview and recovering it at home. Linguists call this code-switching and describe it as a skill; the people who do it more often describe it as fatigue. A survey of call-centre staff found that the effort of 31______ an accent across an eight-hour shift left them, by the evening, less able to 32______ complicated instructions in their own speech."
+            },
+            {
+              "label": "C",
+              "text": "None of this argues for pretending that accents do not matter. It argues for 33______ where the judgement comes from. When a regional accent is taken as evidence of 34______, the listener has confused a fact about geography with a claim about competence, and the confusion is expensive for everyone except those who profit from it. Scotland's experience is instructive: after decades in which broadcasters were urged to 35______ their accents, audience research found no loss of clarity and a measurable rise in the number of young people who considered public life open to them."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "hostile"
+                },
+                {
+                  "key": "B",
+                  "text": "convincing"
+                },
+                {
+                  "key": "C",
+                  "text": "sensible"
+                },
+                {
+                  "key": "D",
+                  "text": "pleasant"
+                }
+              ],
+              "answer": "B",
+              "analysis": "rate sth as more convincing 意为「认为某论点更有说服力」，rate ... as + 形容词是固定搭配；本句对比同一段话用不同口音朗读时的评价差异。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "rated the same argument as more"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "similar"
+                },
+                {
+                  "key": "B",
+                  "text": "obvious"
+                },
+                {
+                  "key": "C",
+                  "text": "striking"
+                },
+                {
+                  "key": "D",
+                  "text": "familiar"
+                }
+              ],
+              "answer": "C",
+              "analysis": "What makes the finding striking is not that ... but that ... 真正值得注意的是……；striking 与后半句 so quietly 形成反差，强调偏见运作之隐蔽。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "not that prejudice exists but that it operates so quietly"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "competence"
+                },
+                {
+                  "key": "B",
+                  "text": "confidence"
+                },
+                {
+                  "key": "C",
+                  "text": "hostility"
+                },
+                {
+                  "key": "D",
+                  "text": "honesty"
+                }
+              ],
+              "answer": "A",
+              "analysis": "the speaker's competence 指说话者的能力与胜任程度；与末段 a claim about competence 前后呼应，说明口音并不携带关于工作能力的信息。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "no information whatever about the speaker's"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "sensible"
+                },
+                {
+                  "key": "B",
+                  "text": "similar"
+                },
+                {
+                  "key": "C",
+                  "text": "visible"
+                },
+                {
+                  "key": "D",
+                  "text": "trivial"
+                }
+              ],
+              "answer": "D",
+              "analysis": "The consequences are not trivial 意为「后果绝非无关紧要」，not trivial 是英文中常用的强调方式；下文列举切换语码带来的疲惫，说明代价真实。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "describe it as fatigue"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adapt"
+                },
+                {
+                  "key": "B",
+                  "text": "switch"
+                },
+                {
+                  "key": "C",
+                  "text": "notice"
+                },
+                {
+                  "key": "D",
+                  "text": "evaluate"
+                }
+              ],
+              "answer": "B",
+              "analysis": "switch between contexts 在场合之间切换；下句 code-switching 直接给出提示，switch 与 between 搭配表示来回转换。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "Linguists call this code-switching"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "modifying"
+                },
+                {
+                  "key": "B",
+                  "text": "evaluating"
+                },
+                {
+                  "key": "C",
+                  "text": "noticing"
+                },
+                {
+                  "key": "D",
+                  "text": "describing"
+                }
+              ],
+              "answer": "A",
+              "analysis": "the effort of modifying an accent 修饰口音的劳神；介词 of 后接动名词，modify an accent 为常见搭配，与后文「八小时班后说不出完整句子」相扣。",
+              "type": "搭配题",
+              "evidencePara": "B",
+              "evidenceText": "across an eight-hour shift"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "notice"
+                },
+                {
+                  "key": "B",
+                  "text": "adapt"
+                },
+                {
+                  "key": "C",
+                  "text": "predict"
+                },
+                {
+                  "key": "D",
+                  "text": "process"
+                }
+              ],
+              "answer": "D",
+              "analysis": "process complicated instructions 处理、理解复杂指令；be able to do 结构中需用动词原形，process 强调对信息的加工而非单纯听见。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "less able to ... in their own speech"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "masking"
+                },
+                {
+                  "key": "B",
+                  "text": "adapting"
+                },
+                {
+                  "key": "C",
+                  "text": "examining"
+                },
+                {
+                  "key": "D",
+                  "text": "evaluating"
+                }
+              ],
+              "answer": "C",
+              "analysis": "argues for examining where the judgement comes from 主张追问判断的来源；argue for 后接动名词，examining 与 where 从句搭配自然。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "where the judgement comes from"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "hostility"
+                },
+                {
+                  "key": "B",
+                  "text": "carelessness"
+                },
+                {
+                  "key": "C",
+                  "text": "honesty"
+                },
+                {
+                  "key": "D",
+                  "text": "ambition"
+                }
+              ],
+              "answer": "B",
+              "analysis": "taken as evidence of carelessness 被当作「粗心」的证据；此处需要一个表缺点的名词，与后半句 a claim about competence 形成对照。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "confused a fact about geography with a claim about competence"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adapt"
+                },
+                {
+                  "key": "B",
+                  "text": "notice"
+                },
+                {
+                  "key": "C",
+                  "text": "copy"
+                },
+                {
+                  "key": "D",
+                  "text": "soften"
+                }
+              ],
+              "answer": "D",
+              "analysis": "urged to soften their accents 被劝导「软化」口音；soften an accent 是常见搭配，与末句 no loss of clarity 构成因果关系。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "no loss of clarity"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Peer review is often described as the guarantor of scientific quality. It is more accurately a set of local customs that hardened into a gatekeeping system in the middle of the twentieth century, when rising submission volumes forced editors to delegate judgement to outside readers. Nothing about the arrangement was designed; it accumulated. That history matters, because a practice that grew by accident can be changed by decision."
+            },
+            {
+              "label": "B",
+              "text": "The most quoted test came in 2014, when a conference on machine learning asked two independent programme committees to assess the same 1,700 submissions. Only about half of the papers accepted by one committee were accepted by the other. A comparable experiment in medicine produced a similar level of disagreement. Reviews, it turns out, measure the reviewer as much as the manuscript."
+            },
+            {
+              "label": "C",
+              "text": "Reviewer expertise is narrow and time is short. A referee with three hours and a familiarity with one method will judge a paper by that method. Studies of referee behaviour find that a manuscript's fate is better predicted by the identity of its author, the prestige of the institution and the prior beliefs of the reviewer than by any measured quality of the work - effects that reviewers deny and cannot see in themselves."
+            },
+            {
+              "label": "D",
+              "text": "The system is also slow and unpaid. A typical paper waits months for a first decision and longer for a second round; in some fields the median time from submission to publication exceeds a year. Reviewers donate the labour, which means that the gatekeeping of science rests on the goodwill of people whose own careers are measured by the papers they are not writing."
+            },
+            {
+              "label": "E",
+              "text": "Transparency has been tried. When a large journal made its review reports public and invited named referees, the sky did not fall: acceptance rates changed little, and the published reports turned out to be more careful and more civil than the anonymous ones in a comparison group. The gain was not better decisions so much as a public record of how decisions had been reached."
+            },
+            {
+              "label": "F",
+              "text": "The alternative model is to publish first and argue afterwards. Preprint servers now carry a large share of work in physics, mathematics and the life sciences, and the commentary on those papers is often faster and better informed than the reports they eventually receive. The risk is equally plain: a claim that circulates before it is checked can be quoted for years after it has been withdrawn."
+            },
+            {
+              "label": "G",
+              "text": "Two reforms are quietly gaining ground. Results-blind review asks referees to assess a study's design before they learn whether it worked. Automated screening, meanwhile, can check statistics and detect duplicated images at a scale no human reader could manage, though it cannot judge whether a question is worth asking. Neither replaces the reviewer; both narrow what the reviewer must be trusted to notice."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The arrangement came into being through circumstance rather than deliberate design.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：这套制度并非设计出来，而是在投稿量上升后「积累」成形，作者还特意指出「偶然长成的东西也能靠决定改变」。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "Nothing about the arrangement was designed; it accumulated."
+            },
+            {
+              "number": 37,
+              "stem": "Two panels judging identical submissions reached substantially different verdicts.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：2014 年机器学习会议让两个独立委员会评审同一批 1700 篇投稿，一边接受的论文只有约一半被另一边接受。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "Only about half of the papers accepted by one committee were accepted by the other."
+            },
+            {
+              "number": 38,
+              "stem": "A paper's prospects depend more on who wrote it than on how good it is.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：作者身份、机构声望与审稿人先前信念对结果的预测力，强于对论文质量的任何测量。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "better predicted by the identity of its author ... than by any measured quality of the work"
+            },
+            {
+              "number": 39,
+              "stem": "Referees work without payment, so the system depends on their goodwill.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：审稿是无偿劳动，整个科学的把关因此依赖审稿人的善意。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "Reviewers donate the labour"
+            },
+            {
+              "number": 40,
+              "stem": "Publishing the reports improved reviewers' conduct more than their verdicts.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：公开评审报告后录用率变化不大，改变的是报告本身更审慎、更客气，收获在于过程留痕而非决定质量。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "The gain was not better decisions so much as a public record"
+            },
+            {
+              "number": 41,
+              "stem": "Commentary can now precede formal assessment and travel faster than it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：预印本平台上的评论往往比论文最终收到的审稿意见更快、更专业。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "the commentary on those papers is often faster and better informed"
+            },
+            {
+              "number": 42,
+              "stem": "A retracted claim may go on being cited long after it is discredited.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：未经核查便传播的说法，在撤稿多年之后仍可能被引用。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "can be quoted for years after it has been withdrawn"
+            },
+            {
+              "number": 43,
+              "stem": "Referees may be asked to judge the method without knowing the outcome.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：结果盲审要求审稿人在知道结果之前先评价研究设计。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "assess a study's design before they learn whether it worked"
+            },
+            {
+              "number": 44,
+              "stem": "Machines can detect certain faults beyond human capacity but cannot judge significance.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：自动筛查能以人力无法企及的规模核查统计与图像，却无法判断问题本身是否值得研究。",
+              "type": "推断题",
+              "evidencePara": "G",
+              "evidenceText": "at a scale no human reader could manage, though it cannot judge whether a question is worth asking"
+            },
+            {
+              "number": 45,
+              "stem": "Its accidental origins are precisely what make reform conceivable.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末：作者强调这段历史重要，正因为「偶然长成的实践可以靠决定改变」，为后文改革主张埋伏笔。",
+              "type": "态度题",
+              "evidencePara": "A",
+              "evidenceText": "a practice that grew by accident can be changed by decision"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In the early 1970s a group of disabled students at the University of California, Berkeley, took sledgehammers to a kerb and poured their own concrete ramp. The curb cut that resulted was intended for wheelchairs. Within two decades it was everywhere, and the people using it most were not wheelchair users at all: couriers with trolleys, parents with pushchairs, travellers with suitcases."
+            },
+            {
+              "label": "B",
+              "text": "Ron Mace, an architect who used a wheelchair and a ventilator, gave the idea a name in the 1980s: universal design, meaning the design of products and places to be usable by as many people as possible without adaptation. His claim was not charitable but economic. A door that opens automatically costs a little more than one that does not; a building that must be retrofitted for access costs far more than one designed for it in the first place."
+            },
+            {
+              "label": "C",
+              "text": "The commercial evidence arrived in 1990 with a vegetable peeler. Sam Farber watched his wife, who had arthritis, struggle with a kitchen tool and asked a designer for a handle that a hand could grip without strength. The OXO peeler went on to sell in the tens of millions, most of them to people with no impairment whatever. The lesson was not that disability sells; it was that the constraints of the few describe needs the many share."
+            },
+            {
+              "label": "D",
+              "text": "Broadcasting supplies the clearest numbers. Captions were introduced for deaf viewers; surveys in Britain and the United States now find that the majority of people who switch them on are not deaf at all. They are watching in noisy rooms, in a second language, or with a sleeping child in the next room. Speech recognition, developed to transcribe lectures for deaf students, became the interface of every telephone."
+            },
+            {
+              "label": "E",
+              "text": "The critique is not that universal design fails but that it can be used as an alibi. A building with a ramp at the side entrance can be declared accessible while its main door remains closed to some visitors; a website that satisfies a technical standard can still be unusable to the person who needs it most. Advocates therefore insist on a distinction between designing for an average and designing with the excluded person in the room - a difference no checklist can enforce."
+            },
+            {
+              "label": "F",
+              "text": "Universal design is best understood, then, not as a favour granted to a minority but as an admission that the 'normal' user was always a statistical fiction - and an expensive one, since every object built for a body that does not exist has to be rebuilt later for the bodies that do."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the Berkeley curb cut demonstrate about designs made for disabled people?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are usually resisted by the general public."
+                },
+                {
+                  "key": "B",
+                  "text": "Their benefits reach well beyond the group they were meant for."
+                },
+                {
+                  "key": "C",
+                  "text": "They cost far more than conventional designs."
+                },
+                {
+                  "key": "D",
+                  "text": "They require constant maintenance to remain usable."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：路缘坡本为轮椅使用者而建，但用得最多的是推车快递员、推婴儿车的父母和拖行李的旅客，说明受益者远超出原定人群。C 项把 B 段「自动门略贵」的细节挪来当结论，属偷换。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "the people using it most were not wheelchair users at all"
+            },
+            {
+              "number": 47,
+              "stem": "Mace presented universal design chiefly as",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "a moral duty owed to a disadvantaged minority."
+                },
+                {
+                  "key": "B",
+                  "text": "a saving in cost rather than an act of charity."
+                },
+                {
+                  "key": "C",
+                  "text": "a legal obligation on public buildings."
+                },
+                {
+                  "key": "D",
+                  "text": "a temporary answer to an ageing population."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段明说 His claim was not charitable but economic，并用自动门与事后改造的费用对比说明：一开始就设计好比事后加装便宜。A 项恰是原文否定的说法。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "not charitable but economic"
+            },
+            {
+              "number": 48,
+              "stem": "The OXO peeler is cited to show that",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "products designed for disabled users rarely make money."
+                },
+                {
+                  "key": "B",
+                  "text": "a design shaped by one limitation can answer a general need."
+                },
+                {
+                  "key": "C",
+                  "text": "kitchen tools are the easiest products to redesign."
+                },
+                {
+                  "key": "D",
+                  "text": "consumers prefer unfamiliar shapes in everyday objects."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段末句点题：the constraints of the few describe needs the many share，即少数人的限制条件描述的是多数人共有的需求；销售数字（数千万件、多数买家并无残障）是证据。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the constraints of the few describe needs the many share"
+            },
+            {
+              "number": 49,
+              "stem": "The word 'alibi' (Paragraph E) most nearly means",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "a legal defence offered in court."
+                },
+                {
+                  "key": "B",
+                  "text": "an excuse that removes the duty to do more."
+                },
+                {
+                  "key": "C",
+                  "text": "a technical standard of compliance."
+                },
+                {
+                  "key": "D",
+                  "text": "a public apology for past exclusion."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：坡道放在侧门，主入口仍对部分人关闭，建筑却可被「宣布为无障碍」——alibi 在此指用来免除进一步责任的借口。后文 a difference no checklist can enforce 进一步说明合规不等于可用。",
+              "type": "词句含义题",
+              "evidencePara": "E",
+              "evidenceText": "can be declared accessible while its main door remains closed"
+            },
+            {
+              "number": 50,
+              "stem": "The author's attitude towards accessibility standards can best be described as",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "unreserved enthusiasm."
+                },
+                {
+                  "key": "B",
+                  "text": "acceptance qualified by doubt about compliance as proof."
+                },
+                {
+                  "key": "C",
+                  "text": "outright rejection."
+                },
+                {
+                  "key": "D",
+                  "text": "indifference to their practical effects."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段并未否定标准，而是指出「满足技术标准仍可能不可用」，并强调 no checklist can enforce 的差别，属于有保留的接受；A、C 两个极端都不合。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "a difference no checklist can enforce"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Before 2020 the employment gap between disabled and non-disabled workers in rich countries had barely moved for a generation. The explanations offered were partly cultural - prejudice in hiring - and partly practical: a station without a lift, a desk that could not be raised, a toilet on another floor. Those practical barriers were supposed to be dealt with one request at a time, through a process called reasonable accommodation, which placed the burden of asking on the person who needed it."
+            },
+            {
+              "label": "B",
+              "text": "The pandemic removed several of those barriers at once, for everybody. When offices closed, the adjustment that disabled employees had been requesting for years became the default condition of white-collar work. Employment rates for disabled people rose faster in 2021 and 2022 than at any point in the previous two decades, and the increase was concentrated in the occupations that had gone remote: software, administration, advice, design."
+            },
+            {
+              "label": "C",
+              "text": "The mechanism is worth stating precisely, because it is the opposite of what accommodation policy assumes. A request marks the applicant as different and imposes a cost on the employer, who may quietly decline it. A default does neither. When everyone is issued a laptop and a video link, the worker who needs them is asking for nothing, and an interview no longer begins with an explanation."
+            },
+            {
+              "label": "D",
+              "text": "The reversal has been equally swift. Remote postings, which made up a fifth of advertisements for professional jobs in 2022, fell by half within two years as employers restored attendance requirements. Those most affected are the workers who moved house on the strength of a promise, and those whose conditions make an office day an expensive gamble: two hours of travel, an unpredictable lift, a toilet that may or may not be usable. Surveillance software, meanwhile, reproduced the worst features of the office in a bedroom."
+            },
+            {
+              "label": "E",
+              "text": "The lesson is not that remote work suits disabled people. It is that the workplace was never neutral: it was built around a body with a short commute, a quiet room and no caring responsibilities. Change that design, and the number of people it fits grows - and the group that benefits is always larger than the group that asked. The corollary is less comfortable. An accessibility granted as an emergency measure can be withdrawn as one, unless it is written into the terms of the job rather than the terms of the crisis."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What was the chief defect of the accommodation system described in Paragraph A?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It required the individual to initiate every change."
+                },
+                {
+                  "key": "B",
+                  "text": "It applied only to workers with visible impairments."
+                },
+                {
+                  "key": "C",
+                  "text": "It was funded entirely by the employees themselves."
+                },
+                {
+                  "key": "D",
+                  "text": "It excluded cultural prejudice from consideration."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末：reasonable accommodation 把「提出请求的负担」放在需要它的人身上；C 段接着对比 request 与 default，进一步说明这一点。B、C 文中无据。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "placed the burden of asking on the person who needed it"
+            },
+            {
+              "number": 52,
+              "stem": "What does Paragraph B suggest about the employment gains?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They were evenly spread across the economy."
+                },
+                {
+                  "key": "B",
+                  "text": "They occurred where remote work was possible."
+                },
+                {
+                  "key": "C",
+                  "text": "They were caused by new disability legislation."
+                },
+                {
+                  "key": "D",
+                  "text": "They have since been shown to be a statistical error."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：增长集中在已经转为远程的职业——软件、行政、咨询、设计。A 项与 concentrated 相反，C 项文中未提立法。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "concentrated in the occupations that had gone remote"
+            },
+            {
+              "number": 53,
+              "stem": "Why does the author contrast 'a request' with 'a default'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To show that defaults are cheaper for employers to administer."
+                },
+                {
+                  "key": "B",
+                  "text": "To show that a default removes both the stigma and the cost of asking."
+                },
+                {
+                  "key": "C",
+                  "text": "To argue that requests should be submitted in writing."
+                },
+                {
+                  "key": "D",
+                  "text": "To demonstrate that workers prefer clear instructions."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：请求会把申请人标记为「不同」，并给雇主带来成本（可被悄悄拒绝）；默认两者皆无，人人领到电脑与视频链接时，需要它的人什么也不必开口。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "A request marks the applicant as different ... A default does neither"
+            },
+            {
+              "number": 54,
+              "stem": "The phrase 'an expensive gamble' (Paragraph D) refers to",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "the risk that employers will cut salaries."
+                },
+                {
+                  "key": "B",
+                  "text": "the uncertainty and cost of getting to and staying in an office."
+                },
+                {
+                  "key": "C",
+                  "text": "the chance that remote staff will be overlooked for promotion."
+                },
+                {
+                  "key": "D",
+                  "text": "the price of moving house for a job."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段冒号后随即解释：两小时通勤、电梯不可靠、卫生间未必可用——都是「去办公室并待一整天」的成本与不确定性，故选 B。D 项是另一句的内容。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "two hours of travel, an unpredictable lift"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author imply in the final paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Remote work is intrinsically better suited to disabled staff."
+                },
+                {
+                  "key": "B",
+                  "text": "Firms should abandon attendance requirements permanently."
+                },
+                {
+                  "key": "C",
+                  "text": "Gains granted as crisis measures remain fragile unless built into the job."
+                },
+                {
+                  "key": "D",
+                  "text": "Surveillance software has improved office productivity."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段最后一句：以紧急措施给予的无障碍，也可能以紧急措施收回，除非写进职位的条款而非危机的条款。A 项恰是作者明确否定的（The lesson is not that ...）。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "unless it is written into the terms of the job"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n茶马古道是古代中国西南地区连接汉地与藏区的一条贸易通道。马帮把茶叶从云南、四川驮运到西藏，再把马匹、皮毛和药材带回内地。这条路穿越高山峡谷，海拔常在四千米以上，往返一次往往需要数月。茶之所以重要，是因为高原居民以肉食为主，需要茶帮助消化。古道沿线逐渐形成了许多驿站和市镇，不同民族在此交换货物，也交换语言与习俗。今天，石板路上的马蹄印仍在，成为这段历史的见证。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe Tea Horse Road was a trade route that linked the Chinese heartland with the Tibetan plateau in the south-west of ancient China. Caravans carried tea from Yunnan and Sichuan up to Tibet, and brought horses, hides and medicinal herbs back to the interior. The route crossed high mountains and deep gorges, often at altitudes above four thousand metres, and a single round trip could take several months. Tea mattered because the peoples of the plateau lived largely on meat and needed it to aid digestion. Inns and market towns gradually grew up along the way, where different ethnic groups exchanged goods and, with them, languages and customs. Today the hoof prints of the mules can still be seen in the stone paving, and they bear witness to that chapter of history.\n\n【要点】①「茶马古道」是专名，译作 the Tea Horse Road，首次出现加 a trade route that linked ... 解释其性质；②「马帮」译 caravans（驮队），「驮运」用 carried ... up to Tibet，避免 haul 的粗重感；③「海拔常在四千米以上」用 often at altitudes above four thousand metres，作插入语；④「以肉食为主」译 lived largely on meat，比 mainly ate meat 更地道；⑤「驿站」译 inns 或 post stations，与 market towns 并列即可；⑥末句用 bear witness to 收束，与「见证」对应，时态转为一般现在时。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

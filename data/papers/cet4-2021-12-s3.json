@@ -1,0 +1,1053 @@
+{
+  "id": "cet4-2021-12-s3",
+  "level": "CET4",
+  "year": 2021,
+  "month": 12,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether university students should live on campus. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nEvery autumn, thousands of families argue about the same question: should a university student live in a dormitory or at home? Both arrangements have defenders, and the choice usually depends on distance, money and temperament rather than on principle.\n\nLiving on campus has obvious advantages. Time saved on commuting becomes time for study, sport or sleep, and the friendships formed in a corridor at midnight are difficult to manufacture later. A student who lives among classmates also hears about internships, deadlines and mistakes before they become expensive. The costs are real too: dormitories are crowded and noisy, privacy is scarce, and shared rooms can turn a small disagreement into a daily irritation.\n\nLiving at home offers space, quiet and cheaper food, but it can leave a student on the edge of campus life. My own view is that the first year should be spent on campus, when belonging matters most, and that later years may reasonably be spent elsewhere. The point of university is not the address; it is the habit of living with people unlike yourself.\n\n（约 175 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Five years ago, electric scooters appeared on city pavements almost overnight. The first operators dropped them wherever a rider stopped, and within months the machines lay across doorways, in rivers and on tram tracks. Cities responded with rules: speed 26______, marked parking zones and a cap on the number of vehicles each company may operate. The 27______ of the experiment has been to show how quickly a new technology can outrun the rules written for it."
+            },
+            {
+              "label": "B",
+              "text": "Safety is the 28______ issue. Hospitals in several cities report a steady flow of riders with broken wrists and head injuries, most of them young men riding at night without helmets. Pedestrians, particularly older people, say they no longer feel 29______ on their own pavements. Operators answer that their vehicles are speed-limited and that accidents per trip are lower than for bicycles; critics reply that the comparison is unfair, because scooters share space with walkers rather than with cars."
+            },
+            {
+              "label": "C",
+              "text": "Regulation has begun to 30______. Paris held a referendum in 2023 and banned rental scooters outright, while other cities have 31______ companies to remove badly parked vehicles within an hour. The most 32______ measures combine a low speed limit in pedestrian areas with parking that is checked by photograph. Where docking stations exist, the clutter largely 33______. None of this settles the deeper question, however. Scooters 34______ a genuine need: they are faster than walking and cheaper than a taxi for trips of one or two kilometres, and they 35______ less space than a car. Banning them removes the clutter and loses the benefit. The cities that have done best treat the vehicles as traffic rather than as toys, giving them a lane, a place to park and a rule that someone enforces."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "levels"
+                },
+                {
+                  "key": "B",
+                  "text": "licences"
+                },
+                {
+                  "key": "C",
+                  "text": "lessons"
+                },
+                {
+                  "key": "D",
+                  "text": "limits"
+                }
+              ],
+              "answer": "D",
+              "analysis": "与 parking zones、a cap on the number 并列，都是城市对滑板车施加的具体管制，speed limits（限速）最贴合。levels、licences、lessons 都不能与 speed 搭配表示限速。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "Cities responded with rules"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "effect"
+                },
+                {
+                  "key": "B",
+                  "text": "effort"
+                },
+                {
+                  "key": "C",
+                  "text": "offer"
+                },
+                {
+                  "key": "D",
+                  "text": "order"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后是这场「试验」的结果——新技术跑得比规则快，因此主语是 The effect of the experiment（试验的结果/效果）。effort（努力）、offer（报价）、order（命令）都不能接 of the experiment has been to show。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "how quickly a new technology can outrun the rules"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "careful"
+                },
+                {
+                  "key": "B",
+                  "text": "central"
+                },
+                {
+                  "key": "C",
+                  "text": "cultural"
+                },
+                {
+                  "key": "D",
+                  "text": "current"
+                }
+              ],
+              "answer": "B",
+              "analysis": "整段都在讲受伤人数与行人感受，说明安全是争论的「核心问题」，the central issue。careful（小心的）一般不修饰 issue；cultural、current 与上下文无关。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "broken wrists and head injuries"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "safe"
+                },
+                {
+                  "key": "B",
+                  "text": "soft"
+                },
+                {
+                  "key": "C",
+                  "text": "social"
+                },
+                {
+                  "key": "D",
+                  "text": "solid"
+                }
+              ],
+              "answer": "A",
+              "analysis": "行人（尤其老年人）说自己在人行道上不再感到「安全」，与上文滑板车伤人对应。soft、social、solid 都不能描述行人对人身安全的感受。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "Pedestrians, particularly older people"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "widen"
+                },
+                {
+                  "key": "B",
+                  "text": "brighten"
+                },
+                {
+                  "key": "C",
+                  "text": "tighten"
+                },
+                {
+                  "key": "D",
+                  "text": "frighten"
+                }
+              ],
+              "answer": "C",
+              "analysis": "后文举巴黎公投全面禁止、其他城市要求一小时内清走违停车，都是管制「收紧」的例子，Regulation has begun to tighten。widen（放宽/扩大）方向相反，brighten、frighten 与监管无关。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "banned rental scooters outright"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "objected"
+                },
+                {
+                  "key": "B",
+                  "text": "obtained"
+                },
+                {
+                  "key": "C",
+                  "text": "observed"
+                },
+                {
+                  "key": "D",
+                  "text": "obliged"
+                }
+              ],
+              "answer": "D",
+              "analysis": "have ____ companies to remove... 需要能接「宾语 + to do」表示「迫使/要求」的动词，oblige sb to do sth 正合。objected 不能这样带宾语，obtained、observed 也不表示强制。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "remove badly parked vehicles within an hour"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "extensive"
+                },
+                {
+                  "key": "B",
+                  "text": "expensive"
+                },
+                {
+                  "key": "C",
+                  "text": "exclusive"
+                },
+                {
+                  "key": "D",
+                  "text": "effective"
+                }
+              ],
+              "answer": "D",
+              "analysis": "「限速 + 拍照取证停车」这样的组合之所以被称赞，是因为它「有效」，the most effective measures。extensive（广泛的）、expensive（昂贵的）、exclusive（独有的）都不构成「措施好」的评价。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "combine a low speed limit ... with parking that is checked"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "disappears"
+                },
+                {
+                  "key": "B",
+                  "text": "develops"
+                },
+                {
+                  "key": "C",
+                  "text": "delays"
+                },
+                {
+                  "key": "D",
+                  "text": "divides"
+                }
+              ],
+              "answer": "A",
+              "analysis": "有了固定停车点，乱停的「杂乱现象」基本就「消失」了，与前文 clutter 呼应。develops 与句意相反，delays、divides 不能描述杂乱现象的去向。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "Where docking stations exist"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "mean"
+                },
+                {
+                  "key": "B",
+                  "text": "make"
+                },
+                {
+                  "key": "C",
+                  "text": "mark"
+                },
+                {
+                  "key": "D",
+                  "text": "meet"
+                }
+              ],
+              "answer": "D",
+              "analysis": "meet a need 是固定搭配，意为「满足需求」；冒号后说它比走路快、比打车便宜，正是满足了真实需求。mean、make、mark 都不能与 a need 搭配表示满足。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "faster than walking and cheaper than a taxi"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "spend"
+                },
+                {
+                  "key": "B",
+                  "text": "waste"
+                },
+                {
+                  "key": "C",
+                  "text": "take"
+                },
+                {
+                  "key": "D",
+                  "text": "leave"
+                }
+              ],
+              "answer": "C",
+              "analysis": "take up space 表示「占用空间」，此处省略 up 亦可，they take less space than a car（比汽车占地少）。spend、waste 用于时间或金钱，leave 与「占地」意思相反。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "less space than a car"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Before 2020, a video consultation with a doctor was a niche service, used mainly in rural parts of Canada and Australia where the nearest clinic was two hours away. Within weeks of the first lockdowns it became ordinary: in England the share of appointments carried out by phone or video rose from about one in ten to nearly half, and it has not fallen back to its old level."
+            },
+            {
+              "label": "B",
+              "text": "For simple problems the format works well. A rash, a repeat prescription, a test result that needs explaining—these can be handled in eight minutes without a journey, a waiting room and a parking charge. Patients with mobility problems or caring duties gain the most. Doctors report seeing more patients per session, and some patients admit things on the phone that they would not say face to face."
+            },
+            {
+              "label": "C",
+              "text": "For other problems it works badly. A doctor who cannot press an abdomen or listen to a chest is working with less information, and the temptation is to investigate more, not less: more blood tests, more referrals, more defensive decisions. Older patients often struggle with the software, and those without a quiet room, a camera or a reliable connection are quietly excluded from a service that is officially open to everyone."
+            },
+            {
+              "label": "D",
+              "text": "There is also a question of continuity. A patient who sees a different doctor each time, in person or online, is less likely to be asked whether a symptom has been going on for months. Continuity is difficult to measure and easy to lose, and it is precisely what general practice was built on. Some systems now try to keep a named doctor for patients with long-term conditions, whatever the medium."
+            },
+            {
+              "label": "E",
+              "text": "The financial argument is not as simple as it looks. A video appointment costs less than a face-to-face one, but it does not necessarily replace it. In several systems, remote consultations have added to total workload rather than substituted for it, because a call that ends in 'come in and see me' is an extra step, not a saving."
+            },
+            {
+              "label": "F",
+              "text": "The likely outcome is not a replacement but a sorting. Remote care suits follow-ups, reviews of long-term conditions and simple infections; it suits emergencies and very anxious patients less well. The danger is that the sorting is done by convenience rather than by need—that those who can use the technology get the quick service, while those who cannot wait longer for the same appointment."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Video appointments were once used mainly where clinics were far away.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：2020 年以前视频问诊是小众服务，主要用于加拿大、澳大利亚的乡村地区，那里最近的诊所要两小时车程。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "where the nearest clinic was two hours away"
+            },
+            {
+              "number": 37,
+              "stem": "Some people find it easier to reveal things without meeting the doctor in person.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：有些病人承认，在电话里会说出当面不会说的事。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "admit things on the phone that they would not say face to face"
+            },
+            {
+              "number": 38,
+              "stem": "Without physical examination, doctors may order more tests than necessary.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：无法按压腹部、听诊的医生信息更少，于是倾向于「多检查而不是少检查」——更多验血、更多转诊、更多防御性决策。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the temptation is to investigate more, not less"
+            },
+            {
+              "number": 39,
+              "stem": "Patients lacking privacy or a good connection may be left out.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：没有安静房间、摄像头或稳定网络的病人，被一个「名义上对所有人开放」的服务悄悄排除在外。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "quietly excluded from a service that is officially open to everyone"
+            },
+            {
+              "number": 40,
+              "stem": "Seeing the same doctor repeatedly makes it easier to notice a long-standing symptom.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：每次换医生，病人就不太会被问到「这个症状是不是已经持续好几个月了」，而连续性正是全科医疗的根基。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "whether a symptom has been going on for months"
+            },
+            {
+              "number": 41,
+              "stem": "Remote appointments have sometimes increased doctors' total work rather than reduced it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：视频问诊成本更低，但不一定替代面诊；在若干体系中，远程问诊增加了总工作量，因为「你还是来看看吧」的电话是额外一步。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "added to total workload rather than substituted for it"
+            },
+            {
+              "number": 42,
+              "stem": "The format should be matched to the kind of medical problem.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：结果不是替代而是「分流」——远程适合随访、慢病复查和简单感染，不适合急症和高度焦虑的病人。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "not a replacement but a sorting"
+            },
+            {
+              "number": 43,
+              "stem": "Those at ease with the technology may obtain faster care than others.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：危险在于分流是按「方便」而不是按「需要」——会用技术的人拿到快速服务，不会用的人只能等同样的号。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "the sorting is done by convenience rather than by need"
+            },
+            {
+              "number": 44,
+              "stem": "Minor complaints can be dealt with without travelling or sitting in a waiting room.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：皮疹、续开处方、解释化验结果这类简单问题，八分钟就能解决，不必奔波、不必候诊、不必交停车费。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "without a journey, a waiting room and a parking charge"
+            },
+            {
+              "number": 45,
+              "stem": "In one country, remote appointments went from rare to routine very quickly.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：英格兰电话或视频问诊的比例从约十分之一升到接近一半，而且没有回落到原来的水平。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "from about one in ten to nearly half"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When a marine reserve is created, the first consequence is that fishing stops inside its boundary. The second, less obvious consequence is that fish appear outside it. Larvae drift, adults wander, and after a few years the catch in waters near a well-enforced reserve often rises. Scientists call this spillover, and it is the argument that persuades fishermen who would otherwise oppose a closure."
+            },
+            {
+              "label": "B",
+              "text": "The evidence comes from a long series of studies. A global analysis of more than a hundred reserves found that fish biomass inside them was on average several times higher than in fished areas nearby, and that the difference grew with the age of the reserve and the strength of enforcement. A reserve that exists on a map but is not patrolled shows almost no effect, a finding that has embarrassed several governments."
+            },
+            {
+              "label": "C",
+              "text": "Design matters. Small reserves protect small animals; large ones protect the species that roam. A network of reserves linked by currents that carry larvae does better than a single isolated site, because a population inside one reserve can restock another. Coral reefs, which recover slowly, need both protection and time: some of the reserves studied took fifteen years to show clear gains."
+            },
+            {
+              "label": "D",
+              "text": "There are costs, and they fall on the people who fish. Closing an area pushes effort into the remaining water, at least at first, and the fishermen who lose access are rarely the ones who gain from the tourist boats that arrive later. Compensation schemes exist but are often slow. Researchers increasingly argue that reserves should be designed with fishing communities rather than announced to them."
+            },
+            {
+              "label": "E",
+              "text": "The political temptation is to count area rather than effect. A country can meet an international target by drawing large boundaries around empty ocean where nobody fishes, and the number looks good on paper. The reserves that work are usually small, contested and expensive to patrol. Protecting thirty per cent of the sea is a useful slogan; protecting the right thirty per cent is the actual task."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What is spillover?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Fish moving from a protected area into nearby fishing grounds."
+                },
+                {
+                  "key": "B",
+                  "text": "Pollution spreading from a reserve into the open sea."
+                },
+                {
+                  "key": "C",
+                  "text": "Fishermen moving their boats into deeper water."
+                },
+                {
+                  "key": "D",
+                  "text": "Young fish dying when a reserve is first created."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：保护区内停止捕捞，随后「鱼出现在区外」；幼体漂流、成体游动，几年后保护区附近水域的渔获上升——这就是 spillover（溢出效应）。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the catch in waters near a well-enforced reserve often rises"
+            },
+            {
+              "number": 47,
+              "stem": "What makes the difference between a reserve that works and one that does not?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Its distance from the coast."
+                },
+                {
+                  "key": "B",
+                  "text": "Its age and the strength of enforcement."
+                },
+                {
+                  "key": "C",
+                  "text": "The number of tourists it attracts."
+                },
+                {
+                  "key": "D",
+                  "text": "The size of the fish species inside it."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：保护区内生物量比邻近捕捞区高出数倍，差距随保护区「年龄」和「执法力度」增大；只存在于地图上却无人巡逻的保护区几乎没有效果。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "the difference grew with the age of the reserve and the strength of enforcement"
+            },
+            {
+              "number": 48,
+              "stem": "Why does a network of reserves outperform a single isolated site?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is cheaper to patrol."
+                },
+                {
+                  "key": "B",
+                  "text": "It attracts more international funding."
+                },
+                {
+                  "key": "C",
+                  "text": "Currents carry larvae, so one reserve can restock another."
+                },
+                {
+                  "key": "D",
+                  "text": "It allows fishing between the protected areas."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：由携带幼体的洋流相连的保护区网络优于孤立的单一保护区，因为一个保护区的种群可以为另一个补充。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "a population inside one reserve can restock another"
+            },
+            {
+              "number": 49,
+              "stem": "Who bears the cost of closing an area to fishing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The tourist companies that arrive later."
+                },
+                {
+                  "key": "B",
+                  "text": "The fishermen who lose access to the water."
+                },
+                {
+                  "key": "C",
+                  "text": "The scientists who monitor the reserve."
+                },
+                {
+                  "key": "D",
+                  "text": "The government that declares the reserve."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：成本落在渔民身上——失去准入的人，往往不是后来从观光船获益的人；补偿方案存在但常常很慢。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "the fishermen who lose access are rarely the ones who gain"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author criticise about international targets?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are set without any scientific advice."
+                },
+                {
+                  "key": "B",
+                  "text": "They can be met by protecting empty water."
+                },
+                {
+                  "key": "C",
+                  "text": "They are too small to matter."
+                },
+                {
+                  "key": "D",
+                  "text": "They ignore the needs of the tourist industry."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：政治上的诱惑是「算面积而不算效果」——在人迹罕至的空海域划出大片边界就能达标，纸上数字很好看；真正困难的是保护「对的那百分之三十」。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "drawing large boundaries around empty ocean"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The idea is old and simple. In a time bank, an hour of work is an hour of credit, whatever the work is: teaching someone to read, fixing a tap, walking a dog, translating a letter. You earn credits by helping and spend them by being helped. No money changes hands, and the accounts are kept by the members themselves, usually through a small office and a notebook or a website."
+            },
+            {
+              "label": "B",
+              "text": "The model was developed in the 1980s by Edgar Cahn, an American lawyer who argued that modern economies had written off people whose skills were not saleable—the retired, the disabled, the young. A time bank, he suggested, values what the market ignores. The first ones were small and local; today there are hundreds, from rural Japan to south London, though most remain modest in size."
+            },
+            {
+              "label": "C",
+              "text": "The appeal is easy to see. Members describe a sense of usefulness that a welfare payment does not provide, and the exchanges often cross lines of age and class that rarely meet otherwise. An older man who cannot garden but can repair bicycles is, in a time bank, a person with something to offer rather than someone to be visited."
+            },
+            {
+              "label": "D",
+              "text": "The problems are just as visible. Credits are easy to earn and awkward to spend: members accumulate hours they never use, because asking for help is harder than giving it. Matching is slow, and a bank needs a coordinator, which means money after all. Members drift away, and a bank that falls below a few dozen active people tends to collapse, taking its members' credits with it."
+            },
+            {
+              "label": "E",
+              "text": "Evaluations are thin and mostly positive in tone. What they consistently find is that time banks work best as a supplement to public services rather than a substitute for them. A bank can make a neighbourhood friendlier; it cannot replace a nurse. The honest claim is modest: in a society where many people are lonely and many are busy, an hour is a currency that everyone already owns."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What is the basic rule of a time bank?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Credits are paid for in local currency."
+                },
+                {
+                  "key": "B",
+                  "text": "One hour of any service equals one hour of credit."
+                },
+                {
+                  "key": "C",
+                  "text": "Only professional skills can be exchanged."
+                },
+                {
+                  "key": "D",
+                  "text": "Members must give and receive in equal numbers each month."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：在时间银行里，一小时劳动就是一小时信用，无论做什么——教人识字、修水龙头、遛狗、翻译信件。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "an hour of work is an hour of credit, whatever the work is"
+            },
+            {
+              "number": 52,
+              "stem": "Why did Edgar Cahn develop the model?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To give value to people whose skills the market does not pay for."
+                },
+                {
+                  "key": "B",
+                  "text": "To reduce the cost of local government services."
+                },
+                {
+                  "key": "C",
+                  "text": "To create a new form of local currency."
+                },
+                {
+                  "key": "D",
+                  "text": "To help companies find cheap part-time labour."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：他认为现代经济把技能「卖不出去」的人（退休者、残障者、年轻人）抛弃了，而时间银行重视的正是市场忽略的东西。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "values what the market ignores"
+            },
+            {
+              "number": 53,
+              "stem": "What do members say they gain from a time bank?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A higher income."
+                },
+                {
+                  "key": "B",
+                  "text": "A sense of being useful."
+                },
+                {
+                  "key": "C",
+                  "text": "Free professional training."
+                },
+                {
+                  "key": "D",
+                  "text": "Help with finding a job."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：会员描述的是一种「有用感」，这是福利金给不了的；交换还常常跨越年龄和阶层的界线。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "a sense of usefulness that a welfare payment does not provide"
+            },
+            {
+              "number": 54,
+              "stem": "What practical difficulty is described in paragraph D?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Members cannot agree on how to value different skills."
+                },
+                {
+                  "key": "B",
+                  "text": "Credits are easy to earn but hard to use."
+                },
+                {
+                  "key": "C",
+                  "text": "The government refuses to recognise the scheme."
+                },
+                {
+                  "key": "D",
+                  "text": "Too many volunteers join at the same time."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：信用「容易赚、难花出去」——会员攒下用不掉的小时，因为开口求助比帮助别人更难；此外配对慢、需要拿工资的协调员、人数太少就会垮掉。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "easy to earn and awkward to spend"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's overall assessment of time banks?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They could replace many public services."
+                },
+                {
+                  "key": "B",
+                  "text": "They are a well-proven cure for loneliness."
+                },
+                {
+                  "key": "C",
+                  "text": "They offer modest but genuine benefits as a supplement."
+                },
+                {
+                  "key": "D",
+                  "text": "They are unlikely to survive outside Japan."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：评估不多且口气偏正面，一致发现时间银行最好作为公共服务的「补充」而非替代；它可以让邻里更友好，却不能替代护士——作者的结论是「诚实而有限的」。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "works best as a supplement to public services"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国传统木结构建筑常不用一颗铁钉，靠的是榫卯：在一根木料上开出凸出的榫头，在另一根上挖出凹进的卯眼，两者咬合，便能承重。故宫的木柱与梁架历经数百年地震仍稳固，原因之一是这种连接允许构件在地震时轻微移动，从而消耗力量。过去做榫卯的多是世代相传的木匠，他们不画图纸，尺寸记在心里。如今，一些建筑师把这种工艺用于现代建筑，也有学校开课，让年轻人重学这门手艺。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nTraditional Chinese timber buildings often use no iron nails at all; they rely on mortise-and-tenon joints. A protruding tenon is cut on one piece of wood and a matching recess, the mortise, is cut in another; when the two fit together, they can carry the weight of the structure. The wooden columns and beams of the Forbidden City have survived centuries of earthquakes, partly because this kind of joint allows the parts to move slightly during a quake and so absorb the force. In the past, such joints were made by carpenters whose skills passed from one generation to the next; they worked without drawings and kept the measurements in their heads. Today some architects apply the technique to modern buildings, and some schools offer courses so that young people can learn the craft again.\n\n【要点】①「榫卯」译作 mortise-and-tenon joints，首次出现后可用 this kind of joint 回指；②「凸出的榫头／凹进的卯眼」用 protruding tenon 与 recess (mortise)；③「历经数百年地震仍然稳固」用 have survived centuries of earthquakes；④「消耗力量」用 absorb the force；⑤「世代相传」用 passed from one generation to the next。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

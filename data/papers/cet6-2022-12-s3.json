@@ -1,0 +1,1109 @@
+{
+  "id": "cet6-2022-12-s3",
+  "level": "CET6",
+  "year": 2022,
+  "month": 12,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether the ability to slow down has become a luxury. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nSlow Is Not a Luxury\n\nIt has become fashionable to speak of slowing down as self-care, and to mock the idea. The mockery has a point. Advice to work less, walk more and cook properly is addressed to people who can afford it, and sold as a set of products. To a rider on a zero-hours contract, the injunction to be present is a joke.\n\nYet the conclusion that rest is a luxury is a mistake, and a convenient one. Attention and recovery are conditions of good work, not rewards for escaping it. A surgeon who has slept is safer than one who has not; a nurse on a twelve-hour shift without a break makes errors for others to treat. What looks like indulgence is, institutionally, a safety measure.\n\nThe question is not whether to slow down but who is permitted to. Where hours are set by contract and breaks are protected, slowness is unremarkable. Where they are set by an algorithm, it must be requested, and refusal carries a cost. The remedy is not a retreat to the countryside but a floor under which nobody competes.\n\nCalling rest a luxury is the first step towards making it one.\n\n（约 199 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "An ice sheet is an archive that writes itself. Snow falling on the interior of Antarctica does not melt; it is buried by later snow, compressed into ice, and 26______ its cargo of air bubbles, dust and volcanic ash. Drill a cylinder out of the sheet and you hold a sequence of atmospheres stretching back hundreds of thousands of years, each thin layer 27______ a winter and a summer."
+            },
+            {
+              "label": "B",
+              "text": "The technical difficulty is cleanliness. A core is cut with a hollow bit, and its outer surface picks up 28______ from the drilling fluid and from the hands that handle it; only the inner 29______ is kept clean enough for the most delicate measurements. Samples are then cut in a cold room at temperatures below minus twenty and flown, frozen, to laboratories that may be on another 30______."
+            },
+            {
+              "label": "C",
+              "text": "What the cores have shown is that the climate is not 31______. Ice ages arrived and retreated on cycles of roughly a hundred thousand years, driven by small changes in the earth's orbit, and the transitions in the record were sometimes 32______ rather than gradual, with temperatures over Greenland shifting ten degrees within a few decades. That discovery 33______ the comfortable assumption that climate responds slowly."
+            },
+            {
+              "label": "D",
+              "text": "Ice also records the by-products of civilisation. Lead concentrations rise sharply in the Roman period, fall during the Middle Ages and climb again with industrialisation; sulphate layers mark individual volcanic eruptions; and the 34______ of coal and oil appears as a change in the ratio of isotopes. The record is precise enough that a core can be 35______ to a single year, and that precision is what makes it a test of the models used to forecast the future."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "presents"
+                },
+                {
+                  "key": "B",
+                  "text": "preserves"
+                },
+                {
+                  "key": "C",
+                  "text": "prevents"
+                },
+                {
+                  "key": "D",
+                  "text": "predicts"
+                }
+              ],
+              "answer": "B",
+              "analysis": "preserve 意为「保存」，指冰层把气泡、尘埃与火山灰原样封存下来；这正是冰芯能重建古大气的前提。其余三词与 cargo 搭配均不合逻辑。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "its cargo of air bubbles, dust and volcanic ash"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "marking"
+                },
+                {
+                  "key": "B",
+                  "text": "making"
+                },
+                {
+                  "key": "C",
+                  "text": "matching"
+                },
+                {
+                  "key": "D",
+                  "text": "masking"
+                }
+              ],
+              "answer": "A",
+              "analysis": "each thin layer marking a winter and a summer 为独立主格结构，说明每一薄层「标志」一个冬夏；后文讲按年层定年，正需此义。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a sequence of atmospheres stretching back hundreds of thousands of years"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "implements"
+                },
+                {
+                  "key": "B",
+                  "text": "impressions"
+                },
+                {
+                  "key": "C",
+                  "text": "impurities"
+                },
+                {
+                  "key": "D",
+                  "text": "injuries"
+                }
+              ],
+              "answer": "C",
+              "analysis": "picks up impurities 意为「沾上杂质」，与下文「只有内芯足够洁净」形成对照；污染是冰芯分析的首要技术难题。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "only the inner ... is kept clean enough"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "corner"
+                },
+                {
+                  "key": "B",
+                  "text": "course"
+                },
+                {
+                  "key": "C",
+                  "text": "cover"
+                },
+                {
+                  "key": "D",
+                  "text": "core"
+                }
+              ],
+              "answer": "D",
+              "analysis": "the inner core 指冰芯的内层部分；上一句已出现 A core is cut with a hollow bit，此处复现同一术语。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "A core is cut with a hollow bit"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "continent"
+                },
+                {
+                  "key": "B",
+                  "text": "content"
+                },
+                {
+                  "key": "C",
+                  "text": "contract"
+                },
+                {
+                  "key": "D",
+                  "text": "context"
+                }
+              ],
+              "answer": "A",
+              "analysis": "on another continent 意为「在另一个大洲」，说明样品需长途冷冻运输；南极取的芯往往要运往北半球实验室。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "flown, frozen, to laboratories"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "suitable"
+                },
+                {
+                  "key": "B",
+                  "text": "subtle"
+                },
+                {
+                  "key": "C",
+                  "text": "sudden"
+                },
+                {
+                  "key": "D",
+                  "text": "stable"
+                }
+              ],
+              "answer": "D",
+              "analysis": "not stable 意为「并不稳定」；冒号后列举冰期旋回与骤变，都是在反驳气候恒定不变的假设。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "Ice ages arrived and retreated on cycles"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "absent"
+                },
+                {
+                  "key": "B",
+                  "text": "abrupt"
+                },
+                {
+                  "key": "C",
+                  "text": "abstract"
+                },
+                {
+                  "key": "D",
+                  "text": "accurate"
+                }
+              ],
+              "answer": "B",
+              "analysis": "rather than gradual 提示空格与 gradual 相对，abrupt（突然的）最贴合；后文「几十年内升十度」正是突变。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "ten degrees within a few decades"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "underlined"
+                },
+                {
+                  "key": "B",
+                  "text": "undertook"
+                },
+                {
+                  "key": "C",
+                  "text": "undermined"
+                },
+                {
+                  "key": "D",
+                  "text": "understood"
+                }
+              ],
+              "answer": "C",
+              "analysis": "undermine 意为「动摇、削弱」，与 the comfortable assumption 搭配表示这一发现推翻了「气候缓慢变化」的旧观念；underlined 意为强调，与文意相反。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "the comfortable assumption that climate responds slowly"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "comparison"
+                },
+                {
+                  "key": "B",
+                  "text": "competition"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusion"
+                },
+                {
+                  "key": "D",
+                  "text": "combustion"
+                }
+              ],
+              "answer": "D",
+              "analysis": "the combustion of coal and oil 意为「煤与石油的燃烧」，其产物改变同位素比值，是工业时代在冰层中的印记。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "appears as a change in the ratio of isotopes"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "dated"
+                },
+                {
+                  "key": "B",
+                  "text": "divided"
+                },
+                {
+                  "key": "C",
+                  "text": "drawn"
+                },
+                {
+                  "key": "D",
+                  "text": "driven"
+                }
+              ],
+              "answer": "A",
+              "analysis": "be dated to a single year 意为「可定年至某一年」，date sth to 为固定搭配；后文说这种精度使冰芯可用来检验气候模型。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "precise enough that a core can be"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Renting was long treated as a stage people passed through on the way to ownership. In many cities it has become a destination: a third or more of households now rent for life, and the law governing their tenancies was written for a transient minority who had somewhere else to go. The mismatch between the length of a tenancy and the length of a life is the source of most of what follows."
+            },
+            {
+              "label": "B",
+              "text": "The standard lease runs for six or twelve months and renews at the landlord's discretion. A tenant who complains about a broken boiler, or who asks for a written receipt, risks not being renewed, and in many jurisdictions no reason need be given. The insecurity is not an accident of drafting: it is what makes the threat credible, and it is why surveys find that tenants tolerate conditions they would not accept in any other purchase."
+            },
+            {
+              "label": "C",
+              "text": "Rent regulation is the instrument most often reached for, and the evidence on it is genuinely mixed. Caps on increases protect sitting tenants and reduce displacement; they may also discourage maintenance and, in places where supply is already tight, reduce the number of homes offered. Berlin's freeze produced both effects, and the argument about which matters more has become a proxy for a larger quarrel about whether housing is infrastructure or an asset."
+            },
+            {
+              "label": "D",
+              "text": "Upfront costs do quiet but effective work in sorting people. A deposit of two months' rent, a letting fee and a month in advance together exceed what a low-paid worker can save, and the requirement of a guarantor excludes anyone whose parents are not in a position to sign. Deposit protection schemes have removed one obvious abuse, but they do not touch the selection that the deposit performs before a tenancy begins."
+            },
+            {
+              "label": "E",
+              "text": "Energy standards illustrate a split incentive. A landlord who pays for insulation does not pay the fuel bill, so the improvement must be compelled or subsidised; a tenant who would benefit cannot authorise the work. Minimum standards have raised the worst properties out of the market, which is a gain, but the cost of compliance is recovered through rent, so the poorest tenants are sometimes improved out of their homes."
+            },
+            {
+              "label": "F",
+              "text": "Security of tenure is the reform with the clearest record. Scotland moved to open-ended tenancies with rent increases limited to once a year and notice periods lengthened; registration of landlords and of deposits made the sector visible for the first time. Complaints rose, because they had somewhere to go. Investment did not collapse, which was the prediction of every landlord association that opposed the change."
+            },
+            {
+              "label": "G",
+              "text": "The obstacle that precedes all the others is information. Most countries cannot say how many rental homes exist, what they cost or how often tenants are evicted, because no register is kept. A policy without a register is a guess, and a guess is easily contradicted by whoever benefits from the present arrangement. Tenant organisations have learned that the demand for data is often more effective than the demand for sympathy."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Limits on rent increases protect existing tenants but may reduce the number of homes available.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：租金上限保护在租者、减少被迫迁离，但也可能抑制维修、在供应紧张处减少出租房源；柏林冻结令同时产生了两种效果。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "may also discourage maintenance"
+            },
+            {
+              "number": 37,
+              "stem": "Without basic records, policy can only be guesswork.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：多数国家说不清有多少出租房、租金多少、驱逐多频繁，因为没有登记册；「没有数据的政策只是猜测」。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "A policy without a register is a guess"
+            },
+            {
+              "number": 38,
+              "stem": "The person who would benefit from an improvement is not the person who pays for it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：出钱做保温的房东不付燃料费，受益的租客无权批准施工——这正是 split incentive（激励错配）。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "A landlord who pays for insulation does not pay the fuel bill"
+            },
+            {
+              "number": 39,
+              "stem": "Tenancy law was designed for people who expected to move on quickly.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：租住曾被视为通往买房的过渡阶段，而现行租赁法正是为「随时会搬走的少数人」写的，与如今终身租房者的处境不匹配。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "written for a transient minority"
+            },
+            {
+              "number": 40,
+              "stem": "Predictions that landlords would withdraw from the market proved wrong.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：投资并未崩塌，而这正是当初反对改革的房东协会的预言。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "Investment did not collapse"
+            },
+            {
+              "number": 41,
+              "stem": "The money demanded at the start of a tenancy excludes people who cannot raise it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：押金、中介费与预付月租合计超过低收入者的储蓄能力，而担保人要求又排除了父母无力签字的人。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "exceed what a low-paid worker can save"
+            },
+            {
+              "number": 42,
+              "stem": "Campaigners find that demanding statistics achieves more than appealing to pity.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段末：租客组织发现，要求数据往往比要求同情更有效——因为数据能驳倒既得利益者的说法。",
+              "type": "态度题",
+              "evidencePara": "G",
+              "evidenceText": "more effective than the demand for sympathy"
+            },
+            {
+              "number": 43,
+              "stem": "Better standards can raise rents enough to push out the tenants they were meant to help.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：合规成本通过租金收回，最穷的租客有时会因住房「被改善」而失去住处。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "improved out of their homes"
+            },
+            {
+              "number": 44,
+              "stem": "A tenant who asks for repairs may simply not have the lease renewed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：抱怨锅炉坏了或索要收据的租客，可能不被续租，且许多地方无需给出理由；这种不安全感「不是起草疏忽」，而正是威胁可信的原因。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "risks not being renewed"
+            },
+            {
+              "number": 45,
+              "stem": "Longer tenancies and landlord registration produced more complaints rather than fewer.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：苏格兰改为开放式租约并登记房东与押金后，投诉上升——因为「投诉终于有地方可去」。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "Complaints rose, because they had somewhere to go"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Most countries now recognise a national sign language in law, and the recognition is usually welcomed as a milestone. On its own, it is close to meaningless. A right to use a language in court is of little value if no interpreter can be found within a week, and a right to education in that language is empty if the school employs one assistant who knows a hundred signs."
+            },
+            {
+              "label": "B",
+              "text": "The first obstacle is a misunderstanding that survives among educated people: that sign languages are improvised gesture systems, universal and largely iconic. They are nothing of the kind. Each has its own grammar, its own vocabulary and its own history; British and American Sign Language are mutually unintelligible despite sharing a spoken language. A sign that means bank in one may mean farm in another, and the iconicity that seems obvious to a hearing observer is frequently misleading."
+            },
+            {
+              "label": "C",
+              "text": "The second obstacle is supply. Interpreting is skilled work: a court interpreter must handle legal terminology, simultaneous delivery and the emotional weight of testimony, and the training takes years. Waiting lists of several weeks are common, so appointments are postponed, operations are rescheduled, and deaf patients nod through consultations they have not understood. Video interpreting was expected to solve the problem; it helps in an emergency, but a flat image makes it harder to follow a conversation among several speakers."
+            },
+            {
+              "label": "D",
+              "text": "Education is where the cost is highest and least visible. Most deaf children are born to hearing parents and placed in mainstream schools, where support is often an adult who interprets for part of the day and a classroom in which incidental talk - the remark in the corridor, the joke before the lesson - simply does not reach them. Language deprivation in the early years is hard to reverse, and it is measured not in words but in what a child never learns to ask."
+            },
+            {
+              "label": "E",
+              "text": "Broadcasting shows the same pattern. Subtitles are cheaper than interpreters and are now provided routinely, but automatic captions still mangle names, numbers and accents, and a caption reading fifty percent when the speaker said fifteen is worse than no caption at all. Where an interpreter is shown on screen, the image is often shrunk into a corner, so that the person translating is visible but not legible."
+            },
+            {
+              "label": "F",
+              "text": "None of these failures is mysterious, and none of them requires a breakthrough. They require money, training places and a willingness to count. At present hardly any country publishes how many interpreter hours were requested and how many were supplied, which means that a right celebrated in statute cannot be shown to exist in practice."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author suggest about legal recognition of sign languages?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has made little practical difference on its own."
+                },
+                {
+                  "key": "B",
+                  "text": "It was opposed by most deaf organisations."
+                },
+                {
+                  "key": "C",
+                  "text": "It has solved the shortage of interpreters."
+                },
+                {
+                  "key": "D",
+                  "text": "It should be withdrawn until funding is available."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：法律承认通常被当作里程碑，但「单靠它几乎毫无意义」——找不到翻译、学校只配一名会百来个手语的助教，权利就是空的。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "On its own, it is close to meaningless"
+            },
+            {
+              "number": 47,
+              "stem": "What misconception about sign languages does the author correct?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That they are learned later than spoken languages."
+                },
+                {
+                  "key": "B",
+                  "text": "That they are gesture systems lacking grammar of their own."
+                },
+                {
+                  "key": "C",
+                  "text": "That they differ from one region to the next."
+                },
+                {
+                  "key": "D",
+                  "text": "That they are easier for children to acquire."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：人们误以为手语是即兴手势、通用且高度象形；实际上各有语法、词汇与历史，英美手语彼此听不懂。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "improvised gesture systems, universal and largely iconic"
+            },
+            {
+              "number": 48,
+              "stem": "Why has video interpreting not solved the shortage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because it is more expensive than employing interpreters."
+                },
+                {
+                  "key": "B",
+                  "text": "Because deaf clients distrust the technology."
+                },
+                {
+                  "key": "C",
+                  "text": "Because a flat image makes multi-speaker conversation harder to follow."
+                },
+                {
+                  "key": "D",
+                  "text": "Because it is not permitted in courts."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：视频翻译在紧急情况下有帮助，但「平面影像」使人更难跟上多人交谈；短缺的根源仍是受过训练的人太少。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "a flat image makes it harder to follow a conversation among several speakers"
+            },
+            {
+              "number": 49,
+              "stem": "What is the hidden cost of mainstream schooling described in paragraph D?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Deaf children are taught a curriculum that is too easy."
+                },
+                {
+                  "key": "B",
+                  "text": "They miss the unplanned talk through which much language is learned."
+                },
+                {
+                  "key": "C",
+                  "text": "Their parents are unable to help with homework."
+                },
+                {
+                  "key": "D",
+                  "text": "Interpreters are shared among too many schools."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：走廊里的闲谈、上课前的玩笑这类「 incidental talk」根本到不了他们耳边；早期语言剥夺难以逆转，代价体现为孩子从未学会提出的问题。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "incidental talk"
+            },
+            {
+              "number": 50,
+              "stem": "What does the example of the caption in paragraph E demonstrate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Automatic captions are adequate for most programmes."
+                },
+                {
+                  "key": "B",
+                  "text": "An inaccurate caption can be more damaging than none."
+                },
+                {
+                  "key": "C",
+                  "text": "Interpreters are always preferable to subtitles."
+                },
+                {
+                  "key": "D",
+                  "text": "Numbers are the only unreliable element in captions."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：把 fifteen 写成 fifty percent 的字幕「比没有字幕更糟」——错误信息会被当作事实接受，风险高于信息的缺失。",
+              "type": "词句含义题",
+              "evidencePara": "E",
+              "evidenceText": "worse than no caption at all"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Interpreting is one of the few occupations in which the customer cannot reliably judge the product. A deaf client can tell whether an interpreter is punctual and pleasant; she cannot easily tell whether a legal term was rendered accurately, and in a medical consultation she may not know what was said at all. The people best placed to notice an error are the professionals in the room, who rarely speak the language concerned."
+            },
+            {
+              "label": "B",
+              "text": "Pay reflects that asymmetry. Community interpreting is often paid by the hour with nothing for travel or for time spent waiting, agencies take a share of the fee, and the work arrives irregularly. A qualified interpreter may therefore earn less than a delivery driver while carrying professional liability and the emotional cost of other people's worst days."
+            },
+            {
+              "label": "C",
+              "text": "The routes into the job are expensive and narrow: a degree, a portfolio of supervised hours and a registration examination. Numbers entering the profession are small and attrition is high; the average career is short, and many of the most experienced leave for teaching or for a salaried post in a school, where the hours are predictable."
+            },
+            {
+              "label": "D",
+              "text": "Technology is offered as the answer. Remote platforms match interpreters to appointments within minutes, and machine translation of sign language is improving quickly. But the platforms also push rates down, and a system that treats interpreting as a commodity selects for speed rather than for accuracy - which is precisely the wrong criterion when the subject is a diagnosis or a plea."
+            },
+            {
+              "label": "E",
+              "text": "A functioning market would look different. Salaried posts in hospitals and courts would remove the incentive to rush; a register with published standards would let clients check a qualification; payment for travel and preparation would make rural work viable; and a complaints procedure that a deaf client could actually use would supply the feedback that the market now lacks."
+            },
+            {
+              "label": "F",
+              "text": "Scotland has moved some way towards this by placing interpreting within the same framework as other public services, with national standards and a register. The lesson is unglamorous: the reform that works is administrative rather than technological, and it consists of paying properly for a skill that most of the public cannot evaluate."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why is quality hard to police in interpreting?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because interpreters work alone without supervision."
+                },
+                {
+                  "key": "B",
+                  "text": "Because the client usually cannot tell whether the rendering was accurate."
+                },
+                {
+                  "key": "C",
+                  "text": "Because no standards exist for the profession."
+                },
+                {
+                  "key": "D",
+                  "text": "Because most assignments are too short to assess."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：客户能判断翻译是否守时、友善，却无法判断法律术语是否准确；医疗问诊中甚至不知道说了什么。最可能发现错误的人又往往不懂手语。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "cannot easily tell whether a legal term was rendered accurately"
+            },
+            {
+              "number": 52,
+              "stem": "What does paragraph B suggest about the pay of community interpreters?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is high enough to attract experienced professionals."
+                },
+                {
+                  "key": "B",
+                  "text": "It is set nationally and rises with qualifications."
+                },
+                {
+                  "key": "C",
+                  "text": "It is low and irregular despite significant responsibility."
+                },
+                {
+                  "key": "D",
+                  "text": "It has improved since agencies began coordinating work."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：按小时计酬、路途与等待不计钱、中介抽成、工作不规律，因此持证译员收入可能低于快递司机，却承担职业责任与情绪负担。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "carrying professional liability and the emotional cost"
+            },
+            {
+              "number": 53,
+              "stem": "What happens to experienced interpreters according to paragraph C?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They move into better-paid technology roles."
+                },
+                {
+                  "key": "B",
+                  "text": "They often leave for predictable salaried work in schools."
+                },
+                {
+                  "key": "C",
+                  "text": "They set up their own agencies."
+                },
+                {
+                  "key": "D",
+                  "text": "They retire earlier than other professionals."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：入行门槛高、人数少、流失率高；许多最有经验者转去教书或学校里的固定岗位，因为工时可以预期。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "leave for teaching or for a salaried post in a school"
+            },
+            {
+              "number": 54,
+              "stem": "What is the author's view of remote interpreting platforms?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are the most promising solution available."
+                },
+                {
+                  "key": "B",
+                  "text": "They have improved accuracy by standardising practice."
+                },
+                {
+                  "key": "C",
+                  "text": "They reward speed at the expense of accuracy."
+                },
+                {
+                  "key": "D",
+                  "text": "They are too unreliable to be used in hospitals."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段：平台确实能几分钟内配对，但也压低价格；把翻译当商品，筛选的是速度而非准确——在诊断或答辩这类场合恰恰选错了标准。",
+              "type": "态度题",
+              "evidencePara": "D",
+              "evidenceText": "selects for speed rather than for accuracy"
+            },
+            {
+              "number": 55,
+              "stem": "What is the main lesson drawn from the Scottish example?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Legal recognition is more important than funding."
+                },
+                {
+                  "key": "B",
+                  "text": "Administrative reform matters more than new technology."
+                },
+                {
+                  "key": "C",
+                  "text": "Machine translation will soon replace human interpreters."
+                },
+                {
+                  "key": "D",
+                  "text": "Deaf clients should be trained to evaluate interpreters."
+                }
+              ],
+              "answer": "B",
+              "analysis": "F 段：苏格兰把翻译纳入公共服务框架、设国家标准与登记册；启示「不好看」——奏效的是行政改革而非技术，核心是为公众无法评估的技能付合理报酬。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "administrative rather than technological"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n皮影戏是中国古老的民间戏剧。演员在白色幕布后操纵兽皮或纸板做的人物，借灯光投影于幕，并配以唱腔和乐器。表演者常一人兼演数个角色，兼顾道具与节奏，技艺多靠口传心授。皮影人物造型夸张、色彩鲜明、雕刻精细，既是道具，也是工艺品。剧目多取材于历史故事与传说。2011年，皮影戏被列入联合国教科文组织人类非物质文化遗产名录。如今，一些剧团尝试把它与现代故事和数字技术结合，让古老艺术走近年轻人。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nShadow puppetry is an ancient form of folk theatre in China. Performers stand behind a white screen and manipulate figures made of animal hide or cardboard, casting their shadows onto the screen by lamplight while singing and accompanied by instruments. A single performer often voices several characters and at the same time manages the props and the rhythm, and the craft has mostly been passed down by word of mouth. The figures are exaggerated in form, vivid in colour and finely carved, so that they serve both as stage props and as examples of folk craft. Traditional repertory is largely drawn from historical tales and local legend. In 2011 Chinese shadow puppetry was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity. Today some companies are combining it with contemporary stories and digital technology, bringing this old art form to the attention of young audiences.\n\n【要点】①「皮影戏」用 shadow puppetry / shadow play，第一次出现加 an ancient form of folk theatre 说明性质；②「操纵」用 manipulate 或 operate，behind a white screen 表明位置；③「借灯光投影于幕」用 casting their shadows onto the screen by lamplight，分词结构衔接动作；④「一人兼演数个角色」用 voices several characters，比 acts 更贴合配音与说唱；⑤「口传心授」译 passed down by word of mouth；⑥「列入名录」用 was inscribed on UNESCO's Representative List，注意被动与年份时态。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

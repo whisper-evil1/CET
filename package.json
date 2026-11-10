@@ -1,6 +1,6 @@
 {
   "name": "cet-reader",
-  "version": "0.1.0",
+  "version": "2.6.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -16,13 +16,25 @@
     "db:snapshot": "node scripts/snapshot-seed.mjs",
     "db:prepare": "node scripts/prepare-db.mjs",
     "extract-dict": "node scripts/extract-ecdict.mjs",
+    "build:wordbooks": "node scripts/build-wordbooks.mjs",
+    "test:vocab-srs": "tsc src/lib/vocab-srs.ts --target es2020 --module es2020 --outDir .build/srs --skipLibCheck && node scripts/test-vocab-srs.mjs",
+    "test:vocab-import": "tsc src/lib/vocab-import.ts --target es2020 --module es2020 --moduleResolution node --outDir .build/imp --skipLibCheck && node scripts/test-vocab-import.mjs",
+    "e2e:vocab-import": "node scripts/e2e-vocab-import.mjs",
+    "e2e:vocab-ui2": "node scripts/e2e-vocab-ui2.mjs",
     "e2e:vocab": "node scripts/e2e-vocab.mjs",
     "e2e:vocab:ui": "node scripts/e2e-vocab-ui.mjs",
+    "e2e:email-code": "node scripts/e2e-email-code.mjs",
+    "e2e:arcade-match": "node scripts/e2e-arcade-match.mjs",
     "e2e:api": "node scripts/e2e-regression.mjs",
     "e2e:pages": "node scripts/e2e-pages.mjs",
     "verify:cloud": "node scripts/verify-cloud-llm.mjs && node scripts/verify-cloud-accounts.mjs",
     "cloud:sync-accounts": "node scripts/sync-accounts-to-cloud.mjs",
-    "start:prod": "node server.cjs"
+    "start:prod": "node server.cjs",
+    "papers:catalog": "node scripts/papers-catalog.mjs",
+    "papers:import": "node scripts/import-papers.mjs",
+    "papers:check": "node scripts/import-papers.mjs --check",
+    "papers:wordbank": "node scripts/normalize-wordbank.mjs",
+    "e2e:papers": "node scripts/e2e-papers.mjs"
   },
   "dependencies": {
     "@prisma/client": "^6.16.2",
@@ -56,5 +68,14 @@
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
-  }
+  },
+  "//browserslist": "把语法降级到「2020 年前后的老内核」：iOS 12/13、Chrome 64+、微信/百度/UC 内置内核。Tailwind 只影响样式，脚本能不能解析才是真门槛，所以这里刻意设得比 Next 默认更低。",
+  "browserslist": [
+    "chrome >= 64",
+    "edge >= 79",
+    "firefox >= 60",
+    "safari >= 12",
+    "ios_saf >= 12",
+    "opera >= 51"
+  ]
 }

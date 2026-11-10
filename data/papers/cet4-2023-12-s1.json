@@ -1,0 +1,1093 @@
+{
+  "id": "cet4-2023-12-s1",
+  "level": "CET4",
+  "year": 2023,
+  "month": 12,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on why college students should do at least one volunteering activity before they graduate. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nVolunteering Is Part of a University Education\n\nMany students treat volunteering as something to do only when the timetable has a gap. That is a mistake. Two hours a week in a community centre teaches things a lecture theatre cannot.\n\nFirst, it makes abstract knowledge concrete. A student who explains fractions to a nine-year-old quickly discovers whether she really understands them. Second, it builds the habit of dealing with people who have no obligation to be patient with you: a receptionist, a patient, a tired parent. Third, it puts students in rooms with lives unlike their own, which is where judgement begins.\n\nThe cost is small. Most programmes ask for two hours a week, and many universities now record the hours on the transcript. What students gain is not a line on a CV but a clearer sense of what they can actually do. Four years pass quickly; the habits formed in them last far longer.\n\n（约 160 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Cities that want fewer cars usually begin with a strip of paint. A bicycle lane is 26______ compared with a metro line, and it can appear in a few weeks rather than a decade. Yet the results depend less on the paint than on the 27______ of the route. Where a lane is separated from traffic by a kerb or a row of plants, riders of every age use it; where it is only a stripe between parked cars and buses, mainly confident young men do. Planners in Seville, Spain, 28______ eighty kilometres of protected track between 2006 and 2011, and the share of trips made by bicycle rose from 0.6 per cent to nearly seven per cent. The number of cyclists 29______ in crashes also fell, although the total distance ridden rose sharply. Climate is not the secret, since Seville has fierce summers; riders simply move more slowly at midday."
+            },
+            {
+              "label": "B",
+              "text": "The real 30______ is continuity. A lane that 31______ at a busy junction and leaves riders to fend for themselves will be ignored, because a parent with a child on the back will not gamble at a roundabout. A network that connects homes to schools, stations and shops will be used. Shopkeepers often 32______ at first, fearing that delivery bays and parking spaces will disappear. Surveys in London and Toronto found the 33______: people who walk or cycle stop more often and spend more over a month than drivers do. The lesson is not that cars should be 34______, but that streets have been designed around one kind of user for seventy years. Rebalancing them takes patience, because the 35______ arrive slowly while the inconvenience is felt at once."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "expensive"
+                },
+                {
+                  "key": "B",
+                  "text": "cheap"
+                },
+                {
+                  "key": "C",
+                  "text": "durable"
+                },
+                {
+                  "key": "D",
+                  "text": "crowded"
+                }
+              ],
+              "answer": "B",
+              "analysis": "空处作表语，与「compared with a metro line」以及「几周就能画好、不用十年」形成对比，强调造价低，用 cheap。expensive 与后半句直接矛盾；durable 说耐用，与速度和造价无关；crowded 形容人多，不能修饰造价。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "can appear in a few weeks rather than a decade"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "length"
+                },
+                {
+                  "key": "B",
+                  "text": "surface"
+                },
+                {
+                  "key": "C",
+                  "text": "design"
+                },
+                {
+                  "key": "D",
+                  "text": "season"
+                }
+              ],
+              "answer": "C",
+              "analysis": "下一句马上解释：是否用路缘石或绿植把车道与机动车隔开，说明决定成败的是「设计」而非油漆。length 只讲长度，隔不隔离与长度无关；surface 指路面材料，本句没有提到；season 与上下文无关。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "separated from traffic by a kerb or a row of plants"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "built"
+                },
+                {
+                  "key": "B",
+                  "text": "repaired"
+                },
+                {
+                  "key": "C",
+                  "text": "measured"
+                },
+                {
+                  "key": "D",
+                  "text": "closed"
+                }
+              ],
+              "answer": "A",
+              "analysis": "塞维利亚在 2006 至 2011 年间「修建」了 80 公里受保护车道，随后骑行比例才上升，因此用 built。repaired 指修理已有设施，与「从无到有」不符；measured 是测量；closed 是关闭，都会与后文骑行人数上升矛盾。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "the share of trips made by bicycle rose"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "employed"
+                },
+                {
+                  "key": "B",
+                  "text": "counted"
+                },
+                {
+                  "key": "C",
+                  "text": "delayed"
+                },
+                {
+                  "key": "D",
+                  "text": "injured"
+                }
+              ],
+              "answer": "D",
+              "analysis": "「cyclists ___ in crashes」指在事故中受伤的骑行者人数，injured in crashes 是固定搭配。employed 指就业、counted 指计数、delayed 指延误，都不能与 in crashes 搭配表达事故后果。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "The number of cyclists"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "cost"
+                },
+                {
+                  "key": "B",
+                  "text": "test"
+                },
+                {
+                  "key": "C",
+                  "text": "problem"
+                },
+                {
+                  "key": "D",
+                  "text": "reward"
+                }
+              ],
+              "answer": "B",
+              "analysis": "后文列举「在路口断掉、让骑行者自生自灭的车道会被弃用」，即真正的考验在于路线是否连续，The real test is continuity 语义通顺。cost 与 continuity 不构成判断关系；problem 不能带表语 continuity 表示「检验标准」；reward 与「被弃用」的负面结果不搭。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "will be ignored"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "widens"
+                },
+                {
+                  "key": "B",
+                  "text": "starts"
+                },
+                {
+                  "key": "C",
+                  "text": "ends"
+                },
+                {
+                  "key": "D",
+                  "text": "bends"
+                }
+              ],
+              "answer": "C",
+              "analysis": "句子说车道在繁忙路口「中断」，把骑行者扔下自行应对，因此 ends at a busy junction 最贴合。widens 指变宽，不会造成危险；starts 与后半句「让骑行者自行应对」的困境相反；bends 只是转弯，仍可继续骑行。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "leaves riders to fend for themselves"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "resist"
+                },
+                {
+                  "key": "B",
+                  "text": "cooperate"
+                },
+                {
+                  "key": "C",
+                  "text": "invest"
+                },
+                {
+                  "key": "D",
+                  "text": "advertise"
+                }
+              ],
+              "answer": "A",
+              "analysis": "店主「担心卸货位和停车位消失」，所以起初是反对、抵制的，用 resist。cooperate 与担心的内容矛盾；invest 是投资，主语与宾语都不匹配；advertise 是做广告，与停车位减少无关。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "fearing that delivery bays and parking spaces will disappear"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "same"
+                },
+                {
+                  "key": "B",
+                  "text": "answer"
+                },
+                {
+                  "key": "C",
+                  "text": "evidence"
+                },
+                {
+                  "key": "D",
+                  "text": "opposite"
+                }
+              ],
+              "answer": "D",
+              "analysis": "店主担心生意受损，而调查发现步行和骑车的人「来得更勤、一个月花得更多」，正好相反，故 found the opposite。same 与转折关系矛盾；answer 和 evidence 都无法表达「与担心相反的结果」。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "spend more over a month than drivers do"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "parked"
+                },
+                {
+                  "key": "B",
+                  "text": "banned"
+                },
+                {
+                  "key": "C",
+                  "text": "washed"
+                },
+                {
+                  "key": "D",
+                  "text": "sold"
+                }
+              ],
+              "answer": "B",
+              "analysis": "The lesson is not that cars should be ___ 后面接 but that streets have been designed around one kind of user，说的是「并非要禁止汽车」，而是重新分配道路，用 banned。parked 指停车，与「设计围绕单一使用者」的论点不符；washed、sold 与语境无关。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "streets have been designed around one kind of user"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "vehicles"
+                },
+                {
+                  "key": "B",
+                  "text": "rules"
+                },
+                {
+                  "key": "C",
+                  "text": "benefits"
+                },
+                {
+                  "key": "D",
+                  "text": "customers"
+                }
+              ],
+              "answer": "C",
+              "analysis": "「___ arrive slowly while the inconvenience is felt at once」与「不便立刻被感知」对举，只能是好处、收益来得慢，用 benefits。vehicles 指车辆，与 slowly 搭配不当；rules 是规则，不会「到来」；customers 与「立刻感到不便」的主体重复混乱。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "the inconvenience is felt at once"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Roughly a third of the food grown in the world is never eaten. The figure, produced by the UN's Food and Agriculture Organization, is often quoted and rarely believed, because waste is largely invisible: it happens in fields, in warehouses, in supermarket bins and, most of all, in kitchens. A study by the British charity WRAP put the country's annual waste at 9.5 million tonnes in 2018 and found that households were responsible for about seventy per cent of it. If food waste were a country, its greenhouse-gas emissions would rank third in the world."
+            },
+            {
+              "label": "B",
+              "text": "Household waste is the hardest kind to legislate against, because it is produced by millions of small decisions. WRAP's researchers found that confusion over dates explained a large share of it. Shoppers treated 'best before' as a safety warning, although it refers only to quality, and threw away food that was perfectly edible. When several supermarkets removed best-before labels from products such as rice and tinned goods, sales did not fall and waste did. The lesson was that a label designed to inform had become an instruction to discard."
+            },
+            {
+              "label": "C",
+              "text": "Supermarkets carry a different responsibility. For decades they rejected fruit that was the wrong shape, cancelled orders after a crop had been harvested, and used two-for-one offers that pushed customers to buy more than they could eat. France changed the rules in 2016: stores larger than 400 square metres must donate unsold but edible food to charities, and may not destroy it. The law has been criticised as difficult to enforce, but it shifted the default from throwing away to giving away."
+            },
+            {
+              "label": "D",
+              "text": "Denmark shows how fast habits can move. A campaign began in 2008 with a single activist and a supermarket chain willing to sell near-date products at a discount. Within five years, household food waste had fallen by about a quarter, according to the Danish think tank Stop Wasting Food. No law had changed. What changed was that wasting food stopped being normal, and shops stopped hiding the cheaper shelves at the back."
+            },
+            {
+              "label": "E",
+              "text": "Japan attacked the problem from the other end. Its 2019 Food Loss Reduction Act encouraged businesses to donate surplus food, but the sharper pressure came from a retail practice known as the 'one-third rule': manufacturers were expected to deliver goods with at least two-thirds of their shelf life remaining. Relaxing that rule, as some chains have done, means less food is rejected at the warehouse door before it ever reaches a shop."
+            },
+            {
+              "label": "F",
+              "text": "Cities have experimented with pricing. Seoul fitted weighing scales to bins in school and workplace canteens and charged by weight; the quantity discarded fell sharply once diners could see what they were throwing away. Milan built a network of neighbourhood hubs that collect surplus from bakeries, canteens and markets and pass it to charities within hours. The limit there is cold storage and volunteers, not goodwill."
+            },
+            {
+              "label": "G",
+              "text": "The evidence points in one direction. Campaigns that shame individuals achieve little; measurement, targets and small changes to the supply chain achieve a great deal. Redistribution helps, but it can move only a small fraction of the surplus, because the food wasted in the greatest quantity is the food that was never harvested or never sold. The cheapest tonne of food to save is the one that is not wasted in the first place."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Most of the waste measured in one country came from private kitchens.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段引 WRAP 数据：2018 年 950 万吨浪费中，家庭约占七成，并说浪费「最常发生在厨房」——对应「私人厨房」。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "households were responsible for about seventy per cent of it"
+            },
+            {
+              "number": 37,
+              "stem": "A label intended to give information was read as a warning.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：消费者把只关乎口感的 'best before' 当成安全警告，作者总结「本为告知而设的标签成了丢弃的指令」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "a label designed to inform had become an instruction to discard"
+            },
+            {
+              "number": 38,
+              "stem": "A national law obliges large shops to give edible surplus food to charities.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：法国 2016 年规定 400 平方米以上的门店必须把未售出但仍可食用的食品捐给慈善机构，不得销毁。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "must donate unsold but edible food to charities"
+            },
+            {
+              "number": 39,
+              "stem": "One country cut household waste sharply without changing any law.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：丹麦靠一场运动与超市折扣货架，五年内家庭浪费降约四分之一，并明确说「没有任何法律改变」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "No law had changed"
+            },
+            {
+              "number": 40,
+              "stem": "Retail rules about delivery dates cause food to be rejected before it is sold.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：日本零售业的「三分之一规则」要求交货时至少剩三分之二保质期，放宽后「在仓库门口就被拒收」的食品减少。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "rejected at the warehouse door"
+            },
+            {
+              "number": 41,
+              "stem": "Charging diners by the weight of what they leave changed behaviour.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "F 段：首尔在食堂垃圾桶装称重秤、按重量收费，就餐者看到自己扔掉多少后，丢弃量明显下降。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "charged by weight"
+            },
+            {
+              "number": 42,
+              "stem": "Charities can absorb only a limited share of what is left over.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "G 段：再分配只能转移「很小一部分」剩余，因为浪费量最大的恰恰是根本没收获、没卖出的那部分。",
+              "type": "推断题",
+              "evidencePara": "G",
+              "evidenceText": "can move only a small fraction of the surplus"
+            },
+            {
+              "number": 43,
+              "stem": "Refusing fruit because of its appearance was once normal for retailers.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段首：几十年来超市拒收「形状不对」的水果，还在地里收完之后取消订单——即按外观拒收曾是常态。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "rejected fruit that was the wrong shape"
+            },
+            {
+              "number": 44,
+              "stem": "Removing a date from packaging did not reduce what customers bought.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：几家超市去掉大米、罐头等商品的 best-before 标签后，「销量没降，浪费降了」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "sales did not fall and waste did"
+            },
+            {
+              "number": 45,
+              "stem": "Campaigns that blame shoppers tend to have little effect.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "G 段首句：让个人感到羞耻的宣传收效甚微，真正有效的是计量、目标与供应链上的小改动。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "Campaigns that shame individuals achieve little"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The argument about school start times is usually presented as a matter of convenience. It is really a question of biology. At puberty the body clock shifts later by roughly two hours: melatonin, the hormone that signals sleepiness, is released later in the evening, and the brain stays in 'night' mode well past eight in the morning. A teenager who cannot fall asleep before midnight and is expected to be alert at 7.40 is not lazy; she is being asked to work against her own physiology."
+            },
+            {
+              "label": "B",
+              "text": "In 2014 the American Academy of Pediatrics reviewed the evidence and recommended that middle and high schools start no earlier than 8.30. At the time, fewer than one in five American secondary schools did so. The consequences of early starts accumulate: students who sleep six hours a night for a term show poorer attention, weaker memory for what they have just read, and more symptoms of depression than those who sleep eight."
+            },
+            {
+              "label": "C",
+              "text": "The most cited natural experiment took place in Seattle, where the district moved high-school start times from 7.50 to 8.45 in 2016. Researchers from the University of Washington measured students' sleep before and after the change using wrist monitors. Average sleep rose by 34 minutes, and the share of students getting at least eight hours rose from 27 to 57 per cent. Grades in the affected classes improved by about 4.5 per cent, and attendance rose."
+            },
+            {
+              "label": "D",
+              "text": "Why, then, do so few districts follow? The obstacles are practical rather than scientific. Buses are the main one: a district with a single fleet must run three routes in sequence, and moving the oldest students later pushes the youngest ones earlier. Sports schedules, parents' working hours, after-school jobs and the cost of renegotiating transport contracts all pull in the same direction. Change usually requires a superintendent willing to spend political capital on an argument that will not pay off for years."
+            },
+            {
+              "label": "E",
+              "text": "Economists have tried to put a price on the delay. A RAND analysis in 2017 projected that a nationwide move to 8.30 would generate about 83 billion dollars of economic benefit over fifteen years, mainly through higher graduation rates and lifetime earnings, against costs of roughly 9 billion. The calculation is crude, and it ignores students who would simply stay up later. But it makes an uncomfortable point: the schools that start earliest often serve the poorest families, whose children have the least room to absorb the cost of lost sleep."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What happens to the body clock at puberty?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It needs more hours of sleep than before."
+                },
+                {
+                  "key": "B",
+                  "text": "It shifts later by about two hours."
+                },
+                {
+                  "key": "C",
+                  "text": "It stops responding to daylight."
+                },
+                {
+                  "key": "D",
+                  "text": "It becomes weaker during the school term."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段第二句：青春期生物钟推迟约两小时，褪黑素晚上分泌更晚，大脑到早上八点后仍处于「夜间模式」。A 项是常见误解，原文说的是时相推迟而非总时长增加。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the body clock shifts later by roughly two hours"
+            },
+            {
+              "number": 47,
+              "stem": "What did the American Academy of Pediatrics recommend?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Starting secondary school no earlier than 8.30."
+                },
+                {
+                  "key": "B",
+                  "text": "Cutting homework to protect sleep."
+                },
+                {
+                  "key": "C",
+                  "text": "Teaching students about sleep hygiene."
+                },
+                {
+                  "key": "D",
+                  "text": "Delaying the start of primary school."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段首句：2014 年美国儿科学会建议初中与高中上课不早于 8:30；当时做到的学校不足五分之一。B、C 原文未提；D 张冠李戴，建议针对 middle and high schools。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "start no earlier than 8.30"
+            },
+            {
+              "number": 48,
+              "stem": "What did the Seattle study measure?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Teachers' opinions of the new timetable."
+                },
+                {
+                  "key": "B",
+                  "text": "The cost of changing bus routes."
+                },
+                {
+                  "key": "C",
+                  "text": "Students' sleep and its effects on school performance."
+                },
+                {
+                  "key": "D",
+                  "text": "The number of students arriving late."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：研究者用腕表监测改点前后的睡眠，平均多睡 34 分钟，至少睡够八小时的比例从 27% 升到 57%，成绩提高约 4.5%，出勤率也上升——即同时测了睡眠与学业表现。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "Average sleep rose by 34 minutes"
+            },
+            {
+              "number": 49,
+              "stem": "What is the main practical obstacle to later start times?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Lack of scientific evidence."
+                },
+                {
+                  "key": "B",
+                  "text": "Resistance from students."
+                },
+                {
+                  "key": "C",
+                  "text": "The way school bus routes are organised."
+                },
+                {
+                  "key": "D",
+                  "text": "A shortage of qualified teachers."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段：障碍是现实而非科学问题，「主要一个是校车」——一支车队要依次跑三条线路，把高年级推后就只能把低年级提前。A 与原文「obstacles are practical rather than scientific」相反。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "Buses are the main one"
+            },
+            {
+              "number": 50,
+              "stem": "What does the RAND analysis suggest?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The economic benefits would far exceed the costs."
+                },
+                {
+                  "key": "B",
+                  "text": "Later starts would cost more than they return."
+                },
+                {
+                  "key": "C",
+                  "text": "Only wealthy districts can afford the change."
+                },
+                {
+                  "key": "D",
+                  "text": "Sleep has no measurable effect on earnings."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：兰德 2017 年测算，全国改到 8:30 十五年可带来约 830 亿美元收益，成本约 90 亿，收益远大于成本；B、D 与数字相反，C 与末句「最早开学的往往服务最贫困家庭」矛盾。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "83 billion dollars of economic benefit"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In February 2020 the Smithsonian Institution released 2.8 million images into the public domain, free for anyone to download, remix or sell. Other museums had already moved in the same direction: the Rijksmuseum in Amsterdam has published high-resolution photographs of its collection since 2013, and the Metropolitan Museum of Art in New York follows a similar policy for works no longer in copyright. The reasoning is not charity. A painting that nobody can see earns nothing; a painting that appears on a tea towel, a textbook and a thousand lecture slides earns attention."
+            },
+            {
+              "label": "B",
+              "text": "Digitisation is expensive and slower than it looks. A single object may need dozens of photographs, colour checks against a standard chart, and a written record that a curator is willing to defend. Institutions typically manage a few per cent of their holdings each year. Storage and cataloguing cost more than the cameras. The result is that the online collection of a great museum is usually a small, uneven sample, weighted towards famous objects and flat things that photograph well."
+            },
+            {
+              "label": "C",
+              "text": "Critics feared that virtual visits would replace real ones. The evidence so far points the other way. Surveys of museum visitors repeatedly find that people who browse a collection online are more, not less, likely to visit in person, and that websites are used mostly for planning a trip and for following up after it. What digital access does change is the balance of knowledge: a student in another country can now study an object that was previously available only to those who could travel."
+            },
+            {
+              "label": "D",
+              "text": "There is also a harder question about ownership. Photographs of objects held in European museums are increasingly requested by the countries they came from, and a high-quality image has become part of the argument about return. If an object cannot go home, an accurate digital record at least allows scholars there to study it. Several museums have gone further, sending 3D scans so that replicas can be printed and examined locally."
+            },
+            {
+              "label": "E",
+              "text": "The risk is that digital access becomes an excuse. A government that cuts a museum's budget may claim that the collection is 'available online', as though a photograph were the same as a room, a guide and a quiet hour in front of a painting. The institutions that have managed this well treat the website as an addition to the building rather than a substitute for it, and they publish what they cannot show instead of what is easiest to photograph."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why did museums release images free of charge?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To attract attention and visitors."
+                },
+                {
+                  "key": "B",
+                  "text": "Because the law required them to."
+                },
+                {
+                  "key": "C",
+                  "text": "To sell more gifts in their shops."
+                },
+                {
+                  "key": "D",
+                  "text": "Because the images had little value."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末：动机不是慈善——「没人看得见的画不产生收益，出现在毛巾、课本和上千张课件上的画带来关注」。B 原文说免费开放是自愿；C 只是副产品；D 与「高清图像」的价值相反。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "earns attention"
+            },
+            {
+              "number": 52,
+              "stem": "Why is a museum's online collection an uneven sample?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Curators refuse to share popular works."
+                },
+                {
+                  "key": "B",
+                  "text": "Digitisation is slow and favours objects that photograph well."
+                },
+                {
+                  "key": "C",
+                  "text": "Most objects are too damaged to be shown."
+                },
+                {
+                  "key": "D",
+                  "text": "Visitors only search for famous paintings."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：每件藏品需数十张照片、色卡校准和策展人认可的著录，机构每年只能处理馆藏的百分之几，且偏向名品与易拍的平面物件，所以样本又小又不均。A、C 原文未提；D 把「网站内容偏向」误当成「访客搜索偏好」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "weighted towards famous objects and flat things"
+            },
+            {
+              "number": 53,
+              "stem": "What have surveys found about people who browse collections online?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They lose interest in seeing the real thing."
+                },
+                {
+                  "key": "B",
+                  "text": "They are more likely to visit in person."
+                },
+                {
+                  "key": "C",
+                  "text": "They rarely return to the website."
+                },
+                {
+                  "key": "D",
+                  "text": "They spend less in museum shops."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：批评者担心线上会替代线下，但调查反复发现线上浏览者「更可能」实地参观，网站多用于出行前规划和参观后延伸。A 与原文相反。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "more, not less, likely to visit in person"
+            },
+            {
+              "number": 54,
+              "stem": "What benefit of digital records is mentioned in paragraph D?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They settle legal disputes over ownership."
+                },
+                {
+                  "key": "B",
+                  "text": "They allow scholars abroad to study objects they cannot see."
+                },
+                {
+                  "key": "C",
+                  "text": "They make it unnecessary to return objects."
+                },
+                {
+                  "key": "D",
+                  "text": "They increase the market price of antiquities."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：如果文物无法回归，精确的数字记录至少能让来源国的学者研究它；一些博物馆还提供 3D 扫描，便于在当地打印复制品。A 原文只说图像成为「关于归还的争论」的一部分，并未说解决法律纠纷；C 与「归还」议题相反。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "allows scholars there to study it"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author warn against in the last paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Publishing too many photographs of poor quality."
+                },
+                {
+                  "key": "B",
+                  "text": "Letting online access justify cuts to museums."
+                },
+                {
+                  "key": "C",
+                  "text": "Charging visitors for entry to exhibitions."
+                },
+                {
+                  "key": "D",
+                  "text": "Cooperation between museums in different countries."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：风险在于数字开放变成借口——削减预算的政府会说藏品「网上都有」，好像照片等于展厅、导览和站在画前的安静一小时。作者主张把网站当作建筑的补充而非替代。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "digital access becomes an excuse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国人饮茶的历史可以追溯到两千多年前。茶最初被当作药材，后来逐渐成为日常饮品。唐代以后，饮茶之风遍及全国，茶叶也沿着商路销往海外。今天，中国各地都有自己偏爱的茶：北方人爱喝花茶，江浙一带偏爱绿茶，福建和广东则盛行乌龙茶。对许多中国人来说，泡一壶茶不只是解渴，也是待客和静心的一种方式。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe history of tea drinking in China can be traced back more than two thousand years. Tea was first used as a medicine and only gradually became an everyday drink. After the Tang Dynasty, the habit of drinking tea spread across the country, and tea leaves were carried along trade routes to overseas markets. Today each part of China has its own preferred tea: people in the north favour scented tea, those in the Jiangsu-Zhejiang area prefer green tea, while oolong is popular in Fujian and Guangdong. For many Chinese people, making a pot of tea is not merely a way to quench thirst but also a way of welcoming guests and calming the mind.\n\n【要点】①「可以追溯到」用 can be traced back to；②「被当作药材」用被动 was used as a medicine；③「饮茶之风遍及全国」宜意译，用 the habit of drinking tea spread across the country；④「北方人爱喝花茶……偏爱绿茶……盛行乌龙茶」三处并列，注意换用 favour / prefer / be popular 避免重复；⑤「不只是……也是……」用 not merely… but also…。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "id": "cet6-2026-06-s2",
+  "level": "CET6",
+  "year": 2026,
+  "month": 6,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on why knowing when to stop matters as much as knowing how to begin. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nThe Discipline of Stopping\n\nWe are taught to admire persistence: the founder who refuses to quit, the student who sits the examination a second time. The story is told so often that quitting has come to look like a flaw of character. It is not. Persistence is a virtue only while the evidence still supports it.\n\nEffort is visible and abandonment is not. A year spent on a failing project can be counted; the year that was never spent cannot. Economists call the resulting trap sunk cost—money already gone, which no rational decision can recover. But the trap is emotional before it is arithmetical: to stop is to admit that an earlier judgement was wrong, and most of us would rather be consistent than correct.\n\nStopping well, however, is a skill rather than a surrender. It means deciding in advance what would count as failure, and then trusting that judgement when the moment arrives. Serious institutions do this routinely; they end projects on evidence, not on mood.\n\nThe person who can stop is not the one without commitment. She is committed to the goal rather than to the method—and that is a harder loyalty to sustain.\n\n（约 187 词）\n\n【思路提示】①先立靶：把「坚持」从美德降为有条件的策略；②解释人们为何停不下来（沉没成本 + 认错的社交代价），这是全文的论证重心；③给出可操作的标准（事先定义失败），把话题从品格转到方法；④结尾反转「放弃＝不忠诚」，落到对目标的忠诚，避免三段式套话。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "There is a quiet absurdity at the centre of the modern economy. A washing machine that cost a month's wages can be 26______ worthless by a plastic clip costing pennies, because the clip is sealed inside a drum that no owner is permitted to open. Manufacturers defend the design on grounds of safety and intellectual property. Critics reply that it protects something far more 27______: the market for replacements. If a device cannot be mended it must be replaced, and the 28______ on that replacement is the manufacturer's reward for making repair impossible."
+            },
+            {
+              "label": "B",
+              "text": "Legislators have begun to respond. The European Union now obliges makers of household appliances to supply spare parts for up to a decade and to publish repair manuals, and several American states have passed similar bills, though the versions that survive lobbying are usually 29______ than the versions that were introduced. The pattern is familiar. A right that is 30______ in principle can be emptied in practice by a clause about 'authorised service providers', and few consumers have the time or the expertise to 31______ the difference."
+            },
+            {
+              "label": "C",
+              "text": "Yet the deepest obstacle is not legal but economic. Repair is labour-intensive, and labour is expensive; a new device is cheap because its cost is borne by distant factories and by supply chains the buyer never sees. When a repair costs half the price of a replacement, the 32______ course is to buy new, even for a household that believes in thrift. Campaigners therefore insist that the movement is not really about screwdrivers. It is about 33______—who decides how long a product may live, and who bears the 34______ when it dies. Framed that way, the argument 35______ the familiar division between left and right, since it appeals at once to the rights of owners and to the duty of a society to waste less."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "reluctant"
+                },
+                {
+                  "key": "B",
+                  "text": "rendered"
+                },
+                {
+                  "key": "C",
+                  "text": "duplicate"
+                },
+                {
+                  "key": "D",
+                  "text": "credible"
+                }
+              ],
+              "answer": "B",
+              "analysis": "render + 宾语 + 形容词表示「使……变得」，render sth worthless 即「使某物一文不值」。本句说一个几便士的塑料卡扣就能让整台洗衣机报废，正是全文要批评的荒谬之处。restrict 只表示「限制」，不能带形容词作补语。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "can be ______ worthless by a plastic clip"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "abundant"
+                },
+                {
+                  "key": "B",
+                  "text": "deliberate"
+                },
+                {
+                  "key": "C",
+                  "text": "incentive"
+                },
+                {
+                  "key": "D",
+                  "text": "lucrative"
+                }
+              ],
+              "answer": "D",
+              "analysis": "冒号后的 the market for replacements 是对前面名词的解释，说明厂商真正保护的是「更有利可图的」东西；far more lucrative 与 safety、intellectual property 这些冠冕说辞形成反差。abundant 是「充足的」，与利润无关。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "the market for replacements"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "margin"
+                },
+                {
+                  "key": "B",
+                  "text": "duplicate"
+                },
+                {
+                  "key": "C",
+                  "text": "abundant"
+                },
+                {
+                  "key": "D",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "A",
+              "analysis": "margin 在商业语境中指「利润、利润率」，the margin on a replacement 即「更换件上的利润空间」，与句末 reward 呼应。注意 margin 也可指页边距，此处由 on that replacement 限定为利润义。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "is the manufacturer's reward"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "deliberate"
+                },
+                {
+                  "key": "B",
+                  "text": "abundant"
+                },
+                {
+                  "key": "C",
+                  "text": "diluted"
+                },
+                {
+                  "key": "D",
+                  "text": "credible"
+                }
+              ],
+              "answer": "C",
+              "analysis": "though 引导让步，比较「通过游说后留下来的版本」与「最初提出的版本」：前者通常被削弱、掺水，diluted 本义「稀释」，引申为「（效力）被削弱」，比 weak 更精确。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "than the versions that were introduced"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "credible"
+                },
+                {
+                  "key": "B",
+                  "text": "guaranteed"
+                },
+                {
+                  "key": "C",
+                  "text": "duplicate"
+                },
+                {
+                  "key": "D",
+                  "text": "deliberate"
+                }
+              ],
+              "answer": "B",
+              "analysis": "in principle … in practice 是英文论证中的固定对举，空格处需要与「在实践中被掏空」相对的正面词，guaranteed「（法律上）得到保障的」最贴切。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "in principle … emptied in practice"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "abundant"
+                },
+                {
+                  "key": "B",
+                  "text": "credible"
+                },
+                {
+                  "key": "C",
+                  "text": "discern"
+                },
+                {
+                  "key": "D",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "C",
+              "analysis": "discern the difference 意为「分辨出差别」。前半句 the time or the expertise 已经提示所需的是时间与专业判断力，因此动词应表示辨识而非「避免」「拒绝」。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "the time or the expertise"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "sensible"
+                },
+                {
+                  "key": "B",
+                  "text": "incentive"
+                },
+                {
+                  "key": "C",
+                  "text": "abundant"
+                },
+                {
+                  "key": "D",
+                  "text": "deliberate"
+                }
+              ],
+              "answer": "A",
+              "analysis": "上句说修理费高达新机价格的一半，故「买新的」是「明智的、合算的」选择；even for a household that believes in thrift 进一步强调这不是浪费，而是理性算计。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "even for a household that believes in thrift"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "incentive"
+                },
+                {
+                  "key": "B",
+                  "text": "reluctant"
+                },
+                {
+                  "key": "C",
+                  "text": "duplicate"
+                },
+                {
+                  "key": "D",
+                  "text": "ownership"
+                }
+              ],
+              "answer": "D",
+              "analysis": "破折号后的 who decides how long a product may live 解释的正是所有权问题：买下一件东西，是否也包括决定其寿命的权利。incentive 是「激励」，无法涵盖「谁来决定」。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "who decides how long a product may live"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "incentive"
+                },
+                {
+                  "key": "B",
+                  "text": "burden"
+                },
+                {
+                  "key": "C",
+                  "text": "reluctant"
+                },
+                {
+                  "key": "D",
+                  "text": "credible"
+                }
+              ],
+              "answer": "B",
+              "analysis": "bear the burden 是固定搭配「承担负担」；此处指产品报废之后，电子垃圾与资源消耗的代价最终由谁承受，与前半句的 who decides 构成一组对照。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "who bears the ______ when it dies"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "deliberate"
+                },
+                {
+                  "key": "B",
+                  "text": "incentive"
+                },
+                {
+                  "key": "C",
+                  "text": "transcends"
+                },
+                {
+                  "key": "D",
+                  "text": "duplicate"
+                }
+              ],
+              "answer": "C",
+              "analysis": "transcend 意为「超越、不受……限制」，transcend the division between left and right 即「超越左右分野」；后半句 since it appeals at once to…and to… 说明它同时吸引两个阵营，故必须是一个表示「跨越」的动词。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "it appeals at once to the rights of owners and to the duty of a society"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In July 2022 a twenty-four-year-old engineer in New York posted a short video explaining that he had stopped going beyond his job description. He called it quiet quitting. The clip was watched millions of times, and within a month the phrase appeared in newspapers on three continents. What he described was not resignation. He still turned up, still did the work he was paid for, and simply declined the extra hour, the weekend message and the project nobody had asked him to take on."
+            },
+            {
+              "label": "B",
+              "text": "The behaviour was not new, and neither was the impulse to name it. An American economist used the phrase in 2009 to describe employees who had given up on advancement while remaining in their posts, and the older literature called the same thing a withdrawal of discretionary effort: the gap between the minimum a contract can enforce and what a willing worker adds. Read that way, the phenomenon looks less like a generational revolt than a response to a bargain that has stopped paying. If extra effort brings no promotion, no security and no thanks, a sensible person stops supplying it. The mistake commentators made in 2022 was to hear laziness where the employees were describing arithmetic."
+            },
+            {
+              "label": "C",
+              "text": "Measuring the thing is harder than arguing about it. The standard instrument is an annual survey that sorts staff into engaged, not engaged and actively disengaged; Gallup put the global figures for 2023 at 23, 59 and 18 per cent. Such numbers work as a headline and mislead as a management tool, because engagement is decided team by team, largely by the person immediately above. A company can report a healthy average while one department quietly comes apart, and a survey taken once a year and reported three months later will not say so in time to act."
+            },
+            {
+              "label": "D",
+              "text": "When a team does disengage, managers reach first for explanations of character. Younger staff are said to lack resilience; one particular hire is said to have a bad attitude. Psychologists call this the fundamental attribution error: we explain other people's conduct by what they are like and our own by the situation we are in. The bias is expensive, because it recommends remedies aimed at attitudes, a resilience workshop or a pizza lunch, when the causes are usually structural: an expectation nobody wrote down, a promotion that went elsewhere without explanation, a process that makes good work impossible. Treat the symptom as a flaw of character and the condition survives treatment."
+            },
+            {
+              "label": "E",
+              "text": "For younger employees the argument is often about boundaries rather than effort. Having watched working from home dissolve the line between the office and the evening, they are less willing to accept that availability is unlimited and more willing to trade income for time. Many say they would refuse a promotion that required being reachable at weekends. A manager who reads this as disloyalty misses the offer inside it: these are people stating, in advance and in plain language, the conditions under which they will stay and work well. A boundary that is spoken is easier to manage than one that is silently resented."
+            },
+            {
+              "label": "F",
+              "text": "The cost of getting this wrong is usually counted in the wrong place. Replacing a leaver is expensive, what with recruitment, training and the months before a new person is useful, and the figure commonly cited is between half and twice the annual salary. But the quiet quitter rarely leaves. He or she stays for years, delivering competent work and no more, while colleagues absorb the difference and eventually conclude that extra effort is for other people. That slow leakage is harder to see than a resignation and harder to price, which is why the annual budget ignores it."
+            },
+            {
+              "label": "G",
+              "text": "What actually shifts the number is unglamorous and local. Analyses of engagement data repeatedly find that the quality of immediate supervision explains more variation than pay, perks or mission statements. The practices that move it are small: a weekly conversation of fifteen minutes in which a manager asks what is blocking the work; expectations written down so that a person knows what good looks like; credit given in public when it has been earned. None of this needs a programme, and all of it is undone by treating engagement as a target, since a score that determines a manager's bonus will be improved at the expense of the thing it measures."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "National averages conceal the fact that commitment varies from team to team.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：敬业度是「decided team by team」，主要由直接上级决定；公司平均分健康，某个部门却可能正在瓦解。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "engagement is decided team by team"
+            },
+            {
+              "number": 37,
+              "stem": "A single online post turned conduct that was already ordinary into a talking point within weeks.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：2022 年 7 月纽约一名年轻工程师发短视频说自己不再做职责之外的事，一个月内这个说法就上了三大洲的报纸——传播之快正是题干所说。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "within a month the phrase appeared in newspapers on three continents"
+            },
+            {
+              "number": 38,
+              "stem": "Explanations of character are preferred to explanations of circumstance.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：管理者先归因于人品——年轻人「缺乏韧性」、某人「态度不好」；心理学称之为基本归因错误，即用性格解释别人、用处境解释自己。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "we explain other people's conduct by what they are like"
+            },
+            {
+              "number": 39,
+              "stem": "Commentators mistook a calculation about rewards for idleness.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：若额外付出换不来晋升、保障与认可，理性的人就不再供给；2022 年的评论者正是「把算账听成了懒惰」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "to hear laziness where the employees were describing arithmetic"
+            },
+            {
+              "number": 40,
+              "stem": "Supervision, not pay or mission, accounts for most of the difference.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：敬业度数据分析反复发现，直接上级的质量比薪酬、福利、使命宣言解释的差异更多。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "explains more variation than pay, perks or mission statements"
+            },
+            {
+              "number": 41,
+              "stem": "Those who adopted the label had not left their jobs.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：他「still turned up, still did the work he was paid for」，只是拒绝加班与额外项目，即仍在职，不是辞职。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "still turned up, still did the work he was paid for"
+            },
+            {
+              "number": 42,
+              "stem": "Refusing to be always available is a statement of terms rather than a rejection of work.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：年轻员工把边界说在前面，等于提前讲明「在什么条件下愿意留下并好好干」；作者认为这说明的是条件，不是不忠。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "the conditions under which they will stay and work well"
+            },
+            {
+              "number": 43,
+              "stem": "The usual survey is too slow and too coarse to warn a manager in time.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：一年一次、三个月后才出报告的调查，等它发现问题已经来不及行动（will not say so in time to act）。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "reported three months later will not say so in time to act"
+            },
+            {
+              "number": 44,
+              "stem": "The expense of keeping an uncommitted employee is harder to see than the expense of losing one.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：招人成本有市价（年薪的一半到两倍），但「quiet quitter 很少真的走」，长期低投入的渗漏更难看见、更难标价，所以预算里被忽略。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "harder to see than a resignation and harder to price"
+            },
+            {
+              "number": 45,
+              "stem": "Remedies address feelings while the causes remain in how work is arranged.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：因为归因错了，对策就落在态度上（韧性培训、披萨午餐），而真正的原因「usually structural」——没写下来的期望、说不清的晋升、做不成事的流程。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "when the causes are usually structural"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A screening programme rests on an intuition almost too simple to question: find the disease early and the patient lives longer. For some cancers the intuition holds. For others it produces a peculiar result—more diagnoses, more surgery, more anxiety, and no change in the number of people who die of the disease. The Korean experience with thyroid cancer is the clearest case. Before ultrasound screening became common in the late 1990s, a few hundred cases were found each year. By 2011 the figure had risen roughly fifteenfold. Deaths from thyroid cancer stayed where they were."
+            },
+            {
+              "label": "B",
+              "text": "The mechanism is not mysterious. A more sensitive test finds smaller abnormalities, and some of those would never have grown enough to trouble their host. The patient is treated anyway, because no one can say which small cancers are dangerous and which are merely idle. The result is a diagnosis that is technically correct and clinically unnecessary; epidemiologists call it overdiagnosis, and it is the one harm of screening that no consent form mentions."
+            },
+            {
+              "label": "C",
+              "text": "Quantifying it is hard, which is convenient for those who would rather not. The standard method compares the rise in diagnoses with the change in mortality; when the first climbs and the second does not, the gap is taken as a reasonable estimate of overdiagnosis. On that basis researchers have argued that a substantial share of screen-detected breast and prostate cancers in wealthy countries would never have caused symptoms. The estimate is contested, and the contest is not only statistical."
+            },
+            {
+              "label": "D",
+              "text": "Defenders reply, fairly, that mortality is a blunt instrument: a death postponed by twenty years is still a death postponed, and trials take decades to demonstrate it. They add that the alternative to screening is not neutral—a late diagnosis is a brutal way to learn that a tumour has spread. And the benefits and the harms fall on different people: the woman whose cancer was caught in time never learns that she was saved, while the one who was over-treated knows exactly what was done to her."
+            },
+            {
+              "label": "E",
+              "text": "Why, then, does the practice persist? Partly because the machinery is already installed: a scanner bought, a programme staffed, a professional body whose guidelines assume that detection is good. Partly because the incentives are asymmetric. A doctor who misses a cancer may be sued; a doctor who treats a cancer that never needed treating is never called to account. And partly because 'we found it early' is a sentence by which no politician has ever lost an election."
+            },
+            {
+              "label": "F",
+              "text": "The remedies are unglamorous: rename 'cancer' for lesions that behave like indolence, as some pathologists now propose; give patients the numbers rather than the reassurance; and accept that a test which cannot distinguish the dangerous from the harmless creates as much fear as it removes. None of this is an argument against screening. It is an argument against describing screening as though it had only one effect."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the Korean experience demonstrate about thyroid cancer screening?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It benefited young patients most."
+                },
+                {
+                  "key": "B",
+                  "text": "It lowered mortality at a considerable cost."
+                },
+                {
+                  "key": "C",
+                  "text": "It generated far more cases without reducing deaths."
+                },
+                {
+                  "key": "D",
+                  "text": "It was abandoned after public criticism."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段末三句给出数据对比：病例数增长约十五倍，而 Deaths from thyroid cancer stayed where they were。「死亡率随之下降」与原文相反；「试验因公众批评被叫停」「年轻患者获益最大」原文完全未提，属于凭空添加。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "Deaths from thyroid cancer stayed where they were"
+            },
+            {
+              "number": 47,
+              "stem": "The phrase 'technically correct and clinically unnecessary' suggests that the diagnosis",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "named a real abnormality that would not have harmed the patient."
+                },
+                {
+                  "key": "B",
+                  "text": "was made without the patient's consent."
+                },
+                {
+                  "key": "C",
+                  "text": "underestimated the size of the tumour."
+                },
+                {
+                  "key": "D",
+                  "text": "rested on a misreading of the scan."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段说更敏感的检查发现了更小的异常，其中一些「would never have grown enough to trouble their host」，即诊断本身没错（技术上是真病变），但对病人毫无临床意义。「误读扫描图像」「低估肿瘤大小」都与「更敏感的检查、技术上属真病变」相矛盾。",
+              "type": "词句含义题",
+              "evidencePara": "B",
+              "evidenceText": "would never have grown enough to trouble their host"
+            },
+            {
+              "number": 48,
+              "stem": "What does the author imply about the standard method of estimating overdiagnosis?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has been discredited by recent trials."
+                },
+                {
+                  "key": "B",
+                  "text": "It is the only measure epidemiologists trust."
+                },
+                {
+                  "key": "C",
+                  "text": "It systematically exaggerates the benefits of screening."
+                },
+                {
+                  "key": "D",
+                  "text": "It yields a defensible figure whose reading is not purely technical."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段称该方法是 a reasonable estimate，但随即说 The estimate is contested, and the contest is not only statistical——「争的不只是统计问题」，暗示背后还有立场与利益，故「可辩护的估计、但解读并非纯技术问题」最贴合；「唯一被信任的指标」过度，「已被试验推翻」又与 reasonable 直接矛盾。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "The estimate is contested, and the contest is not only statistical"
+            },
+            {
+              "number": 49,
+              "stem": "How does the author treat the defenders of screening in the fourth paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He dismisses their arguments as self-interested."
+                },
+                {
+                  "key": "B",
+                  "text": "He concedes that their objections have real force."
+                },
+                {
+                  "key": "C",
+                  "text": "He shows that their evidence was invented."
+                },
+                {
+                  "key": "D",
+                  "text": "He agrees that screening should be withdrawn."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段以 Defenders reply, fairly, that… 开头，副词 fairly 明确表示作者认为对方有理；随后「They add that…」继续让步。这是「先承认对方最强论点，再限定结论」的典型学术笔法，而非全盘否定。",
+              "type": "态度题",
+              "evidencePara": "D",
+              "evidenceText": "Defenders reply, fairly, that mortality is a blunt instrument"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's attitude towards screening itself?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He believes it has no measurable benefit."
+                },
+                {
+                  "key": "B",
+                  "text": "He is indifferent to whether it continues."
+                },
+                {
+                  "key": "C",
+                  "text": "He objects to the way it is justified rather than to its use."
+                },
+                {
+                  "key": "D",
+                  "text": "He wants it abolished."
+                }
+              ],
+              "answer": "C",
+              "analysis": "F 段明言 None of this is an argument against screening. It is an argument against describing screening as though it had only one effect. 作者反对的是「早发现必然有益」的单效叙事与相关激励，而非筛查本身。",
+              "type": "态度题",
+              "evidencePara": "F",
+              "evidenceText": "None of this is an argument against screening"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2016 Carlos Moreno, a professor at the Sorbonne, gave a name to an old idea. A city, he argued, should be arranged so that a resident can reach the things that make up a life—a school, a surgery, a shop, a park, a place to work—within fifteen minutes on foot or by bicycle. The '15-minute city' was taken up by Anne Hidalgo in her 2020 campaign for the mayoralty of Paris, endorsed by the C40 network of mayors, and within four years had become one of the most quoted and least understood ideas in urban policy."
+            },
+            {
+              "label": "B",
+              "text": "What the phrase describes is mostly a reallocation of street space. A school street closed to cars at drop-off; a cycle lane protected by a kerb; a car park turned into a small square; a planning rule that lets a bakery open in a residential block. None of these policies is new, and none requires a resident to stay in one district. Fifteen minutes is a measurement of accessibility, not a boundary: the aim is to make the nearby adequate, not to make the distant forbidden."
+            },
+            {
+              "label": "C",
+              "text": "The backlash has been louder than the policy. In Oxford, traffic filters intended to cut through-traffic in the centre were met with claims that residents would be confined to their districts and that the scheme amounted to a 'climate lockdown'. Cameras were vandalised; a councillor received threats. Similar rumours travelled through other European cities. The episode is instructive: a technical measure to reduce congestion was received as an assault on personal liberty, and the correction, once made, was heard by almost nobody."
+            },
+            {
+              "label": "D",
+              "text": "There are, however, objections that deserve better than ridicule. Consultation is often thin, and a scheme drafted in a council office can make life harder for a plumber whose van carries tools, for a carer who crosses three districts a day, or for a disabled resident for whom a bicycle is not an option. Outer suburbs built at low density cannot support a fifteen-minute life, however well the pavements are painted. And improving a district tends to raise its rents, so the people who most need a walkable neighbourhood are the ones moved out by it."
+            },
+            {
+              "label": "E",
+              "text": "The evidence, too, is more modest than the rhetoric. Studies of proximity find that residents of dense, mixed neighbourhoods drive less, but they struggle to separate the effect of the neighbourhood from the people who choose it: someone who wants to walk everywhere is likely to move to a place where walking is possible. Evaluations of the Paris schemes are recent, local, and often written by the authorities that commissioned them. The mechanism is plausible; the magnitude is not yet established."
+            },
+            {
+              "label": "F",
+              "text": "None of this makes the idea worthless. As a diagnostic it is useful: ask of any neighbourhood what a resident cannot reach without a car, and the answer will usually be a list of failures that nobody had thought to count. As a template it is dangerous, because a template invites a city to copy a map instead of studying itself. The real argument is therefore not about fifteen minutes. It is about who is consulted, who pays for the improvement, and who is allowed to remain when it arrives."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the 15-minute city actually propose, according to the author?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That cities should be rebuilt at higher density everywhere."
+                },
+                {
+                  "key": "B",
+                  "text": "That private cars should be banned from city centres."
+                },
+                {
+                  "key": "C",
+                  "text": "That residents should be legally confined to their districts."
+                },
+                {
+                  "key": "D",
+                  "text": "That daily needs should be reachable without a car."
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段明确界定：Fifteen minutes is a measurement of accessibility, not a boundary；目标是让「附近」够用，而不是禁止远行。「居民被法律限制在所在街区」正是后文被作者斥为谣言的说法；「全城高密度重建」「市中心全面禁车」都把局部措施夸大为全面禁令。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "a measurement of accessibility, not a boundary"
+            },
+            {
+              "number": 52,
+              "stem": "The author suggests that the Oxford backlash was",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "a response to a genuine loss of freedom."
+                },
+                {
+                  "key": "B",
+                  "text": "a misreading of a modest traffic measure."
+                },
+                {
+                  "key": "C",
+                  "text": "organised by rival political parties."
+                },
+                {
+                  "key": "D",
+                  "text": "a reasonable protest against poor consultation."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段把事件定性为「a technical measure to reduce congestion was received as an assault on personal liberty」，即技术性措施被误读为对自由的侵犯；且更正「was heard by almost nobody」。「对咨询不足的合理抗议」张冠李戴——咨询不足是 D 段对另一些方案的批评，不是牛津事件的原因。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "received as an assault on personal liberty"
+            },
+            {
+              "number": 53,
+              "stem": "Which objection does the author treat as legitimate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That improvements may price out the residents who need them."
+                },
+                {
+                  "key": "B",
+                  "text": "That mayors have no legal power over street space."
+                },
+                {
+                  "key": "C",
+                  "text": "That the scheme is a form of climate lockdown."
+                },
+                {
+                  "key": "D",
+                  "text": "That cycling is being made compulsory."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段末：改善一个街区往往推高租金，结果「最需要宜步行街区的人反而被挤走」，即绿色绅士化。「气候封锁」「强制骑车」是 C 段所记的谣言；「市长无权管理街道」原文未涉及。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "the people who most need a walkable neighbourhood are the ones moved out by it"
+            },
+            {
+              "number": 54,
+              "stem": "The remark that researchers 'struggle to separate the effect of the neighbourhood from the people who choose it' means that they cannot easily tell",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "why some districts have become denser."
+                },
+                {
+                  "key": "B",
+                  "text": "which neighbourhoods were studied."
+                },
+                {
+                  "key": "C",
+                  "text": "whether lower car use is caused by the place or by who lives there."
+                },
+                {
+                  "key": "D",
+                  "text": "how many residents own bicycles."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段随即解释：想随处步行的人，本来就会搬到能步行的地方（self-selection）。因此难以区分「环境使人少开车」与「少开车的人选择了这种环境」，这是观察性研究中的自选择偏倚。",
+              "type": "词句含义题",
+              "evidencePara": "E",
+              "evidenceText": "someone who wants to walk everywhere is likely to move to a place where walking is possible"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's overall assessment of the concept?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is scientifically proven and should be adopted everywhere."
+                },
+                {
+                  "key": "B",
+                  "text": "It is an elitist idea with no practical use."
+                },
+                {
+                  "key": "C",
+                  "text": "It is a slogan whose popularity will soon fade."
+                },
+                {
+                  "key": "D",
+                  "text": "It is valuable as a way of asking questions but unsafe as a model to copy."
+                }
+              ],
+              "answer": "D",
+              "analysis": "F 段：As a diagnostic it is useful… As a template it is dangerous。作者肯定其「诊断」功能（找出居民离不开车的短板），但反对把地图当模板照搬，并指出真正的争点在咨询、成本与谁有资格留下。",
+              "type": "态度题",
+              "evidencePara": "F",
+              "evidenceText": "As a diagnostic it is useful … As a template it is dangerous"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国高铁网是世界上规模最大的高速铁路网络，运营里程超过四万公里，连接了绝大多数百万人口以上的城市。高铁把京沪之间的旅行时间从十几个小时缩短到四个多小时，人们可以当天往返，沿线中小城市也因此获得新的发展机会。铁路部门推出电子客票和刷脸进站，购票乘车都比过去便捷。高铁建设还带动了轨道、车辆、通信等产业，成为中国制造的一张名片。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChina's high-speed rail network is the largest in the world, with more than 40,000 kilometres of track in operation, and it connects the great majority of cities with a population of over one million. High-speed trains have cut the journey from Beijing to Shanghai from more than ten hours to a little over four, so that people can make the round trip in a single day, and smaller cities along the lines have gained new opportunities for development. To make travel easier, the railway authorities have introduced electronic tickets and facial-recognition gates, which have made both booking and boarding far more convenient than before. The construction and operation of these lines have also boosted related industries such as track manufacturing, rolling stock and telecommunications, and the network has become a calling card for Chinese manufacturing abroad.\n\n【要点】①「运营里程超过四万公里」用 with more than 40,000 kilometres of track in operation，作伴随状语，避免另起一句；②「从十几个小时缩短到四个多小时」用 cut … from … to …；③「当天往返」译 make the round trip in a single day，比 go and come back in one day 更地道；④「电子客票和刷脸进站」用 electronic tickets and facial-recognition gates，中文动词短语宜转为英文名词；⑤「带动了……相关产业」用 boosted related industries such as…；⑥「一张名片」意译为 a calling card，不可直译为 a name card；⑦全文用现在完成时与一般现在时，叙述既成事实与持续状态。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "id": "cet6-2025-12-s1",
+  "level": "CET6",
+  "year": 2025,
+  "month": 12,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether students should specialise early or keep their studies broad. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nDepth or Breadth?\n\nEvery student is asked to choose a specialism earlier than the evidence justifies. The case for doing so is economic: skills are rewarded when they are rare, and a generalist is rarely rare. The case against is that most people discover what they are good at by accident, in a subject they never intended to study.\n\nThe two cases are treated as opposites, which is a mistake. What employers pay for is not breadth or depth as such, but the ability to combine a deep skill with a shallow knowledge of adjacent fields. A translator who understands contract law is worth more than one who does not. Neither the depth nor the breadth is sufficient alone.\n\nThe real question is therefore one of order. Depth first, because it teaches the discipline of being wrong in public and corrected by people who know more; breadth afterwards, because it is cheaper to acquire and easier to fake. Institutions that reverse the order produce graduates who can discuss everything and do nothing.\n\nSpecialise, but not so completely that nothing else can reach you.\n\n（约 186 词）\n\n【思路提示】①不写「两者都重要」的和稀泥：先把争论还原为「顺序问题」，这是本文的立论；②用译者懂合同法、工程师能读临床试验这类具体例子支撑「深度＋邻域浅知」的组合价值；③给出可辩护的理由说明为何先深后广（深度训练纠错，广度易造假），使结论有依据而非口号；④结尾一句收束，用一个反向限定（not so completely that…）避免绝对化。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Every rich economy is running the same experiment, and none of them chose it. Fertility has fallen, life expectancy has risen, and the arithmetic that follows is not 26______: fewer people of working age must support more people of retired age. Governments have responded by raising the age at which a pension can be 27______, usually in stages and usually after a review that recommends precisely what the government had already decided to do."
+            },
+            {
+              "label": "B",
+              "text": "The measure is 28______ in one respect and inadequate in another. It keeps the arithmetic from collapsing, but it treats 'working longer' as a question of dates rather than of 29______. A fifty-eight-year-old who has been 30______ out of a job in a shrinking industry does not become employable at sixty-two because a statute says so; the gap between the official retirement age and the effective one is often five years or more, and it is filled by disability benefits and by discouragement."
+            },
+            {
+              "label": "C",
+              "text": "Nor is age discrimination a 31______ concern of human-resources departments. It is measurable, and it is expensive: studies that send out identical applications bearing different birth dates 32______ a substantial penalty for applicants over fifty, and the penalty is heavier for women. What the evidence suggests is that the retirement age is a 33______ instrument being asked to do a labour-market job. The better response would be less 34______ and more specific: retraining offered before a post disappears rather than after, part-time arrangements that make a gradual exit possible, and a legal 35______ that is enforced rather than merely declared. None of this is as tidy as moving a number, which is why the number is what governments move."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "obvious"
+                },
+                {
+                  "key": "B",
+                  "text": "arbitrary"
+                },
+                {
+                  "key": "C",
+                  "text": "adequate"
+                },
+                {
+                  "key": "D",
+                  "text": "gradual"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后 fewer people … must support more people … 就是对前面「算术」的解释，说明这个推论「显而易见、不言自明」。not obvious 与后文「无人主动选择」形成呼应：这是没人投票赞成却人人面对的结果。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "fewer people of working age must support more people of retired age"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accessible"
+                },
+                {
+                  "key": "B",
+                  "text": "justify"
+                },
+                {
+                  "key": "C",
+                  "text": "claimed"
+                },
+                {
+                  "key": "D",
+                  "text": "arbitrary"
+                }
+              ],
+              "answer": "C",
+              "analysis": "claim a pension 是固定搭配「领取养老金」，the age at which a pension can be claimed 即「可以领取养老金的年龄」，也就是法定退休年龄。accessible 后接 to 表示「可获得的」，此处需要能与 pension 直接搭配的动词。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "the age at which a pension can be ______"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "arbitrary"
+                },
+                {
+                  "key": "B",
+                  "text": "necessary"
+                },
+                {
+                  "key": "C",
+                  "text": "adequate"
+                },
+                {
+                  "key": "D",
+                  "text": "gradual"
+                }
+              ],
+              "answer": "B",
+              "analysis": "in one respect … and inadequate in another 是本文的核心让步结构：先承认延迟退休「在某一层面是必要的」（防止养老金体系失衡），再指出它「在另一层面不够」。adequate 与 inadequate 语义重复，不能构成对比。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "in one respect and inadequate in another"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "decline"
+                },
+                {
+                  "key": "B",
+                  "text": "justify"
+                },
+                {
+                  "key": "C",
+                  "text": "adequate"
+                },
+                {
+                  "key": "D",
+                  "text": "capacity"
+                }
+              ],
+              "answer": "D",
+              "analysis": "a question of dates rather than of capacity：政策只改了「日期」，却没管「能力」——能否被雇用、能否胜任。下句五十八岁失业者的例子正是对 capacity 的展开说明。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "as a question of dates rather than of ______"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "forced"
+                },
+                {
+                  "key": "B",
+                  "text": "gradual"
+                },
+                {
+                  "key": "C",
+                  "text": "arbitrary"
+                },
+                {
+                  "key": "D",
+                  "text": "decline"
+                }
+              ],
+              "answer": "A",
+              "analysis": "be forced out of a job 意为「被迫失去工作」，与 in a shrinking industry（行业萎缩）逻辑一致；此处需要被动语态的过去分词，四个选项中只有 forced 能构成 be ______ out of a job。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "has been ______ out of a job in a shrinking industry"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adequate"
+                },
+                {
+                  "key": "B",
+                  "text": "arbitrary"
+                },
+                {
+                  "key": "C",
+                  "text": "gradual"
+                },
+                {
+                  "key": "D",
+                  "text": "marginal"
+                }
+              ],
+              "answer": "D",
+              "analysis": "Nor is age discrimination a marginal concern 意为「年龄歧视也不是人力资源部门可有可无的关切」；nor 承接上段的否定，marginal 与后文「可测量、代价高昂」形成反差。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "It is measurable, and it is expensive"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "decline"
+                },
+                {
+                  "key": "B",
+                  "text": "adequate"
+                },
+                {
+                  "key": "C",
+                  "text": "reveal"
+                },
+                {
+                  "key": "D",
+                  "text": "justify"
+                }
+              ],
+              "answer": "C",
+              "analysis": "此类「投递相同简历、只改出生日期」的对应实验（correspondence test）所「揭示」的是一个显著的年龄惩罚，reveal a penalty 搭配自然。justify 是「证明……正当」，与「揭示差异」的语境不符。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "identical applications bearing different birth dates"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "blunt"
+                },
+                {
+                  "key": "B",
+                  "text": "arbitrary"
+                },
+                {
+                  "key": "C",
+                  "text": "adequate"
+                },
+                {
+                  "key": "D",
+                  "text": "gradual"
+                }
+              ],
+              "answer": "A",
+              "analysis": "a blunt instrument 是固定搭配「粗笨的工具」，指法定退休年龄只有一个数字、无法区分行业与个人差异，却被用来解决复杂的劳动力市场问题。这与上句「一刀切」的批评完全一致。",
+              "type": "词句含义题",
+              "evidencePara": "C",
+              "evidenceText": "being asked to do a labour-market job"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accessible"
+                },
+                {
+                  "key": "B",
+                  "text": "sweeping"
+                },
+                {
+                  "key": "C",
+                  "text": "gradual"
+                },
+                {
+                  "key": "D",
+                  "text": "adequate"
+                }
+              ],
+              "answer": "B",
+              "analysis": "less sweeping and more specific 意为「少一些大而化之，多一些具体」；sweeping 指「笼统的、影响面过大而缺乏区分的」，与 specific 构成反义对举。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "less ______ and more specific"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accessible"
+                },
+                {
+                  "key": "B",
+                  "text": "arbitrary"
+                },
+                {
+                  "key": "C",
+                  "text": "decline"
+                },
+                {
+                  "key": "D",
+                  "text": "protection"
+                }
+              ],
+              "answer": "D",
+              "analysis": "a legal protection that is enforced rather than merely declared 即「不只是写在纸上、而是真正得到执行的法律保护」；enforced 与 declared 的对举决定了此处应填「保护」类名词。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "that is enforced rather than merely declared"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In January 2017 France added a sentence to its labour code that has since travelled further than most of its statutes. Companies with more than fifty employees were obliged to negotiate the terms on which staff could be contacted outside working hours. The law did not ban the evening email. It required that somebody—management and unions together—decide where the boundary lay, and write it down."
+            },
+            {
+              "label": "B",
+              "text": "Other countries copied the idea with very different instruments. Ireland issued a code of practice rather than a statute, so that a breach becomes evidence in a case rather than an offence in itself. Portugal legislated in 2021 and attached fines to employers who contact staff outside agreed hours. Ontario required its larger employers to publish a written policy, without saying what the policy should contain. The differences are not cosmetic: they decide whether a worker has a remedy or merely a right."
+            },
+            {
+              "label": "C",
+              "text": "Enforcement is where the idea meets reality. A right to disconnect is difficult to prove: the message exists, but the obligation to read it is a matter of culture, and few employees will complain about a note that arrived at nine in the evening if everyone else received one too. Works councils in France report that the required negotiation often produces a charter of intentions, drafted by lawyers, that changes nothing a manager would notice."
+            },
+            {
+              "label": "D",
+              "text": "Employers raise two objections that are not easily dismissed. The first is that global work does not respect time zones: a supplier in Shenzhen will not wait for a Parisian weekend. The second is that flexibility was meant to run both ways—staff who may leave early on Friday in exchange for answering on Sunday. A statutory right, they say, removes the exchange and leaves only the cost, though it is rarely explained whose cost it is."
+            },
+            {
+              "label": "E",
+              "text": "The evidence is thinner than the laws. Studies that associate after-hours contact with exhaustion and poorer sleep are mostly cross-sectional: they cannot show whether the messages produced the strain or whether strained people check their phones more often. The most careful evaluations of the French statute find that it changed practice in some large firms and nothing at all in many small ones—roughly what one would expect of a measure enforced through negotiation."
+            },
+            {
+              "label": "F",
+              "text": "What the argument is really about is a change in the unit of employment. The old contract sold hours, and hours can be counted; the new one sells availability, which cannot. Once an employee is reachable, the employer has acquired an option on her attention, and the price of that option has never been negotiated. A right to switch off is an attempt to price it after the fact."
+            },
+            {
+              "label": "G",
+              "text": "That is why the statutes are likely to disappoint and to matter anyway. They will not stop the message from being sent. They will establish, slowly, that sending it is a decision with a cost, and that a boundary nobody has to defend is not a boundary at all."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Research on evening messages and poor sleep cannot show which causes which.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：这类研究多为横断面研究（cross-sectional），无法判断「是信息造成紧张」还是「紧张的人更频繁看手机」。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "cannot show whether the messages produced the strain or whether strained people check their phones more often"
+            },
+            {
+              "number": 37,
+              "stem": "One jurisdiction imposed financial penalties on employers who make contact outside agreed hours.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：Portugal legislated in 2021 and attached fines to employers who contact staff outside agreed hours。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "attached fines to employers"
+            },
+            {
+              "number": 38,
+              "stem": "French law obliged employers and unions to define the limit rather than to prohibit contact.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：The law did not ban the evening email. It required that somebody … decide where the boundary lay, and write it down。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "did not ban the evening email … decide where the boundary lay"
+            },
+            {
+              "number": 39,
+              "stem": "The statutes will matter by making contact a choice that carries a price.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：法律不会阻止信息发出，但会慢慢确立「sending it is a decision with a cost」，即把下班联系从习惯变成需要付代价的选择。",
+              "type": "推断题",
+              "evidencePara": "G",
+              "evidenceText": "sending it is a decision with a cost"
+            },
+            {
+              "number": 40,
+              "stem": "Negotiated charters often turn out to be documents with no practical effect.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：法国劳资委员会反映，谈判常常产出一份「a charter of intentions, drafted by lawyers, that changes nothing a manager would notice」。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "a charter of intentions … that changes nothing a manager would notice"
+            },
+            {
+              "number": 41,
+              "stem": "The choice of legal instrument determines whether a worker can obtain a remedy.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：这些差异「decide whether a worker has a remedy or merely a right」——爱尔兰用行为准则，违规只能作为诉讼证据，与葡萄牙的罚款制形成对照。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "whether a worker has a remedy or merely a right"
+            },
+            {
+              "number": 42,
+              "stem": "Employers say the law destroys a two-way bargain and leaves them with only the cost.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：灵活性本应「run both ways」（周五早走、周日回复），法定权利「removes the exchange and leaves only the cost」。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "removes the exchange and leaves only the cost"
+            },
+            {
+              "number": 43,
+              "stem": "The duty is hard to establish in evidence because it depends on custom rather than documents.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：the message exists, but the obligation to read it is a matter of culture——邮件是物证，而「必须读」的义务属于文化，故难举证。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the obligation to read it is a matter of culture"
+            },
+            {
+              "number": 44,
+              "stem": "Employment has shifted from selling time to selling the readiness to be reached.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：旧合同出售的是「可计数的工时」，新合同出售的是「无法计数的可得性（availability）」，雇主由此获得一份对员工注意力的「期权」。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "The old contract sold hours … the new one sells availability"
+            },
+            {
+              "number": 45,
+              "stem": "Suppliers abroad will not rearrange their schedule around one country's working week.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段第一条反对意见：全球业务不理会时区，「a supplier in Shenzhen will not wait for a Parisian weekend」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "global work does not respect time zones"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When a local newspaper closes, the first thing to disappear is not the news. It is the record. Council meetings go unreported, planning applications go unread, and the small scandals that a reporter would have noticed because he was sitting in the room simply do not surface. The second thing to disappear is the audience for anyone else's reporting: a town with no paper has no shared account of what happened at the meeting, and no common set of facts to argue about."
+            },
+            {
+              "label": "B",
+              "text": "The collapse is not a story about the internet in general but about a specific market. Classified advertising, which once paid for the reporting, moved to free platforms within a decade, and the subscription that replaced it has never covered the difference. In the United States, newspapers have closed at a rate of roughly two a week in recent years, and the counties left without any local outlet—now numbered in the hundreds—are disproportionately poor and rural."
+            },
+            {
+              "label": "C",
+              "text": "The consequences have begun to be measured rather than merely lamented. A study of municipal borrowing found that when a local paper closed, the cost of issuing debt in that county rose, consistent with lenders pricing in weaker oversight. Other work links closures to lower turnout in local elections, to reduced split-ticket voting, and to incumbents winning by larger margins—results that point in the same direction: less scrutiny, less competition, more advantage for whoever already holds office."
+            },
+            {
+              "label": "D",
+              "text": "Sceptics ask whether a newspaper's disappearance matters when information is abundant. The reply is that abundance is not the same as provision. A national outlet will report a hurricane; it will not report a zoning variance, because the audience for that story is too small to sell. What is lost is not information in general but a particular kind: the mundane, tedious, locally specific scrutiny that no one clicks on and everyone benefits from."
+            },
+            {
+              "label": "E",
+              "text": "Philanthropy has moved in where the market left. Foundations now fund reporters in dozens of cities, and nonprofit newsrooms have grown fast enough to be noticed by the industry that once ignored them. But charity is a fragile substitute for a business: it is subject to the priorities of donors, it rarely funds the dullest reporting, and a newsroom that depends on a single benefactor has exchanged one kind of dependence for another."
+            },
+            {
+              "label": "F",
+              "text": "The policy remedies on offer are modest and mostly indirect: tax credits for local advertising, public funding for civic journalism tied to a mandate, and rules that let newspapers bargain collectively with the platforms that now carry their content. None will restore the classified advertisement. What they might do is sustain a smaller, more targeted institution until someone discovers a model that pays for the council meeting as reliably as the football result."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author say disappears first when a local paper closes?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The advertising revenue of local businesses."
+                },
+                {
+                  "key": "B",
+                  "text": "A shared record of public decisions."
+                },
+                {
+                  "key": "C",
+                  "text": "The national coverage of the town."
+                },
+                {
+                  "key": "D",
+                  "text": "The jobs of the paper's printers."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段首句即揭题：The first thing to disappear is not the news. It is the record——市政会议无人报道、规划申请无人阅读，居民失去共同的「事实底本」。「全国媒体对该镇的报道」与后文相反，全国媒体恰恰不会报道地方琐事。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "It is the record"
+            },
+            {
+              "number": 47,
+              "stem": "Why has the local press collapsed, according to the second paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because governments withdrew printing subsidies."
+                },
+                {
+                  "key": "B",
+                  "text": "Because reporters refused to work for low pay."
+                },
+                {
+                  "key": "C",
+                  "text": "Because readers lost interest in politics."
+                },
+                {
+                  "key": "D",
+                  "text": "Because a specific revenue stream was captured by free platforms."
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段开篇特意纠正误解：「not a story about the internet in general but about a specific market」——分类广告在十年内转移到免费平台，订阅收入填不上缺口。作者把结构性原因定位为具体的收入来源，而非笼统的「互联网冲击」。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "Classified advertising … moved to free platforms within a decade"
+            },
+            {
+              "number": 48,
+              "stem": "The study of municipal borrowing is cited to show that",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "lenders charge more where oversight is weaker."
+                },
+                {
+                  "key": "B",
+                  "text": "newspapers exaggerate the cost of debt."
+                },
+                {
+                  "key": "C",
+                  "text": "rural counties borrow less than urban ones."
+                },
+                {
+                  "key": "D",
+                  "text": "local governments waste public money."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：报纸停刊后该县发债成本上升，作者给出的解释是「consistent with lenders pricing in weaker oversight」——债权人把监督变弱计入价格，这正是「可测量的后果」之一。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "lenders pricing in weaker oversight"
+            },
+            {
+              "number": 49,
+              "stem": "What does the author mean by saying that 'abundance is not the same as provision'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Readers are willing to pay for local news."
+                },
+                {
+                  "key": "B",
+                  "text": "There is too much information for readers to process."
+                },
+                {
+                  "key": "C",
+                  "text": "Plenty of content does not mean the important local facts get reported."
+                },
+                {
+                  "key": "D",
+                  "text": "National outlets are more reliable than local ones."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段随即解释：全国媒体会报道飓风，却不会报道一次区划变更，因为受众太小卖不动。信息「很多」不等于有人「供给」那些枯燥的地方性事实——丰裕与供给是两回事。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "it will not report a zoning variance, because the audience for that story is too small to sell"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's view of philanthropic funding for local news?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is a complete solution that should replace advertising."
+                },
+                {
+                  "key": "B",
+                  "text": "It is useful but swaps one dependency for another."
+                },
+                {
+                  "key": "C",
+                  "text": "It has corrupted the newsrooms it supports."
+                },
+                {
+                  "key": "D",
+                  "text": "It concentrates on the dullest reporting."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段先承认慈善资金填补了空缺，随后指出「charity is a fragile substitute for a business」，末句更点明依赖单一资助者只是「exchanged one kind of dependence for another」。「只资助最枯燥的报道」与原文相反——慈善恰恰 rarely funds the dullest reporting。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "exchanged one kind of dependence for another"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In a much-cited experiment published in Science in 2014, participants were left alone in a bare room for six to fifteen minutes with nothing to do. They had no phone, no book, no pen. Most found the experience unpleasant. What surprised the researchers was what happened next: when offered the option of giving themselves a mild electric shock—one they had previously described as painful and had paid to avoid—a substantial minority did so rather than sit with their own thoughts. The proportion was about two thirds of the men."
+            },
+            {
+              "label": "B",
+              "text": "The study has been repeated with mixed results, and it is unwise to build a theory of modern life on a single laboratory finding. But it named something that research on boredom had been circling for a decade: that boredom is not the absence of stimulation but the presence of an unsatisfied drive. The state is aversive because it signals that what one is doing has no point, and the signal is useful. An animal that could never be bored would not leave a depleted patch of ground."
+            },
+            {
+              "label": "C",
+              "text": "On this account boredom is a symptom with two possible readings. It may indicate that the environment is impoverished—a task that is genuinely repetitive, a waiting room, a factory line—or that the person has lost the capacity to invest attention in anything. The first reading calls for a change of circumstances; the second, for a change of relation to them. Confusing the two is the characteristic mistake of advice literature, which treats a structural problem as a failure of mindfulness."
+            },
+            {
+              "label": "D",
+              "text": "The measurement problem is severe. Questionnaires ask people whether they are bored often, and the answers correlate with depression, anxiety and impulsivity, but the direction of causation is unknown. It is equally plausible that a low mood makes everything seem pointless and that a chronic inability to be interested deepens a low mood. Studies that induce boredom experimentally—by asking subjects to copy out a list of numbers—find short-term effects on generosity and on risk-taking, but these are minutes-long effects in undergraduates, and the leap from them to a diagnosis of a society is large."
+            },
+            {
+              "label": "E",
+              "text": "What has changed is not the human capacity for boredom but the cost of escaping it. A phone offers an exit from every dull queue and every unoccupied minute, and the exit is now so cheap that the state is rarely experienced for long enough to do its work. If the theory in the second paragraph is right, this matters: a signal that is never felt cannot prompt the change it exists to prompt, and the restlessness that might have pushed someone towards a better task is discharged into a screen instead."
+            },
+            {
+              "label": "F",
+              "text": "The claim should not be overstated. There is no good evidence that smartphones have made us more bored, and plenty of evidence that people have always complained of it. What can be said is narrower and more interesting: a society that has eliminated every interval of undistracted waiting has also eliminated the conditions under which boredom does its most useful work—which is to make an unsatisfactory arrangement unbearable enough to be changed."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What was most striking about the 2014 experiment?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The shocks proved harmless to the participants."
+                },
+                {
+                  "key": "B",
+                  "text": "Women reacted quite differently from men."
+                },
+                {
+                  "key": "C",
+                  "text": "Participants enjoyed the silence more than expected."
+                },
+                {
+                  "key": "D",
+                  "text": "Many chose physical discomfort over being left with their thoughts."
+                }
+              ],
+              "answer": "D",
+              "analysis": "A 段：受试者此前曾付钱避免的那种电击，仍有一部分人（男性约三分之二）选择自施，只为不必「与自己的想法独处」。作者用 What surprised the researchers 明确标示这是最出人意料之处。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "a substantial minority did so rather than sit with their own thoughts"
+            },
+            {
+              "number": 52,
+              "stem": "How does the author characterise boredom in the second paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "As a harmless feature of laboratory research."
+                },
+                {
+                  "key": "B",
+                  "text": "As the complete absence of stimulation."
+                },
+                {
+                  "key": "C",
+                  "text": "As a signal that an activity lacks purpose."
+                },
+                {
+                  "key": "D",
+                  "text": "As a modern illness caused by technology."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：boredom is not the absence of stimulation but the presence of an unsatisfied drive；它「signals that what one is doing has no point」，而且这个信号有用——不会厌倦的动物不会离开已被耗尽的地方。「刺激的完全缺失」恰恰是作者否定的通俗理解。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "it signals that what one is doing has no point"
+            },
+            {
+              "number": 53,
+              "stem": "What mistake does the author attribute to advice literature?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It recommends too many changes of circumstance."
+                },
+                {
+                  "key": "B",
+                  "text": "It prescribes mindfulness for problems that are structural."
+                },
+                {
+                  "key": "C",
+                  "text": "It denies that boredom can ever be useful."
+                },
+                {
+                  "key": "D",
+                  "text": "It confuses depression with anxiety."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段末：Confusing the two is the characteristic mistake of advice literature, which treats a structural problem as a failure of mindfulness。「两者」即环境贫乏与注意力能力丧失，前者需改变处境，后者才需改变心态。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "treats a structural problem as a failure of mindfulness"
+            },
+            {
+              "number": 54,
+              "stem": "What does the author identify as the main weakness of boredom research?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It relies on questionnaires whose causal direction is unclear."
+                },
+                {
+                  "key": "B",
+                  "text": "It has never been conducted outside universities."
+                },
+                {
+                  "key": "C",
+                  "text": "It ignores the role of personality."
+                },
+                {
+                  "key": "D",
+                  "text": "It uses samples that are too large to analyse."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段首句 The measurement problem is severe：问卷只能显示相关，而「the direction of causation is unknown」——是低落情绪让人觉得一切无意义，还是无法产生兴趣加深了低落，两者同样说得通。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "the direction of causation is unknown"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's conclusion about smartphones and boredom?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have made people measurably more bored."
+                },
+                {
+                  "key": "B",
+                  "text": "They are the principal cause of adolescent anxiety."
+                },
+                {
+                  "key": "C",
+                  "text": "They remove the interval in which boredom becomes useful."
+                },
+                {
+                  "key": "D",
+                  "text": "They have no effect on how boredom is experienced."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E、F 两段：手机让「逃离无聊」的成本低到几乎没有，使这种状态来不及发挥作用；F 段进一步限定——没有证据表明手机让人更无聊，但「a society that has eliminated every interval of undistracted waiting」也消除了无聊最有用的条件。「手机让人明显更无聊」「手机是青少年焦虑的主因」正是作者明确拒绝的过度断言。",
+              "type": "态度题",
+              "evidencePara": "F",
+              "evidenceText": "has also eliminated the conditions under which boredom does its most useful work"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国是世界上湿地类型最齐全的国家之一，湿地面积居亚洲首位。湿地被称作“地球之肾”，能蓄洪防旱、净化水质，为候鸟提供栖息地。过去几十年，城市扩张与围垦使湿地萎缩。近年来，中国实施湿地保护修复工程，建立国家湿地公园，2022 年在武汉承办《湿地公约》缔约方大会，同年多个城市获“国际湿地城市”称号。保护湿地不仅关乎生态，也关乎居民的生计与安全。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChina is one of the countries with the widest variety of wetland types in the world, and it has the largest wetland area in Asia. Wetlands are known as the 'kidneys of the earth': they store floodwater and buffer drought, purify water, and provide habitats for migratory birds. In the past few decades, urban expansion and the reclamation of land from wetlands caused some of them to shrink. In recent years China has carried out a series of wetland protection and restoration projects, established national wetland parks, and in 2022 hosted the Conference of the Parties to the Ramsar Convention in Wuhan. In the same year several Chinese cities were accredited as 'Wetland Cities'. Protecting wetlands is not only an ecological question; it also bears on the livelihoods and safety of the people who live around them.\n\n【要点】①「类型最齐全」用 with the widest variety of wetland types，避免直译 most complete；②「地球之肾」保留比喻 the 'kidneys of the earth'，冒号后用 they 复指，符合英文行文；③「蓄洪防旱」拆为 store floodwater and buffer drought，中文四字对举在英文中宜还原为两个动词；④「围垦」用 the reclamation of land from wetlands，比 enclosure 准确；⑤「承办……缔约方大会」用 hosted the Conference of the Parties to the Ramsar Convention；⑥「获得称号」用 were accredited as，比 got the title 正式；⑦末句用 not only … ; it also … 结构，避免 not only…but also 造成的重心偏移。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

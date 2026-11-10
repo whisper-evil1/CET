@@ -152,6 +152,16 @@ export default async function AdminPage() {
                       {paper.title}
                     </span>
                     <span className="text-[12px] text-ink-mute">{qCount} 题</span>
+                    {paper.status !== "ready" && (
+                      <span className="rounded-full border border-line px-2 py-0.5 text-[10.5px] text-ink-mute">
+                        待补
+                      </span>
+                    )}
+                    {paper.hidden && (
+                      <span className="rounded-full border border-line px-2 py-0.5 text-[10.5px] text-ink-mute">
+                        已隐藏
+                      </span>
+                    )}
                   </div>
                   <ul className="mt-2 ml-[68px] space-y-1 text-[12px] text-ink-mute">
                     {paper.passages.map((p) => (

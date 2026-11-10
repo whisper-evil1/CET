@@ -1,0 +1,1117 @@
+{
+  "id": "cet6-2022-12-s2",
+  "level": "CET6",
+  "year": 2022,
+  "month": 12,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether universities should stop ranking students by their grade point averages. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nThe Case Against the Class Rank\n\nA transcript reporting a mark of 78 tells an admissions tutor very little: the same mark may be the best in a weak cohort or the median of a strong one. That is the case for ranking, and it is serious. Yet the practice does more harm than the information it supplies.\n\nA rank turns learning into a contest with a fixed number of winners. Where assessment is competitive, helping a classmate costs you a place, and the rational strategy is to hoard notes and avoid collaboration - habits that professional life punishes. Students also learn to pick courses by how generously they are marked, distorting the curriculum in ways no regulator can see.\n\nDefenders reply that selection must use something, and that grade inflation has made marks meaningless. True, but the remedy is to make assessment more demanding and more comparable, not to attach a verdict to a rank from a few courses. A percentile can be supplied where it is needed, without printing it on every transcript.\n\nA university should certify what a student can do. A rank certifies only how she compared, one afternoon, with the people in the room.\n\n（约 199 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For centuries the sea was treated as a commons that could not be exhausted. Fishing fleets took what they could find, and when one stock 26______ they moved to another. That strategy worked while the technology was limited and the markets were local; it stopped working once radar, sonar and refrigerated factory ships allowed a fleet to locate and process a shoal in a single season."
+            },
+            {
+              "label": "B",
+              "text": "The European Union manages most of its stocks by setting a total allowable catch for each species and dividing it into national quotas. The intention is scientific: biologists 27______ the maximum sustainable yield, and ministers are supposed to allocate no more than the stock can replace. In practice the ministers meet in December, and the figure they agree is often higher than the one the scientists proposed, because a cut in quota is a cut in income for the boats registered in the constituencies in the room."
+            },
+            {
+              "label": "C",
+              "text": "Individual transferable quotas, pioneered in Iceland, New Zealand and parts of the Pacific, take the decision away from the annual negotiation. Each vessel receives a permanent share of the catch, which it may buy, sell or lease; because the share is an asset, its owner has an interest in the fish 28______ next year. The results in some fisheries have been striking: the race to catch the last fish 29______, discards fell, and safety improved, since crews no longer put to sea in bad weather to beat a deadline."
+            },
+            {
+              "label": "D",
+              "text": "Critics point to the distribution. Shares were initially handed to whoever had a history of fishing, which in most cases meant large operators, and small boats that could not buy quota were 30______ out. In Iceland the quota came to be owned by a handful of companies and, after the financial crisis, by banks; a public resource had been 31______ into private property without a vote, and the fishing communities emptied."
+            },
+            {
+              "label": "E",
+              "text": "The collapse of the northern cod is the case everyone cites. Canadian scientists warned for years that the stock was declining; politicians 32______ the warnings because the fishery employed tens of thousands of people; and when the moratorium came in 1992 it was meant to last two years, yet the stock has never 33______. Three decades later the lesson is still argued over: some read it as proof that quotas must be set by scientists rather than by ministers, others as proof that a fishery is a social system as much as a biological one."
+            },
+            {
+              "label": "F",
+              "text": "What the failures have in common is delay. A stock can be fished below the level at which it can rebuild for years before anybody notices, and by the time notice is taken the political cost of stopping is 34______ than the political cost of waiting. The instruments already exist; what is missing is a commitment that survives the next election, and a willingness to 35______ the people who lose a livelihood when a fleet is cut, rather than pretending that the fish will pay for it."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "collected"
+                },
+                {
+                  "key": "B",
+                  "text": "collapsed"
+                },
+                {
+                  "key": "C",
+                  "text": "competed"
+                },
+                {
+                  "key": "D",
+                  "text": "complained"
+                }
+              ],
+              "answer": "B",
+              "analysis": "collapse 指渔业资源「崩溃、骤减」，与后文 move to another（转捕别的鱼）构成因果；这是描述鱼群崩溃的固定用词，其余三词与 stock 搭配均不成立。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "they moved to another"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "estimate"
+                },
+                {
+                  "key": "B",
+                  "text": "establish"
+                },
+                {
+                  "key": "C",
+                  "text": "escape"
+                },
+                {
+                  "key": "D",
+                  "text": "examine"
+                }
+              ],
+              "answer": "A",
+              "analysis": "estimate the maximum sustainable yield 意为「估算最大可持续产量」；科学家给出的是估算值，部长商定的是配额，二者形成对照。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "the figure they agree is often higher than the one the scientists proposed"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "serving"
+                },
+                {
+                  "key": "B",
+                  "text": "settling"
+                },
+                {
+                  "key": "C",
+                  "text": "surviving"
+                },
+                {
+                  "key": "D",
+                  "text": "spending"
+                }
+              ],
+              "answer": "C",
+              "analysis": "have an interest in the fish surviving next year 意为「希望鱼群明年还在」；份额变成资产后，持有者才有养护资源的动机，这正是 ITQ 的论证核心。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "because the share is an asset"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "entered"
+                },
+                {
+                  "key": "B",
+                  "text": "escaped"
+                },
+                {
+                  "key": "C",
+                  "text": "expanded"
+                },
+                {
+                  "key": "D",
+                  "text": "ended"
+                }
+              ],
+              "answer": "D",
+              "analysis": "the race to catch the last fish ended 指「抢捕最后一鱼的竞赛结束了」；配额固定后无需抢时间，故弃鱼减少、安全性提高。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "crews no longer put to sea in bad weather to beat a deadline"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "squeezed"
+                },
+                {
+                  "key": "B",
+                  "text": "sorted"
+                },
+                {
+                  "key": "C",
+                  "text": "spread"
+                },
+                {
+                  "key": "D",
+                  "text": "spotted"
+                }
+              ],
+              "answer": "A",
+              "analysis": "be squeezed out 是固定搭配，意为「被挤出（行业、市场）」；小船买不起配额，因而被排除在外。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "small boats that could not buy quota"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "conveyed"
+                },
+                {
+                  "key": "B",
+                  "text": "convinced"
+                },
+                {
+                  "key": "C",
+                  "text": "covered"
+                },
+                {
+                  "key": "D",
+                  "text": "converted"
+                }
+              ],
+              "answer": "D",
+              "analysis": "convert sth into sth 意为「把……转变为……」，此处指公共资源未经表决就变成私有财产；converted 与 into 为固定搭配。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a public resource ... into private property without a vote"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "displayed"
+                },
+                {
+                  "key": "B",
+                  "text": "dismissed"
+                },
+                {
+                  "key": "C",
+                  "text": "disturbed"
+                },
+                {
+                  "key": "D",
+                  "text": "distributed"
+                }
+              ],
+              "answer": "B",
+              "analysis": "dismiss the warnings 意为「不予理会这些警告」；because 从句给出动机——渔业养活着数万人，政治家因此压下警告。",
+              "type": "词义题",
+              "evidencePara": "E",
+              "evidenceText": "because the fishery employed tens of thousands of people"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "recorded"
+                },
+                {
+                  "key": "B",
+                  "text": "reduced"
+                },
+                {
+                  "key": "C",
+                  "text": "recovered"
+                },
+                {
+                  "key": "D",
+                  "text": "refused"
+                }
+              ],
+              "answer": "C",
+              "analysis": "the stock has never recovered 意为「资源量再未恢复」；与「禁渔原定两年」形成反差，说明崩溃可能不可逆。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "it was meant to last two years"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "longer"
+                },
+                {
+                  "key": "B",
+                  "text": "louder"
+                },
+                {
+                  "key": "C",
+                  "text": "lower"
+                },
+                {
+                  "key": "D",
+                  "text": "larger"
+                }
+              ],
+              "answer": "D",
+              "analysis": "the political cost of stopping is larger than ... 指「停产的政治代价大于等待的代价」；后文说缺少能跨越选举的承诺，正说明拖延在政治上更划算。lower 与句意相反，是主要干扰项。",
+              "type": "逻辑题",
+              "evidencePara": "F",
+              "evidenceText": "a commitment that survives the next election"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compensate"
+                },
+                {
+                  "key": "B",
+                  "text": "compete"
+                },
+                {
+                  "key": "C",
+                  "text": "compose"
+                },
+                {
+                  "key": "D",
+                  "text": "compile"
+                }
+              ],
+              "answer": "A",
+              "analysis": "compensate the people who lose a livelihood 意为「补偿失去生计的人」；rather than pretending that the fish will pay for it 提示转型成本应由财政承担，而非由渔业自身消化。",
+              "type": "词义题",
+              "evidencePara": "F",
+              "evidenceText": "rather than pretending that the fish will pay for it"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Venice has two thirds fewer residents than it had a century ago, and more visitors in a single summer month than it received in a whole year in 1950. The two facts are connected. Tourists arrive for a day, spend comparatively little and leave; the residents who might have spent their lives there cannot afford to stay, because the flat above the shop now earns more as a short-let than as a home."
+            },
+            {
+              "label": "B",
+              "text": "The economics are less favourable than the postcard suggests. Day visitors pay for a coffee and a boat ride but not for the maintenance of canals, the collection of refuse or the policing of crowds. Studies of historic centres routinely find that a large share of tourist spending leaks out to international hotel chains and to suppliers elsewhere, while the costs of congestion fall on the municipality and on the people who live in it."
+            },
+            {
+              "label": "C",
+              "text": "Carrying capacity is therefore not a single number that a consultant can calculate. There is a physical limit, set by bridges and narrow streets; an ecological limit, set by waste and water; and a social limit, set by the patience of residents, which is reached long before the streets are literally impassable. The last of these is the least measurable and the most important, and it is usually discovered only after it has been passed."
+            },
+            {
+              "label": "D",
+              "text": "Cities have begun to experiment with instruments that were once thought illiberal. Venice charges day visitors an entry fee, Dubrovnik limits the number of cruise passengers allowed ashore at any one time, and several towns issue timed tickets for their most photographed streets. The evidence so far is modest: charges raise revenue and reduce numbers at the margin, but they also select for wealthier visitors rather than for fewer of them."
+            },
+            {
+              "label": "E",
+              "text": "Regulation usually arrives late and is often symbolic. Barcelona has restricted new hotels in the old city and, more recently, the licensing of short-term lets; the effect has been to push visitors and rental conversions into the surrounding districts, where rents then rise in turn. A measure that relocates a problem is easier to pass than one that reduces it, and mayors are judged on arrivals, the one figure that almost always rises."
+            },
+            {
+              "label": "F",
+              "text": "The damage that matters most is slow and hard to photograph. When flats become holiday lets, families leave, schools close, bakeries lose their weekday trade, and the ordinary life that made the quarter attractive disappears. The process is self-defeating: a place emptied of its inhabitants becomes a stage set, and visitors who came in search of authenticity begin to complain that it feels like a theme park."
+            },
+            {
+              "label": "G",
+              "text": "The reforms that work are unglamorous and mostly fiscal. A tourist tax earmarked for conservation and for housing residents, rather than for promotion, changes the arithmetic. Measuring success by nights per resident, or by how satisfied residents say they are, rather than by arrivals, changes the incentives of the officials who report it. Neither is as satisfying as a headline about a record year, which is why both remain rare."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "When local life disappears, the attraction itself is destroyed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：家庭搬走、学校关闭、店铺失去日常生意，地方被掏空后变成布景，游客反过来抱怨它像主题公园。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "a place emptied of its inhabitants becomes a stage set"
+            },
+            {
+              "number": 37,
+              "stem": "Homes let to tourists can earn more than homes let to residents.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末：商店楼上的房子作短租比作住宅更赚钱，本地人因此住不起而离开。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "earns more as a short-let than as a home"
+            },
+            {
+              "number": 38,
+              "stem": "Some of the most effective measures are the least attractive to announce.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段末：这些做法都不如「创纪录的一年」这样的标题好听，所以始终少见——作者以此讽刺政治激励。",
+              "type": "态度题",
+              "evidencePara": "G",
+              "evidenceText": "Neither is as satisfying as a headline about a record year"
+            },
+            {
+              "number": 39,
+              "stem": "Entry charges tend to attract richer tourists rather than fewer of them.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：收费增加了收入、略微减少了人数，但它筛选出的是更富的游客，而不是更少的游客。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "select for wealthier visitors rather than for fewer of them"
+            },
+            {
+              "number": 40,
+              "stem": "Visitor spending does not cover the public costs that tourism creates.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：一日游游客只为咖啡与游船付费，却不承担运河维护、垃圾清运与人群管理的成本，且大量消费流向国际连锁与外地供应商。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "the costs of congestion fall on the municipality"
+            },
+            {
+              "number": 41,
+              "stem": "Success should be judged by residents' experience rather than by visitor numbers.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：以「每位居民的过夜数」或居民满意度衡量成败，才会改变上报数据者的动机。",
+              "type": "态度题",
+              "evidencePara": "G",
+              "evidenceText": "nights per resident, or by how satisfied residents say they are"
+            },
+            {
+              "number": 42,
+              "stem": "Restrictions in one district can simply move the pressure next door.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：巴塞罗那限制老城新开酒店与短租牌照，结果把游客与租赁转换挤到周边区域，周边房租随之上涨。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "push visitors and rental conversions into the surrounding districts"
+            },
+            {
+              "number": 43,
+              "stem": "The limit that matters most is residents' tolerance, and it is hard to measure.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：承载能力不是一个数字，其中「社会极限」由居民的耐心决定，最难测量也最重要，往往在被越过之后才发现。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "the least measurable and the most important"
+            },
+            {
+              "number": 44,
+              "stem": "A tax whose proceeds are spent on conservation and local housing changes the calculation.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：旅游税若专项用于保护与居民住房，而非用于推广宣传，就会改变这笔账。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "earmarked for conservation and for housing residents"
+            },
+            {
+              "number": 45,
+              "stem": "Officials are rewarded for the indicator that growth makes look good.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：市长们被以「到访人数」评判，而这一数字几乎总是上升，因此转移问题比减少问题更容易被采纳。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "mayors are judged on arrivals"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Burnout entered the vocabulary as a problem of the helping professions and has since been applied to almost every kind of work. The most widely used definition describes three dimensions: exhaustion, a cynical distance from the people one is supposed to serve, and a sense that one is no longer effective. It is not simply tiredness, and it is not depression, although the two overlap; someone who is exhausted after a difficult week and recovers over a weekend is not burned out."
+            },
+            {
+              "label": "B",
+              "text": "Measurement is where the argument begins. The standard questionnaire asks respondents to agree or disagree with statements about their feelings, and the cut-off separating a high score from a very high one is a convention rather than a clinical threshold. Prevalence estimates therefore vary enormously between surveys, and claims of an epidemic rest on instruments designed to describe a population, not to diagnose a person."
+            },
+            {
+              "label": "C",
+              "text": "The research on causes is more consistent than the research on prevalence. Study after study identifies a mismatch between the job and the person in six areas: workload, control, reward, community, fairness and values. The pattern is that burnout is high where demands are high and resources are low. A teacher with too many classes, little say over how to teach them and no recognition for teaching them well is at risk whatever her temperament happens to be."
+            },
+            {
+              "label": "D",
+              "text": "This matters because the alternative explanation is so convenient. If burnout is caused by a fragile individual, the remedy is to make the individual tougher, and nothing about the organisation need change. The evidence points the other way. Doctors who spend a third of the day on data entry, nurses who cannot take a break because the ward is short-staffed, and lecturers assessed on student satisfaction are responding to the design of their work, not to a defect of character."
+            },
+            {
+              "label": "E",
+              "text": "The clinical literature describes something that training cannot reach. Clinicians asked to give care they believe to be wrong, or to deny treatment they know to be necessary, report a distress distinct from overwork; the term moral injury, borrowed from soldiers, has been taken up in medicine for exactly this reason. The injury is to a professional identity, and it is inflicted by constraints rather than by hours."
+            },
+            {
+              "label": "F",
+              "text": "None of this makes the concept useless, but it does make it dangerous in the wrong hands. A diagnosis that names a system can also be used to describe an individual, and the same word then serves two incompatible purposes: to demand that the workload be redesigned, and to suggest that the sufferer should be more resilient."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "How does the author distinguish burnout from ordinary fatigue?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Burnout lasts longer than a weekend but is otherwise similar."
+                },
+                {
+                  "key": "B",
+                  "text": "Burnout involves a changed attitude to one's work and to the people served."
+                },
+                {
+                  "key": "C",
+                  "text": "Burnout is a mild form of clinical depression."
+                },
+                {
+                  "key": "D",
+                  "text": "Burnout affects helping professionals more than others."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：倦怠包含三个维度——耗竭、对服务对象的冷漠疏离、以及自认不再有效；「难熬一周、周末就能恢复」只是疲劳，不是倦怠。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "a cynical distance from the people one is supposed to serve"
+            },
+            {
+              "number": 47,
+              "stem": "Why does the author doubt claims of a burnout epidemic?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because the surveys are conducted by employers with an interest in the result."
+                },
+                {
+                  "key": "B",
+                  "text": "Because burnout is no longer confined to the helping professions."
+                },
+                {
+                  "key": "C",
+                  "text": "Because the cut-off scores are arbitrary and the tool was not built for diagnosis."
+                },
+                {
+                  "key": "D",
+                  "text": "Because most respondents refuse to answer honestly."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：量表分界线是「惯例」而非临床阈值，且该工具本为描述人群而设计，不用于诊断个体，故不同调查的患病率差别极大。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "a convention rather than a clinical threshold"
+            },
+            {
+              "number": 48,
+              "stem": "What does the teacher example in paragraph C illustrate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That temperament determines how people respond to pressure."
+                },
+                {
+                  "key": "B",
+                  "text": "That teaching is inherently more stressful than other work."
+                },
+                {
+                  "key": "C",
+                  "text": "That burnout follows from the structure of a job, not from personality."
+                },
+                {
+                  "key": "D",
+                  "text": "That recognition matters more than pay."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：班级过多、无权决定教法、做得好也无人认可的老师「无论性格如何」都有风险——说明成因在岗位结构。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "at risk whatever her temperament happens to be"
+            },
+            {
+              "number": 49,
+              "stem": "What is meant by 'moral injury' in paragraph E?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Distress caused by being required to act against one's professional standards."
+                },
+                {
+                  "key": "B",
+                  "text": "Guilt felt after making a clinical error."
+                },
+                {
+                  "key": "C",
+                  "text": "Anger at patients who refuse treatment."
+                },
+                {
+                  "key": "D",
+                  "text": "The cumulative effect of long working hours."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：被要求提供自己认为错误的照护、或拒绝已知必要的治疗，会产生一种「不同于过劳」的痛苦；伤害针对职业身份，来自限制而非工时。",
+              "type": "词句含义题",
+              "evidencePara": "E",
+              "evidenceText": "inflicted by constraints rather than by hours"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's view of the concept of burnout in the final paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has been abandoned by researchers as unscientific."
+                },
+                {
+                  "key": "B",
+                  "text": "It is useful but can be turned against those it describes."
+                },
+                {
+                  "key": "C",
+                  "text": "It should be replaced by the older term moral injury."
+                },
+                {
+                  "key": "D",
+                  "text": "It is meaningful only for doctors and nurses."
+                }
+              ],
+              "answer": "B",
+              "analysis": "F 段：这一概念并非无用，但落到错误的人手里就危险——同一个词既能用来要求重设工作量，也能用来暗示患者该更能抗压。",
+              "type": "态度题",
+              "evidencePara": "F",
+              "evidenceText": "dangerous in the wrong hands"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The market for resilience has grown faster than the evidence for it. Hospitals offer mindfulness sessions, workshops on sleep and apps that ask clinicians to record their mood twice a day; universities send students emails about gratitude. Such interventions are cheap, popular and rarely evaluated against the problem they claim to address. Where they have been tested properly, the effects are small and fade within months."
+            },
+            {
+              "label": "B",
+              "text": "A better-designed trial shows the difference. When a large health system randomised clinical teams either to a programme giving them control over their rotas and clinic hours or to a stress-management course, the course improved reported coping but left exhaustion unchanged, whereas control over time reduced exhaustion substantially and cut the intention to leave. The variable that mattered was not skill at relaxing but power over one's own schedule."
+            },
+            {
+              "label": "C",
+              "text": "Organisational remedies have a political disadvantage: they cost money and they create losers. Reducing the number of patients per nurse requires hiring; reducing clerical burden requires buying software, or more cheaply hiring clerks; protecting an afternoon a week for research requires someone else to cover the clinic. Each is a budget line, and a budget line can be refused in a way that a workshop cannot."
+            },
+            {
+              "label": "D",
+              "text": "There is a second reason the individual approach persists. It offers the organisation a defence. If a burned-out employee was offered counselling and declined it, the failure becomes hers; if she accepted it and remained unwell, the intervention was evidently not embedded deeply enough. Either way the question of staffing is not asked, and the record shows that the employer provided support."
+            },
+            {
+              "label": "E",
+              "text": "What would honest evaluation look like? It would measure absence, turnover and the quality of care rather than satisfaction with a course. It would report the effects of organisational change with the same enthusiasm as the effects of an app. And it would accept an awkward conclusion: the most effective interventions are the least interesting to announce, because they are indistinguishable from ordinary good management."
+            },
+            {
+              "label": "F",
+              "text": "None of this means individuals should be left without help. A colleague who is unwell needs leave, treatment and time, and a decent employer provides all three. The error is to mistake that help for a solution. Treating the consequences of a badly designed job as a personal problem is cheap, and it is precisely because it is cheap that it is so widely adopted."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the author suggest about the programmes described in the first paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are too expensive for most hospitals to sustain."
+                },
+                {
+                  "key": "B",
+                  "text": "They are popular with staff but rarely used."
+                },
+                {
+                  "key": "C",
+                  "text": "Their popularity has outrun any evidence that they work."
+                },
+                {
+                  "key": "D",
+                  "text": "They were designed by researchers rather than employers."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段：这类干预「便宜、受欢迎，却很少针对其声称解决的问题进行评估」，即使经过检验，效应也小且在数月内消退。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "grown faster than the evidence for it"
+            },
+            {
+              "number": 52,
+              "stem": "What did the randomised trial find?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Both interventions reduced exhaustion by a similar amount."
+                },
+                {
+                  "key": "B",
+                  "text": "Control over schedules reduced exhaustion; the course did not."
+                },
+                {
+                  "key": "C",
+                  "text": "The stress-management course was more effective in the long run."
+                },
+                {
+                  "key": "D",
+                  "text": "Neither intervention had any measurable effect."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：课程改善了自评应对能力，但耗竭程度未变；而对时间的掌控显著降低耗竭并减少离职意向。关键在于对排班的支配权。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "left exhaustion unchanged"
+            },
+            {
+              "number": 53,
+              "stem": "Why are organisational remedies harder to adopt?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because staff distrust any change imposed from above."
+                },
+                {
+                  "key": "B",
+                  "text": "Because their benefits take years to appear."
+                },
+                {
+                  "key": "C",
+                  "text": "Because they must be negotiated with unions."
+                },
+                {
+                  "key": "D",
+                  "text": "Because they require spending that can simply be refused."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段：这些措施都要花钱、都会造成输家，而「预算项可以被拒绝，工作坊却不会」——即成本使其在决策中处于劣势。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "a budget line can be refused in a way that a workshop cannot"
+            },
+            {
+              "number": 54,
+              "stem": "How does offering counselling protect an employer?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It reduces the number of staff who take sick leave."
+                },
+                {
+                  "key": "B",
+                  "text": "It shifts responsibility for the problem onto the employee."
+                },
+                {
+                  "key": "C",
+                  "text": "It satisfies legal requirements for workplace safety."
+                },
+                {
+                  "key": "D",
+                  "text": "It provides evidence that staffing levels are adequate."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：若员工拒绝辅导，失败便被归为她的；若接受后仍未好转，则说明干预不够深入。两种情形下都不必追问人力配置问题。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "the failure becomes hers"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's main point in the last paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Individual support is unnecessary if jobs are redesigned."
+                },
+                {
+                  "key": "B",
+                  "text": "Employers should stop providing treatment to employees."
+                },
+                {
+                  "key": "C",
+                  "text": "Support for individuals is right but is not a remedy for the job."
+                },
+                {
+                  "key": "D",
+                  "text": "Burnout should be treated as a medical condition."
+                }
+              ],
+              "answer": "C",
+              "analysis": "F 段：作者明确说这不意味着个人不该得到帮助；错误在于「把这种帮助当成解决方案」，把糟糕岗位的后果当成个人问题。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "The error is to mistake that help for a solution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n年画是中国民间在春节张贴的装饰画，寄托着人们对新一年的祝愿。它起源于古代的门神画，后来题材不断扩展，胖娃娃、戏曲故事与丰收场景都成为常见内容。天津杨柳青、苏州桃花坞和山东潍坊是著名产地，风格各有不同。制作上多采用木版套印，一张画往往要套印五六种颜色。过去，腊月里家家户户贴年画，既为装饰，也为驱邪纳福。如今，传统年画在保护与创新中延续，也受到越来越多年轻人的喜爱。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nNew Year pictures are decorative prints that Chinese families put up at the Spring Festival, and they express people's hopes for the year ahead. The genre began with ancient images of door gods, and its subjects were later broadened until chubby babies, scenes from opera and harvests had all become standard. Yangliuqing in Tianjin, Taohuawu in Suzhou and Weifang in Shandong are famous centres of production, each with a style of its own. Technically, most are printed from carved wooden blocks, and a single picture may require five or six successive printings in different colours. In the past, every household pasted them up during the last month of the lunar year, both as decoration and to ward off evil and invite good fortune. Today the tradition survives through conservation and reinvention, and it is increasingly popular with young people.\n\n【要点】①「年画」用 New Year pictures，首次出现可加 decorative prints 说明性质；②「寄托着……祝愿」译 express people's hopes for，不必直译为 carry; ③「门神画」用 images of door gods；④「木版套印」用 printed from carved wooden blocks，配合 successive printings in different colours 表达套色；⑤「驱邪纳福」意译为 ward off evil and invite good fortune；⑥「腊月」可处理为 the last month of the lunar year，避免音译造成理解障碍。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

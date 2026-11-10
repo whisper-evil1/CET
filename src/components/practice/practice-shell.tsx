@@ -271,7 +271,10 @@ export function PracticeShell({
   ];
 
   return (
-    <div className="flex h-screen flex-col overflow-hidden">
+    /* app-shell：手机浏览器地址栏会伸缩，100vh 比可见高度大，
+       底部「提交答案 / 下一题」会被顶到屏幕外且滚不到（容器 overflow-hidden）。
+       globals.css 里给它补 100dvh，不认 dvh 的内核自动退回 100vh。 */
+    <div className="app-shell flex h-screen flex-col overflow-hidden">
       {/* 顶栏 */}
       <header className="flex h-14 shrink-0 items-center gap-4 border-b border-line bg-paper px-4 md:px-6">
         <Link
@@ -437,6 +440,7 @@ export function PracticeShell({
           section={activeSection}
           passage={passage}
           paperId={paperId}
+          level={paper.level}
           onNotice={setNotice}
         />
       ) : null}

@@ -1,0 +1,633 @@
+{
+  "id": "cet4-2021-12-s2",
+  "level": "CET4",
+  "year": 2021,
+  "month": 12,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on why college students should learn to ask for help. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nMany students treat asking for help as an admission of failure. They struggle alone with a difficult chapter, a broken laptop or a family problem, and they pay for that silence in weeks of wasted time.\n\nThe first reason to ask is practical. A teacher can explain in five minutes what a textbook obscures for five hours, and a classmate who has already passed the course knows exactly where the difficulty lies. The second reason is social. Asking someone for help is a compliment: it tells them their judgement matters, and it usually begins a relationship that lasts longer than the problem. The third reason is fairness. Students who never ask are often the ones who most need it, and universities have offices—writing centres, counselling services, financial aid—that exist precisely because some problems are too heavy to carry alone.\n\nAsking well is a skill. Say what you have already tried, be specific about what you need, and thank the person afterwards. Nobody expects you to know everything; they expect you to be honest about what you do not know.\n\n（约 180 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Online shopping has produced a mountain of cardboard. In China alone more than ten billion parcels are delivered each year, and most of the boxes are used once before being 26______ or burned. Several delivery companies are now testing a different model: a sturdy plastic box that is collected from the customer's door and used again. Each box carries a code, is cleaned at a depot and returns to the warehouse within a few days. The 27______ is straightforward—one box can replace dozens of cardboard ones—but the 28______ are considerable."
+            },
+            {
+              "label": "B",
+              "text": "The first obstacle is 29______. A reusable box costs several times more than a cardboard one, and the company carries that loss until the box has made enough trips. The second is the customer, who must keep the box indoors, hand it over at an agreed time and accept a deposit. Trials in Shanghai found that return rates fell sharply when the deposit was 30______. The third is the sorting centre, where a mixture of cardboard and plastic slows the machines. Even so, several firms report that the scheme 31______ once customers grow used to it."
+            },
+            {
+              "label": "C",
+              "text": "Supporters argue that the change is 32______. Cardboard is collected and processed, but that still uses energy and water, while a box that travels thirty times saves far more than it costs. Cities that have tried deposit schemes for coffee cups report similar 33______. The obstacle is not technology but habit, and habits 34______ slowly. Some companies now offer a small discount to customers who return boxes on time, a nudge that has proved more 35______ than fines. Whether the model spreads may depend less on green sentiment than on whether it is convenient."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "recycled" },
+                { "key": "B", "text": "refused" },
+                { "key": "C", "text": "repaired" },
+                { "key": "D", "text": "removed" }
+              ],
+              "answer": "A",
+              "analysis": "句子说纸箱「用一次就被____或烧掉」，与 burned 并列的自然处置方式是「回收」。refused（拒绝）、repaired（修理）不能与纸箱搭配；removed（移走）不与 burned 构成同类处置手段。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "used once before being ... or burned"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "decoration" },
+                { "key": "B", "text": "invitation" },
+                { "key": "C", "text": "calculation" },
+                { "key": "D", "text": "occupation" }
+              ],
+              "answer": "C",
+              "analysis": "破折号后给出「一个箱子可替代几十个纸箱」，这是一笔算术账，the calculation is straightforward（这笔账很好算）。decoration（装饰）、invitation（邀请）、occupation（职业）都解释不了破折号后的内容。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "one box can replace dozens of cardboard ones"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "profits" },
+                { "key": "B", "text": "obstacles" },
+                { "key": "C", "text": "rewards" },
+                { "key": "D", "text": "expenses" }
+              ],
+              "answer": "B",
+              "analysis": "but 表示转折：算法很简单，但「困难也不少」，下一段随即列出三个障碍（成本、客户、分拣中心），因此 obstacles 正确。profits、rewards 是正面词，与转折矛盾。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "but the ... are considerable"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "price" },
+                { "key": "B", "text": "praise" },
+                { "key": "C", "text": "print" },
+                { "key": "D", "text": "postage" }
+              ],
+              "answer": "A",
+              "analysis": "紧随其后的句子「可循环箱比纸箱贵好几倍，公司要一直承担这笔亏损」说明第一个障碍是价格，The first obstacle is price。postage（邮资）范围过窄，praise、print 与成本无关。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "costs several times more than a cardboard one"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "late" },
+                { "key": "B", "text": "rare" },
+                { "key": "C", "text": "low" },
+                { "key": "D", "text": "mild" }
+              ],
+              "answer": "C",
+              "analysis": "押金越低，顾客越不当回事，归还率就大幅下降，所以是 when the deposit was low。late、rare、mild 都不能修饰 deposit 的数额。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "return rates fell sharply"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "approves" },
+                { "key": "B", "text": "removes" },
+                { "key": "C", "text": "proves" },
+                { "key": "D", "text": "improves" }
+              ],
+              "answer": "D",
+              "analysis": "Even so 引出转折：尽管有这些障碍，几家公司报告说，顾客一旦习惯，方案就「好转」了。approves 需人作主语；removes、proves 与「方案变好」无关。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "once customers grow used to it"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "worthwhile" },
+                { "key": "B", "text": "worthless" },
+                { "key": "C", "text": "widespread" },
+                { "key": "D", "text": "welcome" }
+              ],
+              "answer": "A",
+              "analysis": "支持者的理由在冒号后：一个箱子跑三十趟，省下的远多于成本，因此这项改变「值得做」。worthless 意思相反；widespread 说的是普及程度，与「省得比花得多」不对应。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "saves far more than it costs"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "reasons" },
+                { "key": "B", "text": "records" },
+                { "key": "C", "text": "results" },
+                { "key": "D", "text": "routes" }
+              ],
+              "answer": "C",
+              "analysis": "试过咖啡杯押金方案的城市也报告了「类似的结果」，指同样积极的成效，report similar results 是常见搭配。reasons、records、routes 与「成效」无关。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "Cities that have tried deposit schemes"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "charge" },
+                { "key": "B", "text": "change" },
+                { "key": "C", "text": "chase" },
+                { "key": "D", "text": "choose" }
+              ],
+              "answer": "B",
+              "analysis": "「障碍不是技术而是习惯，而习惯改变得慢」，与上句 habit 呼应。charge、chase、choose 都不能表达「习惯发生变化」这个意思。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "The obstacle is not technology but habit"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "affordable" },
+                { "key": "B", "text": "attractive" },
+                { "key": "C", "text": "official" },
+                { "key": "D", "text": "effective" }
+              ],
+              "answer": "D",
+              "analysis": "把「按时归还打小折扣」和「罚款」作比较，说的是哪种手段更「有效」，more effective than fines。affordable、attractive 说的是吸引力或价格，official 说的是官方性质，都不能与 fines 形成手段效果上的对比。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "a nudge that has proved more ... than fines"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2018 France banned smartphones in primary and middle schools. The rule was simple and, in practice, hard to enforce: phones were to stay at home or in a locker, and each school decided the punishment. Seven years later the country has extended the ban to high schools, and several others have copied the model, including Italy, Portugal and parts of Spain. England issued guidance rather than law, telling schools to keep phones out of sight for the whole day."
+            },
+            {
+              "label": "B",
+              "text": "The case for banning is usually made in terms of attention. A phone on the desk, even face down, is associated with lower test performance in experimental studies, and students who scroll through social media during breaks report feeling less refreshed afterwards, not more. Teachers describe a change in the corridor: without phones, they say, an argument is less likely to be filmed and spread, and a fight that once lasted a minute no longer follows a child home."
+            },
+            {
+              "label": "C",
+              "text": "The evidence on outcomes is mixed. Studies comparing schools with and without bans have found small improvements in test scores, concentrated among lower-achieving pupils, and modest reductions in reported bullying. But most were carried out before smartphones became the main way teenagers socialise, and few separate the effect of a ban from the effect of a school that is well run in other ways."
+            },
+            {
+              "label": "D",
+              "text": "Critics raise two objections. The first is practical: a phone is also a clock, a calculator and a safety line, and parents who pay for one expect to be able to reach their child. The second is philosophical. A school that confiscates phones for seven hours is teaching obedience, not judgement; when the bell rings, the same apps are waiting. Better, this argument runs, to teach children how to use the device, since they will live with it for the rest of their lives."
+            },
+            {
+              "label": "E",
+              "text": "Some schools have found a middle path. Phones are allowed at the gate and locked away during lessons, with a limited period at lunch for messages. A few run student committees that set the rules, on the reasoning that a rule pupils helped write is a rule they will keep. Where this has been tried, staff report fewer disputes over enforcement than in schools that simply confiscate."
+            },
+            {
+              "label": "F",
+              "text": "What is striking is how quickly the debate has changed. A decade ago, bringing a phone to school was unusual; now, leaving it at home is the policy. Whether bans improve learning is still uncertain. What is clear is that schools have decided the burden of proof now lies with the phone, not with the rule."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "One country has widened its phone ban to cover older students.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "A",
+              "analysis": "A 段：法国 2018 年在中小学禁手机，七年后把禁令扩展到高中，意大利、葡萄牙、西班牙部分地区效仿。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "extended the ban to high schools"
+            },
+            {
+              "number": 37,
+              "stem": "Even an unused phone lying nearby is linked to weaker test results.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：实验研究显示，即使手机屏幕朝下放在桌上，也与更低的考试表现相关。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "even face down, is associated with lower test performance"
+            },
+            {
+              "number": 38,
+              "stem": "The gains from bans seem greatest among pupils who struggle academically.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：对比研究发现的考试成绩提升幅度很小，且集中在成绩较弱的学生身上（concentrated among lower-achieving pupils）。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "concentrated among lower-achieving pupils"
+            },
+            {
+              "number": 39,
+              "stem": "Parents want a way of contacting their children during the school day.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段第一个反对理由：手机也是时钟、计算器和安全线，出钱的父母希望随时能找到孩子。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "parents who pay for one expect to be able to reach their child"
+            },
+            {
+              "number": 40,
+              "stem": "At some schools, pupils take part in deciding what the phone rules should be.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：少数学校由学生委员会制定规则，理由是「学生参与制定的规则，他们才会遵守」。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "student committees that set the rules"
+            },
+            {
+              "number": 41,
+              "stem": "A ban may teach pupils to obey rather than to make good choices.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段第二个（理念上的）反对理由：收走手机七小时教的是服从而非判断，放学后同样的应用还在等着。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "teaching obedience, not judgement"
+            },
+            {
+              "number": 42,
+              "stem": "Research is limited because much of it was done before today's phone habits developed.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：多数研究是在智能手机成为青少年主要社交方式之前完成的，且很难把禁令的效果与学校管理本身的效果分开。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "before smartphones became the main way teenagers socialise"
+            },
+            {
+              "number": 43,
+              "stem": "Fights can be recorded and shared, so a conflict no longer ends at the school gate.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：没有手机，争吵不容易被拍下传播，原本一分钟就过去的冲突也不会跟着孩子回家。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "a fight that once lasted a minute no longer follows a child home"
+            },
+            {
+              "number": 44,
+              "stem": "Within ten years the normal practice has been turned upside down.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：十年前带手机到校很罕见，如今「把手机留在家里」才是规定——常态在十年间被颠倒。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "A decade ago, bringing a phone to school was unusual"
+            },
+            {
+              "number": 45,
+              "stem": "In some places phones may be used briefly during the midday break.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：上课期间手机锁起来，但午休有一段限定时间可以用来看消息。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "a limited period at lunch for messages"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A vertical farm is a warehouse with shelves. Plants grow in trays stacked ten or twelve high under pink or white LEDs, in water rather than soil, in a room where every variable, from light and temperature to humidity and carbon dioxide, is set by a computer. The pitch is straightforward: no weather, no pesticides, no transport from another hemisphere, and a hundred times the yield of a field on the same footprint."
+            },
+            {
+              "label": "B",
+              "text": "The problem is that sunlight is free and electricity is not. Replacing the sun with diodes takes roughly ten to twenty kilowatt-hours for every kilogram of lettuce, which in most markets costs more than the lettuce itself sells for. A grower can cut the bill by buying power at night, by siting the farm beside a hydroelectric dam, or by choosing crops that tolerate weaker light, but the bill cannot be removed."
+            },
+            {
+              "label": "C",
+              "text": "The economics explain what gets grown. Leafy greens and herbs account for nearly all of the industry, because they are sold fresh, by weight, at a high price per kilogram, and can be harvested young. Wheat, rice and potatoes are the opposite case: their calories are cheap, and no indoor system can compete with a field that receives its light for nothing. Vertical farming does not feed a city; it supplies it with salad."
+            },
+            {
+              "label": "D",
+              "text": "The investment cycle has already turned. Between 2022 and 2023 several of the best-funded companies failed or withdrew: Fifth Season closed its Ohio plant, Kalera filed for bankruptcy, Infarm cut most of its operations, and AppHarvest, a greenhouse business rather than a vertical one, went the same way. The pattern repeated itself, with a large raise, a showcase farm, energy costs above the model and a second raise that never arrived."
+            },
+            {
+              "label": "E",
+              "text": "What survives is smaller and closer to the customer. The farms still opening tend to be modest in size, built on the edge of a city and tied to a particular buyer, such as a supermarket chain that wants a fixed supply of herbs or a restaurant group that will pay for leaves cut the same morning. Distance is the product: the value lies not in the yield per square metre but in the four hours between harvest and plate."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What is the basic claim made for vertical farming?",
+              "options": [
+                { "key": "A", "text": "It can produce far more from a given area of ground than a field can." },
+                { "key": "B", "text": "It uses no water and no chemical inputs at all." },
+                { "key": "C", "text": "It can grow staple grains more cheaply than open farmland." },
+                { "key": "D", "text": "It removes the need for skilled labour in food production." }
+              ],
+              "answer": "A",
+              "analysis": "A 段末句 a hundred times the yield of a field on the same footprint，卖点是同等占地百倍产量，A 对。B 项原文只说 in water rather than soil、no pesticides，并未说不用水不用肥；C 项恰是 C 段否定的（主粮无法竞争）；D 项原文未提劳动力。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "a hundred times the yield of a field on the same footprint"
+            },
+            {
+              "number": 47,
+              "stem": "Why does artificial lighting dominate the economics of indoor growing?",
+              "options": [
+                { "key": "A", "text": "Diodes fail too often to be used commercially." },
+                { "key": "B", "text": "Plants grow more slowly under pink light than under sunlight." },
+                { "key": "C", "text": "Installing the lamps requires costly structural work." },
+                { "key": "D", "text": "The electricity needed for a kilogram of lettuce costs more than the lettuce earns." }
+              ],
+              "answer": "D",
+              "analysis": "B 段说每公斤生菜约需十到二十千瓦时电，在多数市场这笔电费高于生菜售价，这正是\"阳光免费、电不免费\"的核心，D 对。A、C 项原文未提；B 项把\"成本\"偷换成\"生长速度\"，原文没有比较两种光下的生长速度。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "costs more than the lettuce itself sells for"
+            },
+            {
+              "number": 48,
+              "stem": "Why does the industry grow almost nothing but leafy greens and herbs?",
+              "options": [
+                { "key": "A", "text": "These crops need no nutrients beyond water." },
+                { "key": "B", "text": "They fetch a high price per kilogram and are cut while still young." },
+                { "key": "C", "text": "They can be grown without any artificial light." },
+                { "key": "D", "text": "Consumers distrust salad that has been grown outdoors." }
+              ],
+              "answer": "B",
+              "analysis": "C 段给出两个原因：按重量卖、每公斤价格高，而且可以\"年轻时就采收\"（周期短、周转快），B 对。A 项与无土栽培仍需营养液的事实不符；C 项与全篇\"靠 LED 补光\"矛盾；D 项原文无此说法。",
+              "type": "推理题",
+              "evidencePara": "C",
+              "evidenceText": "sold fresh, by weight, at a high price per kilogram, and can be harvested young"
+            },
+            {
+              "number": 49,
+              "stem": "What did the companies that failed have in common?",
+              "options": [
+                { "key": "A", "text": "They had concentrated on staple crops rather than salad." },
+                { "key": "B", "text": "They had built their farms far from any city." },
+                { "key": "C", "text": "Their running costs beat the business model and the next round of funding did not come." },
+                { "key": "D", "text": "They were taken over by supermarket chains." }
+              ],
+              "answer": "C",
+              "analysis": "D 段末句总结的共同模式是：大额融资、示范农场、能源成本高于模型、第二轮融资没来，C 对。A 项与 C 段\"业内几乎只种叶菜\"矛盾；B 项原文说的是新兴农场建在城市边缘，破产者并非因选址偏远；D 项原文未提被超市收购。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "energy costs above the model and a second raise that never arrived"
+            },
+            {
+              "number": 50,
+              "stem": "The remark that \"Distance is the product\" means that customers are paying for",
+              "options": [
+                { "key": "A", "text": "the farmland that indoor growing leaves unused." },
+                { "key": "B", "text": "the absence of pesticides in the growing room." },
+                { "key": "C", "text": "the volume harvested from each square metre." },
+                { "key": "D", "text": "the short interval between cutting the leaves and selling them." }
+              ],
+              "answer": "D",
+              "analysis": "E 段紧接着解释：价值不在每平方米产量，而在\"从采收到上桌的四小时\"，即新鲜度/短半径，D 对。C 项恰是作者明确否定的 the yield per square metre；A、B 项是 A 段罗列的一般卖点，不是这句话的意思。",
+              "type": "词句含义题",
+              "evidencePara": "E",
+              "evidenceText": "the value lies not in the yield per square metre but in the four hours between harvest and plate"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For most of the twentieth century, city rivers were treated as drains. In Seoul a four-lane highway was built over the Cheonggyecheon in the 1970s; in many European cities, streams disappeared into concrete pipes and were forgotten by everyone except the engineers who maintained them. The logic was practical: water in a city floods, smells, and takes up space that cars could use."
+            },
+            {
+              "label": "B",
+              "text": "The reversal began in the 1990s, when Seoul decided to remove the highway and restore the stream beneath it. The project was expensive and contentious: thousands of traders lost their pitches, traffic was disrupted for two years, and engineers had to pump water into the channel because the stream no longer had a natural flow. When it opened in 2005, critics predicted that it would become a drained concrete ditch within a year."
+            },
+            {
+              "label": "C",
+              "text": "Instead it became a landmark. Summer temperatures beside the water measured several degrees below those on nearby streets; bird and fish species returned; the area attracted millions of visitors a year. Property values within a few hundred metres rose. Similar projects followed in Europe and North America, usually on a smaller scale: a culvert removed here, a car park replaced by a wetland there."
+            },
+            {
+              "label": "D",
+              "text": "The benefits are real but unevenly shared. In Seoul the restored stream runs through a district that was already commercial, and rising land values pushed out some of the small workshops that had survived there. A river that becomes an attraction also becomes a managed space, with rules about sitting, swimming and fishing. And the water is often pumped, which means part of the ecological gain is a stage set."
+            },
+            {
+              "label": "E",
+              "text": "None of this makes the projects pointless. A city that can see its river is more likely to protect it, and the physical removal of concrete is difficult to reverse, which gives the decision weight. But the honest lesson is narrower than the promotional films suggest: daylighting works where the water can be cleaned, where the space is not needed for traffic, and where the neighbourhood is helped to stay rather than priced out."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why were urban rivers covered or built over in the past?",
+              "options": [
+                { "key": "A", "text": "Engineers wanted to test new materials." },
+                { "key": "B", "text": "The water was considered a nuisance and the land was needed." },
+                { "key": "C", "text": "City governments were required to do so by law." },
+                { "key": "D", "text": "Rivers were thought to attract too many visitors." }
+              ],
+              "answer": "B",
+              "analysis": "A 段末：理由很实际——城市里的水会泛滥、发臭，还占用了本可给汽车用的空间。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "floods, smells, and takes up space that cars could use"
+            },
+            {
+              "number": 52,
+              "stem": "What made the Seoul project controversial?",
+              "options": [
+                { "key": "A", "text": "It was costly and displaced traders while disrupting traffic." },
+                { "key": "B", "text": "It destroyed a historic bridge." },
+                { "key": "C", "text": "It required the river to be diverted outside the city." },
+                { "key": "D", "text": "It was funded entirely by foreign investors." }
+              ],
+              "answer": "A",
+              "analysis": "B 段：项目昂贵且争议大——数千商贩失去摊位、交通中断两年，还得往河道里抽水。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "thousands of traders lost their pitches, traffic was disrupted"
+            },
+            {
+              "number": 53,
+              "stem": "Which effect of the restored stream is mentioned?",
+              "options": [
+                { "key": "A", "text": "A fall in the number of birds in the district." },
+                { "key": "B", "text": "Cooler summer air and higher property values nearby." },
+                { "key": "C", "text": "A sharp drop in the price of housing." },
+                { "key": "D", "text": "The return of commercial shipping." }
+              ],
+              "answer": "B",
+              "analysis": "C 段：水边夏季气温比邻近街道低好几度，鸟和鱼回来了，周边房价上涨。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "several degrees below those on nearby streets"
+            },
+            {
+              "number": 54,
+              "stem": "What criticism does the author make of such projects?",
+              "options": [
+                { "key": "A", "text": "They rarely attract visitors." },
+                { "key": "B", "text": "They cost more than the highways they replace." },
+                { "key": "C", "text": "Their benefits are uneven, and some of the ecology is artificial." },
+                { "key": "D", "text": "They always reduce the value of nearby property." }
+              ],
+              "answer": "C",
+              "analysis": "D 段：好处分配不均——地价上涨挤走了原有的小作坊；河流成了「被管理的空间」，而且水常常是抽来的，生态收益有一部分是「布景」。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "part of the ecological gain is a stage set"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author say is the value of removing concrete?",
+              "options": [
+                { "key": "A", "text": "It is cheap compared with other urban projects." },
+                { "key": "B", "text": "It is hard to undo, which makes the decision significant." },
+                { "key": "C", "text": "It can be repeated in every city without conditions." },
+                { "key": "D", "text": "It removes the need for any future maintenance." }
+              ],
+              "answer": "B",
+              "analysis": "E 段：能看见河的市民更愿意保护它，而拆掉混凝土很难逆转——正因难以回头，这个决定才有分量。同段末句还强调，这一做法只在特定条件下才成立，因此 C 错。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "difficult to reverse, which gives the decision weight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国的新能源汽车产业发展迅速，产销量已连续多年位居世界第一。十年前，充电桩稀少，电池成本高，许多消费者担心车子跑到半路没电。如今，城市里的公共充电站随处可见，快充半小时左右就能补充大部分电量。电池技术的进步使整车价格不断下降，部分车型售价已低于同级的燃油车。政府早期的补贴起了推动作用，但近年逐步退出，市场本身成为主要增长动力。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChina's new-energy vehicle industry has grown rapidly, and the country has ranked first in the world in both production and sales for several years running. A decade ago charging piles were scarce and batteries were expensive, so many buyers worried that their car would run out of power halfway through a journey. Today public charging stations can be found everywhere in cities, and a fast charge of about half an hour restores most of the battery. Progress in battery technology has kept pushing prices down, and some models now sell for less than a petrol car of the same class. Subsidies from the government gave the industry an early push, but they have been phased out in recent years, and the market itself has become the main driver of growth.\n\n【要点】①「产销量位居世界第一」用 rank first in both production and sales；②「连续多年」用 for several years running；③「跑到半路没电」用 run out of power halfway；④「补贴逐步退出」用 be phased out；⑤注意时态：十年前与如今对比，用一般过去时与一般现在时。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

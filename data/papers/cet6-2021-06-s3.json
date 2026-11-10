@@ -1,0 +1,637 @@
+{
+  "id": "cet6-2021-06-s3",
+  "level": "CET6",
+  "year": 2021,
+  "month": 6,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether paper books will disappear in the age of digital reading. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nWill Paper Books Disappear?\n\nEvery few years someone predicts that the printed book will follow the vinyl record into the museum. The sales figures refuse to cooperate. E-books rose and then flattened; print, in most markets, has held or recovered.\n\nThe case for disappearance is easy. A phone holds a thousand books and weighs nothing; a screen can be read in the dark, searched, and bought at midnight. For a student who moves every year, a shelf is a liability, and for the reader of cheap fiction, price decides.\n\nYet the book is a technology with unusual advantages. It needs no charging, it does not interrupt, and its pages do not compete with a notification. Paper is also better at what readers value most: remembering where a passage was, and how far there is to go. The object carries a memory that a progress bar does not.\n\nThe likely future is neither triumph nor extinction but a division of labour. Reference, news and romance will be read on screens; illustrated books, gifts and anything a reader wants to keep will be printed. The book will become less ordinary and more chosen, which is not the same as disappearing.\n\n（约 195 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For twenty years the problem at famous sites was how to attract visitors; the problem now is how to 26______ them. A wall that once received five thousand people a day receives twenty thousand, most of them arriving in the same four hours, and the experience they came for is destroyed by the crowd that came for it. Booking systems are the standard answer: a fixed number of slots, 27______ online a week in advance, and entry checked at the gate."
+            },
+            {
+              "label": "B",
+              "text": "The gains are real. A cap protects the fabric of a fragile site, gives managers a 28______ basis for staffing, and spares residents the worst of the season. It also produces data: once every visitor must 29______, the authority knows who comes, from where, and how long they stay. Several parks have used that information to 30______ pressure away from the honeypot and towards routes that were never promoted."
+            },
+            {
+              "label": "C",
+              "text": "The costs are less often admitted. A queue that forms online is still a queue, and a family that cannot 31______ a slot at short notice has been excluded as effectively as one that cannot afford the ticket. Older visitors, and those without a smartphone, depend on the counter; when the counter is closed 'for efficiency', the 32______ falls on the least confident. Scalping is another 33______: where demand exceeds supply, someone will build a business around the difference, and a sold-out Saturday can reappear at three times the price."
+            },
+            {
+              "label": "D",
+              "text": "None of this argues for abandoning the cap. It argues for designing it 34______. Slots should be free or cheap, released in batches rather than in one frantic morning, and reserved in part for local residents and for schools. Off-peak hours should be 35______ cheaper than the middle of August, so that demand spreads instead of concentrating. And every online system needs a telephone line beside it, staffed by a person who can say yes."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "abandon" },
+                { "key": "B", "text": "limit" },
+                { "key": "C", "text": "refuse" },
+                { "key": "D", "text": "shortage" }
+              ],
+              "answer": "B",
+              "analysis": "分号前后对照：过去是「如何吸引游客」，如今是「如何限制游客」；后文一天两万人、同一时段涌入，正说明需要控制数量。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "receives twenty thousand"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "released" },
+                { "key": "B", "text": "abandon" },
+                { "key": "C", "text": "crowded" },
+                { "key": "D", "text": "refuse" }
+              ],
+              "answer": "A",
+              "analysis": "预约名额「提前一周在网上放出」，released 修饰 slots 作后置定语；online 与 in advance 都提示这是放票动作。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a week in advance"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "crowded" },
+                { "key": "B", "text": "rational" },
+                { "key": "C", "text": "shortage" },
+                { "key": "D", "text": "gradually" }
+              ],
+              "answer": "B",
+              "analysis": "限流让游客量可预测，管理者因此有了「合理的」排班依据；a rational basis for 为常见搭配，与后文 produces data 呼应。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "gives managers a ______ basis for staffing"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "refuse" },
+                { "key": "B", "text": "register" },
+                { "key": "C", "text": "abandon" },
+                { "key": "D", "text": "crowded" }
+              ],
+              "answer": "B",
+              "analysis": "must 后接动词原形：每位游客都要「登记」，管理部门才知道来客是谁、来自哪里、停留多久。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "the authority knows who comes, from where"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "shift" },
+                { "key": "B", "text": "refuse" },
+                { "key": "C", "text": "gradually" },
+                { "key": "D", "text": "abandon" }
+              ],
+              "answer": "A",
+              "analysis": "用数据把客流「转移」到从未宣传过的线路上；shift pressure away from... towards... 构成完整的方向搭配。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "away from the honeypot and towards routes that were never promoted"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "secure" },
+                { "key": "B", "text": "refuse" },
+                { "key": "C", "text": "shortage" },
+                { "key": "D", "text": "abandon" }
+              ],
+              "answer": "A",
+              "analysis": "cannot 后接原形：临时通知下「弄到」名额；secure a slot 表示成功获得，与后半句「被排除」形成因果。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "has been excluded as effectively as one that cannot afford the ticket"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "crowded" },
+                { "key": "B", "text": "shortage" },
+                { "key": "C", "text": "burden" },
+                { "key": "D", "text": "gradually" }
+              ],
+              "answer": "C",
+              "analysis": "人工窗口以「效率」为名关闭后，代价落在最没把握的人身上；the burden falls on sb 为固定表达。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the counter is closed 'for efficiency'"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "distortion" },
+                { "key": "B", "text": "crowded" },
+                { "key": "C", "text": "shortage" },
+                { "key": "D", "text": "gradually" }
+              ],
+              "answer": "A",
+              "analysis": "冒号后解释：需求大于供给时有人靠差价做生意、售罄的周六以三倍价格重现，这是预约制被「扭曲」的表现。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "can reappear at three times the price"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "gradually" },
+                { "key": "B", "text": "properly" },
+                { "key": "C", "text": "crowded" },
+                { "key": "D", "text": "refuse" }
+              ],
+              "answer": "B",
+              "analysis": "None of this argues for abandoning 之后转折：问题不在限流本身，而在「如何设计」；后文列出的分批放票、本地配额、淡季差价都是设计得当的细则。",
+              "type": "逻辑题",
+              "evidencePara": "D",
+              "evidenceText": "It argues for designing it"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "markedly" },
+                { "key": "B", "text": "gradually" },
+                { "key": "C", "text": "abandon" },
+                { "key": "D", "text": "crowded" }
+              ],
+              "answer": "A",
+              "analysis": "淡季应比八月旺季「明显」便宜，需求才会分散而非集中；markedly 修饰比较级 cheaper，语气强于 gradually（逐渐变便宜）。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "so that demand spreads instead of concentrating"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The cold chain is the unglamorous machinery that stands between a harvest and a meal: a pre-cooling room, a refrigerated truck, a packhouse, a display cabinet. Its purpose is not to make food cold but to keep it cold, without interruption, from the field to the fork. A single break—an hour on a loading bay in July—can undo a week of careful handling, and the loss is invisible until somebody opens the crate."
+            },
+            {
+              "label": "B",
+              "text": "The step most often skipped is the first one. Produce leaves the field warm, and the heat it carries must be removed quickly; a delay of a few hours shortens shelf life by days. Pre-cooling equipment is cheap relative to a truck, yet it is the item small growers are least likely to own, because the benefit is spread over a season and the cost is paid today. Where a collection centre has a cooling room, the whole district's produce improves."
+            },
+            {
+              "label": "C",
+              "text": "Infrastructure is uneven in ways that are easy to miss. A country may have excellent cold stores at its ports and none on the roads between them; a market may have refrigerated counters and no reliable power to run them. Diesel generators fill the gap at a price, and fuel is often the largest cost after labour. Solar-powered units have begun to change the arithmetic where the sun is reliable and the grid is not."
+            },
+            {
+              "label": "D",
+              "text": "The smallholder's problem is volume. A farmer with two crates of tomatoes cannot fill a refrigerated truck, and no operator will send one for a fraction of a load. Shared collection points solve this by aggregating produce from dozens of farms, but they require trust, a schedule, and somebody to enforce quality standards when a single bad crate can spoil the consignment. Cooperatives that have managed it have raised prices more than any aid programme."
+            },
+            {
+              "label": "E",
+              "text": "The chain also breaks at the other end. Open display cabinets in warm shops, a fridge door left open, a domestic refrigerator set too warm, a shopping bag left in a car: each is a small failure, and together they account for a surprising share of the food thrown away in rich countries. The consumer is the last link, and the only one with no training, no thermometer and no incentive to record anything."
+            },
+            {
+              "label": "F",
+              "text": "What improves matters is measurement rather than exhortation. Cheap temperature loggers attached to a pallet turn a vague promise into a record that a buyer can check, and a record changes behaviour faster than a poster. Certification schemes work when they are audited by someone other than the seller. The cost of compliance is real, but it is usually smaller than the cost of the losses that nobody currently counts."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The aim is uninterrupted cold rather than a single chilling.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "A",
+              "analysis": "A 段：冷链的目的不是把食物变冷，而是「不间断地」保持低温，从田间到餐桌；一次断链能毁掉一周的精心处理。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "not to make food cold but to keep it cold, without interruption"
+            },
+            {
+              "number": 37,
+              "stem": "A few hours of delay can cost days of shelf life.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：果蔬带着田间热离田，耽搁几小时会让货架期缩短好几天。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "a delay of a few hours shortens shelf life by days"
+            },
+            {
+              "number": 38,
+              "stem": "Small growers seldom own the equipment that cools produce first.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：预冷设备相对于卡车并不贵，却是小农最不可能拥有的东西——收益摊在整季，成本却要今天付。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "the item small growers are least likely to own"
+            },
+            {
+              "number": 39,
+              "stem": "Cold stores may exist at ports yet be missing along the routes.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：港口可能有很好的冷库，港口之间的公路上却一个也没有；基础设施的不均衡容易被忽略。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "cold stores at its ports and none on the roads between them"
+            },
+            {
+              "number": 40,
+              "stem": "Where the grid is unreliable, diesel is burned to keep things cold.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：柴油发电机以不低的代价填补电力缺口，燃料常是人工之外的最大成本；太阳能设备只在日照稳定、电网薄弱处开始改变算法。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "Diesel generators fill the gap at a price"
+            },
+            {
+              "number": 41,
+              "stem": "Sharing collection points requires trust and quality control.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：共用收集点靠聚合几十家农户的产量解决运量问题，但需要信任、排期，以及有人执行质量标准——一箱坏果会毁掉整批货。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "they require trust, a schedule, and somebody to enforce quality standards"
+            },
+            {
+              "number": 42,
+              "stem": "Working together has raised farm incomes more than aid has.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：做到这一点的合作社，其提价效果超过任何援助项目。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "raised prices more than any aid programme"
+            },
+            {
+              "number": 43,
+              "stem": "Faults in shops and homes waste a large amount of food.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：敞开的陈列柜、没关的冰箱门、温度调得太高的家用冰箱、放在车里的购物袋，这些小的失误合起来占富国丢弃食物的相当比例。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "a surprising share of the food thrown away in rich countries"
+            },
+            {
+              "number": 44,
+              "stem": "Consumers lack both training and any reason to keep records.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：消费者是最后一环，也是唯一没有受过训练、没有温度计、没有动机记录任何数据的一环。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "no training, no thermometer and no incentive to record anything"
+            },
+            {
+              "number": 45,
+              "stem": "A record of temperatures changes behaviour better than advice does.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：托盘上的廉价温度记录仪把空泛的承诺变成可核查的记录，而「记录改变行为比海报更快」。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "a record changes behaviour faster than a poster"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The word 'bullying' has expanded. It once meant a bigger boy taking a smaller boy's money; it now includes exclusion from a group chat, a nickname that follows a child home, and a photograph circulated without consent. The expansion is right on the ethics and awkward on the measurement, because the behaviours that damage children most are the ones that leave no bruise and no witness, and a school that counts only fights will conclude that it has no problem."
+            },
+            {
+              "label": "B",
+              "text": "The most useful research concerns the audience. Bullying is rarely a private act between two people; it is a performance, and its continuation depends on how the watchers respond. Studies that follow classrooms over a year find that the presence of even one defender—a child who sits beside the target or tells an adult—shortens episodes substantially. Programmes that train bystanders therefore achieve more than programmes that threaten bullies, whose behaviour is often reinforced by the attention that punishment brings."
+            },
+            {
+              "label": "C",
+              "text": "Whole-school approaches have the best evidence, and they are also the slowest. They change routines rather than individuals: a consistent response from every adult, a curriculum that names the behaviour, supervision in the corridors where it happens, and a survey of pupils' own experience twice a year. Zero-tolerance policies, popular with politicians, have weaker support: suspension removes the offender from sight, gives him an audience elsewhere, and predicts further exclusion rather than less bullying."
+            },
+            {
+              "label": "D",
+              "text": "Teachers are the pivot and the bottleneck. A form tutor may be the only adult a child trusts, and also the person with thirty other children, a syllabus and a marking load. Reporting systems that require a child to fill in a form, or to be seen walking into the head's office, are used least by the children who need them most. Anonymous channels increase reporting, but they also produce claims that cannot be investigated, and a school needs a procedure for both."
+            },
+            {
+              "label": "E",
+              "text": "The temptation is to respond with a campaign: an assembly, a wristband, a week of posters. Assemblies cost little and change little. What can be measured is climate—whether pupils believe an adult will act, whether they know how to report, whether the same child is repeatedly at the centre of incidents. A school that tracks those three things will know more about bullying than one that has signed a declaration, and will be harder to satisfy with a slogan."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the first paragraph imply about how schools measure bullying?",
+              "options": [
+                { "key": "A", "text": "Narrow definitions make the problem look smaller than it is." },
+                { "key": "B", "text": "Physical violence is now the main concern." },
+                { "key": "C", "text": "Pupils refuse to report anything to teachers." },
+                { "key": "D", "text": "Schools collect more data than they can use." }
+              ],
+              "answer": "A",
+              "analysis": "A 段：最伤人的行为往往「没有淤青、没有目击者」，只统计打架的学校会得出「我们没有问题」的结论——即定义过窄导致低估。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "a school that counts only fights will conclude that it has no problem"
+            },
+            {
+              "number": 47,
+              "stem": "Why do programmes that train bystanders work?",
+              "options": [
+                { "key": "A", "text": "Because they punish offenders more severely." },
+                { "key": "B", "text": "Because they reduce the number of pupils in a class." },
+                { "key": "C", "text": "Because bullying depends on how onlookers respond." },
+                { "key": "D", "text": "Because they remove the target from the school." }
+              ],
+              "answer": "C",
+              "analysis": "B 段：欺凌不是两人之间的私事，而是一场「表演」，能否持续取决于旁观者如何反应；哪怕只有一个支持者，事件也会明显缩短。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "its continuation depends on how the watchers respond"
+            },
+            {
+              "number": 48,
+              "stem": "What is the weakness of zero-tolerance policies?",
+              "options": [
+                { "key": "A", "text": "They are too expensive for most schools." },
+                { "key": "B", "text": "They may increase exclusion without reducing bullying." },
+                { "key": "C", "text": "They require pupils to testify in public." },
+                { "key": "D", "text": "They ignore the role of the audience." }
+              ],
+              "answer": "B",
+              "analysis": "C 段：停学只是让施暴者从眼前消失，却在别处获得观众，且「预测的是更多排斥而非更少欺凌」，故证据支持较弱。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "predicts further exclusion rather than less bullying"
+            },
+            {
+              "number": 49,
+              "stem": "Why are formal reporting systems little used?",
+              "options": [
+                { "key": "A", "text": "They are too slow to produce any result." },
+                { "key": "B", "text": "They are only open to older pupils." },
+                { "key": "C", "text": "Teachers refuse to read the forms." },
+                { "key": "D", "text": "Using them exposes the child who reports." }
+              ],
+              "answer": "D",
+              "analysis": "D 段：要求填表、或被人看见走进校长办公室，都会暴露举报者；因此最需要帮助的孩子用得最少。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "to be seen walking into the head's office"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author prefer to an anti-bullying campaign?",
+              "options": [
+                { "key": "A", "text": "A declaration signed by every pupil." },
+                { "key": "B", "text": "Tracking climate and repeated incidents." },
+                { "key": "C", "text": "More assemblies at the start of term." },
+                { "key": "D", "text": "Harsher punishments for offenders." }
+              ],
+              "answer": "B",
+              "analysis": "E 段：集会花钱少、改变也少；可测量的是「气候」——学生是否相信大人会行动、是否知道如何举报、同一个孩子是否反复出现在事件中心。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "whether the same child is repeatedly at the centre of incidents"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The puppy in the advertisement is small, quiet and eight weeks old. Two years later it is large, bored and alone for ten hours a day, and the family that bought it is moving to a flat that does not allow pets. Multiply the story by a few hundred thousand and you have the intake figures of a city's shelters, which rise every January and every summer holiday, and which no amount of rehoming has ever managed to clear."
+            },
+            {
+              "label": "B",
+              "text": "Shelters describe a trap of their own making. A 'no-kill' policy is popular with donors, and it works where it means managing intake: keeping animals in their homes, supporting owners through a crisis, and being honest about what the shelter can hold. It fails where it becomes a promise never to euthanise, because the animals that cannot be rehomed accumulate, kennels fill, and the same shelter begins to turn away the cases that most need it."
+            },
+            {
+              "label": "C",
+              "text": "The cheapest intervention is at the point of acquisition, and it is the one least often tried. Most abandoned animals were bought, not adopted, and many were bought on impulse from a shop, a market or a social-media account. Registration and microchipping make an owner findable, which is why they are sometimes resisted; a licence fee that reflected the cost of a large dog's lifetime care would reduce the number of large dogs bought as presents. Neither measure is popular, and both are cheaper than a shelter place."
+            },
+            {
+              "label": "D",
+              "text": "For community cats the argument is different and more bitter. Trap-neuter-return reduces colonies slowly, and only where it is maintained for years; feeding bans, which are cheaper and popular, disperse the animals and increase the complaints they were meant to answer. Public health officials worry about rabies, wildlife groups about birds, and residents about noise. The evidence favours sterilisation and is against removal, but the evidence is slow and the politics is fast."
+            },
+            {
+              "label": "E",
+              "text": "What the arguments share is a reluctance to pay at the beginning. A city that funds sterilisation, registration and inspection of breeders will spend less on shelters, but the saving will appear in a different department's budget in a different year, which is why it is rarely made. Responsibility is a word used in campaigns and seldom in budgets. Until it appears in a budget, the puppy in the advertisement will keep being born, and the shelter will keep being full."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the first paragraph illustrate?",
+              "options": [
+                { "key": "A", "text": "Most abandoned animals are found as strays." },
+                { "key": "B", "text": "Shelters exaggerate the number of animals they receive." },
+                { "key": "C", "text": "Animals are given up when they no longer fit their owners' lives." },
+                { "key": "D", "text": "Small dogs are abandoned more often than large ones." }
+              ],
+              "answer": "C",
+              "analysis": "A 段：广告里八周大的小狗，两年后变大、无聊、每天独处十小时，而家庭要搬进不许养宠物的公寓——被弃养源于动物与主人生活的错配。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "moving to a flat that does not allow pets"
+            },
+            {
+              "number": 52,
+              "stem": "When does a no-kill policy fail?",
+              "options": [
+                { "key": "A", "text": "When it becomes an absolute rule the shelter cannot keep." },
+                { "key": "B", "text": "When donors stop giving money." },
+                { "key": "C", "text": "When the shelter accepts too few animals." },
+                { "key": "D", "text": "When owners refuse to reclaim their pets." }
+              ],
+              "answer": "A",
+              "analysis": "B 段：若「不杀」意味着管理收容数量，尚可行；一旦变成「绝不实施安乐死」的承诺，无法送养的动物越积越多，收容所反而开始拒收最需要帮助的个案。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "a promise never to euthanise"
+            },
+            {
+              "number": 53,
+              "stem": "Why are registration and microchipping sometimes resisted?",
+              "options": [
+                { "key": "A", "text": "They are too expensive for most owners." },
+                { "key": "B", "text": "They make the owner identifiable." },
+                { "key": "C", "text": "They are harmful to small animals." },
+                { "key": "D", "text": "They are required only for cats." }
+              ],
+              "answer": "B",
+              "analysis": "C 段：登记与芯片让主人「可被找到」，which is why they are sometimes resisted；后文按大型犬终身照护成本收取许可费也是同一逻辑。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "make an owner findable"
+            },
+            {
+              "number": 54,
+              "stem": "What does the evidence on community cats support?",
+              "options": [
+                { "key": "A", "text": "Banning the feeding of stray cats." },
+                { "key": "B", "text": "Removing colonies to other areas." },
+                { "key": "C", "text": "Sterilisation rather than removal." },
+                { "key": "D", "text": "Doing nothing until more research exists." }
+              ],
+              "answer": "C",
+              "analysis": "D 段：TNR 见效慢但有效，禁喂令只是驱散猫群、增加投诉；「证据支持绝育、反对迁走，只是证据慢、政治快」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "The evidence favours sterilisation and is against removal"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's final point?",
+              "options": [
+                { "key": "A", "text": "Shelters need more donations to expand." },
+                { "key": "B", "text": "Prevention is cheap but sits outside the budget that pays for shelters." },
+                { "key": "C", "text": "Breeders should be closed down by law." },
+                { "key": "D", "text": "Adoption campaigns have solved the problem." }
+              ],
+              "answer": "B",
+              "analysis": "E 段：前期投入会减少收容所开支，但省下的钱出现在另一部门、另一年度的预算里，所以很少被执行；「责任是竞选口号里的词，很少出现在预算里」。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "the saving will appear in a different department's budget in a different year"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n灯笼是中国传统的照明工具，也是节日里重要的装饰。它用竹篾或铁丝做骨架，外面糊上薄纸或绢，中间点蜡烛，后来多改用电灯。农历正月十五是元宵节，又叫灯节，人们挂灯笼、猜灯谜、吃元宵。各地灯笼样式各异：北方的宫灯端庄华丽，南方的灯笼则轻巧多样。红色灯笼象征喜庆与团圆，至今仍常见于婚礼、商铺和春节的街道。扎灯笼的手艺已被列入非物质文化遗产名录。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe lantern is a traditional Chinese means of lighting and an important decoration at festivals. Its frame is made of thin bamboo strips or iron wire and covered with thin paper or silk, with a candle burning inside; in later times an electric bulb usually took the candle's place. The fifteenth day of the first lunar month is the Lantern Festival, also called the Festival of Lights, when people hang lanterns, guess riddles written on them and eat sweet dumplings. Styles differ from place to place: the palace lanterns of the north are formal and splendid, while those of the south are light and varied. Red lanterns stand for festivity and reunion, and are still common at weddings, in shops and along the streets at Spring Festival. The craft of making lanterns has been placed on the list of intangible cultural heritage.\n\n【要点】①「照明工具」用 a means of lighting，避免直译为 lighting tool；②「用竹篾或铁丝做骨架」用被动 Its frame is made of...，与 covered with 并列；③「中间点蜡烛」用 with a candle burning inside 的独立结构；④「后来多改用电灯」用 in later times... took the candle's place，比 was replaced by 更自然；⑤「灯谜」译作 riddles written on them，交代谜语写在灯上；⑥「元宵」用 sweet dumplings，首次出现不必音译；⑦「被列入名录」用 has been placed on the list，时态用现在完成时。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

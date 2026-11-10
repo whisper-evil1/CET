@@ -1,0 +1,633 @@
+{
+  "id": "cet6-2021-06-s1",
+  "level": "CET6",
+  "year": 2021,
+  "month": 6,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether college students should start their own businesses before they graduate. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nShould College Students Start Businesses?\n\nUniversities now advertise entrepreneurship almost as enthusiastically as they advertise employment. The enthusiasm is understandable, but it deserves a more careful answer than either the cheerleaders or the sceptics usually give.\n\nStarting a company while studying has genuine advantages. Failure is cheap at twenty: a student has no mortgage and no dependants, and a campus full of people willing to test an idea for nothing. Finding a customer, pricing a service and discovering that one's first assumption was wrong teach more economics than a term of lectures.\n\nYet the case is easily overstated. Most student ventures are small, short-lived and unrelated to what the founder will do for the next forty years. A failed company is not a qualification, and the skills it teaches can be acquired in an internship without the debt. Nor should a university measure itself by the number of businesses its graduates register.\n\nThe sensible position is neither encouragement nor discouragement but provision: give students time, advice and small sums of money, protect their studies, and let them choose. Entrepreneurship should be an option on the menu, not the dish everybody is told to order.\n\n（约 195 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Food aid is usually imagined as a matter of generosity: rich countries give, poor countries receive, and the only question is how much. In practice it is a problem of 26______, and the problem has grown harder. A shipment of grain may cross three borders and change hands four times before it reaches a warehouse, and each handover is a chance for delay, loss or 27______. Agencies that once distributed whatever donors happened to send now 28______ to buy food in the region, both because it arrives sooner and because it puts money into the hands of farmers whose fields survived the drought."
+            },
+            {
+              "label": "B",
+              "text": "The shift is not universal. Some donors still 29______ of shipments in kind, partly because their own farm lobbies gain from them and partly because a bag stamped with a national flag is visible proof of help. Yet such purchases 30______ on markets that work, and in a famine the markets are often the first thing to fail. When prices are already climbing, a large agency buying grain in the region can push them higher and 31______ the households it means to assist."
+            },
+            {
+              "label": "C",
+              "text": "The deeper difficulty is 32______ of funding. A donor that pays for a shipment this year cannot promise to pay next year, so agencies cannot sign the multi-year contracts that would let a supplier invest in storage. The result is a system that answers 33______ to emergencies and badly to the slow erosion of resilience that comes before them. Reformers therefore ask for fewer and longer commitments, and for cash transfers where markets still work. What no reform can supply is 34______: no supply chain can deliver food into a district that armies are fighting over. But better logistics would at least ensure that the failure, when it comes, belongs to the war rather than to the 35______."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "obstacle" },
+                { "key": "B", "text": "logistics" },
+                { "key": "C", "text": "reverse" },
+                { "key": "D", "text": "generous" }
+              ],
+              "answer": "B",
+              "analysis": "冒号前说「通常被想象为慷慨问题」，in practice 转折后指出实际是「物流」问题；下文的海关、转运、仓库都在列举物流环节。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "A shipment of grain may cross three borders and change hands four times"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "obstacle" },
+                { "key": "B", "text": "reverse" },
+                { "key": "C", "text": "spoilage" },
+                { "key": "D", "text": "gradually" }
+              ],
+              "answer": "C",
+              "analysis": "与 delay、loss 并列，指粮食在多次转手中可能遭遇的第三种损耗；spoilage 指食物腐坏，符合 grain 的语境。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a chance for delay, loss or"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "prefer" },
+                { "key": "B", "text": "reverse" },
+                { "key": "C", "text": "gradually" },
+                { "key": "D", "text": "obstacle" }
+              ],
+              "answer": "A",
+              "analysis": "once...now... 表示态度转变：过去给什么发什么，现在「更愿意」就地采购；prefer to do sth 为固定搭配，后接 because 说明理由。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "both because it arrives sooner and because it puts money into the hands of farmers"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "reverse" },
+                { "key": "B", "text": "approve" },
+                { "key": "C", "text": "obstacle" },
+                { "key": "D", "text": "seldom" }
+              ],
+              "answer": "B",
+              "analysis": "The shift is not universal 之后举例说明仍有捐助方坚持实物援助；approve of sth 表示赞成，与后半句「本国农业游说团体受益」构成因果。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "The shift is not universal"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "depend" },
+                { "key": "B", "text": "gradually" },
+                { "key": "C", "text": "generous" },
+                { "key": "D", "text": "reverse" }
+              ],
+              "answer": "A",
+              "analysis": "Yet 转折说明就地采购也有前提：依赖运转正常的市场；depend on 为固定搭配，后文「饥荒时市场往往最先失灵」正是对这一依赖的补充。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "in a famine the markets are often the first thing to fail"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "obstacle" },
+                { "key": "B", "text": "harm" },
+                { "key": "C", "text": "gradually" },
+                { "key": "D", "text": "reverse" }
+              ],
+              "answer": "B",
+              "analysis": "and 连接两个由 can 引出的动词：抬高价格「伤害」它本想帮助的家庭；the households it means to assist 表明结果与意图相反。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "the households it means to assist"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "generous" },
+                { "key": "B", "text": "obstacle" },
+                { "key": "C", "text": "continuity" },
+                { "key": "D", "text": "seldom" }
+              ],
+              "answer": "C",
+              "analysis": "本段核心是「今年付、明年不一定付」，机构无法签多年合同；continuity of funding 指资金的连续性，后文 storage 投资与多年度合同都是其反证。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "cannot promise to pay next year"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "seldom" },
+                { "key": "B", "text": "swiftly" },
+                { "key": "C", "text": "gradually" },
+                { "key": "D", "text": "reverse" }
+              ],
+              "answer": "B",
+              "analysis": "answers ______ to emergencies and badly to... 为对照结构：对突发灾害反应「迅速」，对缓慢的韧性流失反应糟糕，故填副词 swiftly。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "and badly to the slow erosion of resilience"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "security" },
+                { "key": "B", "text": "reverse" },
+                { "key": "C", "text": "generous" },
+                { "key": "D", "text": "obstacle" }
+              ],
+              "answer": "A",
+              "analysis": "冒号后解释：任何供应链都无法把粮食送进交战区，可见改革补不上的是「安全」；What no reform can supply 提示此处应填正面名词。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "no supply chain can deliver food into a district that armies are fighting over"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "gradually" },
+                { "key": "B", "text": "paperwork" },
+                { "key": "C", "text": "obstacle" },
+                { "key": "D", "text": "generous" }
+              ],
+              "answer": "B",
+              "analysis": "the war rather than the ______ 是对照收尾：失败应归于战争而非「文书工作」，与 logistics、contracts、pledges 等行政环节呼应，含讽刺意味。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "belongs to the war rather than to the"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Every year the same photographs appear: a cathedral roof collapsing into its own nave, a row of timber houses reduced to chimneys, firefighters standing in a street too narrow for their engine. Such losses are usually reported as accidents, but they are better understood as the predictable result of a particular kind of building. Historic centres were laid out before fire brigades existed, in materials that burn readily, at densities that let one roof ignite the next. A single faulty wire in an attic can consume a town's inheritance in a night."
+            },
+            {
+              "label": "B",
+              "text": "The first instinct of modern fire engineering is detection. Yet a smoke alarm is useful only if somebody can act on it within minutes, and in an old quarter the obstacles begin at the street. Appliances cannot pass, hydrants are scarce, and water pressure designed for a village of two thousand must serve a million visitors. Where access is the binding constraint, money is better spent on suppression inside the building—a mist system in the roof space, a dedicated tank in the cellar—than on sensors that summon help which cannot arrive."
+            },
+            {
+              "label": "C",
+              "text": "The awkward truth is that codes written for new buildings are often impossible to apply to old ones. Two staircases, widened exits, fire doors every few metres: each would require demolishing the fabric that makes the place worth protecting. Conservationists have therefore learned to negotiate, accepting hidden sprinkler pipework, fire-retardant treatments that do not change appearance, and compartmentation in spaces visitors never see. The compromise is imperfect, but a building that survives with modern pipes is preferable to a ruin that was technically compliant."
+            },
+            {
+              "label": "D",
+              "text": "Surveys of fires in historic districts point to a cause less glamorous than arson or lightning: the retrofitting of modern comfort into ancient structures. Heating systems, air conditioning, new lighting for tourists and the tangle of cables that follows are installed by contractors expert in neither electricity nor heritage. Maintenance budgets are cut first when money is short, and the staff who remain are rarely trained to use an extinguisher. Several of the worst losses on record began in an overloaded socket during renovation work."
+            },
+            {
+              "label": "E",
+              "text": "If the building is the wrong unit of analysis, the block may be the right one. Fire does not respect property lines; it travels along shared roofs and through party walls, and a single unprotected gap can defeat every measure taken inside a neighbour. The cities that have done best planned at the scale of the street: shared fire walls, coordinated evacuation drills, a register of who holds the keys, and residents taught what to do in the first five minutes. Protecting one monument while ignoring the terrace beside it is an expensive way to lose both."
+            },
+            {
+              "label": "F",
+              "text": "After the fire comes the argument about rebuilding. To reproduce the destroyed structure faithfully is to create a replica; to build something new in its place is to admit that the original is gone. Both positions have honest defenders, and the argument usually ends in a compromise nobody loves. The more useful lesson is financial. Reconstruction costs many times what prevention would have cost, yet the money appears only after the photographs. Insurance, where it exists, is priced for ordinary buildings; the premium that would pay for a proper suppression system is exactly the one heritage bodies decline to afford."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Old quarters burn easily because of their materials, density and layout.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "A",
+              "analysis": "A 段：材料易燃、密度大、一屋顶点燃下一屋顶，且街区布局建于消防队出现之前。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "in materials that burn readily, at densities that let one roof ignite the next"
+            },
+            {
+              "number": 37,
+              "stem": "In dense old towns, help may simply be unable to reach the fire.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：消防车进不去、消火栓稀少、水压不足，即「救援无法抵达」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "Appliances cannot pass, hydrants are scarce"
+            },
+            {
+              "number": 38,
+              "stem": "Modern heating and wiring installed during renovation have started serious fires.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：为游客加装供暖、空调、照明与电缆，由既不懂电也不懂遗产的承包商施工，多起最严重火灾起于翻修时过载的插座。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "began in an overloaded socket during renovation work"
+            },
+            {
+              "number": 39,
+              "stem": "Rules designed for new buildings would destroy what is worth preserving.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：双楼梯、加宽出口、防火门都要拆掉「使这地方值得保护」的建筑本体。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "demolishing the fabric that makes the place worth protecting"
+            },
+            {
+              "number": 40,
+              "stem": "Fire protection works better when it is organised street by street.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：既然火不认产权边界，就应以街区为单位统一设防——共用防火墙、协同疏散演练。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "planned at the scale of the street"
+            },
+            {
+              "number": 41,
+              "stem": "Local people should be taught how to act during the first few minutes.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "E",
+              "analysis": "E 段列举街区层面的做法，其中包括 residents taught what to do in the first five minutes。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "residents taught what to do in the first five minutes"
+            },
+            {
+              "number": 42,
+              "stem": "Rebuilding exactly what was lost produces a copy rather than the original.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：忠实复建等于「造一个复制品」，另建新物则等于承认原物已失。",
+              "type": "词句含义题",
+              "evidencePara": "F",
+              "evidenceText": "To reproduce the destroyed structure faithfully is to create a replica"
+            },
+            {
+              "number": 43,
+              "stem": "Money is easier to raise after a disaster than before one.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：重建费用是预防的数倍，但钱只在照片见报后才出现；保险按普通建筑定价，能覆盖喷淋系统的保费恰恰是文保机构不愿承担的。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "the money appears only after the photographs"
+            },
+            {
+              "number": 44,
+              "stem": "Sensors are of limited use where access is the main problem.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：报警器只有「有人能在几分钟内行动」才有用；当可达性是硬约束时，钱更该花在建筑内部的抑制系统上。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "Where access is the binding constraint"
+            },
+            {
+              "number": 45,
+              "stem": "When funds are short, upkeep is the first thing to be sacrificed.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：钱一紧，维护预算最先被砍，留下的员工也少有人会用灭火器。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "Maintenance budgets are cut first when money is short"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The arithmetic of transplantation is brutal. Tens of thousands of people are waiting for a kidney, a liver or a heart; a few thousand operations are performed each year; and every name that moves up the list does so because somebody else died in circumstances that allowed their organs to be used. Governments have tried almost every lever available—publicity campaigns, registries, changes in the law—and the results vary by a factor of five between countries with similar wealth and similar medicine."
+            },
+            {
+              "label": "B",
+              "text": "Spain is the standard reference. Its rate of deceased donation is roughly double the European average, and it achieved this not by passing a law but by changing a hospital's habits. A trained coordinator, usually a doctor or nurse with standing among colleagues, is responsible for identifying possible donors and for talking to families. That conversation is the decisive step: consent is refused far more often when the request comes from a stranger in a corridor than when it comes from a clinician who has been treating the patient."
+            },
+            {
+              "label": "C",
+              "text": "The legal debate is often conducted as though the only question were the default. Under presumed consent, the state assumes that a citizen agrees unless they have registered an objection; under informed consent, it asks. The first looks more efficient on paper and has produced disappointing results in practice, because a statute cannot compel a family to say yes at the worst moment of their lives. Where relatives may veto the register, as they may almost everywhere, the law's default is one influence among many, and rarely the strongest."
+            },
+            {
+              "label": "D",
+              "text": "Mistrust does more damage than legal technicality. Communities that have reason to distrust hospitals—because of past experiments, because of how they were treated in a pandemic, because donation is explained to them only when it is needed—refuse at higher rates, and the refusal is rational given what they know. The remedy is not a better slogan but a standing relationship: donation discussed in ordinary clinics, in schools, in the languages people actually speak, by people who will still be there next year."
+            },
+            {
+              "label": "E",
+              "text": "The most promising reforms are therefore unglamorous. Separating the team that asks for consent from the team that will perform the transplant removes an obvious conflict of interest. Training in how to conduct the conversation, and auditing the results, spreads good practice. Expanding donation after circulatory death, which requires equipment and protocols rather than legislation, has added substantially to supply in several countries. None of this makes a good headline. All of it makes the list shorter."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the first paragraph suggest about the shortage of organs?",
+              "options": [
+                { "key": "A", "text": "It has been exaggerated by publicity campaigns." },
+                { "key": "B", "text": "It persists despite a wide range of policies." },
+                { "key": "C", "text": "It is caused mainly by a lack of surgeons." },
+                { "key": "D", "text": "It is smaller in wealthy countries." }
+              ],
+              "answer": "B",
+              "analysis": "A 段列举宣传、登记册、修法等各种手段，但国家间结果相差五倍，且等待名单仍在增加，说明缺口在多种政策下依旧存在。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "Governments have tried almost every lever available"
+            },
+            {
+              "number": 47,
+              "stem": "What accounts for Spain's high donation rate?",
+              "options": [
+                { "key": "A", "text": "A law that presumes everyone consents." },
+                { "key": "B", "text": "Larger hospitals and more surgeons." },
+                { "key": "C", "text": "A change in how hospitals work with families." },
+                { "key": "D", "text": "Higher payments to donor families." }
+              ],
+              "answer": "C",
+              "analysis": "B 段明确说不是靠立法，而是改变医院习惯：由受同事信任的协调员负责识别捐献者并与家属沟通。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "not by passing a law but by changing a hospital's habits"
+            },
+            {
+              "number": 48,
+              "stem": "Why has presumed consent disappointed its supporters?",
+              "options": [
+                { "key": "A", "text": "Families can still refuse when the moment comes." },
+                { "key": "B", "text": "Citizens object to it in large numbers." },
+                { "key": "C", "text": "It is more expensive to administer." },
+                { "key": "D", "text": "Doctors refuse to follow the statute." }
+              ],
+              "answer": "A",
+              "analysis": "C 段：法律无法强迫家属在人生最糟的时刻说「同意」；在允许亲属否决登记册的地方，默认条款只是众多影响因素之一。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "a statute cannot compel a family to say yes"
+            },
+            {
+              "number": 49,
+              "stem": "What does the author mean by saying the refusal is 'rational'?",
+              "options": [
+                { "key": "A", "text": "Refusing is legally safer for the family." },
+                { "key": "B", "text": "Distrust is a reasonable response to past treatment." },
+                { "key": "C", "text": "Families are unable to understand the request." },
+                { "key": "D", "text": "Donation is against most religions." }
+              ],
+              "answer": "B",
+              "analysis": "D 段把高拒绝率归因于「有理由不信任医院」的群体，并说「鉴于他们所知，拒绝是理性的」——即拒绝是对历史遭遇的合理反应。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "the refusal is rational given what they know"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's attitude towards the reforms in the last paragraph?",
+              "options": [
+                { "key": "A", "text": "They are effective though politically unrewarding." },
+                { "key": "B", "text": "They are too costly to be widely adopted." },
+                { "key": "C", "text": "They place too much faith in legislation." },
+                { "key": "D", "text": "They are unlikely to raise the supply of organs." }
+              ],
+              "answer": "A",
+              "analysis": "E 段称这些改革 unglamorous、None of this makes a good headline，但 All of it makes the list shorter，即有效却不出彩、政治上得不到好处。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "None of this makes a good headline. All of it makes the list shorter"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A heart stops. For every minute without chest compressions, the chance of survival falls by something like a tenth, and the ambulance, however fast, is rarely fast enough. The treatments that matter in those minutes are not medical in any specialised sense: someone has to notice, call, push hard on the centre of the chest, and, if a machine is nearby, attach it. Yet in most cities the proportion of people who do all four is small, and it is not because the skills are difficult."
+            },
+            {
+              "label": "B",
+              "text": "Public-access defibrillators were supposed to solve the second half of the problem. Thousands were installed in stations, gyms and shopping centres, and the devices were designed for anyone to use: they speak, they diagnose, they refuse to shock a heart that does not need it. The difficulty turned out to be locating them. A machine in a locked office, behind a reception desk that closes at six, or in a cabinet whose code nobody remembers is a machine that does not exist when it is needed."
+            },
+            {
+              "label": "C",
+              "text": "Training is the other half, and its arithmetic is unkind. A course of a few hours produces competent rescuers; the competence then decays, quietly, over months. Brief refreshers—twenty minutes, repeated—retain more than a long course taken once, yet most systems are funded to deliver the long course once. Fear is a further obstacle: people who know what to do still hesitate, afraid of causing harm, of being blamed, of touching a stranger. Legal protection exists in most countries; almost nobody knows that it does."
+            },
+            {
+              "label": "D",
+              "text": "Technology has produced two elegant answers and one caution. Smartphone networks can summon volunteers who are closer than any ambulance, and drones can drop a defibrillator on a roof terrace within minutes. Both work in trials, and both are expensive in ways that are easy to underestimate: a volunteer network needs insurance, training and someone to maintain the app; a drone fleet needs landing sites and airspace permission. Novelty attracts funding; maintenance rarely does."
+            },
+            {
+              "label": "E",
+              "text": "The lesson of the cities that have raised survival rates is therefore modest. They mapped their defibrillators and made the map public. They taught compression in schools, year after year, to every cohort. They gave dispatchers a script that keeps a caller pushing while help is on the way. None of these measures is impressive, and together they save more lives than any single invention. The obstacle is not equipment or evidence; it is the patient work of changing a city's habits."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the first paragraph imply about surviving a cardiac arrest?",
+              "options": [
+                { "key": "A", "text": "Bystanders matter more than the speed of ambulances." },
+                { "key": "B", "text": "Hospitals are poorly equipped for such cases." },
+                { "key": "C", "text": "The necessary skills are too hard for ordinary people." },
+                { "key": "D", "text": "Survival depends mainly on the patient's age." }
+              ],
+              "answer": "A",
+              "analysis": "A 段：每分钟不做按压存活率下降约十分之一，救护车再快也「很少够快」，而关键动作都由现场旁人完成。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "the ambulance, however fast, is rarely fast enough"
+            },
+            {
+              "number": 52,
+              "stem": "What was the weakness of the public defibrillator programme?",
+              "options": [
+                { "key": "A", "text": "The devices were too complicated for lay users." },
+                { "key": "B", "text": "Too few devices were purchased." },
+                { "key": "C", "text": "Many devices could not be reached in an emergency." },
+                { "key": "D", "text": "The devices often gave a wrong diagnosis." }
+              ],
+              "answer": "C",
+              "analysis": "B 段说设备本就为普通人设计（会说话、会诊断、不该电击就不电击），真正的问题是「找到它」：锁在办公室、柜台后或无人记得密码的柜子里。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "A machine in a locked office"
+            },
+            {
+              "number": 53,
+              "stem": "What does 'its arithmetic is unkind' suggest about training?",
+              "options": [
+                { "key": "A", "text": "Courses are too expensive for most people." },
+                { "key": "B", "text": "Skills fade faster than refreshers are provided." },
+                { "key": "C", "text": "Trainees are unwilling to practise on strangers." },
+                { "key": "D", "text": "Long courses produce no competence at all." }
+              ],
+              "answer": "B",
+              "analysis": "C 段：几小时课程能培养合格施救者，但能力在数月内悄悄衰退；短期反复复训效果更好，经费却只够一次性长课。",
+              "type": "词句含义题",
+              "evidencePara": "C",
+              "evidenceText": "the competence then decays, quietly, over months"
+            },
+            {
+              "number": 54,
+              "stem": "How does the author regard volunteer apps and delivery drones?",
+              "options": [
+                { "key": "A", "text": "They are promising but depend on costly upkeep." },
+                { "key": "B", "text": "They have been shown to be ineffective in trials." },
+                { "key": "C", "text": "They will soon replace ambulance services." },
+                { "key": "D", "text": "They are cheaper than training the public." }
+              ],
+              "answer": "A",
+              "analysis": "D 段：两者在试验中都有效，但成本容易被低估——志愿者网络需要保险、培训与维护，无人机队需要起降点与空域许可；「新奇吸引经费，维护很少」。",
+              "type": "态度题",
+              "evidencePara": "D",
+              "evidenceText": "Novelty attracts funding; maintenance rarely does"
+            },
+            {
+              "number": 55,
+              "stem": "What do the most successful cities have in common?",
+              "options": [
+                { "key": "A", "text": "They bought the most advanced equipment." },
+                { "key": "B", "text": "They changed routine practices across the city." },
+                { "key": "C", "text": "They employed more paramedics." },
+                { "key": "D", "text": "They ran large one-off public campaigns." }
+              ],
+              "answer": "B",
+              "analysis": "E 段归纳的做法都很朴素——公开除颤器地图、年年在中小学教按压、给调度员话术脚本，本质是「耐心改变一座城市的习惯」。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "the patient work of changing a city's habits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国结是一种用一根彩绳编成的传统手工艺品。它没有起点也没有终点，象征团圆与长久，因此在春节和婚礼上格外常见。编结时需要反复打结、拉紧，一个复杂的结往往要花上几个小时。红色是中国结最常见的颜色，因为红色在传统文化中代表喜庆与好运。如今，中国结不仅出现在家居装饰中，也被用在首饰、书签和服装上。它既是一种民间技艺，也承载着人们对美好生活的祝愿。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe Chinese knot is a traditional handicraft made by braiding a single coloured cord into a symmetrical pattern. Having neither a beginning nor an end, it symbolises reunion and endurance, which is why it is so often seen at Spring Festival and at weddings. Making one requires tying the cord and pulling it tight again and again, and a complicated knot may take several hours of patient work before it takes its final shape. Red is the most common colour, because in traditional culture red stands for festivity and good luck. Today Chinese knots appear not only in home decoration but also on jewellery, bookmarks and clothing. They are at once a folk craft, handed down by hand from one generation to the next, and a carrier of people's heartfelt wishes for a better life.\n\n【要点】①「用一根彩绳编成」用 made by braiding a single coloured cord，保留「一根」的单数意味；②「没有起点也没有终点」处理成分词短语 Having neither a beginning nor an end，作原因状语，避免两个短句并列；③「象征团圆与长久」用 symbolise reunion and endurance，endurance 比 long 更贴近「长久」的抽象义；④「反复打结、拉紧」用 tying the cord and pulling it tight... again and again，动词并列保持一致；⑤「代表喜庆与好运」用 stands for festivity and good luck；⑥「既……也……」用 at once... and...；⑦时态以一般现在时为主，描述性内容不用过去时。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

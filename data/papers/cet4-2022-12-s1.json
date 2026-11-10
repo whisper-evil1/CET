@@ -1,0 +1,643 @@
+{
+  "id": "cet4-2022-12-s1",
+  "level": "CET4",
+  "year": 2022,
+  "month": 12,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on the benefits of regular physical exercise for college students. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nThe Benefits of Regular Exercise for College Students\n\nMany students treat exercise as something to do after everything else is finished, which in practice means never. That order is a mistake. Twenty minutes of movement three times a week changes how the rest of the week feels.\n\nThe first gain is mental. Exercise raises heart rate for a while, and the effect lasts longer than the run itself: students who train regularly report better sleep and a shorter delay before they can concentrate in the library. The second gain is social. A badminton club or a swimming group gives a new student a fixed appointment and a few familiar faces, which matters more in the first term than in the fourth. The third gain is practical. A body that is used to effort copes better with the long walk across campus, the late-night revision and the cold that spreads through every dormitory in December.\n\nNone of this requires a gym or a coach. Stairs instead of the lift, a walk after dinner and a fixed weekly game are enough. The point is not to become an athlete but to stop treating the body as something that can wait.\n\n（约 165 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Electric cars are quiet, cheap to run and, for many city dwellers, almost impossible to charge at home. Roughly half of European households live in flats without a garage, and a driver who cannot plug in overnight is unlikely to buy an electric model. Councils have begun to treat the problem as 26______ infrastructure rather than a private matter. The simplest answer—a row of chargers along the pavement—runs into questions of 27______. A cable across a footpath is a tripping hazard, and a charging point outside one house is 28______ used by the neighbours."
+            },
+            {
+              "label": "B",
+              "text": "Some cities now 29______ the kerb: a socket is built into the pavement, unlocked by an app, and the cable lies in a 30______ groove cut in the stone. The harder problem is the grid. A block of forty flats may have a connection sized for kettles and washing machines; if a dozen residents charge at six in the evening, the local cable 31______. Engineers therefore prefer 32______ charging, when demand from offices and shops has fallen, and some 33______ cut the price after eleven at night to encourage it. None of this is cheap, and the 34______ between rich and poor districts is already visible: a wealthy suburb has chargers on every street, while an outer estate has none, because the 35______ of digging up a pavement is the same in both places but the cars are older and fewer."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {"key": "A", "text": "public"},
+                {"key": "B", "text": "private"},
+                {"key": "C", "text": "annual"},
+                {"key": "D", "text": "foreign"}
+              ],
+              "answer": "A",
+              "analysis": "本句用 rather than a private matter 作对比：充电桩应被当作「公共」基础设施，而不是个人问题，与后文议会（councils）介入相呼应。private 恰是被否定的那一项，annual、foreign 与基础设施属性无关。",
+              "type": "形容词辨析",
+              "evidencePara": "A",
+              "evidenceText": "rather than a private matter"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {"key": "A", "text": "safety"},
+                {"key": "B", "text": "money"},
+                {"key": "C", "text": "fashion"},
+                {"key": "D", "text": "traffic"}
+              ],
+              "answer": "A",
+              "analysis": "冒号后解释：横穿人行道的电缆是「绊倒的危险」（tripping hazard），属于安全问题。money 与后文成本讨论的位置不在此处，fashion 无关，traffic 也不是电缆带来的直接风险。",
+              "type": "名词辨析",
+              "evidencePara": "A",
+              "evidenceText": "a tripping hazard"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {"key": "A", "text": "rarely"},
+                {"key": "B", "text": "easily"},
+                {"key": "C", "text": "equally"},
+                {"key": "D", "text": "suddenly"}
+              ],
+              "answer": "A",
+              "analysis": "只有一户门前的充电桩，邻居实际上「很少」用得到，这正是需要改造路缘的原因。easily 与问题相反，equally 需要比较对象，suddenly 与使用频率无关。",
+              "type": "副词辨析",
+              "evidencePara": "A",
+              "evidenceText": "a charging point outside one house"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {"key": "A", "text": "redesign"},
+                {"key": "B", "text": "clean"},
+                {"key": "C", "text": "widen"},
+                {"key": "D", "text": "paint"}
+              ],
+              "answer": "A",
+              "analysis": "冒号后说插座嵌入人行道、电缆藏在石缝里，这是对路缘的「重新设计」。clean（清洁）、paint（刷漆）无法实现嵌入式插座，widen 与「在有限空间里加装」的目的相反。",
+              "type": "动词辨析",
+              "evidencePara": "B",
+              "evidenceText": "a socket is built into the pavement"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {"key": "A", "text": "shallow"},
+                {"key": "B", "text": "bright"},
+                {"key": "C", "text": "sudden"},
+                {"key": "D", "text": "wealthy"}
+              ],
+              "answer": "A",
+              "analysis": "电缆要「与地面齐平」，所以石头上开的是「浅浅的」槽，shallow groove 符合这一工程细节。bright、sudden、wealthy 都不能修饰 groove。",
+              "type": "形容词辨析",
+              "evidencePara": "B",
+              "evidenceText": "the cable lies in a groove"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {"key": "A", "text": "overheats"},
+                {"key": "B", "text": "expands"},
+                {"key": "C", "text": "disappears"},
+                {"key": "D", "text": "freezes"}
+              ],
+              "answer": "A",
+              "analysis": "十几户同时在晚六点充电，本地电缆负荷过大就会「过热」，这正是电网容量不足的后果；后文「工程师因此更愿意夜间充电」正是补救。expands、disappears 不合物理常识，freezes 与充电发热相反。",
+              "type": "动词辨析",
+              "evidencePara": "B",
+              "evidenceText": "if a dozen residents charge at six in the evening"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {"key": "A", "text": "overnight"},
+                {"key": "B", "text": "fast"},
+                {"key": "C", "text": "free"},
+                {"key": "D", "text": "shared"}
+              ],
+              "answer": "A",
+              "analysis": "定语从句 when demand from offices and shops has fallen 描述的正是「夜间」，且与「晚十一点后降价」呼应，故选 overnight。fast 与「需求下降」无关，free 与「降价」矛盾，shared 不是时段。",
+              "type": "形容词辨析",
+              "evidencePara": "B",
+              "evidenceText": "demand from offices and shops has fallen"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {"key": "A", "text": "suppliers"},
+                {"key": "B", "text": "neighbours"},
+                {"key": "C", "text": "drivers"},
+                {"key": "D", "text": "inspectors"}
+              ],
+              "answer": "A",
+              "analysis": "能在夜间调整电价的是电力「供应商」。neighbours、drivers 是买方，无权定价；inspectors 负责检查，不制定价格。",
+              "type": "名词辨析",
+              "evidencePara": "B",
+              "evidenceText": "cut the price after eleven at night"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {"key": "A", "text": "gap"},
+                {"key": "B", "text": "speed"},
+                {"key": "C", "text": "style"},
+                {"key": "D", "text": "number"}
+              ],
+              "answer": "A",
+              "analysis": "冒号后对比富裕郊区「每条街都有充电桩」与外围住宅区「一个也没有」，说的是区域之间的差「距」，gap 与 between rich and poor districts 搭配。speed、style、number 都不能概括这种不均衡。",
+              "type": "名词辨析",
+              "evidencePara": "B",
+              "evidenceText": "a wealthy suburb has chargers on every street"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {"key": "A", "text": "cost"},
+                {"key": "B", "text": "length"},
+                {"key": "C", "text": "noise"},
+                {"key": "D", "text": "risk"}
+              ],
+              "answer": "A",
+              "analysis": "句子说两地开挖人行道的「成本」相同，但车更旧更少，所以贫困区无人投资，与上文 None of this is cheap 呼应。length 与前文 the same 的逻辑不构成解释，noise、risk 不是投资决定因素。",
+              "type": "名词辨析",
+              "evidencePara": "B",
+              "evidenceText": "digging up a pavement is the same in both places"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A student with a deadline and a credit card can now buy an essay written to order, delivered within days and guaranteed not to be found by software. The industry that supplies this service is international, profitable and difficult to police. A survey of forty-five thousand students in eight countries found that about eight percent admitted paying someone else to produce work they submitted."
+            },
+            {
+              "label": "B",
+              "text": "The companies rarely describe themselves as cheats. Their websites offer \"model answers\", \"study aids\" and \"editing support\"; prices rise with the grade required and the speed of delivery, and a dissertation can cost several hundred pounds. The wording is careful because the business depends on a defence that the product is a learning tool, not a substitute for the student's own work."
+            },
+            {
+              "label": "C",
+              "text": "Detection is the weak point. Text-matching software compares a submission with published sources and with a database of previous essays; work written to order is original by construction, so it matches nothing. Universities have therefore turned to process: drafts, notes, in-class writing and short oral explanations of the argument. A student who cannot explain a paragraph he submitted is in more trouble than any software could create."
+            },
+            {
+              "label": "D",
+              "text": "Some governments have decided that the market itself should be illegal. Australia made it an offence in 2020 to provide or advertise commercial cheating services, and Britain followed in 2022. The laws are aimed at the companies rather than the students, partly because prosecuting customers would require universities to report their own students, which few are willing to do."
+            },
+            {
+              "label": "E",
+              "text": "Why do students buy? The reasons are rarely laziness. Researchers who interview buyers describe time pressure from paid work, fear of failing a course that a family has paid for, and, for students writing in a second language, a gap between what they understand and what they can produce under examination conditions. A belief that everybody does it lowers the barrier further."
+            },
+            {
+              "label": "F",
+              "text": "Universities have responded with assessment design as much as punishment. Shorter assignments marked in class, vivas for final-year projects and staged deadlines that require evidence of work in progress all make purchased text harder to use. Staff report that the changes take time to prepare, which is precisely the resource that is scarcest in a large department."
+            },
+            {
+              "label": "G",
+              "text": "The conclusion most researchers reach is uncomfortable for institutions that prefer a strict penalty. Punishing individuals catches a few and teaches the rest to be careful; redesigning the task removes the opportunity. The lever, they argue, is the assignment itself—what it asks for, when it is written, and whether a student can defend it aloud."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Software that compares texts cannot detect work written to order.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "C",
+              "analysis": "C 段：查重软件把作业与已发表来源和旧论文库比对，而「定制代写」本身就是原创，因此什么都匹配不到（it matches nothing）。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "work written to order is original by construction"
+            },
+            {
+              "number": 37,
+              "stem": "Some countries have made it a crime to advertise such services.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "D",
+              "analysis": "D 段：澳大利亚 2020 年将提供或宣传商业作弊服务定为犯罪，英国 2022 年跟进，法律针对公司而非学生。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "an offence in 2020 to provide or advertise"
+            },
+            {
+              "number": 38,
+              "stem": "Time pressure and fear of failure push students towards these services.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "E",
+              "analysis": "E 段：买作业的原因很少是懒惰，而是兼职带来的时间压力、怕辜负家人付的学费，以及「人人都这样」的心理降低了门槛。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "time pressure from paid work, fear of failing"
+            },
+            {
+              "number": 39,
+              "stem": "Assessment now includes shorter in-class tasks and spoken exams for final-year work.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "F",
+              "analysis": "F 段：课堂内限时写作、毕业论文口试（vivas for final-year projects）、要求提交过程证据的分阶段截止日期，都是考评方式的改变，题目即对这些做法的概括。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "staged deadlines that require evidence of work in progress"
+            },
+            {
+              "number": 40,
+              "stem": "One survey found that a small but significant minority had paid for work.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "A",
+              "analysis": "A 段末：八国四万五千名学生的调查中，约 8% 承认付费让别人代写并提交。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "about eight percent admitted paying someone else"
+            },
+            {
+              "number": 41,
+              "stem": "The companies present their services as study support rather than cheating.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "B",
+              "analysis": "B 段：网站自称提供「范文」「学习辅助」「编辑支持」，措辞谨慎，因为生意依赖「这是学习工具而非替代学生本人写作」的辩护。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "a learning tool, not a substitute"
+            },
+            {
+              "number": 42,
+              "stem": "Changing the assignment matters more than punishing individuals.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "G",
+              "analysis": "G 段：处罚个人只能抓住少数、让其余人更小心，而重新设计任务才能消除机会；「杠杆是作业本身」。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "redesigning the task removes the opportunity"
+            },
+            {
+              "number": 43,
+              "stem": "The price depends on the grade the student wants.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "B",
+              "analysis": "B 段：价格随所需分数和交稿速度上升，一篇学位论文可达数百英镑（prices rise with the grade required）。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "prices rise with the grade required"
+            },
+            {
+              "number": 44,
+              "stem": "Students writing in a second language are particularly exposed.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "E",
+              "analysis": "E 段：用第二语言写作的学生，理解能力与考试条件下能写出的内容之间存在落差，这一落差正是他们求助的原因。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "writing in a second language"
+            },
+            {
+              "number": 45,
+              "stem": "Drafts and interviews, not software, expose bought work.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "C",
+              "analysis": "C 段末：无法解释自己所交段落的学生，遇到的麻烦比任何软件能造成的都大——说明过程性证据才是识别手段。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "A student who cannot explain a paragraph he submitted"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When a building is knocked down, most of its materials become waste. In Europe, construction and demolition produce about a third of all waste, and much of it is buried. A pilot project in Brussels tried a different method. A six-storey office block was taken apart over four months: windows, radiators, steel beams, bricks and even door handles were removed, labelled and sold. The building came down, in other words, in the opposite order to the one in which it had gone up."
+            },
+            {
+              "label": "B",
+              "text": "The method is slow and needs planning. Before work began, the team made an inventory of everything in the building, down to the number of sockets. Where possible, parts were fixed with screws rather than glue, so that they could be separated later. The project cost perhaps eight percent more than demolition and took ten weeks longer, because labour replaced machines and because each material needed a buyer before it could be moved."
+            },
+            {
+              "label": "C",
+              "text": "Nine-tenths of the materials found a new home. The steel went to a factory that rolled it into sheet again; the bricks were bought by an architect for a school; the raised floors went to a data centre that needed exactly that size. The sales did not cover the extra cost, but the city counted the waste charges it avoided and the carbon that was not released by making new steel."
+            },
+            {
+              "label": "D",
+              "text": "The obstacles are structural rather than technical. Buildings put up in the 1970s and 1980s are often held together by glue and composite panels that cannot be separated; a material mixed with another is difficult to recycle and sometimes impossible to sell. Regulations lag too: in many places a salvaged beam is legally waste until someone certifies it as safe, and few inspectors are trained to give that certificate."
+            },
+            {
+              "label": "E",
+              "text": "Supporters therefore argue for a change at the drawing board. A \"material passport\"—a record of what a building contains and how it is joined—would let a future owner plan a second life for its parts. Some cities now ask for one as a condition of a building permit, and a few require new public buildings to be designed so that the frame can be unscrewed rather than cut."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What did the Brussels project show?",
+              "options": [
+                {"key": "A", "text": "A building can be taken apart and its parts reused."},
+                {"key": "B", "text": "Demolition can be made cheaper with machines."},
+                {"key": "C", "text": "Old office blocks cannot legally be sold."},
+                {"key": "D", "text": "Steel is the only material worth recovering."}
+              ],
+              "answer": "A",
+              "analysis": "A 段：布鲁塞尔把六层办公楼用四个月「拆解」，窗户、暖气片、钢梁、砖甚至门把手都被取下、贴标并出售；末句说它按建造的相反顺序倒下。B 与「人工替代机器、成本更高」相反，C、D 无据。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "were removed, labelled and sold"
+            },
+            {
+              "number": 47,
+              "stem": "Why did the project cost more than ordinary demolition?",
+              "options": [
+                {"key": "A", "text": "The materials were of poor quality."},
+                {"key": "B", "text": "Labour replaced machines and each part needed a buyer."},
+                {"key": "C", "text": "The city charged a special tax on reused steel."},
+                {"key": "D", "text": "The building was taller than expected."}
+              ],
+              "answer": "B",
+              "analysis": "B 段：成本高出约 8%、工期长十周，原因是人工替代机器，而且每种材料都要先找到买家才能搬走。A、C、D 原文均未提及。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "labour replaced machines"
+            },
+            {
+              "number": 48,
+              "stem": "What happened to most of the materials?",
+              "options": [
+                {"key": "A", "text": "They were buried on the site."},
+                {"key": "B", "text": "They were sold and used in other projects."},
+                {"key": "C", "text": "They were stored for future research."},
+                {"key": "D", "text": "They were returned to the original manufacturer."}
+              ],
+              "answer": "B",
+              "analysis": "C 段：九成材料找到新去处——钢被重新轧成薄板，砖被建筑师买去建学校，活动地板卖给需要该尺寸的数据中心。A 与「九成找到新家」相反。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "Nine-tenths of the materials found a new home"
+            },
+            {
+              "number": 49,
+              "stem": "What obstacle does Paragraph D describe?",
+              "options": [
+                {"key": "A", "text": "Reused parts are legally treated as waste until certified."},
+                {"key": "B", "text": "There is no market for second-hand bricks."},
+                {"key": "C", "text": "Salvaged steel is weaker than new steel."},
+                {"key": "D", "text": "Engineers refuse to work on old buildings."}
+              ],
+              "answer": "A",
+              "analysis": "D 段：障碍是结构性与制度性的——胶与复合板无法分离，且许多地方把回收梁在获得安全认证前视为「废物」，而少有检查员受过相关训练。B 与 C 段「砖被买走」矛盾，C、D 无据。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "legally waste until someone certifies it as safe"
+            },
+            {
+              "number": 50,
+              "stem": "What do supporters propose?",
+              "options": [
+                {"key": "A", "text": "Banning the demolition of all old buildings."},
+                {"key": "B", "text": "Recording materials at the design stage and building for disassembly."},
+                {"key": "C", "text": "Paying demolition firms a fixed fee per tonne."},
+                {"key": "D", "text": "Shipping salvaged materials to other countries."}
+              ],
+              "answer": "B",
+              "analysis": "E 段：主张从图纸阶段改变——建立「材料护照」记录建筑含有什么、如何连接，让未来业主规划部件的第二次生命；一些城市已把材料护照作为施工许可条件，并要求新公共建筑采用可拧卸的框架。A 过于绝对，C、D 原文未提。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "a change at the drawing board"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Traffic noise is easy to ignore during the day and hard to ignore at three in the morning. A lorry passing a bedroom window that is open can push the sound level above seventy decibels, roughly the noise of a vacuum cleaner. The World Health Organization recommends that night noise inside bedrooms stay below forty decibels, a level that a busy road makes almost impossible without some intervention."
+            },
+            {
+              "label": "B",
+              "text": "A three-year study in Barcelona tested one such intervention. Researchers selected twelve streets carrying similar traffic and resurfaced six of them with a quieter asphalt mix. Twelve hundred residents agreed to wear wrist devices that recorded movement and heart rate during sleep, and to keep simple sleep diaries. Neither the residents nor the analysts knew which streets had been treated until the data were collected."
+            },
+            {
+              "label": "C",
+              "text": "The treated streets became, on average, five decibels quieter at night. Residents there fell asleep about twelve minutes faster and reported fewer awakenings. Their heart rates during sleep were slightly lower, and the effect was largest among people whose bedrooms faced the road directly. Five decibels is a modest change, but it is roughly the difference between a conversation and a quiet room."
+            },
+            {
+              "label": "D",
+              "text": "The study has limits that its authors state plainly. Residents could hardly fail to notice that their street had been resurfaced, so expectation may have played a part. Traffic did not disappear; on some untreated streets, drivers seemed to divert, which may have shifted the problem rather than solved it. And the findings concern busy urban roads, not the quiet suburban streets where most people live."
+            },
+            {
+              "label": "E",
+              "text": "Quiet asphalt is not a complete answer. Above about fifty kilometres an hour, tyre noise dominates, so lowering speed limits does little on motorways; at low speeds, engine noise matters more, which is why electric buses help in city centres. The lesson is that no single measure is enough: surfaces, speed, vehicle type and barriers work best in combination, and the cheapest of them should come first."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the WHO recommend for noise inside bedrooms at night?",
+              "options": [
+                {"key": "A", "text": "It should stay below forty decibels."},
+                {"key": "B", "text": "It should not exceed seventy decibels."},
+                {"key": "C", "text": "It should be measured with the window open."},
+                {"key": "D", "text": "It should be no louder than a conversation."}
+              ],
+              "answer": "A",
+              "analysis": "A 段末：世卫组织建议夜间卧室内的噪声低于 40 分贝；七十是开窗时卡车经过的声级，属问题描述而非建议。C、D 均非建议内容。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "stay below forty decibels"
+            },
+            {
+              "number": 52,
+              "stem": "How was the Barcelona study designed?",
+              "options": [
+                {"key": "A", "text": "Residents compared their own streets over time."},
+                {"key": "B", "text": "Half the streets were resurfaced and residents' sleep was recorded."},
+                {"key": "C", "text": "Traffic was banned from twelve streets for three years."},
+                {"key": "D", "text": "Drivers were asked to use quieter vehicles."}
+              ],
+              "answer": "B",
+              "analysis": "B 段：选十二条交通量相近的街道，其中六条换铺低噪沥青，1200 名居民佩戴记录动作与心率的腕带并写睡眠日记。A 与「居民和分析者事前都不知道哪条街被处理」矛盾；C、D 原文未做。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "resurfaced six of them with a quieter asphalt mix"
+            },
+            {
+              "number": 53,
+              "stem": "What was found after the resurfacing?",
+              "options": [
+                {"key": "A", "text": "Traffic on the treated streets fell sharply."},
+                {"key": "B", "text": "Residents moved away from the busiest roads."},
+                {"key": "C", "text": "Residents fell asleep sooner and woke less often."},
+                {"key": "D", "text": "Heart rates rose slightly during the night."}
+              ],
+              "answer": "C",
+              "analysis": "C 段：处理过的街道夜间平均安静 5 分贝，居民入睡快约 12 分钟、报告夜间醒来的次数更少，睡眠中心率略低。A 与 D 段「车流并未消失」矛盾，D 与「心率略降」相反。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "fell asleep about twelve minutes faster"
+            },
+            {
+              "number": 54,
+              "stem": "Which limitation do the authors admit?",
+              "options": [
+                {"key": "A", "text": "The noise may simply have moved to other streets."},
+                {"key": "B", "text": "The devices failed to record heart rates."},
+                {"key": "C", "text": "The streets were too quiet to show any effect."},
+                {"key": "D", "text": "The study covered only suburban areas."}
+              ],
+              "answer": "A",
+              "analysis": "D 段：有些未处理的街道上车辆似乎改道（drivers seemed to divert），问题可能只是被「转移」而非解决。B 与腕带记录心率矛盾；C 与 5 分贝的变化矛盾；D 与「结论针对繁忙城市道路」矛盾。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "shifted the problem rather than solved it"
+            },
+            {
+              "number": 55,
+              "stem": "Why does lowering speed limits do little on motorways?",
+              "options": [
+                {"key": "A", "text": "Drivers ignore the new limits."},
+                {"key": "B", "text": "Tyre noise dominates above about fifty kilometres an hour."},
+                {"key": "C", "text": "Motorway surfaces are already quiet."},
+                {"key": "D", "text": "Barriers block the sound of engines."}
+              ],
+              "answer": "B",
+              "analysis": "E 段：时速约 50 公里以上时胎噪成为主要来源，所以高速路上限速作用有限；低速时发动机噪声更突出，这才是电动公交在市中心有效的理由。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "tyre noise dominates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国是茶的故乡。几千年前，人们就开始种植茶树、饮用茶水。茶不只是一种饮料，也是一种待客的方式：客人进门，主人先倒上一杯热茶。中国各地喝茶的习惯并不相同，北方人爱喝花茶，南方人偏爱绿茶。近年来，越来越多的年轻人走进茶馆，把喝茶当作放松和交流的方式。许多中国人出差或旅行时，也会带上一小包茶叶送给朋友。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChina is the home of tea. Several thousand years ago, people began to grow tea plants and drink tea. Tea is not only a drink but also a way of receiving guests: when a visitor comes in, the host pours a cup of hot tea first. Habits differ from region to region—in the north people are fond of scented tea, while in the south green tea is preferred. In recent years, more and more young people have been going to tea houses, treating tea drinking as a way to relax and to talk with others. Many Chinese people also carry a small packet of tea when they travel on business or on holiday, as a gift for friends. In most homes the tea is served plain, and a host will refill a guest's cup long before it is empty.\n\n【要点】①「茶的故乡」译作 the home of tea，比 birthplace of tea 更自然；②「待客的方式」用 a way of receiving guests；③南北对比用 in the north… while in the south… 保持对称；④「把喝茶当作……」用 treating tea drinking as… 分词结构；⑤末句用现在完成进行时体现「近年来逐渐」的趋势。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

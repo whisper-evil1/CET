@@ -1,0 +1,1145 @@
+{
+  "id": "cet6-2025-12-s2",
+  "level": "CET6",
+  "year": 2025,
+  "month": 12,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether universities should require students to take courses outside their own field. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\n\nShould Universities Require Students to Study Outside Their Field?\n\nA university is often described as a place where young people acquire a trade. If that were all it was, the case for compulsory courses in other disciplines would be weak. But a degree is also a licence to think in public, and thinking well requires more than one vocabulary.\n\nThe strongest argument for breadth is not that every student needs philosophy. It is that most interesting problems arrive without a label. A nurse who understands how statistics can mislead will question a graph; an engineer who has read some history will notice when an old solution is sold as a new one. Narrow training produces people who can answer the questions their field already asks, and no others.\n\nThe objection is fair: a compulsory menu becomes a box to be ticked, and a bored student learns almost nothing. The remedy, though, is not to abandon breadth but to make it demanding — small seminars, written work that is actually marked, teachers who care about the subject.\n\nUniversities should require it, then, but require it seriously. A graduate who can read only the literature of a single department has been trained, not educated.\n\n（约 193 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A mature street tree does more than decorate a city. Its canopy 26______ the pavement from the worst of the sun, and a well-shaded street can be several degrees cooler than a bare one on the same afternoon. The benefit is not 27______ equally. In most cities the wealthiest districts have the densest cover, while the neighbourhoods that suffer most from heat have the 28______ canopy. Researchers who mapped tree cover against income in dozens of American municipalities found the same 29______ everywhere: the poorer the district, the fewer the trees."
+            },
+            {
+              "label": "B",
+              "text": "The consequences are measurable. Heat is the deadliest form of extreme weather in most rich countries, and within a city it kills 30______: the same heat wave that passes almost unnoticed in a leafy suburb can be lethal in a district of concrete and tin roofs. Trees also 31______ storm water, cut air-conditioning bills and give pedestrians a reason to walk. Yet a tree is not a piece of street furniture that, once installed, looks after itself. It needs water in its first summers, pruning as it grows, and a patch of unpaved ground wide enough for its roots."
+            },
+            {
+              "label": "C",
+              "text": "Which is why the fashionable policy — plant a million trees — often disappoints. Saplings are cheap and photographs of them are excellent; the 32______ that keeps them alive for fifty years is neither. In many cities a third of newly planted trees are dead within a decade, and the usual cause is not disease but 33______: the saplings were simply forgotten once the cameras had gone. A council that cuts its parks budget can 34______ its planting target and still lose canopy, because the trees it already has begin to die for want of care. The arithmetic is 35______: a large tree is worth roughly thirty saplings in shade, cooling and air quality, and no number of saplings compensates for the loss of it."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "shields"
+                },
+                {
+                  "key": "B",
+                  "text": "rescues"
+                },
+                {
+                  "key": "C",
+                  "text": "restores"
+                },
+                {
+                  "key": "D",
+                  "text": "recovers"
+                }
+              ],
+              "answer": "A",
+              "analysis": "shield sth from sth 意为「为……遮挡」，与 the pavement from the worst of the sun 搭配；rescue 指救援，restore 指修复，recover 指恢复，均不能接 from 表遮挡。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "canopy ... the pavement from the worst of the sun"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "distributed"
+                },
+                {
+                  "key": "B",
+                  "text": "collected"
+                },
+                {
+                  "key": "C",
+                  "text": "converted"
+                },
+                {
+                  "key": "D",
+                  "text": "celebrated"
+                }
+              ],
+              "answer": "A",
+              "analysis": "be distributed equally 指「被平均分配」，下文给出富人区树多、贫困区树少的对比，说明这一好处分配并不均衡。collect / convert / celebrate 与 equally 搭配均不合语境。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "the wealthiest districts have the densest cover"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "sparsest"
+                },
+                {
+                  "key": "B",
+                  "text": "densest"
+                },
+                {
+                  "key": "C",
+                  "text": "oldest"
+                },
+                {
+                  "key": "D",
+                  "text": "rarest"
+                }
+              ],
+              "answer": "A",
+              "analysis": "while 前后对比：富裕区 densest cover，最受酷热之苦的街区则是「最稀疏的」树冠。sparse 指稀疏，与 dense 相对；densest 是原文已用的反义干扰项。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "while the neighbourhoods that suffer most from heat"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "pattern"
+                },
+                {
+                  "key": "B",
+                  "text": "budget"
+                },
+                {
+                  "key": "C",
+                  "text": "species"
+                },
+                {
+                  "key": "D",
+                  "text": "season"
+                }
+              ],
+              "answer": "A",
+              "analysis": "found the same pattern everywhere 指几十个城市都呈现「越穷树越少」的同一「规律／模式」；冒号后的解释正是对这一 pattern 的具体说明。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "the poorer the district, the fewer the trees"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "unevenly"
+                },
+                {
+                  "key": "B",
+                  "text": "instantly"
+                },
+                {
+                  "key": "C",
+                  "text": "silently"
+                },
+                {
+                  "key": "D",
+                  "text": "rarely"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后说明同一场热浪在绿树成荫的郊区几乎无人察觉，在水泥与铁皮屋顶的街区却可致命，可见致死是「不均衡地」发生的。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "the same heat wave ... can be lethal in a district of concrete"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "absorb"
+                },
+                {
+                  "key": "B",
+                  "text": "generate"
+                },
+                {
+                  "key": "C",
+                  "text": "pollute"
+                },
+                {
+                  "key": "D",
+                  "text": "transport"
+                }
+              ],
+              "answer": "A",
+              "analysis": "树木吸收雨水是常见表达 absorb storm water，与后文降低空调费、鼓励步行并列，都是树木带来的好处；generate / pollute 语义相反，transport 不搭配雨水。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "Trees also ... storm water, cut air-conditioning bills"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "maintenance"
+                },
+                {
+                  "key": "B",
+                  "text": "celebration"
+                },
+                {
+                  "key": "C",
+                  "text": "legislation"
+                },
+                {
+                  "key": "D",
+                  "text": "competition"
+                }
+              ],
+              "answer": "A",
+              "analysis": "与 cheap saplings 相对，让树活五十年的「养护」既不便宜也不上镜；maintenance 指维护保养，后文浇水、修枝、留出树根空间都是其内容。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "It needs water ... pruning ... unpaved ground"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "neglect"
+                },
+                {
+                  "key": "B",
+                  "text": "drought"
+                },
+                {
+                  "key": "C",
+                  "text": "insects"
+                },
+                {
+                  "key": "D",
+                  "text": "vandalism"
+                }
+              ],
+              "answer": "A",
+              "analysis": "not disease but… 构成对照，冒号后说树苗在镜头离开后就被遗忘，属于「疏于照管」而非病害；drought、insects 都被 not disease 的语义排除。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the saplings were simply forgotten"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "meet"
+                },
+                {
+                  "key": "B",
+                  "text": "double"
+                },
+                {
+                  "key": "C",
+                  "text": "abandon"
+                },
+                {
+                  "key": "D",
+                  "text": "publish"
+                }
+              ],
+              "answer": "A",
+              "analysis": "meet a target 是固定搭配，意为「完成指标」；本句的让步关系是：即使完成了植树指标，树冠仍可能减少，因为老树因缺乏养护而死亡。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "and still lose canopy"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "unforgiving"
+                },
+                {
+                  "key": "B",
+                  "text": "approximate"
+                },
+                {
+                  "key": "C",
+                  "text": "encouraging"
+                },
+                {
+                  "key": "D",
+                  "text": "temporary"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后给出「一棵大树约等于三十棵树苗」的换算，且任何数量树苗都无法弥补，说明这笔账「毫不宽容」；unforgiving 在此指不留情面、无法通融。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "no number of saplings compensates for the loss of it"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The method now known as objectives and key results began inside a chipmaker. At Intel in the 1970s Andy Grove asked managers to state, in one sentence, what they intended to change, and then to attach two or three numbers that would show whether the change had happened. Objectives were meant to be memorable and slightly uncomfortable; key results were meant to be measurable. John Doerr, who had learned the system at Intel, carried it to Google in 1999, when the company had about forty employees and no planning process worth the name."
+            },
+            {
+              "label": "B",
+              "text": "The distinction small firms most often lose is the one between this system and a key performance indicator. A KPI watches something that should stay stable: the share of orders delivered on time, the number of support tickets reopened, the ratio of stock lost in the warehouse. An objective describes something that should be different by the end of the quarter. Both are numbers and both sit on a dashboard, which is why the two get merged. The usual result is a list of thirty measures that nobody reads, half of which would be satisfied by continuing to do the job as before."
+            },
+            {
+              "label": "C",
+              "text": "Small employers have one genuine advantage. A workforce of twenty-five can be aligned in a single room, without the cascade of meetings a large company needs to reach the same understanding. They also have a structural weakness. Nobody is employed to run the cycle. The person who owns the process is usually the founder or an operations manager already covering two other jobs, and when a large customer arrives in February the quarterly ritual is the first thing to be dropped and the first thing not to be revived."
+            },
+            {
+              "label": "D",
+              "text": "The second weakness is subtler. In a firm of thirty a score is not an abstraction; it is attached to a face. If a manager treats a score of 0.4 as a verdict, staff learn within one cycle to write objectives they can certainly hit. The convention at Google, where 0.7 against a deliberately difficult objective counts as success, rests on a culture that reads the number as information rather than judgement. Transplant the template without the culture and the stretch disappears; what remains is a more elaborate way of recording what people were going to do anyway."
+            },
+            {
+              "label": "E",
+              "text": "The quarterly review is where the method either works or turns into theatre. A useful review takes an hour, not three. Each owner states the objective, the current number and a confidence rating; the room then decides whether to continue, to change a key result or to abandon the objective altogether. The failure is familiar: the meeting becomes a report of activity. People describe the workshops they ran and the partners they met, and nobody asks what moved. The test of a review is the number of decisions it produces, not the length of its minutes."
+            },
+            {
+              "label": "F",
+              "text": "Then there is the question of pay. Objectives are set at the edge of what seems possible; that is the point of them. Attach a bonus to the score and the edge moves inward at once, because a rational employee will not gamble next year's income on a target designed to be missed. Large firms handle this by holding the two conversations in different months. Small firms, with no promotion ladder and no calibrated pay bands, often have nothing else to rely on, so the quarterly score becomes the only evidence in the annual conversation. Employees notice, and the numbers stop being honest."
+            },
+            {
+              "label": "G",
+              "text": "What employees judge is rarely the height of the target. Research on procedural justice has long shown that people accept unwelcome outcomes more readily when the process was transparent and they had a voice in it. An objective written by the founder in December and announced in January fails that test however reasonable it is, and it fails visibly in a firm where everyone eats lunch together. Publishing every team's objectives can help, but in an office of twenty-five a shared dashboard slides easily into surveillance. The difference lies in whether the target was negotiated, not in whether it was displayed."
+            },
+            {
+              "label": "H",
+              "text": "The firms that persist with the method do something unglamorous. They keep the apparatus small: three objectives, a fifteen-minute weekly check, a quarterly decision to retire what is finished. They separate the change agenda from the pay review, and they accept that the instrument is not the reform. A scorecard cannot supply a strategy the management team has never agreed, and a quarterly meeting cannot repair a relationship damaged by a year of unclear expectations."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Acceptance depends on having a say, not on the target being modest.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：程序公正研究表明，只要过程透明、当事人有发言权，人们更容易接受不利结果；创始人 12 月写好、1 月宣布的目标恰恰过不了这一关。",
+              "type": "推断题",
+              "evidencePara": "G",
+              "evidenceText": "The difference lies in whether the target was negotiated"
+            },
+            {
+              "number": 37,
+              "stem": "A measure that tracks stability is frequently confused with one that demands change.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：KPI「watches something that should stay stable」，而目标描述的是季末应当不同的事；两者都是数字、都上仪表盘，所以常被合并。题干正是这个区分。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "A KPI watches something that should stay stable"
+            },
+            {
+              "number": 38,
+              "stem": "Reviews degenerate once participants list what they did instead of what changed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：失败的复盘会「becomes a report of activity」，大家讲办了几场工作坊、见了哪些合作方，却没人问到底什么发生了变化。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "the meeting becomes a report of activity"
+            },
+            {
+              "number": 39,
+              "stem": "In small organisations the method tends to fail for want of an owner rather than for want of interest.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：二十五人以下的公司能在同一间屋子里对齐，优势真实；但「Nobody is employed to run the cycle」，负责的人往往身兼两职，大客户一到，季度流程最先被砍掉。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "Nobody is employed to run the cycle"
+            },
+            {
+              "number": 40,
+              "stem": "A planning technique devised inside one industry was later adopted by a young company with no planning process of its own.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：Intel 的 Andy Grove 在 1970 年代提出「一句目标 + 两三个可测数字」，John Doerr 1999 年把它带到当时只有约四十名员工、几乎没有规划流程的 Google，与题干一一对应。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "John Doerr, who had learned the system at Intel, carried it to Google in 1999"
+            },
+            {
+              "number": 41,
+              "stem": "Linking the score to earnings makes people cautious about what they promise.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：目标本就设在「看似可能的边缘」，一旦把奖金挂到分数上，边缘立刻向内收缩，因为理性的员工不会拿明年收入去赌一个设计上就完不成的目标。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "Attach a bonus to the score and the edge moves inward"
+            },
+            {
+              "number": 42,
+              "stem": "When a score is read as a judgement, employees quietly lower their ambitions.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：若管理者把 0.4 分当作「评语」，员工一个周期内就学会只写「一定能完成」的目标，即主动降低抱负。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "staff learn within one cycle to write objectives they can certainly hit"
+            },
+            {
+              "number": 43,
+              "stem": "The worth of a review is measured by what it settles rather than by how long it lasts.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：复盘的检验标准是「产出了多少个决定」，而不是会议纪要有多长——对应题干「以解决了什么来衡量」。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "The test of a review is the number of decisions it produces"
+            },
+            {
+              "number": 44,
+              "stem": "Firms that succeed keep the machinery modest and do not mistake it for the reform itself.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "analysis": "H 段：坚持下来的公司把工具做小——三个目标、每周十五分钟、每季决定停掉什么——并把「变革议程」与薪酬评审分开，明确「the instrument is not the reform」。",
+              "type": "细节题",
+              "evidencePara": "H",
+              "evidenceText": "the instrument is not the reform"
+            },
+            {
+              "number": 45,
+              "stem": "Copying the format without the surrounding habits removes the pressure the format was meant to create.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：Google 的 0.7 分惯例依赖「把数字当信息而非评判」的文化；只搬模板不搬文化，stretch 就消失，剩下的只是把本来要做的事记录得更繁琐。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "Transplant the template without the culture and the stretch disappears"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For a century the question was settled by possession. Objects taken during colonial campaigns sat in European museums, catalogued as gifts, purchases or trophies, and the countries they came from could ask for them but not demand them. That arrangement is now dissolving, and the arguments that sustained it have thinned faster than the shelves have emptied."
+            },
+            {
+              "label": "B",
+              "text": "The Benin Bronzes are the clearest case. In 1897 a British force burned Benin City and removed several thousand plaques, heads and ivories, which were then sold, distributed among museums and kept as imperial souvenirs. Germany, which held about 1,100 of them, agreed in 2022 to transfer ownership of more than 500 to Nigeria. The Smithsonian returned twenty-nine. The Horniman Museum in London returned seventy-two. Each announcement used the same word — 'return', not 'loan' — and the word was the point."
+            },
+            {
+              "label": "C",
+              "text": "Britain's national museums are the exception, and not by choice. The British Museum is barred by an act of 1963 from selling or giving away objects except duplicates, so restitution requires legislation that governments have been unwilling to introduce. The museum's answer is partnership: long loans to source countries, shared custody, exhibitions that travel. Its defenders add a serious argument. In a world where objects are scattered, a great collection in one city allows anyone to compare civilisations; a hundred small museums, each with its own treasures, allow no such thing."
+            },
+            {
+              "label": "D",
+              "text": "Source countries answer that comparison was never the only thing at stake. An object in a glass case in London teaches a Nigerian child very little about the kingdom that made it; a museum in Benin City, with a workshop and a school programme, teaches a great deal. The claim is not that nothing should be shared, but that the right to decide must travel with the object."
+            },
+            {
+              "label": "E",
+              "text": "The practical difficulties are real, and they are sometimes used as reasons for delay. Who speaks for a community that was itself reshaped by conquest? Nigeria's answer is a new institution, the Edo Museum of West African Art, designed by David Adjaye, to which German funding is meant to contribute. Critics point out that a returned object can still be a gesture: shipped back, installed, photographed, and left without the staff or the budget to look after it. Restitution without resources transfers the ownership of a problem rather than of a heritage."
+            },
+            {
+              "label": "F",
+              "text": "What has changed is where the burden of proof lies. A generation ago a museum was presumed entitled to keep what it held; now it is expected to explain why it should. The explanation may sometimes be good — fragility, clear legal title, a lender who will not lend. But the default has reversed, and institutions that have not noticed are discovering that the argument is being conducted, increasingly, without them."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the first paragraph suggest about the old settlement?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It rested on power rather than on principle."
+                },
+                {
+                  "key": "B",
+                  "text": "It was accepted by the countries of origin."
+                },
+                {
+                  "key": "C",
+                  "text": "It protected objects from damage."
+                },
+                {
+                  "key": "D",
+                  "text": "It was written into international law."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：一个世纪以来问题「由占有决定」，来源国只能 ask 不能 demand，说明这一格局靠实力而非道理维持；且「支撑它的论据比展架空得更快」，暗示其正当性正在瓦解。B 项与 could ask but not demand 相悖。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "could ask for them but not demand them"
+            },
+            {
+              "number": 47,
+              "stem": "Why does the author say that 'the word was the point'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because 'return' conceded that ownership had never been legitimate."
+                },
+                {
+                  "key": "B",
+                  "text": "Because the word appeared in several languages."
+                },
+                {
+                  "key": "C",
+                  "text": "Because a loan would have been more expensive."
+                },
+                {
+                  "key": "D",
+                  "text": "Because museums preferred the term 'gift'."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：各馆都用 return 而非 loan。借展不改变所有权，而「归还」承认物主一直是来源国，因此这个词本身就等于承认旧占有的不正当——这正是作者说「用词才是关键」的原因。",
+              "type": "词句含义题",
+              "evidencePara": "B",
+              "evidenceText": "'return', not 'loan'"
+            },
+            {
+              "number": 48,
+              "stem": "What is the strongest argument advanced by defenders of the British Museum?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Source countries lack the skills to conserve objects."
+                },
+                {
+                  "key": "B",
+                  "text": "Concentrated collections make comparison between civilisations possible."
+                },
+                {
+                  "key": "C",
+                  "text": "The 1963 act cannot be amended in practice."
+                },
+                {
+                  "key": "D",
+                  "text": "Loans are legally identical to transfers of ownership."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：辩方提出「严肃的论点」——在文物散落的世界里，一座城市中的大型收藏使任何人得以比较不同文明，而百余座小馆各守其宝则无法做到。A、C 均非其论点，D 与原文 return/loan 的区分相反。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "allows anyone to compare civilisations"
+            },
+            {
+              "number": 49,
+              "stem": "The phrase 'the right to decide must travel with the object' most probably means that",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "objects should be lent more often than they are now."
+                },
+                {
+                  "key": "B",
+                  "text": "control over an object's fate should pass to its country of origin."
+                },
+                {
+                  "key": "C",
+                  "text": "decisions should be made by international committees."
+                },
+                {
+                  "key": "D",
+                  "text": "visitors should be able to see objects where they were made."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段先否定「什么都不能共享」，随即把主张收窄为决定权随物而归：即由来源国而非持有馆决定文物的去向与用途。B 是对该隐喻的准确转述。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "the right to decide must travel with the object"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's attitude towards returning objects without providing resources?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Approving, since ownership is what matters."
+                },
+                {
+                  "key": "B",
+                  "text": "Indifferent, as the outcome is the same."
+                },
+                {
+                  "key": "C",
+                  "text": "Disapproving, because it passes on a burden rather than a heritage."
+                },
+                {
+                  "key": "D",
+                  "text": "Puzzled, because the costs are impossible to estimate."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段末：Restitution without resources transfers the ownership of a problem rather than of a heritage，语气明显是否定的：只运回文物而不给人员与预算，等于把难题一并移交。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "transfers the ownership of a problem rather than of a heritage"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In November 2015 a team of Chinese and British scientists reported something unwelcome in the Lancet Infectious Diseases: a gene, mcr-1, that made bacteria resistant to colistin, and that could be passed between different species of bacteria on a small loop of DNA. Colistin was then the antibiotic doctors reached for when everything else had failed. The gene turned up in pigs, in pork on sale in markets, and in hospital patients, in the same country and in the same months."
+            },
+            {
+              "label": "B",
+              "text": "Colistin had been used in Chinese agriculture for decades, not to cure sick animals but to make healthy ones grow faster. The mechanism is crude: a low, continuous dose suppresses bacteria in the gut, so the animal converts feed more efficiently. It is also, from an evolutionary point of view, an almost ideal way to breed resistance, since a permanent low level of the drug favours any bacterium that can survive it. China banned colistin as a growth promoter in 2017, and its agricultural use fell sharply."
+            },
+            {
+              "label": "C",
+              "text": "The pattern is older than mcr-1. Denmark began phasing out antibiotic growth promoters in 1995, after finding resistant bacteria in its poultry, and completed the job by 2000; the European Union banned them altogether in 2006. Danish pig production went on rising. The lesson usually drawn is that the industry's warnings — that costs would soar and animals would sicken — did not come true, provided that farms improved hygiene, weaning and housing instead of relying on the drugs."
+            },
+            {
+              "label": "D",
+              "text": "Yet a ban is not a solution by itself. Total veterinary use in Denmark rose again during the 2010s, because sick animals still need treatment and because herds grew larger. The distinction that matters is not 'with or without antibiotics' but 'for growth or for disease'; the second is defensible, the first is not. Regulators have struggled to make that distinction enforceable, since a farm can quietly treat an entire herd to prevent an infection that better management would have avoided, and record it as treatment."
+            },
+            {
+              "label": "E",
+              "text": "The hardest problem lies elsewhere. In much of South Asia and sub-Saharan Africa, antibiotics are sold without prescription and used by farmers with no veterinary advice; surveillance is thin, so a resistant strain can circulate for years before anyone names it. Rich countries can afford to monitor, and to compensate farmers for the cost of restraint. A global system that asks poor farmers to use fewer drugs while rich consumers buy the cheap meat those drugs help to produce carries a credibility problem that no amount of technical guidance will settle."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What made mcr-1 particularly alarming to researchers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It killed patients within days of infection."
+                },
+                {
+                  "key": "B",
+                  "text": "It could spread between different kinds of bacteria."
+                },
+                {
+                  "key": "C",
+                  "text": "It made colistin more effective."
+                },
+                {
+                  "key": "D",
+                  "text": "It appeared only in hospital settings."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：mcr-1 可借助一小段 DNA 在不同菌种之间传递，这意味着耐药性可在细菌群体中横向扩散，而非只随繁殖遗传——这才是最令人不安之处。D 与原文「猪、猪肉、病人身上都发现」相反。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "could be passed between different species of bacteria"
+            },
+            {
+              "number": 52,
+              "stem": "Why was colistin fed to healthy pigs?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It prevented the spread of infection between farms."
+                },
+                {
+                  "key": "B",
+                  "text": "It improved the animals' rate of feed conversion."
+                },
+                {
+                  "key": "C",
+                  "text": "It was cheaper than ordinary animal feed."
+                },
+                {
+                  "key": "D",
+                  "text": "It was required by export regulations."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：低剂量持续给药抑制肠道细菌，使动物「更有效地转化饲料」；not to cure sick animals but to make healthy ones grow faster 已排除治疗目的。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "so the animal converts feed more efficiently"
+            },
+            {
+              "number": 53,
+              "stem": "What does the Danish experience suggest about banning growth promoters?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It inevitably reduces livestock production."
+                },
+                {
+                  "key": "B",
+                  "text": "It works only if farmers are paid to comply."
+                },
+                {
+                  "key": "C",
+                  "text": "It can be sustained without losing output."
+                },
+                {
+                  "key": "D",
+                  "text": "It has no effect on total drug use."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：丹麦 1995 年起逐步淘汰、2000 年完成，猪产量持续上升，业界「成本飙升、动物生病」的警告并未应验——前提是农场改善卫生、断奶与圈舍管理。D 项与后文「总用量在 2010 年代又上升」并不等同，且不能概括本段结论。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "Danish pig production went on rising"
+            },
+            {
+              "number": 54,
+              "stem": "Why is the distinction between use 'for growth' and 'for disease' hard to enforce?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Veterinarians refuse to write prescriptions."
+                },
+                {
+                  "key": "B",
+                  "text": "Whole-herd preventive dosing can be recorded as treatment."
+                },
+                {
+                  "key": "C",
+                  "text": "Sick animals cannot be identified reliably."
+                },
+                {
+                  "key": "D",
+                  "text": "The two purposes require identical doses."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：农场可以「悄悄给整群用药」以预防本可通过更好管理避免的感染，然后记作治疗，因此监管者难以区分促生长与治病。",
+              "type": "原因题",
+              "evidencePara": "D",
+              "evidenceText": "record it as treatment"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author imply in the final paragraph about global action?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Technical guidance is the most urgent need."
+                },
+                {
+                  "key": "B",
+                  "text": "Poor countries should be excluded from the rules."
+                },
+                {
+                  "key": "C",
+                  "text": "Rich countries' demands lack moral credibility."
+                },
+                {
+                  "key": "D",
+                  "text": "Surveillance in Africa is better than assumed."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：富国要求贫困农户少用药，自己却消费靠这些药生产的廉价肉，作者称这种体系存在「信誉问题」，非技术指导所能解决，即暗指其道德正当性不足。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "carries a credibility problem that no amount of technical guidance will settle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国高速铁路是世界上规模最大的高铁网，运营里程超过四万五千公里，连接全国绝大多数大中城市。2008年，京津城际铁路开通，时速350公里；2017年，完全自主知识产权的“复兴号”投入运行。高铁把北京到上海的旅行时间从十多个小时缩短到四个多小时，也改变了人们通勤、旅游与工作的方式。它推动了区域经济一体化，也让中小城市更容易获得医疗和教育资源。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChina's high-speed railway is the largest network of its kind in the world. With more than 45,000 kilometres of track in operation, it connects the great majority of the country's large and medium-sized cities. In 2008 the Beijing–Tianjin intercity line opened, with trains running at 350 kilometres an hour; in 2017 the Fuxing, a train whose technology China owns outright, entered service. High-speed rail has cut the journey from Beijing to Shanghai from more than ten hours to a little over four, and in doing so it has changed the way people commute, travel and work. For many passengers it has turned a journey between provinces into an ordinary day trip. It has not only driven regional economic integration but has also given smaller cities much easier access to medical care and to education.\n\n【要点】①「规模最大」用 the largest in the world，再用 with 短语补充运营里程，避免句子过长；②「运营里程」译作 in operation，比 operating mileage 自然；③「完全自主知识产权」用 whose technology China owns outright，比 independent intellectual property rights 更地道；④「时速达到」用 running at ... an hour；⑤「复兴号」音译 Fuxing 并加同位语说明；⑥时态：现状与影响用现在完成时，2008/2017 用一般过去时。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

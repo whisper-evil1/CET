@@ -1,0 +1,1097 @@
+{
+  "id": "cet6-2023-06-s3",
+  "level": "CET6",
+  "year": 2023,
+  "month": 6,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether people should be expected to love the work they do. You should state your position clearly and support it with reasons. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nMust We Love Our Work?\n\nThe advice to \"do what you love\" is offered as kindness and often works as a trap. It makes satisfaction a condition of employment and moves the risk of a bad job onto the worker: if you are unhappy, the fault lies in your attitude rather than in the wage.\n\nLoving one's work is not the problem. Craft pride is old, and a nurse who cares about her ward is no dupe of ideology. The difficulty is what the expectation does when it hardens into a requirement. An employer who speaks of passion can ask for an evening, then a weekend, and the request arrives as a compliment rather than a demand; refusal then looks like ingratitude, a cheaper instrument of control than a supervisor.\n\nThe honest position is narrower. Work should be decent before it is meaningful: paid enough, safe, predictable, and organised so that the person doing it has some say. Meaning is worth having, but it cannot substitute for these, and it must not become the condition on which they are granted.\n\nLove your work if you can. Only do not let anyone persuade you that the love is the payment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Road traffic is the most widespread source of annoyance in modern cities, and annoyance is the least of it. Epidemiological work over the past two decades has 26______ a consistent association between long-term exposure to traffic noise and raised blood pressure, heart attacks and stroke. The effect is 27______ at the level of the individual—a few millimetres of mercury—but large at the level of a population, because almost everybody is exposed."
+            },
+            {
+              "label": "B",
+              "text": "The mechanism is not mysterious. Noise 28______ the nervous system even during sleep, releasing stress hormones that narrow blood vessels and 29______ the heart rate. People adapt in the sense that they stop reporting the noise; they do not adapt physiologically, and the 30______ between reported annoyance and measured response is one reason the problem has been 31______ for so long."
+            },
+            {
+              "label": "C",
+              "text": "Policy has treated noise as a nuisance to be 32______ rather than a pollutant to be reduced. Insulation helps, but it protects the building rather than the street, and it does nothing for the people who cannot afford to move. Quieter road surfaces, lower night-time limits and restrictions on the noisiest vehicles are 33______ measures whose benefits are hard to see, which is precisely why they lose to 34______ ones such as a new cycle lane. The economic case is nonetheless 35______: the health costs of traffic noise are paid by the health system, while the cost of quieter roads is paid by the transport budget, and the two accounts are rarely read together."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "denied"
+                },
+                {
+                  "key": "B",
+                  "text": "avoided"
+                },
+                {
+                  "key": "C",
+                  "text": "found"
+                },
+                {
+                  "key": "D",
+                  "text": "predicted"
+                }
+              ],
+              "answer": "C",
+              "analysis": "has … a consistent association 是流行病学研究的标准表述：过去二十年的研究「发现」了交通噪声与高血压、心脏病、中风之间稳定的关联。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a consistent association between long-term exposure"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "immediate"
+                },
+                {
+                  "key": "B",
+                  "text": "permanent"
+                },
+                {
+                  "key": "C",
+                  "text": "legal"
+                },
+                {
+                  "key": "D",
+                  "text": "modest"
+                }
+              ],
+              "answer": "D",
+              "analysis": "破折号解释 a few millimetres of mercury（几毫米汞柱），说明个体层面的效应「不大」；but large at the level of a population 与之转折。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "a few millimetres of mercury"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "calms"
+                },
+                {
+                  "key": "B",
+                  "text": "activates"
+                },
+                {
+                  "key": "C",
+                  "text": "records"
+                },
+                {
+                  "key": "D",
+                  "text": "protects"
+                }
+              ],
+              "answer": "B",
+              "analysis": "后文 releasing stress hormones 说明噪声「激活」神经系统，即使在睡眠中也是如此。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "releasing stress hormones"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "slow"
+                },
+                {
+                  "key": "B",
+                  "text": "measure"
+                },
+                {
+                  "key": "C",
+                  "text": "repair"
+                },
+                {
+                  "key": "D",
+                  "text": "elevate"
+                }
+              ],
+              "answer": "D",
+              "analysis": "应激激素使血管收缩、心率「升高」，与 narrow blood vessels 并列，elevate 与 heart rate 搭配。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "narrow blood vessels"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "link"
+                },
+                {
+                  "key": "B",
+                  "text": "gap"
+                },
+                {
+                  "key": "C",
+                  "text": "cost"
+                },
+                {
+                  "key": "D",
+                  "text": "rule"
+                }
+              ],
+              "answer": "B",
+              "analysis": "人们不再抱怨，生理反应却仍在，故「主观烦恼」与「客观反应」之间存在「落差」，the gap between … 为固定搭配。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "People adapt in the sense that they stop reporting"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "overlooked"
+                },
+                {
+                  "key": "B",
+                  "text": "neglected"
+                },
+                {
+                  "key": "C",
+                  "text": "solved"
+                },
+                {
+                  "key": "D",
+                  "text": "measured"
+                }
+              ],
+              "answer": "B",
+              "analysis": "正因为这种落差不易察觉，问题长期「被忽视」；neglected 与下段 policy 的不作为呼应。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "for so long"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "reduced"
+                },
+                {
+                  "key": "B",
+                  "text": "measured"
+                },
+                {
+                  "key": "C",
+                  "text": "tolerated"
+                },
+                {
+                  "key": "D",
+                  "text": "blamed"
+                }
+              ],
+              "answer": "C",
+              "analysis": "rather than a pollutant to be reduced 是对照结构：政策把噪声当成「可容忍的扰民」而不是「要削减的污染物」。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "rather than a pollutant to be reduced"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "popular"
+                },
+                {
+                  "key": "B",
+                  "text": "unpopular"
+                },
+                {
+                  "key": "C",
+                  "text": "cheap"
+                },
+                {
+                  "key": "D",
+                  "text": "temporary"
+                }
+              ],
+              "answer": "B",
+              "analysis": "「效益看不见」的措施往往不受欢迎，故「输给」更显眼的项目（如新建自行车道），unpopular 与 lose to 逻辑一致。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "whose benefits are hard to see"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "urgent"
+                },
+                {
+                  "key": "B",
+                  "text": "voluntary"
+                },
+                {
+                  "key": "C",
+                  "text": "expensive"
+                },
+                {
+                  "key": "D",
+                  "text": "visible"
+                }
+              ],
+              "answer": "D",
+              "analysis": "与 hard to see 直接对照：能「被看见」的工程更容易获得预算，故为 visible。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "such as a new cycle lane"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "unfair"
+                },
+                {
+                  "key": "B",
+                  "text": "recent"
+                },
+                {
+                  "key": "C",
+                  "text": "small"
+                },
+                {
+                  "key": "D",
+                  "text": "clear"
+                }
+              ],
+              "answer": "D",
+              "analysis": " nonetheless 转折后给出结论：经济上的理由其实「很清楚」——健康成本由卫生系统承担，降噪成本由交通预算承担，两本账从不合读。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "the two accounts are rarely read together"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A shop assistant in 1995 could tell a customer apart from the queue; an online retailer can tell a visitor apart from a device, a location, a set of cookies and the hour at which the page was opened. From that material firms infer how much a person is likely to pay, and increasingly they act on the inference. \"Personalised pricing\" is the polite name for a price that depends on who is asking."
+            },
+            {
+              "label": "B",
+              "text": "Economists are not unanimous in disapproving. A firm that charges each customer the maximum that customer will accept can serve people who would be priced out by a single price, and in that narrow sense discrimination can raise output and even welfare. The textbook case is not absurd. It is, however, a case about a market with full information and no deception, which is not the market anyone shops in."
+            },
+            {
+              "label": "C",
+              "text": "Perfect discrimination is also technically hard. The data are noisy, the inference is a guess, and a customer who is offered a suspiciously high price can open a private window, borrow a friend's phone or wait a week. Reputation is a further constraint: a supermarket that charged regulars more would be found out, and the story would travel faster than any saving. What survives in practice is not the personalised price but the targeted discount—the voucher sent to the customer who looks about to leave."
+            },
+            {
+              "label": "D",
+              "text": "The practices that do measurable harm are less exotic. Drip pricing reveals a booking fee only at the last screen, when the comparison has already been made. A \"reference price\" may be a figure that was never charged for more than a fortnight. Algorithms also make coordination easier without any meeting: several firms using the same pricing software can end up at the same price, a pattern competition lawyers call hub-and-spoke, and one that is difficult to distinguish from ordinary competition."
+            },
+            {
+              "label": "E",
+              "text": "The law fits awkwardly. Anti-discrimination statutes protect categories such as sex, race and age; they say nothing about willingness to pay, which is the category that pricing algorithms actually use. Consumer law can attack a misleading statement, but it must show that a statement was made and that a consumer was misled by it, which is difficult when the mechanism is a number that differs silently from the number shown to the next person. Competition law, meanwhile, was written for firms that meet in rooms."
+            },
+            {
+              "label": "F",
+              "text": "Remedies are therefore being built rather than found. Disclosure of personalised pricing, a ban on fees that appear only at checkout, and a right to see the price offered to comparable customers all feature in recent proposals. A more ambitious idea is an audit: a regulator with access to the pricing logic and to the logs, able to ask why this customer saw this number. The obstacle is capacity. Few agencies can read the code, and fewer can read it quickly enough to matter."
+            },
+            {
+              "label": "G",
+              "text": "Behind the technical questions sits a simpler one about consent. A shopper who agrees to cookies has agreed to be observed, not to be sorted by what her patience is worth. The asymmetry is not mainly about data; it is about explanation. A price that nobody can account for cannot be argued with, and a market in which prices cannot be argued with has quietly changed what a market is."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Online sellers can estimate what an individual is willing to pay.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：从设备、位置、cookie 与访问时间推断某人「愿意付多少」，并据此定价——这就是个性化定价。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "infer how much a person is likely to pay"
+            },
+            {
+              "number": 37,
+              "stem": "Charging different customers different prices can sometimes allow more people to be served.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：按每位顾客能接受的最高价收费，可以让被单一价格排除在外的人也能买到，故在某些意义上可提高产量与福利。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "discrimination can raise output and even welfare"
+            },
+            {
+              "number": 38,
+              "stem": "In practice, personalised pricing is limited by customers who can compare or conceal themselves.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：数据有噪声、推断只是猜测，顾客可开隐私窗口、借手机或等一周；因此真正留存的是定向优惠券，而非完全个性化定价。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "open a private window, borrow a friend's phone"
+            },
+            {
+              "number": 39,
+              "stem": "What survives is the discount aimed at customers who seem ready to leave.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：实际留存的是「定向折扣」——发给看起来即将流失的顾客的优惠券。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "the voucher sent to the customer who looks about to leave"
+            },
+            {
+              "number": 40,
+              "stem": "A charge disclosed only at the final step escapes comparison.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：drip pricing 把订票费留到最后一屏才显示，此时比价已经完成。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "reveals a booking fee only at the last screen"
+            },
+            {
+              "number": 41,
+              "stem": "Several firms using the same software may converge on similar prices without meeting.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：多家公司使用同一套定价软件，可能形成「轴辐式」协同，且难以与正常竞争区分。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "hub-and-spoke"
+            },
+            {
+              "number": 42,
+              "stem": "Existing anti-discrimination law does not address differences based on willingness to pay.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：反歧视法保护的是性别、种族、年龄等类别，对「支付意愿」这类依据「只字未提」，而这恰是算法实际使用的分类。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "they say nothing about willingness to pay"
+            },
+            {
+              "number": 43,
+              "stem": "Competition law was designed for a world of explicit agreements.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：竞争法「是为在房间里开会的公司写的」，难以处理无需会面的算法协同。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "written for firms that meet in rooms"
+            },
+            {
+              "number": 44,
+              "stem": "Supervising pricing algorithms requires skills that regulators rarely have.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：审计设想受制于能力——很少有机构能读懂代码，能及时读懂的更少。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "Few agencies can read the code"
+            },
+            {
+              "number": 45,
+              "stem": "Agreeing to be observed is not the same as agreeing to be priced by one's patience.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：同意 cookie 是同意「被观察」，不是同意按「耐心值多少钱」被分类；问题在于无人能解释的价格无法被质疑。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "has agreed to be observed, not to be sorted"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The doctorate is the last surviving apprenticeship in the modern university. A student is admitted not to a programme but, in effect, to a person, and for four or five years the relationship with that person determines what the student works on, when the work is finished and whether it is judged to be good. Other degrees are delivered by a curriculum; this one is delivered by a relationship, and the institution has generally preferred not to say so."
+            },
+            {
+              "label": "B",
+              "text": "What supervision is supposed to provide is easy to list: a question worth answering, a standard to aim at, an introduction to a community, and an honest estimate of when the work is done. What complicates the list is the asymmetry. The supervisor holds the funding, writes the references, decides whether to be a co-author and, in many systems, sits on the committee that decides whether the student continues. A relationship with that much power in it cannot be a friendship, however friendly it is."
+            },
+            {
+              "label": "C",
+              "text": "Surveys of doctoral students describe the failure modes with some consistency. Isolation is the commonest complaint, and it is structural rather than personal: a project with one reader and no peers has nowhere to test an idea. Expectations are often unstated, so that a student can work for a year on what turns out to be the wrong question. And because the relationship is singular, its failures are not correctable: a student who does not get on with a supervisor has, in most systems, no second supplier, and the cost of changing is measured in years."
+            },
+            {
+              "label": "D",
+              "text": "The reforms that have been tried are unremarkable and mostly effective. Thesis committees of three replace the single judge; annual milestones make progress visible before it becomes a crisis; ombuds offices give a student somewhere to go that is not the supervisor's corridor; and supervision itself is now taught, badly and briefly, in many universities but taught. Where these structures exist, the reported rate of completed degrees rises and the reported rate of misery falls."
+            },
+            {
+              "label": "E",
+              "text": "The intractable problem is money. A student funded by a grant attached to one person's project cannot easily move, because the salary and the topic move with the grant. Reform therefore tends to stop at the edge of the budget. The deeper shift required is conceptual: supervision is a professional skill with a technique, not a moral quality that good people happen to possess, and departments that treat it as the latter will keep discovering, too late, that a distinguished researcher can be a damaging teacher."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "In what sense is the doctorate described as an apprenticeship?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Students are paid a wage rather than a scholarship."
+                },
+                {
+                  "key": "B",
+                  "text": "Admission binds a student to a particular supervisor rather than to a programme."
+                },
+                {
+                  "key": "C",
+                  "text": "It is the shortest of the postgraduate degrees."
+                },
+                {
+                  "key": "D",
+                  "text": "It takes place mainly outside the university."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：学生「实际上不是被录进一个项目，而是被录给一个人」，此后四五年由这层关系决定研究什么、何时完成。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "admitted not to a programme but, in effect, to a person"
+            },
+            {
+              "number": 47,
+              "stem": "Why does the author say the relationship cannot be a friendship?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because universities forbid close relationships."
+                },
+                {
+                  "key": "B",
+                  "text": "Because the work is too technical to discuss socially."
+                },
+                {
+                  "key": "C",
+                  "text": "Because students and supervisors are of different ages."
+                },
+                {
+                  "key": "D",
+                  "text": "Because the supervisor controls funding, references and continuation."
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段：导师掌握经费、推荐信、是否共同署名，并在很多制度中参与决定学生能否继续——权力如此不对等的关系不可能是友谊。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "The supervisor holds the funding, writes the references"
+            },
+            {
+              "number": 48,
+              "stem": "Why is isolation described as 'structural rather than personal'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because a project with one reader and no peers has no place to test ideas."
+                },
+                {
+                  "key": "B",
+                  "text": "Because supervisors are usually unfriendly."
+                },
+                {
+                  "key": "C",
+                  "text": "Because laboratories are badly designed."
+                },
+                {
+                  "key": "D",
+                  "text": "Because students choose to work alone."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：孤立是结构性的——「一个读者、没有同伴」的项目无处检验想法，并非某个导师性格问题。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "a project with one reader and no peers"
+            },
+            {
+              "number": 49,
+              "stem": "What is the effect of a singular relationship on failure?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Failure is rare because standards are low."
+                },
+                {
+                  "key": "B",
+                  "text": "Failures are quickly corrected by the department."
+                },
+                {
+                  "key": "C",
+                  "text": "A mismatch cannot be remedied without great cost."
+                },
+                {
+                  "key": "D",
+                  "text": "Students can easily transfer to another supervisor."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：因为关系是唯一的，其失败不可纠正——多数制度下学生没有「第二个供应者」，换导师的代价以年计。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the cost of changing is measured in years"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author regard as the fundamental change needed?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Shorter doctoral programmes."
+                },
+                {
+                  "key": "B",
+                  "text": "Fewer doctoral students."
+                },
+                {
+                  "key": "C",
+                  "text": "More generous scholarships."
+                },
+                {
+                  "key": "D",
+                  "text": "Treating supervision as a taught professional skill."
+                }
+              ],
+              "answer": "D",
+              "analysis": "E 段末：真正需要的是观念转变——督导是一门有技法的专业技能，而非好人天生具备的道德品质；否则终会发现「杰出研究者可能是糟糕的教师」。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "a professional skill with a technique"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A hospital that buys a diagnostic model is not buying a machine that does one thing. It is buying a second reader: software that ranks a waiting list, flags a scan, or computes a score that a junior doctor is expected to notice. The promise is not that the model decides, but that it makes a decision better informed. That promise is also the source of the difficulty, because a second reader changes what the first reader does."
+            },
+            {
+              "label": "B",
+              "text": "Trials report the accuracy of a model against a radiologist's conclusion; wards report something else. A model trained on images from one scanner meets another scanner, and the images are not quite the same. Clinicians under time pressure do not read a probability; they read a flag, and a flag that is usually right is trusted even when it is wrong—the phenomenon called automation bias. The measured accuracy of the model can therefore remain unchanged while the accuracy of the team falls."
+            },
+            {
+              "label": "C",
+              "text": "Liability is where the accounting becomes uncomfortable. If a junior doctor follows a flagged scan and the flag was wrong, the doctor made the decision, the hospital employed the doctor, and the developer supplied a tool that was approved for sale. Each has a share, and the shares do not add up to a person. The law, built on the assumption that a human being exercised judgement at a particular moment, is being asked to allocate responsibility for a judgement that no single human being made."
+            },
+            {
+              "label": "D",
+              "text": "Regulation has concentrated on the artefact rather than on the practice. A model is approved as a medical device, with evidence of accuracy, and then released into a ward where nobody has been trained to interpret its errors. Adaptive models, which change as they learn from new data, complicate this further: the device that was approved is not the device that is running a year later. Post-market surveillance exists on paper; in practice it depends on clinicians reporting near-misses that they may not recognise as near-misses."
+            },
+            {
+              "label": "E",
+              "text": "The useful reforms are procedural and dull. Name the clinician who remains responsible, in writing, for the final decision. Require the developer to publish the conditions under which the model was validated, so that a hospital can see whether its own patients resemble them. Log the model's recommendations alongside the outcome, which makes both the model's failures and the team's failures visible after the event. None of this makes the software safer in itself. It makes the human system around the software capable of noticing, which is what accountability has always meant."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the author mean by calling the software 'a second reader'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It replaces the first reader entirely."
+                },
+                {
+                  "key": "B",
+                  "text": "It changes how the human reader behaves."
+                },
+                {
+                  "key": "C",
+                  "text": "It reads images that humans cannot see."
+                },
+                {
+                  "key": "D",
+                  "text": "It is a second opinion bought from another hospital."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段末：承诺不是让模型做决定，而是让决定「信息更充分」；但正因如此，第二读者改变了第一读者的行为，这正是困难所在。",
+              "type": "词句含义题",
+              "evidencePara": "A",
+              "evidenceText": "a second reader changes what the first reader does"
+            },
+            {
+              "number": 52,
+              "stem": "How can a team become less accurate while the model's accuracy is unchanged?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because the images are of poorer quality."
+                },
+                {
+                  "key": "B",
+                  "text": "Because the model is updated too often."
+                },
+                {
+                  "key": "C",
+                  "text": "Because clinicians trust a usually-correct flag even when it is wrong."
+                },
+                {
+                  "key": "D",
+                  "text": "Because hospitals employ fewer radiologists."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：医生在时间压力下读的是「标记」而非概率，而通常正确的标记即使错了也会被信任——自动化偏差，于是团队准确率下降而模型指标不变。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "a flag that is usually right is trusted even when it is wrong"
+            },
+            {
+              "number": 53,
+              "stem": "What is the difficulty with liability described in the third paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Responsibility is shared among parties in a way that does not settle on a person."
+                },
+                {
+                  "key": "B",
+                  "text": "Developers are protected by law from all claims."
+                },
+                {
+                  "key": "C",
+                  "text": "Patients rarely sue in such cases."
+                },
+                {
+                  "key": "D",
+                  "text": "No one is willing to insure hospitals."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：医生做了决定、医院雇了医生、开发者提供了获批的工具，「每一方都有一份，而这些份加起来不等于一个人」；法律假设某个时刻有人作出判断，而此判断并非任何单个人作出。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the shares do not add up to a person"
+            },
+            {
+              "number": 54,
+              "stem": "Why do adaptive models complicate approval?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They cannot be tested on patients."
+                },
+                {
+                  "key": "B",
+                  "text": "They require more electricity."
+                },
+                {
+                  "key": "C",
+                  "text": "They are more expensive to buy."
+                },
+                {
+                  "key": "D",
+                  "text": "The approved device may differ from the one actually running later."
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：自适应模型会随新数据改变，「获批的那个设备并不是一年后正在运行的那个设备」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "the device that was approved is not the device that is running"
+            },
+            {
+              "number": 55,
+              "stem": "What is the value of the procedural reforms the author proposes?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They make the software itself more accurate."
+                },
+                {
+                  "key": "B",
+                  "text": "They make the surrounding human system able to notice failures."
+                },
+                {
+                  "key": "C",
+                  "text": "They remove the need for regulators."
+                },
+                {
+                  "key": "D",
+                  "text": "They shift all liability to the developer."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段末：这些做法本身并不让软件更安全，而是让「软件周围的人的系统」有能力察觉问题——这正是问责一贯的含义。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "It makes the human system around the software capable of noticing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国传统建筑以木结构为主，用柱、梁、斗拱搭起房屋，墙体不承重，故有“墙倒屋不塌”之说。这种结构抗震性好，也便于开设门窗。斗拱层层出挑，既承托屋檐，又有装饰作用。古人建房讲究选址朝向，注重与山水的关系，形成独特的院落。木结构怕火怕潮，需不断修缮，许多古建筑因此留下历代工匠的痕迹。今天，木构技艺不仅用于寺庙、博物馆，也在现代设计中重新诠释。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nTraditional Chinese architecture is chiefly timber-framed. Pillars, beams and bracket sets are assembled to raise the building, and the walls carry no weight, which is why it is said that \"the walls may fall but the house will not\". Such a structure performs well in earthquakes and allows doors and windows to be placed with great freedom. The bracket set projects in tiers, supporting the eaves and ornamenting them at the same time. Builders attended carefully to the siting and orientation of a house and to its relation with hills and water, and this produced the characteristic courtyard. Timber fears fire and damp, so buildings must be repaired continually, and many old structures therefore carry the marks of craftsmen from several dynasties. Today the craft is used not only in temples and museums but has also been reinterpreted in contemporary design.\n\n【要点】①「以木结构为主」可用 is chiefly timber-framed，比 is mainly made of wood structure 简洁地道；②「墙倒屋不塌」为俗语，宜加引号直译 the walls may fall but the house will not，不要展开解释；③「斗拱」在首次出现处译出 bracket set，不必音译；④「层层出挑，既承托屋檐，又有装饰作用」用主谓结构加现在分词 supporting ... and ornamenting ...，避免两个并列谓语；⑤「留下历代工匠的痕迹」意译为 carry the marks of craftsmen from several dynasties。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

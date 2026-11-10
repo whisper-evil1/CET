@@ -1,0 +1,1097 @@
+{
+  "id": "cet4-2024-12-s1",
+  "level": "CET4",
+  "year": 2024,
+  "month": 12,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on why learning to work in a team matters more than many students expect. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nWhy Teamwork Is Worth the Trouble\n\nGroup projects are unpopular for a reason: one member disappears, another does everything, and the mark feels unfair. Yet learning to work in a team is one of the few university skills that almost every employer will test.\n\nThe first lesson is that a team is not four people doing the same task. It is a division of labour, and dividing well requires honesty about what you are good at. A student who admits that she cannot design a poster but can write a clear report saves everybody a week of confusion.\n\nThe second lesson is harder to accept: disagreement is useful. A plan that has been argued over in a classroom is usually stronger than a plan nobody questioned, and the argument costs nothing before anything has been built.\n\nFinally, teamwork forces you to explain your work to people who have not read the brief. That, rather than the project itself, is what most professional communication consists of.\n\nNone of this makes group work pleasant. It makes it practice, which is the point.\n\n（约 165 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In the Netherlands a strange competition takes place every spring. Towns and neighbourhoods compete to see who can tear up the most paving stones and replace them with grass, flower beds and young trees. The contest, called Tegelwippen or 'tile flipping', began in 2020 with two cities and has since spread across the country; the organisers say that millions of tiles have been lifted."
+            },
+            {
+              "label": "B",
+              "text": "The 26______ is practical. Dutch streets are carefully drained, but heavy rain now arrives in 27______ that the pipes were never designed for, and water runs off stone into cellars and underpasses. Soil and plants 28______ rain where it falls, and a street with trees is several degrees cooler in summer than one 29______ in stone. Lifting tiles also costs far less than laying new pipes."
+            },
+            {
+              "label": "C",
+              "text": "Not everyone is 30______. Some residents complain that the street looks untidy, and a few 31______ that wet leaves and insects will make the pavement slippery. Councils answer that they keep a 32______ path wide enough for a wheelchair or a pram, and that the new gardens are looked after by the people who 33______ them. The campaigns have a social 34______ too: neighbours who have never spoken find themselves digging side by side. What began as a response to flooding has become a way of 35______ a street, draining it and bringing its neighbours together at the same time."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "type": "词义题",
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "prize"
+                },
+                {
+                  "key": "B",
+                  "text": "logic"
+                },
+                {
+                  "key": "C",
+                  "text": "fashion"
+                },
+                {
+                  "key": "D",
+                  "text": "budget"
+                }
+              ],
+              "answer": "B",
+              "analysis": "空后整段都在解释「为什么拆石板有道理」：暴雨、排水、降温、省钱，所以是「道理/逻辑很简单」（the logic is practical）。prize 与下文成本论证无关，fashion 无法被 practical 说明，budget 只涉及钱而漏掉排水与降温。",
+              "evidencePara": "B",
+              "evidenceText": "heavy rain now arrives"
+            },
+            {
+              "number": 27,
+              "type": "词义题",
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "bursts"
+                },
+                {
+                  "key": "B",
+                  "text": "seasons"
+                },
+                {
+                  "key": "C",
+                  "text": "layers"
+                },
+                {
+                  "key": "D",
+                  "text": "circles"
+                }
+              ],
+              "answer": "A",
+              "analysis": "暴雨以「一阵一阵」的方式到来，rain arrives in bursts 是固定搭配，也与下文「管道当初没按这个量设计」对应。seasons 指季节、layers 指层次、circles 指圆圈，都无法描述短时强降雨的形态。",
+              "evidencePara": "B",
+              "evidenceText": "the pipes were never designed for"
+            },
+            {
+              "number": 28,
+              "type": "词义题",
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "reflect"
+                },
+                {
+                  "key": "B",
+                  "text": "measure"
+                },
+                {
+                  "key": "C",
+                  "text": "absorb"
+                },
+                {
+                  "key": "D",
+                  "text": "divide"
+                }
+              ],
+              "answer": "C",
+              "analysis": "土壤与植物让雨水「就地吸收」，这正是拆石板的目的，absorb rain where it falls 与后文雨水不再流进地下室形成因果。reflect（反射）、measure（测量）、divide（分开）都不能表达渗透吸水。",
+              "evidencePara": "B",
+              "evidenceText": "water runs off stone into cellars"
+            },
+            {
+              "number": 29,
+              "type": "词义题",
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "hidden"
+                },
+                {
+                  "key": "B",
+                  "text": "paved"
+                },
+                {
+                  "key": "C",
+                  "text": "painted"
+                },
+                {
+                  "key": "D",
+                  "text": "divided"
+                }
+              ],
+              "answer": "B",
+              "analysis": "对比项是「种了树的街道」与「铺满石头的街道」，paved in stone 指用石材铺装，与全文 tear up the paving stones 呼应。hidden（藏起来的）、painted（刷漆的）、divided（分隔的）都不能表示地面被硬质铺装覆盖。",
+              "evidencePara": "B",
+              "evidenceText": "several degrees cooler in summer"
+            },
+            {
+              "number": 30,
+              "type": "词义题",
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "convinced"
+                },
+                {
+                  "key": "B",
+                  "text": "invited"
+                },
+                {
+                  "key": "C",
+                  "text": "allowed"
+                },
+                {
+                  "key": "D",
+                  "text": "paid"
+                }
+              ],
+              "answer": "A",
+              "analysis": "后一句是居民的抱怨与担心，说明「并非所有人都被说服」，not everyone is convinced 是表示存在反对意见的常用句式。invited、allowed、paid 与「有人抱怨」之间没有语义衔接。",
+              "evidencePara": "C",
+              "evidenceText": "Some residents complain that the street looks untidy"
+            },
+            {
+              "number": 31,
+              "type": "词义题",
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "deny"
+                },
+                {
+                  "key": "B",
+                  "text": "worry"
+                },
+                {
+                  "key": "C",
+                  "text": "prove"
+                },
+                {
+                  "key": "D",
+                  "text": "remember"
+                }
+              ],
+              "answer": "B",
+              "analysis": "that 从句内容是「湿叶子和虫子会让路面变滑」，属于担忧而非事实陈述，且与前半句 complain 并列，用 worry that。deny 需否定既定事实，prove 需要证据，remember 与安全隐患无关。",
+              "evidencePara": "C",
+              "evidenceText": "will make the pavement slippery"
+            },
+            {
+              "number": 32,
+              "type": "词义题",
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "private"
+                },
+                {
+                  "key": "B",
+                  "text": "narrow"
+                },
+                {
+                  "key": "C",
+                  "text": "clear"
+                },
+                {
+                  "key": "D",
+                  "text": "wooden"
+                }
+              ],
+              "answer": "C",
+              "analysis": "后半句 wide enough for a wheelchair or a pram 说明这条通道要保持「畅通无阻」，keep a clear path 是固定搭配。private 指所有权、narrow 与 wide enough 矛盾、wooden 指材质，都与「能否通行」无关。",
+              "evidencePara": "C",
+              "evidenceText": "wide enough for a wheelchair or a pram"
+            },
+            {
+              "number": 33,
+              "type": "词义题",
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "plant"
+                },
+                {
+                  "key": "B",
+                  "text": "visit"
+                },
+                {
+                  "key": "C",
+                  "text": "measure"
+                },
+                {
+                  "key": "D",
+                  "text": "ignore"
+                }
+              ],
+              "answer": "A",
+              "analysis": "花园由「种下它们的人」自己照料，plant 与前文 replace them with grass, flower beds 直接对应，也解释了这种改造为何能长期维持。visit、measure、ignore 都无法说明居民与花园的归属关系。",
+              "evidencePara": "C",
+              "evidenceText": "the new gardens are looked after"
+            },
+            {
+              "number": 34,
+              "type": "词义题",
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "cost"
+                },
+                {
+                  "key": "B",
+                  "text": "duty"
+                },
+                {
+                  "key": "C",
+                  "text": "benefit"
+                },
+                {
+                  "key": "D",
+                  "text": "rule"
+                }
+              ],
+              "answer": "C",
+              "analysis": "冒号后说从没说过话的邻居一起挖土，这是额外的好处，a social benefit 与后文并列的降温、排水同属收益。cost 表示代价、duty 表示义务、rule 表示规定，都不能接「邻居因此交谈」这一正面结果。",
+              "evidencePara": "C",
+              "evidenceText": "neighbours who have never spoken"
+            },
+            {
+              "number": 35,
+              "type": "词义题",
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "cooling"
+                },
+                {
+                  "key": "B",
+                  "text": "selling"
+                },
+                {
+                  "key": "C",
+                  "text": "counting"
+                },
+                {
+                  "key": "D",
+                  "text": "closing"
+                }
+              ],
+              "answer": "A",
+              "analysis": "空格与 draining it、bringing its neighbours together 并列，都是这条街获得的改善，而前文已说种树的街道夏天更凉，故填 cooling。selling、counting、closing 与街道改造的三重收益均不对应。",
+              "evidencePara": "B",
+              "evidenceText": "several degrees cooler in summer"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Mentoring used to happen by accident. A junior analyst was taken under the wing of a partner, learned the craft by watching, and inherited something of the older person's reputation along with it. What has changed is that companies now try to manufacture the accident: matching is done by software, meetings are scheduled in a calendar, and the number of pairs is reported to the board."
+            },
+            {
+              "label": "B",
+              "text": "The commonest version is the onboarding buddy. For the first three months a new recruit is paired with someone a few years ahead, not to be taught the job but to be told where things are kept and whom to ask. Firms that track the results find the pairing matters most for the questions people are too embarrassed to put to a manager: how expenses are claimed, whether the weekly meeting is really compulsory, who actually decides."
+            },
+            {
+              "label": "C",
+              "text": "Time is the constraint nobody budgets for. A serious scheme asks a senior person for two to four hours a month, which, in a firm that bills by the hour, is not a gift but a cost. Mentors drawn from the busiest ranks quietly withdraw first, and a programme that opens with a hundred volunteers often finishes the year with a third of them still meeting."
+            },
+            {
+              "label": "D",
+              "text": "Cross-department pairing is where the design earns its keep. A mentor in another division can explain how decisions are actually taken there, and can introduce a junior person to people their own manager has no reason to know. The scheme costs a line manager a useful employee for a few hours and returns a wider network, which is why support is easier to win than the budget suggests."
+            },
+            {
+              "label": "E",
+              "text": "What formal schemes rarely close is the gap in promotion rather than the gap in advice. Research on professional firms has found, repeatedly, that women and minority employees receive plenty of mentoring and very little sponsorship — someone who argues for them when a role is discussed and they are not in the room. Advice changes how a person feels about their prospects; advocacy changes the list of candidates."
+            },
+            {
+              "label": "F",
+              "text": "Formalisation brings its own failure mode. Once a programme has a dashboard, the number of meetings becomes the measure, and pairs meet in order to keep the record clean. Employees learn to call an hour of complaining development, mentors learn to sign the form, and the scheme survives on evidence that says nothing about whether anyone grew. Theatrical mentoring is cheap to run and easy to defend."
+            },
+            {
+              "label": "G",
+              "text": "The schemes that hold up share three features: mentors volunteer rather than being volunteered, their hours are counted in their workload instead of being taken out of it, and each pair sets its own goals in the first meeting. None of this is expensive. It requires only that the company admit an hour of a senior person's attention is a resource, and account for it like one."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Newcomers need answers to small practical questions more than instruction in the job itself.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段明说配对不是为了教业务，而是告诉新人东西放哪、该问谁；后面列举报销怎么填、周会是否必须参加这类\"不好意思问经理\"的小问题。A 段讲导师制的历史与形式化，C 段讲时间成本，均无此意。",
+              "type": "匹配题",
+              "evidencePara": "B",
+              "evidenceText": "not to be taught the job but to be told where things are kept and whom to ask"
+            },
+            {
+              "number": 37,
+              "stem": "In some professional firms, employees from certain groups receive support but not someone to speak for them.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段区分 mentoring（给建议）与 sponsorship（在本人不在场时替其争取），指出女性与少数族裔\"建议多、代言少\"。强调\"被指导\"的 B 段与强调\"晋升名单\"的 E 段不同。",
+              "type": "匹配题",
+              "evidencePara": "E",
+              "evidenceText": "women and minority employees receive plenty of mentoring and very little sponsorship"
+            },
+            {
+              "number": 38,
+              "stem": "The employees best placed to mentor are often the least able to spare the time.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段指出每月两到四小时对按小时计费的资深员工是成本而非馈赠，最忙的导师最先悄悄退出。D 段讲跨部门配对的好处，不涉及退出。",
+              "type": "匹配题",
+              "evidencePara": "C",
+              "evidenceText": "Mentors drawn from the busiest ranks quietly withdraw first"
+            },
+            {
+              "number": 39,
+              "stem": "A mentor in another part of the organisation can create contacts that a manager could not.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段说跨部门导师能解释决策怎么做，并把新人介绍给本部门经理没理由认识的人。B 段虽然也讲配对，但限于入职头三个月的日常事务。",
+              "type": "匹配题",
+              "evidencePara": "D",
+              "evidenceText": "can introduce a junior person to people their own manager has no reason to know"
+            },
+            {
+              "number": 40,
+              "stem": "Advice and advocacy serve different purposes, and only one changes who is considered for promotion.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末句是本篇的核心对照：建议改变感受，代言改变候选人名单。F 段讲形式化失真，与晋升机制无关。",
+              "type": "匹配题",
+              "evidencePara": "E",
+              "evidenceText": "Advice changes how a person feels about their prospects; advocacy changes the list of candidates."
+            },
+            {
+              "number": 41,
+              "stem": "A scheme can appear healthy while producing no real development.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段说有了仪表盘之后，见面次数成了衡量标准，项目靠\"与成长无关\"的证据存活，即表面健康、实质空转。G 段讲成功项目的三个特征，方向相反。",
+              "type": "匹配题",
+              "evidencePara": "F",
+              "evidenceText": "the scheme survives on evidence that says nothing about whether anyone grew"
+            },
+            {
+              "number": 42,
+              "stem": "Sound programmes treat the mentor's hours as work rather than as goodwill.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段把\"导师时间计入工作量而非从中扣除\"列为三条特征之一。C 段只描述时间是成本，没有给出解决方式。",
+              "type": "匹配题",
+              "evidencePara": "G",
+              "evidenceText": "their hours are counted in their workload instead of being taken out of it"
+            },
+            {
+              "number": 43,
+              "stem": "A scheme that starts with many volunteers may end the year with few still active.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段具体给出\"年初一百人、年末三分之一\"的对比，说明流失。G 段谈的是筛选与计工时，不涉及人数衰减。",
+              "type": "匹配题",
+              "evidencePara": "C",
+              "evidenceText": "a programme that opens with a hundred volunteers often finishes the year with a third of them still meeting"
+            },
+            {
+              "number": 44,
+              "stem": "Managers back such pairings because the gain to them exceeds the cost.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段说配对只占用直线经理一名能干下属的几个小时，回报却是一张更大的关系网，因此\"支持比预算更容易争取\"，即收益大于付出。G 段讲方案设计的三条原则，不解释经理为何支持。",
+              "type": "匹配题",
+              "evidencePara": "D",
+              "evidenceText": "which is why support is easier to win than the budget suggests"
+            },
+            {
+              "number": 45,
+              "stem": "How many pairs have been created is now a figure that reaches senior management.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末句说配对数要上报董事会，说明配对数量已成为高层关注的指标。F 段讲指标如何被\"刷\"，是另一层意思。",
+              "type": "匹配题",
+              "evidencePara": "A",
+              "evidenceText": "the number of pairs is reported to the board"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2022, for the first time since 1987, vinyl records outsold CDs in the United States by value. The figures are small beside streaming, which provides most of the recording industry's income, but the direction is striking: a format declared dead in the 1990s has now grown for sixteen years in a row."
+            },
+            {
+              "label": "B",
+              "text": "Buyers are not only older listeners replacing collections they once sold. Label surveys suggest that a large share of record buyers are under thirty-five, and that most of them also pay for streaming. They are not choosing between formats so much as adding one: a record is an object to hold, a cover to look at, and a way of hearing an album in the order the artist arranged it."
+            },
+            {
+              "label": "C",
+              "text": "Manufacturing has struggled to keep up. Most of the world's pressing plants closed in the 1980s and 1990s, and the survivors run machines for which spare parts must be made by hand. A new press costs hundreds of thousands of euros and takes months to install, so in 2021 some albums waited nine months for a slot."
+            },
+            {
+              "label": "D",
+              "text": "The environmental case is mixed. A record is pressed from PVC, a plastic that is hard to recycle, and making one uses far more energy than delivering a stream. Yet a record played for twenty years carries no further cost, while streaming draws electricity every time it is used. Researchers who have compared the two conclude that the greenest choice is to stream less, not to buy more records."
+            },
+            {
+              "label": "E",
+              "text": "What the revival really shows is that price is not the only thing listeners weigh. A file is convenient and almost free; a record is expensive, awkward and durable. An industry that spent twenty years removing friction has discovered that a generation raised on infinite choice will pay to have some of it taken away."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What happened in the United States in 2022?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Vinyl records earned more than CDs."
+                },
+                {
+                  "key": "B",
+                  "text": "Vinyl records earned more than streaming."
+                },
+                {
+                  "key": "C",
+                  "text": "CD sales rose for the first time in decades."
+                },
+                {
+                  "key": "D",
+                  "text": "Record shops outnumbered other music retailers."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：按销售额计，黑胶在美国自 1987 年以来首次超过 CD。文中同时说与流媒体相比数字很小，故 B 错；C、D 无据。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "vinyl records outsold CDs in the United States by value"
+            },
+            {
+              "number": 47,
+              "stem": "What is typical of today's record buyers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have given up streaming."
+                },
+                {
+                  "key": "B",
+                  "text": "Many are young and also stream music."
+                },
+                {
+                  "key": "C",
+                  "text": "Most are replacing old collections."
+                },
+                {
+                  "key": "D",
+                  "text": "They buy records instead of concert tickets."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：相当大比例的买家不到三十五岁，且多数同时付费使用流媒体——他们不是二选一，而是「加一种」。A、C 与原文相反，D 未提。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "most of them also pay for streaming"
+            },
+            {
+              "number": 48,
+              "stem": "Why is it hard to produce records quickly?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Few artists want their music pressed."
+                },
+                {
+                  "key": "B",
+                  "text": "The plastic needed is no longer produced."
+                },
+                {
+                  "key": "C",
+                  "text": "Plants closed and new presses are slow and costly to install."
+                },
+                {
+                  "key": "D",
+                  "text": "Governments limit the number of records per year."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：多数压制厂在八九十年代关门，剩下的机器连备件都要手工做；新压机造价数十万欧元、安装数月，2021 年有专辑排队九个月。A、B、D 均无依据。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "A new press costs hundreds of thousands of euros"
+            },
+            {
+              "number": 49,
+              "stem": "What do researchers comparing the two formats conclude?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Records are clearly greener than streaming."
+                },
+                {
+                  "key": "B",
+                  "text": "Streaming is greener because it uses no plastic."
+                },
+                {
+                  "key": "C",
+                  "text": "The greenest option is simply to listen less."
+                },
+                {
+                  "key": "D",
+                  "text": "Neither format has any measurable impact."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段末：黑胶用难回收的 PVC、能耗高，但唱片可长期反复使用而流媒体每次都耗电；结论是「最环保的是少听，而不是多买唱片」。A、B 各偏一端，D 与「两者都有影响」的论述矛盾。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "the greenest choice is to stream less, not to buy more records"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author think the revival reveals?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That sound quality matters more than convenience."
+                },
+                {
+                  "key": "B",
+                  "text": "That some listeners will pay for limits and physical objects."
+                },
+                {
+                  "key": "C",
+                  "text": "That the music industry has solved its financial problems."
+                },
+                {
+                  "key": "D",
+                  "text": "That streaming will soon disappear."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：价格不是唯一考量；习惯了无限选择的一代人「愿意付钱让一部分选择被拿走」，即愿意为有限与实体付费。A 项文中未比较音质，C、D 与「流媒体仍占多数收入」矛盾。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "will pay to have some of it taken away"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In early 2018 Cape Town came within weeks of becoming the first major city to run out of water. The authorities had a name for the moment the taps would be turned off: Day Zero. Four million residents were told to queue at two hundred collection points for a daily ration. Dam levels had fallen to about eleven per cent after three years of drought, the worst in a century."
+            },
+            {
+              "label": "B",
+              "text": "The response was a mixture of price and repair. Households were limited to fifty litres a person a day, then urged towards twenty-five; tariffs rose steeply for heavy users; and the city published a daily dashboard showing dam levels and consumption, which turned an abstract crisis into a number people could watch. Engineers also went looking for leaks, fixing tens of thousands of pipes and reducing pressure in the network at night, when demand is low but pipes still burst."
+            },
+            {
+              "label": "C",
+              "text": "Farms outside the city were asked to cut their use by sixty per cent and to sell water to the city instead, an arrangement that saved the dams but cost agricultural jobs. Businesses installed tanks and boreholes, and hotels asked guests to reuse towels and meant it. Consumption fell from about 1.1 billion litres a day to roughly 500 million, and Day Zero was pushed back, then cancelled."
+            },
+            {
+              "label": "D",
+              "text": "Rain, eventually, did what policy could not: the winter of 2018 refilled the dams and the sense of emergency dissolved. That is the risk the city now warns about. The infrastructure that would make a repeat impossible, such as desalination plants and systems that return treated sewage to the supply, was delayed by cost and by objections from residents; only a fraction was built."
+            },
+            {
+              "label": "E",
+              "text": "Other cities have watched closely, because the method is cheap and portable. Chennai ran out of surface water in 2019 and relied on tankers; Mexico City loses about a third of its water to leaks. The lesson of Cape Town is not that rationing is pleasant, but that a city can cut demand by half in three years if it measures consumption daily, prices the top of the range sharply, and treats leaks as an emergency rather than a maintenance item."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "type": "细节题",
+              "stem": "What did the term 'Day Zero' refer to?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The day the city's taps would be shut off."
+                },
+                {
+                  "key": "B",
+                  "text": "The first day of the three-year drought."
+                },
+                {
+                  "key": "C",
+                  "text": "The day the dams were last completely full."
+                },
+                {
+                  "key": "D",
+                  "text": "The deadline for building a desalination plant."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段第二句直接给出定义：当局给「水龙头被关掉的那一刻」起了个名字叫 Day Zero，随后还写了居民到取水点领水的安排。B、C、D 都不是这个词所指。",
+              "evidencePara": "A",
+              "evidenceText": "the moment the taps would be turned off"
+            },
+            {
+              "number": 52,
+              "type": "细节题",
+              "stem": "Which combination of measures reduced household demand?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Bans on gardening and filling private pools only."
+                },
+                {
+                  "key": "B",
+                  "text": "Daily limits, higher tariffs, public data and leak repair."
+                },
+                {
+                  "key": "C",
+                  "text": "Importing water from neighbouring countries."
+                },
+                {
+                  "key": "D",
+                  "text": "Closing schools and offices for several months."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段列出四件事：每人每日 50 升（后鼓励降到 25 升）、高用量者水价陡升、每日公布水库与用水数据、工程队夜间降压并修掉数万处漏点。A 只覆盖限制的一部分，C、D 文中没有。",
+              "evidencePara": "B",
+              "evidenceText": "limited to fifty litres a person a day"
+            },
+            {
+              "number": 53,
+              "type": "细节题",
+              "stem": "What was the result of the arrangement with farmers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It saved water but reduced farm employment."
+                },
+                {
+                  "key": "B",
+                  "text": "It increased food production in the region."
+                },
+                {
+                  "key": "C",
+                  "text": "It had no measurable effect on the dams."
+                },
+                {
+                  "key": "D",
+                  "text": "It ended the drought earlier than expected."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：城郊农场被要求削减六成用水并把水卖给城市，这个安排「保住了水库，却牺牲了农业就业」。B、D 与原文相反或无据，C 与「保住了水库」矛盾。",
+              "evidencePara": "C",
+              "evidenceText": "saved the dams but cost agricultural jobs"
+            },
+            {
+              "number": 54,
+              "type": "细节题",
+              "stem": "Why was the long-term infrastructure not completed?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The technology did not exist at the time."
+                },
+                {
+                  "key": "B",
+                  "text": "Residents and costs blocked it."
+                },
+                {
+                  "key": "C",
+                  "text": "The national government refused to fund it."
+                },
+                {
+                  "key": "D",
+                  "text": "The city decided that rain had solved the problem permanently."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：海水淡化厂、把处理后的污水送回供水系统等工程「因成本与居民反对而被拖延」，只建成一小部分。A 与「技术可行」矛盾，C 把责任主体说错，D 是城市警告的风险而非官方判断。",
+              "evidencePara": "D",
+              "evidenceText": "delayed by cost and by objections from residents"
+            },
+            {
+              "number": 55,
+              "type": "主旨题",
+              "stem": "What does the author present as the lesson of Cape Town?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Rationing is the only reliable answer to drought."
+                },
+                {
+                  "key": "B",
+                  "text": "Demand can be halved quickly by measuring, pricing and repairing."
+                },
+                {
+                  "key": "C",
+                  "text": "Large cities should build desalination plants first."
+                },
+                {
+                  "key": "D",
+                  "text": "Droughts are impossible to prepare for."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段末句：教训不是限水令人愉快，而是只要每日计量、对高用量定高价、把漏损当紧急事件处理，一座城市可以在三年内把需求砍掉一半。A 把手段绝对化，C 与 D 段「基础设施被拖延」的经验相反，D 与全文「可以准备」的立场相反。",
+              "evidencePara": "E",
+              "evidenceText": "a city can cut demand by half in three years"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n莫高窟位于甘肃敦煌，始建于公元四世纪，是世界上规模最大的佛教艺术宝库之一。现存洞窟七百多个，壁画四万五千多平方米，彩塑两千多身。窟内壁画描绘了古代商旅、乐舞和日常生活的场景，也保存了多种文字的文献。1987年，莫高窟被列入世界文化遗产名录。由于风沙和游客带来的湿气会损害壁画，研究院对开放洞窟实行限流，并建立了数字档案，让更多人可以在线观看。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe Mogao Caves lie near Dunhuang in Gansu Province and were first cut in the fourth century AD. They form one of the largest collections of Buddhist art in the world, with more than 700 caves surviving, some 45,000 square metres of wall paintings and over 2,000 painted sculptures. The paintings show merchants and travellers, music and dance, and scenes of daily life, and the caves also preserve documents in several scripts. In 1987 the Mogao Caves were inscribed on the World Heritage List. Because sand carried by the wind and the moisture brought by visitors damage the paintings, the research academy limits the number of people admitted to each cave and has built a digital archive so that more people can view the site online.\n\n【要点】①「始建于公元四世纪」用 were first cut in the fourth century AD，cut 是开凿石窟的常用动词；②「现存洞窟七百多个」用 with more than 700 caves surviving，避免逐字译 there are existing；③「彩塑」译作 painted sculptures，「壁画」为 wall paintings 或 murals；④「多种文字的文献」用 documents in several scripts，不要用 languages；⑤「实行限流」意译为 limits the number of people admitted，比 limit the flow 更清楚；⑥全篇以一般现在时为主，1987 年一句用过去时被动。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

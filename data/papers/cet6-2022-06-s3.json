@@ -1,0 +1,651 @@
+{
+  "id": "cet6-2022-06-s3",
+  "level": "CET6",
+  "year": 2022,
+  "month": 6,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether young people should leave big cities. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nShould Young People Leave the Big Cities?\n\nThe question is usually posed as a choice between ambition and peace of mind, and framed that way it has no answer. A city is not a moral test. It is a set of prices, and the sensible response is to ask which of them you are willing to pay.\n\nWhat the big city sells is optionality. It offers more employers, more kinds of work, more people who do what you are trying to learn. That advantage compounds: contacts made at twenty-five are still paying at forty. What it charges is rent, hours and a life narrowed to the journey between two rooms.\n\nSmaller places are not automatically kinder. A town with one large employer can be less free than a city with a hundred, and the neighbour who lends you a ladder may also watch your marriage. The genuine advantage of leaving is space: cheaper housing, shorter distances, and work not defined by presence in an office.\n\nThe better question, then, is not where to live but what you are optimising for, and for how long. A city is a good place to spend your twenties and a hard place to spend your seventies.\n\n（约 190 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A vaccine is a peculiar product. It is given to people who are well, in order to protect them against something that has not happened yet, and it works only if enough of them accept it. Public trust is therefore part of the technology rather than a decoration around it. For years health agencies assumed that the problem was ignorance: if people understood the evidence, they would roll up a sleeve, and the task was simply to 26______ the facts more clearly. The assumption failed."
+            },
+            {
+              "label": "B",
+              "text": "Surveys find that people who are most 27______ of vaccines are often well informed, and that repeating the same evidence can make them less willing, because it 28______ the impression that they are being talked down to. What works better is duller. A named doctor whom a local community already 29______ can answer questions that no national campaign can. Admitting that a rare side effect exists 30______ more confidence than denying that any risk exists at all, since the audience knows that nothing is entirely safe, and a claim of total safety 31______ the whole message. Speed matters as well: a rumour that is left 32______ for a week is far harder to correct afterwards."
+            },
+            {
+              "label": "C",
+              "text": "None of this is a licence to manipulate. The distinction that matters is between 33______ people's doubts and answering them. A campaign that 34______ a genuine concern as irrational will win the argument and lose the patient. The reverse, taking the concern seriously and then showing it to be smaller than the disease it protects against, is slower, and it is the only approach that has ever 35______."
+            },
+            {
+              "label": "词库",
+              "text": "A) builds   B) cheap   C) discredits   D) dismisses   E) exploiting   F) hidden   G) ignore   H) ordinary   I) present   J) rapid   K) reinforces   L) suspicious   M) trusts   N) unanswered   O) worked"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "present" },
+                { "key": "B", "text": "ignore" },
+                { "key": "C", "text": "ordinary" },
+                { "key": "D", "text": "rapid" }
+              ],
+              "answer": "A",
+              "analysis": "present the facts 意为「把事实讲清楚、呈现出来」。前文说卫生机构以为问题在于无知，故任务是更清楚地把证据摆出来；the task was to… 也提示此处用原形动词。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "the problem was ignorance"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "ordinary" },
+                { "key": "B", "text": "suspicious" },
+                { "key": "C", "text": "rapid" },
+                { "key": "D", "text": "hidden" }
+              ],
+              "answer": "B",
+              "analysis": "be suspicious of sth 为固定搭配「对……怀疑」。本句反驳「无知导致拒接」的假设：最怀疑疫苗的人往往信息充分。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "are often well informed"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "reinforces" },
+                { "key": "B", "text": "ignore" },
+                { "key": "C", "text": "hidden" },
+                { "key": "D", "text": "ordinary" }
+              ],
+              "answer": "A",
+              "analysis": "reinforce the impression 意为「强化某种印象」。反复摆证据反而「强化」了「被人居高临下说教」的感觉，故说服效果更差。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "the impression that they are being talked down to"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "rapid" },
+                { "key": "B", "text": "trusts" },
+                { "key": "C", "text": "ignore" },
+                { "key": "D", "text": "cheap" }
+              ],
+              "answer": "B",
+              "analysis": "community already trusts 指社区已经「信任」的医生。whose 定语从句缺谓语，主语是 a named doctor；能回答国家级宣传答不了的问题，前提正是这种信任。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "A named doctor whom a local community already"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "builds" },
+                { "key": "B", "text": "ignore" },
+                { "key": "C", "text": "rapid" },
+                { "key": "D", "text": "hidden" }
+              ],
+              "answer": "A",
+              "analysis": "build confidence 是常见搭配「建立信任」。承认极罕见的副作用，比否认任何风险更能「建立」信心，与后文 a claim of total safety 形成对照。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "more confidence than denying that any risk exists"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "ordinary" },
+                { "key": "B", "text": "rapid" },
+                { "key": "C", "text": "discredits" },
+                { "key": "D", "text": "cheap" }
+              ],
+              "answer": "C",
+              "analysis": "discredit 意为「使不可信、败坏……的可信度」。声称「绝对安全」会让整条信息失去可信度，因为受众知道没有任何东西完全安全。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "the audience knows that nothing is entirely safe"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "ordinary" },
+                { "key": "B", "text": "unanswered" },
+                { "key": "C", "text": "cheap" },
+                { "key": "D", "text": "rapid" }
+              ],
+              "answer": "B",
+              "analysis": "leave sth unanswered 意为「置之不理、不予回应」。谣言搁置一周未被回应，之后就更难纠正——这是「速度很重要」的原因。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "a rumour that is left ... for a week"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "exploiting" },
+                { "key": "B", "text": "ignore" },
+                { "key": "C", "text": "cheap" },
+                { "key": "D", "text": "hidden" }
+              ],
+              "answer": "A",
+              "analysis": "between…and answering them 要求前后结构对称、意思相对：一边是「利用」人们的疑虑，一边是「回答」它们。exploit 与 answer 构成道德分界。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "between ... people's doubts and answering them"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "rapid" },
+                { "key": "B", "text": "dismisses" },
+                { "key": "C", "text": "ordinary" },
+                { "key": "D", "text": "cheap" }
+              ],
+              "answer": "B",
+              "analysis": "dismiss sth as… 意为「把……斥为、视为不值一驳」。把真实的担忧斥为非理性，会「赢下辩论、失去病人」，与后文 taking the concern seriously 相对。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "win the argument and lose the patient"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "worked" },
+                { "key": "B", "text": "ignore" },
+                { "key": "C", "text": "rapid" },
+                { "key": "D", "text": "cheap" }
+              ],
+              "answer": "A",
+              "analysis": "the only approach that has ever worked 意为「唯一真正奏效过的做法」。has ever 要求过去分词，work 在此作不及物动词，表「奏效、起作用」。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "it is the only approach that has ever"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The journey to work takes twenty minutes on the map and two hours in practice. The difference is a lift. When it is out of service, which is often, the only route from the platform to the street is a staircase of forty-two steps, and the woman in the wheelchair waits at the bottom until a member of staff is free to help. The station was renovated three years ago and is described in the transport authority's literature as fully accessible, which is true in the sense that the paperwork says so."
+            },
+            {
+              "label": "B",
+              "text": "The legal duty is real but reactive. Anti-discrimination law requires service providers to make reasonable adjustments, and most will do so when a case is brought. The weakness is that bringing one requires an individual with the time, the evidence and the temperament to complain, and the remedy arrives years after the journey that prompted it. Rights that must be claimed one complaint at a time are rights that most people never use."
+            },
+            {
+              "label": "C",
+              "text": "Much provision is built on assistance rather than independence. A passenger may be carried up a flight of steps by two trained employees, or may book help twenty-four hours in advance and be met at the entrance. Both are better than nothing, and both take something away: the ability to leave the house on an impulse, to be late, to change one's mind at the ticket hall. Being helped is not the same as being able to go."
+            },
+            {
+              "label": "D",
+              "text": "Design decides most of this before anyone thinks about it. A door that is wide enough, a counter at the right height, a route without a step: each costs almost nothing when it is drawn into a new building and a great deal when it is retrofitted. The people who specify such details are usually architects and procurement officers who have never used a wheelchair in their lives, and who work from a checklist rather than from the experience of a person who is trying to get to a meeting."
+            },
+            {
+              "label": "E",
+              "text": "Digital services reproduce the same pattern in a newer medium. An app that cannot be read by a screen reader, a ticket machine whose screen is at knee height, a booking system that requires a telephone call: each satisfies a formal standard and defeats the person it was meant to include. Compliance is measured by the presence of a feature, while usability is measured by whether a task can be completed."
+            },
+            {
+              "label": "F",
+              "text": "The economic case is broader than the moral one. Level access helps parents with pushchairs, delivery workers with trolleys, travellers with suitcases and anyone who is temporarily injured, which is most people at some point. In an ageing society the number of residents who cannot manage stairs will roughly double in twenty years, and the housing stock will not change to match. Accessibility is not a minority interest; it is a description of where the population is going."
+            },
+            {
+              "label": "G",
+              "text": "The conclusion is administrative rather than sentimental. Lifts fail because nobody audits their availability as strictly as they audit safety; ramps are blocked because no one is responsible for the corridor; apps ship without testing because testing costs a sprint. Make access a line in the maintenance contract and a condition of the procurement, with money attached and a name against it, and most of the problem dissolves without anyone's attitude having to change."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "One broken lift can turn a short journey into a very long one.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "A",
+              "analysis": "A 段：地图上二十分钟的路，实际要两小时，差别就在一部电梯；电梯一坏，只剩四十二级台阶。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "twenty minutes on the map and two hours in practice"
+            },
+            {
+              "number": 37,
+              "stem": "A facility can be labelled accessible and still be unusable.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "A",
+              "analysis": "A 段末：车站被官方材料称为 fully accessible，这个「是」只成立于纸面上。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "true in the sense that the paperwork says so"
+            },
+            {
+              "number": 38,
+              "stem": "The law depends on the affected person taking action, which few do.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：法律义务是「被动」的，需要个人有时间、有证据、有性情去投诉，而救济往往在数年之后才到。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "Rights that must be claimed one complaint at a time"
+            },
+            {
+              "number": 39,
+              "stem": "Having to arrange help beforehand removes the freedom to act spontaneously.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：提前二十四小时预约协助，丧失的是「临时起意出门、迟到、在售票厅改主意」的能力。被帮助不等于能够出行。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the ability to leave the house on an impulse"
+            },
+            {
+              "number": 40,
+              "stem": "Including access features at the design stage is far cheaper than adding them later.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：足够的门宽、合适高度的台面、无台阶的路线，画进新建筑几乎不花钱，事后改造则代价很大。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "costs almost nothing when it is drawn into a new building"
+            },
+            {
+              "number": 41,
+              "stem": "The details are fixed by professionals who have no experience of using them.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：确定这些细节的通常是「从没用过轮椅」的建筑师与采购人员，他们照清单办事，而非依据使用者的经验。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "who have never used a wheelchair in their lives"
+            },
+            {
+              "number": 42,
+              "stem": "Digital products can meet the written standard while defeating the user.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：读屏软件无法读取的应用、屏幕及膝高的售票机、必须打电话才能用的预订系统——都满足形式标准，却让人用不了。合规看功能是否存在，可用看任务能否完成。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "each satisfies a formal standard and defeats the person"
+            },
+            {
+              "number": 43,
+              "stem": "Accessible design in fact serves a much wider group than the one it is named after.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：平层入口对推婴儿车的人、拉货的人、拖行李箱的人、以及任何一时受伤的人都方便——「几乎所有人都会在某个时刻需要它」。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "which is most people at some point"
+            },
+            {
+              "number": 44,
+              "stem": "Access should be written into contracts and given a budget and an owner.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "G",
+              "analysis": "G 段：把无障碍写进维护合同、作为采购条件，「附上钱、写上负责人的名字」。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "a line in the maintenance contract"
+            },
+            {
+              "number": 45,
+              "stem": "The author believes the problem is procedural rather than a matter of attitudes.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "G",
+              "analysis": "G 段首句：结论「是行政性的，而非情感性的」，末句更说大部分问题会在无人改变态度的情况下消失。",
+              "type": "态度题",
+              "evidencePara": "G",
+              "evidenceText": "without anyone's attitude having to change"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "No word on a food label does more work than 'chemical'. A yoghurt whose ingredients run to fourteen items will be put back on the shelf by a shopper who would happily eat the same thing at a friend's table, and the decision will feel like caution rather than confusion. The anxiety is not irrational in origin. It is the residue of a century of genuine scandals, and it has been carefully cultivated by a food industry that sells 'clean' labels at a premium."
+            },
+            {
+              "label": "B",
+              "text": "The regulatory system that the anxiety ignores is, on its own terms, conservative. Each additive is tested separately, usually on animals, and assigned an acceptable daily intake; that figure is then divided by a hundred to produce the legal limit, a margin intended to cover the differences between species, between individuals and between one day's diet and a lifetime's. A colouring that failed the test would not reach the shelf. The system is not designed to be reassuring, and it is more cautious than most consumers imagine."
+            },
+            {
+              "label": "C",
+              "text": "The admitted weakness is the combination. Additives are approved one at a time, while people eat them together, in a stew of twenty substances whose interactions have barely been studied. Nobody knows whether the effects add up, cancel out or multiply, and the research is expensive and unglamorous, which is why it is thin. The honest regulator will say that the margin of a hundred is probably large enough to absorb the gap, and that 'probably' is the correct word."
+            },
+            {
+              "label": "D",
+              "text": "There is, however, a real dietary problem in the neighbourhood, and it is not the additives. Diets built on ultra-processed food are associated with worse health outcomes, and the association persists after the additives are accounted for. The plausible culprits are salt, sugar, fat and the structure of the food itself, which is engineered to be eaten quickly and to leave you hungry. Blaming the additives is easier than blaming the recipe, and it lets a product with no additives at all—more sugar, more salt, a longer shelf life—wear a halo it has not earned."
+            },
+            {
+              "label": "E",
+              "text": "The task for regulators, then, is partly scientific and largely rhetorical. Fund the study of mixtures, because the gap is real. But also explain the difference between a hazard and a risk, which is the distinction the public is never taught: everything is hazardous at some dose, and the question is always how much and how likely. A regulator who says 'there is no evidence of harm at these levels' will be heard as 'there is no evidence', and the field will be left to those who sell certainty, in either direction."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the first paragraph suggest about shoppers' anxiety?",
+              "options": [
+                { "key": "A", "text": "It is based on a careful reading of the ingredient list." },
+                { "key": "B", "text": "It responds to the word rather than to the quantity." },
+                { "key": "C", "text": "It has been declining as labelling improves." },
+                { "key": "D", "text": "It is deliberately encouraged by regulators." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：同一样东西在朋友家会吃，在标签上看到十几种配料就放回货架，那种感觉像谨慎，其实是混淆——反应来自「化学」这个词，而非剂量。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "the decision will feel like caution rather than confusion"
+            },
+            {
+              "number": 47,
+              "stem": "How does the approval system try to ensure safety?",
+              "options": [
+                { "key": "A", "text": "By banning any substance that has not been tested on humans." },
+                { "key": "B", "text": "By setting limits well below the level found to be safe." },
+                { "key": "C", "text": "By testing additives in the combinations people eat them in." },
+                { "key": "D", "text": "By requiring manufacturers to prove their products are healthy." }
+              ],
+              "answer": "B",
+              "analysis": "B 段：每种添加剂单独测试后得出每日允许摄入量，再除以一百作为法定限量，以覆盖物种、个体与膳食差异——即在已知安全水平之下留出极大余量。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "that figure is then divided by a hundred"
+            },
+            {
+              "number": 48,
+              "stem": "What weakness does the author concede?",
+              "options": [
+                { "key": "A", "text": "Additives are tested on animals rather than people." },
+                { "key": "B", "text": "Little is known about how additives interact with one another." },
+                { "key": "C", "text": "The legal limits are set by the industry itself." },
+                { "key": "D", "text": "Consumers cannot read the ingredient lists." }
+              ],
+              "answer": "B",
+              "analysis": "C 段：添加剂是一种一种批准的，而人是一起吃的；二十种物质的相互作用几乎无人研究，效应是相加、抵消还是倍增，尚不清楚。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "whose interactions have barely been studied"
+            },
+            {
+              "number": 49,
+              "stem": "What does the author imply about 'clean label' products?",
+              "options": [
+                { "key": "A", "text": "They are always nutritionally superior." },
+                { "key": "B", "text": "They may be worse in ways the label conceals." },
+                { "key": "C", "text": "They are cheaper to produce than ordinary food." },
+                { "key": "D", "text": "They contain no salt or sugar at all." }
+              ],
+              "answer": "B",
+              "analysis": "D 段末：无添加剂的产品可能加更多糖、更多盐、保质期更长，却「戴上了它并未赢得的光环」。作者暗示清洁标签是营销而非营养优势。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "wear a halo it has not earned"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author think regulators should do?",
+              "options": [
+                { "key": "A", "text": "Remove additives that have not been tested in mixtures." },
+                { "key": "B", "text": "Study mixtures and teach the public the difference between hazard and risk." },
+                { "key": "C", "text": "Leave the field to companies that communicate more clearly." },
+                { "key": "D", "text": "Publish the names of products that exceed the legal limits." }
+              ],
+              "answer": "B",
+              "analysis": "E 段：一方面资助混合物研究（「缺口是真实的」），另一方面解释 hazard 与 risk 的区别——这是公众从未被教过的一课。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "explain the difference between a hazard and a risk"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The bench outside the station has an armrest in the middle of the seat, a slope of five degrees, and a row of studs along the edge. Each detail is there to make lying down uncomfortable. The bench is not unusual. In the last twenty years, cities have installed benches divided by armrests, benches too short to stretch out on, benches angled so that a body slides slowly towards the pavement, and in one British city a bench that is lowered at night so that nobody can sit on it at all."
+            },
+            {
+              "label": "B",
+              "text": "The design has a name, defensive or hostile architecture, and its targets are not mysterious. Rough sleepers are the obvious one; teenagers who gather in groups are another; so are the street traders and the drinkers. What the design does not distinguish is between those users and the people who simply need to sit down: the woman of seventy-five who cannot walk four hundred metres without a rest, the man with a heart condition, the pregnant woman waiting for a bus, the child who is tired."
+            },
+            {
+              "label": "C",
+              "text": "The justification offered is usually maintenance and safety. A bench that becomes a bed attracts litter, complaints and sometimes emergency calls, and the cleaning budget is finite. There is something to this. A city that installs a bench it cannot maintain ends up with a broken bench, which is worse than no bench. But the argument proves less than it seems to: the choice is not between an unmaintained bench and a hostile one, but between a bench and a bench, and the difference in cost is a matter of design."
+            },
+            {
+              "label": "D",
+              "text": "The counter-evidence is unromantic and financial. Seating supports trade: shoppers who can rest stay longer, and older customers are the ones who shop on foot. It supports health: a fall caused by exhaustion costs an ambulance and a hospital bed, and the bench costs a few hundred pounds. It supports the ordinary use of a street by people who are not committing any offence at all. None of this requires a theory of the city; it requires counting."
+            },
+            {
+              "label": "E",
+              "text": "A bench is therefore a small claim on public space, and the argument about it is really an argument about who the public is imagined to be. The test is not difficult to apply. Can a person of seventy-five walk four hundred metres, sit down, and walk back? If the answer is no, the street has been designed for somebody else. The remedy is not generosity but arithmetic, and it costs less than the studs."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What is the purpose of the features described in the first paragraph?",
+              "options": [
+                { "key": "A", "text": "To make the bench more comfortable for sitting." },
+                { "key": "B", "text": "To prevent people from sleeping on it." },
+                { "key": "C", "text": "To discourage children from playing nearby." },
+                { "key": "D", "text": "To protect the bench from damage." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：扶手居中、五度倾斜、边缘装钉，每处细节「都是为了让躺下变得不舒服」。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "Each detail is there to make lying down uncomfortable"
+            },
+            {
+              "number": 52,
+              "stem": "What does the author criticise about such design?",
+              "options": [
+                { "key": "A", "text": "It is too expensive for most cities." },
+                { "key": "B", "text": "It cannot tell the difference between users who need to sit and those it means to exclude." },
+                { "key": "C", "text": "It is illegal under most municipal codes." },
+                { "key": "D", "text": "It has been shown to increase crime." }
+              ],
+              "answer": "B",
+              "analysis": "B 段：这种设计把露宿者、聚集的青少年、小贩与「只是需要坐一会儿的人」混为一谈——七十五岁走不动四百米的老人、心脏病人、孕妇、累了的孩子。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "What the design does not distinguish is between those users and the people who simply need to sit down"
+            },
+            {
+              "number": 53,
+              "stem": "How does the author respond to the maintenance argument?",
+              "options": [
+                { "key": "A", "text": "He accepts it completely and withdraws the criticism." },
+                { "key": "B", "text": "He denies that benches ever need cleaning." },
+                { "key": "C", "text": "He grants it some force but says the real choice is between two designs." },
+                { "key": "D", "text": "He argues that maintenance should be abolished." }
+              ],
+              "answer": "C",
+              "analysis": "C 段：作者承认「维护预算有限」有一定道理（There is something to this），但指出真正的选择不是「不维护」与「敌意设计」之间，而是两种长椅之间，成本差别在于设计。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "the choice is not between an unmaintained bench and a hostile one, but between a bench and a bench"
+            },
+            {
+              "number": 54,
+              "stem": "What is the point of the examples in the fourth paragraph?",
+              "options": [
+                { "key": "A", "text": "Public seating pays for itself in measurable ways." },
+                { "key": "B", "text": "Older shoppers spend more than younger ones." },
+                { "key": "C", "text": "Falls are the main cause of hospital admissions." },
+                { "key": "D", "text": "Retailers should pay for street furniture." }
+              ],
+              "answer": "A",
+              "analysis": "D 段用商业、健康与日常使用三方面说明长椅的可计算收益：能歇脚的顾客逛得更久，因体力不支摔倒的代价远高于一条长椅。作者称之为「不需要城市理论，只需要算账」。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "it requires counting"
+            },
+            {
+              "number": 55,
+              "stem": "What does the final paragraph suggest the bench argument is really about?",
+              "options": [
+                { "key": "A", "text": "The cost of street furniture." },
+                { "key": "B", "text": "Who the city assumes its public to be." },
+                { "key": "C", "text": "Whether homeless people should be moved on." },
+                { "key": "D", "text": "The decline of high-street shopping." }
+              ],
+              "answer": "B",
+              "analysis": "E 段：长椅是对公共空间的一个小小主张，争论实质是「公共被想象成谁」；检验方法是一个七十五岁的人能否走四百米、坐下、再走回来。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "an argument about who the public is imagined to be"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n篆刻是中国一门古老的艺术，指用刻刀在石材上刻出文字，再蘸上印泥钤盖于纸面。一方印章通常先由书法家写下字样，再由刻工依样奏刀，也有一人兼擅书与刻的。印面虽小，却讲究线条的粗细、疏密与呼应，方寸之间可见作者的性情。明清以来，文人以收藏印章为雅事。今天，篆刻仍是书画作品中不可缺少的一部分，并被列入国家级非物质文化遗产名录。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nSeal carving is an ancient Chinese art. It means cutting characters into stone with a graver and then pressing the seal, once it has been dipped in red paste, onto paper. A seal is usually made in two stages: a calligrapher writes the characters first, and a carver then cuts them as drawn, although some artists are skilled at both. The face of a seal is tiny, yet the thickness of the lines, their spacing and the way they answer one another are all carefully considered, so that a few square centimetres reveal the temperament of the maker. From the Ming and Qing dynasties onward, scholars treated the collecting of seals as a refined pursuit. Today seal carving remains an indispensable part of painting and calligraphy, and it has been placed on the national list of intangible cultural heritage.\n\n【要点】①「蘸上印泥钤盖于纸面」宜拆为 once it has been dipped…, onto paper，避免长串定语；②「依样奏刀」用 cuts them as drawn，保留「照稿下刀」之意；③「疏密与呼应」用 their spacing and the way they answer one another，呼应一词不宜直译为 echo；④「方寸之间」用 a few square centimetres 意译；⑤「雅事」用 a refined pursuit；⑥「列入名录」用 has been placed on the list，注意用现在完成时的被动。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

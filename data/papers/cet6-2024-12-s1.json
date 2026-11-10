@@ -1,0 +1,651 @@
+{
+  "id": "cet6-2024-12-s1",
+  "level": "CET6",
+  "year": 2024,
+  "month": 12,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether technology is dulling our capacity for independent judgement. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nIs Technology Dulling Our Judgement?\n\nThe complaint is old: Plato worried that writing would weaken memory, and the radio was said to make a generation passive. What is new is the scale on which machines now decide what we see next, and the ease with which we accept the decision.\n\nA search engine that ranks results, a map that reroutes without explanation, a feed that chooses the next story—each removes a small act of reasoning from the day. Removed once, the act is trivial; removed ten thousand times, it becomes a habit of not asking why. The sharper risk is not that we forget how to compare two options, but that we stop noticing there was a choice to make at all.\n\nYet the same instruments can sharpen judgement when they are used as evidence rather than as answers. A student who checks three sources against a model's reply is practising exactly the skill a citizen needs. The determining factor is not the device but the posture: whether we treat the output as a verdict or as a claim to be tested.\n\nSo the question is better put as a question of design and habit. Technology dulls judgement where it is built to be obeyed, and trains it where it is built to be questioned.\n\n（约 205 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When regulators approve a vaccine, the scientific work is widely assumed to be finished. In practice the last mile is often the most 26______ stage of all: a safe product achieves nothing if a substantial share of the population declines it. Health agencies have therefore begun to treat hesitancy not as ignorance to be corrected but as a 27______ of trust that has to be rebuilt. Surveys suggest that outright refusal is rare. Far more often people 28______ the decision, waiting to see whether neighbours and colleagues will go first, and their doubts cluster around a small number of concrete worries: how quickly the trials were run, who paid for them, and whether an 29______ reaction would be taken seriously by a doctor."
+            },
+            {
+              "label": "B",
+              "text": "The measures that work best are unglamorous. Text-message reminders, appointments offered at the workplace and clinicians who 30______ the question before the patient raises it each add a few percentage points—modest gains that 31______ when applied to millions of people. Confrontation does the reverse. Campaigns that 32______ hesitant parents as irresponsible tend to confirm the suspicion that officials are not listening, and the resulting quarrel hardens the position it set out to soften."
+            },
+            {
+              "label": "C",
+              "text": "None of this implies that doubt should be indulged. A health system that 33______ every claim, however thinly supported, ends by treating a parent's anecdote and a clinical trial as equally 34______, which is a recipe for paralysis. The difficult skill is to take the worry seriously while refusing to 35______ the science: to answer the specific question, again and again, without implying that the person asking it is foolish. That is slow work, and it cannot be done by a poster."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "delayed" },
+                { "key": "B", "text": "neglected" },
+                { "key": "C", "text": "immediate" },
+                { "key": "D", "text": "optional" }
+              ],
+              "answer": "B",
+              "analysis": "破折号后解释说「安全的产品也没用，只要足够多的人拒绝它」，说明最后一步常是最被「忽视」的环节；neglected 与后文对接种率下降的担忧呼应。delayed 只讲时间，optional 与本段「必须做好」的语气相反。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a safe product achieves nothing if a substantial share of the population declines it"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "surplus" },
+                { "key": "B", "text": "ceremony" },
+                { "key": "C", "text": "deficit" },
+                { "key": "D", "text": "absence" }
+              ],
+              "answer": "C",
+              "analysis": "a deficit of trust 是固定搭配，「信任赤字」；后句说机构要「重建」信任，正说明缺的是信任而非其存在。absence 语法可通，但 absence of trust 指「毫无信任」，与「重建」的渐进含义不合；surplus 意思相反。",
+              "type": "搭配题",
+              "evidencePara": "A",
+              "evidenceText": "of trust that has to be rebuilt"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "avoid" },
+                { "key": "B", "text": "postpone" },
+                { "key": "C", "text": "record" },
+                { "key": "D", "text": "pursue" }
+              ],
+              "answer": "B",
+              "analysis": "waiting to see whether neighbours and colleagues will go first 说明人们把决定往后推，postpone the decision 意为「推迟决定」。avoid the decision 语法可通但语义过强——后文说他们仍在观望后接种，并非彻底回避。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "waiting to see whether neighbours and colleagues will go first"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "delayed" },
+                { "key": "B", "text": "immediate" },
+                { "key": "C", "text": "unexpected" },
+                { "key": "D", "text": "adverse" }
+              ],
+              "answer": "D",
+              "analysis": "adverse reaction 是医药领域的固定术语「不良反应」，与后半句「医生是否认真对待」吻合；人们担心的是疫苗的不良反应而不是「延迟的」或「意外的」反应。",
+              "type": "搭配题",
+              "evidencePara": "A",
+              "evidenceText": "would be taken seriously by a doctor"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "avoid" },
+                { "key": "B", "text": "answer" },
+                { "key": "C", "text": "raise" },
+                { "key": "D", "text": "repeat" }
+              ],
+              "answer": "C",
+              "analysis": "before the patient raises it 中的 it 就是「这个问题」，所以医生是在病人提出之前主动「提出」它：raise the question。answer 与 before…raises it 逻辑冲突（问题尚未提出，无从回答）。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "before the patient raises it"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "vanish" },
+                { "key": "B", "text": "accumulate" },
+                { "key": "C", "text": "multiply" },
+                { "key": "D", "text": "stall" }
+              ],
+              "answer": "B",
+              "analysis": "each add a few percentage points 与 applied to millions of people 构成「小提升、大基数」的对照，gain 与 accumulate 搭配表示收益逐次「累积」。vanish／stall 与 modest gains 的正面评价矛盾，multiply 夸大了「几个百分点」的效果。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "modest gains that ... when applied to millions of people"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "reject" },
+                { "key": "B", "text": "portray" },
+                { "key": "C", "text": "commend" },
+                { "key": "D", "text": "exempt" }
+              ],
+              "answer": "B",
+              "analysis": "portray sb. as sth.「把某人描绘成……」，与 as irresponsible 搭配；本段讲「对抗式宣传适得其反」，所以是宣传把家长「描绘成」不负责任。commend（称赞）与 irresponsible 语义冲突。",
+              "type": "搭配题",
+              "evidencePara": "B",
+              "evidenceText": "Campaigns that ... hesitant parents as irresponsible"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "entertains" },
+                { "key": "B", "text": "rejects" },
+                { "key": "C", "text": "ignores" },
+                { "key": "D", "text": "catalogues" }
+              ],
+              "answer": "A",
+              "analysis": "entertain 在此不是「娱乐」，而是「考虑、接受（想法、主张）」，entertain every claim 即「对任何说法都予以考虑」。只有「全部接受」才会导致后文把轶事与临床试验等量齐观；rejects／ignores 恰好相反。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "every claim, however thinly supported"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "recent" },
+                { "key": "B", "text": "costly" },
+                { "key": "C", "text": "credible" },
+                { "key": "D", "text": "detailed" }
+              ],
+              "answer": "C",
+              "analysis": "equally credible「同样可信」概括了把 a parent's anecdote 与 a clinical trial 等同起来的错误，这正是后文 paralysis（无法决策）的根源。其余三词与「可信度」这一评价维度无关。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "ends by treating a parent's anecdote and a clinical trial as equally"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "defend" },
+                { "key": "B", "text": "surplus" },
+                { "key": "C", "text": "cite" },
+                { "key": "D", "text": "abandon" }
+              ],
+              "answer": "D",
+              "analysis": "take the worry seriously while refusing to abandon the science 是让步结构：可以重视疑虑，但不能「放弃」科学。冒号后「反复回答具体问题」说明作者主张的是耐心解释而非妥协或放弃。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "to answer the specific question, again and again"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The factory that made the twentieth century was organised around a man with a stopwatch. Frederick Taylor's time-and-motion studies told managers how many seconds each task ought to take; the worker was measured, and the measurement became the wage. A century later the stopwatch has been replaced by software, but the logic is intact: the platform records how long a delivery takes, how many jobs are refused, how often a driver brakes sharply, and converts the record into a score."
+            },
+            {
+              "label": "B",
+              "text": "What distinguishes algorithmic management is less the measurement than its reach. A supervisor can watch one warehouse; software can rate two million couriers on three continents, revise the target whenever the average improves, and do so without announcing that the target has moved. Workers describe a system that is legible in its consequences and opaque in its rules: they learn that a rating has fallen, never quite why."
+            },
+            {
+              "label": "C",
+              "text": "The gains to the consumer are real and easy to see. A meal arrives in twenty-eight minutes because the dispatch algorithm has matched three orders to one route, and because the courier is paid per delivery rather than per hour. What is hidden is the transfer of risk: the platform owns the algorithm and the brand, while the worker owns the vehicle, the fuel, the injury and the hour of the day in which there is no work at all."
+            },
+            {
+              "label": "D",
+              "text": "Payment by the piece has a predictable consequence. When income depends on tasks completed, speed becomes the only variable a worker controls, and safety becomes a cost paid later. Studies of app-based couriers in Europe and Asia have found collision rates several times those of comparable occupations; under-reporting is so routine that official statistics capture only a fraction of the injuries actually suffered."
+            },
+            {
+              "label": "E",
+              "text": "The legal question is whether such workers are employees. In 2021 the UK Supreme Court held that a group of drivers were 'workers' entitled to minimum wage and holiday pay, chiefly because the company set the price and the terms and the driver could not send a substitute. Other jurisdictions have reached the opposite conclusion on similar facts, so that the same job is protected in one country and bare in the next."
+            },
+            {
+              "label": "F",
+              "text": "The firms reply that flexibility is the product being sold, and that a fixed roster would exclude the students and carers who make up part of their workforce. The claim is not empty. But flexibility and security are not natural opposites; they were made opposites by one particular contract, and other contracts are available."
+            },
+            {
+              "label": "G",
+              "text": "The reforms now being tried are procedural rather than dramatic. Some cities require that a deactivation be explained in writing and appealable to a human being. Some require that the rules generating a score be disclosed to the person the score governs. Others are testing portable benefits, funded by a levy on each transaction, that follow the worker from platform to platform. None of this abolishes the business model; each makes its exercise of power visible, which is where any serious argument has to begin."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The stopwatch of the last century and the software of today rest on the same principle.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "A",
+              "analysis": "A 段末句：秒表换成了软件，「但逻辑没有变」——衡量工作、把衡量结果变成报酬。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the stopwatch has been replaced by software, but the logic is intact"
+            },
+            {
+              "number": 37,
+              "stem": "A worker may feel the effect of a decision without ever being told the reason for it.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：系统在后果上可读、在规则上不透明，「知道评分掉了，却从不知道确切原因」。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "legible in its consequences and opaque in its rules"
+            },
+            {
+              "number": 38,
+              "stem": "Cheap and fast service is possible partly because the hazards are carried by the person performing it.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：消费者看得见的是 28 分钟送达，看不见的是风险转移——平台拥有算法与品牌，骑手承担车辆、燃油与工伤。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "What is hidden is the transfer of risk"
+            },
+            {
+              "number": 39,
+              "stem": "Paying for tasks rather than hours leaves speed as the sole lever a worker can pull.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：按件计酬时，速度成为工人唯一能控制的变量，安全变成「以后再付的成本」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "speed becomes the only variable a worker controls"
+            },
+            {
+              "number": 40,
+              "stem": "Official figures probably understate the physical harm such workers suffer.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：漏报如此普遍，以致官方统计只记录到实际伤害的一部分。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "official statistics capture only a fraction of the injuries actually suffered"
+            },
+            {
+              "number": 41,
+              "stem": "A court found that control over pricing and substitution made the drivers eligible for basic protections.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：2021 年英国最高法院判定司机为 worker，可享最低工资与带薪假，理由正是公司定价定条款、司机不能找人替代。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "entitled to minimum wage and holiday pay"
+            },
+            {
+              "number": 42,
+              "stem": "The identical arrangement can be shielded by law in one place and exposed in another.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：其他法域在类似事实下得出相反结论，同一份工作在甲国受保护、在乙国毫无保障。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "the same job is protected in one country and bare in the next"
+            },
+            {
+              "number": 43,
+              "stem": "Companies claim that what some people value most is the freedom to choose their hours.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：企业辩称「卖的就是灵活性」，固定排班会把学生和照护者排除在外。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "flexibility is the product being sold"
+            },
+            {
+              "number": 44,
+              "stem": "Security and flexibility were set against each other by a particular agreement, not by nature.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：二者并非天然对立，是某一种合同把它们造成了对立，别种合同是可能的。",
+              "type": "态度题",
+              "evidencePara": "F",
+              "evidenceText": "they were made opposites by one particular contract"
+            },
+            {
+              "number": 45,
+              "stem": "New rules aim chiefly at making automated decisions explainable and open to challenge.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "G",
+              "analysis": "G 段：封号须书面说明并可向真人申诉、生成评分的规则须向被评分者披露，其共同点是让权力的行使「可见」。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "each makes its exercise of power visible"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Every old quarter presents its government with the same choice, and it is often said that both answers are wrong. Clear the district and build something efficient, and the city loses the dense, improvised street life that made the place worth visiting. Preserve it exactly, and it becomes a stage set: the bakery turns into a souvenir shop, the families who gave the streets their character move to the outskirts, and the visitor photographs a neighbourhood that no longer exists except as a façade."
+            },
+            {
+              "label": "B",
+              "text": "Venice is the standard warning. Its resident population has fallen from about 175,000 in 1951 to roughly 50,000 today, while day-trippers arrive in tens of thousands. The buildings are protected, immaculately so; it is the Venetians who have gone. Conservation that concerns itself only with stone can succeed completely and still destroy the thing it meant to save."
+            },
+            {
+              "label": "C",
+              "text": "The alternative that has gained ground since UNESCO adopted its Recommendation on the Historic Urban Landscape in 2011 starts from a different premise. A city is not a collection of objects to be frozen but a system of uses to be kept alive, and the task of regulation is to manage change rather than to prevent it. In practice that means allowing a warehouse to become flats, a school to become a clinic, and a courtyard house to acquire a bathroom, while refusing the wholesale demolition that would make such adaptations pointless."
+            },
+            {
+              "label": "D",
+              "text": "The economics decides the outcome. Restoration raises rents; higher rents displace the tenants whose presence justified the restoration; the district then markets the authenticity that its own success has destroyed. Cities that have broken this loop did not do so by exhortation. Bologna's public restoration programme in the 1970s kept residents in place by offering them the renovated flats at controlled rents. Singapore's conservation rules for Kampong Glam tie permission to alter a façade to an agreed plan for the use behind it."
+            },
+            {
+              "label": "E",
+              "text": "The judgement to be made is therefore not aesthetic but social. A historic district has been conserved successfully when an ordinary family can still afford to live in it, buy bread in it and send a child to school in it. By that test a street of perfect façades and shuttered windows is a failure, however faithfully the mortar has been matched."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the first paragraph suggest about the two obvious policies?",
+              "options": [
+                { "key": "A", "text": "Both are too expensive for most cities." },
+                { "key": "B", "text": "Each destroys in a different way what makes the district valuable." },
+                { "key": "C", "text": "Neither has ever been attempted in practice." },
+                { "key": "D", "text": "Both are supported by the residents themselves." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：拆除会失去「密集而自发的街道生活」，原样保存则让街区变成布景、居民迁走——两种做法都以不同方式毁掉了街区的价值。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "it becomes a stage set"
+            },
+            {
+              "number": 47,
+              "stem": "Why is Venice described as 'the standard warning'?",
+              "options": [
+                { "key": "A", "text": "Its buildings have been badly maintained." },
+                { "key": "B", "text": "It receives too few visitors to fund repairs." },
+                { "key": "C", "text": "Its fabric was saved while its inhabitants were lost." },
+                { "key": "D", "text": "Its government refused to protect the old city." }
+              ],
+              "answer": "C",
+              "analysis": "B 段：建筑保护得「无可挑剔」，消失的是威尼斯人；末句点明只关心石头的保护可以「完全成功」却仍毁掉它想挽救的东西。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "Conservation that concerns itself only with stone can succeed completely and still destroy the thing it meant to save"
+            },
+            {
+              "number": 48,
+              "stem": "The 2011 UNESCO recommendation treats the historic city primarily as",
+              "options": [
+                { "key": "A", "text": "a set of monuments requiring restoration" },
+                { "key": "B", "text": "a living pattern of uses that must be allowed to change" },
+                { "key": "C", "text": "an asset whose value should be captured by investors" },
+                { "key": "D", "text": "a museum whose visitors must be managed" }
+              ],
+              "answer": "B",
+              "analysis": "C 段：城市不是「被冻结的物品集合」，而是「需要维持活力的用途系统」，管理的任务是 manage change rather than prevent it。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "a system of uses to be kept alive"
+            },
+            {
+              "number": 49,
+              "stem": "What does 'this loop' refer to in the fourth paragraph?",
+              "options": [
+                { "key": "A", "text": "Restoration raising rents until the original residents are driven out." },
+                { "key": "B", "text": "Governments funding repairs and then running out of money." },
+                { "key": "C", "text": "Tourists visiting a district and then recommending it to others." },
+                { "key": "D", "text": "Landlords refusing to repair buildings until they collapse." }
+              ],
+              "answer": "A",
+              "analysis": "D 段前三句构成闭环：修缮→租金上涨→原租户被挤出→街区再拿「原真性」做卖点，而被卖的原真性已被自己的成功毁掉。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "Restoration raises rents; higher rents displace the tenants"
+            },
+            {
+              "number": 50,
+              "stem": "The author would regard a perfectly restored street with no residents as",
+              "options": [
+                { "key": "A", "text": "a model worth copying elsewhere" },
+                { "key": "B", "text": "an acceptable compromise" },
+                { "key": "C", "text": "a failure despite its appearance" },
+                { "key": "D", "text": "a matter for architects rather than governments" }
+              ],
+              "answer": "C",
+              "analysis": "E 段末：按「普通家庭能否仍住在这里」的标准，一条立面完美、窗户紧闭的街「是失败」，无论灰浆配得多准。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "a street of perfect façades and shuttered windows is a failure"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Antimicrobial resistance is sometimes described as a slow-moving pandemic, a metaphor that is accurate in one respect and misleading in another. It is accurate because the toll is already heavy: a landmark analysis published in the Lancet attributed 1.27 million deaths in 2019 directly to resistant infections, with a further five million in which resistance played a part. It is misleading because a pandemic ends. Resistance does not."
+            },
+            {
+              "label": "B",
+              "text": "The market has failed here in a specific and diagnosable way. A new antibiotic must be held in reserve, used as little as possible and priced modestly—the opposite of what a company needs in order to recover a decade of development costs. In 2019 Achaogen, whose antibiotic plazomicin had been approved the year before, filed for bankruptcy. The drug was a scientific success and a commercial failure, and it is the second fact that determines what gets researched next."
+            },
+            {
+              "label": "C",
+              "text": "Agriculture remains the largest single consumer. Roughly two-thirds of antibiotics by volume go to animals, often to animals that are not ill, and in some systems the drug is used to make them grow faster. The European Union banned growth promotion in 2006 and tightened the rules again in 2022; several studies have since traced a decline in resistant bacteria in humans. The lag is the point: what is prescribed in a barn becomes a clinical problem in a hospital years later, and by then the two are hard to connect."
+            },
+            {
+              "label": "D",
+              "text": "In hospitals the waste is equally well documented. Between a third and a half of prescriptions in many settings are unnecessary or poorly chosen—written for a viral cold, continued after a negative culture, or selected because the narrow-spectrum drug was not on the shelf. Rapid diagnostics help, but only if the result changes the prescription, which requires a clinician willing to stop a drug that is already being given and appears to be working."
+            },
+            {
+              "label": "E",
+              "text": "There is a further injustice. Most deaths attributable to resistance occur in low- and middle-income countries, where the problem is frequently not excess but absence: patients die of infections that a cheap first-line drug would have cured had it been available and had the diagnosis been made. The agenda that follows is unglamorous—surveillance, water and sanitation, vaccination, laboratory capacity—and it competes badly for attention with the search for a new molecule."
+            },
+            {
+              "label": "F",
+              "text": "The underlying difficulty is that resistance is a collective action problem of an unusually pure kind. Each prescriber acting alone does the reasonable thing; the sum of those reasonable decisions produces a world in which the drugs stop working. Nothing in the incentives facing an individual doctor, patient or farmer is aligned with the interest of the next generation, which is why voluntary stewardship, however well intentioned, has never been enough on its own."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the Lancet analysis establish?",
+              "options": [
+                { "key": "A", "text": "Resistance caused 1.27 million deaths directly in 2019." },
+                { "key": "B", "text": "Resistance will soon surpass all other causes of death." },
+                { "key": "C", "text": "Most resistant infections occur in Europe." },
+                { "key": "D", "text": "Deaths from resistance have been falling since 2019." }
+              ],
+              "answer": "A",
+              "analysis": "A 段：该研究把 2019 年 127 万例死亡「直接归因于」耐药感染，另有约五百万例死亡中耐药起了作用。注意区分 attributable 与 played a part。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "attributed 1.27 million deaths in 2019 directly to resistant infections"
+            },
+            {
+              "number": 52,
+              "stem": "Why is the pandemic comparison only partly appropriate?",
+              "options": [
+                { "key": "A", "text": "Resistance spreads more slowly than any virus." },
+                { "key": "B", "text": "Resistance will not run its course and disappear." },
+                { "key": "C", "text": "Resistance affects animals rather than people." },
+                { "key": "D", "text": "The death toll is smaller than usually claimed." }
+              ],
+              "answer": "B",
+              "analysis": "A 段末：比喻的误导之处在于「大流行会结束，耐药不会」——这是一种不可自行消退的长期状态。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "It is misleading because a pandemic ends. Resistance does not."
+            },
+            {
+              "number": 53,
+              "stem": "Achaogen's bankruptcy is cited to show that",
+              "options": [
+                { "key": "A", "text": "drug regulators approved an unsafe product" },
+                { "key": "B", "text": "a medically valuable drug can still be commercially unviable" },
+                { "key": "C", "text": "development costs have fallen in recent years" },
+                { "key": "D", "text": "reserve antibiotics are more profitable than expected" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：plazomicin 前一年获批、次年公司破产，「科学上成功、商业上失败」，而决定后续研发方向的正是后者。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "a scientific success and a commercial failure"
+            },
+            {
+              "number": 54,
+              "stem": "What does 'the lag is the point' mean?",
+              "options": [
+                { "key": "A", "text": "Farm animals recover more slowly than patients." },
+                { "key": "B", "text": "The delay makes the causal link easy to overlook." },
+                { "key": "C", "text": "Regulation always arrives years too late to matter." },
+                { "key": "D", "text": "New rules need time before they show any benefit." }
+              ],
+              "answer": "B",
+              "analysis": "C 段：畜舍里的用药要多年后才在病房里显现，而「到那时两者已难以联系起来」——时滞正是问题所在，因为它切断了因果的可见性。选项 D 只说「见效慢」，未抓住「难以归因」这一要害。",
+              "type": "词句含义题",
+              "evidencePara": "C",
+              "evidenceText": "by then the two are hard to connect"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's central conclusion in the last paragraph?",
+              "options": [
+                { "key": "A", "text": "Individual restraint is sufficient if universally practised." },
+                { "key": "B", "text": "Farmers should be compensated for reducing drug use." },
+                { "key": "C", "text": "Rational individual choices can add up to a harmful outcome." },
+                { "key": "D", "text": "New antibiotics will solve the problem within a generation." }
+              ],
+              "answer": "C",
+              "analysis": "F 段：每个处方者单独行事都「合理」，这些合理决定之和却造出药物失效的世界；正因激励机制与后代利益不一致，自愿自律「从来不够」。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "the sum of those reasonable decisions produces a world in which the drugs stop working"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中医是中国传统医学的总称，其理论体系形成于两千多年前的《黄帝内经》。中医把人体看作一个相互关联的整体，认为疾病源于阴阳失衡，因此治疗强调调整整体状态，而不只是消除症状。诊断依靠望、闻、问、切四种方法，治疗手段则包括中药、针灸、推拿和食疗。2019年，世界卫生组织将中医纳入其国际疾病分类，这被视为国际社会对该体系的正式承认。如今，中医药已传播到一百九十多个国家和地区，但在标准化与疗效验证方面仍面临挑战。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nTraditional Chinese medicine (TCM) is the general name for China's traditional medical system, whose theoretical framework took shape more than two thousand years ago in the Yellow Emperor's Inner Classic. TCM regards the human body as an interconnected whole and holds that illness arises from an imbalance between yin and yang; treatment therefore focuses on restoring the overall state rather than merely removing symptoms. Diagnosis relies on four methods—observation, listening and smelling, inquiry, and pulse-taking—while therapies include herbal medicine, acupuncture, massage and dietary treatment. In 2019 the World Health Organization included TCM in its International Classification of Diseases, which was seen as formal recognition of the system by the international community. Today TCM has spread to more than 190 countries and regions, though it still faces challenges in standardisation and in verifying clinical efficacy.\n\n【要点】①「总称」用 the general name for；②「形成于……的《黄帝内经》」用 whose theoretical framework took shape … in the Yellow Emperor's Inner Classic 的非限定定语从句，避免两个谓语并列；③「望、闻、问、切」须意译：observation, listening and smelling, inquiry, and pulse-taking；④「阴阳失衡」用 an imbalance between yin and yang；⑤「而不只是」用 rather than merely，体现对比；⑥末句「但……仍面临挑战」用 though 引导的让步状语，保持句子重心在前。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

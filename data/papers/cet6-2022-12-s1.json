@@ -1,0 +1,1105 @@
+{
+  "id": "cet6-2022-12-s1",
+  "level": "CET6",
+  "year": 2022,
+  "month": 12,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether students and researchers should be required to disclose their use of artificial intelligence tools. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nDisclosure Is Not a Confession\n\nA generation of students has quietly acquired a tool that can draft an essay in the time it takes to make tea, and universities have responded by demanding that its use be declared. The requirement is often resented as an accusation. It is better understood as the minimum condition of trust.\n\nAssessment rests on the assumption that the work submitted is the student's own. When that assumption fails, the grade measures nothing, and the student who worked unaided is penalised for honesty. A declaration restores the information a marker needs in order to judge what was actually learned. It also protects the student: a disclosed use is a defensible method, whereas an undisclosed one, discovered later, looks like fraud.\n\nThe objections deserve an answer. Disclosure is intrusive, and hurried rules may punish experimentation worth encouraging. But these are arguments about how to disclose, not about whether. A short statement of which tools were used, and for what purpose, costs a paragraph and buys the credibility of the degree.\n\nWhat cannot be disclosed, of course, is what a student does not understand. That remains the harder problem, and no form will solve it.\n\n（约 197 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Freight is the part of transport that electrification has struggled to reach. A battery large enough to move a forty-tonne truck four hundred kilometres would weigh more than the cargo it carried, and no long-haul operator can afford to 26______ for an hour at a charging point. Hydrogen fuel cells avoid both difficulties: the gas holds more energy per kilogram than any battery, and refuelling takes about as long as filling a diesel tank. The obstacle is not the engine but the 27______ of the fuel."
+            },
+            {
+              "label": "B",
+              "text": "Almost all hydrogen sold today is made from natural gas, a process that 28______ roughly ten kilograms of carbon dioxide for every kilogram of the gas. Hydrogen produced by splitting water with renewable electricity is genuinely 29______, but it costs three or four times as much, and the electricity required is enormous. Manufacturers are therefore 30______ to commit to vehicles that nobody can guarantee will be refuelled, while a depot with forty lorries may need equipment on a 31______ that no utility will finance without a customer already signed."
+            },
+            {
+              "label": "C",
+              "text": "Some governments have begun to 32______ the gap with subsidies for vehicles and for refuelling stations, and the first corridors to be equipped are the ports and distribution parks where trucks return to the same base each night - the obvious place to 33______. Range anxiety 34______ less when routes are fixed and loads are predictable, which is precisely the pattern of most heavy haulage. Whether hydrogen captures the long haul or merely 35______ a niche is a question of infrastructure rather than chemistry, and infrastructure is settled by policy."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "weigh"
+                },
+                {
+                  "key": "B",
+                  "text": "wait"
+                },
+                {
+                  "key": "C",
+                  "text": "watch"
+                },
+                {
+                  "key": "D",
+                  "text": "wander"
+                }
+              ],
+              "answer": "B",
+              "analysis": "afford to wait for an hour 意为「等不起一小时」；后文说加氢「和加柴油差不多快」，与之对照。wait for 为固定搭配，其余三词均不能接 for an hour 表停留。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "refuelling takes about as long as filling a diesel tank"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "supply"
+                },
+                {
+                  "key": "B",
+                  "text": "surface"
+                },
+                {
+                  "key": "C",
+                  "text": "surroundings"
+                },
+                {
+                  "key": "D",
+                  "text": "survey"
+                }
+              ],
+              "answer": "A",
+              "analysis": "the supply of the fuel 指「燃料的供应」，与前半句「障碍不在发动机」形成转折：真正的问题是氢从哪来、够不够。supply of sth 为常用搭配。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "The obstacle is not the engine but the"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "replaces"
+                },
+                {
+                  "key": "B",
+                  "text": "requires"
+                },
+                {
+                  "key": "C",
+                  "text": "releases"
+                },
+                {
+                  "key": "D",
+                  "text": "restores"
+                }
+              ],
+              "answer": "C",
+              "analysis": "由天然气制氢每公斤排放约十公斤二氧化碳，release 与 carbon dioxide 搭配表示「排放」。主语 a process 为单数，故用第三人称单数形式。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "roughly ten kilograms of carbon dioxide for every kilogram of the gas"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "cheap"
+                },
+                {
+                  "key": "B",
+                  "text": "clear"
+                },
+                {
+                  "key": "C",
+                  "text": "common"
+                },
+                {
+                  "key": "D",
+                  "text": "clean"
+                }
+              ],
+              "answer": "D",
+              "analysis": "用电解水制的「绿氢」在排放意义上是「清洁的」，但 but 之后说成本高出三四倍，故 cheap 与句意相反，正是主要干扰项。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "but it costs three or four times as much"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "reluctant"
+                },
+                {
+                  "key": "B",
+                  "text": "ready"
+                },
+                {
+                  "key": "C",
+                  "text": "required"
+                },
+                {
+                  "key": "D",
+                  "text": "responsible"
+                }
+              ],
+              "answer": "A",
+              "analysis": "be reluctant to do sth 表示「不愿做某事」；因为没人能保证车有地方加氢，厂商自然不愿投产。ready 与逻辑相反。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "nobody can guarantee will be refuelled"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "schedule"
+                },
+                {
+                  "key": "B",
+                  "text": "scheme"
+                },
+                {
+                  "key": "C",
+                  "text": "score"
+                },
+                {
+                  "key": "D",
+                  "text": "scale"
+                }
+              ],
+              "answer": "D",
+              "analysis": "on a scale that... 表示「达到……的规模」，指四十辆车的车队需要规模极大的制氢与储氢设备，公用事业公司不敢在无客户时投资。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "no utility will finance without a customer already signed"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "build"
+                },
+                {
+                  "key": "B",
+                  "text": "bridge"
+                },
+                {
+                  "key": "C",
+                  "text": "break"
+                },
+                {
+                  "key": "D",
+                  "text": "borrow"
+                }
+              ],
+              "answer": "B",
+              "analysis": "bridge the gap 是固定搭配，意为「弥合差距」；此处指政府用补贴填补车辆与加氢站之间的成本缺口。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "with subsidies for vehicles and for refuelling stations"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "stand"
+                },
+                {
+                  "key": "B",
+                  "text": "stay"
+                },
+                {
+                  "key": "C",
+                  "text": "start"
+                },
+                {
+                  "key": "D",
+                  "text": "store"
+                }
+              ],
+              "answer": "C",
+              "analysis": "the obvious place to start 意为「显而易见的起点」；破折号前说这些车辆每晚回到同一基地，正是最适合先行布点的场景。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "trucks return to the same base each night"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "means"
+                },
+                {
+                  "key": "B",
+                  "text": "measures"
+                },
+                {
+                  "key": "C",
+                  "text": "moves"
+                },
+                {
+                  "key": "D",
+                  "text": "matters"
+                }
+              ],
+              "answer": "D",
+              "analysis": "matter 作动词表示「要紧、有关系」；路线固定、载重可预测时，「续航焦虑」的影响就小得多。less 修饰动词，说明程度降低。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "when routes are fixed and loads are predictable"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "occupies"
+                },
+                {
+                  "key": "B",
+                  "text": "obtains"
+                },
+                {
+                  "key": "C",
+                  "text": "offers"
+                },
+                {
+                  "key": "D",
+                  "text": "orders"
+                }
+              ],
+              "answer": "A",
+              "analysis": "occupy a niche 表示「占据一个细分市场」；or merely 提示与 captures the long haul（拿下长途干线）形成退一步的对照。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "captures the long haul or merely"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A song streamed a million times and a song streamed a thousand times are paid from the same pool of subscription revenue, divided according to each artist's share of total plays. Pro-rata accounting means that a listener who pays ten pounds a month and plays only one obscure band still sends most of that money to whoever is played most often. Musicians have begun to notice, and to argue about it in public."
+            },
+            {
+              "label": "B",
+              "text": "Contracts are where the money is actually decided. A new artist typically assigns the copyright in recordings for the whole of the copyright term, receives an advance that is later recovered from royalties, and agrees to be paid twice a year on the strength of a statement. A statement, however, is not an audit: it is a document the company writes and the artist either accepts or litigates."
+            },
+            {
+              "label": "C",
+              "text": "The data needed to check those statements is not generally supplied. Platforms report plays in aggregate and pay distributors, not performers, so a session musician who played on a hit has no way of learning how often it was heard. Where detailed usage data does exist it is treated as commercially confidential, which makes independent verification impossible in practice and leaves suspicion to do the work of evidence."
+            },
+            {
+              "label": "D",
+              "text": "Collecting societies were designed to solve part of this. They license venues, broadcasters and shops, and distribute the proceeds to members. Yet distribution depends on metadata: a work registered without a correct writer identifier earns nothing, and unclaimed royalties accumulate in pools that are eventually shared out by market share rather than by entitlement, which tends to reward the artists who need the money least."
+            },
+            {
+              "label": "E",
+              "text": "Visual artists face a different structure. A painting sold once yields the painter nothing when it is resold for a hundred times the price, unless a resale royalty applies. Such a right exists across the European Union and in more than eighty countries, but it usually covers only sales through auction houses and dealers, so the private transactions in which most of the value moves escape it altogether."
+            },
+            {
+              "label": "F",
+              "text": "Freelance writers have watched rates stagnate for two decades while contracts have widened. Publishers now ask for all rights in all media, in perpetuity, including the right to license the work for purposes the author never imagined - training a language model, for instance. The fee for these additional uses is frequently the original fee, or nothing at all, and refusal is rarely an option for a writer with a mortgage."
+            },
+            {
+              "label": "G",
+              "text": "The reforms most often proposed are modest and technical: a legal duty to provide detailed royalty statements, a right to renegotiate a contract when a work proves far more valuable than either party expected, and a payment that cannot be signed away in advance. Each would help. None touches the underlying asymmetry, which is that a creator needs the advance more than the intermediary needs the creator."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "A musician who played on a recording may never find out how many times it was heard.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：平台按总量结算给发行方而非表演者，参与录制的乐手无从知道作品被播放了多少次。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "no way of learning how often it was heard"
+            },
+            {
+              "number": 37,
+              "stem": "Resale rights often fail to reach the transactions where most of the value changes hands.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：追续权通常只覆盖拍卖行与画廊的转售，私下交易——价值真正流转的地方——反而落在其外。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "the private transactions in which most of the value moves escape it"
+            },
+            {
+              "number": 38,
+              "stem": "Subscription income is shared out by share of total listening, so the most played artists receive most of it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：一首歌无论播放百万次还是千次，都出自同一个订阅收入池，按各艺人在总播放量中的份额分配；只听冷门乐队的用户，钱也大多流向播放最多的人。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "divided according to each artist's share of total plays"
+            },
+            {
+              "number": 39,
+              "stem": "A work registered without the correct identifiers earns nothing.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：作品登记时若缺少正确的作者标识，就一分钱也拿不到；这类钱积成池子，最后按市场份额而非按权利分配。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "registered without a correct writer identifier earns nothing"
+            },
+            {
+              "number": 40,
+              "stem": "The proposed remedies leave the creator's weak bargaining position unchanged.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段末：这些改革各有帮助，却都没有触及根本的不对称——创作者比中间人更需要那笔预付款。",
+              "type": "态度题",
+              "evidencePara": "G",
+              "evidenceText": "None touches the underlying asymmetry"
+            },
+            {
+              "number": 41,
+              "stem": "Recordings are commonly signed over for the entire duration of copyright.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：新人通常把录音的版权转让「整个版权有效期」，先拿预付款，之后从版税中扣回。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "assigns the copyright in recordings for the whole of the copyright term"
+            },
+            {
+              "number": 42,
+              "stem": "Unclaimed money is eventually divided according to market share rather than entitlement.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：无人认领的版税最终「按市场份额而不是按权利」分配，受益的往往是最不需要这笔钱的艺人。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "shared out by market share rather than by entitlement"
+            },
+            {
+              "number": 43,
+              "stem": "Royalty reports are written by the company and there is no independent check of them.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：报表不是审计，是公司写、艺人只能接受或起诉的文件。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "not an audit: it is a document the company writes"
+            },
+            {
+              "number": 44,
+              "stem": "Authors are asked to grant rights for uses that did not exist when they signed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：出版方要求「全媒体、永久」的全部权利，包括作者当初无法想象的用途，例如训练语言模型，而额外用途的报酬常常等于原稿费或为零。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "purposes the author never imagined"
+            },
+            {
+              "number": 45,
+              "stem": "Confidentiality rules make it impossible for outsiders to verify the figures.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：详细使用数据被当作商业机密，独立核查在实践中无法进行，怀疑便代替了证据。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "treated as commercially confidential"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A patient who enters hospital for a routine operation and leaves with an infected wound has usually been infected by something the hospital itself supplied. Surveys suggest that in high-income countries roughly one admission in fifteen is complicated by an infection acquired in care; where staff are fewer and beds are closer together, the figure is higher. The organisms responsible are ordinary - Staphylococcus aureus, E. coli, Clostridioides difficile - and most are carried in on skin or in the gut rather than arriving through the ventilation system."
+            },
+            {
+              "label": "B",
+              "text": "Hand hygiene is the cheapest intervention available and the most thoroughly studied. Compliance is normally measured by observers standing on the ward with a clipboard, and it rises sharply whenever they are present. Electronic systems that count entries to a room and the alcohol rub dispensed show that real compliance is often half the audited figure. The gap is less a scandal than an artefact of measurement, but it explains why campaigns celebrating improved audit scores change so little on the ward."
+            },
+            {
+              "label": "C",
+              "text": "The reason is workload rather than ignorance. A nurse caring for eight patients may have a hundred and fifty opportunities to clean her hands during a shift; each takes twenty seconds, and the nearest sink may be at the far end of the corridor. Where alcohol rub is mounted at the foot of every bed, and where staffing ratios allow the time to use it, compliance rises without any further training. Where it is not, exhortation produces resentment and very little else."
+            },
+            {
+              "label": "D",
+              "text": "Surveillance changes behaviour too, though not always as intended. Several countries oblige hospitals to publish rates of bloodstream infection, and the rates fell after publication began. They also fell because blood cultures were taken less often, and because clinicians became reluctant to record a diagnosis that would appear in public. A measure that is used as a target stops being a measure - a familiar problem in every field where numbers are also reputations."
+            },
+            {
+              "label": "E",
+              "text": "What does appear to work is dull and expensive. Bundles of small procedures around the insertion of a line reduce infection reliably. Single rooms with adequate ventilation reduce cross-transmission. Enough nurses reduce it further. These are capital decisions, taken by finance directors, and they compete with everything else a hospital might buy. A poster campaign costs nothing and is therefore popular; a new ward costs a great deal and is therefore postponed."
+            },
+            {
+              "label": "F",
+              "text": "The temptation, once infection rates are published, is to look for somebody to blame: the surgeon who did not scrub properly, the nurse who was rushed. The instinct is understandable and largely misplaced. Organisms move through a system, and the system is designed by people who are not on the ward at three in the morning. Blaming an individual is far cheaper than rebuilding the ward, which is precisely why it is done so often."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author imply about the origins of most hospital infections?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are brought in by visitors from the surrounding community."
+                },
+                {
+                  "key": "B",
+                  "text": "They arise from conditions created by the institution itself."
+                },
+                {
+                  "key": "C",
+                  "text": "They are transmitted mainly through the ventilation system."
+                },
+                {
+                  "key": "D",
+                  "text": "They are confined to patients who are already seriously ill."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段首句与末句：病人出院时带着的感染「通常是医院自己提供的」，病原体多由皮肤或肠道带入，而非经通风系统。B「由机构自身造成的条件所引发」最贴合。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "infected by something the hospital itself supplied"
+            },
+            {
+              "number": 47,
+              "stem": "Why do audit figures overstate how often staff clean their hands?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because the observers are not properly trained."
+                },
+                {
+                  "key": "B",
+                  "text": "Because the rules differ from ward to ward."
+                },
+                {
+                  "key": "C",
+                  "text": "Because people behave differently when they know they are watched."
+                },
+                {
+                  "key": "D",
+                  "text": "Because alcohol rub is unavailable on most wards."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：有观察员在场时依从性「明显上升」，而电子计数显示真实依从性常只有审计数字的一半——正是被观察改变行为。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "it rises sharply whenever they are present"
+            },
+            {
+              "number": 48,
+              "stem": "What does the remark that exhortation produces 'resentment and very little else' suggest?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Staff resent being told that the problem is their own carelessness."
+                },
+                {
+                  "key": "B",
+                  "text": "Training sessions are too short to be effective."
+                },
+                {
+                  "key": "C",
+                  "text": "Nurses dislike the smell of alcohol rub."
+                },
+                {
+                  "key": "D",
+                  "text": "Audits should be carried out more frequently."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：症结是工作量而非无知；只有床尾放手消毒液、人力配置允许时依从性才上升，否则「说教」只会招致怨气。故作者讽刺把结构问题当成员工态度问题。",
+              "type": "词句含义题",
+              "evidencePara": "C",
+              "evidenceText": "Where it is not, exhortation produces resentment"
+            },
+            {
+              "number": 49,
+              "stem": "What does 'a measure that is used as a target stops being a measure' mean in practice?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Hospitals stop collecting data once a target is met."
+                },
+                {
+                  "key": "B",
+                  "text": "Published figures become unreliable because they affect reputations."
+                },
+                {
+                  "key": "C",
+                  "text": "Targets are always set too high to be achievable."
+                },
+                {
+                  "key": "D",
+                  "text": "Patients are discharged earlier to improve the statistics."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：公布感染率后数字下降，部分原因是血培养做得更少、医生不愿写下会公开的诊断。指标一旦成为目标并牵涉声誉，记录本身就被改变。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "numbers are also reputations"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's attitude towards blaming individual clinicians?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is justified when protocols have clearly been ignored."
+                },
+                {
+                  "key": "B",
+                  "text": "It is the most effective way to change ward behaviour."
+                },
+                {
+                  "key": "C",
+                  "text": "It distracts attention from changes that would cost more."
+                },
+                {
+                  "key": "D",
+                  "text": "It is unavoidable once infection rates are made public."
+                }
+              ],
+              "answer": "C",
+              "analysis": "F 段：归咎个人「可以理解但基本找错了地方」，因为病原体在系统中流动；而且责怪个人远比改建病房便宜，这正是它屡屡被采用的原因。",
+              "type": "态度题",
+              "evidencePara": "F",
+              "evidenceText": "Blaming an individual is far cheaper than rebuilding the ward"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2008 the largest American insurer of hospitals announced that it would stop paying for certain infections acquired in care: infections of the bloodstream after a line is inserted, of the urinary tract after a catheter, of the surgical site after an operation. The argument was economic. If a hospital bears the cost of its own mistakes, it will invest in preventing them. Within four years the rate of central-line infection in intensive care had fallen by more than half."
+            },
+            {
+              "label": "B",
+              "text": "The mechanism is a price. An infection that adds a fortnight to a stay, plus a course of intravenous antibiotics, costs tens of thousands of dollars; if that money no longer arrives, a prevention programme costing less than the infections it avoids becomes an obvious purchase. Health economists approve, on the ground that the arrangement forces an organisation to internalise a cost it had previously exported to whoever paid the bill."
+            },
+            {
+              "label": "C",
+              "text": "The difficulty is measurement. A hospital that wishes to avoid the penalty has two options: prevent the infection, or describe it differently. Audits in several states found that bloodstream infections were increasingly coded as present on admission, which removed them from the penalty while leaving the patient just as ill. The published rate fell. The number of sick patients did not."
+            },
+            {
+              "label": "D",
+              "text": "There is a subtler effect on behaviour. Hospitals judged on a small set of infections may concentrate on those and neglect others, and institutions that serve the poorest and sickest patients - the ones most likely to arrive already colonised - are penalised for a case mix they did not choose. A payment rule, in other words, is a blunt instrument applied to a problem with many causes, and its costs fall on those least able to absorb them."
+            },
+            {
+              "label": "E",
+              "text": "The most successful American programme took a different route. A consortium of hospitals in Michigan agreed to share data and protocols, inserted lines according to a checklist, and reported their infection rates to one another every month. Nobody was fined. Infection fell by two thirds and stayed down, largely because the change was collective and because the numbers were used for learning rather than for blame."
+            },
+            {
+              "label": "F",
+              "text": "None of this means money is irrelevant. Prevention requires staff, space and equipment, and a hospital paid for activity rather than for safety will always underinvest in safety. But a penalty assumes that the obstacle is indifference, when it is usually capacity. Paying for capacity is less satisfying to announce than withholding payment for failure; it is also considerably more likely to work."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What assumption lay behind the insurer's decision?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Hospitals did not know how infections were transmitted."
+                },
+                {
+                  "key": "B",
+                  "text": "Patients would choose hospitals with better records."
+                },
+                {
+                  "key": "C",
+                  "text": "Doctors would resist any change imposed from outside."
+                },
+                {
+                  "key": "D",
+                  "text": "Financial loss would push hospitals to prevent infections."
+                }
+              ],
+              "answer": "D",
+              "analysis": "A 段：论证是经济性的——「如果医院自己承担错误的成本，就会投资于预防」。故其假设是经济压力能促使其采取行动。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "If a hospital bears the cost of its own mistakes, it will invest in preventing them"
+            },
+            {
+              "number": 52,
+              "stem": "What does it mean for a hospital to 'internalise a cost it had previously exported'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It now bears expenses that other parties used to pay."
+                },
+                {
+                  "key": "B",
+                  "text": "It transfers its losses to the insurance company."
+                },
+                {
+                  "key": "C",
+                  "text": "It charges patients more for longer stays."
+                },
+                {
+                  "key": "D",
+                  "text": "It reduces spending on prevention programmes."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：感染延长住院、增加抗生素费用，过去由付款方承担（exported），现在由医院自己承担（internalise），即把原本外部化的成本收回自身。",
+              "type": "词句含义题",
+              "evidencePara": "B",
+              "evidenceText": "forces an organisation to internalise a cost"
+            },
+            {
+              "number": 53,
+              "stem": "What do the state audits in paragraph C reveal?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Hospitals were deliberately infecting patients to claim fees."
+                },
+                {
+                  "key": "B",
+                  "text": "Reported rates can fall while patients remain just as ill."
+                },
+                {
+                  "key": "C",
+                  "text": "Bloodstream infections had become less common overall."
+                },
+                {
+                  "key": "D",
+                  "text": "Coding practices were standardised across hospitals."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：感染被越来越多地编码为「入院时已存在」，于是从处罚范围中移除，公布的数字下降，但真正生病的人数没有减少。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "The published rate fell. The number of sick patients did not"
+            },
+            {
+              "number": 54,
+              "stem": "Why does the author say the rule penalises hospitals serving poor patients?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Such hospitals treat more patients without insurance."
+                },
+                {
+                  "key": "B",
+                  "text": "Such hospitals record infections less accurately."
+                },
+                {
+                  "key": "C",
+                  "text": "Their patients often arrive already carrying the organisms."
+                },
+                {
+                  "key": "D",
+                  "text": "They receive smaller payments for the same procedures."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段：服务最贫穷、最重病人的医院「最可能收治入院时已带菌者」，却要为并非自己造成的病例结构受罚。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "most likely to arrive already colonised"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author conclude about financial penalties?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are the only reliable way to change hospital behaviour."
+                },
+                {
+                  "key": "B",
+                  "text": "They work well provided the sums involved are large enough."
+                },
+                {
+                  "key": "C",
+                  "text": "They should be extended to every kind of hospital infection."
+                },
+                {
+                  "key": "D",
+                  "text": "They misdiagnose the obstacle, which is capacity rather than indifference."
+                }
+              ],
+              "answer": "D",
+              "analysis": "F 段：惩罚假定障碍是「不在乎」，而实际上通常是「没能力」——缺少人手、空间与设备；为能力付费比扣款更难宣传，却更可能奏效。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "assumes that the obstacle is indifference, when it is usually capacity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国茶道不只是一种饮茶方式，更是一套关于礼仪与心境的传统。唐代陆羽所著《茶经》系统总结了采茶、制茶与煮茶之法，被尊为茶学经典。宋代流行点茶，将茶粉击拂成沫；明清以后，冲泡散茶成为主流。茶道讲究水、器、火与环境的配合，强调主客之间的尊重与从容。今天，茶馆遍布城乡，人们仍愿意坐下来，用一壶茶待客或独处。2022年，中国传统制茶技艺及相关习俗被列入联合国教科文组织人类非物质文化遗产代表作名录。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe Chinese tea ceremony is not merely a way of drinking tea but a tradition concerned with courtesy and with a state of mind. The Classic of Tea, written by Lu Yu in the Tang Dynasty, systematically summarised the methods of picking, processing and brewing tea, and was later revered as the founding text of tea studies. In the Song Dynasty it became fashionable to whisk powdered tea into a froth; from the Ming and Qing onwards, infusing loose leaves gradually became the norm. The ceremony attends to the harmony of water, vessels, fire and setting, and stresses the respect and composure expected between host and guest. Today teahouses are found in town and countryside alike, and people still choose, in their spare time, to sit down and serve a pot of tea to visitors or to themselves. In 2022, traditional tea processing techniques and their associated social practices in China were inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity.\n\n【要点】①首句「不只是……更是……」用 not merely... but... 结构；②《茶经》译为 The Classic of Tea，作者陆羽用 Lu Yu in the Tang Dynasty；③「点茶」「击拂成沫」可译 whisk powdered tea into a froth，避免逐字硬译；④「讲究……的配合」用 attend to the harmony of，比 pay attention to 更贴合语境；⑤「用一壶茶待客或独处」拆句处理，serve a pot of tea to visitors or to themselves；⑥末句「列入名录」用 were inscribed on UNESCO's Representative List，注意被动与过去时。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

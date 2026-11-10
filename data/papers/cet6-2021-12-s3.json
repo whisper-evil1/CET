@@ -1,0 +1,1097 @@
+{
+  "id": "cet6-2021-12-s3",
+  "level": "CET6",
+  "year": 2021,
+  "month": 12,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether single-use plastics should be banned. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nShould Single-Use Plastics Be Banned?\n\nFew environmental arguments are as easy to win as the one against a plastic straw. The object is used for four minutes, persists for four centuries, and can be replaced by paper at a cost of a fraction of a cent. It is also, unfortunately, the easiest case in the entire category, and the temptation to generalise from it has produced a great deal of bad policy.\n\nA ban works where a substitute exists, where the substitute is genuinely better, and where enforcement is cheap. It fails where the plastic is doing a job nothing else can do at the same price: the sterile wrapper around a medical syringe, the liner that keeps a grain sack dry, the film that extends the life of a cucumber by a week. Banning the last of these can raise food waste, and food waste carries its own carbon cost. A rule that feels green can therefore be worse than no rule.\n\nThe better instrument is usually a price, not a prohibition. Charge for bags and their use collapses without any inspector; require producers to pay for collection and the design changes; set a recycled-content standard and the market does the rest.\n\nSo: ban the items that are useless by design, and price the ones that are useful. Indignation is a poor substitute for arithmetic.\n\n（约 220 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A farmer whose well has run dry, a fisherman whose village has been taken by the sea, a herder who can no longer find pasture: none of them would call himself a climate migrant, and few legal systems would either. There is no 26______ in international law for a person displaced by a changing climate. The 1951 Refugee Convention protects those who flee persecution, and its definition has been stretched to cover a few novel cases, but drought is not a persecutor and a rising tide serves no 27______. Nor is the movement usually sudden. A household sends one member to the city, then another, and a village empties over a decade rather than in a week, which makes it almost invisible in the statistics that humanitarian agencies collect."
+            },
+            {
+              "label": "B",
+              "text": "The numbers are contested and the definitions are worse. Estimates of how many people will move by 2050 range from twenty-five million to a billion, a 28______ so wide that it is useless for planning. What the figures share is a 29______ to count only the dramatic crossing: the flood, the storm, the camp. Slow displacement fits no budget line, and the people affected have no claim on any state but their own. Policy has therefore begun to 30______ a distinction between the refugee, who has a claim on another country, and the displaced person, who has a claim on hers."
+            },
+            {
+              "label": "C",
+              "text": "Some governments have stopped waiting for the water. Bangladesh, which expects perhaps a sixth of its low-lying land to be 31______ by the end of the century, has spent a decade moving families to higher ground before the flood arrives, an approach known as planned 32______. It is expensive, it is unpopular, and by the standards of a crisis it is 33______: households that move with support keep their schools, their credit and their neighbours, while those who flee at midnight keep none of them. The 34______ question is harder still. A state that cannot protect its citizens from the sea may in time lose the territory that gives it a vote at the United Nations, and no treaty says what becomes of the 35______ of a country that no longer exists. Lawyers are drafting an answer; the tide is not waiting for them."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "category"
+                },
+                {
+                  "key": "B",
+                  "text": "penalty"
+                },
+                {
+                  "key": "C",
+                  "text": "currency"
+                },
+                {
+                  "key": "D",
+                  "text": "shelter"
+                }
+              ],
+              "answer": "A",
+              "analysis": "后文说《难民公约》只保护「因迫害而逃」的人，可见国际法中没有为气候流离者设立「类别」；category 指分类范畴。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "The 1951 Refugee Convention protects those who flee persecution"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "summons"
+                },
+                {
+                  "key": "B",
+                  "text": "harvest"
+                },
+                {
+                  "key": "C",
+                  "text": "shelter"
+                },
+                {
+                  "key": "D",
+                  "text": "lecture"
+                }
+              ],
+              "answer": "A",
+              "analysis": "serve a summons 是法律用语「送达传票」，与前半句 drought is not a persecutor 构成平行：干旱不是迫害者，上涨的潮水也不会给你送达传票——即不存在可归责的行为主体。",
+              "type": "搭配题",
+              "evidencePara": "A",
+              "evidenceText": "drought is not a persecutor"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "range"
+                },
+                {
+                  "key": "B",
+                  "text": "trend"
+                },
+                {
+                  "key": "C",
+                  "text": "budget"
+                },
+                {
+                  "key": "D",
+                  "text": "settlement"
+                }
+              ],
+              "answer": "A",
+              "analysis": "from twenty-five million to a billion 描述的是上下限，故为「区间」；a range so wide that it is useless for planning 是常见搭配。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "from twenty-five million to a billion"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "tendency"
+                },
+                {
+                  "key": "B",
+                  "text": "refusal"
+                },
+                {
+                  "key": "C",
+                  "text": "apology"
+                },
+                {
+                  "key": "D",
+                  "text": "shortage"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后列出 flood、storm、camp 三种「戏剧性跨越」，说明各种估算都有只统计突发跨境事件的「倾向」；而缓慢的流离不符合任何预算科目。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "count only the dramatic crossing"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "draw"
+                },
+                {
+                  "key": "B",
+                  "text": "erase"
+                },
+                {
+                  "key": "C",
+                  "text": "inherit"
+                },
+                {
+                  "key": "D",
+                  "text": "postpone"
+                }
+              ],
+              "answer": "A",
+              "analysis": "draw a distinction between A and B 意为「区分」，此处指政策开始把「对别国有诉求的难民」和「只对本国政府有诉求的流离者」分开处理。",
+              "type": "搭配题",
+              "evidencePara": "B",
+              "evidenceText": "between the refugee ... and the displaced person"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "submerged"
+                },
+                {
+                  "key": "B",
+                  "text": "irrigated"
+                },
+                {
+                  "key": "C",
+                  "text": "cultivated"
+                },
+                {
+                  "key": "D",
+                  "text": "surveyed"
+                }
+              ],
+              "answer": "A",
+              "analysis": "低洼地被海水「淹没」才需要举村搬迁；by the end of the century 表明是海平面上升的预期结果。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "a sixth of its low-lying land"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "retreat"
+                },
+                {
+                  "key": "B",
+                  "text": "expansion"
+                },
+                {
+                  "key": "C",
+                  "text": "recovery"
+                },
+                {
+                  "key": "D",
+                  "text": "protest"
+                }
+              ],
+              "answer": "A",
+              "analysis": "planned retreat（有管理的撤退）指在水到来之前把居民与设施有序迁往高处；moved families to higher ground before the flood arrives 正是其定义。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "moving families to higher ground before the flood arrives"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "effective"
+                },
+                {
+                  "key": "B",
+                  "text": "illegal"
+                },
+                {
+                  "key": "C",
+                  "text": "temporary"
+                },
+                {
+                  "key": "D",
+                  "text": "cheap"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后作解释：有人支持地搬迁的家庭保住了学校、信贷与邻里，半夜逃难的人一无所有——以危机的标准看，这是「有效的」，尽管昂贵且不受欢迎。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "keep their schools, their credit and their neighbours"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "legal"
+                },
+                {
+                  "key": "B",
+                  "text": "medical"
+                },
+                {
+                  "key": "C",
+                  "text": "musical"
+                },
+                {
+                  "key": "D",
+                  "text": "industrial"
+                }
+              ],
+              "answer": "A",
+              "analysis": "后文讲「失去领土就失去联合国席位」「没有条约规定国籍怎么办」「律师正在起草答案」，全部指向法律问题。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "no treaty says what becomes of"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "citizenship"
+                },
+                {
+                  "key": "B",
+                  "text": "agriculture"
+                },
+                {
+                  "key": "C",
+                  "text": "architecture"
+                },
+                {
+                  "key": "D",
+                  "text": "tourism"
+                }
+              ],
+              "answer": "A",
+              "analysis": "国家不复存在时，其国民的「公民身份」如何认定，是国际法上的著名难题；与选举席位、条约并列，属主权与身份问题。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "of a country that no longer exists"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "On a Saturday in autumn, a final played in a converted arena drew more viewers online than most domestic football matches, and the prize money exceeded that of a major tennis tournament. Competitive gaming has become an industry with the audience of a sport and, increasingly, the vocabulary of one: fixtures, transfers, seasons, coaching staff, injury lists. What it does not have is a settled place in the institutions that organise sport, and the argument about whether it deserves one has become a small industry of its own."
+            },
+            {
+              "label": "B",
+              "text": "The thing that makes professional gaming work is that the skill is real and measurable. A player who can react in a hundred and fifty milliseconds, track three streams of information and coordinate with four team-mates under time pressure is doing something that most people cannot do at all, and the difference between the best and the rest is visible to anyone who watches. Teams employ analysts, psychologists and chefs; training is scheduled like training, with reviews, drills and rest days. In this respect the practice of elite gaming resembles the practice of elite sport far more closely than its critics expect."
+            },
+            {
+              "label": "C",
+              "text": "The career, however, is brutally short. Reaction time peaks in the early twenties and declines measurably thereafter, and the game itself may be replaced before the player is thirty. A footballer who retires at thirty-five has had fifteen years to save; a gamer who retires at twenty-four has had four, often on a salary that was modest until the last season or two. Very few have pensions, qualifications or a profession to return to, and the second career is usually in coaching, streaming or nothing at all."
+            },
+            {
+              "label": "D",
+              "text": "The working conditions have improved and remain uneven. Twelve-hour practice days are no longer universal, but wrist and back injuries are common, sleep is disrupted by matches played across time zones, and the pressure to stream in the evening for an audience is a second job that nobody counts as work. A few leagues now mandate rest periods and physiotherapy; others leave it to the employer, which is to say to the team, which is to say to a business that competes on the cheapest possible roster."
+            },
+            {
+              "label": "E",
+              "text": "Contract law is where the amateurishness shows most clearly. Players are signed young, sometimes at fifteen, on terms they cannot negotiate and, in some jurisdictions, cannot legally agree to. Buyouts, exclusivity clauses and visa arrangements are handled by agents whose qualifications vary from a law degree to a friend of the owner. When a team folds, as teams regularly do, the contracts expire with it, and there is no tribunal to appeal to because there is no recognised league structure to appeal within."
+            },
+            {
+              "label": "F",
+              "text": "What gaming has borrowed from sport is the visible apparatus: the transfer window, the academy, the analyst, the pre-match interview. What it has not borrowed is the machinery of collective protection. Footballers have a union, a standard contract, a medical protocol and a compensation fund; gamers have, in most countries, a publisher's terms of service. The difference is not cultural but constitutional: sport grew up in clubs and federations, while esports grew up inside a company that owns the rules."
+            },
+            {
+              "label": "G",
+              "text": "That ownership is the deepest difference. A game is a product, and its owner may patch it, sell it, or shut its servers down. A league cannot outlive the game it plays, and no regulator can compel a company to keep a competition alive. Recognition by sporting bodies would not change this, which is why some players argue that the campaign for recognition is a distraction: what they need is not the word sport but a standard contract, an independent appeal and a rule that a publisher cannot end a career by ending a title."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Competitive gaming attracts sports-sized audiences but has no secure place among sporting institutions.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：电竞拥有堪比体育的观众与奖金，也有了转会、赛季、教练等体育词汇，却没有在体育机构中获得确定位置。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "a settled place in the institutions that organise sport"
+            },
+            {
+              "number": 37,
+              "stem": "Elite gamers train under schedules that resemble those of elite athletes.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：战队雇分析师、心理师与厨师，训练有复盘、 drills 与休息日——精英电竞的「练法」比批评者想象的更接近精英体育。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "training is scheduled like training"
+            },
+            {
+              "number": 38,
+              "stem": "Most players retire too young to have saved enough for a second life.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：足球运动员三十五岁退役有十五年积蓄期，电竞选手二十四岁退役只有四年；很少有人有养老金、学历或可回归的职业。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "a gamer who retires at twenty-four has had four"
+            },
+            {
+              "number": 39,
+              "stem": "Streaming in the evening amounts to unpaid extra work.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：为观众晚间直播的压力是「无人计入工作量」的第二份工作，同时手腕与背部伤病普遍、跨时区比赛扰乱睡眠。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "a second job that nobody counts as work"
+            },
+            {
+              "number": 40,
+              "stem": "When an organisation collapses, players have no independent body to appeal to.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：战队解散时合同随之失效，「没有可上诉的仲裁机构，因为不存在被承认的联赛结构」。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "there is no tribunal to appeal to"
+            },
+            {
+              "number": 41,
+              "stem": "Footballers have unions and standard contracts; gamers have only a publisher's terms of service.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：足球有工会、标准合同、医疗协议与补偿基金；电竞选手在多数国家只有「发行商的服务条款」。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "a publisher's terms of service"
+            },
+            {
+              "number": 42,
+              "stem": "A league cannot survive the disappearance of the game it depends on.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：游戏是商品，所有者可以打补丁、出售甚至关服；「联赛无法比它所玩的游戏活得更久」。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "A league cannot outlive the game it plays"
+            },
+            {
+              "number": 43,
+              "stem": "Some players think the campaign for sporting recognition misses the real problem.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段末：有选手认为「求承认」是干扰项——他们需要的是标准合同、独立申诉与「发行商不能靠终结一款游戏来终结职业生涯」的规则。",
+              "type": "态度题",
+              "evidencePara": "G",
+              "evidenceText": "the campaign for recognition is a distraction"
+            },
+            {
+              "number": 44,
+              "stem": "Young players sometimes sign terms they are legally unable to agree to.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：选手十五岁即被签约，合同无从谈判，在某些司法辖区甚至「法律上不能同意」。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "sometimes at fifteen"
+            },
+            {
+              "number": 45,
+              "stem": "The difference between sport and esports lies in how each was organised historically.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：差别「不是文化性的而是宪制性的」——体育在俱乐部与联合会中生长，电竞则在一家拥有规则的公司内部生长。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "not cultural but constitutional"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Ask a primary school teacher what she did on Tuesday and the answer is unlikely to be 'taught'. She will have covered a class for an absent colleague, entered assessment data into a platform that changed its fields last term, telephoned three parents about a child-protection concern, written a report for a visiting inspector, supervised a lunch queue and answered messages that arrived after nine in the evening. Teaching itself, in the accounts that teachers keep for researchers, occupies between a third and a half of the working week."
+            },
+            {
+              "label": "B",
+              "text": "The extra work is not evenly distributed. It falls hardest on the newest teachers, who have the least authority to refuse it, and on schools in poorer areas, where a smaller administrative staff means that whatever arrives from the ministry is absorbed by the classroom teacher. A requirement that takes ten minutes in a well-staffed school can take an hour in one where the office is a photocopier and a part-time clerk, which is one reason the same policy produces such different results in different places."
+            },
+            {
+              "label": "C",
+              "text": "Governments have noticed. Several have announced a reduction in paperwork, published a list of tasks that schools may refuse, and funded additional administrative posts. Evaluations of these programmes tend to find a modest improvement in the first year and a levelling off thereafter, for a reason that is easy to state and hard to fix: the tasks that were removed were replaced by new ones. A campaign against a particular form does not reduce the demand for information; it merely changes its shape, and the teacher is still the person at the end of the chain who has the data."
+            },
+            {
+              "label": "D",
+              "text": "The deeper problem is structural. A school is the point at which every policy meets a child: health screening, road safety, nutrition, online behaviour, attendance, safeguarding. Each of these is a legitimate concern of some department, and each department can require evidence that its concern has been addressed. The school cannot refuse, because it is funded and inspected by the same authority that makes the requests. Responsibility is delegated downwards while the resources to meet it are not, and the gap is filled by the teacher's evening."
+            },
+            {
+              "label": "E",
+              "text": "Reducing the burden therefore requires a decision about what schools are for, not a slogan about workload. The useful measures are unglamorous: a single data collection point for the whole authority, so that a school reports once rather than five times; administrative staff funded at a ratio that reflects the number of requirements rather than the number of pupils; and a rule that no new duty may be imposed without a named person, outside the school, who is accountable for its cost. None of this would make teaching easy. It would allow teaching to be the main thing that teachers do, which at present it is not."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the first paragraph mainly show?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Teachers spend more time on other duties than on teaching."
+                },
+                {
+                  "key": "B",
+                  "text": "Teachers refuse to take part in assessment."
+                },
+                {
+                  "key": "C",
+                  "text": "Class sizes have risen sharply."
+                },
+                {
+                  "key": "D",
+                  "text": "Parents contact schools too rarely."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段把周二的工作逐项列出：代课、录数据、给家长打电话、写检查报告、看午餐队列、回晚间消息；末句指出「教学本身只占工作周的三分之一到一半」。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "occupies between a third and a half of the working week"
+            },
+            {
+              "number": 47,
+              "stem": "Why does the same policy produce different results in different schools?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Teachers interpret the policy differently."
+                },
+                {
+                  "key": "B",
+                  "text": "Poorer schools have less administrative help to absorb it."
+                },
+                {
+                  "key": "C",
+                  "text": "Rural schools are inspected more often."
+                },
+                {
+                  "key": "D",
+                  "text": "Newer teachers are exempt from reporting duties."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：负担最重地落在新教师与较贫困地区的学校——行政人员少，「十分钟的要求」在没有办公室的学校要花一小时。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "a smaller administrative staff"
+            },
+            {
+              "number": 48,
+              "stem": "Why did the reforms produce only a modest improvement?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Schools ignored the new rules."
+                },
+                {
+                  "key": "B",
+                  "text": "Removed tasks were replaced by new demands for information."
+                },
+                {
+                  "key": "C",
+                  "text": "Administrative posts were never funded."
+                },
+                {
+                  "key": "D",
+                  "text": "Inspectors refused to change their methods."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：第一年略有改善随后趋平，因为「取消的任务被新任务取代」——反对某张表格并未减少对信息的需求，只是改变了它的形状。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "the tasks that were removed were replaced by new ones"
+            },
+            {
+              "number": 49,
+              "stem": "What does 'responsibility is delegated downwards while the resources to meet it are not' describe?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Schools are given more money than they need."
+                },
+                {
+                  "key": "B",
+                  "text": "Duties are passed to schools without the means to carry them out."
+                },
+                {
+                  "key": "C",
+                  "text": "Teachers are promoted without extra training."
+                },
+                {
+                  "key": "D",
+                  "text": "Departments compete for the same budget."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：学校处在每项政策与孩子相遇的末端，无法拒绝，因为经费与督导权都在提出要求的部门手里；责任下移而资源不下移，缺口由教师的夜晚填补。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "the gap is filled by the teacher's evening"
+            },
+            {
+              "number": 50,
+              "stem": "Which measure would the author regard as most useful?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A national campaign urging teachers to manage their time."
+                },
+                {
+                  "key": "B",
+                  "text": "A single data collection point for the whole authority."
+                },
+                {
+                  "key": "C",
+                  "text": "Shorter school holidays."
+                },
+                {
+                  "key": "D",
+                  "text": "More frequent inspection of failing schools."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段提出三项「不起眼」的措施：全辖区统一的数据采集口（报一次而非五次）、按「要求数量」而非学生数配备行政人员、新增职责须有校外具名者为成本负责。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "a single data collection point for the whole authority"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Whether competitive gaming is a sport has been debated for twenty years, mostly by people with no power to decide. The question matters because the answer allocates things: money from sports budgets, visas for players who travel to tournaments, eligibility for school programmes, and the jurisdiction of the bodies that write anti-doping rules. A definition that looks like semantics is in practice a decision about who pays and who is protected."
+            },
+            {
+              "label": "B",
+              "text": "The case for inclusion rests on what the activity demands. Reaction time, hand-eye coordination, sustained attention and tactical coordination under pressure are trainable capacities, measured in milliseconds, and the elite performer is as far from the amateur as a sprinter is from a jogger. Chess was admitted to the Olympic movement on precisely this reasoning: the body is not the point, the contest is. If bridge and chess qualify, the argument runs, the objection that gamers do not sweat is an accident of history rather than a principle."
+            },
+            {
+              "label": "C",
+              "text": "The case against is less about sweat than about ownership. A sport's rules are public and change slowly, through a federation in which members have a vote. A game's rules belong to a company, which may alter them between seasons, sell the title, or end it. A hundred-metre race will be run in a hundred years; nobody can promise that a given game will be played next decade. A contest whose conditions can be rewritten by one party is not the same kind of institution as a sport, however athletic its players."
+            },
+            {
+              "label": "D",
+              "text": "There is also the matter of what recognition would actually deliver. Sporting status brings obligations as well as benefits: independent testing, medical supervision, a tribunal for disputes, and a duty of care that a publisher has no incentive to accept. Some players' associations have concluded that they would rather build these institutions themselves than inherit a framework designed for athletes who are represented by unions. Recognition, on this view, would give the industry the prestige of sport without its protections, which is the worst of both arrangements."
+            },
+            {
+              "label": "E",
+              "text": "The more defensible position is that the category is doing too much work. What matters to a visa officer is not whether an activity is a sport but whether it is a profession with a schedule and an employer; what matters to a school is whether a programme teaches discipline and teamwork; what matters to a regulator is whether minors are being paid, gambled on, or exhausted. Each of those questions can be answered without settling the definition, and answering them separately would produce better rules than a single yes-or-no vote."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why does the author say the definition 'matters'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It determines access to funding, visas and regulation."
+                },
+                {
+                  "key": "B",
+                  "text": "It decides which games may be sold."
+                },
+                {
+                  "key": "C",
+                  "text": "It sets the age at which players may compete."
+                },
+                {
+                  "key": "D",
+                  "text": "It settles the size of prize money."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：定义实际是在分配资源——体育预算、选手签证、学校课程资格，以及反兴奋剂机构的管辖权；「看似语义学的问题，其实是决定谁付钱、谁受保护」。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the answer allocates things"
+            },
+            {
+              "number": 52,
+              "stem": "How does the author support the case for inclusion?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By comparing players' salaries with athletes'."
+                },
+                {
+                  "key": "B",
+                  "text": "By citing the precedent of chess."
+                },
+                {
+                  "key": "C",
+                  "text": "By measuring the calories players burn."
+                },
+                {
+                  "key": "D",
+                  "text": "By quoting a federation's rule book."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段以国际象棋进入奥林匹克运动为类比：身体不是重点，竞赛才是；若棋类与桥牌合格，那么「选手不出汗」只是历史偶然而非原则。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "Chess was admitted to the Olympic movement on precisely this reasoning"
+            },
+            {
+              "number": 53,
+              "stem": "What is the central objection in the third paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Gamers are not physically fit enough."
+                },
+                {
+                  "key": "B",
+                  "text": "One company can rewrite the rules of the contest."
+                },
+                {
+                  "key": "C",
+                  "text": "Esports attract too few spectators."
+                },
+                {
+                  "key": "D",
+                  "text": "The rules of sport change too quickly."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：体育规则公开、变更缓慢、由有投票权的成员组成的联合会决定；游戏规则属于一家公司，可以改、可以卖、可以停——「比赛条件可被一方改写」的竞赛与体育不是同类制度。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "A game's rules belong to a company"
+            },
+            {
+              "number": 54,
+              "stem": "What do some players' associations fear about recognition?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That it would bring duties without real protection."
+                },
+                {
+                  "key": "B",
+                  "text": "That it would reduce prize money."
+                },
+                {
+                  "key": "C",
+                  "text": "That it would ban international tournaments."
+                },
+                {
+                  "key": "D",
+                  "text": "That it would end streaming revenue."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：体育身份带来义务（独立检测、医疗监督、仲裁、照护责任），而发行商没有动机接受；协会宁可自建制度，也不愿继承为「有工会代表的运动员」设计的框架——否则只得到声望，得不到保护。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "the prestige of sport without its protections"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author advocate in the final paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A single vote on whether esports is a sport."
+                },
+                {
+                  "key": "B",
+                  "text": "Answering the practical questions separately instead of settling the label."
+                },
+                {
+                  "key": "C",
+                  "text": "Leaving the industry entirely unregulated."
+                },
+                {
+                  "key": "D",
+                  "text": "Transferring all authority to game publishers."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：这个类别承担了过多功能——签证官关心的是不是有雇主与赛程的职业，学校关心是否教纪律与协作，监管者关心未成年人是否被付费、被赌博、被耗尽；分别回答比一次「是或否」的表决更能产生好规则。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "answering them separately would produce better rules"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国是世界上最早养蚕缫丝的国家，蚕桑业已有五千多年历史。相传黄帝之妻嫘祖教人养蚕，被尊为「先蚕」。丝绸经丝绸之路运往中亚和欧洲，是中国最重要的出口商品之一。江南气候温润，桑田连片，明清时期形成栽桑、养蚕、缫丝、织绸的完整体系。养蚕讲究时令，蚕农昼夜照料，一张蚕种约一个月便可结茧。今天，传统蚕桑技艺仍在乡村延续，并列入非物质文化遗产名录。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChina is the first country in the world to have raised silkworms and reeled silk, and its sericulture is more than five thousand years old. Legend has it that Leizu, the wife of the Yellow Emperor, taught people to keep silkworms, and later generations honoured her as the goddess of silk. Silk was carried along the Silk Road to Central Asia and Europe and remained one of China's most important exports for centuries. The Jiangnan region, with its mild, damp climate and its continuous mulberry fields, developed by the Ming and Qing dynasties a complete system of mulberry planting, silkworm rearing, silk reeling and weaving. Rearing is governed by the seasons: farmers must tend the worms day and night, and a batch of eggs will spin cocoons in about a month. Today the traditional craft survives in some villages and has been placed on the list of intangible cultural heritage.\n\n【要点】①「最早……的国家」用 the first country to have done，注意不定式完成式；②「蚕桑业」译 sericulture，首次出现可加 its；③「相传」用 Legend has it that...；④「先蚕」不宜直译，可意译为 the goddess of silk；⑤「沿丝绸之路运往」用 was carried along the Silk Road，被动更自然；⑥「形成了……完整生产体系」宜把地点状语前置，用 developed... a complete system of 避免头重脚轻；⑦「讲究时令」用 is governed by the seasons；⑧末句两个谓语用 and 并列，时态用现在完成时。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

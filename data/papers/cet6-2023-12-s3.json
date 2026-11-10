@@ -1,0 +1,637 @@
+{
+  "id": "cet6-2023-12-s3",
+  "level": "CET6",
+  "year": 2023,
+  "month": 12,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether content produced by artificial intelligence should carry a human author's name. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nSigning for the Machine\n\nA photograph won a competition last year and was disqualified once the entrant admitted that the image had been generated. The episode was reported as a story about cheating. It is really a question about authorship, and it will not be settled by disqualifying a few people.\n\nTwo things are being confused. One is credit—who may say that a work is theirs. The other is responsibility—who answers when the work is wrong, defamatory or dangerous. Credit for a generated image belongs, if anywhere, to the person who wrote the prompt, chose among forty variants and decided that this one was finished. That is a real act of selection, though a thinner one than drawing.\n\nResponsibility, by contrast, cannot be shared with a model. A tool has no reputation to lose and nobody to sue. A label should therefore do more than name the human; it should state what the human did, and accept the consequences of having done it.\n\nThe alternative—a blanket ban on unlabelled generation—will fail as the technology becomes ordinary. What will survive is a convention closer to the one that governs photography: the picture is credited to a person, and that person is answerable for it.\n\n（约 200 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A third of the food on a European plate depends, at some point in its production, on an insect. Apples, almonds, courgettes and coffee all yield more when a bee has visited the flower first, and the service is provided free by creatures whose economic value is almost never counted. That is the first reason the decline went unnoticed for so long: the loss arrives as a 26______ fall in yield spread across hundreds of crops, not as a single visible disaster."
+            },
+            {
+              "label": "B",
+              "text": "The causes are now fairly well 27______, and they interact. A parasitic mite that feeds on larvae weakens colonies; a class of insecticides damages the navigation on which foragers 28______; the loss of hedgerows and wild flower margins removes the forage that would otherwise 29______ a colony through a lean June. None of these alone destroys an apiary. Together they leave it 30______ to a bad winter, and beekeepers report losses that no single factor explains."
+            },
+            {
+              "label": "C",
+              "text": "Wild pollinators matter more than the debate usually admits. Studies in several countries have found that a field with a diverse community of wild bees sets more fruit than one 31______ on rented hives, because different species forage in different weather. The policy 32______ to the crisis has nevertheless concentrated on honeybees, which are livestock: they can be bought, moved and insured, whereas a bumblebee species cannot. What is 33______ protecting, the argument runs, is the service, and honeybees are the part of the service that can be 34______."
+            },
+            {
+              "label": "D",
+              "text": "That reasoning is 35______ but incomplete. A hive delivered to an orchard does not replace the habitat that wild pollinators need for the rest of the year, and a landscape stripped of flowers will eventually fail to feed the hives as well. The cheapest remedy remains the least fashionable: put the hedges back, leave a margin uncultivated, and reduce the spraying that makes the margin useless."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "gradual" },
+                { "key": "B", "text": "abundant" },
+                { "key": "C", "text": "constant" },
+                { "key": "D", "text": "profitable" }
+              ],
+              "answer": "A",
+              "analysis": "gradual「渐进的、缓慢的」照应 not as a single visible disaster：损失分散在数百种作物上，是一点一点下降的，因此长期未被察觉。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "not as a single visible disaster"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "equal" },
+                { "key": "B", "text": "understood" },
+                { "key": "C", "text": "permanent" },
+                { "key": "D", "text": "visible" }
+              ],
+              "answer": "B",
+              "analysis": "are now fairly well understood「现已相当清楚」，后文随即逐一列举病因（螨虫、杀虫剂、栖息地丧失），是「已被理解」的具体展开。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "The causes are now fairly well ... and they interact"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "abundant" },
+                { "key": "B", "text": "permanent" },
+                { "key": "C", "text": "depend" },
+                { "key": "D", "text": "equal" }
+              ],
+              "answer": "C",
+              "analysis": "depend on 的介词已前置为 on which，故空处需动词原形 depend；采蜜蜂依赖的正是这套导航能力，杀虫剂损伤它便等于让蜂群迷失。",
+              "type": "搭配题",
+              "evidencePara": "B",
+              "evidenceText": "the navigation on which foragers ..."
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "constant" },
+                { "key": "B", "text": "equal" },
+                { "key": "C", "text": "profitable" },
+                { "key": "D", "text": "carry" }
+              ],
+              "answer": "D",
+              "analysis": "carry sb through sth「帮某人渡过（难关）」；花蜜与花粉正是让蜂群熬过六月缺蜜期的资源。",
+              "type": "搭配题",
+              "evidencePara": "B",
+              "evidenceText": "through a lean June"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "vulnerable" },
+                { "key": "B", "text": "permanent" },
+                { "key": "C", "text": "profitable" },
+                { "key": "D", "text": "visible" }
+              ],
+              "answer": "A",
+              "analysis": "leave it vulnerable to a bad winter「使其难以抵御严冬」；be vulnerable to 为固定搭配，且与「单独一个因素不致命、叠加起来就危险」的逻辑相合。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "None of these alone destroys an apiary"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "visible" },
+                { "key": "B", "text": "reliant" },
+                { "key": "C", "text": "constant" },
+                { "key": "D", "text": "equal" }
+              ],
+              "answer": "B",
+              "analysis": "one reliant on rented hives「一块依赖租用蜂箱的田」；be reliant on 与前半句 wild bees 的多样性形成对照。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "than one ... on rented hives"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "profitable" },
+                { "key": "B", "text": "visible" },
+                { "key": "C", "text": "response" },
+                { "key": "D", "text": "abundant" }
+              ],
+              "answer": "C",
+              "analysis": "the policy response to the crisis「对该危机的政策应对」；空处需名词，且被 to the crisis 修饰。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "The policy ... to the crisis"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "worth" },
+                { "key": "B", "text": "equal" },
+                { "key": "C", "text": "constant" },
+                { "key": "D", "text": "visible" }
+              ],
+              "answer": "A",
+              "analysis": "be worth doing「值得做」；What is worth protecting 作主语从句，意为「真正值得保护的（对象）」。",
+              "type": "搭配题",
+              "evidencePara": "C",
+              "evidenceText": "What is ... protecting, the argument runs, is the service"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "abundant" },
+                { "key": "B", "text": "managed" },
+                { "key": "C", "text": "equal" },
+                { "key": "D", "text": "constant" }
+              ],
+              "answer": "B",
+              "analysis": "can be managed 与前面的 livestock: they can be bought, moved and insured 呼应——蜜蜂之所以被优先保护，正因为它可被「管理」。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "they can be bought, moved and insured"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "abundant" },
+                { "key": "B", "text": "constant" },
+                { "key": "C", "text": "visible" },
+                { "key": "D", "text": "defensible" }
+              ],
+              "answer": "D",
+              "analysis": "defensible but incomplete「站得住脚但不完整」；作者先承认这种「保护可管理的部分」的思路有道理，再指出它忽略了栖息地。",
+              "type": "态度题",
+              "evidencePara": "D",
+              "evidenceText": "... but incomplete"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Governments were among the last institutions to move online and are now among the most ambitious. A driving licence, a tax return, a school place and a prescription can be handled through a single account in a growing number of countries, and the savings are not imaginary: Denmark estimates that an electronic transaction costs a small fraction of the paper equivalent, and that the aggregate effect amounts to a measurable share of public spending."
+            },
+            {
+              "label": "B",
+              "text": "The core of these systems is identity—not a password, but a claim about who a person is that other agencies will accept. Estonia built one on a chip card, India on fingerprints and iris scans for more than a billion people, and the European Union is now issuing wallets that hold credentials on a phone. The technical differences matter less than one design choice: whether the identifier is a number that every department shares, or a set of separate credentials, each revealing only what a given transaction requires."
+            },
+            {
+              "label": "C",
+              "text": "The efficiency case is rarely disputed. What is disputed is the assumption, built into most rollouts, that if a service can be delivered digitally it should be delivered only that way. Every channel removed is a saving on a budget line and a barrier for somebody who cannot use the one that remains. The barrier is not always a matter of competence; it may be a name that does not match the register, an address that no utility bill confirms, or a fingerprint that a labourer's hands no longer produce."
+            },
+            {
+              "label": "D",
+              "text": "Linkability is the second problem. A single identifier makes fraud easier to detect and, for precisely that reason, makes it possible to assemble a profile of a citizen that no department could have compiled alone: where they live, what they earn, which clinic they attended, what they searched for while claiming a benefit. Most laws forbid the sharing of such data in principle and permit it under a list of exceptions that lengthens every year. Once the architecture exists, the exception becomes the easy path."
+            },
+            {
+              "label": "E",
+              "text": "Breaches then become systemic rather than personal. When a retailer loses a database, the customer changes a password. When a national register is compromised, or merely misconfigured, no such remedy exists: a fingerprint cannot be reissued and a date of birth cannot be altered. Several governments have discovered this after the event, and the shape of their responses—a task force, an apology, a consultation on a new law—suggests that the risk was understood in the abstract but not in the design."
+            },
+            {
+              "label": "F",
+              "text": "None of this is an argument for keeping paper. It is an argument for two principles that are cheap to state and awkward to implement: that a digital identity should disclose the minimum each transaction requires, and that no essential service should be available only through it. The second is the harder, because the channel maintained for a minority is the channel that appears, in every spreadsheet, as waste."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Handling a transaction electronically costs far less than doing it on paper.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "A",
+              "analysis": "A 段：丹麦估算电子交易成本只是纸质交易的很小一部分，汇总起来相当于公共开支中可观的一块。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "an electronic transaction costs a small fraction of the paper equivalent"
+            },
+            {
+              "number": 37,
+              "stem": "Different countries have based their identity systems on very different technologies.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：爱沙尼亚用芯片卡，印度用指纹与虹膜，欧盟发行手机里的凭证钱包。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "Estonia built one on a chip card, India on fingerprints and iris scans"
+            },
+            {
+              "number": 38,
+              "stem": "How the system is designed matters more than which technology it uses.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：技术差异的重要性不如一个设计选择——是各部门共用一个编号，还是各自独立的凭证、每次只披露所需信息。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "The technical differences matter less than one design choice"
+            },
+            {
+              "number": 39,
+              "stem": "Closing a channel saves money and simultaneously shuts somebody out.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：每撤掉一个渠道，预算上省一笔，同时对无法使用剩余渠道的人构成一道障碍。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "a saving on a budget line and a barrier for somebody"
+            },
+            {
+              "number": 40,
+              "stem": "What keeps people out is not always a lack of skill.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：障碍未必是能力问题，可能是姓名与户籍册不符、住址没有水电账单可证、或劳动者的指纹已磨得无法识别。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "The barrier is not always a matter of competence"
+            },
+            {
+              "number": 41,
+              "stem": "One shared identifier makes possible a portrait no single agency could assemble.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：单一标识使跨部门拼出一个人的完整画像成为可能——住哪、挣多少、去过哪家诊所、申领补助时搜过什么。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "assemble a profile of a citizen that no department could have compiled alone"
+            },
+            {
+              "number": 42,
+              "stem": "Legal exceptions to data sharing tend to grow once the machinery is in place.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：法律原则上一律禁止共享，却允许一长串「例外」，而这份清单每年都在变长；架构一旦建成，走例外就成了方便之路。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "a list of exceptions that lengthens every year"
+            },
+            {
+              "number": 43,
+              "stem": "Some losses cannot be repaired by issuing a replacement.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：零售商丢数据库，改密码即可；国家级登记库一旦泄露，「指纹不能重发、出生日期不能更改」，补救手段根本不存在。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "a fingerprint cannot be reissued and a date of birth cannot be altered"
+            },
+            {
+              "number": 44,
+              "stem": "An identity system should reveal no more than a transaction needs.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "F",
+              "analysis": "F 段第一条原则：数字身份应只披露每笔交易所必需的最少信息。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "should disclose the minimum each transaction requires"
+            },
+            {
+              "number": 45,
+              "stem": "A channel kept open for a few users looks like waste in a budget.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：为少数人保留的渠道，在任何一张预算表上都显示为「浪费」，这正是第二条原则更难推行的原因。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "appears, in every spreadsheet, as waste"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The surgery modernised its appointment system two years ago, and the telephone line that used to reach a receptionist now reaches a recording advising patients to book online. For most of the population this is an improvement. For a woman of eighty-two without a smartphone it is the removal of the only door she knew how to open, and it is worth being precise about what has happened: nothing has been forbidden, and yet a service has become unavailable."
+            },
+            {
+              "label": "B",
+              "text": "Surveys usually report the gap as a question of access—who owns a device, who has a connection. That is the smaller half of it. The larger half is the number of services that have become digital by default, with a telephone number offered as a grudging exception and a counter closed altogether. A person may own a tablet and still be excluded, if every task requires an account, a password that expires, and a code sent to a phone left in another room."
+            },
+            {
+              "label": "C",
+              "text": "Design compounds the problem in ways that are rarely measured. A form that times out after ten minutes assumes a fast reader. A password rule that forbids the name of a grandchild assumes a memory for arbitrary strings. Text set at nine points assumes an eye that is thirty. None of these choices is malicious, and each is invisible to the person who made it, which is why testing a system with older users is the most effective reform available and the first to be cut when a project falls behind."
+            },
+            {
+              "label": "D",
+              "text": "The usual remedy is delegated. A son or a daughter is expected to act as an unpaid help desk, and this works, unevenly, at two costs. It transfers a public obligation onto a private relationship, and it opens the older person's affairs to a relative who may not be welcome in them. Advice to ask a family member is not a policy. It is an admission that the service has no plan for a third of the people who need it."
+            },
+            {
+              "label": "E",
+              "text": "What actually helps is unglamorous and already known. Keep a telephone line answered by a person. Keep one counter open. Design with older users rather than for them. Train staff to explain the step instead of taking the device and doing it themselves—the second is faster, and it teaches nothing. None of this is a retreat to paper. It is the recognition that a service is not modern because it is digital, but because it works for the people who have to use it."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "Why does the author describe the woman of eighty-two?",
+              "options": [
+                { "key": "A", "text": "To show that older patients prefer telephones to computers." },
+                { "key": "B", "text": "To illustrate how a service can disappear without being banned." },
+                { "key": "C", "text": "To argue that receptionists should be better paid." },
+                { "key": "D", "text": "To criticise the surgery for inefficiency." }
+              ],
+              "answer": "B",
+              "analysis": "A 段末：没有任何东西被明令禁止，服务却变得无法使用——这正是作者用这位老太太要说明的「隐性排除」。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "nothing has been forbidden, and yet a service has become unavailable"
+            },
+            {
+              "number": 47,
+              "stem": "What does 'the smaller half of it' refer to?",
+              "options": [
+                { "key": "A", "text": "Device ownership is only a part of the problem." },
+                { "key": "B", "text": "Fewer than half of older people own a phone." },
+                { "key": "C", "text": "Access surveys are usually badly designed." },
+                { "key": "D", "text": "Only a minority of services have gone online." }
+              ],
+              "answer": "A",
+              "analysis": "B 段：调查常把差距说成「接入」问题（有无设备、有无网络），而作者认为这只是「较小的一半」，更大的一半是「默认数字化」。",
+              "type": "词句含义题",
+              "evidencePara": "B",
+              "evidenceText": "report the gap as a question of access ... That is the smaller half of it"
+            },
+            {
+              "number": 48,
+              "stem": "Why do design failures persist?",
+              "options": [
+                { "key": "A", "text": "Because older users refuse to report them." },
+                { "key": "B", "text": "Because regulations require small text." },
+                { "key": "C", "text": "Because those who design the systems do not notice them." },
+                { "key": "D", "text": "Because testing with older users is too expensive." }
+              ],
+              "answer": "C",
+              "analysis": "C 段：这些选择并非出于恶意，而是「对做选择的人不可见」——三十岁的人看不出九号字的问题，因此与老年用户一起测试才如此关键。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "each is invisible to the person who made it"
+            },
+            {
+              "number": 49,
+              "stem": "What is the author's view of telling people to ask a relative?",
+              "options": [
+                { "key": "A", "text": "It is a reasonable long-term solution." },
+                { "key": "B", "text": "It moves a public duty into a private relationship." },
+                { "key": "C", "text": "It should be formalised in law." },
+                { "key": "D", "text": "It works equally well for everyone." }
+              ],
+              "answer": "B",
+              "analysis": "D 段：让子女充当「免费客服」把公共义务转嫁给私人关系，还可能把老人的事务暴露给并不受欢迎的家庭成员；作者直言「这不是政策，而是承认没有方案」。",
+              "type": "态度题",
+              "evidencePara": "D",
+              "evidenceText": "It transfers a public obligation onto a private relationship"
+            },
+            {
+              "number": 50,
+              "stem": "What is the central argument of the passage?",
+              "options": [
+                { "key": "A", "text": "Digital services should be abandoned for essential needs." },
+                { "key": "B", "text": "Older people must be taught to use smartphones." },
+                { "key": "C", "text": "A service is modern only if it works for all its users." },
+                { "key": "D", "text": "Family members should be paid for helping relatives." }
+              ],
+              "answer": "C",
+              "analysis": "E 段收束全文：服务之所以「现代」，不在于它是数字的，而在于它对其必须服务的人有效；作者提出的仍是保留人工电话、柜台与共同设计，而非回到纸质时代。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "not modern because it is digital, but because it works for the people who have to use it"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In California the almond bloom lasts about three weeks, and during those weeks the orchards need more honeybee colonies than the state contains. Roughly two million hives are trucked in from across the country, and the fee for a single colony in a good year can exceed two hundred dollars. This is the largest managed pollination market in the world, and the clearest example of a service that agriculture now buys rather than receives."
+            },
+            {
+              "label": "B",
+              "text": "The economics are simple. A grower who cannot rent enough hives loses yield within a window of days, so demand is inelastic and prices rise accordingly. Beekeepers, for their part, now earn more from migration than from honey, which changes what a beekeeping business is: the colony becomes a rental unit moved thousands of kilometres a year, and success is measured by survival through the season rather than by the quality of the honey it produces."
+            },
+            {
+              "label": "C",
+              "text": "The biological costs of the arrangement are only now being counted. Moving hives concentrates colonies from different regions in one place, which is an efficient way to distribute a parasite. The forage between blooms is often a monoculture or nothing at all, so colonies are kept alive on sugar syrup. And the same hives then travel to the next crop, carrying whatever they acquired on the way. Beekeepers report losses that would have ended a business in the honey era."
+            },
+            {
+              "label": "D",
+              "text": "Alternatives exist, cheaper in the long run and slower to establish. A hedgerow, a strip of wild flower or an unsprayed margin supports wild pollinators that work the orchard for nothing and remain in the area all year. Farms that have restored habitat report renting fewer hives, and the effect persists across seasons. The obstacle is that a margin left uncultivated produces no crop in the year it is created, and credit is rarely extended to a benefit that appears in year three."
+            },
+            {
+              "label": "E",
+              "text": "The market, in short, prices the hive and does not price the habitat. That is a familiar failure with a familiar remedy: pay for the habitat, through an agri-environment scheme, a levy on the rental of colonies, or a rule requiring a share of every holding to be left for pollinators. Until the habitat has a price, the cheapest thing for any individual grower to do will remain the thing that makes the system as a whole more fragile."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the almond bloom illustrate?",
+              "options": [
+                { "key": "A", "text": "That honey has become more valuable than almonds." },
+                { "key": "B", "text": "That pollination has become something farmers purchase." },
+                { "key": "C", "text": "That California has banned imported bees." },
+                { "key": "D", "text": "That wild pollinators have disappeared entirely." }
+              ],
+              "answer": "B",
+              "analysis": "A 段末：这是世界上最大的商业化授粉市场，最清楚地说明授粉已成「农业花钱购买」而非「自然免费获得」的服务。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "a service that agriculture now buys rather than receives"
+            },
+            {
+              "number": 52,
+              "stem": "How has the rental market changed beekeeping?",
+              "options": [
+                { "key": "A", "text": "Beekeepers have abandoned honey production altogether." },
+                { "key": "B", "text": "Colonies are valued mainly as units that can be moved and rented." },
+                { "key": "C", "text": "Hives are now kept permanently in one orchard." },
+                { "key": "D", "text": "Beekeepers earn less than they did from honey." }
+              ],
+              "answer": "B",
+              "analysis": "B 段：迁场收入已超过蜂蜜收入，蜂群因此变成一年奔波数千公里的「出租单元」，成功的标准也由蜜质变为「熬过一季」。注意原文说收入更高，D 项相反。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "the colony becomes a rental unit moved thousands of kilometres a year"
+            },
+            {
+              "number": 53,
+              "stem": "Why does moving hives encourage disease?",
+              "options": [
+                { "key": "A", "text": "Because transport weakens the bees' immune systems." },
+                { "key": "B", "text": "Because it brings colonies from many regions together." },
+                { "key": "C", "text": "Because sugar syrup carries infection." },
+                { "key": "D", "text": "Because orchards spray more when hives are present." }
+              ],
+              "answer": "B",
+              "analysis": "C 段：把不同地区的蜂群集中在同一处，正是「传播寄生虫的高效方式」；随后它们又带着所得奔赴下一片作物。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "concentrates colonies from different regions in one place, which is an efficient way to distribute a parasite"
+            },
+            {
+              "number": 54,
+              "stem": "Why is habitat restoration slow to spread?",
+              "options": [
+                { "key": "A", "text": "Because wild pollinators damage the crop." },
+                { "key": "B", "text": "Because the benefit arrives years before the cost." },
+                { "key": "C", "text": "Because it yields nothing in the first year and is hard to finance." },
+                { "key": "D", "text": "Because agri-environment schemes are illegal in most countries." }
+              ],
+              "answer": "C",
+              "analysis": "D 段：留出未耕的地边，当年就没有收成，而信贷很少愿意支持「第三年才见效」的收益——这正是恢复栖息地难以推广的原因。",
+              "type": "原因题",
+              "evidencePara": "D",
+              "evidenceText": "produces no crop in the year it is created"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's policy conclusion?",
+              "options": [
+                { "key": "A", "text": "Renting hives should be prohibited during the bloom." },
+                { "key": "B", "text": "The habitat, not only the hive, must be given a price." },
+                { "key": "C", "text": "Growers should keep their own colonies." },
+                { "key": "D", "text": "Almond production should move to other regions." }
+              ],
+              "answer": "B",
+              "analysis": "E 段：市场只给蜂箱定价、不给栖息地定价，因此解决之道是「为栖息地付费」（农业环境补贴、蜂群租赁税、留地比例规定）；否则单个农户最划算的做法，恰恰使整个系统更脆弱。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "prices the hive and does not price the habitat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n漆器是中国传统的手工艺品，以天然生漆涂饰木、竹等胎体而成。生漆取自漆树汁液，耐潮、耐热、耐腐蚀，涂饰后表面光润如玉。制作工序繁复，需反复髹涂、阴干和打磨，一件器物往往数月完成。早在七千年前中国已有漆器；战国秦汉时期，漆器工艺达到很高水平，广泛用于饮食器具、家具和礼仪用品。今天，漆器髹饰技艺已被列入国家级非物质文化遗产名录，并出现了与现代设计结合的作品。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nLacquerware is a traditional Chinese craft, made by coating bodies of wood or bamboo with natural lacquer. The lacquer is tapped from the lacquer tree; it resists damp, heat and corrosion, and once applied it gives a surface as smooth and glossy as jade. The production process is elaborate, requiring repeated coating, drying in a humid room and polishing, so that a single piece may take months to finish. Lacquerware existed in China as early as seven thousand years ago, and by the Warring States and Qin-Han periods the craft had reached a very high level, being widely used for eating and drinking vessels, furniture and ritual objects. Today the traditional technique of lacquer coating has been placed on the national list of intangible cultural heritage, and new works combining it with modern design have begun to appear.\n\n【要点】①「以……涂饰胎体」译为 coating bodies of wood or bamboo with natural lacquer，用 by + 动名词；②「生漆」为 raw/natural lacquer，取自漆树用 is tapped from the lacquer tree；③「耐潮、耐热、耐腐蚀」用 resists damp, heat and corrosion，一个动词带三个宾语，比 be resistant to 更简洁；④「髹涂、阴干、打磨」是三道工序，分别译 repeated coating、drying in a humid room、polishing，其中「阴干」不能直译为 dry in shade，须体现潮湿环境；⑤「战国秦汉时期」用 the Warring States and Qin-Han periods；⑥末句两处被动（被列入、相结合）分别用 has been placed on 与 combining... with，避免连续被动句。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

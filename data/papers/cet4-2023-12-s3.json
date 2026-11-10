@@ -1,0 +1,1093 @@
+{
+  "id": "cet4-2023-12-s3",
+  "level": "CET4",
+  "year": 2023,
+  "month": 12,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether college students should take a part-time job during term time. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nA Part-Time Job, Carefully Chosen\n\nWhether students should work during term time depends on the job and the hour. A weekend job in a bookshop or a lab assistant post is education; thirty hours a week in a warehouse is a way of failing a degree slowly.\n\nThe case for working is strong. A student who has been shouted at by a customer understands why a lecturer insists on deadlines, and a pay slip teaches more about money than any lecture on personal finance. Work also exposes students to people who did not go to university, which is useful in a country where most people did not.\n\nThe case against is simpler: time. A degree is a full-time job, and the students most likely to take long shifts are those with the least time to spare. The rule I would suggest is a limit, set in advance and written down: no more than twelve hours a week, never before an examination, and never at the cost of sleep.\n\n（约 165 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Twenty years ago a second-hand coat was something you hid; today it is a badge. The change is partly economic and partly 26______: buying used is presented as a small act of environmental responsibility. The numbers behind the trend are less 27______ than the slogans. Globally the resale market is growing far faster than the market for new clothes, and platforms that once served only students now 28______ thousands of tonnes of garments a year. The environmental case is real but 29______. A cotton T-shirt worn twice instead of a hundred times saves very little, because most of the energy is spent producing it rather than washing it. What matters is how long a garment stays in 30______. A study by a Swedish research institute found that doubling the active life of a jacket cut its climate impact by nearly half. Resale helps only when the buyer actually wears the thing."
+            },
+            {
+              "label": "B",
+              "text": "There is a second 31______. Cheap resale platforms have made it easy to buy more, not less: a shopper who sells a coat for twenty pounds may feel entitled to buy three more. Researchers call this the 32______ effect, and some studies suggest that the environmental gain from resale is partly cancelled by the extra purchases it encourages. The practical advice is unglamorous. Buy fewer things, choose 33______ that can be repaired, and visit a tailor before you visit a bin. Where resale clearly 34______ is in the quality of what is available: a well-made coat from 1995 is often better than a new one at twice the price. That is a 35______ argument for shopping second-hand, and it has nothing to do with saving the planet."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "cultural"
+                },
+                {
+                  "key": "B",
+                  "text": "chemical"
+                },
+                {
+                  "key": "C",
+                  "text": "personal"
+                },
+                {
+                  "key": "D",
+                  "text": "national"
+                }
+              ],
+              "answer": "A",
+              "analysis": "空处与 economic 并列，都说明这股潮流的成因；后文「买二手被说成一种环保责任」属于观念层面的变化，用 cultural。chemical 与语义无关；personal 只讲个人，无法解释社会风气的转变；national 指国家层面，范围过大。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "buying used is presented as a small act of environmental responsibility"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accurate"
+                },
+                {
+                  "key": "B",
+                  "text": "impressive"
+                },
+                {
+                  "key": "C",
+                  "text": "expensive"
+                },
+                {
+                  "key": "D",
+                  "text": "simple"
+                }
+              ],
+              "answer": "B",
+              "analysis": "下一句承认环保效果「真实但有限」——一件只穿两次的 T 恤几乎省不了能源，说明实际数据没有口号那么「漂亮、可观」，用 impressive。accurate 指数字是否准确，文中并未质疑统计；expensive、simple 与数据给人的观感无关。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "saves very little"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "produce"
+                },
+                {
+                  "key": "B",
+                  "text": "design"
+                },
+                {
+                  "key": "C",
+                  "text": "process"
+                },
+                {
+                  "key": "D",
+                  "text": "import"
+                }
+              ],
+              "answer": "C",
+              "analysis": "二手平台每年「处理」成千上万吨衣物，process 指收进、分拣、再售的整个流程。produce 指生产，二手平台不制造衣服；design 指设计；import 指进口，与平台业务不符。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "thousands of tonnes of garments a year"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "limited"
+                },
+                {
+                  "key": "B",
+                  "text": "recent"
+                },
+                {
+                  "key": "C",
+                  "text": "hidden"
+                },
+                {
+                  "key": "D",
+                  "text": "expensive"
+                }
+              ],
+              "answer": "A",
+              "analysis": "「real but ___」构成让步：环保理由是真实的，但作用「有限」；后两句用只穿两次的 T 恤为例说明节省很小。recent 与转折逻辑无关；hidden 指被隐藏，与「real」不构成对比；expensive 修饰 case 不合。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "A cotton T-shirt worn twice instead of a hundred times"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "storage"
+                },
+                {
+                  "key": "B",
+                  "text": "fashion"
+                },
+                {
+                  "key": "C",
+                  "text": "use"
+                },
+                {
+                  "key": "D",
+                  "text": "colour"
+                }
+              ],
+              "answer": "C",
+              "analysis": "「how long a garment stays in ___」与下一句 doubling the active life of a jacket 对应，指衣服被实际穿用的时间，stays in use 是固定表达。storage 指存放，与「active life」矛盾；fashion 指流行，不能说 stay in fashion 决定碳排放；colour 无关。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "doubling the active life of a jacket"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "benefit"
+                },
+                {
+                  "key": "B",
+                  "text": "catch"
+                },
+                {
+                  "key": "C",
+                  "text": "market"
+                },
+                {
+                  "key": "D",
+                  "text": "reason"
+                }
+              ],
+              "answer": "B",
+              "analysis": "前文讲好处，此处转向「第二个问题」：平台让人越买越多。There is a second catch 意为还有一个暗藏的问题，与后文「多买三件」的负面后果吻合。benefit 情感色彩相反；market、reason 引不出后面的反转。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "made it easy to buy more, not less"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "placebo"
+                },
+                {
+                  "key": "B",
+                  "text": "domino"
+                },
+                {
+                  "key": "C",
+                  "text": "network"
+                },
+                {
+                  "key": "D",
+                  "text": "rebound"
+                }
+              ],
+              "answer": "D",
+              "analysis": "卖旧衣获得的钱被用来买更多新衣，使原本的环保收益被抵消，这正是经济学中的「反弹效应」（rebound effect）。placebo 指安慰剂；domino 指多米诺骨牌式的连锁；network 指网络效应，都不能概括「省一点却多买三件」。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "partly cancelled by the extra purchases it encourages"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "colours"
+                },
+                {
+                  "key": "B",
+                  "text": "brands"
+                },
+                {
+                  "key": "C",
+                  "text": "garments"
+                },
+                {
+                  "key": "D",
+                  "text": "prices"
+                }
+              ],
+              "answer": "C",
+              "analysis": "「choose ___ that can be repaired」需要一个能被修补的具体物品，garments（衣物）与全文主题一致。colours、prices 是抽象属性，不能被 repair；brands 指品牌，也不能「被修补」。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "visit a tailor before you visit a bin"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "fails"
+                },
+                {
+                  "key": "B",
+                  "text": "wins"
+                },
+                {
+                  "key": "C",
+                  "text": "costs"
+                },
+                {
+                  "key": "D",
+                  "text": "ends"
+                }
+              ],
+              "answer": "B",
+              "analysis": "「Where resale clearly ___ is in the quality of what is available」说的是二手交易明显「胜出」的地方在于品质：1995 年的好大衣胜过价格翻倍的新衣。fails 与后文的称赞相反；costs、ends 与 in the quality 搭配不通。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "a well-made coat from 1995 is often better"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "moral"
+                },
+                {
+                  "key": "B",
+                  "text": "weak"
+                },
+                {
+                  "key": "C",
+                  "text": "political"
+                },
+                {
+                  "key": "D",
+                  "text": "practical"
+                }
+              ],
+              "answer": "D",
+              "analysis": "末句说这个理由「与拯救地球无关」，因此它不是道德层面的，而是实惠、好用的理由，用 practical。moral 恰好被后半句否定；weak 与「好大衣更划算」的正面论据矛盾；political 无从谈起。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "it has nothing to do with saving the planet"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The modern argument began in 2018 with a small experiment. A trust company in New Zealand gave its 240 staff an extra paid day off each week for two months, on the same salary, and asked researchers to measure the effect. Output did not fall. Staff reported lower stress and better focus, and the firm kept the arrangement. The study was tiny and the company was unusual, but the result was striking enough to be copied."
+            },
+            {
+              "label": "B",
+              "text": "The largest test came in Britain in 2022, when sixty-one companies employing about 2,900 people took part in a six-month pilot organised by 4 Day Week Global with researchers from Cambridge and Boston College. Revenue stayed broadly flat, rising slightly on average; resignations fell by more than half; and 92 per cent of the firms decided to continue. Most had started with the assumption that the scheme would fail."
+            },
+            {
+              "label": "C",
+              "text": "How does the work fit into four days? Not by working faster for ten hours. The companies that succeeded cut the parts of the week that produced nothing: meetings with no decision, email copied to everyone, reports nobody read. Several banned internal meetings on two days of the week. One firm replaced its morning briefing with a written note. The day off was the visible change; the invisible one was the removal of waste."
+            },
+            {
+              "label": "D",
+              "text": "Not every job can be compressed. A hospital ward, a factory line and a supermarket till need cover for fixed hours, whatever the contract says. For these workplaces the realistic version is shorter shifts or more staff, not a four-day week for the same pay. Iceland's public-sector trials between 2015 and 2019, covering about 2,500 workers, mostly moved people from forty hours to thirty-five or thirty-six, and the lesson there was about flexibility in rostering rather than about closing offices on Fridays."
+            },
+            {
+              "label": "E",
+              "text": "Japan offers a different kind of evidence. In the summer of 2019 Microsoft's Japanese subsidiary closed its offices on Fridays for a month and reported a jump of nearly 40 per cent in sales per employee, along with a large fall in electricity use. The figure is frequently quoted, but the trial lasted four weeks, the company sells software that supports remote work, and Japanese offices are known for meetings that could have been emails. The result is a demonstration of what can be cut, not a forecast for the economy."
+            },
+            {
+              "label": "F",
+              "text": "Sceptics raise three objections, and all three are reasonable. First, the firms that volunteer for a trial are already well managed, so the results may say more about them than about the schedule. Second, staff who know they are being studied tend to perform better for a while, whatever the policy. Third, and hardest to answer, productivity in knowledge work is difficult to measure at all; revenue per employee may rise simply because the least productive staff leave."
+            },
+            {
+              "label": "G",
+              "text": "What the trials do show is narrower than the headlines. A four-day week is not a right that can be granted by law to every trade; it is a management reform that forces a firm to ask what its week is actually for. The gains, where they appear, come from deleting pointless work rather than from the extra day itself. Firms that simply compress five days into four report stress, not relief—which is the strongest evidence that the method matters more than the calendar."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "A small firm kept its output while giving staff an extra day off.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：新西兰一家信托公司给 240 名员工每周多放一天带薪假，为期两个月，「产出没有下降」，员工压力更低、专注度更高。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "Output did not fall"
+            },
+            {
+              "number": 37,
+              "stem": "Nearly all the firms in a large pilot chose to keep the shorter week.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：2022 年英国 61 家企业参与的六个月试点中，92% 的企业决定继续实行。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "92 per cent of the firms decided to continue"
+            },
+            {
+              "number": 38,
+              "stem": "Income did not decline during the experiment.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：试点期间「营收基本持平，平均还略有上升」，同时离职率下降一半以上。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "Revenue stayed broadly flat"
+            },
+            {
+              "number": 39,
+              "stem": "Successful firms removed activities that added little value.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：成功的公司砍掉「不产生任何东西」的部分——没有决定的会议、抄送所有人的邮件、没人读的报告，并取消某些日子的内部会议。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "cut the parts of the week that produced nothing"
+            },
+            {
+              "number": 40,
+              "stem": "Some workplaces must be staffed for fixed hours and cannot compress the week.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：病房、流水线、超市收银台不论合同怎么写都需要固定时段的覆盖，现实做法是缩短单班或增加人手，而不是同样的薪水干四天。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "need cover for fixed hours"
+            },
+            {
+              "number": 41,
+              "stem": "A public-sector experiment involved a large number of employees but mainly reduced weekly hours.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：冰岛 2015—2019 年的公共部门试验覆盖约 2,500 名员工，多数人从每周 40 小时减到 35 或 36 小时，重点是排班的灵活性，而不是周五关门。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "covering about 2,500 workers"
+            },
+            {
+              "number": 42,
+              "stem": "One trial reported a very large rise in sales per employee.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：2019 年夏天微软日本分公司周五停业一个月，报告人均销售额上升近 40%，用电量大幅下降。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "a jump of nearly 40 per cent in sales per employee"
+            },
+            {
+              "number": 43,
+              "stem": "Critics doubt whether the improvement will last.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "F 段第二条质疑：知道自己被研究的员工「会在一段时间内表现更好」，即所谓霍桑效应，暗示效果未必持久。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "tend to perform better for a while"
+            },
+            {
+              "number": 44,
+              "stem": "Part of the evidence comes from groups that campaign for the change.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "F 段第一条质疑：自愿参加试点的公司本身管理就好；而 B 段也点明试点由 4 Day Week Global 这类倡导组织筹办，所以结果可能更多说明参与者而非制度。此处 F 段集中讨论样本自选问题。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "the firms that volunteer for a trial are already well managed"
+            },
+            {
+              "number": 45,
+              "stem": "The benefit comes from cutting waste rather than from the extra day off.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "G 段：收益来自「删掉无意义的工作」，而不是多出的那一天本身；硬把五天压成四天的公司报告的是压力而非轻松。C 段讲具体做法，G 段是概括结论。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "deleting pointless work rather than from the extra day"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The village clinic in Nujiang, Yunnan, has one doctor, two nurses and a screen. On a Tuesday morning a farmer comes in with a rash on both arms that has not improved for three weeks. The local doctor photographs the skin, uploads the images and a short history, and waits. Twelve minutes later a dermatologist in Kunming, four hundred kilometres away, appears on the screen, asks two questions, and suggests a change of treatment. The whole consultation costs thirty yuan. The return journey to the provincial hospital would have taken two days and about four hundred yuan."
+            },
+            {
+              "label": "B",
+              "text": "Telemedicine of this kind has expanded quickly. By 2021 more than 8,000 hospitals in China offered some form of online consultation, and the largest platforms handled millions of sessions a month during the pandemic, when many patients could not travel. The economics are straightforward: the expensive part of rural health care is not the doctor's time but the distance. A consultation that removes a six-hour bus journey saves the patient a day's wages, and it also frees a hospital bed in the city for someone who needs it."
+            },
+            {
+              "label": "C",
+              "text": "The limits are equally clear. A camera cannot press on an abdomen, and a photograph taken on a phone in poor light is not a scan. Regulations restrict what can be prescribed online, particularly for drugs that carry a risk of misuse. Elderly patients often need a nurse to hold the phone steady and to repeat the doctor's instructions in the local dialect. And the connection fails: in mountain counties the signal drops in rain, which is exactly when people cannot travel."
+            },
+            {
+              "label": "D",
+              "text": "The most promising use is not the emergency but the routine. Hypertension and diabetes require regular checks, and those checks can be done by a nurse with a blood-pressure cuff and a link to a specialist. A 2021 study of 1,200 patients in three rural counties found that the share whose blood pressure was under control rose from 38 to 61 per cent over eighteen months, with monthly video reviews and text reminders. The cost per patient was a fraction of a specialist visit, and no one had to leave the village."
+            },
+            {
+              "label": "E",
+              "text": "What telemedicine does not fix is the supply of doctors. A screen in a village is useless if there is no specialist at the other end, and the specialists are concentrated in cities for the same reasons as ever: pay, schools for their children, and the company of colleagues. Nor does it settle who is responsible when a diagnosis made at a distance turns out to be wrong. What it does change is the geography of ordinary care, and that alone is worth a great deal to a patient who has spent a lifetime travelling to be told that nothing is wrong."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the example in paragraph A show?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Remote consultation can save time and money for rural patients."
+                },
+                {
+                  "key": "B",
+                  "text": "Village doctors are better trained than city specialists."
+                },
+                {
+                  "key": "C",
+                  "text": "Skin diseases are common in mountain areas."
+                },
+                {
+                  "key": "D",
+                  "text": "Patients prefer machines to human doctors."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段用具体对比收尾：线上问诊 30 元、12 分钟见到昆明专家；去省医院要两天、约 400 元。B、D 属无据推论；C 只是引子，不是例子要说明的问题。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "The return journey to the provincial hospital would have taken two days"
+            },
+            {
+              "number": 47,
+              "stem": "According to paragraph B, what is the main cost of rural health care?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The salaries of specialists."
+                },
+                {
+                  "key": "B",
+                  "text": "The distance patients must travel."
+                },
+                {
+                  "key": "C",
+                  "text": "The price of medical equipment."
+                },
+                {
+                  "key": "D",
+                  "text": "The fees charged by online platforms."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：农村医疗「贵的不是医生的时间，而是距离」；一次问诊省掉六小时车程，也省掉病人一天的工资。A、C、D 原文均未列为「主要成本」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "not the doctor's time but the distance"
+            },
+            {
+              "number": 48,
+              "stem": "Which limitation of telemedicine is mentioned in paragraph C?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Doctors refuse to speak to elderly patients."
+                },
+                {
+                  "key": "B",
+                  "text": "It cannot replace a physical examination."
+                },
+                {
+                  "key": "C",
+                  "text": "It is more expensive than travelling."
+                },
+                {
+                  "key": "D",
+                  "text": "Patients distrust photographs of their skin."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段列举：镜头无法按压腹部，手机在弱光下拍的照片不等于影像检查，线上开药受限制，老人需要护士帮忙举手机，山区雨天信号中断——核心是查体与检查的缺失。A、D 属曲解；C 与 B 段的成本对比相反。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "A camera cannot press on an abdomen"
+            },
+            {
+              "number": 49,
+              "stem": "What did the 2021 study of rural patients find?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Monthly video reviews improved blood-pressure control."
+                },
+                {
+                  "key": "B",
+                  "text": "Most patients stopped taking their medicine."
+                },
+                {
+                  "key": "C",
+                  "text": "Specialist visits became more frequent."
+                },
+                {
+                  "key": "D",
+                  "text": "Text reminders had no measurable effect."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：三个县 1,200 名患者，在每月视频复诊与短信提醒下，血压达标率十八个月内从 38% 升到 61%，人均成本远低于一次专家门诊。B、C、D 与原文数据方向相反。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "rose from 38 to 61 per cent"
+            },
+            {
+              "number": 50,
+              "stem": "What point does the author make in the last paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Telemedicine will soon replace rural clinics."
+                },
+                {
+                  "key": "B",
+                  "text": "Technology cannot create the specialists it needs."
+                },
+                {
+                  "key": "C",
+                  "text": "Remote diagnosis carries no legal risk."
+                },
+                {
+                  "key": "D",
+                  "text": "Patients distrust advice given on a screen."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：远程医疗解决不了医生供给——村里有屏，另一端没有专家也没用；专家仍因薪酬、子女上学、同行环境聚集在城市，且远程误诊的责任归属未定。C 与「未解决责任问题」相反。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "What telemedicine does not fix is the supply of doctors"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2014 two psychologists at Princeton published a study that became one of the most quoted findings in education. They asked 327 students to watch lectures and take notes either by hand or on a laptop, then tested them on factual recall and on their understanding of concepts. The laptop group wrote more words, but the handwriting group did better on the conceptual questions. The explanation offered was that students who type tend to transcribe lectures word for word, while those who write must select and rephrase, because they cannot keep up."
+            },
+            {
+              "label": "B",
+              "text": "The finding has not travelled well. A 2019 attempt to repeat the experiment with more than 500 students found the advantage of handwriting much smaller, and in some conditions absent. Reviews of the wider literature reach a similar conclusion: the average effect is positive but modest, and the studies are often small, short and conducted in one country. The problem with the original study, critics note, is that it compared longhand with verbatim typing, not with good typing."
+            },
+            {
+              "label": "C",
+              "text": "What seems to matter is not the tool but the mental work. Students who paraphrase, draw diagrams or write questions in the margin remember more than students who copy a slide, whether they use a pen or a keyboard. Teachers who ban laptops sometimes report better discussion, but the change may come from the removal of distraction rather than from the pen. A well-used laptop, with the slides closed and the notes written in the student's own words, is not obviously worse than a notebook."
+            },
+            {
+              "label": "D",
+              "text": "For young children the evidence is stronger. A 2012 study at Indiana University scanned the brains of pre-literate five-year-olds before and after they learned letters. Children who practised writing by hand showed activation in the reading network that typing children did not. A Norwegian study in 2020, using sensors on the heads of twelve-year-olds, found more communication between brain regions during handwriting than during typing. Neither result proves that handwriting makes children read better, but both suggest that the movement of the hand is doing something."
+            },
+            {
+              "label": "E",
+              "text": "The sensible conclusion for a school is not to ban keyboards, which would be as odd as banning pencils in 1950. It is to teach note-taking as a skill: when to copy, when to summarise, when to stop writing and listen. The debate about pens and laptops is easier to have than the debate about how students actually learn, which is why it attracts so much attention. The tool is visible; the thinking is not."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What did the 2014 study find?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Laptop users remembered more facts."
+                },
+                {
+                  "key": "B",
+                  "text": "Handwriters did better on conceptual questions."
+                },
+                {
+                  "key": "C",
+                  "text": "Handwriters wrote more words."
+                },
+                {
+                  "key": "D",
+                  "text": "Neither group understood the lecture."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：手写组在概念性问题上表现更好；用电脑的人写得更多，但在事实记忆上没有优势。C 说反了（字数多的是电脑组）；A、D 与原文不符。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the handwriting group did better on the conceptual questions"
+            },
+            {
+              "number": 52,
+              "stem": "What is the main criticism of the 2014 study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It used too many students."
+                },
+                {
+                  "key": "B",
+                  "text": "It compared handwriting with a poor way of typing."
+                },
+                {
+                  "key": "C",
+                  "text": "It was not published in a journal."
+                },
+                {
+                  "key": "D",
+                  "text": "It tested only science students."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：原研究比较的是手写与「逐字记录式的打字」，而不是与良好的打字方式相比，所以结论被夸大；2019 年五百多人的重复实验发现手写优势小得多。A 与「样本小」的批评相反。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "it compared longhand with verbatim typing, not with good typing"
+            },
+            {
+              "number": 53,
+              "stem": "What does paragraph C suggest actually improves learning?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The physical act of holding a pen."
+                },
+                {
+                  "key": "B",
+                  "text": "Processing the material in one's own way."
+                },
+                {
+                  "key": "C",
+                  "text": "Banning laptops from classrooms."
+                },
+                {
+                  "key": "D",
+                  "text": "Writing down every word of the lecture."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段首句：重要的不是工具而是「脑力工作」——改写、画图、在页边写问题的学生记得更多，无论用笔还是键盘；禁止电脑带来的改善可能只是去掉了干扰。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "What seems to matter is not the tool but the mental work"
+            },
+            {
+              "number": 54,
+              "stem": "What do the studies of children suggest?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Handwriting may engage brain areas used in reading."
+                },
+                {
+                  "key": "B",
+                  "text": "Children should not use keyboards before ten."
+                },
+                {
+                  "key": "C",
+                  "text": "Typing delays the development of handwriting."
+                },
+                {
+                  "key": "D",
+                  "text": "Brain scans cannot measure learning."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：印第安纳大学 2012 年研究发现练手写的学龄前儿童在阅读相关脑区出现激活，挪威 2020 年研究也发现手写时脑区交流更多；作者谨慎表示这不能证明手写让孩子读得更好，但说明「手的动作确实在起作用」。B 属过度推论；C、D 原文未提。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "activation in the reading network"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's conclusion?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Keyboards should be banned in primary schools."
+                },
+                {
+                  "key": "B",
+                  "text": "Note-taking should be taught as a skill."
+                },
+                {
+                  "key": "C",
+                  "text": "Handwriting should replace typing in exams."
+                },
+                {
+                  "key": "D",
+                  "text": "The debate about tools has been settled."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：明智的结论不是禁键盘（那和在 1950 年禁铅笔一样奇怪），而是把记笔记当作一项技能来教——何时抄、何时概括、何时停下听。A 与原文相反；D 与「争论未定」的语气矛盾。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "teach note-taking as a skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n春运是中国每年规模最大的人口流动。春节之前，数以亿计的人从工作的城市返回家乡，与家人团聚；节日过后，他们又陆续返回。在四十天左右的时间里，铁路、公路和民航要运送数十亿人次。为了满足需求，铁路部门会加开大量临时列车，一些城市还会延长地铁的运营时间。近年来，越来越多的人选择自驾或乘飞机回家，但火车票在许多人心目中依然是「回家」的象征。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe Spring Festival travel rush is the largest movement of people in China each year. Before the festival, hundreds of millions of people return from the cities where they work to their home towns to reunite with their families; after the holiday they gradually travel back. In a period of about forty days, the railways, highways and airlines carry billions of passenger trips. To meet demand, the railway authorities add a large number of temporary trains, and some cities extend the running hours of the underground. In recent years more and more people have chosen to drive or fly home, but for many the train ticket is still the symbol of 'going home'.\n\n【要点】①「春运」可译 the Spring Festival travel rush；②「数以亿计」用 hundreds of millions of，注意与「数十亿人次」billions of passenger trips 区分；③「加开临时列车」用 add temporary trains；④「延长运营时间」用 extend the running hours；⑤「依然是……的象征」用 is still the symbol of，时态用一般现在时。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "id": "cet4-2022-12-s2",
+  "level": "CET4",
+  "year": 2022,
+  "month": 12,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on how college students can deal with the stress of exams. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nHow College Students Can Deal with Exam Stress\n\nExam stress is not a sign that something is wrong with a student. It is what a body does when the result matters, and a certain amount of it improves attention. The problem begins when worry replaces work.\n\nThree habits help. The first is to replace the vague question \"Will I pass?\" with a list of tasks that can be finished today: one chapter, twenty words, two past papers. A student who is doing something specific has less room to imagine disaster. The second is to keep the body steady—sleep at a regular hour, eat breakfast, and walk outside for twenty minutes, especially in the week before the exam. The third is to talk. A short conversation with a classmate usually reveals that everyone is behind, which is oddly comforting and often produces a study partner.\n\nStress cannot be removed from examination halls, and it should not be. It can be kept in proportion, and proportion is something students can practise.\n\n（约 170 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Online shopping has changed the shape of the street. A van stops outside the same door three times a day, and a delivery that nobody answers becomes a second attempt tomorrow. Parcel lockers were meant to 26______ that waste. A bank of metal boxes beside a supermarket holds parcels until a code arrives on the customer's phone. The system works best where 27______ is high: in a dense district, one locker can 28______ deliveries for several hundred households, and a courier's round becomes a single stop instead of forty. In suburbs, where people are 29______ at home in the afternoon, the locker saves less."
+            },
+            {
+              "label": "B",
+              "text": "There are 30______ too. A locker is useful only if it is a short walk away, and the machines 31______ space on the pavement that was meant for people. Thieves have learned that a code sent by text can be 32______; some customers arrive to find an empty box. Retailers, meanwhile, are 33______ the locker as a small shop. A few now accept returns through the same boxes, and one chain 34______ a small fee for the service. For the courier companies the arithmetic is simple: a failed delivery costs more than the 35______ of a locker, so the boxes spread even where customers never asked for them."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {"key": "A", "text": "reduce"},
+                {"key": "B", "text": "record"},
+                {"key": "C", "text": "describe"},
+                {"key": "D", "text": "replace"}
+              ],
+              "answer": "A",
+              "analysis": "前文说无人签收就要第二天再送一趟，这是浪费；快递柜的本意是「减少」这种浪费。reduce waste 搭配自然。record（记录）、describe（描述）与浪费无关，replace 后缺宾语，无法与 that waste 搭配。",
+              "type": "动词辨析",
+              "evidencePara": "A",
+              "evidenceText": "a delivery that nobody answers becomes a second attempt"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {"key": "A", "text": "density"},
+                {"key": "B", "text": "income"},
+                {"key": "C", "text": "quality"},
+                {"key": "D", "text": "loyalty"}
+              ],
+              "answer": "A",
+              "analysis": "冒号后用 in a dense district 解释，且后文对比郊区效果更差，说明柜子最适合人口「密度」高的地方。income、quality、loyalty 都无法与 dense district 形成解释关系。",
+              "type": "名词辨析",
+              "evidencePara": "A",
+              "evidenceText": "in a dense district"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {"key": "A", "text": "handle"},
+                {"key": "B", "text": "compare"},
+                {"key": "C", "text": "refuse"},
+                {"key": "D", "text": "divide"}
+              ],
+              "answer": "A",
+              "analysis": "一个柜子要「处理」几百户的包裹，配送员的一趟线因此从四十个停靠点变成一个；handle deliveries 意为承接、处理。compare、refuse、divide 都与「承接数量」的意思不符。",
+              "type": "动词辨析",
+              "evidencePara": "A",
+              "evidenceText": "for several hundred households"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {"key": "A", "text": "rarely"},
+                {"key": "B", "text": "usually"},
+                {"key": "C", "text": "proudly"},
+                {"key": "D", "text": "recently"}
+              ],
+              "answer": "A",
+              "analysis": "郊区住户下午在家的少，所以柜子「省不了多少」，与上句城区效果好形成对比；rarely at home 正是无人签收的原因。usually 与常识相反，proudly、recently 与在家频率无关。",
+              "type": "副词辨析",
+              "evidencePara": "A",
+              "evidenceText": "the locker saves less"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {"key": "A", "text": "drawbacks"},
+                {"key": "B", "text": "prices"},
+                {"key": "C", "text": "customers"},
+                {"key": "D", "text": "holidays"}
+              ],
+              "answer": "A",
+              "analysis": "后文列举占地、取件码被盗、空箱等问题，说明这一段讲的是「缺点」，There are drawbacks too 承上启下。prices、customers 不与「还有……问题」的转折结构搭配，holidays 无关。",
+              "type": "名词辨析",
+              "evidencePara": "B",
+              "evidenceText": "some customers arrive to find an empty box"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {"key": "A", "text": "occupy"},
+                {"key": "B", "text": "clean"},
+                {"key": "C", "text": "measure"},
+                {"key": "D", "text": "warm"}
+              ],
+              "answer": "A",
+              "analysis": "机器「占用」本应属于行人的路面空间，occupy space 是常用搭配，也与前文人行道安全话题衔接。clean、measure、warm 都不能表达与行人争地的含义。",
+              "type": "动词辨析",
+              "evidencePara": "B",
+              "evidenceText": "space on the pavement that was meant for people"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {"key": "A", "text": "stolen"},
+                {"key": "B", "text": "printed"},
+                {"key": "C", "text": "delayed"},
+                {"key": "D", "text": "repeated"}
+              ],
+              "answer": "A",
+              "analysis": "冒号后说顾客到场只看到空箱，说明短信里的取件码被「窃取」后冒用。printed、delayed、repeated 都无法解释箱子被清空的结果。",
+              "type": "动词辨析",
+              "evidencePara": "B",
+              "evidenceText": "some customers arrive to find an empty box"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {"key": "A", "text": "treating"},
+                {"key": "B", "text": "hiding"},
+                {"key": "C", "text": "blaming"},
+                {"key": "D", "text": "weighing"}
+              ],
+              "answer": "A",
+              "analysis": "后文说少数商家已接受通过同一批柜子退货，说明零售商把柜子「当作」小店使用；treat sth as… 是固定结构，用现在分词与 are 构成进行时。hiding、blaming、weighing 都无法与 as a small shop 搭配。",
+              "type": "动词辨析",
+              "evidencePara": "B",
+              "evidenceText": "accept returns through the same boxes"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {"key": "A", "text": "charges"},
+                {"key": "B", "text": "refunds"},
+                {"key": "C", "text": "avoids"},
+                {"key": "D", "text": "lends"}
+              ],
+              "answer": "A",
+              "analysis": "连锁商家对这项服务「收取」少量费用，charge a fee 是固定搭配，与上文柜子被当作店铺商业化一致。refund（退还）方向相反，avoids、lends 无法与 a small fee 搭配。",
+              "type": "动词辨析",
+              "evidencePara": "B",
+              "evidenceText": "a small fee for the service"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {"key": "A", "text": "cost"},
+                {"key": "B", "text": "weight"},
+                {"key": "C", "text": "colour"},
+                {"key": "D", "text": "address"}
+              ],
+              "answer": "A",
+              "analysis": "句子的比较对象是「一次投递失败的花费」与「一个柜子的成本」，cost 与 costs more 形成对照。weight、colour、address 都不是可以与投递失败相提并论的支出项。",
+              "type": "名词辨析",
+              "evidencePara": "B",
+              "evidenceText": "a failed delivery costs more"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In most university cities, rent has risen faster than the money students receive. Grants have been replaced by loans in several countries, and the shortfall is met by working, by living further out, or by paying more for less space. At the same time, purpose-built student blocks have replaced the shared houses that once accommodated the majority."
+            },
+            {
+              "label": "B",
+              "text": "The shortage can be counted. In one Dutch city the waiting list for a student room passed twenty thousand in 2023, and applicants were advised to accept a place only if they had somewhere to live. In parts of Dublin and Lisbon, a room in a shared flat now costs more than a junior salary, which is why some graduates continue to live with their parents."
+            },
+            {
+              "label": "C",
+              "text": "What gets built is shaped by what earns. A studio with its own kitchen and bathroom produces a higher rent per square metre than a six-bedroom shared house, and it needs less management. Investors therefore build studios, while the cheapest form of student housing—four friends sharing a kitchen—is the form that almost nobody finances."
+            },
+            {
+              "label": "D",
+              "text": "The effect on neighbourhoods is mixed. Concentrating thousands of students in towers can support cafes, laundries and bookshops, but it can also empty streets in the holidays and push families out as houses are converted into small flats. In one district the primary school closed in the same year that three student blocks opened within four hundred metres."
+            },
+            {
+              "label": "E",
+              "text": "Universities are partly responsible and partly constrained. Some guarantee a room to first-year students only, and build on land they already own; others have expanded their intake faster than their building programmes. A few have begun to rent private flats on long leases and sublet them to students, which steadies prices for those students but removes flats from the open market."
+            },
+            {
+              "label": "F",
+              "text": "Students adapt in ways that damage their studies. Those who stay at home spend two or three hours a day travelling; those who pay high rents take extra shifts at work. Both groups report less time for reading, and both are more likely to consider leaving the course altogether."
+            },
+            {
+              "label": "G",
+              "text": "The policies under discussion are unglamorous: requiring a share of cheaper rooms in new blocks, taxing homes that are left empty, and letting universities borrow cheaply to build. None of them will produce a room for next term, which is exactly why they are politically unattractive, and exactly why they are the only measures that change the total."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Rents have risen faster than students' income.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "A",
+              "analysis": "A 段首句：在大多数学府城市，房租上涨快于学生所得；助学金被贷款取代，缺口靠打工、住得更远或花更多钱住更小的地方来补。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "rent has risen faster than the money students receive"
+            },
+            {
+              "number": 37,
+              "stem": "Investors prefer studios because they bring in more rent per square metre.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "C",
+              "analysis": "C 段：带独立厨卫的单间每平方米租金高于六人合租房，管理也更省事，所以投资者只建单间；最便宜的四友合租反而无人融资。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "a higher rent per square metre"
+            },
+            {
+              "number": 38,
+              "stem": "One city's waiting list for student rooms exceeded twenty thousand.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "B",
+              "analysis": "B 段：2023 年荷兰某城市学生住房等待名单超过两万人，申请人被建议「先有住处再接受录取」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "passed twenty thousand in 2023"
+            },
+            {
+              "number": 39,
+              "stem": "Some universities can house only their newest students.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "E",
+              "analysis": "E 段：一些大学只保证为一年级学生提供宿舍（guarantee a room to first-year students only），其余靠自建或长期租下私房转租。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "guarantee a room to first-year students only"
+            },
+            {
+              "number": 40,
+              "stem": "Long journeys and extra work reduce the time students have for study.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "F",
+              "analysis": "F 段：住家里的学生每天通勤两三小时，付高房租的学生要多排班；两组都报告阅读时间减少，更可能考虑退课。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "less time for reading"
+            },
+            {
+              "number": 41,
+              "stem": "Some proposals would require cheaper rooms in new developments.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "G",
+              "analysis": "G 段：讨论中的政策包括要求新楼盘配建一定比例更便宜的房间、对空置房征税、让大学低息贷款自建。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "requiring a share of cheaper rooms in new blocks"
+            },
+            {
+              "number": 42,
+              "stem": "Families have moved out as houses were converted for students.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "D",
+              "analysis": "D 段：学生集中在高楼里，假期街道变空，房屋被改成小套间后家庭被挤走；某区在四百米内开出三栋学生公寓的同一年，小学关闭了。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "push families out as houses are converted"
+            },
+            {
+              "number": 43,
+              "stem": "Shared houses have been replaced by purpose-built blocks.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "A",
+              "analysis": "A 段末：专门建造的学生公寓楼已经取代了曾经容纳多数学生的合租房（purpose-built student blocks have replaced the shared houses）。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "have replaced the shared houses"
+            },
+            {
+              "number": 44,
+              "stem": "Students who live with their parents spend hours travelling.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "F",
+              "analysis": "F 段首句：留在家里住的学生每天通勤两三个小时（spend two or three hours a day travelling）。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "spend two or three hours a day travelling"
+            },
+            {
+              "number": 45,
+              "stem": "Construction has not kept pace with the growth in student numbers.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "E",
+              "analysis": "E 段：有的大学招生规模扩大快于建设计划（expanded their intake faster than their building programmes），这是供给不足的原因之一。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "expanded their intake faster than their building programmes"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "About three quarters of the world's main food crops depend at least partly on animal pollination, and insects do most of that work. In parts of Europe and North America, the number of wild bees has fallen, and beekeepers report losing more colonies than they did twenty years ago. Because the losses are patchy, it has been easy for governments to treat them as a local problem. A long-running survey suggests otherwise."
+            },
+            {
+              "label": "B",
+              "text": "In 2017, a study of sixty-three nature reserves in Germany reported that the total weight of flying insects caught in traps had fallen by seventy-six percent over twenty-seven years. The reserves were protected areas, which made the finding harder to explain away: if insects were disappearing even there, the cause was unlikely to be a single field or a single pesticide."
+            },
+            {
+              "label": "C",
+              "text": "Researchers now describe a set of causes acting together. Farmland has lost the wild flowers and hedges that once fed insects between crops. Pesticides weaken colonies and affect their ability to find their way home. Diseases spread between managed and wild bees, and warmer winters disturb the timing of emergence, so insects appear before the plants they feed on."
+            },
+            {
+              "label": "D",
+              "text": "Farmers have tried several remedies. Strips of flowers along field edges help, and so does mowing less often. Wooden \"bee hotels\", however, have become the most popular and the least effective: they attract a few species, often the common ones, and can spread disease if they are not cleaned. Researchers describe them as a gesture rather than a solution."
+            },
+            {
+              "label": "E",
+              "text": "The measure that seems to work is payment for habitat. Schemes that pay farmers to keep flower margins, hedges and rough grass for several years produce measurable gains, partly because they are long enough for slow species to return. Cities matter too: gardens, railway edges and road verges can join up small populations. But the authors are blunt that such schemes are worth little unless someone counts the insects afterwards."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What do we learn about pollination in the first paragraph?",
+              "options": [
+                {"key": "A", "text": "Most major crops depend at least partly on it."},
+                {"key": "B", "text": "It is done mainly by managed honeybees."},
+                {"key": "C", "text": "Its importance has been overstated by researchers."},
+                {"key": "D", "text": "It has already failed in parts of Europe."}
+              ],
+              "answer": "A",
+              "analysis": "A 段首句：世界上约四分之三的主要粮食作物至少部分依赖动物授粉，而昆虫承担了大部分工作。B 与「insects do most of that work」不符；C、D 原文没有。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "three quarters of the world's main food crops"
+            },
+            {
+              "number": 47,
+              "stem": "Why was the 2017 German study particularly worrying?",
+              "options": [
+                {"key": "A", "text": "It measured insects in farmland rather than reserves."},
+                {"key": "B", "text": "The losses occurred even in protected areas."},
+                {"key": "C", "text": "It covered only one species of bee."},
+                {"key": "D", "text": "The traps were placed in cities."}
+              ],
+              "answer": "B",
+              "analysis": "B 段：研究在 63 个自然保护区进行，27 年间飞虫总重量下降 76%；正因为是保护区，更难把原因推给某块田或某种农药。A 与「nature reserves」相反，C、D 无据。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "The reserves were protected areas"
+            },
+            {
+              "number": 48,
+              "stem": "How do researchers describe the causes of the decline?",
+              "options": [
+                {"key": "A", "text": "One pesticide is responsible for most of it."},
+                {"key": "B", "text": "Several factors work together."},
+                {"key": "C", "text": "Climate change is the only cause."},
+                {"key": "D", "text": "The causes remain completely unknown."}
+              ],
+              "answer": "B",
+              "analysis": "C 段首句：研究者认为是「一组原因共同作用」——农田失去野花与树篱、农药削弱蜂群、疾病传播、暖冬打乱羽化时间。A、C 把多因简化为单一原因，D 与整段列举矛盾。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "a set of causes acting together"
+            },
+            {
+              "number": 49,
+              "stem": "What does the text say about wooden \"bee hotels\"?",
+              "options": [
+                {"key": "A", "text": "They are the most effective remedy available."},
+                {"key": "B", "text": "They attract rare species that need help."},
+                {"key": "C", "text": "They bring limited benefit and may spread disease."},
+                {"key": "D", "text": "They have replaced flower strips on most farms."}
+              ],
+              "answer": "C",
+              "analysis": "D 段：木制「蜂旅馆」最受欢迎却最无效，吸引的多是常见种，不清理还可能传播疾病，研究者称之为「姿态而非解决方案」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "can spread disease if they are not cleaned"
+            },
+            {
+              "number": 50,
+              "stem": "What condition do the authors set for habitat schemes?",
+              "options": [
+                {"key": "A", "text": "They must last long enough and be followed by monitoring."},
+                {"key": "B", "text": "They must be limited to protected reserves."},
+                {"key": "C", "text": "They must replace all pesticide use immediately."},
+                {"key": "D", "text": "They must be paid for by city governments."}
+              ],
+              "answer": "A",
+              "analysis": "E 段：付费保留栖息地的方案有效，部分原因是期限够长（long enough for slow species to return）；作者同时直言，事后若无人统计昆虫，这些方案价值不大。B 与「城市也重要」矛盾，C、D 无据。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "unless someone counts the insects afterwards"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "It is widely believed that children learn languages effortlessly while adults cannot. The evidence is more interesting than the saying. Children do have an advantage, but it is narrow: they are far more likely to end up sounding like native speakers. Adults, by contrast, usually keep an accent, yet in the first months of study they learn grammar and vocabulary faster than children do."
+            },
+            {
+              "label": "B",
+              "text": "The largest test of this question came from an online grammar quiz taken by more than six hundred thousand people. Those who had begun learning a language in childhood scored highest in the long run, but the advantage came from years of practice rather than from youth alone. Performance rose steeply for people who started before about seventeen, then flattened—a pattern consistent with a sensitive period that closes in late adolescence."
+            },
+            {
+              "label": "C",
+              "text": "Adults bring tools that children lack. They know how to study, they can use a grammar rule once it is explained, and they usually have a reason for learning—a job, a partner's family, a move abroad. What they lack is time. Research on adult learners finds that twenty minutes a day produces better results than three hours on Sunday, largely because memory needs repetition spread across days."
+            },
+            {
+              "label": "D",
+              "text": "Teaching should reflect these differences. Adult classes that explain a rule and then practise it in realistic situations—ordering food, telephoning an office—work well, because adults want to use the language soon. Children need play, songs and stories, and they need exposure rather than explanation; a rule explained to a seven-year-old is usually forgotten by the afternoon."
+            },
+            {
+              "label": "E",
+              "text": "The practical conclusion is encouraging for anyone starting late. Adults can reach a high level of fluency, reading speed and range of expression; what they will probably keep is an accent, which matters less than many learners fear. The limit is not age but hours, and hours are something an adult can choose to arrange."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What is the common belief about language learning?",
+              "options": [
+                {"key": "A", "text": "Adults learn faster than children in every way."},
+                {"key": "B", "text": "Children learn easily and adults cannot."},
+                {"key": "C", "text": "Only children can learn a second language."},
+                {"key": "D", "text": "Accent is impossible for anyone to change."}
+              ],
+              "answer": "B",
+              "analysis": "A 段首句：人们普遍认为儿童学语言毫不费力，而成人学不会。C 是这一说法的极端化，D 是另一话题且原文说成人通常保留口音、而非「任何人都无法改变」。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "children learn languages effortlessly while adults cannot"
+            },
+            {
+              "number": 52,
+              "stem": "What did the large online quiz reveal?",
+              "options": [
+                {"key": "A", "text": "Starting before seventeen brought a clear advantage."},
+                {"key": "B", "text": "Age made no difference at all."},
+                {"key": "C", "text": "People who started as adults scored highest."},
+                {"key": "D", "text": "Practice mattered less than talent."}
+              ],
+              "answer": "A",
+              "analysis": "B 段：在约十七岁前开始学的人成绩上升最陡，之后趋于平缓，符合「敏感期在青春期后期关闭」的模式。B 与整段结论相反，C 与「童年开始者长期得分最高」相反，D 原文强调多年练习。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "started before about seventeen, then flattened"
+            },
+            {
+              "number": 53,
+              "stem": "What advantage do adult learners have?",
+              "options": [
+                {"key": "A", "text": "They imitate sounds more accurately."},
+                {"key": "B", "text": "They can apply rules once explained."},
+                {"key": "C", "text": "They have far more free time than children."},
+                {"key": "D", "text": "They forget their first language easily."}
+              ],
+              "answer": "B",
+              "analysis": "C 段：成人知道如何学习，规则一讲就能运用，而且通常有明确的动机；他们缺的恰恰是时间。A 与「成人通常保留口音」相反，C 与「What they lack is time」矛盾。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "they can use a grammar rule once it is explained"
+            },
+            {
+              "number": 54,
+              "stem": "What kind of teaching suits adult learners?",
+              "options": [
+                {"key": "A", "text": "Songs and stories with no explanation."},
+                {"key": "B", "text": "Long sessions once a week."},
+                {"key": "C", "text": "Rule explanation followed by realistic practice."},
+                {"key": "D", "text": "Memorising lists of words without context."}
+              ],
+              "answer": "C",
+              "analysis": "D 段：成人课先讲规则、再在点餐、打电话等真实情境中练习最有效，因为成人希望尽快用上；B 与 C 段「每天二十分钟优于周日三小时」相反，A 是给儿童的方式。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "explain a rule and then practise it in realistic situations"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's conclusion?",
+              "options": [
+                {"key": "A", "text": "Adults cannot hope to become fluent."},
+                {"key": "B", "text": "Age, not effort, sets the final limit."},
+                {"key": "C", "text": "Adults can do well; time is the real limit."},
+                {"key": "D", "text": "Accent is the most important measure of success."}
+              ],
+              "answer": "C",
+              "analysis": "E 段：成人可以达到很高的流利度、阅读速度和表达范围，可能保留的只是口音；限制不在年龄而在小时数，而小时数是成人可以安排的。A、B 与结论相反，D 与「口音没有许多学习者担心的那么重要」相反。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "The limit is not age but hours"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国园林有很长的历史，讲究「虽由人作，宛自天开」。造园者用假山、水池、花木和小桥，在有限的空间里营造出自然的意境。苏州的园林最为有名，其中拙政园每年吸引大量游客。园林不只是居住的地方，也是读书、会友和静思的场所。今天，许多城市修建新公园时，仍然借鉴传统园林的手法。园林也被写进诗歌和绘画，成为中国人理解自然的一种方式。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChinese gardens have a long history and follow a principle that can be translated as \"made by human hands, yet seeming to come from nature\". Using rockeries, ponds, plants and small bridges, garden designers create the feeling of a natural landscape within a limited space. The gardens of Suzhou are the most famous, and the Humble Administrator's Garden attracts a large number of visitors every year. A garden was not only a place to live but also a place to read, to meet friends and to think quietly. Today, when many cities build new parks, they still borrow techniques from traditional gardens. Gardens also appear in poetry and painting, and in this way they have shaped the Chinese idea of nature.\n\n【要点】①「虽由人作，宛自天开」不必逐字直译，用 made by human hands, yet seeming to come from nature 保留对比；②「营造意境」可译为 create the feeling of a natural landscape；③「拙政园」固定译名 the Humble Administrator's Garden；④「不只是……也是……」用 not only… but also…；⑤末句用 when 引导时间状语，主句保持「借鉴」的主动语态。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

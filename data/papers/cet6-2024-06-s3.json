@@ -1,0 +1,1097 @@
+{
+  "id": "cet6-2024-06-s3",
+  "level": "CET6",
+  "year": 2024,
+  "month": 6,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether failure deserves a place on a CV, and whether it teaches a reader more than success does. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nShould Failure Appear on a CV?\n\nA curriculum vitae is a document of conclusions: what was achieved, and where. It has no room for the middle of the story, which is why it can be read without teaching the reader anything about how a person thinks.\n\nPutting a failure on it - a product withdrawn, a paper retracted, a business that closed - would do two things. It would show that the writer can describe a mistake without flinching, which is among the rarest professional skills. And it would give the interviewer something to ask about that has not been rehearsed a hundred times.\n\nThe risk is that it hardens into a genre: the humblebrag about a failure that was really a success, or the confession deployed as a personality. A failure is informative only if the account says what the person would do differently, and if the cost fell on them rather than on somebody else.\n\nSo failure deserves a place, provided it is described precisely. A CV listing only successes is not exactly a lie. It is a document from which every difficulty has been edited out, leaving the reader to guess at the judgement behind the results.\n\n（约 200 词）\n\n【思路】①先把简历定义为「结论的文档」，指出它读不出一个人的判断方式，从而立起问题；②正面立论：写失败能证明作者能直视错误，也给面试官一个未被排练过的问题；③让步并设限：失败叙述容易变成变相自夸或人格表演，只有写出「会怎么改」且代价由自己承担才有信息量；④收束于「精确描述」这一条件，回到开头「结论文档」的比喻。句式控制上多用 It has no room for ... / It would show ... / The risk is that ... 三层推进。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Kahneman, Sibony and Sunstein called their 2021 book Noise because the error they describe is not bias. Bias is a 26______ in one direction; noise is scatter around the truth. Two radiologists looking at the same scan may disagree about whether a shadow is a tumour, and the disagreement is not explained by either of them being 27______. It is explained by the hour, the light, the previous case and the mood of the reader."
+            },
+            {
+              "label": "B",
+              "text": "Organisations have proved 28______ at reducing bias and careless about noise. A hiring committee that interviews candidates in a fixed order will 29______ favour the person who comes after lunch; a court working through a long list before a break will set bail higher than the same court at the start of the day. These effects are large enough to 30______ the lives of thousands of people, and they are invisible in any single decision, which is why they 31______ audit."
+            },
+            {
+              "label": "C",
+              "text": "The remedies are 32______ rather than heroic. Written guidelines reduce scatter but can 33______ the expertise they were meant to support; independent second opinions expose disagreement that a single reader would have settled by instinct; and aggregating judgements, even crudely, usually beats the single confident expert. The uncomfortable implication is that 34______ is not a personal virtue. Deciding the same case the same way twice is a property of a process, and processes are things an institution can 35______."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "drift"
+                },
+                {
+                  "key": "B",
+                  "text": "pattern"
+                },
+                {
+                  "key": "C",
+                  "text": "average"
+                },
+                {
+                  "key": "D",
+                  "text": "signal"
+                }
+              ],
+              "answer": "A",
+              "analysis": "Bias is a drift in one direction 偏差是朝一个方向的「漂移」；与后半句 noise is scatter around the truth 形成对照，一个定向、一个四散。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "scatter around the truth"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "dishonest"
+                },
+                {
+                  "key": "B",
+                  "text": "careful"
+                },
+                {
+                  "key": "C",
+                  "text": "incompetent"
+                },
+                {
+                  "key": "D",
+                  "text": "random"
+                }
+              ],
+              "answer": "C",
+              "analysis": "not explained by either of them being incompetent 不能用「谁不胜任」来解释；作者要说明分歧来自情境而非水平，故后文列出光线、时段、心情。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "the hour, the light, the previous case"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "skilful"
+                },
+                {
+                  "key": "B",
+                  "text": "adept"
+                },
+                {
+                  "key": "C",
+                  "text": "careless"
+                },
+                {
+                  "key": "D",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "B",
+              "analysis": "have proved adept at reducing bias 在减少偏差方面很在行；be adept at doing 为固定搭配，与后半句 careless about noise 形成对比。",
+              "type": "搭配题",
+              "evidencePara": "B",
+              "evidenceText": "and careless about noise"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "deliberately"
+                },
+                {
+                  "key": "B",
+                  "text": "consistently"
+                },
+                {
+                  "key": "C",
+                  "text": "openly"
+                },
+                {
+                  "key": "D",
+                  "text": "unwittingly"
+                }
+              ],
+              "answer": "D",
+              "analysis": "will unwittingly favour 会不自觉地偏向；副词修饰 favour，与后文「午餐后的候选人」这一无意识效应相合，deliberately 恰好相反。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "the person who comes after lunch"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "improve"
+                },
+                {
+                  "key": "B",
+                  "text": "endanger"
+                },
+                {
+                  "key": "C",
+                  "text": "alter"
+                },
+                {
+                  "key": "D",
+                  "text": "ignore"
+                }
+              ],
+              "answer": "C",
+              "analysis": "large enough to alter the lives of thousands 足以改变成千上万人的命运；alter 中性，符合「判决、保释金被时段左右」的语境。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "set bail higher than the same court at the start of the day"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "escape"
+                },
+                {
+                  "key": "B",
+                  "text": "ignore"
+                },
+                {
+                  "key": "C",
+                  "text": "resist"
+                },
+                {
+                  "key": "D",
+                  "text": "attract"
+                }
+              ],
+              "answer": "A",
+              "analysis": "which is why they escape audit 这正是它们逃过审计的原因；escape 后直接跟名词，表示未被察觉、未被统计，与 invisible in any single decision 相承。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "invisible in any single decision"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "expensive"
+                },
+                {
+                  "key": "B",
+                  "text": "cautious"
+                },
+                {
+                  "key": "C",
+                  "text": "dramatic"
+                },
+                {
+                  "key": "D",
+                  "text": "mundane"
+                }
+              ],
+              "answer": "D",
+              "analysis": "The remedies are mundane rather than heroic 对策平淡而非壮举；mundane 与 heroic 构成对照，后文列举指南、二次意见、简单汇总都是「不英雄」的做法。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "Written guidelines ... independent second opinions"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "improve"
+                },
+                {
+                  "key": "B",
+                  "text": "stifle"
+                },
+                {
+                  "key": "C",
+                  "text": "protect"
+                },
+                {
+                  "key": "D",
+                  "text": "reward"
+                }
+              ],
+              "answer": "B",
+              "analysis": "can stifle the expertise they were meant to support 可能压制本想支持的专业判断；stifle 与 expertise 搭配，指规则过细反而束缚判断。",
+              "type": "搭配题",
+              "evidencePara": "C",
+              "evidenceText": "they were meant to support"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "reliability"
+                },
+                {
+                  "key": "B",
+                  "text": "accuracy"
+                },
+                {
+                  "key": "C",
+                  "text": "talent"
+                },
+                {
+                  "key": "D",
+                  "text": "honesty"
+                }
+              ],
+              "answer": "A",
+              "analysis": "reliability is not a personal virtue 可靠性不是个人品德；下句「同一案件两次得出同样结论」正是 reliability 的定义，说明它属于流程而非人品。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "Deciding the same case the same way twice"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "abandon"
+                },
+                {
+                  "key": "B",
+                  "text": "resist"
+                },
+                {
+                  "key": "C",
+                  "text": "redesign"
+                },
+                {
+                  "key": "D",
+                  "text": "postpone"
+                }
+              ],
+              "answer": "C",
+              "analysis": "processes are things an institution can redesign 流程是机构可以重新设计的东西；与前句 a property of a process 呼应，落在「可改造」而非「可放弃」。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "a property of a process"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Soil is the most under-described natural resource on earth. A teaspoon of healthy farmland contains more living organisms than there are people on the planet, most of them unidentified, and the processes they perform - decomposition, nitrogen fixation, the binding of particles into structures that hold water - have no industrial substitute at any price."
+            },
+            {
+              "label": "B",
+              "text": "The plough was the great achievement of Neolithic farming and remains its most destructive habit. Turning soil exposes organic matter to oxygen, which burns it off as carbon dioxide; it tears apart the fungal networks that carry nutrients to roots; and it leaves the surface bare to rain. The dust bowl of the 1930s was a ploughing problem before it was a drought problem."
+            },
+            {
+              "label": "C",
+              "text": "The alternative is not a return to primitive methods but a different set of them: keeping the soil covered, disturbing it as little as possible, and rotating crops so that living roots occupy the ground all year. Long-term trials at Rothamsted, in England, have compared such systems for more than a century and find that yields hold up after an initial dip, while soil carbon and water retention improve."
+            },
+            {
+              "label": "D",
+              "text": "The gains are slow and the costs arrive at once. A farmer who abandons the plough needs new equipment, several seasons of patience and a way to control weeds without the one tool that reliably did it. In the first two years a cover crop is an expense with no visible return. Advice that ignores this arithmetic is advice that only wealthy farms can follow."
+            },
+            {
+              "label": "E",
+              "text": "Soil carbon has also become a market. Companies offer to pay farmers by the tonne of carbon stored, and the measurement of that tonne is the difficulty: carbon accumulates unevenly across a field, and the cheapest way to estimate it - sampling a few points and extrapolating - can produce errors larger than the quantity being sold. Several early schemes have been quietly suspended."
+            },
+            {
+              "label": "F",
+              "text": "The Food and Agriculture Organisation estimates that a third of the world's soils are degraded, and that the loss is fastest in the places least able to replace it. Degradation is rarely dramatic. It looks like a field that needs a little more fertiliser each year, and then a field that will grow nothing without it."
+            },
+            {
+              "label": "G",
+              "text": "The temptation is to treat soil as a technology problem awaiting a product. It is more usefully understood as a management problem measured in decades, in which the interests of a tenant farmer on a two-year lease and the interests of the soil are almost perfectly opposed - which makes it a political question wearing agronomic clothes."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Soil carries out functions that industry cannot buy at any price.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：分解、固氮、把颗粒黏结成保水结构等过程「在任何价位上都没有工业替代品」。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "have no industrial substitute at any price"
+            },
+            {
+              "number": 37,
+              "stem": "Ploughing releases carbon and breaks the networks that feed plants.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：翻耕使有机质暴露于氧、以二氧化碳形式烧掉，并撕断把养分输送到根部的真菌网络。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "burns it off as carbon dioxide; it tears apart the fungal networks"
+            },
+            {
+              "number": 38,
+              "stem": "A century of trials shows yields recovering while soil quality improves.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：Rothamsted 的百年试验显示，初期下降之后产量稳住，同时土壤碳与保水性改善。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "yields hold up after an initial dip, while soil carbon and water retention improve"
+            },
+            {
+              "number": 39,
+              "stem": "The transition brings costs first and benefits only later.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段首句：收益来得慢，成本却立刻到账；前两年覆盖作物只有支出没有回报。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "The gains are slow and the costs arrive at once"
+            },
+            {
+              "number": 40,
+              "stem": "The quantity farmers are paid for is hard to measure accurately.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：碳在田块内分布不均，最便宜的估算方式产生的误差可能大于所出售的数量本身，多个早期项目已悄然暂停。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "errors larger than the quantity being sold"
+            },
+            {
+              "number": 41,
+              "stem": "Degradation usually shows up as a growing dependence on inputs.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：退化很少戏剧化，表现为「每年需要多一点化肥」，最后变成「没有化肥就长不出东西」。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "needs a little more fertiliser each year"
+            },
+            {
+              "number": 42,
+              "stem": "Short tenancies set the farmer's interest against the soil's.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：两年租约的佃农与土壤的长期利益几乎完全相反，因此这其实是披着农学外衣的政治问题。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "a tenant farmer on a two-year lease"
+            },
+            {
+              "number": 43,
+              "stem": "The most damaging practice is also the oldest established one.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段首句把犁同时称作新石器时代的伟大成就与至今最具破坏性的习惯，说明破坏性做法恰是最古老的既定做法。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "the great achievement of Neolithic farming and remains its most destructive habit"
+            },
+            {
+              "number": 44,
+              "stem": "Guidance that ignores cash flow will be taken up only by the rich.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末句原话：忽视这本账的建议，只有富裕农场才跟得起。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "Advice that ignores this arithmetic is advice that only wealthy farms can follow"
+            },
+            {
+              "number": 45,
+              "stem": "What looks agronomic is in fact a question of who bears the cost over time.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段末：土壤问题实质是「谁在多年尺度上承担成本」的政治问题，只是穿着农学的外衣。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "a political question wearing agronomic clothes"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 1993 a short paper in Nature reported that students who had listened to a Mozart sonata for ten minutes performed slightly better on a spatial reasoning task. The improvement lasted about a quarter of an hour and was never claimed to be a change in intelligence. Within three years it had become a product: a state governor proposed a budget line to send classical recordings to every newborn in his state."
+            },
+            {
+              "label": "B",
+              "text": "The replication record is unkind. Meta-analyses found the effect to be small, brief and not specific to Mozart - any arousing stimulus, including a story read aloud, produced something similar. A later review of forty studies concluded that the difference was explained by enjoyment and arousal rather than by music, and that the claim had been inflated at every stage of its journey from laboratory to legislature."
+            },
+            {
+              "label": "C",
+              "text": "The more interesting literature concerns people who actually play. Adult musicians, on average, perform better than non-musicians on tests of auditory working memory, executive control and the discrimination of fine timing, and some of these differences are visible in brain structure. The difficulty is causal: children who persist with an instrument differ from those who quit in ways - parental income, conscientiousness, the school they attend - that no statistical control can fully remove."
+            },
+            {
+              "label": "D",
+              "text": "The few randomised trials are sobering. When children were assigned to instrument lessons or to an active control, gains in inhibitory control and in standardised tests were small and often faded once the lessons stopped. A large meta-analysis of training studies put far-transfer to academic achievement close to zero, while near-transfer - getting better at the thing you practise - was substantial and unsurprising."
+            },
+            {
+              "label": "E",
+              "text": "This matters because of a habit in education policy of justifying the arts by their side effects. If music is defended because it raises mathematics scores, music will be cut the year the evidence weakens. The stronger argument is the one musicians have always made and administrators find hardest to fund: that practising an instrument teaches a specific and rather rare form of attention, and that a society which pays only for what it can measure will eventually stop paying for most of what matters."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What did the 1993 study actually claim?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That listening to Mozart raises intelligence permanently."
+                },
+                {
+                  "key": "B",
+                  "text": "That a brief improvement appeared on one kind of task."
+                },
+                {
+                  "key": "C",
+                  "text": "That musicians outperform non-musicians on spatial tests."
+                },
+                {
+                  "key": "D",
+                  "text": "That newborn babies benefit from classical recordings."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：提高只在空间推理任务上、持续约一刻钟，且作者从未声称智力改变。A、D 两项正是被媒体与政策放大的误读。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "lasted about a quarter of an hour and was never claimed to be a change in intelligence"
+            },
+            {
+              "number": 47,
+              "stem": "What does the author criticise about the media's role?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It funded the original experiments."
+                },
+                {
+                  "key": "B",
+                  "text": "It refused to report the failed replications."
+                },
+                {
+                  "key": "C",
+                  "text": "It enlarged the claim at every stage of its transmission."
+                },
+                {
+                  "key": "D",
+                  "text": "It confused classical music with other genres."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段末：这一说法「从实验室到立法机构」的每一站都被夸大（inflated at every stage）。作者并未说媒体隐瞒复现失败，而是说它层层加码。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "inflated at every stage of its journey"
+            },
+            {
+              "number": 48,
+              "stem": "Why can studies of adult musicians not establish that training caused their advantages?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Musicians are unwilling to take part in tests."
+                },
+                {
+                  "key": "B",
+                  "text": "Those who persist differ in other ways that also matter."
+                },
+                {
+                  "key": "C",
+                  "text": "Brain structure cannot be measured reliably."
+                },
+                {
+                  "key": "D",
+                  "text": "The samples were too small to compare."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：坚持学琴的孩子在家庭收入、尽责性、就读学校等方面本就与放弃者不同，任何统计控制都无法完全剔除这些差异，故只能相关、不能因果。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "differ from those who quit in ways ... that no statistical control can fully remove"
+            },
+            {
+              "number": 49,
+              "stem": "The term 'far-transfer' (Paragraph D) refers to gains that",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "appear in domains unrelated to what was practised."
+                },
+                {
+                  "key": "B",
+                  "text": "require many years of instruction to emerge."
+                },
+                {
+                  "key": "C",
+                  "text": "are measured only in standardised tests."
+                },
+                {
+                  "key": "D",
+                  "text": "fade soon after lessons end."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段把 far-transfer（迁移到学业成绩）与 near-transfer（把练的东西练得更好）对举，可见 far 指跨越到与所练内容无关的领域。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "near-transfer - getting better at the thing you practise"
+            },
+            {
+              "number": 50,
+              "stem": "The author's chief concern in the final paragraph is that",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "too few children are given the chance to learn an instrument."
+                },
+                {
+                  "key": "B",
+                  "text": "music is defended on grounds that will fail it when tested."
+                },
+                {
+                  "key": "C",
+                  "text": "administrators lack the expertise to judge arts programmes."
+                },
+                {
+                  "key": "D",
+                  "text": "musicians exaggerate the difficulty of their training."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：若以「提高数学成绩」为音乐辩护，证据一弱音乐就会被砍；作者主张改用「乐器训练培养一种稀有注意力」这一更强、也更难被量化的理由。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "music will be cut the year the evidence weakens"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2016 a newsroom published an analysis of a risk-assessment tool used by courts in the United States to estimate how likely a defendant was to reoffend. The tool did not use race. It nonetheless produced errors at different rates for black and for white defendants, because it had been trained on arrests, and arrests reflect policing. The exchange that followed remains the clearest case study we have of what it means for an algorithm to be biased."
+            },
+            {
+              "label": "B",
+              "text": "The first lesson is that a model inherits the world it is trained on. If past decisions were unjust, a system trained to reproduce them will reproduce the injustice and call it prediction. This is not a defect to be patched; it is the definition of supervised learning, and it explains why 'the algorithm is neutral' is a sentence that should always be followed by the question: neutral with respect to what?"
+            },
+            {
+              "label": "C",
+              "text": "The second lesson is that human judgement is not the safe alternative. A literature that began with simple studies in the 1950s finds that a modest statistical rule beats unaided expert prediction in most domains where outcomes can be observed: parole, lending, diagnosis, recruitment. Experts resist the finding, and their resistance has a name - algorithm aversion - and a pattern: people abandon a model after seeing it err, while forgiving themselves the same error."
+            },
+            {
+              "label": "D",
+              "text": "Yet the comparison is often staged unfairly. In most real settings the choice is not between a model and a clear-headed judge but between a model and a tired one, working through a list, anchored by the previous case. The interesting result is that combining the two - giving the judge the model's estimate and asking for a written reason to depart from it - outperforms either alone."
+            },
+            {
+              "label": "E",
+              "text": "What this suggests is that the argument should move from whether to use algorithms to which errors we are prepared to accept, and who bears them. A model that is slightly less accurate overall but does not vary with the time of day may be preferable in a courtroom and unacceptable in a hospital. That is a political question with a technical component, and treating it as purely technical is how the politics gets settled by default."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "The tool produced unequal error rates because",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "race was entered as an explicit variable."
+                },
+                {
+                  "key": "B",
+                  "text": "its training data reflected patterns of policing."
+                },
+                {
+                  "key": "C",
+                  "text": "judges overrode its recommendations too often."
+                },
+                {
+                  "key": "D",
+                  "text": "it was designed for a different legal system."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：工具并未使用种族变量，但它以「被捕记录」为训练数据，而逮捕本身反映执法分布，因此误差率不同。A 项与 The tool did not use race 直接冲突。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "trained on arrests, and arrests reflect policing"
+            },
+            {
+              "number": 52,
+              "stem": "The question 'neutral with respect to what?' implies that",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "neutrality is meaningless unless a standard is specified."
+                },
+                {
+                  "key": "B",
+                  "text": "models can be made neutral by removing race data."
+                },
+                {
+                  "key": "C",
+                  "text": "supervised learning should be abandoned."
+                },
+                {
+                  "key": "D",
+                  "text": "statistical prediction is always biased."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：模型继承训练它的世界，偏见不是可打的补丁而是监督学习的定义；因此「算法是中立的」这句话必须补上「相对于什么而言」，说明中立需有基准才有意义。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "neutral with respect to what?"
+            },
+            {
+              "number": 53,
+              "stem": "'Algorithm aversion' refers to the tendency to",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "trust a formula more than an experienced professional."
+                },
+                {
+                  "key": "B",
+                  "text": "give up on a model after seeing it make a mistake."
+                },
+                {
+                  "key": "C",
+                  "text": "refuse to supply data to public agencies."
+                },
+                {
+                  "key": "D",
+                  "text": "prefer models that are difficult to explain."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：人们在看到模型出错后就弃用它，却原谅自己犯同样的错——这就是 algorithm aversion 的模式。A 项方向相反。",
+              "type": "词句含义题",
+              "evidencePara": "C",
+              "evidenceText": "people abandon a model after seeing it err, while forgiving themselves the same error"
+            },
+            {
+              "number": 54,
+              "stem": "Why does the author say the comparison is often staged unfairly?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The human alternative is usually tired and already anchored."
+                },
+                {
+                  "key": "B",
+                  "text": "Models are tested on easier cases than humans are."
+                },
+                {
+                  "key": "C",
+                  "text": "Researchers choose outcome measures that favour models."
+                },
+                {
+                  "key": "D",
+                  "text": "Judges are given more time than the models require."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：真实场景中的对手不是「头脑清醒的法官」，而是疲惫、按名单逐案处理、被前一案锚定的法官；因此简单对比高估了模型。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "between a model and a tired one, working through a list, anchored by the previous case"
+            },
+            {
+              "number": 55,
+              "stem": "The author argues that the debate should be recast as a question about",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "which errors are tolerable and who bears their cost."
+                },
+                {
+                  "key": "B",
+                  "text": "how quickly models can be made more accurate."
+                },
+                {
+                  "key": "C",
+                  "text": "whether courts should be allowed to use software."
+                },
+                {
+                  "key": "D",
+                  "text": "how to remove human involvement from decisions."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段首句：争论应从「是否使用算法」转向「我们准备接受哪些错误、由谁承担」；末句强调这是带技术成分的政治问题，把它当纯技术问题就等于让政治默认决定。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "which errors we are prepared to accept, and who bears them"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国的非物质文化遗产包括戏曲、手工技艺、节庆和民歌，目前已有四十多个项目列入联合国教科文组织名录。过去二十年，保护方式发生了明显变化：早期注重记录和抢救，把老艺人的技艺拍成影像、整理成文字；如今更强调传承，让年轻人愿意学、学了能靠手艺生活。争论始终存在：过度商业化会削弱手艺的内在价值，但完全没有市场，手艺也很难传给下一代。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChina's intangible cultural heritage covers opera, craft skills, festivals and folk song, and more than forty items have now been inscribed on the UNESCO lists. The approach to safeguarding it has changed markedly over the past two decades. In the early years the emphasis was on recording and rescue: the techniques of elderly masters were filmed and written down. Today the emphasis has shifted to transmission - to making young people willing to learn, and able to earn a living from what they learn. The argument never quite goes away: excessive commercialisation erodes the inner value of a craft, yet with no market at all a craft is unlikely to reach the next generation. Many of those who now teach these skills learned them from masters who are no longer alive.\n\n【要点】①「非物质文化遗产」用固定译名 intangible cultural heritage，后文用 it 指代，避免重复；②「列入联合国教科文组织名录」译 be inscribed on the UNESCO lists，是这一领域的常用动词；③「记录和抢救」用 recording and rescue，冒号后以 filmed and written down 具体化；④「传承」译 transmission，比 passing down 更书面，与 heritage 语境相配；⑤「靠手艺生活」译 earn a living from what they learn，不必逐字译 craft；⑥末句「过度商业化……但完全没有市场」用 erodes ... yet with no market at all 保留对比，excessive 对应「过度」。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

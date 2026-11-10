@@ -1,0 +1,1097 @@
+{
+  "id": "cet4-2023-06-s1",
+  "level": "CET4",
+  "year": 2023,
+  "month": 6,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on why college students should take part in physical exercise every week. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\n\nWhy College Students Should Exercise Every Week\n\nA student can pass four years of college without ever running a kilometre, and many do. That is a mistake, for three reasons.\n\nFirst, exercise protects the mind that study depends on. Surveys of university students repeatedly find that those who move regularly sleep better and feel less anxious before exams than those who do not. Forty minutes on a running track is often more useful than a fifth hour at the same desk.\n\nSecond, habits formed at twenty tend to last. A student who learns to swim, cycle or play badminton on a fixed evening usually keeps one of those habits at forty, when a working day leaves little free time and the body begins to complain.\n\nThird, exercise is social. A weekly match makes friends across departments in a way that a lecture hall never does, and those friends are the ones who notice when you stop turning up.\n\nNone of this requires an expensive gym membership. A pair of shoes, a court and two classmates are enough. The hardest part is the first week.\n\n（约 165 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+            "order": 1,
+            "title": "Section A 选词填空",
+            "paragraphs": [
+              {
+                "label": "A",
+                "text": "An old smartphone weighs less than two hundred grams, yet the rock it contains is richer in gold than ore from most mines. A tonne of discarded handsets 26______ about three hundred grams of gold, together with silver, copper and a dozen rare metals. That is why the trade in electronic waste is worth tens of billions of dollars a year, and why it attracts both licensed companies and criminals. Only a small 27______ of that metal is recovered legally. Collection schemes exist in most rich countries, but their 28______ is disappointing: fewer than one handset in five arrives at a proper plant. The rest stay in drawers, or are sold for cash to informal collectors who ask no questions about where the phone came from."
+              },
+              {
+                "label": "B",
+                "text": "Where the waste does arrive, the gap between a licensed plant and a village workshop is 29______. A proper plant shreds a handset, sorts the parts by machine and dissolves the metals in closed tanks, a process that 30______ almost all of the gold. A back-yard workshop burns off the plastic coating over an open fire and 31______ the circuit boards in acid, recovering perhaps a third of the metal and pouring the rest into a stream. The saving is paid for elsewhere. The acid leaves a sludge that 32______ into groundwater, and the burning plastic releases dioxins that children in the next street breathe. Data is the second problem: a handset sold for cash may still hold a banking app, family photographs and a working SIM card, and dealers who 33______ to wipe it before resale hand a stranger the keys to its owner's accounts."
+              },
+              {
+                "label": "C",
+                "text": "The law is beginning to follow the metal. The European Union now obliges shops to take back old handsets, and a handful of governments have written extended producer responsibility into statute, which makes the 34______ pay for collection and recycling. Manufacturers 35______ that repair is impossible on most models, yet France now requires a repairability score to be printed on the label. Whether a label changes what shoppers do is another question."
+              }
+            ],
+            "questions": [
+              {
+                "number": 26,
+                "stem": "Choose the word for blank 26.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "yields"
+                  },
+                  {
+                    "key": "B",
+                    "text": "collects"
+                  },
+                  {
+                    "key": "C",
+                    "text": "costs"
+                  },
+                  {
+                    "key": "D",
+                    "text": "burns"
+                  }
+                ],
+                "answer": "A",
+                "analysis": "主语 a tonne of discarded handsets（一吨废旧手机）按集合名词作单数，yield 意为「产出、提炼出」，后接具体数量 about three hundred grams of gold，正说明旧手机含金量比多数矿石还高。costs（花费）的宾语应是钱而不是克数；collects（收集）的宾语应是实物，不能接「三百克黄金」这种产出量；burns（燃烧）与提炼金属的语境完全不符。",
+                "type": "选词填空",
+                "evidencePara": "A",
+                "evidenceText": "A tonne of discarded handsets yields about three hundred grams of gold"
+              },
+              {
+                "number": 27,
+                "stem": "Choose the word for blank 27.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "share"
+                  },
+                  {
+                    "key": "B",
+                    "text": "record"
+                  },
+                  {
+                    "key": "C",
+                    "text": "trade"
+                  },
+                  {
+                    "key": "D",
+                    "text": "profit"
+                  }
+                ],
+                "answer": "A",
+                "analysis": "a small share of「只占很小一份」是计量比例的标准说法，后文「五部手机里不到一部进正规厂」正是在说明这个比例之低。record（记录）、trade（贸易）、profit（利润）都不能与 a small ... of that metal 搭配表示「占比」。",
+                "type": "选词填空",
+                "evidencePara": "A",
+                "evidenceText": "Only a small share of that metal is recovered legally"
+              },
+              {
+                "number": 28,
+                "stem": "Choose the word for blank 28.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "record"
+                  },
+                  {
+                    "key": "B",
+                    "text": "trade"
+                  },
+                  {
+                    "key": "C",
+                    "text": "performance"
+                  },
+                  {
+                    "key": "D",
+                    "text": "profit"
+                  }
+                ],
+                "answer": "C",
+                "analysis": "their 指前文的 collection schemes（回收体系），performance 指体系的「运转成效」，与冒号后「五部里不到一部」的具体数据直接呼应。record 指过往成绩的好坏评价，trade 指买卖行为，profit 指利润，都不能概括「体系实际收回多少手机」这一效率问题。",
+                "type": "选词填空",
+                "evidencePara": "A",
+                "evidenceText": "their performance is disappointing"
+              },
+              {
+                "number": 29,
+                "stem": "Choose the word for blank 29.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "gradual"
+                  },
+                  {
+                    "key": "B",
+                    "text": "striking"
+                  },
+                  {
+                    "key": "C",
+                    "text": "narrow"
+                  },
+                  {
+                    "key": "D",
+                    "text": "ordinary"
+                  }
+                ],
+                "answer": "B",
+                "analysis": "the gap ... is striking 意为「差距十分惊人」。后文用正规厂回收「几乎全部黄金」与小作坊只回收「三分之一」作对比，正说明两者的差距极大。narrow（狭窄的）与「差距大」相反；gradual（渐进的）说的是变化速度，ordinary（普通的）则否定了这种对比的强烈程度。",
+                "type": "选词填空",
+                "evidencePara": "B",
+                "evidenceText": "the gap between a licensed plant and a village workshop is striking"
+              },
+              {
+                "number": 30,
+                "stem": "Choose the word for blank 30.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "burns"
+                  },
+                  {
+                    "key": "B",
+                    "text": "recovers"
+                  },
+                  {
+                    "key": "C",
+                    "text": "wasting"
+                  },
+                  {
+                    "key": "D",
+                    "text": "collects"
+                  }
+                ],
+                "answer": "B",
+                "analysis": "空前的 a process that 指前半句「在密闭槽中溶解金属」这一工序，从句谓语与先行词 a process 一致用第三人称单数；recover 在冶金语境中意为「回收（金属）」，与 almost all of the gold 搭配说明正规厂提炼率高。burns（燃烧）、collects（收集实物）都不符合「在槽中溶解后提取」的工艺；wasting（浪费）与 almost all 语义矛盾。",
+                "type": "选词填空",
+                "evidencePara": "B",
+                "evidenceText": "dissolves the metals in closed tanks, a process that recovers almost all of the gold"
+              },
+              {
+                "number": 31,
+                "stem": "Choose the word for blank 31.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "collects"
+                  },
+                  {
+                    "key": "B",
+                    "text": "soaks"
+                  },
+                  {
+                    "key": "C",
+                    "text": "washes"
+                  },
+                  {
+                    "key": "D",
+                    "text": "burns"
+                  }
+                ],
+                "answer": "B",
+                "analysis": "soak sth in acid 意为「把某物浸泡在酸液里」，正是小作坊「酸洗」电路板的做法。wash 虽也接 in，但侧重冲洗表面，与长时间浸泡使金属溶出的工艺不符；collects 与「泡在酸里」无关，burns 与前半句的 open fire 重复且不能接 in acid。",
+                "type": "选词填空",
+                "evidencePara": "B",
+                "evidenceText": "soaks the circuit boards in acid"
+              },
+              {
+                "number": 32,
+                "stem": "Choose the word for blank 32.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "burns"
+                  },
+                  {
+                    "key": "B",
+                    "text": "evaporates"
+                  },
+                  {
+                    "key": "C",
+                    "text": "seeps"
+                  },
+                  {
+                    "key": "D",
+                    "text": "collects"
+                  }
+                ],
+                "answer": "C",
+                "analysis": "seep into 指液体「慢慢渗入」，主语 sludge（酸泥）中的酸液渗进地下水，正是小作坊把成本转嫁给他人的具体表现。evaporates（蒸发）与「进入地下水」的方向相反；burns、collects 都不能描述液体沿土层向下渗透的路径。",
+                "type": "选词填空",
+                "evidencePara": "B",
+                "evidenceText": "a sludge that seeps into groundwater"
+              },
+              {
+                "number": 33,
+                "stem": "Choose the word for blank 33.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "collects"
+                  },
+                  {
+                    "key": "B",
+                    "text": "intend"
+                  },
+                  {
+                    "key": "C",
+                    "text": "fail"
+                  },
+                  {
+                    "key": "D",
+                    "text": "burns"
+                  }
+                ],
+                "answer": "C",
+                "analysis": "fail to do sth 意为「未能做某事」，定语从句修饰 dealers：转卖前没把手机清空的人，等于把原机主的银行账户交给陌生人。intend（打算）与后文「账户被交出去」的实际后果矛盾；collects、burns 与「清除数据」这一动作毫无关系。",
+                "type": "选词填空",
+                "evidencePara": "B",
+                "evidenceText": "dealers who fail to wipe it before resale"
+              },
+              {
+                "number": 34,
+                "stem": "Choose the word for blank 34.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "trade"
+                  },
+                  {
+                    "key": "B",
+                    "text": "profit"
+                  },
+                  {
+                    "key": "C",
+                    "text": "record"
+                  },
+                  {
+                    "key": "D",
+                    "text": "industry"
+                  }
+                ],
+                "answer": "D",
+                "analysis": "make sb pay for sth 中的 sb 需要指「行业」的集合名词；生产者责任延伸的实质就是让整个产业承担回收与循环利用的费用。trade 指具体的买卖行为，profit 是利润本身而非付款主体，record 是记录，都不能作 pay for 的施动者。",
+                "type": "选词填空",
+                "evidencePara": "C",
+                "evidenceText": "makes the industry pay for collection and recycling"
+              },
+              {
+                "number": 35,
+                "stem": "Choose the word for blank 35.",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "burns"
+                  },
+                  {
+                    "key": "B",
+                    "text": "deny"
+                  },
+                  {
+                    "key": "C",
+                    "text": "collects"
+                  },
+                  {
+                    "key": "D",
+                    "text": "argue"
+                  }
+                ],
+                "answer": "D",
+                "analysis": "argue that... 意为「主张、辩称」，引出厂商的立场：多数机型根本无法维修。deny（否认）与后文法国强制在标签上印可修复性评分的做法矛盾——正因为厂商不承认，才有了立法；burns、collects 不能带 that 从句表达观点。",
+                "type": "选词填空",
+                "evidencePara": "C",
+                "evidenceText": "Manufacturers argue that repair is impossible on most models"
+              }
+            ]
+          },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For decades, Europe's night trains were quietly disappearing. Cheap flights and fast daytime services made sleeping on a train look old-fashioned, and one country after another closed its sleeper routes. By 2015 the network had shrunk to a handful of lines, mostly in central and eastern Europe, and the carriages still in use were older than many of the passengers."
+            },
+            {
+              "label": "B",
+              "text": "The revival began with a Swedish word. Flygskam, or flight shame, entered common use around 2018, as travellers started to count the carbon cost of a short flight. A train that left Vienna at ten in the evening and reached Brussels in time for breakfast suddenly looked less romantic and more practical, and bookings on the few remaining routes rose sharply."
+            },
+            {
+              "label": "C",
+              "text": "Operators moved faster than governments. Austria's national railway bought sleeping cars that other companies were selling off, and now runs night services to Italy, Germany and the Netherlands. A private start-up announced a Paris–Vienna route, cancelled it when the pandemic closed borders, and relaunched it in 2021 with three carriages a night."
+            },
+            {
+              "label": "D",
+              "text": "The economics remain awkward. A sleeper carriage carries about thirty passengers, compared with eighty in a seated coach, and every berth needs cleaning, bedding and a steward. Tickets therefore cost more than a flight, and operators admit that a service only works when almost every bed is sold, which leaves little room for the cheap fares that attract students and families."
+            },
+            {
+              "label": "E",
+              "text": "Infrastructure is the harder problem. Night trains cross borders, and signalling, power supply and safety rules differ from country to country. A single journey may need three drivers and two locomotives, and a delay in one country can leave passengers stranded in another. Booking is equally awkward: one trip may require three tickets bought from three different websites."
+            },
+            {
+              "label": "F",
+              "text": "Passengers describe something the timetables cannot capture. Arriving in the centre of a city at eight in the morning, with no airport bus and no taxi queue, changes the shape of a trip. Regulars talk less about speed than about the hours they did not lose: the working day ends, a bed appears, and the journey happens while they are asleep."
+            },
+            {
+              "label": "G",
+              "text": "Whether the revival lasts is uncertain. Demand is rising, but so are costs, and a sleeper route can disappear as quickly as it appeared. What has changed is the argument. A decade ago night trains had to justify themselves as nostalgia; now they have to justify themselves as the greener option, which is a stronger position and a harder one to live up to."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "type": "细节题",
+              "stem": "Faster and cheaper alternatives caused sleeper services to be cut for years.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：廉价航班与白天高速列车让卧铺显得过时，一国接一国取消线路，2015 年只剩少数几条。",
+              "evidencePara": "A",
+              "evidenceText": "Cheap flights and fast daytime services made sleeping on a train look old-fashioned"
+            },
+            {
+              "number": 37,
+              "type": "推断题",
+              "stem": "A change in how travellers thought about flying gave the sleeper a new purpose.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：2018 年前后 flygskam（飞行羞耻）流行，旅客开始计算短途航班的碳排放，夜车从「浪漫」变成「务实」。",
+              "evidencePara": "B",
+              "evidenceText": "travellers started to count the carbon cost of a short flight"
+            },
+            {
+              "number": 38,
+              "type": "细节题",
+              "stem": "One railway expanded by taking over sleeping cars that others were discarding.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：奥地利国铁买下别家正在出售的卧铺车厢，如今开行至意大利、德国、荷兰的夜车。",
+              "evidencePara": "C",
+              "evidenceText": "bought sleeping cars that other companies were selling off"
+            },
+            {
+              "number": 39,
+              "type": "细节题",
+              "stem": "A sleeper earns less per carriage because each traveller takes up more space.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：一节卧铺车厢约载三十人，普通座车约八十人，还要清洁、床品与乘务员，成本自然更高。",
+              "evidencePara": "D",
+              "evidenceText": "carries about thirty passengers, compared with eighty"
+            },
+            {
+              "number": 40,
+              "type": "细节题",
+              "stem": "Border crossings are difficult because technical standards differ between countries.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：信号、供电、安全规则各国不同，一趟车可能要三名司机、两台机车。",
+              "evidencePara": "E",
+              "evidenceText": "signalling, power supply and safety rules differ"
+            },
+            {
+              "number": 41,
+              "type": "细节题",
+              "stem": "A passenger may have to buy several tickets for a single journey.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：一趟行程可能要分别在三个网站买三张票，正是「订票同样麻烦」的具体例证。",
+              "evidencePara": "E",
+              "evidenceText": "three tickets bought from three different websites"
+            },
+            {
+              "number": 42,
+              "type": "推断题",
+              "stem": "Passengers value the hours that would otherwise be spent waiting or sitting upright.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：常客谈得最多的不是速度，而是「没有失去的那几个小时」——工作日结束、床出现了，旅程在睡眠中完成。",
+              "evidencePara": "F",
+              "evidenceText": "the hours they did not lose"
+            },
+            {
+              "number": 43,
+              "type": "推断题",
+              "stem": "Rising demand by itself will not be enough to keep these services running.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：需求在涨，成本也在涨，一条夜车线路可能像出现时一样迅速消失——能否存续尚不确定。",
+              "evidencePara": "G",
+              "evidenceText": "Demand is rising, but so are costs"
+            },
+            {
+              "number": 44,
+              "type": "细节题",
+              "stem": "Low fares are hard to offer because nearly every bed has to be occupied.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：只有几乎每张床都卖出，线路才不亏本，因此留给学生和家庭的低价票空间很小。",
+              "evidencePara": "D",
+              "evidenceText": "only works when almost every bed is sold"
+            },
+            {
+              "number": 45,
+              "type": "主旨题",
+              "stem": "Supporters now defend sleepers as the greener choice rather than as a piece of nostalgia.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段末：十年前夜车要靠「怀旧」证明自己，如今要靠「更环保」证明自己——立场更强，也更难兑现。",
+              "evidencePara": "G",
+              "evidenceText": "justify themselves as nostalgia"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In June 2022, sixty-one British companies began an experiment that most managers would have called impossible: their roughly 2,900 employees would work four days a week for six months, with no reduction in pay. The trial was organised by a campaign group, 4 Day Week Global, and researchers from Cambridge and Boston College were invited to measure what happened."
+            },
+            {
+              "label": "B",
+              "text": "The findings, published in early 2023, were more positive than the organisers had dared to expect. Sick leave fell by about two thirds. The number of staff who resigned dropped sharply. Revenue stayed broadly the same, and fifty-six of the sixty-one companies said they would continue with the shorter week; eighteen made the change permanent."
+            },
+            {
+              "label": "C",
+              "text": "The method mattered more than the hours saved. Most firms did not simply remove a day; they removed meetings. One software company cut its weekly management meeting from two hours to thirty minutes and found that decisions were made faster. A charity stopped expecting staff to answer emails after six in the evening, which reduced the feeling of always being on duty."
+            },
+            {
+              "label": "D",
+              "text": "Not every result was comfortable. Employees with young children reported the largest gain, while some parents of teenagers said the extra day disappeared into school runs and medical appointments. Staff in customer-facing roles, in clinics and shops, could not simply close on Fridays; those businesses had to stagger their rotas, which bred resentment where the rotas fell unevenly."
+            },
+            {
+              "label": "E",
+              "text": "Economists remain cautious. A six-month trial cannot show whether productivity holds up over several years, or whether the firms that volunteer for such experiments are simply better run than the average. Still, the trial has changed the terms of a debate long framed as a trade-off between hours and output. The question is no longer whether people can work less, but which tasks were never worth the hours in the first place."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "type": "细节题",
+              "stem": "What made the 2022 experiment unusual?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Employees worked one day less for the same salary."
+                },
+                {
+                  "key": "B",
+                  "text": "Companies hired extra staff to cover Fridays."
+                },
+                {
+                  "key": "C",
+                  "text": "The government paid part of the wages."
+                },
+                {
+                  "key": "D",
+                  "text": "Staff accepted a cut in pay in return for free time."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段首句：两千九百名员工每周工作四天、持续六个月，而薪酬不减少（with no reduction in pay）。B、C 文中未提；D 与「不减薪」正相反。",
+              "evidencePara": "A",
+              "evidenceText": "with no reduction in pay"
+            },
+            {
+              "number": 47,
+              "type": "细节题",
+              "stem": "Which result did the researchers report?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Revenue rose sharply in most of the firms."
+                },
+                {
+                  "key": "B",
+                  "text": "Sick leave fell by about two thirds."
+                },
+                {
+                  "key": "C",
+                  "text": "Half of the companies closed an office."
+                },
+                {
+                  "key": "D",
+                  "text": "Managers worked longer hours than their staff."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：病假下降约三分之二，离职人数大幅减少，营收大致持平。A 的「大幅上升」与 broadly the same 不符；C、D 属无中生有。",
+              "evidencePara": "B",
+              "evidenceText": "Sick leave fell by about two thirds"
+            },
+            {
+              "number": 48,
+              "type": "细节题",
+              "stem": "How did most firms create the extra day off?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By asking staff to finish emails at home."
+                },
+                {
+                  "key": "B",
+                  "text": "By hiring temporary workers."
+                },
+                {
+                  "key": "C",
+                  "text": "By cutting meetings and their length."
+                },
+                {
+                  "key": "D",
+                  "text": "By extending the other four working days."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：多数公司不是简单拿掉一天，而是拿掉会议——把两小时管理会压到三十分钟，并停止要求晚六点后回邮件。A 与原文「不再期待六点后回邮件」相反；B、D 未提及。",
+              "evidencePara": "C",
+              "evidenceText": "Most firms did not simply remove a day; they removed meetings"
+            },
+            {
+              "number": 49,
+              "type": "细节题",
+              "stem": "Which group said the extra day was taken up by other duties?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Parents of teenagers, whose day went on school runs and appointments."
+                },
+                {
+                  "key": "B",
+                  "text": "Software engineers, who had no meetings left."
+                },
+                {
+                  "key": "C",
+                  "text": "Charity staff, who stopped checking email at night."
+                },
+                {
+                  "key": "D",
+                  "text": "Managers, who worked fewer hours than before."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：有幼儿的员工获益最大，而一些青少年的父母说多出的一天被接送上学和看病占满。B、C 在 C 段是正面案例，D 文中无依据。",
+              "evidencePara": "D",
+              "evidenceText": "the extra day disappeared into school runs and medical appointments"
+            },
+            {
+              "number": 50,
+              "type": "推断题",
+              "stem": "What do economists point out about the trial?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It proves that every industry can adopt a four-day week."
+                },
+                {
+                  "key": "B",
+                  "text": "It lasted long enough to settle the question."
+                },
+                {
+                  "key": "C",
+                  "text": "The firms that joined may not represent ordinary companies."
+                },
+                {
+                  "key": "D",
+                  "text": "No productivity figures were collected."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：六个月的试验无法说明生产率能否维持数年，也无法排除「自愿参加的公司本来就管理得更好」。A 与「谨慎」矛盾；B 与 six-month 的限制相反；D 与全文测量生产率矛盾。",
+              "evidencePara": "E",
+              "evidenceText": "whether the firms that volunteer for such experiments are simply better run"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2017 the Rijksmuseum in Amsterdam finished a project that had taken five years: photographing every object in its collection at high resolution and putting the images online, free, without watermark or registration. More than 700,000 works became available to anyone with a browser, including thousands of objects that visitors will never see, because they sit in storage."
+            },
+            {
+              "label": "B",
+              "text": "Other institutions have followed at very different speeds. The Metropolitan Museum of Art in New York now releases images of works it believes to be in the public domain under an open licence, and its downloads run into millions a year. Smaller museums, with one photographer and no budget for servers, have stayed with low-resolution thumbnails and a contact-us form."
+            },
+            {
+              "label": "C",
+              "text": "The arguments for opening up are practical. A teacher in Nairobi who cannot visit Amsterdam can print a Rembrandt for a classroom wall. Designers borrow patterns from old textiles; scientists compare brushwork across collections in different countries. Museums also report that open images do not reduce visitors: people who have studied a painting on a screen often want to stand in front of the surface, the size and the cracks."
+            },
+            {
+              "label": "D",
+              "text": "There are losers as well. Picture libraries that once sold reproduction rights have watched that business shrink, and some photographers argue that a museum's free image undercuts the work of the person who lit and framed the object. Museums in poorer countries make a sharper point: their collections were often taken abroad, and open access can mean free use of someone else's photographs of their own heritage."
+            },
+            {
+              "label": "E",
+              "text": "The deeper change is in authority. A label written by a curator used to be the last word on an object. Now a museum's catalogue entry sits beside a thousand online comments, some from people who know the object's village, family or language better than the catalogue does. Several museums have begun to invite corrections, and a few have rewritten labels as a result, a small administrative act that unsettles the idea of a museum as a place that explains things to other people."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "type": "细节题",
+              "stem": "What did the Rijksmuseum do in 2017?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It sold reproduction rights to publishers."
+                },
+                {
+                  "key": "B",
+                  "text": "It published free high-resolution images of its collection."
+                },
+                {
+                  "key": "C",
+                  "text": "It opened its storage rooms to the public."
+                },
+                {
+                  "key": "D",
+                  "text": "It began charging visitors for downloads."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：用五年时间为馆藏每件物品拍摄高分辨率照片，免费上线，不加水印、不需注册。A、D 与 free 相反；C 文中说这些物品放在库房，观众「永远看不到」，并未开放库房。",
+              "evidencePara": "A",
+              "evidenceText": "putting the images online, free, without watermark"
+            },
+            {
+              "number": 52,
+              "type": "细节题",
+              "stem": "Why have smaller museums been slower to follow?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They own few objects worth photographing."
+                },
+                {
+                  "key": "B",
+                  "text": "They are not permitted to publish images."
+                },
+                {
+                  "key": "C",
+                  "text": "They lack staff, equipment and server capacity."
+                },
+                {
+                  "key": "D",
+                  "text": "Their visitors prefer small pictures."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段末：小馆只有一名摄影师、没有服务器预算，只能提供低分辨率缩略图和「联系我们」表单。A、B、D 文中均无依据。",
+              "evidencePara": "B",
+              "evidenceText": "one photographer and no budget for servers"
+            },
+            {
+              "number": 53,
+              "type": "细节题",
+              "stem": "What do museums report about free images and visitor numbers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Visits fall once the images are free."
+                },
+                {
+                  "key": "B",
+                  "text": "Visits hold steady, and online viewers often come in person."
+                },
+                {
+                  "key": "C",
+                  "text": "Only foreign tourists are attracted by them."
+                },
+                {
+                  "key": "D",
+                  "text": "Visits rise only for works that are already famous."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段末：开放图像并未减少到访，在屏幕上研究过一幅画的人常想来看画布的表面、尺寸与裂纹。A 与原文相反；C、D 无依据。",
+              "evidencePara": "C",
+              "evidenceText": "open images do not reduce visitors"
+            },
+            {
+              "number": 54,
+              "type": "推断题",
+              "stem": "What objection do museums in poorer countries raise?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Open access may mean free use of foreign photographs of their own heritage."
+                },
+                {
+                  "key": "B",
+                  "text": "Foreign scholars refuse to visit their collections."
+                },
+                {
+                  "key": "C",
+                  "text": "Their websites cannot handle large files."
+                },
+                {
+                  "key": "D",
+                  "text": "Open images encourage the theft of objects."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段末：这些馆的藏品常被带往国外，所谓开放获取，往往只是免费使用「别人拍的、关于自己遗产的照片」。B、C、D 均未在文中出现。",
+              "evidencePara": "D",
+              "evidenceText": "someone else's photographs of their own heritage"
+            },
+            {
+              "number": 55,
+              "type": "主旨题",
+              "stem": "What does the author consider the deepest change?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Museums now employ far fewer curators."
+                },
+                {
+                  "key": "B",
+                  "text": "Labels are written by visitors instead of staff."
+                },
+                {
+                  "key": "C",
+                  "text": "The museum no longer has only one voice explaining an object."
+                },
+                {
+                  "key": "D",
+                  "text": "Photography has replaced the exhibition itself."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：更深的变化在「权威」——策展人写的说明不再是定论，如今它和上千条网上评论并列，一些博物馆已邀请纠错并改写标签。A、B、D 都把它夸大成了事实错误。",
+              "evidencePara": "E",
+              "evidenceText": "The deeper change is in authority"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中秋节是中国重要的传统节日之一，在农历八月十五。这一天的月亮最圆最亮，人们把它看作家庭团圆的象征。家人围坐在一起吃月饼、赏月，远在外地的人也会尽量赶回家。近年来，一些城市还举办灯会和小型演出，吸引年轻人参与。对中国人来说，中秋节不只是一种节日习俗，更寄托着对团圆和美好生活的向往。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe Mid-Autumn Festival is one of China's most important traditional festivals, and it falls on the fifteenth day of the eighth lunar month. The moon is at its fullest and brightest on that night, and people regard it as a symbol of family reunion. Relatives sit together, eat mooncakes and admire the moon, while those who work in distant cities try their best to travel home, even if the journey takes a whole day. In recent years some cities have also organised lantern fairs, night markets and small open-air performances, which have attracted many younger visitors. For Chinese people, the festival is more than a set of old customs: it expresses a hope for reunion and for a peaceful, better life, and that hope is renewed every year.\n\n【要点】①「农历八月十五」译作 the fifteenth day of the eighth lunar month；②「看作……的象征」用 regard … as a symbol of …；③「远在外地的人」可处理为 those who work in distant cities，用 while 与前半句对比；④「不只……更……」用 more than …: it expresses …；⑤「寄托着对……的向往」宜意译为 expresses a hope for …，不必逐字对应。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

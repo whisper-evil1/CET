@@ -193,7 +193,18 @@ function holdingPage() {
 }
 
 function proxy(req, res) {
-  const headers = { ...req.headers, host: `${HOST}:${APP_PORT}` };
+  // 转发头：连接目标由 http.request 的 host/port 决定（内网 127.0.0.1:APP_PORT），
+  // 但 **应用看到的 Host 必须是访客的真实域名**。
+  // 为什么不能改写 host：Auth.js（登录会话）用 x-forwarded-host + x-forwarded-proto
+  // 组装回跳地址与 cookie 域。曾经在这里把 host 改成 127.0.0.1:4000，
+  // 结果登录 302 的 location 变成 https://localhost:4000/...，
+  // 浏览器跟去内网地址必然失败，表象就是「注册成功但永远登不上」。
+  // 修正：host 原样透传，并补齐标准代理头；上游地址只写在连接参数里。
+  const headers = {
+    ...req.headers,
+    "x-forwarded-host": req.headers["x-forwarded-host"] || req.headers.host || "",
+    "x-forwarded-proto": req.headers["x-forwarded-proto"] || "https",
+  };
   const up = http.request(
     { host: HOST, port: APP_PORT, method: req.method, path: req.url, headers },
     (upRes) => {

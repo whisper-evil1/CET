@@ -1,0 +1,1101 @@
+{
+  "id": "cet6-2023-06-s2",
+  "level": "CET6",
+  "year": 2023,
+  "month": 6,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether museums should be open to the public free of charge. You should state your position clearly and support it with reasons. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nShould Museums Be Free?\n\nA museum charges at the door for the same reason a library does not: the two were built on different theories of who pays. The case for free entry rests less on access than on the kind of good a museum is.\n\nA national collection is held in trust. Its owner is the public, and a citizen who has paid for the building and the curators is asked to buy a ticket to his own property. Charging twice is not a pricing policy; it is a confusion about ownership.\n\nThe practical argument is stronger still. Price is a filter, and filters are never neutral: a ticket selects for income, not for interest. Museums that abolished charges saw attendance rise and, more importantly, its composition change. The visitor who wanders in for twenty minutes because it is raining may ten years later fund an exhibition.\n\nThe objection is cost. Free entry means public subsidy, and a subsidy is a transfer from everyone to the relatively educated. The remedy is not a new ticket but an explicit transfer—and a judgement of the collection by what it does for a city rather than by what the till records."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Machine translation has become good enough that the question \"why learn a foreign language?\" is now asked in earnest, and the honest answer is more interesting than the slogan it replaces. The instrumental case for language study—that it lets you order a meal in Lisbon—has been 26______ by a phone. The educational case has not."
+            },
+            {
+              "label": "B",
+              "text": "Two arguments survive. The first is 27______: a machine translates what is said, not what is meant. Irony, deference and the particular courtesy of a refusal are 28______ in an app that has no equivalent to hand, and the app will choose the nearest phrase, which is often the wrong one. The second argument is slower and harder to 29______. Learning a language forces you to notice that your own has 30______ you did not know it had: that \"fair\" covers two different ideas, that politeness can be grammar rather than vocabulary. Such discoveries are difficult to obtain by any other route."
+            },
+            {
+              "label": "C",
+              "text": "None of this 31______ the apps. They are excellent at the tasks they were built for, and it is 32______ to pretend otherwise. The mistake is to treat fluency as a 33______ to be automated rather than a relationship to be built. A traveller with a translation app can be understood; a traveller with three hundred words can be 34______. The difference is not information but 35______. What should change is the teaching. A course that drills grammar for its own sake has less to offer than one that uses the machine as a foil: compare its rendering with yours, ask what it missed, and the lesson becomes an argument about meaning."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "delayed"
+                },
+                {
+                  "key": "B",
+                  "text": "approved"
+                },
+                {
+                  "key": "C",
+                  "text": "displaced"
+                },
+                {
+                  "key": "D",
+                  "text": "measured"
+                }
+              ],
+              "answer": "C",
+              "analysis": "破折号内的例子（在里斯本点菜）正是「工具性理由」；这一用途已被手机「取代」，故 displaced。后句 The educational case has not 与之对照。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "The educational case has not"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "financial"
+                },
+                {
+                  "key": "B",
+                  "text": "linguistic"
+                },
+                {
+                  "key": "C",
+                  "text": "temporary"
+                },
+                {
+                  "key": "D",
+                  "text": "personal"
+                }
+              ],
+              "answer": "B",
+              "analysis": "冒号后讲的是「说了什么」与「想表达什么」的区别，属于语言意义层面，故 linguistic。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "translates what is said, not what is meant"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "flattened"
+                },
+                {
+                  "key": "B",
+                  "text": "recorded"
+                },
+                {
+                  "key": "C",
+                  "text": "welcomed"
+                },
+                {
+                  "key": "D",
+                  "text": "practised"
+                }
+              ],
+              "answer": "A",
+              "analysis": "反讽、敬语、委婉拒绝在目标语中没有对等表达，机器只能取「最接近的短语」，其细微差别因此被「压平」；与 the wrong one 呼应。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "will choose the nearest phrase, which is often the wrong one"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "quantify"
+                },
+                {
+                  "key": "B",
+                  "text": "translate"
+                },
+                {
+                  "key": "C",
+                  "text": "forgive"
+                },
+                {
+                  "key": "D",
+                  "text": "postpone"
+                }
+              ],
+              "answer": "A",
+              "analysis": "与 The first is linguistic 对照，第二个理由是「更慢、更难量化」的收益；下文描述的是难以测量的认知收获。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "slower and harder to"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "errors"
+                },
+                {
+                  "key": "B",
+                  "text": "rules"
+                },
+                {
+                  "key": "C",
+                  "text": "distinctions"
+                },
+                {
+                  "key": "D",
+                  "text": "accents"
+                }
+              ],
+              "answer": "C",
+              "analysis": "冒号后举例：fair 涵盖两种不同概念——说明母语有你自己都没察觉的「区分」，故 distinctions。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "that \"fair\" covers two different ideas"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "diminishes"
+                },
+                {
+                  "key": "B",
+                  "text": "explains"
+                },
+                {
+                  "key": "C",
+                  "text": "resembles"
+                },
+                {
+                  "key": "D",
+                  "text": "replaces"
+                }
+              ],
+              "answer": "A",
+              "analysis": "前文指出机器翻译的局限，此处转折：这些并不「贬低」翻译软件，它们在其本职上很出色。diminish 与 excellent 形成让步。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "They are excellent at the tasks they were built for"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "unnecessary"
+                },
+                {
+                  "key": "B",
+                  "text": "dishonest"
+                },
+                {
+                  "key": "C",
+                  "text": "difficult"
+                },
+                {
+                  "key": "D",
+                  "text": "generous"
+                }
+              ],
+              "answer": "B",
+              "analysis": "and it is … to pretend otherwise：明明好用却假装不好用，是「不诚实」的。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "They are excellent at the tasks"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "gift"
+                },
+                {
+                  "key": "B",
+                  "text": "rule"
+                },
+                {
+                  "key": "C",
+                  "text": "habit"
+                },
+                {
+                  "key": "D",
+                  "text": "problem"
+                }
+              ],
+              "answer": "D",
+              "analysis": "treat fluency as a … to be automated rather than a relationship to be built：与 relationship 相对，指可被技术处理掉的「问题」。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "rather than a relationship to be built"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "copied"
+                },
+                {
+                  "key": "B",
+                  "text": "translated"
+                },
+                {
+                  "key": "C",
+                  "text": "welcomed"
+                },
+                {
+                  "key": "D",
+                  "text": "tested"
+                }
+              ],
+              "answer": "C",
+              "analysis": "对比：带翻译软件的人「能被听懂」，掌握三百词的人「能被接纳/受到欢迎」；差别不在信息而在关系。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "The difference is not information"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "grammar"
+                },
+                {
+                  "key": "B",
+                  "text": "money"
+                },
+                {
+                  "key": "C",
+                  "text": "speed"
+                },
+                {
+                  "key": "D",
+                  "text": "presence"
+                }
+              ],
+              "answer": "D",
+              "analysis": "末句点题：差别不是信息，而是「在场」——能否真正参与对话、建立关系。presence 与 information 对照。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "not information but"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A city that receives a month's rain in a day will flood somewhere, and the only question is where. Engineers have argued for years that the answer is largely a matter of design. Every hectare of asphalt, roof and concrete that replaces a field changes the route water takes: instead of soaking away, it runs, and it arrives at the drains within minutes rather than hours."
+            },
+            {
+              "label": "B",
+              "text": "Conventional drainage was built around a \"design storm\"—a rainfall intensity expected once in a stated number of years. The method is sound only if the climate is stationary, which it no longer is, and only if the pipes are maintained, which many are not. Enlarging the pipes is possible, but the cost rises steeply with capacity, and the work has to be done under streets that cannot easily be closed."
+            },
+            {
+              "label": "C",
+              "text": "The alternative is to slow the water before it reaches the drain. Wetlands, sunken gardens, permeable paving, green roofs and storage tanks all do the same job in different ways: they hold rainfall for hours, release it gradually, and reduce the peak that the pipes must carry. The Chinese term for this approach—\"sponge city\"—has travelled precisely because the metaphor is useful. A sponge does not prevent rain; it delays it."
+            },
+            {
+              "label": "D",
+              "text": "Evidence of performance is thinner than the enthusiasm. Many schemes are justified by computer models rather than by monitoring, and few cities publish measured results for a real storm. Maintenance is the weak point that nobody photographs: permeable surfaces clog with silt, basins fill with sediment, and a green roof that is not weeded in year three is a brown roof by year five. A system that depends on annual care is easily abandoned when budgets tighten."
+            },
+            {
+              "label": "E",
+              "text": "The co-benefits are real and are part of the case. The same trees and water that delay runoff also cool a street by several degrees, and the same basin that holds a storm is a park on the other three hundred days. Property values near restored watercourses tend to rise. In dense older districts, however, retrofit is expensive and disruptive, and the space for a basin is usually the space somebody is already using."
+            },
+            {
+              "label": "F",
+              "text": "Responsibility is scattered. Drainage belongs to one agency, roads to another, parks to a third, and the river to a fourth, each with its own budget and its own year-end. No single office is rewarded when a flood does not happen. In this gap the word \"sponge\" has sometimes become branding rather than engineering: a few planters and a slogan attached to a development that has added a hectare of concrete."
+            },
+            {
+              "label": "G",
+              "text": "No city can be made flood-proof, and the promise that it can be is a political temptation rather than an engineering one. The realistic aim is to combine grey infrastructure with green, to decide in advance which streets and squares may flood, and to make those places safe when they do. Water that is expected somewhere is a nuisance; water that is unexpected everywhere is a disaster."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Paving over land changes how quickly rainwater reaches the drains.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：每公顷沥青替代田野，水不再下渗而是「流走」，几分钟内就到达下水道，而不是几小时。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "it arrives at the drains within minutes rather than hours"
+            },
+            {
+              "number": 37,
+              "stem": "Traditional drainage assumed that the climate would not change.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：按「设计暴雨」修管网，前提是气候稳定（stationary），而这一前提已不成立。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "only if the climate is stationary, which it no longer is"
+            },
+            {
+              "number": 38,
+              "stem": "Green techniques all work by holding water back rather than keeping it out.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：湿地、下沉花园、透水铺装等做的是同一件事——把雨水留住数小时再缓慢释放，削减管网洪峰。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "they hold rainfall for hours, release it gradually"
+            },
+            {
+              "number": 39,
+              "stem": "The 'sponge' metaphor explains why the idea spread so widely.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：sponge city 这个说法之所以传播，正因比喻好用——海绵不能阻止下雨，只是把雨延后。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "has travelled precisely because the metaphor is useful"
+            },
+            {
+              "number": 40,
+              "stem": "Many projects are assessed by simulation rather than by measurement.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：许多方案靠计算机模型论证，而非监测；很少有城市公布真实暴雨的实测结果。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "justified by computer models rather than by monitoring"
+            },
+            {
+              "number": 41,
+              "stem": "Green systems fail quietly when routine upkeep is neglected.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：透水面被泥沙堵塞、蓄水池淤积、三年不除草绿色屋顶变褐色屋顶；依赖年度维护的系统在预算收紧时最易被放弃。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "permeable surfaces clog with silt"
+            },
+            {
+              "number": 42,
+              "stem": "Flood defences can also make a neighbourhood pleasanter to live in.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：同一批树木和水既延缓径流又给街道降温，同一蓄水池一年中三百天是公园——即「协同效益」。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "the same basin that holds a storm is a park"
+            },
+            {
+              "number": 43,
+              "stem": "In built-up areas, finding land for storage is the difficulty.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：老城区改造昂贵扰民，而建蓄水池要用的地「往往正是别人正在用的地」。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "the space for a basin is usually the space somebody is already using"
+            },
+            {
+              "number": 44,
+              "stem": "No single office is credited when a flood is avoided.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：排涝、道路、园林、河道分属不同部门，各有预算与考核年度，「没有哪个部门会因为没发生洪水而受奖励」。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "No single office is rewarded when a flood does not happen"
+            },
+            {
+              "number": 45,
+              "stem": "The realistic goal is to accept that some places will flood, and to design them accordingly.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：现实目标是把灰色与绿色设施结合，事先决定哪些街道广场可以淹，并让这些地方在被淹时是安全的。",
+              "type": "态度题",
+              "evidencePara": "G",
+              "evidenceText": "decide in advance which streets and squares may flood"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A drone that costs less than a second-hand car can now spray a hectare of rice in eight minutes. In parts of East Asia the machines have moved from demonstration to routine in less than a decade, and the reasons are not mainly technological. Rural labour has become scarce and old; a kilogram of pesticide carried on a backpack is a young person's job, and there are fewer young people willing to do it in a flooded field at forty degrees."
+            },
+            {
+              "label": "B",
+              "text": "The agronomic gains are real. A drone flies a fixed height above the canopy, so the dose is more even than a hand-held sprayer's, and its rotors push the spray into the crop rather than letting it drift away. Because it can work at night, when the wind usually drops, it can hit the window when a pest is most vulnerable. It also compacts nothing: no wheels, no trampled rows, no tractor in a field that is too wet to carry one."
+            },
+            {
+              "label": "C",
+              "text": "The limits are equally real, and they are agronomic rather than mechanical. A fine droplet that penetrates a canopy also travels on the slightest breeze; regulators worry about what leaves the field, and neighbours worry more. Coverage under a dense canopy remains uneven, and the machine applies whatever is in the tank with great precision—which is a virtue only if the decision in the tank is a good one. A farmer who sprays on a calendar rather than on a scouting report will now do the wrong thing more efficiently."
+            },
+            {
+              "label": "D",
+              "text": "Data is where the economics may shift. The mapping flights that make the spraying accurate also produce a detailed picture of a field, and that picture is valuable to the company that processes it. Several providers now sell the machine cheaply and charge for the analysis, or bundle the hardware with a subscription to advice. For a farmer with two hectares, the service is often the only affordable route; it also means that the knowledge of his own land accumulates somewhere he cannot see."
+            },
+            {
+              "label": "E",
+              "text": "Safety regulation has lagged the market. Airspace rules were written for aircraft and are administered by aviation authorities who rarely talk to agriculture ministries; licensing courses vary from a weekend to a month; and the most common accident is not a collision with a person but a power line. The technology is not, in the end, a system. It is a tool that amplifies whatever agronomy it is given—which is why the most successful programmes train the adviser before they buy the fleet."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What has mainly driven the adoption of spraying drones?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A fall in the price of pesticides."
+                },
+                {
+                  "key": "B",
+                  "text": "A breakthrough in battery technology."
+                },
+                {
+                  "key": "C",
+                  "text": "The shortage and ageing of rural labour."
+                },
+                {
+                  "key": "D",
+                  "text": "Government subsidies for machinery."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段：十年内从示范走向常规，「原因主要不是技术」——农村劳动力稀缺且老龄化，背着药箱下田是年轻人的活。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "Rural labour has become scarce and old"
+            },
+            {
+              "number": 47,
+              "stem": "What is one advantage of rotor-driven spray over a hand-held sprayer?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It uses a smaller quantity of chemical."
+                },
+                {
+                  "key": "B",
+                  "text": "It pushes the spray into the crop instead of losing it to drift."
+                },
+                {
+                  "key": "C",
+                  "text": "It can be operated without any training."
+                },
+                {
+                  "key": "D",
+                  "text": "It works better in strong wind."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：旋翼把药雾「压进」作物，而不是任其飘散；同时飞行高度固定使剂量更均匀。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "push the spray into the crop rather than letting it drift away"
+            },
+            {
+              "number": 48,
+              "stem": "What does the third paragraph suggest about precision?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is the only reason farmers buy drones."
+                },
+                {
+                  "key": "B",
+                  "text": "It removes the need for scouting."
+                },
+                {
+                  "key": "C",
+                  "text": "It guarantees a better agronomic outcome."
+                },
+                {
+                  "key": "D",
+                  "text": "It makes an existing mistake happen more efficiently."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段末：机器「极其精准地喷洒桶里的东西」，只有当桶里的决定是对的，精准才是优点；按日历打药的人只会「更高效地做错事」。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "will now do the wrong thing more efficiently"
+            },
+            {
+              "number": 49,
+              "stem": "What concern does the passage raise about data from mapping flights?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Knowledge of the land accumulates where the farmer cannot see it."
+                },
+                {
+                  "key": "B",
+                  "text": "It is illegal to collect it in most countries."
+                },
+                {
+                  "key": "C",
+                  "text": "It is usually inaccurate."
+                },
+                {
+                  "key": "D",
+                  "text": "It is controlled by the farmer's cooperative."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：测绘飞行产生的地块数据对处理它的公司有价值，服务模式下「关于自己土地的知识，积累在他看不见的地方」。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "accumulates somewhere he cannot see"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's conclusion about agricultural drones?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are only suitable for large farms."
+                },
+                {
+                  "key": "B",
+                  "text": "They will soon replace agronomists."
+                },
+                {
+                  "key": "C",
+                  "text": "They are a tool that magnifies the quality of the decisions behind them."
+                },
+                {
+                  "key": "D",
+                  "text": "They are too dangerous to be used near settlements."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段末：技术本身不是「系统」，而是「放大既有农艺水平的工具」，故最成功的项目先培训顾问、再买机队。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "amplifies whatever agronomy it is given"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Nearly all food is processed; bread is processed, cheese is processed, and so is the bag of leaves that costs more than the chicken. The category that worries researchers is narrower and blunter: \"ultra-processed\" foods, defined not by their nutrients but by their ingredients—industrial substances and additives that a domestic kitchen does not stock. In several rich countries these now supply more than half of the calories an average person eats."
+            },
+            {
+              "label": "B",
+              "text": "The epidemiological signal is unusually consistent. Cohorts that follow tens of thousands of people for a decade report that each additional daily serving is associated with small but reliable increases in weight gain, heart disease, type 2 diabetes and depression. The associations survive adjustment for income, education, smoking and baseline diet, which is more than most nutritional findings manage."
+            },
+            {
+              "label": "C",
+              "text": "None of that settles the question of cause. People who eat a lot of ultra-processed food differ from people who do not in ways that questionnaires measure badly: how they sleep, how much they move, whether they cook, how stressed they are. The measurement itself is weak, since food-frequency questionnaires ask people to recall a year of meals. And reverse causation is plausible: a person who is depressed may eat differently before he is diagnosed, not after."
+            },
+            {
+              "label": "D",
+              "text": "The category is also too coarse to be a cause of anything. It contains a wholemeal loaf with emulsifiers and a bag of crisps, a flavoured yoghurt and a sugared drink. If the harm lies in energy density, in soft texture that lets people eat quickly, in the absence of fibre, or in the way such food is marketed and priced, then the label \"ultra-processed\" is a proxy for several different mechanisms at once—and a policy aimed at the label may miss whichever one matters."
+            },
+            {
+              "label": "E",
+              "text": "The mechanisms proposed are plausible and partly testable. Foods that are soft, dry and calorie-dense are eaten faster, and speed matters: the hormones that signal fullness lag behind the fork. Add cheapness, long shelf life and advertising, and you have a product that is profitable precisely because it is easy to over-consume. Trials that provide whole diets rather than single foods have begun to isolate this, and their early results suggest the effect is real and not only a matter of labelling."
+            },
+            {
+              "label": "F",
+              "text": "For policy the practical question is what to regulate. Taxing a category that includes wholemeal bread is both unfair and ineffective; taxing sugar-sweetened drinks is neither. Restricting marketing to children, setting standards for school meals, and requiring clear front-of-pack information are all defensible without waiting for the causal question to close. The reasonable position is to act on what is known—excess sugar, salt and calories—while treating the processing itself as a promising hypothesis rather than a settled verdict."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What defines an ultra-processed food in the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The presence of ingredients a domestic kitchen would not stock."
+                },
+                {
+                  "key": "B",
+                  "text": "The number of additives listed on the label."
+                },
+                {
+                  "key": "C",
+                  "text": "The fact that it is sold in a supermarket."
+                },
+                {
+                  "key": "D",
+                  "text": "Its calorie content per hundred grams."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：这一类别「不看营养素，看配料」——含有家庭厨房不会备的工业物质与添加剂。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "not by their nutrients but by their ingredients"
+            },
+            {
+              "number": 52,
+              "stem": "Why does the author call the epidemiological evidence 'unusually consistent'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because it comes from randomised trials."
+                },
+                {
+                  "key": "B",
+                  "text": "Because the associations hold after adjusting for many confounders."
+                },
+                {
+                  "key": "C",
+                  "text": "Because every study used the same questionnaire."
+                },
+                {
+                  "key": "D",
+                  "text": "Because the effects are very large in individuals."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：控制收入、教育、吸烟与基线饮食后关联依然存在，且效应虽小但稳定。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "survive adjustment for income, education, smoking"
+            },
+            {
+              "number": 53,
+              "stem": "What does the author identify as a weakness of the dietary measurement?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is carried out only in rich countries."
+                },
+                {
+                  "key": "B",
+                  "text": "It ignores the cost of food."
+                },
+                {
+                  "key": "C",
+                  "text": "It cannot distinguish men from women."
+                },
+                {
+                  "key": "D",
+                  "text": "It relies on people remembering a year of meals."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段：食物频率问卷要求受访者回忆一年的饮食，测量本身很弱；同时混杂因素（睡眠、运动、压力）也难以测准。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "ask people to recall a year of meals"
+            },
+            {
+              "number": 54,
+              "stem": "Why is the category criticised as 'too coarse'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It applies only to imported products."
+                },
+                {
+                  "key": "B",
+                  "text": "It ignores the cost of processing."
+                },
+                {
+                  "key": "C",
+                  "text": "It includes foods that are clearly healthy and foods that are not."
+                },
+                {
+                  "key": "D",
+                  "text": "It was invented by the food industry."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段：该类别把含乳化剂的全麦面包与薯片、风味酸奶与含糖饮料放在一起；若危害来自能量密度、质地或营销，标签只是多种机制的「代理变量」。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "a wholemeal loaf with emulsifiers and a bag of crisps"
+            },
+            {
+              "number": 55,
+              "stem": "What policy position does the author recommend?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Tax the category as a whole."
+                },
+                {
+                  "key": "B",
+                  "text": "Act on established harms while treating processing as a hypothesis."
+                },
+                {
+                  "key": "C",
+                  "text": "Wait for randomised trials before doing anything."
+                },
+                {
+                  "key": "D",
+                  "text": "Ban all ultra-processed foods until causation is proved."
+                }
+              ],
+              "answer": "B",
+              "analysis": "F 段：对已知问题（糖、盐、热量）先行行动，把「加工本身」当作有希望的假设而非定论；整类征税既不公平也无效。",
+              "type": "态度题",
+              "evidencePara": "F",
+              "evidenceText": "treating the processing itself as a promising hypothesis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n刺绣是中国传统手工技艺，用针线在丝绸或棉布上绣出花鸟、山水和人物。中国有四大名绣，即苏绣、湘绣、粤绣和蜀绣，各有独特的针法与色彩。苏绣以精细著称，一幅双面绣的两面图案可以完全不同，针脚细如发丝。过去，刺绣常被视为衡量女子才德的标准；如今它用于服饰、家居和艺术品，也走进了时装秀场。2006 年，刺绣被列入中国国家级非物质文化遗产名录。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nEmbroidery is a traditional Chinese craft in which needle and thread are used to work flowers, birds, landscapes and figures onto silk or cotton. China has four famous schools—Su, Xiang, Yue and Shu—each with its own stitches and palette. A single silk thread may be split into several finer ones, and that is how the finest work is done. Su embroidery is known for its fineness: in a piece worked on both sides, the two surfaces may carry entirely different designs, with stitches as fine as a hair. In the past, embroidery was one measure of a woman's character and accomplishment; today the craft appears in clothing, furnishings and works of art, and has reached the fashion runway. In 2006 it was placed on China's national list of intangible cultural heritage.\n\n【要点】①「用针线在……上绣出」用被动 in which needle and thread are used to work ... onto ...，避免中式主动句；②「四大名绣」可译 four famous schools，后接同位语列举，无需逐省展开；③「以精细著称，一幅双面绣的两面图案可以完全不同」用冒号引出具体说明，比 and 连接更清楚；④「衡量女子才德的标准」意译为 one measure of a woman's character and accomplishment，不宜直译 talent and virtue；⑤「被列入……名录」用 was placed on / was inscribed on，注意过去时与被动。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

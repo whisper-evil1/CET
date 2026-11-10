@@ -1,0 +1,857 @@
+{
+  "id": "cet4-2024-06-s1",
+  "level": "CET4",
+  "year": 2024,
+  "month": 6,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on why college students should learn a practical skill outside their major. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nWhy College Students Should Learn a Skill Outside Their Major\n\nA degree certifies knowledge; it does not certify that a graduate can do anything with their hands. Learning one practical skill outside the major—cooking, basic bookkeeping, bicycle repair, first aid—is a small investment with a long return.\n\nThe first reason is independence. A student who can cook three meals spends a third of what a canteen-only student spends, and eats better. A student who can read a payslip understands why the figure in the bank is smaller than the figure on the contract. These are not hobbies; they are the mechanics of adult life.\n\nThe second reason is confidence. A skill learned outside the classroom is learned by failing at it. The first flat tyre, the first burnt rice, the first month whose budget does not balance—each is a small, safe lesson in fixing something yourself. Students with that experience approach unfamiliar problems differently, because they have already been beginners once and survived it.\n\nUniversities rarely teach these things, which is exactly why a student should not wait for a course.\n\n（约 165 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Ten years ago, few European city centres had a lane reserved for bicycles. Today the network in some cities is longer than the metro. The change did not come from one decision but from hundreds of small ones, each 26______ by a council vote, a petition or an accident that made the news. Supporters argue that protected lanes are cheap 27______. A kilometre of cycle track costs a fraction of a kilometre of underground railway, and it can be built in months rather than years. In one Danish city, the share of trips made by bike rose from 18 to 27 per cent in a decade, while the number of cyclists injured fell, because separated lanes 28______ collisions with cars."
+            },
+            {
+              "label": "B",
+              "text": "Critics 29______ that the lanes mainly serve young, fit commuters and do little for the elderly or for parents carrying shopping. They also warn that removing parking spaces can 30______ local shops. Studies from several cities 31______ this worry: retailers usually overestimate how many of their customers arrive by car, and shops on streets with new cycle lanes reported 32______ sales, not lower ones."
+            },
+            {
+              "label": "C",
+              "text": "The lesson is that a lane is not simply a strip of paint. It 33______ a decision about who a street is for. Cities that treat cycling as 34______ rather than as a hobby tend to build networks instead of fragments, and they accept that the change will be 35______ at first."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {"key": "A", "text": "approved"},
+                {"key": "B", "text": "opposed"},
+                {"key": "C", "text": "announced"},
+                {"key": "D", "text": "recorded"}
+              ],
+              "answer": "A",
+              "analysis": "空后 by a council vote（由议会投票）说明每一项小决定都是被「批准」的；opposed 方向相反，announced 与 vote 搭配不当，recorded 只表示记录，不含通过之意。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "each approved by a council vote"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {"key": "A", "text": "equipment"},
+                {"key": "B", "text": "infrastructure"},
+                {"key": "C", "text": "budget"},
+                {"key": "D", "text": "recreation"}
+              ],
+              "answer": "B",
+              "analysis": "下一句把它和地下铁路的造价对比（a fraction of a kilometre of underground railway），说明自行车道属于「基础设施」；equipment 指设备，budget 指预算，都不指道路设施。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a fraction of a kilometre of underground railway"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {"key": "A", "text": "encourage"},
+                {"key": "B", "text": "measure"},
+                {"key": "C", "text": "reduce"},
+                {"key": "D", "text": "record"}
+              ],
+              "answer": "C",
+              "analysis": "前半句说受伤人数下降（the number of cyclists injured fell），because 引出原因：隔离车道「减少」了与汽车的碰撞，reduce collisions 搭配成立。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "the number of cyclists injured fell"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {"key": "A", "text": "deny"},
+                {"key": "B", "text": "celebrate"},
+                {"key": "C", "text": "argue"},
+                {"key": "D", "text": "copy"}
+              ],
+              "answer": "C",
+              "analysis": "后接 that 从句提出批评者的看法，且下一句用 They also warn 并列，说明这里是「主张、争辩」；deny 会否定后文观点，celebrate 与批评立场矛盾。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "They also warn that"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {"key": "A", "text": "benefit"},
+                {"key": "B", "text": "harm"},
+                {"key": "C", "text": "attract"},
+                {"key": "D", "text": "protect"}
+              ],
+              "answer": "B",
+              "analysis": "批评者担心取消停车位会「损害」沿街商铺，后文 studies challenge this worry 正是对这一负面担心作出回应，故用 harm；benefit 与担心的方向相反。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "Studies from several cities"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {"key": "A", "text": "confirm"},
+                {"key": "B", "text": "repeat"},
+                {"key": "C", "text": "explain"},
+                {"key": "D", "text": "challenge"}
+              ],
+              "answer": "D",
+              "analysis": "冒号后的证据是商家高估了开车顾客比例、新车道旁店铺营业额反而更高，与担心相反，故 studies「质疑」这一担心；confirm 会使冒号后的内容自相矛盾。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "retailers usually overestimate how many of their customers arrive by car"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {"key": "A", "text": "steady"},
+                {"key": "B", "text": "annual"},
+                {"key": "C", "text": "lower"},
+                {"key": "D", "text": "higher"}
+              ],
+              "answer": "D",
+              "analysis": "not lower ones 表明所填词与 lower 构成对比，指营业额「更高」；steady 与 annual 都不与 lower 形成对照，且 annual 是时间限定而非高低比较。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "reported higher sales, not lower ones"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {"key": "A", "text": "hides"},
+                {"key": "B", "text": "reflects"},
+                {"key": "C", "text": "delays"},
+                {"key": "D", "text": "measures"}
+              ],
+              "answer": "B",
+              "analysis": "前句说车道不只是涂料，后句说它关乎「街道为谁服务」，因此一条车道「反映」了一种决策，reflect a decision 是常见搭配；hides 与文意相反。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "a decision about who a street is for"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {"key": "A", "text": "recreation"},
+                {"key": "B", "text": "competition"},
+                {"key": "C", "text": "transport"},
+                {"key": "D", "text": "entertainment"}
+              ],
+              "answer": "C",
+              "analysis": "rather than as a hobby（而不是当作爱好）表明自行车被当作正经的「交通方式」，与前文 commuters、trips 呼应；recreation 恰是 hobby 的同义重复。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "rather than as a hobby"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {"key": "A", "text": "welcome"},
+                {"key": "B", "text": "cheap"},
+                {"key": "C", "text": "visible"},
+                {"key": "D", "text": "unpopular"}
+              ],
+              "answer": "D",
+              "analysis": "at first 暗示初期有阻力，与前文需要议会投票、请愿、甚至事故推动相呼应，说明改变起初「不受欢迎」；welcome 与 at first 的转折语气冲突。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "accept that the change will be unpopular at first"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The model began in a working-class district of Essen, where a family grocery opened in 1913 and, after the war, was rebuilt around a single idea: sell fewer things, sell them fast, and spend nothing on making the shop look nice. Goods stayed in their cardboard boxes and were stacked on pallets; there was no fresh bread, no music and almost no staff. The saving was handed back in the form of lower prices, and the formula was copied across Europe by two chains that later became rivals."
+            },
+            {
+              "label": "B",
+              "text": "The economics are simple and unsentimental. A national brand has to pay for television advertising, for the sales force that persuades a buyer to stock it and for the promotions that fill the calendar; an own-label product pays for none of these. It also passes through fewer hands: one contract with one factory, one delivery to one warehouse. The result is that a supermarket may earn three or four percentage points more on a packet of own-brand biscuits than on the famous brand beside it, even though the customer pays less. The shelf is not a neutral stage on which brands compete; the shop is also a manufacturer."
+            },
+            {
+              "label": "C",
+              "text": "For a long time the format was treated as a joke in Britain. The first store opened in Birmingham in 1990, and for nearly two decades the typical shopper was assumed to be someone who was not fussy. The financial crisis of 2008 changed the arithmetic: households that had never compared prices began to, and discovered that a basket of basics cost a third less. Growth since then has been steady rather than spectacular. By 2023 the two German chains together held close to a fifth of the grocery market, and one of them had moved ahead of a national chain that had been in the top four for a generation."
+            },
+            {
+              "label": "D",
+              "text": "The pressure falls hardest on suppliers. A discounter may stock only one or two brands in a category, which means a single contract can represent a third of a manufacturer's output; winning it brings volume at a margin thin enough that one bad harvest wipes out the profit, and losing it removes that volume overnight. Some firms have responded by becoming invisible, making the own-label version and letting the supermarket's name do the selling. Others have simply gone. The buyer, meanwhile, has become unusually powerful, because there are only a handful of buyers left in each category."
+            },
+            {
+              "label": "E",
+              "text": "The change in customers is harder to measure and more important. Surveys in several countries find that the share of shoppers who believe a familiar name guarantees better quality has fallen steadily, especially among those under forty. Blind tastings have helped: when a supermarket's tomato ketchup beats a famous one, the result is reported, shared and remembered. Yet confidence is not uniform. Own labels do well in flour, pasta, tinned tomatoes and kitchen roll, and still struggle in categories where a mistake is expensive or invisible, such as baby food, medicine and anything applied to the skin. The premium has not vanished; it has retreated into particular aisles."
+            },
+            {
+              "label": "F",
+              "text": "The established chains did not stand still. They cut the number of products they sell, in some cases from thirty thousand lines to twenty, and used the space and the savings to lower prices on the staples that customers notice most. Several introduced a price match, promising that a basket of essentials would cost no more than at a discounter, and paid for it partly by dropping the weaker brands that had occupied the middle of the shelf. The middle, it turned out, was where the margin was thinnest and the loyalty weakest."
+            },
+            {
+              "label": "G",
+              "text": "What the discounters have really changed is not the price of food but the assumption behind it: that a name on a packet is worth paying for. That assumption survived most of a century and has now been withdrawn, aisle by aisle. The gain for shoppers is real and can be counted. The risk is quieter. When two buyers control a category, the range of what is made shrinks to what those two will accept, and a market that is cheap because it is narrow is not the same thing as a market that works well."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "type": "细节题",
+              "stem": "A retail format that began in one German town kept its costs down by refusing to spend money on display.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：埃森一家 1913 年开张的家族杂货店，战后围绕「少卖、快卖、不花钱把店面弄好看」重建，货品留在纸箱里、码在托盘上，省下的钱以低价返还。",
+              "evidencePara": "A",
+              "evidenceText": "spend nothing on making the shop look nice"
+            },
+            {
+              "number": 37,
+              "type": "细节题",
+              "stem": "A retailer's own label earns it more per item because the costs of advertising and promotion disappear.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：全国性品牌要付电视广告费、推销团队和全年促销，自有品牌一项都不用付，还少经过几道手，因此同一货架上自有品牌饼干能多赚三四个百分点，尽管顾客付得更少。",
+              "evidencePara": "B",
+              "evidenceText": "earn three or four percentage points more on a packet of own-brand biscuits"
+            },
+            {
+              "number": 38,
+              "type": "推断题",
+              "stem": "For many years British shoppers regarded this kind of store as slightly ridiculous.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：这种业态在英国长期被当成笑话，1990 年第一家店开在伯明翰，近二十年间典型顾客被默认为「不讲究的人」。",
+              "evidencePara": "C",
+              "evidenceText": "the format was treated as a joke in Britain"
+            },
+            {
+              "number": 39,
+              "type": "细节题",
+              "stem": "Winning a contract can give a supplier scale but leaves almost no room for error.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：折扣店一个品类只备一两个品牌，一份合同可能占厂商三分之一的产量，赢了是量大但利润薄到「一次歉收就把利润吃光」。",
+              "evidencePara": "D",
+              "evidenceText": "a margin thin enough that one bad harvest wipes out the profit"
+            },
+            {
+              "number": 40,
+              "type": "推断题",
+              "stem": "Shoppers are less inclined than they once were to think a well-known name means better quality.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：多国调查显示，相信「熟悉的名字等于更好质量」的顾客比例持续下降，四十岁以下尤其明显；盲测结果又被广泛传播。",
+              "evidencePara": "E",
+              "evidenceText": "believe a familiar name guarantees better quality has fallen steadily"
+            },
+            {
+              "number": 41,
+              "type": "细节题",
+              "stem": "Established chains have reduced both their range and their prices in order to compete.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：老牌连锁砍掉商品数量（有的从三万种降到两万），把腾出的空间和节省下来的钱用来降低顾客最敏感的基本商品价格，还推出对标折扣店的价格承诺。",
+              "evidencePara": "F",
+              "evidenceText": "cut the number of products they sell"
+            },
+            {
+              "number": 42,
+              "type": "细节题",
+              "stem": "One discounter has overtaken a long-established rival in size.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：到 2023 年两家德国连锁合计接近两成市场份额，其中一家已经超过了稳居前四一代人之久的一家本土连锁。",
+              "evidencePara": "C",
+              "evidenceText": "one of them had moved ahead of a national chain"
+            },
+            {
+              "number": 43,
+              "type": "细节题",
+              "stem": "Losing a single order can cost a manufacturer a large share of its sales.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：一份合同可占厂商三分之一产量，失去它「一夜之间」就没了这部分销量；一些厂商转而隐身做代工，另一些则消失了。",
+              "evidencePara": "D",
+              "evidenceText": "losing it removes that volume overnight"
+            },
+            {
+              "number": 44,
+              "type": "推断题",
+              "stem": "Own brands are still trusted less in some kinds of goods than in others.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：自有品牌在面粉、意面、番茄罐头、厨房纸上表现好，在「出错代价大或看不见」的品类（婴儿食品、药品、护肤品）仍然吃力，溢价退守到特定货架。",
+              "evidencePara": "E",
+              "evidenceText": "still struggle in categories where a mistake is expensive or invisible"
+            },
+            {
+              "number": 45,
+              "type": "主旨题",
+              "stem": "The deeper change lies in what customers will pay a premium for, and narrower choice is a hidden cost.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：真正被改变的不是食品价格，而是「包装上的名字值得多付钱」这一假设；省下的钱是真的，风险却更安静——两个买家控制一个品类时，供给的种类会收缩，便宜而狭窄不等于运转良好。",
+              "evidencePara": "G",
+              "evidenceText": "a market that is cheap because it is narrow is not the same thing"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Most secondary schools in the United States begin before 8:30 in the morning, and a large share begin before 8:00. To a tired teacher this looks like tradition; to a sleep researcher it looks like a public-health error. At puberty the body clock shifts later by up to two hours, so a sixteen-year-old who is wide awake at midnight is not being difficult. She is following a biological timetable that no amount of advice about screen time will fully reset."
+            },
+            {
+              "label": "B",
+              "text": "In 2014 the American Academy of Pediatrics responded by recommending that middle and high schools start no earlier than 8:30. Progress was slow, because start times are tangled with bus schedules, sports fixtures and parents' working hours. Then Seattle changed. In the autumn of 2016 the district moved its high schools from 7:50 to 8:45, and researchers from the University of Washington were waiting with survey data from before and after."
+            },
+            {
+              "label": "C",
+              "text": "The results, published in 2018, were unusually clean. Students gained an average of 34 minutes of sleep a night, and the share reporting at least eight hours rose from 30 to 57 per cent. Grades in the same subject rose by 4.5 per cent, and attendance improved. The gain was largest among students from poorer families, who had least control over their evenings. Notably, bedtimes did not move: teenagers did not stay up later to compensate."
+            },
+            {
+              "label": "D",
+              "text": "Economics supports the change. A 2017 analysis by the RAND Corporation estimated that a national shift to 8:30 would add about 8.6 billion dollars to the American economy within a decade, largely through higher lifetime earnings and fewer car crashes involving young drivers. Against that, the cost of rescheduling buses is small."
+            },
+            {
+              "label": "E",
+              "text": "The obstacle is not evidence but organisation. Districts that share a bus fleet must stagger start times, and someone has to go first. Sporting leagues must agree to play later. Parents who leave for work at seven must decide whether a teenager can be trusted alone for an hour. These are real problems, but they are the kind that a timetable can solve. The alternative, as one researcher put it, is that we keep asking students to learn at the hour when their brains are least able to."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author say about a teenager who is wide awake at midnight?",
+              "options": [
+                {"key": "A", "text": "She is simply being difficult on purpose."},
+                {"key": "B", "text": "She is following a biological shift in her body clock."},
+                {"key": "C", "text": "She has probably used a phone for too long."},
+                {"key": "D", "text": "She needs less sleep than adults do."}
+              ],
+              "answer": "B",
+              "analysis": "A 段：青春期生物钟最多推迟两小时，午夜清醒「不是故意为难」，而是遵循一张生物时间表。C 项看似合理，但原文明确说任何关于屏幕时间的建议都无法完全重置它。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "following a biological timetable"
+            },
+            {
+              "number": 47,
+              "stem": "Why did the 2014 recommendation produce little change at first?",
+              "options": [
+                {"key": "A", "text": "Most schools doubted the research behind it."},
+                {"key": "B", "text": "It conflicted with bus, sports and family schedules."},
+                {"key": "C", "text": "It applied only to schools in wealthy districts."},
+                {"key": "D", "text": "Teachers refused to arrive earlier."}
+              ],
+              "answer": "B",
+              "analysis": "B 段：进展缓慢是因为上课时间与校车时刻、体育赛事、家长上班时间纠缠在一起。原文没有提到学校质疑研究（A）或教师拒绝早到（D）。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "tangled with bus schedules, sports fixtures and parents' working hours"
+            },
+            {
+              "number": 48,
+              "stem": "What did the Seattle study find about students' bedtimes?",
+              "options": [
+                {"key": "A", "text": "They became later by about half an hour."},
+                {"key": "B", "text": "They stayed the same as before."},
+                {"key": "C", "text": "They became earlier in poorer families only."},
+                {"key": "D", "text": "They could not be measured reliably."}
+              ],
+              "answer": "B",
+              "analysis": "C 段末：bedtimes did not move，学生并没有因为上学晚了就睡得更晚，因此多出的睡眠完全来自晚起。这一句正是为了排除「只是把时间往后挪」的质疑。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "bedtimes did not move"
+            },
+            {
+              "number": 49,
+              "stem": "What does the RAND analysis suggest about later start times?",
+              "options": [
+                {"key": "A", "text": "Their economic gains are far larger than the cost of buses."},
+                {"key": "B", "text": "They mainly benefit drivers under the age of twenty."},
+                {"key": "C", "text": "Their benefits appear only after thirty years."},
+                {"key": "D", "text": "They are too expensive for most school districts."}
+              ],
+              "answer": "A",
+              "analysis": "D 段：十年内可为美国经济增加约 86 亿美元，而重排校车的成本很小（the cost of rescheduling buses is small），二者对比即 A。原文说减少年轻司机车祸是收益来源之一，但并非「主要受益者是司机」（B）。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "the cost of rescheduling buses is small"
+            },
+            {
+              "number": 50,
+              "stem": "How does the author regard the practical obstacles?",
+              "options": [
+                {"key": "A", "text": "They are serious enough to make the reform impossible."},
+                {"key": "B", "text": "They are invented by people who oppose the research."},
+                {"key": "C", "text": "They can be dealt with through better timetabling."},
+                {"key": "D", "text": "They matter less than the cost of new buses."}
+              ],
+              "answer": "C",
+              "analysis": "E 段：这些问题是真的，但属于「一张时间表就能解决」的类型（the kind that a timetable can solve），作者因此并不认为改革不可行。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "the kind that a timetable can solve"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 1982 a group of Maori families in New Zealand opened a small preschool in which only Maori was spoken. They called it a language nest, and the idea was radical: instead of teaching the language as a subject for an hour a week, they would surround very young children with it all day. At the time, fewer than five per cent of Maori children spoke Maori as a first language."
+            },
+            {
+              "label": "B",
+              "text": "The model spread. Hawaii opened its first language nest in 1984, when perhaps thirty people under the age of eighteen spoke Hawaiian fluently; today several thousand do, and Hawaiian is an official language of the state. Wales has taken a different route, building Welsh-medium schools that teach the whole curriculum in Welsh to children from English-speaking homes. Its target is a million Welsh speakers by 2050, up from about 880,000."
+            },
+            {
+              "label": "C",
+              "text": "What these efforts share is a refusal to treat a language as a heritage object. A language that is only performed at festivals, sung in a choir and printed on road signs will not be learned by children. It survives when it is used to argue about football, to complain about homework and to buy bread. That requires teachers, and teachers require money and time: a Welsh-medium science teacher needs both the subject and the language."
+            },
+            {
+              "label": "D",
+              "text": "The results are mixed and slow. Welsh-medium schools produce confident bilinguals, but in some communities Welsh is still rarely heard in shops. Maori language nests succeeded in creating a generation of young speakers, yet many of them had few adults outside school to speak to. Languages, unlike buildings, cannot be restored and then left alone; they need a daily reason to be used."
+            },
+            {
+              "label": "E",
+              "text": "That is why the more interesting experiments are economic. In Wales, subsidies for childcare in Welsh and requirements that public bodies produce Welsh versions of documents create jobs in which the language is a qualification. In New Zealand, broadcasting and film funding did the same. A language, in the end, is kept alive by people who find it useful, not by people who find it beautiful."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What was radical about the first Maori language nest?",
+              "options": [
+                {"key": "A", "text": "It taught the language as a weekly subject."},
+                {"key": "B", "text": "It surrounded small children with the language all day."},
+                {"key": "C", "text": "It was funded by the New Zealand government."},
+                {"key": "D", "text": "It was open to adults as well as children."}
+              ],
+              "answer": "B",
+              "analysis": "A 段：激进之处在于「不是每周上一小时语言课」，而是让很小的孩子整天被这种语言包围（surround very young children with it all day）。A 项恰是被否定的旧做法。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "surround very young children with it all day"
+            },
+            {
+              "number": 52,
+              "stem": "How does the Welsh approach differ from the Maori one?",
+              "options": [
+                {"key": "A", "text": "It starts with children who already speak the language."},
+                {"key": "B", "text": "It relies on broadcasting rather than schools."},
+                {"key": "C", "text": "It teaches the whole curriculum in the language to English-speaking children."},
+                {"key": "D", "text": "It has given up the aim of new speakers."}
+              ],
+              "answer": "C",
+              "analysis": "B 段：威尔士走的是另一条路——用威尔士语教授全部课程，面向来自英语家庭的孩子（children from English-speaking homes）。A 项与原文相反，D 项与「2050 年一百万使用者」的目标矛盾。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "teach the whole curriculum in Welsh to children from English-speaking homes"
+            },
+            {
+              "number": 53,
+              "stem": "What does the author mean by refusing to treat a language as a heritage object?",
+              "options": [
+                {"key": "A", "text": "A language must be used in ordinary daily life."},
+                {"key": "B", "text": "Old buildings should not be turned into museums."},
+                {"key": "C", "text": "Festivals should be held more often."},
+                {"key": "D", "text": "Road signs should be printed in two languages."}
+              ],
+              "answer": "A",
+              "analysis": "C 段：只在节日表演、合唱、路牌上出现的语言孩子学不会；它要能用来「争论足球、抱怨作业、买面包」才能活下来，即必须进入日常使用。B 项是比喻误读。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "to argue about football, to complain about homework and to buy bread"
+            },
+            {
+              "number": 54,
+              "stem": "What problem do both the Welsh and the Maori efforts face?",
+              "options": [
+                {"key": "A", "text": "Too few qualified teachers in every subject."},
+                {"key": "B", "text": "Little chance to use the language outside school."},
+                {"key": "C", "text": "Parents who oppose bilingual education."},
+                {"key": "D", "text": "A shortage of written material."}
+              ],
+              "answer": "B",
+              "analysis": "D 段给出两个例证：威尔士语在部分社区的商店里仍很少听到；毛利语「语言巢」培养出的年轻人，校外很少有成年人可以交谈。二者的共同点正是校外缺少使用机会。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "few adults outside school to speak to"
+            },
+            {
+              "number": 55,
+              "stem": "According to the author, what finally keeps a language alive?",
+              "options": [
+                {"key": "A", "text": "Its beauty as a subject of study."},
+                {"key": "B", "text": "Official status and road signs."},
+                {"key": "C", "text": "People finding it useful, including at work."},
+                {"key": "D", "text": "Recording it before the last speakers die."}
+              ],
+              "answer": "C",
+              "analysis": "E 段末：语言最终靠「觉得它有用」的人延续，而不是靠觉得它美的人；该段举的例子都是把语言变成就业资格（jobs in which the language is a qualification）。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "kept alive by people who find it useful"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n京杭大运河全长约一千八百公里，北起北京，南至杭州，是世界上最长的人工水道。它始建于春秋时期，隋朝时被大规模扩建，成为连接南北的交通命脉。南方的粮食、丝绸和茶叶经由运河运往北方，沿河兴起了许多繁华的城市。今天，大运河仍有部分河段可以通航，两岸的古镇和桥梁吸引着大量游客。2014年，大运河被列入世界遗产名录。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe Beijing-Hangzhou Grand Canal runs for about 1,800 kilometres, from Beijing in the north to Hangzhou in the south, and is the longest artificial waterway in the world. Work on it began in the Spring and Autumn period, and it was greatly expanded during the Sui Dynasty, when it became the main artery linking the north and the south. For centuries it was cheaper to move goods by water than by road, so grain, silk and tea from the south were carried north along the canal, and many prosperous towns grew up along its banks. Today parts of the canal are still navigable, and the old towns and bridges on either side attract a large number of visitors. In 2014 the Grand Canal was added to the World Heritage List.\n\n【要点】①「全长约一千八百公里」用 runs for about 1,800 kilometres；②「始建于」用 Work on it began in，避免直译 built；③「交通命脉」译为 the main artery，比 main road 更贴切；④「经由运河运往北方」用被动 were carried north along the canal；⑤「被列入世界遗产名录」用 was added to the World Heritage List；⑥朝代名（春秋、隋）用拼音加 period / Dynasty，不加冠词。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

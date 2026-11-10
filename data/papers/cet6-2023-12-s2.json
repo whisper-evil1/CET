@@ -1,0 +1,633 @@
+{
+  "id": "cet6-2023-12-s2",
+  "level": "CET6",
+  "year": 2023,
+  "month": 12,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether public libraries are still necessary in an age when most information is available online. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nClosing the Library\n\nEvery few years a council announces that visits have fallen, and that the building on the high street might reasonably become flats. The figures are accurate. The conclusion drawn from them is not.\n\nA library is not a warehouse of books that happens to contain chairs. It is the only indoor public space in most neighbourhoods where a person may sit for six hours without buying anything, and that is why the computers are always occupied, why the photocopier queues on a Tuesday, and why the people queueing are often those with no other quiet room: a student in a crowded flat, a man completing a job application, a woman whose benefit claim now exists only online.\n\nBorrowing figures measure one service and miss the rest. A branch that lends fewer novels may be running English classes, a reading group for toddlers and the only free toilet within a mile. None of these appears in the statistics by which the branch is judged.\n\nLibraries should certainly change—longer hours, fewer reference shelves, more desks and sockets. What they should not do is vanish in order to save a sum that the same council will spend twice over on consultants. A town that can no longer afford a warm room with free internet has not made a saving. It has made a choice, and an unusually clear one.\n\n（约 205 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A parcel arrives, is opened in nine seconds, and the box begins a second life that almost nobody watches. In most cities corrugated cardboard is 26______ collected and pulped, and the recycling rate for it is genuinely high. The difficulty lies in what surrounds the box: plastic air pillows, foam inserts, laminated tape and an adhesive label that no plant can strip cheaply. Each of these looks 27______ in small quantities and ruinous in bulk, because a single contaminant can 28______ a whole bale of otherwise valuable fibre."
+            },
+            {
+              "label": "B",
+              "text": "Reusable containers were meant to solve this. A sturdy crate travels from the warehouse to a customer's door, is picked up by the courier on the next 29______, and returns to the depot to be filled again. Trials suggest that a crate survives thirty to fifty trips before it is retired, which sounds 30______ until the return journey is counted. Somebody must drive to collect it, and if a van travels two kilometres to retrieve one box, the diesel 31______ most of the saving."
+            },
+            {
+              "label": "C",
+              "text": "The schemes that work are those which 32______ the loop instead of lengthening it: lockers in the lobby of an apartment block, a deposit taken at checkout and refunded when the crate comes back, a carrier that delivers and collects on the same 33______. None of this needs new technology. It needs the cost of the empty box to be 34______ to somebody before the box is opened, and that somebody must live close enough for the collection to be worth the trip. Until then, the reusable crate remains a 35______ gesture: photographed for a sustainability report, rarely seen twice on the same street."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "routinely" },
+                { "key": "B", "text": "doubtful" },
+                { "key": "C", "text": "modest" },
+                { "key": "D", "text": "permanent" }
+              ],
+              "answer": "A",
+              "analysis": "routinely「例行地、照常地」修饰 collected and pulped，与后文「回收率确实很高」一致；其余三项为形容词，不能修饰被动结构中的过去分词。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "and the recycling rate for it is genuinely high"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "modest" },
+                { "key": "B", "text": "harmless" },
+                { "key": "C", "text": "permanent" },
+                { "key": "D", "text": "reverse" }
+              ],
+              "answer": "B",
+              "analysis": "looks harmless in small quantities and ruinous in bulk 是「量小无害、量大成灾」的对照结构，harmless 与 ruinous 互为反义，也解释了为何单一杂质能毁掉整捆纸。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "in small quantities and ruinous in bulk"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "permanent" },
+                { "key": "B", "text": "unnoticed" },
+                { "key": "C", "text": "spoil" },
+                { "key": "D", "text": "doubtful" }
+              ],
+              "answer": "C",
+              "analysis": "spoil a bale「使整捆（纸）报废」，与 a single contaminant 的因果相合；情态动词 can 后须接动词原形。",
+              "type": "搭配题",
+              "evidencePara": "A",
+              "evidenceText": "a single contaminant can ... a whole bale of otherwise valuable fibre"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "round" },
+                { "key": "B", "text": "modest" },
+                { "key": "C", "text": "permanent" },
+                { "key": "D", "text": "unnoticed" }
+              ],
+              "answer": "A",
+              "analysis": "on the next round 指快递员「下一趟」上门取件，与后文 returns to the depot to be filled again 的循环流程一致。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "picked up by the courier on the next ..."
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "doubtful" },
+                { "key": "B", "text": "permanent" },
+                { "key": "C", "text": "modest" },
+                { "key": "D", "text": "impressive" }
+              ],
+              "answer": "D",
+              "analysis": "sounds impressive until... 是常见的让步结构：可循环使用三十到五十次听起来很可观，直到把回收运输算进去；后文随即给出反证。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "until the return journey is counted"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "unnoticed" },
+                { "key": "B", "text": "cancels" },
+                { "key": "C", "text": "modest" },
+                { "key": "D", "text": "doubtful" }
+              ],
+              "answer": "B",
+              "analysis": "cancels most of the saving「抵消掉大部分节省」；为跑两公里取一只箱子所耗的柴油，正好抵掉了循环带来的收益。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "the diesel ... most of the saving"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "permanent" },
+                { "key": "B", "text": "reverse" },
+                { "key": "C", "text": "shorten" },
+                { "key": "D", "text": "modest" }
+              ],
+              "answer": "C",
+              "analysis": "shorten the loop instead of lengthening it 中 instead of 提示前后反义，shorten 与 lengthen 构成对照；后文举的「楼内快递柜」正是缩短回程的例子。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "instead of lengthening it"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "doubtful" },
+                { "key": "B", "text": "permanent" },
+                { "key": "C", "text": "unnoticed" },
+                { "key": "D", "text": "route" }
+              ],
+              "answer": "D",
+              "analysis": "on the same route「在同一条路线上」，指同一辆车同时完成送货与取件，因而无需额外里程。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "a carrier that delivers and collects"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "charged" },
+                { "key": "B", "text": "modest" },
+                { "key": "C", "text": "permanent" },
+                { "key": "D", "text": "doubtful" }
+              ],
+              "answer": "A",
+              "analysis": "charge sth to sb「向某人收取……费用」；空箱的成本必须在开箱前就落到某个具体的人头上，押金制正是如此。",
+              "type": "搭配题",
+              "evidencePara": "C",
+              "evidenceText": "before the box is opened"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "modest" },
+                { "key": "B", "text": "token" },
+                { "key": "C", "text": "permanent" },
+                { "key": "D", "text": "unnoticed" }
+              ],
+              "answer": "B",
+              "analysis": "a token gesture「做样子的姿态」；冒号后「只出现在可持续报告的照片里、同一条街上很少见到第二次」正是对 token 的解释。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "photographed for a sustainability report, rarely seen twice on the same street"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In parts of East Asia myopia has stopped being an inconvenience and become the ordinary condition of adulthood: in some Chinese cities nine out of ten school leavers are short-sighted, and the proportion in Seoul and Singapore is not much lower. The cost is not only optical. High myopia raises the lifetime risk of retinal detachment, glaucoma and macular disease, and the bill for treating those conditions is one that health systems have barely begun to estimate."
+            },
+            {
+              "label": "B",
+              "text": "For decades the explanation was reading. Children who spent their evenings with books became short-sighted, and the obvious remedy was to ration the books. Then researchers noticed something awkward in the data. The children who became myopic were not, on average, reading more than the others; they were spending less time outdoors. Two studies published within a year of each other, in Sydney and in Taiwan, found that each additional hour of daylight exposure per week was associated with a measurably lower risk, quite independently of how much close work the child did."
+            },
+            {
+              "label": "C",
+              "text": "The mechanism appears to involve brightness rather than exercise. Indoor lighting delivers a few hundred lux; an overcast playground delivers ten thousand, and direct sun considerably more. Bright light stimulates the release of dopamine in the retina, and dopamine is thought to slow the elongation of the eyeball that produces myopia. This is why a child reading a book in a park is, on this account, better protected than a child reading the same book under a lamp—a conclusion that no theory of near work can accommodate."
+            },
+            {
+              "label": "D",
+              "text": "Screens complicate the story without overturning it. Screen time correlates with myopia largely because it displaces time outdoors; once outdoor hours are held constant, the association weakens sharply. That is inconvenient for schools and parents, because 'put the tablet away' is a rule that can be enforced at the kitchen table, whereas 'spend two hours a day in daylight' requires a timetable, a safe place to play and an adult willing to give up the afternoon."
+            },
+            {
+              "label": "E",
+              "text": "Policy has begun to follow the epidemiology. China's national plan sets targets for reducing myopia among schoolchildren and obliges schools to guarantee outdoor activity; classroom lighting standards have been rewritten; several provinces have experimented with adding a compulsory outdoor period to the end of the school day. Taiwan has gone further, writing to parents and asking schools to schedule a hundred and twenty minutes out of doors every day, with results that are modest but real."
+            },
+            {
+              "label": "F",
+              "text": "The limits should be stated plainly. Outdoor time delays the onset of myopia and slows its progress; it does not reverse an eye that has already elongated, and it is no substitute for glasses, atropine or the other clinical options once myopia exists. Nor does it help much with children who are genetically most at risk. What it does offer is the rarest thing in preventive medicine: an intervention that is free, harmless and effective at population scale—provided somebody is willing to put it in the timetable rather than in a leaflet."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "A condition once regarded as a minor inconvenience has become the norm in some regions.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "A",
+              "analysis": "A 段开头：近视在东亚部分地区已不再是「不便」，而成了成年人的常态，中国部分城市高三学生十有八九近视。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "stopped being an inconvenience and become the ordinary condition of adulthood"
+            },
+            {
+              "number": 37,
+              "stem": "The accepted explanation could not account for the pattern found among affected children.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：几十年来都把原因归为读书，但数据显示近视儿童平均读书并不更多，而是户外时间更少——旧解释解释不了这个模式。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "were not, on average, reading more than the others; they were spending less time outdoors"
+            },
+            {
+              "number": 38,
+              "stem": "The protective factor appears to be brightness rather than physical activity.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段首句：起作用的机制看来是「亮度」而非运动；室内几百勒克斯、阴天操场一万勒克斯的对比正是论据。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "involve brightness rather than exercise"
+            },
+            {
+              "number": 39,
+              "stem": "Once daylight is taken into account, the link with screens becomes much weaker.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：屏幕时间与近视相关，主要是因为它挤占了户外时间；一旦把户外时长固定，相关性明显减弱。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "once outdoor hours are held constant, the association weakens sharply"
+            },
+            {
+              "number": 40,
+              "stem": "Some governments now oblige schools to set aside time out of doors.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：国家规划要求学校保证户外活动，若干省份试行在放学后加一节户外课，台湾更要求每天一百二十分钟。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "obliges schools to guarantee outdoor activity"
+            },
+            {
+              "number": 41,
+              "stem": "The measure postpones the condition but cannot undo damage already done.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：户外时间能推迟发病、减慢进展，但无法让已经拉长的眼轴回缩，也不能替代眼镜或阿托品。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "does not reverse an eye that has already elongated"
+            },
+            {
+              "number": 42,
+              "stem": "Two separate investigations reached a similar conclusion at almost the same time.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：悉尼与台湾的两项研究在一年之内先后发表，结论一致——每周多一小时日照，患病风险显著更低。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "Two studies published within a year of each other, in Sydney and in Taiwan"
+            },
+            {
+              "number": 43,
+              "stem": "On this reasoning, reading in bright light would be safer than reading under a lamp.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：在公园读书的孩子比在台灯下读同一本书的孩子更受保护——任何「近距离用眼」理论都无法解释这一点。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "a child reading a book in a park is ... better protected than a child reading the same book under a lamp"
+            },
+            {
+              "number": 44,
+              "stem": "Advice about daylight is harder to follow than advice about devices.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：「把平板收起来」在饭桌上就能执行，而「每天户外两小时」需要作息、场地和愿意牺牲下午的大人。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "requires a timetable, a safe place to play and an adult willing to give up the afternoon"
+            },
+            {
+              "number": 45,
+              "stem": "Unlike most preventive measures, this one costs nothing and carries no risk.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "F",
+              "analysis": "F 段后半：它提供的是预防医学里最罕见的东西——免费、无害、在人群层面有效，前提是写进课表而非写进传单。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "an intervention that is free, harmless and effective at population scale"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Physical education is the part of the curriculum that everybody approves of and nobody defends. It survives because governments like the word wellbeing, and because the alternative—a generation that never runs—is expensive to treat. Yet participation in organised sport falls sharply at precisely the age when the habit would have to become permanent. Between eleven and fifteen, the share of children meeting the recommended hour of daily activity roughly halves in most rich countries, and among girls the fall is steeper still."
+            },
+            {
+              "label": "B",
+              "text": "The standard explanation is screens, and it is only partly right. Time-use surveys suggest that the hours lost to sport have gone mainly to homework and to travelling to school, not to games consoles. Where a child's school is forty minutes away by bus, the two hours after class that might once have gone to a pitch are already spent. Sport is squeezed out of a crowded timetable first because, unlike mathematics, it does not appear on an examination paper."
+            },
+            {
+              "label": "C",
+              "text": "The claims made for sport are also larger than the evidence. Team games are said to build cooperation, resilience and leadership, and the studies supporting those claims tend to measure the children who chose to play—who differed from those who did not before they ever stepped onto a field. What the better evidence supports is narrower and still worth having: regular activity improves sleep, mood and attention, and adolescents who play at least one sport report fewer symptoms of anxiety than those who play none."
+            },
+            {
+              "label": "D",
+              "text": "Access explains more of the gap than motivation does. A survey of municipal facilities in England found that the poorest fifth of neighbourhoods had a third as many playing fields per child as the richest fifth, and that the cost of joining a club had risen faster than inflation for a decade. When a season's fees exceed a family's weekly food budget, the decline in participation is not a failure of will. It is a price."
+            },
+            {
+              "label": "E",
+              "text": "The interventions that work are unromantic: keep the pitches open in the evening, subsidise the ordinary club rather than the elite squad, let the timetable leave room for an hour of movement, and stop treating sport as a reward for good behaviour that may be withdrawn. None of this will produce champions. It will produce adults who still move, which is the only outcome the health budget can afford."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What happens to participation in organised sport at the start of adolescence?",
+              "options": [
+                { "key": "A", "text": "It rises briefly and then levels off." },
+                { "key": "B", "text": "It falls steeply, especially among girls." },
+                { "key": "C", "text": "It stays stable but shifts to individual sports." },
+                { "key": "D", "text": "It becomes compulsory in most rich countries." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：十一到十五岁之间，达到每日一小时活动建议的孩子比例大约减半，女孩下降更陡。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "roughly halves ... among girls the fall is steeper still"
+            },
+            {
+              "number": 47,
+              "stem": "What does the author say about the 'screens' explanation?",
+              "options": [
+                { "key": "A", "text": "It is entirely false and should be abandoned." },
+                { "key": "B", "text": "It is true for girls but not for boys." },
+                { "key": "C", "text": "It is partly right, but homework and travel matter more." },
+                { "key": "D", "text": "It cannot be tested with the available data." }
+              ],
+              "answer": "C",
+              "analysis": "B 段：屏幕只是部分原因；时间利用调查显示，让出的时间主要去了作业与上学通勤，而不是游戏机。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "The standard explanation is screens, and it is only partly right"
+            },
+            {
+              "number": 48,
+              "stem": "Why are claims about sport building character treated cautiously?",
+              "options": [
+                { "key": "A", "text": "Because the sports studied were all individual ones." },
+                { "key": "B", "text": "Because the children studied had already chosen to play." },
+                { "key": "C", "text": "Because no research on the question exists." },
+                { "key": "D", "text": "Because coaches refused to take part in studies." }
+              ],
+              "answer": "B",
+              "analysis": "C 段：支持这类说法的研究往往只测「选择去打球的孩子」，而这群人在上场之前就与其他孩子不同——样本自选，因果难立。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "measure the children who chose to play—who differed from those who did not"
+            },
+            {
+              "number": 49,
+              "stem": "What does 'It is a price' imply in the fourth paragraph?",
+              "options": [
+                { "key": "A", "text": "Children have simply lost interest in sport." },
+                { "key": "B", "text": "Falling participation reflects cost rather than attitude." },
+                { "key": "C", "text": "Clubs are deliberately excluding poor families." },
+                { "key": "D", "text": "Local facilities have been sold to developers." }
+              ],
+              "answer": "B",
+              "analysis": "D 段：贫困社区人均球场只有富裕社区的三分之一，会费涨幅长期高于通胀；当一季费用超过全家一周的伙食费，参与率下降「不是意志的失败，而是价格」。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "the decline in participation is not a failure of will. It is a price."
+            },
+            {
+              "number": 50,
+              "stem": "Which statement best captures the author's position?",
+              "options": [
+                { "key": "A", "text": "Sport should be made an examined subject." },
+                { "key": "B", "text": "Participation depends on access and timetables, not exhortation." },
+                { "key": "C", "text": "Elite squads deserve more public money than clubs." },
+                { "key": "D", "text": "Schools alone cannot improve adolescent health." }
+              ],
+              "answer": "B",
+              "analysis": "全文否定了「屏幕诱惑」与「意志不足」两种解释，把参与率归因于场地、费用与课表安排，末段提出的措施（晚间开放球场、补贴普通俱乐部、留出活动时间）也都是结构与成本层面的。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "The interventions that work are unromantic"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The pathway to elite sport is usually drawn as a pyramid, and the metaphor conceals an assumption: that the earlier a child specialises, the better the chance of reaching the top. Academies now recruit at eight or nine, and a family that declines a place at eleven may find the door closed when the child is fifteen. The logic feels like a law of nature. It is closer to a fashion, and fashions in coaching change about as often as fashions in anything else."
+            },
+            {
+              "label": "B",
+              "text": "For most sports the evidence points the other way. Studies of professional athletes in football, tennis and athletics find that a large share played several sports throughout adolescence and specialised late; among the most successful, early specialisation is the exception rather than the rule. The reason is not mysterious. Variety builds the general athletic qualities—balance, speed, the capacity to read a game—that a single discipline develops only in the narrow form it happens to require."
+            },
+            {
+              "label": "C",
+              "text": "Early specialisation also carries a medical cost. Repeating one movement thousands of times before the skeleton has finished growing produces overuse injuries of a kind once seen only in adults: stress fractures in adolescent backs, damaged elbows in fourteen-year-old pitchers. These are not accidents. They are the predictable consequence of a training load applied to a body that is still being built, and they are the reason several medical bodies now advise against year-round single-sport training before puberty."
+            },
+            {
+              "label": "D",
+              "text": "The selection problem, meanwhile, is statistical. Children mature at different rates, and a system that selects at eleven is largely selecting for early physical development, which is not the same thing as talent. The relative age effect makes the artefact visible: within a single school year, a boy born in January is up to four times more likely to be chosen for a representative squad than one born in December, although nothing separates them but ten months of growth."
+            },
+            {
+              "label": "E",
+              "text": "None of this argues for abolishing academies. It argues for delaying the point of no return. A system that keeps children in several sports until fourteen, that measures improvement rather than early strength, and that lets a late developer back in at sixteen would lose very few champions and produce far fewer injured adolescents. The pyramid, arranged that way, would not be any narrower at the bottom. It would merely be honest about how little anyone can tell at nine."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What assumption does the pyramid metaphor hide?",
+              "options": [
+                { "key": "A", "text": "That talent is evenly distributed across regions." },
+                { "key": "B", "text": "That starting earlier improves the chance of success." },
+                { "key": "C", "text": "That elite sport is a profitable industry." },
+                { "key": "D", "text": "That coaches can predict adult height." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：金字塔这一比喻暗含「越早专项化，越有可能登顶」的假设；作者随即指出这更像时尚而非自然规律。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the earlier a child specialises, the better the chance of reaching the top"
+            },
+            {
+              "number": 52,
+              "stem": "What do studies of professional athletes suggest?",
+              "options": [
+                { "key": "A", "text": "Most of them specialised before the age of ten." },
+                { "key": "B", "text": "Late specialisation is common among the most successful." },
+                { "key": "C", "text": "They trained in a single sport all year round." },
+                { "key": "D", "text": "Their success depended mainly on coaching quality." }
+              ],
+              "answer": "B",
+              "analysis": "B 段：足球、网球、田径的职业运动员中，很大一部分青少年时期兼练多项、较晚才专项化；在最成功者中，早专化反而是例外。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "early specialisation is the exception rather than the rule"
+            },
+            {
+              "number": 53,
+              "stem": "What is the cause of the overuse injuries described?",
+              "options": [
+                { "key": "A", "text": "Inadequate coaching at academies." },
+                { "key": "B", "text": "Repeated loading on a body still growing." },
+                { "key": "C", "text": "A lack of proper equipment for teenagers." },
+                { "key": "D", "text": "Competing against older children." }
+              ],
+              "answer": "B",
+              "analysis": "C 段：在骨骼尚未长成前把同一个动作重复上千次，是一种「施加在仍在建造中的身体上的训练负荷」，因此伤情是可预测的后果而非意外。",
+              "type": "原因题",
+              "evidencePara": "C",
+              "evidenceText": "a training load applied to a body that is still being built"
+            },
+            {
+              "number": 54,
+              "stem": "What does the relative age effect demonstrate?",
+              "options": [
+                { "key": "A", "text": "Selection rewards physical maturity rather than ability." },
+                { "key": "B", "text": "Winter-born children are naturally weaker." },
+                { "key": "C", "text": "Squads should be organised by height." },
+                { "key": "D", "text": "Ten months of growth makes no difference at all." }
+              ],
+              "answer": "A",
+              "analysis": "D 段：同一年级里，一月出生的男孩入选代表队的机会是十二月出生者的四倍，而两者只差十个月的生长——说明选拔挑的是「早熟」而非天赋。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "selecting for early physical development, which is not the same thing as talent"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author recommend?",
+              "options": [
+                { "key": "A", "text": "Closing academies and returning to school sport." },
+                { "key": "B", "text": "Selecting children even earlier but more carefully." },
+                { "key": "C", "text": "Postponing specialisation and keeping several sports." },
+                { "key": "D", "text": "Measuring children's strength at every age." }
+              ],
+              "answer": "C",
+              "analysis": "E 段：作者并非主张取消学院，而是「推迟不可逆的节点」——十四岁前兼练多项、看进步而非早期力量、十六岁仍允许晚熟者回归。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "It argues for delaying the point of no return"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n丝绸是中国古代重要发明之一，相传由黄帝的妻子嫘祖发明。它以蚕茧为原料，经缫丝、织造、染色制成，质地轻柔，光泽柔和，被誉为「纤维皇后」。自汉代起，丝绸沿丝绸之路运往中亚和欧洲，成为东西方贸易与文化交流的重要媒介。丝绸不仅用于制作衣物，也常用于书画装裱和礼仪用品。今天，中国仍是世界上最大的丝绸生产国之一，传统的养蚕与织造技艺已被列入人类非物质文化遗产名录。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nSilk is one of the most important inventions of ancient China and is traditionally credited to Leizu, the wife of the Yellow Emperor. Made from silkworm cocoons through reeling, weaving and dyeing, it is soft to the touch and gentle in lustre, and has long been known as the queen of fibres. From the Han Dynasty onwards, silk was carried along the Silk Road to Central Asia and Europe, and it became an important medium of trade and cultural exchange between East and West. Silk was used not only for clothing but also for mounting paintings and calligraphy and for ritual objects. Today China remains one of the world's largest producers of silk, and its traditional sericulture and weaving techniques have been inscribed on the list of intangible cultural heritage of humanity.\n\n【要点】①「相传由……发明」用 is traditionally credited to，比 was said to be invented by 更简洁；②「以蚕茧为原料，经……工序制成」用过去分词短语 Made from silkworm cocoons through... 作状语，避免重复主语；③「质地轻柔，光泽柔和」用 soft to the touch and gentle in lustre，两个并列形容词短语；④「被誉为纤维皇后」用 has long been known as the queen of fibres；⑤「自汉代起」用 From the Han Dynasty onwards，配合一般过去时；⑥「书画装裱」译为 mounting paintings and calligraphy，是装裱的行业固定说法。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

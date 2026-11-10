@@ -1,0 +1,1097 @@
+{
+  "id": "cet6-2025-06-s2",
+  "level": "CET6",
+  "year": 2025,
+  "month": 6,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether public money should continue to fund the arts when budgets are tight. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nOn Paying for What Cannot Be Counted\n\nWhen budgets tighten, the first cuts fall on things whose value is hard to invoice: orchestras, regional theatres, the small museum that keeps a town's history in a drawer. The argument for cutting is respectable. Hospitals treat the sick; a concert does not.\n\nThe answer begins with a distinction. Public money for the arts is not mainly a subsidy for artists; it is a subsidy for access. Tickets at a commercial theatre rise until the audience is whoever can afford them. A grant buys the seat a school class could not otherwise occupy, or the touring production a small town could not otherwise host. Cut it, and the art does not disappear; it becomes the property of those who already hold tickets.\n\nCulture, moreover, is not a decoration added to a functioning society; it is part of how a society knows itself. A country that cannot afford to remember what it was will have the question answered for it by advertising.\n\nNone of this makes every grant worthwhile. It does mean the case must be argued in terms of who gains access, not in terms of beauty—and argued early, before the budget is set.\n\n（约 190 词，四段：设问—辨析—推进—让步收束）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The ear has no eyelids. Unlike the eye, it cannot be closed against the world, which is why sound is the pollutant we are least able to 26______. Road traffic, aircraft and a neighbour's renovation raise the risk of heart disease, disturb sleep and impair children's reading; the World Health Organization estimates that traffic noise alone costs Western Europe more than a million healthy life years a year. The harm is 27______, accumulating across decades, producing no visible injury, and therefore easy for a government to 28______."
+            },
+            {
+              "label": "B",
+              "text": "The remedies are known and, by the standards of public health, 29______. Quieter road surfaces, lower speed limits in cities, barriers between motorways and housing, and the simple rule that aircraft should approach over water rather than over bedrooms all work. What has been missing is not technique but 30______: noise is controlled at the point of emission, by engineers answerable to industry, rather than at the point of exposure, by the people who cannot sleep. A 2018 revision of European rules obliged airports to map their noise and consult residents, but left enforcement to national authorities with little 31______ to act."
+            },
+            {
+              "label": "C",
+              "text": "The distribution of the burden is the awkward part. Noise falls hardest on the poor: cheap housing is built beside ring roads and under flight paths, and the people who live there are least able to move or to pay for triple glazing. A wealthy household can buy quiet; a poor one cannot. That asymmetry makes noise an unusually clear test of whether a city takes equality 32______. It is also why the problem is so often 33______: the benefits of a bypass are counted in minutes saved for drivers, while the costs fall on households whose complaints are treated as a 34______ rather than as evidence. Some cities have begun to reverse the accounting, publishing noise maps beside property prices and 35______ developers to state what a new road would cost in lost sleep. The change is small, but it makes the invisible visible, which is where most environmental policy begins."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "escape"
+                },
+                {
+                  "key": "B",
+                  "text": "confront"
+                },
+                {
+                  "key": "C",
+                  "text": "measure"
+                },
+                {
+                  "key": "D",
+                  "text": "relocate"
+                }
+              ],
+              "answer": "A",
+              "analysis": "「耳朵没有眼睑，无法对世界关闭」，故声音是我们最无法「躲开／逃避」的污染物；escape 与 cannot be closed against 形成同义呼应。confront 意为直面，与语义相反。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "Unlike the eye, it cannot be closed against the world"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "insidious"
+                },
+                {
+                  "key": "B",
+                  "text": "obvious"
+                },
+                {
+                  "key": "C",
+                  "text": "voluntary"
+                },
+                {
+                  "key": "D",
+                  "text": "reversible"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后解释：数十年慢慢累积、不产生可见伤害，正是 insidious（隐蔽而暗中为害的）的含义；obvious 与「无可见伤害」矛盾，reversible 原文未提。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "accumulating across decades, producing no visible injury"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "dismiss"
+                },
+                {
+                  "key": "B",
+                  "text": "detect"
+                },
+                {
+                  "key": "C",
+                  "text": "inherit"
+                },
+                {
+                  "key": "D",
+                  "text": "excuse"
+                }
+              ],
+              "answer": "A",
+              "analysis": "therefore easy for a government to dismiss 指正因伤害无形，政府容易「不予理会、轻描淡写地驳回」；与后半段「缺的不是技术而是决心」衔接。detect 与 no visible injury 冲突。",
+              "type": "逻辑题",
+              "evidencePara": "A",
+              "evidenceText": "therefore easy for a government to"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affordable"
+                },
+                {
+                  "key": "B",
+                  "text": "voluntary"
+                },
+                {
+                  "key": "C",
+                  "text": "obvious"
+                },
+                {
+                  "key": "D",
+                  "text": "expensive"
+                }
+              ],
+              "answer": "A",
+              "analysis": "后文列举降噪路面、限速、隔音墙等「都有效」，紧接又说缺的不是技术，说明按公共卫生标准这些措施成本可承受，故 affordable；expensive 与整段论点矛盾。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "The remedies are known"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "funding"
+                },
+                {
+                  "key": "B",
+                  "text": "resolve"
+                },
+                {
+                  "key": "C",
+                  "text": "evidence"
+                },
+                {
+                  "key": "D",
+                  "text": "authority"
+                }
+              ],
+              "answer": "B",
+              "analysis": "not technique but resolve（缺的不是技术而是决心）是全文的论点句；后文对比「在排放端由工程师管」与「在暴露端由居民承受」，正是政治意愿问题，而非资金或证据。",
+              "type": "主旨题",
+              "evidencePara": "B",
+              "evidenceText": "noise is controlled at the point of emission"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "incentive"
+                },
+                {
+                  "key": "B",
+                  "text": "expertise"
+                },
+                {
+                  "key": "C",
+                  "text": "funding"
+                },
+                {
+                  "key": "D",
+                  "text": "authority"
+                }
+              ],
+              "answer": "A",
+              "analysis": "2018 年欧盟规则只要求绘制噪声地图与征询居民，执法权留给各国——问题在于各国当局缺乏「动力」去执行，故 incentive to act；若填 authority，则与 left enforcement to national authorities 重复且不合逻辑。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "left enforcement to national authorities"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "seriously"
+                },
+                {
+                  "key": "B",
+                  "text": "lightly"
+                },
+                {
+                  "key": "C",
+                  "text": "personally"
+                },
+                {
+                  "key": "D",
+                  "text": "narrowly"
+                }
+              ],
+              "answer": "A",
+              "analysis": "take sth seriously 为固定搭配「认真对待」。前文说噪声最重地落在穷人身上、富人能买到安静，因此噪声是检验城市是否认真对待平等的清晰标准。",
+              "type": "搭配题",
+              "evidencePara": "C",
+              "evidenceText": "A wealthy household can buy quiet; a poor one cannot"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "deferred"
+                },
+                {
+                  "key": "B",
+                  "text": "publicized"
+                },
+                {
+                  "key": "C",
+                  "text": "measured"
+                },
+                {
+                  "key": "D",
+                  "text": "welcomed"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后解释原因：绕城路的收益按司机节省的分钟计，成本却落在住户身上——收益可见、成本分散，所以问题常被「推迟／搁置」，deferred 与后文 reverse the accounting 呼应。",
+              "type": "因果题",
+              "evidencePara": "C",
+              "evidenceText": "the benefits of a bypass are counted in minutes saved for drivers"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "nuisance"
+                },
+                {
+                  "key": "B",
+                  "text": "priority"
+                },
+                {
+                  "key": "C",
+                  "text": "funding"
+                },
+                {
+                  "key": "D",
+                  "text": "evidence"
+                }
+              ],
+              "answer": "A",
+              "analysis": "treated as a nuisance rather than as evidence 构成对照：居民投诉被当作「扰民小事」，而不是当作证据；nuisance 亦是英美的法律术语（noise nuisance）。priority 与 rather than 的贬义对照不符。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "rather than as evidence"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "allowing"
+                },
+                {
+                  "key": "B",
+                  "text": "obliging"
+                },
+                {
+                  "key": "C",
+                  "text": "advising"
+                },
+                {
+                  "key": "D",
+                  "text": "paying"
+                }
+              ],
+              "answer": "B",
+              "analysis": "oblige sb to do sth 表示「责成／强制某人做某事」；与前半句 publishing noise maps 并列，说明城市开始要求开发商量化新建道路造成的睡眠损失。allowing 与 advising 都无强制意味。",
+              "type": "搭配题",
+              "evidencePara": "C",
+              "evidenceText": "developers to state what a new road would cost in lost sleep"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The parcel arrives, the shoes do not fit, and a courier collects them the next morning at no cost to the customer. Free returns have become so ordinary that shoppers treat them as a right and retailers treat them as the price of competing. In Britain roughly one purchase in five is sent back; in some clothing categories the figure approaches half. The convenience is real, and so is the bill, which is paid partly in money and partly in carbon."
+            },
+            {
+              "label": "B",
+              "text": "The financial cost is easy to underestimate. A returned item must be collected, sorted, cleaned, repackaged and, in many cases, discounted or destroyed. Industry estimates put the cost of processing a return at between half and twice the cost of shipping it out. For cheap goods the arithmetic is brutal: a ten-pound shirt that crosses the country twice may be worth less than the labour of checking it. Retailers absorb the loss and recover it in the price of everything else, so careful shoppers end up subsidising careless ones."
+            },
+            {
+              "label": "C",
+              "text": "The environmental cost follows from the same journeys. Transport is only part of it: returns are often sent to a central warehouse rather than to the shop next door, and a large share of returned clothing is never sold as new. In 2022 France required retailers to display the environmental cost of delivery options, and a proposed European rule would ban the destruction of unsold textiles outright. Neither measure touches the underlying habit, which is that a return is free at the moment of decision and expensive only later, somewhere else."
+            },
+            {
+              "label": "D",
+              "text": "Retailers have tried three remedies. The first is to charge: several chains now levy a small fee for postal returns while keeping returns to stores free, on the theory that a customer who walks into a shop may buy something else. The second is to fit better: size guides built from previous purchases, photographs on models of different heights, and reviews that report whether an item runs small. The third is to slow the decision down, with a week to change one's mind rather than an instant refund. None of these is popular, and all of them work at the margin."
+            },
+            {
+              "label": "E",
+              "text": "There is a counter-argument worth taking seriously. Making returns costly does not make people buy less; it makes them buy more carefully, which is not the same thing, and it penalises the customer who genuinely receives a faulty item. Consumer groups add that the burden falls hardest on people who cannot visit a shop—those in rural areas, the elderly, the disabled—for whom postal return is the only option. A policy designed to reduce waste can quietly move inconvenience onto those least able to bear it."
+            },
+            {
+              "label": "F",
+              "text": "The most interesting experiments change the moment of purchase rather than the moment of return. Virtual fitting rooms, still unreliable, reduce the guesswork that produces most returns; so do generous, well-photographed product pages, which cost less than the returns they prevent. One British retailer reported that adding a single photograph of a garment on a model of average height cut its return rate by a fifth—a saving no fee could match, and one that required no customer to be punished."
+            },
+            {
+              "label": "G",
+              "text": "The lesson is not that free returns are a public good or a private vice, but that a price of zero conceals a cost. Where the cost is environmental, the sensible response is to make it visible at the point of choice rather than to make the choice shameful. Where it is financial, the market is already correcting itself, clumsily. What is unlikely to survive is the arrangement in which the customer sees nothing, the retailer sees a line in the accounts, and the lorry sees the road twice."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The proportion of goods sent back varies widely between product types.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：英国约每五笔退一笔，但「某些服装类别接近一半」，可见比例随品类差异很大。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "in some clothing categories the figure approaches half"
+            },
+            {
+              "number": 37,
+              "stem": "Handling a returned item can cost more than delivering it in the first place.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：业内估计处理退货的成本是「寄出成本的一半到两倍」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "between half and twice the cost of shipping it out"
+            },
+            {
+              "number": 38,
+              "stem": "Consumers who order carefully pay for the habits of those who do not.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：商家把退货损失摊进所有商品价格，故「谨慎的顾客最终补贴了粗心的顾客」。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "careful shoppers end up subsidising careless ones"
+            },
+            {
+              "number": 39,
+              "stem": "Some returned goods travel further than necessary and are never resold as new.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：退货常被送回中心仓库而不是隔壁门店，且大量退回衣物「从未作为新品售出」。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "never sold as new"
+            },
+            {
+              "number": 40,
+              "stem": "A fee for posting items back is meant to draw customers into shops.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段第一种做法：对邮寄退货收费、门店退货免费，理由是「走进店的顾客可能再买点什么」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "a customer who walks into a shop may buy something else"
+            },
+            {
+              "number": 41,
+              "stem": "Better product information produced savings that no charge could equal.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：一家英国零售商增加一张「普通身高模特」的照片，退货率下降五分之一，「任何收费都无法相比」。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "a saving no fee could match"
+            },
+            {
+              "number": 42,
+              "stem": "Measures aimed at waste may fall hardest on those with the fewest alternatives.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：农村、老人、残障人士只能靠邮寄退货，减少浪费的政策「把不便悄悄转移给最无力承担的人」。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "move inconvenience onto those least able to bear it"
+            },
+            {
+              "number": 43,
+              "stem": "Charging for returns alters how people choose rather than how much they buy.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段第二句：让退货变贵不会让人少买，只会让人「买得更谨慎，而这不是一回事」。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "it makes them buy more carefully, which is not the same thing"
+            },
+            {
+              "number": 44,
+              "stem": "A price of zero hides a cost that is eventually borne elsewhere.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段首句：问题不在于免费退货是好是坏，而在于「零价格掩盖了成本」。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "a price of zero conceals a cost"
+            },
+            {
+              "number": 45,
+              "stem": "Legislation has begun to demand disclosure and to forbid destruction.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：法国 2022 年要求标示配送方式的环境成本，欧盟拟议规则将「禁止销毁未售出纺织品」。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "ban the destruction of unsold textiles"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "At nine in the evening the Nightjet to Vienna leaves Berlin's main station. There is no security queue, no limit of one small bag, and no need to arrive two hours early. By seven the next morning the passenger is in the Austrian capital, having slept, eaten breakfast and emitted perhaps a tenth of the carbon of the equivalent flight. The train is full. It is also, by the standards of the operator, not yet a business."
+            },
+            {
+              "label": "B",
+              "text": "Europe once had thousands of sleeper services. They were dismantled between 1990 and 2015 as budget airlines took the short-haul market and rail operators concluded that night trains were a relic: labour-intensive, expensive to maintain, and impossible to fit into a timetable built around daytime speed. Carriages were sold, depots closed, and the expertise that keeps a sleeper running—the staff who can change a coupling at three in the morning—was allowed to retire."
+            },
+            {
+              "label": "C",
+              "text": "The revival began with policy rather than with passengers. Austria's state railway bought up discarded German and French carriages and relaunched them under a single brand; the Austrian government, under pressure from a Green coalition partner, agreed to subsidise the service while it built up. France followed with two domestic routes, Sweden with a line to Hamburg, and several smaller operators with seasonal services to the Alps. Demand has consistently run ahead of supply: the constraint is not passengers but rolling stock, and a new sleeper carriage takes four years and several million euros to build."
+            },
+            {
+              "label": "D",
+              "text": "The economics remain awkward. A sleeper carries perhaps 250 people, a short-haul aircraft 180, but the train needs a crew of eight, a bed for every passenger, and a path on a network already congested with freight. Its costs are fixed and its fares are constrained by the price of the flight it competes with, a price that is untaxed on kerosene and frequently lower than the rail ticket. Subsidy, in this reading, is not a crutch but a correction: road and air transport have been subsidised for decades through the absence of fuel taxes and the provision of free infrastructure."
+            },
+            {
+              "label": "E",
+              "text": "The environmental case is strong but not as simple as campaigners suggest. A night train is low-carbon only if it is full and powered by clean electricity; a half-empty sleeper hauled by a diesel locomotive can be worse than a full coach. Nor can the train replace many flights: most short-haul journeys are under three hours, where a daytime train is faster and cheaper. The niche is real—roughly 400 to 1,500 kilometres, overnight, between cities with good stations—but it is a niche, and policy should be honest about its size."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the first paragraph suggest about the Nightjet service?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is losing passengers to short-haul flights."
+                },
+                {
+                  "key": "B",
+                  "text": "It is cheaper than travelling by air."
+                },
+                {
+                  "key": "C",
+                  "text": "It is popular but does not yet pay for itself."
+                },
+                {
+                  "key": "D",
+                  "text": "It is reserved for business travellers."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段末两句形成转折：车厢「满员」，但按运营方的标准「还不是一门生意」，即需求旺盛而尚未盈利。C 项原文未比较票价，D 项无据。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "The train is full. It is also ... not yet a business"
+            },
+            {
+              "number": 47,
+              "stem": "Why were sleeper services withdrawn across Europe?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Passengers complained about the absence of security checks."
+                },
+                {
+                  "key": "B",
+                  "text": "European governments banned overnight rail travel."
+                },
+                {
+                  "key": "C",
+                  "text": "Carriages could no longer meet safety standards."
+                },
+                {
+                  "key": "D",
+                  "text": "Operators judged them incompatible with a speed-based model."
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段：廉价航空抢占短途市场，铁路运营商认定卧铺是「遗迹」——劳动密集、维护昂贵，且无法塞进以日间速度为核心的运行图。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "impossible to fit into a timetable built around daytime speed"
+            },
+            {
+              "number": 48,
+              "stem": "What is the chief obstacle to expanding the revived network?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The slow and costly production of sleeper carriages."
+                },
+                {
+                  "key": "B",
+                  "text": "A shortage of passengers in winter."
+                },
+                {
+                  "key": "C",
+                  "text": "Opposition from environmental groups."
+                },
+                {
+                  "key": "D",
+                  "text": "The reluctance of Austria to share its brand."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段末：需求始终超前于供给，瓶颈不是乘客而是车辆（rolling stock），造一节新车厢需四年、数百万欧元。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "the constraint is not passengers but rolling stock"
+            },
+            {
+              "number": 49,
+              "stem": "What does the author mean by calling subsidy 'a correction'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Subsidies are a temporary measure until fares can rise."
+                },
+                {
+                  "key": "B",
+                  "text": "Subsidies correct the mistakes of the former operators."
+                },
+                {
+                  "key": "C",
+                  "text": "Rail subsidies compensate for advantages other modes already enjoy."
+                },
+                {
+                  "key": "D",
+                  "text": "Subsidies are needed because sleeper trains are badly run."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段末：公路与航空数十年来通过免燃油税、免费基础设施获得隐性补贴，故铁路补贴不是「拐杖」而是「校正」——补上竞争条件的不对等。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "subsidised for decades through the absence of fuel taxes"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's main point in the last paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Night trains are environmentally worthless."
+                },
+                {
+                  "key": "B",
+                  "text": "The case is sound but its scope should not be exaggerated."
+                },
+                {
+                  "key": "C",
+                  "text": "Daytime rail should be abandoned in favour of sleepers."
+                },
+                {
+                  "key": "D",
+                  "text": "Diesel locomotives should be banned immediately."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：环保理由「有力但不像倡议者说的那么简单」，只有在满载且用清洁电力时才低碳；适用区间约 400–1500 公里，是一个真实但有边界的细分市场（niche），政策应诚实面对其规模。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "but it is a niche, and policy should be honest about its size"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In July 2023 New York City began enforcing a law that most employers had never heard of. Any company using an automated tool to screen job applicants must have the tool audited once a year for bias, publish a summary of the audit, and tell candidates that automated decision-making is involved. The law covers 'substantially assisted' decisions, a phrase drafted to include everything from a chatbot that ranks CVs to software that watches a video interview and scores the candidate's words."
+            },
+            {
+              "label": "B",
+              "text": "The case for such rules is straightforward. Hiring is one of the few decisions with a documented history of illegal discrimination, and the tests used to enforce the old law—sending pairs of identical CVs with different names—do not work on a model. If a system learns from ten years of a company's own hiring, it will learn that the company hired mostly men for engineering roles, and it will reproduce the pattern while claiming to be objective. The pattern is harder to see than a manager's prejudice, and harder to challenge, because there is no person to cross-examine."
+            },
+            {
+              "label": "C",
+              "text": "The case against is not that bias does not matter but that audits answer a narrower question than the law implies. An audit tests a tool against a reference group in a particular city, at a particular moment, for a particular job. A model trained on national data and deployed across a hundred roles may pass the audit in one and fail in another. Vendors, who usually commission the audit themselves, are not obliged to disclose the training data or the logic, so the independent auditor is often reduced to testing a black box from the outside, with whatever sample the vendor chooses to provide."
+            },
+            {
+              "label": "D",
+              "text": "There is a subtler difficulty. Most hiring systems do not decide; they rank. A tool that puts a hundred candidates in order, from which a human recruiter takes the first ten, is not discriminating in any sense a court would recognise, yet it may systematically remove a group from the top of the list. Regulators have begun to notice: the American Equal Employment Opportunity Commission has warned that a ranking tool can be unlawful even when the final choice is made by a person, because the person's choice has been narrowed by the machine."
+            },
+            {
+              "label": "E",
+              "text": "What the New York law does achieve is disclosure, and disclosure has a way of changing behaviour before any enforcement action is brought. Several large employers, asked to publish a bias audit for the first time, discovered that they could not: their vendors would not supply the data. Some replaced the tool; others renegotiated the contract. That is a modest result, achieved by paperwork. It is also more than a decade of voluntary codes of conduct has produced, and it suggests that the most useful regulation of algorithms may be the least glamorous—a requirement to say, in public, what you are doing."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the New York law require of employers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That they abandon automated screening altogether."
+                },
+                {
+                  "key": "B",
+                  "text": "That they hire a fixed proportion of minority candidates."
+                },
+                {
+                  "key": "C",
+                  "text": "That they submit every interview to a public body."
+                },
+                {
+                  "key": "D",
+                  "text": "That they disclose and regularly audit their screening tools."
+                }
+              ],
+              "answer": "D",
+              "analysis": "A 段：使用自动化筛选工具须每年做一次偏见审计、公布审计摘要、告知候选人；并未禁止使用或规定配额。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "audited once a year for bias, publish a summary of the audit"
+            },
+            {
+              "number": 52,
+              "stem": "Why do traditional methods of detecting discrimination fail here?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "There is no person whose reasoning can be examined."
+                },
+                {
+                  "key": "B",
+                  "text": "Employers no longer keep records of applicants."
+                },
+                {
+                  "key": "C",
+                  "text": "Hiring decisions are now made entirely by candidates."
+                },
+                {
+                  "key": "D",
+                  "text": "Discrimination law does not apply to private firms."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：旧法靠「投递两份只差姓名的相同简历」来测试，对模型无效；而模型会复制历史模式，「更难挑战，因为没有人可以盘问」。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "there is no person to cross-examine"
+            },
+            {
+              "number": 53,
+              "stem": "What limitation of audits does the third paragraph identify?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are too expensive for small employers."
+                },
+                {
+                  "key": "B",
+                  "text": "They are conducted by candidates rather than experts."
+                },
+                {
+                  "key": "C",
+                  "text": "They are narrow in scope and controlled by the vendor."
+                },
+                {
+                  "key": "D",
+                  "text": "They measure speed rather than accuracy."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：审计只针对某城、某时、某岗位的参照群体，跨百种岗位部署时可能一处通过、一处失败；且由供应商自己委托、不披露训练数据与逻辑，独立审计者只能「从外部测试黑箱」。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "narrower question than the law implies"
+            },
+            {
+              "number": 54,
+              "stem": "What does 'the person's choice has been narrowed by the machine' imply?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Recruiters deliberately ignore the ranking they are given."
+                },
+                {
+                  "key": "B",
+                  "text": "Human oversight is illusory when the shortlist is machine-made."
+                },
+                {
+                  "key": "C",
+                  "text": "Machines are more compassionate than human recruiters."
+                },
+                {
+                  "key": "D",
+                  "text": "Candidates are unable to appeal against a rejection."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：系统不「决定」而是「排序」，招聘人员只从前十名里挑，看似由人拍板，实则选择范围已被机器限定；美国平等就业机会委员会正是据此认定排序工具可能违法。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "Most hiring systems do not decide; they rank"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's assessment of the New York law?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is a failure because no employer complied."
+                },
+                {
+                  "key": "B",
+                  "text": "It is a model that every country should copy exactly."
+                },
+                {
+                  "key": "C",
+                  "text": "It is unnecessary because voluntary codes work well."
+                },
+                {
+                  "key": "D",
+                  "text": "It is limited in scope but effective through transparency."
+                }
+              ],
+              "answer": "D",
+              "analysis": "E 段：法律真正实现的是「披露」，而披露在执法之前就能改变行为——有企业因拿不到供应商数据而换掉工具或重谈合同；作者称这是「靠文书取得的 modest result」，却胜过十年的自愿准则。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "a modest result, achieved by paperwork"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n过去，农村居民取快递往往要跑到乡镇甚至县城。近十年，随着「快递进村」工程推进，绝大多数建制村实现了快递服务覆盖，村民在家门口就能收寄包裹。便捷的物流改变了乡村生活：山里的水果、茶叶采摘后两三天内就能送到城市消费者的餐桌上，返乡青年则借助电商把家乡的土特产卖到全国。同时，冷链设施不足、单件成本偏高等问题依然存在，需要政府与企业共同解决。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nIn the past, rural residents often had to travel to a township or even to the county seat to collect a parcel. Over the past decade, as the programme known as Express Delivery to Every Village has advanced, the great majority of administrative villages across the country have gained access to courier services, so that villagers can now send and receive packages at their own doorsteps. Convenient logistics have changed rural life: fruit and tea picked in the mountains can reach the tables of urban consumers within two or three days, while young people who have returned home use e-commerce to sell local specialities nationwide. At the same time, problems such as inadequate cold-chain facilities and the relatively high cost of delivering a single parcel remain, and they call for joint efforts by government and business.\n\n【要点】①「取快递」用 collect a parcel，比 take express 地道；②「建制村」是行政单位，译作 administrative village，不可写成 natural village；③「快递进村」作为专有工程名，用 the programme known as... 引出并首字母大写；④「在家门口」用 at their own doorsteps，保留形象；⑤「采摘后两三天内」用 picked ... can reach ... within two or three days，把时间状语并入谓语更自然；⑥「返乡青年」用 young people who have returned home，不宜直译为 returning youth；⑦末句「需要……共同解决」用 call for joint efforts by...，避免逐字译 need to be solved together。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1097 @@
+{
+  "id": "cet6-2025-06-s1",
+  "level": "CET6",
+  "year": 2025,
+  "month": 6,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether efficiency should be the chief measure of a good society. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nMeasuring a Society by Its Speed\n\nAsk a minister what a policy has achieved and the answer will usually be a number: journeys shortened, permits issued, hours saved. Efficiency is a genuine virtue. It is also the easiest virtue to measure, and whatever is easiest to measure tends, in public life, to become the only thing that counts.\n\nA hospital that discharges patients faster is efficient; one that spends twenty extra minutes explaining a diagnosis is not, though the second may be why the patient survives. A school that covers the syllabus is efficient; a teacher who spends an afternoon on one question is not, though that is how curiosity is kept alive. In each case something valuable is quietly dropped because it appears in no table.\n\nThe objection is not that efficiency is wrong but that it is incomplete. A society that optimises only for speed becomes fast and thin: quick transactions, shallow relationships, institutions that process cases rather than people. The remedy is to measure more than one thing, and to protect the activities whose value appears only after a delay.\n\nEfficiency can tell us how well we are travelling. It cannot tell us whether the destination is worth reaching.\n\n（约 196 词，四段：现象—举例—反驳—收束）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Twenty years ago a broken toaster was a private misfortune. Today it is evidence of a 26______ problem. Repair cafes, volunteer workshops where people bring damaged appliances and are taught to mend them, have spread from a single one in Amsterdam in 2009 to more than two thousand worldwide. Their popularity is not nostalgia. It reflects a suspicion that many of the objects we own are 27______ designed to fail: batteries sealed into the case, screens glued rather than screwed, software that will not run on older hardware. That suspicion now has legal 28______. Since 2021 the European Union has required makers of washing machines and refrigerators to supply spare parts for up to ten years, and France obliges retailers to print a repairability 29______ beside the price."
+            },
+            {
+              "label": "B",
+              "text": "The economics are less 30______ than campaigners suggest. A repair is labour-intensive, and labour is expensive; a new kettle often costs less than an hour of a technician's time. Manufacturers add, with some justice, that a machine built to be opened is heavier, less efficient and no safer. What the new rules change is not the price of repair but the 31______ of information: once a rating is printed on the box, a shopper who has never thought about longevity begins to compare. Campaigners concede that a label alone will not 32______ behaviour, but they point out that the same was said of energy ratings, which now shape the appliance market across Europe."
+            },
+            {
+              "label": "C",
+              "text": "The deeper question is whether repair can be made 33______ at scale. Spare parts must be stocked for a decade, which is a burden for small firms; independent repairers need manuals and diagnostic software that manufacturers have been 34______ to release; and customers must be willing to accept a mended machine rather than a new one. None of these obstacles is 35______, but together they explain why the right to repair has advanced faster in law than in practice."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "inevitable"
+                },
+                {
+                  "key": "B",
+                  "text": "structural"
+                },
+                {
+                  "key": "C",
+                  "text": "obvious"
+                },
+                {
+                  "key": "D",
+                  "text": "modest"
+                }
+              ],
+              "answer": "B",
+              "analysis": "破折号后列举「电池封死、屏幕用胶粘、软件不支持旧硬件」，说明这不是个别产品的偶然故障，而是「结构性的」问题；a structural problem 为常见搭配。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "batteries sealed into the case, screens glued rather than screwed"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "deliberately"
+                },
+                {
+                  "key": "B",
+                  "text": "scarcely"
+                },
+                {
+                  "key": "C",
+                  "text": "arguably"
+                },
+                {
+                  "key": "D",
+                  "text": "invariably"
+                }
+              ],
+              "answer": "A",
+              "analysis": "后文三项设计细节都指向「有意为之」的短命设计（planned obsolescence），故用 deliberately designed to fail；scarcely 表否定，arguably 表「可以说」，均不合逻辑。",
+              "type": "副词辨析",
+              "evidencePara": "A",
+              "evidenceText": "designed to fail"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "capacity"
+                },
+                {
+                  "key": "B",
+                  "text": "framework"
+                },
+                {
+                  "key": "C",
+                  "text": "teeth"
+                },
+                {
+                  "key": "D",
+                  "text": "appetite"
+                }
+              ],
+              "answer": "C",
+              "analysis": "have legal teeth 是固定表达，意为「具有法律约束力／有实际执行力」；下文欧盟与法国的强制规定正是这种「牙齿」。framework 只表框架，不含强制力。",
+              "type": "习语搭配",
+              "evidencePara": "A",
+              "evidenceText": "Since 2021 the European Union has required"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "certificate"
+                },
+                {
+                  "key": "B",
+                  "text": "index"
+                },
+                {
+                  "key": "C",
+                  "text": "framework"
+                },
+                {
+                  "key": "D",
+                  "text": "capacity"
+                }
+              ],
+              "answer": "B",
+              "analysis": "法国实际推行的制度是「可维修性指数」（indice de réparabilité），印在价签旁供消费者比较，故用 repairability index；certificate 指证书，与 beside the price 的标签语境不符。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "print a repairability ... beside the price"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "obvious"
+                },
+                {
+                  "key": "B",
+                  "text": "modest"
+                },
+                {
+                  "key": "C",
+                  "text": "straightforward"
+                },
+                {
+                  "key": "D",
+                  "text": "fragile"
+                }
+              ],
+              "answer": "C",
+              "analysis": "后文说明维修是劳动密集型、人工昂贵，经济账远比倡议者说的复杂，故 the economics are less straightforward than...（不像……那么简单）。fragile 形容经济账不合逻辑。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "A repair is labour-intensive, and labour is expensive"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "balance"
+                },
+                {
+                  "key": "B",
+                  "text": "volume"
+                },
+                {
+                  "key": "C",
+                  "text": "capacity"
+                },
+                {
+                  "key": "D",
+                  "text": "asymmetry"
+                }
+              ],
+              "answer": "D",
+              "analysis": "asymmetry of information 是经济学固定术语「信息不对称」：厂商知道产品能用多久，消费者不知道；标签正是为消除这种不对称。balance 与 volume 均无此义。",
+              "type": "术语辨析",
+              "evidencePara": "B",
+              "evidenceText": "once a rating is printed on the box, a shopper ... begins to compare"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "convince"
+                },
+                {
+                  "key": "B",
+                  "text": "adjust"
+                },
+                {
+                  "key": "C",
+                  "text": "restrain"
+                },
+                {
+                  "key": "D",
+                  "text": "transform"
+                }
+              ],
+              "answer": "D",
+              "analysis": "will not transform behaviour 意为「单靠标签不足以改变行为」，与后文「当年对能效标识也这么说」呼应；convince 后应接人而非 behaviour。",
+              "type": "搭配题",
+              "evidencePara": "B",
+              "evidenceText": "the same was said of energy ratings"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accessible"
+                },
+                {
+                  "key": "B",
+                  "text": "viable"
+                },
+                {
+                  "key": "C",
+                  "text": "obvious"
+                },
+                {
+                  "key": "D",
+                  "text": "modest"
+                }
+              ],
+              "answer": "B",
+              "analysis": "本段列举备件库存、维修手册、消费者意愿三重障碍，问的是维修能否在规模上「可行／可持续经营」，故用 viable at scale；accessible 只表可获得性。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "Spare parts must be stocked for a decade"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "willing"
+                },
+                {
+                  "key": "B",
+                  "text": "eligible"
+                },
+                {
+                  "key": "C",
+                  "text": "reluctant"
+                },
+                {
+                  "key": "D",
+                  "text": "capable"
+                }
+              ],
+              "answer": "C",
+              "analysis": "be reluctant to do sth 表示「不愿做某事」；厂商迟迟不公开维修手册与诊断软件，正是本段的障碍之一，与上文 burden 的负面语气一致。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "independent repairers need manuals and diagnostic software"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "inevitable"
+                },
+                {
+                  "key": "B",
+                  "text": "permanent"
+                },
+                {
+                  "key": "C",
+                  "text": "trivial"
+                },
+                {
+                  "key": "D",
+                  "text": "insurmountable"
+                }
+              ],
+              "answer": "D",
+              "analysis": "None of these obstacles is insurmountable, but together they explain... 是典型的「单个可克服、叠加却致命」结构：没有一项障碍是「无法逾越的」。permanent 与上下文无关。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "but together they explain why"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The systems that answer our questions and draft our emails are trained on enormous quantities of human judgement. To teach a model what a pedestrian looks like, someone must draw a box around thousands of pedestrians. To stop it producing violent text, someone must read violent text and label it. That labour is invisible in the finished product, and it is performed overwhelmingly in countries where wages are low: Kenya, Uganda, the Philippines, Venezuela."
+            },
+            {
+              "label": "B",
+              "text": "The scale is difficult to establish because the industry is fragmented. One widely cited estimate put the market for data annotation at more than two billion dollars a year, growing fast; another counted millions of workers worldwide, most of them employed not by the AI companies whose names appear on the product but by subcontractors several layers down. Each layer takes a margin and passes the work on, so that the person who finally labels an image may not know which client it is for."
+            },
+            {
+              "label": "C",
+              "text": "Pay is low and precarious. In Nairobi, workers hired to review text for a major technology company reported being paid about two dollars an hour, and being required to read descriptions of extreme violence as a condition of the job. Contracts are typically short; targets are set by software; a worker who falls behind is replaced. Because the workforce is dispersed and the contracts classify its members as independent contractors, collective bargaining is close to impossible."
+            },
+            {
+              "label": "D",
+              "text": "The psychological cost is now documented. A 2023 study of content moderators in Kenya found elevated rates of anxiety, depression and post-traumatic stress, comparable in severity to that reported by journalists returning from war zones. Several respondents described nightmares and a diminished capacity to feel disgust, a symptom clinicians associate with repeated exposure. The companies concerned say they provide counselling; workers say it is inadequate and, in some cases, was withdrawn when the contract ended."
+            },
+            {
+              "label": "E",
+              "text": "Regulation has barely begun. Existing labour law assumes an employer with an address; the chain of subcontracting is designed to ensure that no such employer exists. Proposals in the European Union would require companies to audit their supply chains for forced labour, and a handful of cities have adopted procurement rules for algorithmic services. None of these instruments was written with data work in mind, and none reaches the individual who sits at the screen."
+            },
+            {
+              "label": "F",
+              "text": "Some researchers argue that the answer is not better contracts but a different technical approach. If models could learn from less labelled data, or if the labelling that remains were done by better-paid employees with counselling and the right to refuse, the worst of the trade might disappear. Others reply that this merely moves the cost, and that the demand for cheap human judgement is a feature of the business model rather than an accident of the technology."
+            },
+            {
+              "label": "G",
+              "text": "What makes the case instructive is its resemblance to older industries. Textile mills, call centres and electronics assembly all passed through a phase in which the consumer could not see the worker, and each was eventually made visible by scandal, union pressure and law. Whether data work follows the same path is not yet decided; what is clear is that the invisibility is a choice, and choices can be reversed."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Human judgement has to be supplied before these systems can work at all.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段开头：模型是「用大量人类判断训练出来的」，画框、读暴力文本并打标签都属人工前置劳动。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "trained on enormous quantities of human judgement"
+            },
+            {
+              "number": 37,
+              "stem": "No one can say with confidence how large the industry actually is.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段首句：规模难以确定，因为行业高度分散，两个估计（二十亿美元、数百万工人）口径不同。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "The scale is difficult to establish because the industry is fragmented"
+            },
+            {
+              "number": 38,
+              "stem": "Several intermediaries stand between the worker and the client paying for the work.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：层层分包，每层抽成，最终打标签的人可能并不知道客户是谁。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "by subcontractors several layers down"
+            },
+            {
+              "number": 39,
+              "stem": "The pace and terms of the work are dictated by automation rather than agreed with workers.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：合同期短，「指标由软件设定」，落后者被替换，说明节奏由算法而非协商决定。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "targets are set by software"
+            },
+            {
+              "number": 40,
+              "stem": "Labour law presupposes a kind of employer the industry has deliberately eliminated.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：现行劳动法假定存在「有地址的雇主」，而分包链条的设计恰恰使这样的雇主不存在。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "designed to ensure that no such employer exists"
+            },
+            {
+              "number": 41,
+              "stem": "Clinical research found harm as severe as that suffered by reporters in conflict zones.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：2023 年肯尼亚研究显示焦虑、抑郁与创伤后应激水平「与战地记者相当」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "comparable in severity to that reported by journalists returning from war zones"
+            },
+            {
+              "number": 42,
+              "stem": "The support employers offer is said to be insufficient and easily withdrawn.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：公司称提供心理咨询，工人说不足，且合同结束后即被取消。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "workers say it is inadequate"
+            },
+            {
+              "number": 43,
+              "stem": "A different method might lessen the damage without altering the incentive behind it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：技术路线可减轻最坏情形，但反对者指出「廉价人力判断的需求是商业模式的特征」，成本只是被转移。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "the demand for cheap human judgement is a feature of the business model"
+            },
+            {
+              "number": 44,
+              "stem": "Comparable trades were eventually exposed by scandal, organised pressure and legislation.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：纺织厂、呼叫中心、电子组装都经历过「消费者看不见工人」的阶段，最终因丑闻、工会压力与立法而显形。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "made visible by scandal, union pressure and law"
+            },
+            {
+              "number": 45,
+              "stem": "That these workers remain unseen results from decisions that could be made differently.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段末：这种不可见「是一种选择」，而选择可以被逆转——作者以此点明责任归属。",
+              "type": "态度题",
+              "evidencePara": "G",
+              "evidenceText": "the invisibility is a choice, and choices can be reversed"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2010 the Los Angeles Times published a database ranking some six thousand elementary teachers by the test-score gains of their pupils. The scores came from a statistical model, known as value-added, that estimates how much a teacher added to a child's progress after adjusting for earlier results and family background. The newspaper called the project a public service. Several teachers named at the bottom of the list resigned; one of them, Rigoberto Ruelas, took his own life. A later review found that the model's margins of error were wide enough to make many of the individual rankings meaningless."
+            },
+            {
+              "label": "B",
+              "text": "Value-added modelling is not pseudoscience. Its logic is sound: if two classes begin at the same level and end at different ones, something in the classroom probably matters. But an estimate is only as good as its controls, and the controls are crude. Pupils are not randomly assigned to teachers, so a teacher who is given a difficult class will look worse than an equally capable colleague with an easy one. Class size, testing conditions and even the order in which tests are sat introduce noise. Statisticians describe the result as a signal buried in a great deal of noise: useful for research on many teachers, unreliable for judging one."
+            },
+            {
+              "label": "C",
+              "text": "The deeper problem is behavioural. Once a number becomes a target, the people being measured begin to manage it. Teachers concentrate on the pupils whose scores can most easily be moved, which usually means those just below a threshold; they spend March drilling the format of a test rather than teaching a subject. This is not dishonesty, and it is not confined to schools: it is what any organisation does when a proxy is treated as the thing itself. The measurement then reports on the measurement."
+            },
+            {
+              "label": "D",
+              "text": "None of this implies that teaching cannot be evaluated. Parents deserve to know whether a school is doing right by their children, and the alternative to a bad number is not always a good one: often it is no information at all, which favours the schools that are already popular. The sensible use of value-added data is statistical and slow—to identify departments that may need help, to check whether a new curriculum worked, to ask why one school with the same intake outperforms another. That is a different task from ranking individuals, and it asks a different kind of courage of the officials who publish the lists."
+            },
+            {
+              "label": "E",
+              "text": "The Los Angeles episode is remembered as a cautionary tale, yet the appetite for simple comparisons has not diminished. League tables, inspection grades and parent-facing dashboards all rest on the same hope: that a complex institution can be summarised in a figure the public will understand. The hope is not unreasonable. The mistake is to publish the figure without its uncertainty, and then to act on it as though the uncertainty were a technical detail rather than the whole story."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author suggest about the newspaper's rankings?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They were based on deliberately falsified data."
+                },
+                {
+                  "key": "B",
+                  "text": "They measured family background rather than teaching."
+                },
+                {
+                  "key": "C",
+                  "text": "They were too imprecise to justify judging individuals."
+                },
+                {
+                  "key": "D",
+                  "text": "They were withdrawn after protests by parents."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段末：复核发现模型的误差范围大到「使许多个人排名毫无意义」，且已造成教师辞职与自杀的后果。A 项「故意造假」原文无据，作者明确说这不是 pseudoscience。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "margins of error were wide enough to make many of the individual rankings meaningless"
+            },
+            {
+              "number": 47,
+              "stem": "What does the sentence 'The measurement then reports on the measurement' mean?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The indicator ends up reflecting efforts to influence it."
+                },
+                {
+                  "key": "B",
+                  "text": "Statistics are more reliable than teachers' judgements."
+                },
+                {
+                  "key": "C",
+                  "text": "Tests measure the curriculum rather than the pupils."
+                },
+                {
+                  "key": "D",
+                  "text": "Schools publish their results more than once a year."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段：一旦数字成为目标，教师就会把精力放在最容易提分的学生与应试技巧上，指标于是只反映「对付指标的行为」，而非教学质量本身。这与古德哈特定律同义。",
+              "type": "词句含义题",
+              "evidencePara": "C",
+              "evidenceText": "Once a number becomes a target, the people being measured begin to manage it"
+            },
+            {
+              "number": 48,
+              "stem": "What is the author's attitude to value-added modelling itself?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is inherently unscientific and should be discarded."
+                },
+                {
+                  "key": "B",
+                  "text": "It is reliable only when teachers are randomly assigned."
+                },
+                {
+                  "key": "C",
+                  "text": "It is useful mainly for dismissing underperforming staff."
+                },
+                {
+                  "key": "D",
+                  "text": "It is sound in principle but misused when applied to individuals."
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段明确说「不是伪科学、逻辑成立」，问题在控制变量粗糙；段末又说「用于研究许多教师有用，用于评判单个教师不可靠」。作者批评的是用法，不是方法本身。",
+              "type": "态度题",
+              "evidencePara": "B",
+              "evidenceText": "useful for research on many teachers, unreliable for judging one"
+            },
+            {
+              "number": 49,
+              "stem": "Why does the author resist the idea of publishing no information at all?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because parents have a legal right to see test scores."
+                },
+                {
+                  "key": "B",
+                  "text": "Because silence also works in favour of established schools."
+                },
+                {
+                  "key": "C",
+                  "text": "Because teachers prefer to be ranked openly."
+                },
+                {
+                  "key": "D",
+                  "text": "Because official statistics are always accurate."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：坏数字的替代品「并不总是好数字——往往是完全没有信息，而这有利于本来就受欢迎的学校」，即信息真空同样有偏向。",
+              "type": "原因题",
+              "evidencePara": "D",
+              "evidenceText": "which favours the schools that are already popular"
+            },
+            {
+              "number": 50,
+              "stem": "What is the main point of the final paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "League tables should be abolished immediately."
+                },
+                {
+                  "key": "B",
+                  "text": "The public is incapable of understanding statistics."
+                },
+                {
+                  "key": "C",
+                  "text": "Inspection grades are more accurate than value-added scores."
+                },
+                {
+                  "key": "D",
+                  "text": "Summarising schools is acceptable; hiding the uncertainty is not."
+                }
+              ],
+              "answer": "D",
+              "analysis": "E 段：希望把复杂机构浓缩成一个数字「并非不合理」，错误在于「公布数字却不公布其不确定性，并把不确定性当作技术细节」。故 C 项最贴合；A 项过度，作者并未主张废除排名。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "to publish the figure without its uncertainty"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 1897 British troops burned the royal palace of Benin City and removed several thousand objects, among them the brass plaques now scattered across European and American museums. For a century the plaques were described in catalogues as Benin bronzes, a phrase that named the material and forgot the fire. Since 2022, when two German museums agreed to transfer ownership of their holdings to Nigeria, the argument has shifted from whether objects should return to how, and on what terms."
+            },
+            {
+              "label": "B",
+              "text": "The legal position is more tangled than campaigners sometimes allow. Many acquisitions were lawful under the statutes of the time, and most European museums are bound by rules that forbid them to sell or give away items in their collections. Germany's solution was to transfer title while leaving a number of pieces on long-term loan, an arrangement that satisfies neither the loudest critics nor the institutions' own lawyers. In France a 2021 law permitted the return of twenty-six objects to Benin and Senegal, but only by naming each one, so the next request will require another law."
+            },
+            {
+              "label": "C",
+              "text": "The practical case for return is stronger than the legal one. A museum in Lagos or Cotonou can display an object in the language of, and alongside the history of, the people who made it; it can be visited by schoolchildren for whom the colonial archive is not a foreign country. The practical case against is not only about conservation. Some source communities disagree about whether an object should be displayed at all, or whether it should be kept out of sight; museums that have returned pieces report that negotiating custody can take as long as the campaign to return them."
+            },
+            {
+              "label": "D",
+              "text": "There is also a quieter argument, about what a museum is for. If a collection is understood as a record of acquisition—of taste, of power, of the routes by which things travelled—then removing an object damages the record. If it is understood as a service to the public, then the public's identity matters, and a gallery that explains Benin only through the eyes of the officers who looted it is a poor service to everyone in the room. Curators increasingly choose the second description, and their catalogues have begun to read accordingly."
+            },
+            {
+              "label": "E",
+              "text": "The likeliest future is neither wholesale return nor indefinite retention but a series of negotiated arrangements, some permanent, some loans renewable every five years. That outcome disappoints those who want a principle and reassures those who fear empty galleries. Its virtue is that it obliges the parties to keep talking, which is more than the old silence achieved; its cost is that everything depends on which government is in office, and on whether the money for a new gallery in West Africa arrives before the loan expires."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does 'named the material and forgot the fire' imply about the label?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It exaggerated the artistic value of the plaques."
+                },
+                {
+                  "key": "B",
+                  "text": "It confused the objects with similar pieces from Asia."
+                },
+                {
+                  "key": "C",
+                  "text": "It recorded the date of their arrival in Europe."
+                },
+                {
+                  "key": "D",
+                  "text": "It concealed how the objects had been obtained."
+                }
+              ],
+              "answer": "D",
+              "analysis": "A 段：1897 年英军焚城掠物，而「贝宁青铜器」这一称谓只提材质、不提那场火，即用中性的材料名掩盖了暴力取得的过程。",
+              "type": "词句含义题",
+              "evidencePara": "A",
+              "evidenceText": "burned the royal palace ... and removed several thousand objects"
+            },
+            {
+              "number": 52,
+              "stem": "What does the second paragraph show about the legal route?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is the fastest way to secure restitution."
+                },
+                {
+                  "key": "B",
+                  "text": "It has been settled by an international court."
+                },
+                {
+                  "key": "C",
+                  "text": "It is blocked by rules and advances case by case."
+                },
+                {
+                  "key": "D",
+                  "text": "It applies only to objects taken after 1900."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：许多取得在当时合法，且多数欧洲博物馆受「不得处置藏品」的章程约束；德国只能「转让所有权＋长期出借」，法国须逐件列名立法，下一件又要再立一法——可见是受阻且逐案推进。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "the next request will require another law"
+            },
+            {
+              "number": 53,
+              "stem": "What does the author regard as the strongest argument for return?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That the objects can be shown within the culture that produced them."
+                },
+                {
+                  "key": "B",
+                  "text": "That foreign museums lack the skill to conserve the pieces."
+                },
+                {
+                  "key": "C",
+                  "text": "That the original acquisitions were plainly illegal."
+                },
+                {
+                  "key": "D",
+                  "text": "That European audiences have lost interest in them."
+                }
+              ],
+              "answer": "A",
+              "analysis": "C 段首句：实际层面的理由「比法律理由更强」——拉各斯或科托努的博物馆能用制作者的语言、在其历史脉络中陈列，并让学童参观；作者随即强调法律理由「更纠缠」。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "The practical case for return is stronger than the legal one"
+            },
+            {
+              "number": 54,
+              "stem": "What is the 'quieter argument' in the fourth paragraph concerned with?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The cost of insuring valuable objects in transit."
+                },
+                {
+                  "key": "B",
+                  "text": "The purpose a collection is understood to serve."
+                },
+                {
+                  "key": "C",
+                  "text": "The competition between European museums for visitors."
+                },
+                {
+                  "key": "D",
+                  "text": "The training of curators in African art."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段开门见山：还有一个「更安静的争论，关乎博物馆是做什么用的」，随后对比「收藏作为获取的记录」与「收藏作为对公众的服务」两种理解。",
+              "type": "主旨题",
+              "evidencePara": "D",
+              "evidenceText": "about what a museum is for"
+            },
+            {
+              "number": 55,
+              "stem": "How does the author regard the negotiated arrangements likely to prevail?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "As a principled solution that satisfies both sides."
+                },
+                {
+                  "key": "B",
+                  "text": "As a delay tactic that should be rejected outright."
+                },
+                {
+                  "key": "C",
+                  "text": "As a pragmatic outcome with real but limited merits."
+                },
+                {
+                  "key": "D",
+                  "text": "As a temporary stage before full restitution."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：作者指出它「让双方都不满意」，但优点是迫使各方持续对话，代价是取决于哪届政府执政、资金能否到位——是务实但不完美的安排。A 项「双方满意」与原文相反。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "disappoints those who want a principle and reassures those who fear empty galleries"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n都江堰位于成都平原西部的岷江上，由秦国蜀郡太守李冰父子于公元前256年左右主持修建，至今已有两千多年历史。它由鱼嘴分水堤、飞沙堰和宝瓶口三部分组成，不建高坝，而是利用地形与水流的规律，把岷江分为内江和外江，既防洪又灌溉，使成都平原成为「天府之国」。两千多年来，这套工程持续运转，并经历代修缮。2000年，都江堰被列入世界文化遗产名录。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe Dujiangyan irrigation system stands on the Min River west of the Chengdu Plain. It was built around 256 BC under the direction of Li Bing, governor of Shu commandery in the state of Qin, together with his son, and it has a history of more than two thousand years. The system consists of three parts: the Fish Mouth levee, which divides the river; the Flying Sand Weir, which releases excess water; and the Bottle-Neck Channel, which controls the flow into the plain. Instead of building a high dam, it works with the shape of the land and the behaviour of the current, splitting the Min River into an inner and an outer channel. In this way it has both prevented floods and irrigated the plain, turning the region into what the Chinese call the Land of Abundance. For more than twenty centuries the works have kept operating, repaired by successive dynasties, and in 2000 they were inscribed on the World Heritage List.\n\n【要点】①「由……主持修建」用 was built under the direction of，比 was built by 更贴近「主持」；②「公元前256年左右」用 around 256 BC，BC 置于年份之后；③三个组成部分宜用冒号＋同位语逐个说明，避免长串定语；④「不建高坝，而是利用地形与水流的规律」用 Instead of building..., it works with... 的分词对照结构；⑤「既防洪又灌溉」用 both prevented floods and irrigated，保持并列；⑥「天府之国」可直译加解释 the Land of Abundance，不必音译；⑦时态：建成用过去时，持续运转与现状用现在完成时／现在时，入遗用过去时被动。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

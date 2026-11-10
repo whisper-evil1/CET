@@ -1,0 +1,1093 @@
+{
+  "id": "cet4-2022-06-s2",
+  "level": "CET4",
+  "year": 2022,
+  "month": 6,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether college students should do volunteer work in the community. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nShould College Students Volunteer?\n\nThe question of whether college students should do volunteer work often produces two extremes. Some treat it as a compulsory box to tick; others dismiss it as a waste of study time. Neither view is right.\n\nVolunteering is valuable precisely because it is uncomfortable. In a classroom, a student is judged on effort and ideas; in a community centre, he is judged on whether the elderly residents got their lunch. That shift teaches punctuality, patience and the ability to work with people who have no obligation to be impressed. These are the qualities employers complain that graduates lack.\n\nThere is also a civic argument. Universities are supported by public money, and students who spend a few hours a week helping in hospitals, schools or neighbourhood associations repay part of that debt. The work need not be dramatic; regular commitment matters more than a single photographed event.\n\nThe condition is that volunteering should be chosen, not imposed. A requirement produces resentful hours and empty reports, while encouragement and flexible scheduling produce students who continue after they graduate.\n\n（约 172 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Few doctors would claim that loneliness can be cured with a pill, yet until recently a family doctor in Britain had little else to offer. Social prescribing changes that. Instead of a prescription for medicine, a patient may leave the surgery with a 26______ to a walking group, a choir or a gardening project. The scheme was 27______ across England after a national plan in 2019, and there are now more than 2,000 link workers whose job is to make such 28______."
+            },
+            {
+              "label": "B",
+              "text": "The logic is straightforward. Many patients visit their doctor because they are isolated, grieving or unemployed, and a large 29______ of appointments concern problems that medicine cannot solve. A link worker spends time finding out what the person enjoys and then 30______ them with a local group. Early 31______ is encouraging: participants report feeling less lonely and making fewer visits to hospital.\n\nSceptics 32______ that the evidence is thin. Most studies are small, and it is hard to prove that a choir, rather than the attention of a friendly worker, produced the improvement. There is also a risk that social prescribing becomes a cheap 33______ for services that have been cut. Supporters accept the criticism but 34______ that the alternative — treating social problems as medical ones — is more expensive and less 35______."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "type": "词义题",
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "recipe"
+                },
+                {
+                  "key": "B",
+                  "text": "reminder"
+                },
+                {
+                  "key": "C",
+                  "text": "referral"
+                },
+                {
+                  "key": "D",
+                  "text": "report"
+                }
+              ],
+              "answer": "C",
+              "analysis": "全段对照 prescription（处方）与「转介到健走小组、合唱团」，医生开的是一张「转介单」，故用 referral。recipe 指食谱/秘诀，reminder 指提醒，report 指报告，都不能与 to a walking group 搭配。",
+              "evidencePara": "A",
+              "evidenceText": "Instead of a prescription for medicine"
+            },
+            {
+              "number": 27,
+              "type": "词义题",
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "rolled"
+                },
+                {
+                  "key": "B",
+                  "text": "carried"
+                },
+                {
+                  "key": "C",
+                  "text": "turned"
+                },
+                {
+                  "key": "D",
+                  "text": "put"
+                }
+              ],
+              "answer": "A",
+              "analysis": "空后有 out，roll out 意为「推广、铺开」，与 2019 年全国计划后在全英格兰推行的语境吻合。carry out 是「执行」但宾语不能是 scheme 被推广；turn out 意为结果是；put out 意为扑灭。",
+              "evidencePara": "A",
+              "evidenceText": "after a national plan in 2019"
+            },
+            {
+              "number": 28,
+              "type": "词义题",
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "decisions"
+                },
+                {
+                  "key": "B",
+                  "text": "payments"
+                },
+                {
+                  "key": "C",
+                  "text": "mistakes"
+                },
+                {
+                  "key": "D",
+                  "text": "connections"
+                }
+              ],
+              "answer": "D",
+              "analysis": "联络员的工作就是把病人与社区团体「对接」，make connections 意为建立联系，与前句 link workers 呼应。decisions、payments、mistakes 与 to a group 的逻辑不成立。",
+              "evidencePara": "A",
+              "evidenceText": "link workers whose job is to make such"
+            },
+            {
+              "number": 29,
+              "type": "词义题",
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "piece"
+                },
+                {
+                  "key": "B",
+                  "text": "share"
+                },
+                {
+                  "key": "C",
+                  "text": "section"
+                },
+                {
+                  "key": "D",
+                  "text": "length"
+                }
+              ],
+              "answer": "B",
+              "analysis": "a large share of appointments 表示「很大一部分就诊」，share 可指比例份额。piece 用于 a piece of，section 指文章的节或部门，length 指长度，均不能接 of appointments 表比例。",
+              "evidencePara": "B",
+              "evidenceText": "of appointments concern problems that medicine cannot solve"
+            },
+            {
+              "number": 30,
+              "type": "词义题",
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "matches"
+                },
+                {
+                  "key": "B",
+                  "text": "compares"
+                },
+                {
+                  "key": "C",
+                  "text": "gathers"
+                },
+                {
+                  "key": "D",
+                  "text": "collects"
+                }
+              ],
+              "answer": "A",
+              "analysis": "match sb with sth 是固定搭配，意为「把某人与某物配对」，符合联络员为病人找合适小组的职责。compare with 是比较，gather、collect 不与 with 搭配表示配对。",
+              "evidencePara": "B",
+              "evidenceText": "them with a local group"
+            },
+            {
+              "number": 31,
+              "type": "词义题",
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "ending"
+                },
+                {
+                  "key": "B",
+                  "text": "effort"
+                },
+                {
+                  "key": "C",
+                  "text": "feedback"
+                },
+                {
+                  "key": "D",
+                  "text": "effect"
+                }
+              ],
+              "answer": "C",
+              "analysis": "冒号后是参与者「不再那么孤独、住院次数减少」的反馈，early feedback（早期反馈）最贴切。ending 指结局，effort 指努力，effect 通常用复数 effects are，且与「反馈」含义不同。",
+              "evidencePara": "B",
+              "evidenceText": "participants report feeling less lonely"
+            },
+            {
+              "number": 32,
+              "type": "词义题",
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "agree"
+                },
+                {
+                  "key": "B",
+                  "text": "argue"
+                },
+                {
+                  "key": "C",
+                  "text": "promise"
+                },
+                {
+                  "key": "D",
+                  "text": "forget"
+                }
+              ],
+              "answer": "B",
+              "analysis": "后文说「多数研究规模小、难以证明是合唱团起作用」，这是质疑者的论点，argue that 引出主张。agree 与质疑语气相反，promise、forget 与论证无关。",
+              "evidencePara": "B",
+              "evidenceText": "the evidence is thin"
+            },
+            {
+              "number": 33,
+              "type": "词义题",
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "standard"
+                },
+                {
+                  "key": "B",
+                  "text": "supply"
+                },
+                {
+                  "key": "C",
+                  "text": "structure"
+                },
+                {
+                  "key": "D",
+                  "text": "substitute"
+                }
+              ],
+              "answer": "D",
+              "analysis": "风险在于社会处方变成被削减服务的「廉价替代品」，a substitute for sth 是固定搭配。standard、supply、structure 与 for services 搭配均不表示替代关系。",
+              "evidencePara": "B",
+              "evidenceText": "for services that have been cut"
+            },
+            {
+              "number": 34,
+              "type": "词义题",
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "refuse"
+                },
+                {
+                  "key": "B",
+                  "text": "deny"
+                },
+                {
+                  "key": "C",
+                  "text": "respond"
+                },
+                {
+                  "key": "D",
+                  "text": "regret"
+                }
+              ],
+              "answer": "C",
+              "analysis": "支持者接受批评，但「回应」说另一种做法更贵、效果更差，respond that 引出答复。refuse 后接 to do，deny 表示否认指控，regret 表示后悔，均不合逻辑。",
+              "evidencePara": "B",
+              "evidenceText": "Supporters accept the criticism but"
+            },
+            {
+              "number": 35,
+              "type": "词义题",
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "effective"
+                },
+                {
+                  "key": "B",
+                  "text": "expensive"
+                },
+                {
+                  "key": "C",
+                  "text": "frequent"
+                },
+                {
+                  "key": "D",
+                  "text": "formal"
+                }
+              ],
+              "answer": "A",
+              "analysis": "此处把「把社会问题当医疗问题」与前面做法对比：更贵且更不「有效」，故填 effective；若填 expensive 会与前面的 more expensive 自相矛盾。frequent、formal 与疗效无关。",
+              "evidencePara": "B",
+              "evidenceText": "is more expensive and less"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In February 2020, a steel door opened inside a mountain on the Norwegian island of Svalbard, and three boxes of seeds were carried into a tunnel kept at minus 18 degrees. The boxes came from a gene bank in Syria, which had been damaged by war. The seeds they contained — wheat, barley and lentils — were copies. The originals had been sent to Svalbard years earlier, as a backup."
+            },
+            {
+              "label": "B",
+              "text": "The Svalbard Global Seed Vault is the best known of a network of about 1,700 seed banks around the world. It does not lend seeds or conduct research. It stores duplicates on behalf of other banks, like a safety deposit box. Each depositor keeps ownership and can withdraw the seeds only when its own collection is destroyed. The first withdrawal, in 2015, was made by Syria; others have followed."
+            },
+            {
+              "label": "C",
+              "text": "The idea dates back to the 1980s, when scientists began to notice that old varieties of crops were vanishing from fields. As farmers switched to a small number of high-yielding varieties, landraces that had been grown for centuries — adapted to local soil, drought or disease — were abandoned. Each lost variety takes with it genetic material that plant breeders may need decades later."
+            },
+            {
+              "label": "D",
+              "text": "Seed banks are less permanent than they look. A collection depends on electricity, trained staff and regular testing: seeds lose the ability to germinate, and a sample that is not grown out and refreshed every few decades quietly dies. In the 1990s, researchers found that some collections in Asia and Africa had lost much of their viability because funding had stopped. Svalbard was built partly as a response to that discovery."
+            },
+            {
+              "label": "E",
+              "text": "Plant breeders use the collections in practical ways. When a disease threatens a commercial wheat crop, a resistant gene may be found in a variety that farmers stopped growing in the 1950s. The search can take years, and it usually fails, which is why the value of a seed bank is impossible to measure in advance. It is an insurance policy against a future nobody can predict."
+            },
+            {
+              "label": "F",
+              "text": "The politics are delicate. Many collections in developing countries hold varieties that originated there, while the laboratories that use them are often in richer countries. International treaties now set rules for access and for sharing the benefits of commercial use, but the arrangements are slow and the sums involved are small compared with the profits of the seed industry."
+            },
+            {
+              "label": "G",
+              "text": "The most serious gap is in the wild. Crops have wild relatives — grasses, beans and fruit trees — that survive in difficult conditions and may carry useful traits. Few of these are protected in gene banks, and their habitats are disappearing faster than collections can be built. Researchers argue that the next task is not another vault but a plan for the plants that no one has yet collected."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "type": "细节题",
+              "stem": "A vault's contents were used after a collection was damaged in a conflict.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：叙利亚的基因库毁于战火，于是取出多年前存放在斯瓦尔巴的备份种子。",
+              "evidencePara": "A",
+              "evidenceText": "a gene bank in Syria, which had been damaged by war"
+            },
+            {
+              "number": 37,
+              "type": "细节题",
+              "stem": "The facility stores copies for others but does not own them.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：它像保险箱一样替其他基因库保存副本，存入者保留所有权，只有自己的收藏被毁时才能取回。",
+              "evidencePara": "B",
+              "evidenceText": "Each depositor keeps ownership"
+            },
+            {
+              "number": 38,
+              "type": "细节题",
+              "stem": "Old crop varieties disappeared as farmers adopted a few modern ones.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：农民改种少量高产作物后，适应本地土壤、干旱和病害的传统品种被弃种。",
+              "evidencePara": "C",
+              "evidenceText": "switched to a small number of high-yielding varieties"
+            },
+            {
+              "number": 39,
+              "type": "推断题",
+              "stem": "A collection can fail quietly when power or funding stops.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：种子会失去发芽力，若不每隔几十年繁育更新就会「悄悄死亡」；1990 年代就发现一些收藏因资金中断而丧失活力。",
+              "evidencePara": "D",
+              "evidenceText": "quietly dies"
+            },
+            {
+              "number": 40,
+              "type": "细节题",
+              "stem": "A useful gene may come from a variety that is no longer farmed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：抗病基因可能来自农民 1950 年代就不再种植的品种，这种寻找往往耗时多年且常常失败。",
+              "evidencePara": "E",
+              "evidenceText": "a variety that farmers stopped growing in the 1950s"
+            },
+            {
+              "number": 41,
+              "type": "细节题",
+              "stem": "International rules on access and benefit sharing exist but work slowly.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：国际条约规定了获取与惠益分享规则，但程序缓慢，金额相比种子产业利润很小。",
+              "evidencePara": "F",
+              "evidenceText": "the arrangements are slow"
+            },
+            {
+              "number": 42,
+              "type": "主旨题",
+              "stem": "Wild relatives of crops are largely unprotected.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：作物野生近缘种很少被基因库保存，栖息地消失的速度快于收集速度，这是最严重的缺口。",
+              "evidencePara": "G",
+              "evidenceText": "Few of these are protected in gene banks"
+            },
+            {
+              "number": 43,
+              "type": "细节题",
+              "stem": "The vault was partly created because earlier collections had been lost.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：斯瓦尔巴的建造在某种程度上正是对 1990 年代发现收藏丧失活力这一事实的回应。",
+              "evidencePara": "D",
+              "evidenceText": "built partly as a response to that discovery"
+            },
+            {
+              "number": 44,
+              "type": "细节题",
+              "stem": "Searching for a resistant gene often ends in failure.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：这种寻找可能耗时数年，「通常失败」，正因如此基因库的价值无法事先衡量。",
+              "evidencePara": "E",
+              "evidenceText": "The search can take years, and it usually fails"
+            },
+            {
+              "number": 45,
+              "type": "推断题",
+              "stem": "Countries that hold valuable varieties are not always the ones that use them.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：发展中国家收藏的品种原产当地，使用它们的实验室却多在富国，这正是政治敏感之处。",
+              "evidencePara": "F",
+              "evidenceText": "the laboratories that use them are often in richer countries"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A teaspoon of healthy soil contains more living organisms than there are people on Earth. Most are invisible: bacteria, fungi, single-celled animals and tiny worms that break down dead matter and release the nutrients plants need. For most of the twentieth century, farmers treated this living layer as a container for roots and chemicals. A growing number now treat it as the farm's most valuable asset."
+            },
+            {
+              "label": "B",
+              "text": "The change has been driven by measurement. Soil organic matter — the dark material formed when dead plants and microbes break down — holds water and carbon. Fields that have lost it become dusty, erode in heavy rain and need more fertiliser to produce the same yield. In parts of Australia and the American Midwest, decades of intensive ploughing reduced organic matter by half, and some farms are now spending more on inputs to grow less."
+            },
+            {
+              "label": "C",
+              "text": "The alternative is often called regenerative farming. Its methods are old: keep the soil covered with plants or residue, disturb it as little as possible, grow a mixture of crops rather than one, and keep animals moving across fields. The combination is intended to feed the organisms below ground, which in turn make nutrients available to crops. Farmers who adopt it often report that the first two or three years are worse, as the system adjusts."
+            },
+            {
+              "label": "D",
+              "text": "Evidence is mixed. Trials in Europe have found that reducing ploughing raises organic matter and improves water retention, but can increase weeds and, in cool climates, reduce yields in the short term. Cover crops cost money to plant and may use water that the main crop needs. The strongest results come from farms that combine several practices and stay with them, which makes it difficult to say which element is doing the work."
+            },
+            {
+              "label": "E",
+              "text": "Policy is beginning to follow the science. Several governments now pay farmers for measurable increases in soil carbon, and food companies are writing soil requirements into contracts with suppliers. Researchers warn that the measurements are uncertain and that payments risk rewarding farmers who were already doing the right thing. Even so, the direction is clear: soil that was once taken for granted is becoming something to be counted."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "type": "细节题",
+              "stem": "How was soil traditionally regarded by farmers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "As a container for roots and chemicals."
+                },
+                {
+                  "key": "B",
+                  "text": "As the farm's most valuable asset."
+                },
+                {
+                  "key": "C",
+                  "text": "As a source of drinking water."
+                },
+                {
+                  "key": "D",
+                  "text": "As a habitat that must be protected."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末两句对比：二十世纪大部分时间里农民把土壤当作「根和化学品的容器」，如今才逐渐视其为最宝贵的资产。B 是新观念，非传统看法。",
+              "evidencePara": "A",
+              "evidenceText": "a container for roots and chemicals"
+            },
+            {
+              "number": 47,
+              "type": "细节题",
+              "stem": "What happens to fields that have lost organic matter?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They absorb more carbon."
+                },
+                {
+                  "key": "B",
+                  "text": "They hold less water and need more fertiliser."
+                },
+                {
+                  "key": "C",
+                  "text": "They produce higher yields."
+                },
+                {
+                  "key": "D",
+                  "text": "They need less ploughing."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：失去有机质的土地会起尘、在暴雨中侵蚀，且要施更多化肥才能维持同样产量。",
+              "evidencePara": "B",
+              "evidenceText": "need more fertiliser to produce the same yield"
+            },
+            {
+              "number": 48,
+              "type": "细节题",
+              "stem": "What do farmers often experience in the first years of regenerative farming?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Immediate increases in yield."
+                },
+                {
+                  "key": "B",
+                  "text": "A period when results get worse before they improve."
+                },
+                {
+                  "key": "C",
+                  "text": "A complete loss of soil carbon."
+                },
+                {
+                  "key": "D",
+                  "text": "No change of any kind."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段末：采用者常说头两三年情况更差，因为整个系统还在调整。A 与原文相反，C、D 无据。",
+              "evidencePara": "C",
+              "evidenceText": "the first two or three years are worse"
+            },
+            {
+              "number": 49,
+              "type": "推断题",
+              "stem": "Why is it difficult to identify which practice is effective?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because trials are kept secret."
+                },
+                {
+                  "key": "B",
+                  "text": "Because farmers combine several practices and continue with them."
+                },
+                {
+                  "key": "C",
+                  "text": "Because soil cannot be measured."
+                },
+                {
+                  "key": "D",
+                  "text": "Because cover crops are illegal in Europe."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段末：效果最好的农场同时采用多种做法并长期坚持，因此难以判断究竟是哪一个环节在起作用。",
+              "evidencePara": "D",
+              "evidenceText": "difficult to say which element is doing the work"
+            },
+            {
+              "number": 50,
+              "type": "推断题",
+              "stem": "What concern do researchers raise about payments for soil carbon?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Farmers will refuse to accept them."
+                },
+                {
+                  "key": "B",
+                  "text": "Measurements are uncertain and may reward past good practice."
+                },
+                {
+                  "key": "C",
+                  "text": "They will make food too expensive."
+                },
+                {
+                  "key": "D",
+                  "text": "They are banned by food companies."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：研究者提醒测量本身不确定，而且付款可能奖励那些本来就已经做对的农民。A、C、D 均无据。",
+              "evidencePara": "E",
+              "evidenceText": "measurements are uncertain"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In most of the world, a tip is a reward for good service. In the United States it has become something closer to a wage. Restaurants there are allowed to pay tipped staff a lower minimum wage on the assumption that customers will make up the difference, and the tax authority expects workers to report the tips they receive. The result is a system in which the customer, not the employer, decides how much a server earns."
+            },
+            {
+              "label": "B",
+              "text": "That system is spreading to places that never had it. Payment terminals now display a tipping screen in coffee shops, bakeries and even hardware stores, offering options of 15, 20 or 25 per cent before the customer has received anything. Researchers call the effect \"tipflation\": the suggested amounts rise, and people press the middle button without thinking, partly to avoid appearing mean in front of a queue."
+            },
+            {
+              "label": "C",
+              "text": "The economics are odd. Tipping allows employers to keep menu prices low and transfer part of the wage bill to customers, who may tip generously or not at all. It also creates instability: a server's income depends on the weather, the day of the week and the mood of strangers. Studies in several cities have found that tips vary with the customer's assumptions about race and gender as much as with the quality of service."
+            },
+            {
+              "label": "D",
+              "text": "Some restaurants have responded by banning tips and raising prices instead. The model is simpler and fairer on paper, but it has failed in several high-profile cases. Customers who were used to deciding the tip felt they were being overcharged when the amount was included, and staff who earned well from generous tippers sometimes left for restaurants that kept the old system."
+            },
+            {
+              "label": "E",
+              "text": "Technology may decide the outcome. Cash tips are declining, and digital systems record everything, which makes it easier for employers to pool and distribute tips — or to take a share. Several countries are tightening rules on how service charges are shared, and courts have begun to treat some \"optional\" charges as part of wages. The tip, originally a personal gesture, is becoming a line on a payroll."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "type": "细节题",
+              "stem": "How does the American tipping system differ from that of most countries?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Tips are collected by the government."
+                },
+                {
+                  "key": "B",
+                  "text": "Customers effectively pay part of the staff's wages."
+                },
+                {
+                  "key": "C",
+                  "text": "Staff are not allowed to accept tips."
+                },
+                {
+                  "key": "D",
+                  "text": "Tips are fixed at 15 per cent by law."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：在大多数地方小费是对好服务的奖赏，在美国却更接近工资——顾客决定服务生能挣多少。",
+              "evidencePara": "A",
+              "evidenceText": "the customer, not the employer, decides how much a server earns"
+            },
+            {
+              "number": 52,
+              "type": "词义题",
+              "stem": "What does \"tipflation\" refer to?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The rising percentages suggested on payment screens."
+                },
+                {
+                  "key": "B",
+                  "text": "A fall in the number of cash tips."
+                },
+                {
+                  "key": "C",
+                  "text": "A tax on tips introduced by the government."
+                },
+                {
+                  "key": "D",
+                  "text": "The growing number of restaurants that ban tips."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段给 tipflation 下定义：建议比例不断上升，15%、20%、25% 出现在顾客还没得到服务之前。",
+              "evidencePara": "B",
+              "evidenceText": "the suggested amounts rise"
+            },
+            {
+              "number": 53,
+              "type": "细节题",
+              "stem": "What does the author say about a server's income?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is fixed by the restaurant."
+                },
+                {
+                  "key": "B",
+                  "text": "It rises steadily with experience."
+                },
+                {
+                  "key": "C",
+                  "text": "It depends on factors beyond the server's control."
+                },
+                {
+                  "key": "D",
+                  "text": "It is higher in Europe than in America."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：收入取决于天气、星期几和陌生人的心情，研究还发现与小费多少相关的还有顾客对种族和性别的预设。",
+              "evidencePara": "C",
+              "evidenceText": "depends on the weather, the day of the week and the mood of strangers"
+            },
+            {
+              "number": 54,
+              "type": "推断题",
+              "stem": "Why have some no-tipping restaurants failed?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their food was too expensive to produce."
+                },
+                {
+                  "key": "B",
+                  "text": "Customers felt overcharged and good staff left."
+                },
+                {
+                  "key": "C",
+                  "text": "They were required to pay tips by law."
+                },
+                {
+                  "key": "D",
+                  "text": "They could not find enough suppliers."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：习惯自己决定小费的顾客觉得被多收了钱，而从慷慨顾客那里收入高的员工则跳槽到保留旧制度的餐厅。",
+              "evidencePara": "D",
+              "evidenceText": "felt they were being overcharged"
+            },
+            {
+              "number": 55,
+              "type": "主旨题",
+              "stem": "What is happening to tips as payments become digital?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are disappearing completely."
+                },
+                {
+                  "key": "B",
+                  "text": "They are becoming a regulated part of payroll."
+                },
+                {
+                  "key": "C",
+                  "text": "They are no longer taxed."
+                },
+                {
+                  "key": "D",
+                  "text": "They are being replaced by higher menu prices everywhere."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段末：数字系统记录一切，多国收紧服务费分配规则，法院把某些「自愿」收费视为工资的一部分——小费正变成工资单上的一行。",
+              "evidencePara": "E",
+              "evidenceText": "the tip is becoming a line on a payroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n景德镇位于江西省，是中国的瓷都，制瓷历史已有一千多年。宋代以后，这里的瓷器通过海上丝绸之路销往世界各地，青花瓷尤其受到欢迎。今天，景德镇仍保留大量老窑址和作坊，吸引各国艺术家。近年来，越来越多年轻人来到这座小城开设工作室，把传统技艺与现代设计结合。他们希望瓷器不只是陈列品，也能进入普通人的日常生活。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nJingdezhen, in Jiangxi Province, is China's most famous porcelain capital, and its history of ceramic production goes back more than a thousand years. From the Song Dynasty onwards, its porcelain was shipped to markets around the world along the maritime Silk Road, and blue-and-white ware was especially popular. Today the city still keeps a large number of old kiln sites and workshops, which attract artists from many countries. In recent years, more and more young people have come to this small city to open studios and to combine traditional techniques with modern design. They hope that porcelain will not remain something to be looked at in a museum, but will find its way into ordinary daily life. The old kilns were once fired with pine wood, and the smoke from them coloured the sky above the town for centuries.\n\n【要点】①「瓷都」译为 porcelain capital，是通行说法；②「宋代以后」用 From the Song Dynasty onwards；③「海上丝绸之路」为 the maritime Silk Road；④「青花瓷」是 blue-and-white ware/porcelain；⑤「老窑址」可译 old kiln sites；⑥「不只是陈列品」意译为 not remain something to be looked at in a museum，避免逐字硬译。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

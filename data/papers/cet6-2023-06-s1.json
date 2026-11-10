@@ -1,0 +1,1101 @@
+{
+  "id": "cet6-2023-06-s1",
+  "level": "CET6",
+  "year": 2023,
+  "month": 6,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether short videos are damaging our capacity for sustained attention. You should state your position clearly and support it with reasons. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nThe Question Behind the Short Video\n\nEvery generation blames a new medium for shortening attention: television, we were told, would destroy reading. The present complaint, that short videos are damaging our attention span, deserves a fairer hearing, because the mechanism is different.\n\nA short video does not merely fill spare time; it trains an expectation of constant novelty. Each swipe is a small bet, and the reward arrives before boredom can set in. What looks like a loss of attention is more precisely a loss of tolerance for the slow—for a paragraph that takes three pages to make its point, for a lecture that is dull for ten minutes before it becomes interesting. That tolerance is not innate. It is built by practice, and it can be unbuilt.\n\nYet the evidence of a general collapse is weaker than the alarm suggests. People who read still read, and deep work has always been a minority pursuit. The plausible harm is narrower: an environment in which the easy thing is effortless will, over time, sort people by their capacity to resist it.\n\nThe remedy, then, is not abstinence but friction—and a willingness, now and then, to be bored on purpose."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Most of the water a city loses is lost before it reaches a tap. In older systems, cast-iron mains laid a century ago have corroded and 26______ at the joints, and the utility may have only a vague idea of how much is escaping, because its maps of the network are as worn as the pipes themselves. The share that never arrives at a meter — the non-revenue water rate — runs from below 10 per cent in Singapore to above 40 per cent in some cities, a 27______ that is tolerated largely because it is invisible: nobody is billed for water that never arrived."
+            },
+            {
+              "label": "B",
+              "text": "Making the loss visible is the first step. A district metered area divides a network into zones of a few thousand connections and measures the flow entering each zone at night, when genuine demand is 28______; a zone whose minimum flow stays high is almost certainly leaking. The technique is cheap, needs no excavation, and narrows the search from kilometres of pipe to a few hundred metres. Finding the leak, however, is not the same as repairing it, and it is repair that most budgets 29______. A utility paid on the volume it sells has little reason to chase water it cannot bill for, and where tariffs are held below cost the revenue for a new main is simply not there. So the pipe is patched rather than replaced, the patch fails, and the 30______ of a proper renewal rises with every year of delay."
+            },
+            {
+              "label": "C",
+              "text": "The reforms that work are unglamorous. Metering every household makes consumption visible and, in most pilots, cuts demand by a fifth. A tariff that rises in steps rewards 31______ without punishing a family that uses little, and publishing the leakage rate each year creates an 32______ for managers that a confidential report never did. None of this is 33______. Replacing mains is expensive, and the benefit arrives as a series of disasters that did not happen, which is hard to celebrate. Nor is leakage purely a matter of engineering: where water is 34______ for a few hours a day, the pressure swings crack pipes faster than steady flow ever would. But the arithmetic is not in doubt. A litre saved at the pipe is cheaper than a litre supplied from a new reservoir, and cheaper still than a litre lost. What is missing is rarely the technology; it is the 35______ to charge what water costs, and to spend the money where it will do the most good."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "restored"
+                },
+                {
+                  "key": "B",
+                  "text": "concealed"
+                },
+                {
+                  "key": "C",
+                  "text": "duplicated"
+                },
+                {
+                  "key": "D",
+                  "text": "deteriorated"
+                }
+              ],
+              "answer": "D",
+              "analysis": "主语 cast-iron mains（铸铁干管）与 have corroded 并列，需要一个表示「老化、变坏」的不及物过去分词：deteriorated at the joints 即「在接口处劣化」。restored（修复）与 corroded 语义相反；concealed（被隐藏）、duplicated（被复制）与管道接口的物理状态不搭。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "cast-iron mains laid a century ago have corroded and ______ at the joints"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "surplus"
+                },
+                {
+                  "key": "B",
+                  "text": "shortfall"
+                },
+                {
+                  "key": "C",
+                  "text": "subsidy"
+                },
+                {
+                  "key": "D",
+                  "text": "penalty"
+                }
+              ],
+              "answer": "B",
+              "analysis": "破折号前的非收益水率是「进账的水少于出厂的水」的差额，故用 shortfall（缺口、亏空），后文 it is invisible 正指这部分水看不见。surplus 是「盈余」，方向相反；subsidy（补贴）与 penalty（罚款）都不是「比例所代表的差额」。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "runs from below 10 per cent ... to above 40 per cent ... because it is invisible"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "abundant"
+                },
+                {
+                  "key": "B",
+                  "text": "deliberate"
+                },
+                {
+                  "key": "C",
+                  "text": "negligible"
+                },
+                {
+                  "key": "D",
+                  "text": "urgent"
+                }
+              ],
+              "answer": "C",
+              "analysis": "分区计量要在夜间测流量，因为此时居民真实用水量极小，测得的水几乎全是漏损：genuine demand is negligible（真实需求可忽略不计）。abundant 与「夜间最小流量」的测量逻辑相反；deliberate、urgent 不能修饰 demand 的数量。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "at night, when genuine demand is ______"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "reward"
+                },
+                {
+                  "key": "B",
+                  "text": "anticipate"
+                },
+                {
+                  "key": "C",
+                  "text": "publicise"
+                },
+                {
+                  "key": "D",
+                  "text": "neglect"
+                }
+              ],
+              "answer": "D",
+              "analysis": "it is repair that most budgets ______ 为强调句，后文「管道只补不换」说明预算恰恰在维修这一环被忽略：neglect 意为「忽视、不予投入」。reward（奖励）与只补不换的做法相反；anticipate、publicise 与预算对维修的态度无关。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "So the pipe is patched rather than replaced"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "benefit"
+                },
+                {
+                  "key": "B",
+                  "text": "value"
+                },
+                {
+                  "key": "C",
+                  "text": "purpose"
+                },
+                {
+                  "key": "D",
+                  "text": "cost"
+                }
+              ],
+              "answer": "D",
+              "analysis": "错过时机后再整体更换管道更贵，故 the cost of a proper renewal rises with every year of delay（每拖一年，正规更新的成本就更高）。benefit、value 是「收益、价值」，与 rises with delay 的负面含义相反；purpose 无法与 rise 搭配。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "the ______ of a proper renewal rises with every year of delay"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "consumption"
+                },
+                {
+                  "key": "B",
+                  "text": "investment"
+                },
+                {
+                  "key": "C",
+                  "text": "generosity"
+                },
+                {
+                  "key": "D",
+                  "text": "conservation"
+                }
+              ],
+              "answer": "D",
+              "analysis": "阶梯水价的经济含义是「用得少就便宜」，因此奖励的是节水：rewards conservation without punishing a family that uses little。consumption 恰是被惩罚的对象；investment、generosity 与水价结构无因果关系。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "A tariff that rises in steps rewards ______ without punishing a family that uses little"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "obstacle"
+                },
+                {
+                  "key": "B",
+                  "text": "incentive"
+                },
+                {
+                  "key": "C",
+                  "text": "excuse"
+                },
+                {
+                  "key": "D",
+                  "text": "illusion"
+                }
+              ],
+              "answer": "B",
+              "analysis": "公开漏损率让管理者的业绩可见，从而形成「动力」：creates an incentive for managers that a confidential report never did。obstacle（障碍）方向相反；excuse、illusion 都无法与 creates ... for managers that a report never did 这一对照结构相配。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "publishing the leakage rate each year creates an ______ for managers"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "straightforward"
+                },
+                {
+                  "key": "B",
+                  "text": "voluntary"
+                },
+                {
+                  "key": "C",
+                  "text": "temporary"
+                },
+                {
+                  "key": "D",
+                  "text": "unnecessary"
+                }
+              ],
+              "answer": "A",
+              "analysis": "后文列举「换管很贵」「收益是一连串没发生的灾难，难以宣扬」「限时供水会加剧爆管」，都在说明这些改革并不容易：None of this is straightforward。voluntary、temporary、unnecessary 与「难」这一层意思无关。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "None of this is ______. Replacing mains is expensive"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "filtered"
+                },
+                {
+                  "key": "B",
+                  "text": "heated"
+                },
+                {
+                  "key": "C",
+                  "text": "inspected"
+                },
+                {
+                  "key": "D",
+                  "text": "rationed"
+                }
+              ],
+              "answer": "D",
+              "analysis": "每天只供水几小时即「定量配给、限时供水」，压力随开关剧烈波动才更容易爆管：where water is rationed for a few hours a day。filtered、heated、inspected 都不会造成压力反复升降，与 the pressure swings 无因果。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the pressure swings crack pipes faster than steady flow ever would"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "ability"
+                },
+                {
+                  "key": "B",
+                  "text": "willingness"
+                },
+                {
+                  "key": "C",
+                  "text": "tendency"
+                },
+                {
+                  "key": "D",
+                  "text": "obligation"
+                }
+              ],
+              "answer": "B",
+              "analysis": "What is missing is rarely the technology 已排除技术能力，故缺的是「意愿」：the willingness to charge what water costs（按真实成本定价）并把钱花在刀刃上。ability 与前半句的排除项重复；tendency（倾向）与 obligation（义务）都不含「肯不肯这样做」之意。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "What is missing is rarely the technology; it is the ______ to charge what water costs"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "On a clear night a patient observer may see a satellite cross the sky every few minutes. Fewer people know that the same sky holds tens of thousands of fragments too small to see and too large to stop: bolts, insulation, the remains of a missile test and of two satellites that collided over Siberia in 2009. Each of those events roughly doubled the catalogued population of debris in low orbit, and every new fragment raises the chance of the next collision."
+            },
+            {
+              "label": "B",
+              "text": "The legal position is older than the problem. The 1967 Outer Space Treaty gives states jurisdiction over the objects they launch and makes them liable for the damage those objects cause, but it says nothing about objects that no longer function. A dead satellite remains somebody's property, which means that nobody may lawfully touch it without permission. Removal, in other words, requires a negotiation before it requires a rocket."
+            },
+            {
+              "label": "C",
+              "text": "Tracking has improved faster than removal. Military radars and commercial telescopes now follow objects down to a few centimetres, and collision warnings arrive often enough that the crew of the space station must sometimes shelter while a manoeuvre is planned. Avoidance works, but it consumes fuel and time, and it becomes less effective as the number of objects grows: a defence that depends on knowing where everything is will fail on the day something is not in the catalogue."
+            },
+            {
+              "label": "D",
+              "text": "The engineering is more awkward than it looks. A harpoon, a net or a robotic arm must approach an object that is tumbling, uncooperative and possibly damaged, then hold it without creating new fragments. A promising alternative is to attach a sail that increases drag and lets the atmosphere do the work, but that takes years and requires the target to be low enough. Every method carries the risk of making the problem worse in the attempt to make it better."
+            },
+            {
+              "label": "E",
+              "text": "Who pays is the harder question. An operator who removes a derelict satellite protects everybody, so everybody has an incentive to wait for somebody else. Insurance markets respond by pricing the risk rather than reducing it, and a launch licence rarely mentions what happens decades later. Economists have therefore proposed a fee paid at launch, held in a fund, to pay for removals later: a price on orbit rather than on guilt."
+            },
+            {
+              "label": "F",
+              "text": "Rules have begun to shift, unevenly. Regulators in the United States and France now require operators to dispose of a satellite within five years of the end of its mission rather than twenty-five, and a licence increasingly asks for a credible plan rather than a promise. Some governments want a binding convention; others prefer voluntary guidelines, which are quicker to agree and, as their critics point out, considerably easier to disregard."
+            },
+            {
+              "label": "G",
+              "text": "Beneath the technical argument lies a question of principle. Orbit is a commons with a carrying capacity, and the familiar pattern of commons—each user taking a little, the whole being diminished—has a deadline attached. The decisions now being taken about who may remove what, and who pays for it, will shape the rules for every shared environment that follows."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Two events in particular roughly doubled the number of catalogued objects in low orbit.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：一次导弹试验与 2009 年两颗卫星相撞，「每一次都使低轨编目碎片数量大约翻倍」。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "Each of those events roughly doubled the catalogued population"
+            },
+            {
+              "number": 37,
+              "stem": "A satellite that has stopped working is still legally the property of its owner.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：A dead satellite remains somebody's property，因此未经许可任何人不得合法触碰。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "A dead satellite remains somebody's property"
+            },
+            {
+              "number": 38,
+              "stem": "The law governing objects in orbit was written before the debris problem existed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段首句：The legal position is older than the problem，即法律早于问题出现，故对失效物体无规定。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "The legal position is older than the problem"
+            },
+            {
+              "number": 39,
+              "stem": "A strategy based on knowing where everything is will fail once something is missing from the catalogue.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：依赖「知道一切位置」的防御，会在某物未编目那天失效。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "will fail on the day something is not in the catalogue"
+            },
+            {
+              "number": 40,
+              "stem": "An attempt to remove debris may itself create more debris.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：每种方法都「有在试图改善问题时把问题弄得更糟的风险」，指捕获过程中产生新碎片。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "making the problem worse in the attempt to make it better"
+            },
+            {
+              "number": 41,
+              "stem": "Because everyone gains from a clean-up, each operator prefers to wait for someone else to act.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：清除废弃卫星保护所有人，于是所有人都有动力等别人先做——典型的搭便车。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "everybody has an incentive to wait for somebody else"
+            },
+            {
+              "number": 42,
+              "stem": "A charge at the moment of launch is one proposed way of paying for future removals.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：经济学家提议在发射时收费、存入基金，用于日后清除。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "a fee paid at launch, held in a fund"
+            },
+            {
+              "number": 43,
+              "stem": "Some regulators have shortened the period within which a satellite must be retired.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：美国与法国监管机构把卫星退役期限由 25 年缩短到 5 年。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "within five years ... rather than twenty-five"
+            },
+            {
+              "number": 44,
+              "stem": "Voluntary guidelines are attractive partly because they are easy to ignore.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：自愿准则更快达成一致，但「批评者指出，也更容易被无视」。",
+              "type": "态度题",
+              "evidencePara": "F",
+              "evidenceText": "considerably easier to disregard"
+            },
+            {
+              "number": 45,
+              "stem": "Orbit is a shared resource of limited capacity, and today's decisions will set a pattern for other shared resources.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：轨道是有承载力的公域，如今关于「谁能清除什么、谁付费」的决定，将为后续一切共享环境立下规则。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "will shape the rules for every shared environment that follows"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For most of the twentieth century a middle-class household bought things: a car, a washing machine, a set of records. The arrangement had disadvantages—capital tied up in objects that decayed—but it had one great virtue, which is that the transaction ended. The seller's interest in you expired when you left the shop. What has changed in the past fifteen years is not that companies want your money; it is that they now want it every month, and they have rebuilt their products, their pricing and their balance sheets around that ambition."
+            },
+            {
+              "label": "B",
+              "text": "The appeal to the firm is easy to state. Recurring revenue is predictable, and predictable revenue is worth more per dollar than a one-off sale, which is why investors value a software company at a multiple a manufacturer can only dream of. A subscription also converts a product into a relationship: the company knows who you are, can test changes on you, and can raise the price in increments small enough that no single increase would look like a decision."
+            },
+            {
+              "label": "C",
+              "text": "For the customer the arithmetic is less clear. A subscription is cheap per month and expensive per decade, and the comparison is deliberately hard to make. Free trials convert because the conversion happens at the moment when the alternative is filling in a form; cancellation sits behind a chat window, a telephone line or a sequence of screens that ask whether you are sure. None of these devices stops a determined person from leaving. They raise the cost of leaving just enough."
+            },
+            {
+              "label": "D",
+              "text": "Regulators have begun to treat that gap as a problem of consent rather than of price. Rules in the European Union and proposals in the United States now require a cancellation route as simple as the sign-up route, an end to silent renewals, and clear notice before a trial converts into a paid contract. The framing matters: the objection is not that subscriptions are expensive but that consent obtained through friction is not consent at all."
+            },
+            {
+              "label": "E",
+              "text": "There is a loss that regulation cannot reach. Ownership carried rights: to resell, to lend, to repair, to keep using after the maker had lost interest. A licence carries none of them. A farmer who cannot repair a tractor he has paid for, a reader who cannot bequeath an ebook, a driver who must accept an update before the car will start—each is a small instance of a large shift from property to permission. The convenience is real. So is what is being traded away, and the trade is seldom presented as one."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author identify as the essential change of the past fifteen years?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Households have stopped buying durable goods."
+                },
+                {
+                  "key": "B",
+                  "text": "Shops have largely been replaced by online platforms."
+                },
+                {
+                  "key": "C",
+                  "text": "Goods have become cheaper to manufacture."
+                },
+                {
+                  "key": "D",
+                  "text": "Companies now seek payment every month rather than once."
+                }
+              ],
+              "answer": "D",
+              "analysis": "A 段末：变化不在「想要你的钱」，而在「现在每月都要」，公司据此重建了产品、定价与财报。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "they now want it every month"
+            },
+            {
+              "number": 47,
+              "stem": "Why do investors value a subscription business so highly?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Its revenue can be predicted in advance."
+                },
+                {
+                  "key": "B",
+                  "text": "It employs fewer people than a factory."
+                },
+                {
+                  "key": "C",
+                  "text": "It sells goods that rarely break."
+                },
+                {
+                  "key": "D",
+                  "text": "It pays less tax than a manufacturer."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：经常性收入可预测，而「可预测的收入每一美元比一次性销售更值钱」，故投资者给软件公司更高估值倍数。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "predictable revenue is worth more per dollar"
+            },
+            {
+              "number": 48,
+              "stem": "What does the passage imply about a monthly price?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It discourages new customers from joining."
+                },
+                {
+                  "key": "B",
+                  "text": "It is always higher than a single purchase."
+                },
+                {
+                  "key": "C",
+                  "text": "It conceals the total cost over the years."
+                },
+                {
+                  "key": "D",
+                  "text": "It is fixed by competition authorities."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段：按月便宜、按十年昂贵，且这种比较「被故意弄得很难做」——即以月为单位掩盖长期总支出。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "cheap per month and expensive per decade"
+            },
+            {
+              "number": 49,
+              "stem": "What exactly do regulators object to?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That free trials last too long."
+                },
+                {
+                  "key": "B",
+                  "text": "That consent obtained through obstacles is not genuine consent."
+                },
+                {
+                  "key": "C",
+                  "text": "That companies avoid paying tax on subscriptions."
+                },
+                {
+                  "key": "D",
+                  "text": "That subscriptions cost too much."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段末：反对的不是贵，而是「通过摩擦取得的同意根本不是同意」；并据此要求取消与注册同样简便。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "consent obtained through friction is not consent at all"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's attitude towards the shift from ownership to access?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Concern that losses other than money go unremarked."
+                },
+                {
+                  "key": "B",
+                  "text": "Confidence that regulation will settle the matter."
+                },
+                {
+                  "key": "C",
+                  "text": "Wholehearted approval."
+                },
+                {
+                  "key": "D",
+                  "text": "Complete indifference."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：便利是真的，被交换掉的东西也是真的，而「这笔交易很少被当作交易呈现」；且开头说明这是「监管触及不到的损失」，故作者担忧的是非价格层面的权利流失。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "So is what is being traded away"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A supermarket shelf now carries as many claims as products: carbon neutral, plastic free, responsibly sourced, better for the planet. Some of them are accurate. The difficulty is that the vocabulary of virtue is cheap to print and expensive to check, and a shopper standing in an aisle has neither the time nor the data to check it."
+            },
+            {
+              "label": "B",
+              "text": "The most contested claim is carbon neutrality achieved through offsets. A firm that buys credits from a forest it does not own is asserting that its emissions have been cancelled somewhere else. That assertion depends on a counterfactual nobody can observe: whether the forest would have been cut down anyway. Where the answer is yes, the credit paid for something that was going to happen regardless, and the carbon is still in the air."
+            },
+            {
+              "label": "C",
+              "text": "Greenwashing, strictly understood, is not the same as lying. A vague claim—'eco-friendly packaging'—may be literally true and still mislead, because the reader supplies a meaning that the seller never promised. Regulators have found this harder to prosecute than false advertising: a statement that asserts almost nothing cannot be shown to be false."
+            },
+            {
+              "label": "D",
+              "text": "The regulatory response has therefore moved from banning words to demanding evidence. A proposed European directive would require a company to substantiate an environmental claim before making it, using recognised methods and independent verification, while Britain's competition authority has published guidance on what counts as a misleading comparison. The shift is significant: the burden moves from the shopper, who cannot audit, to the seller, who can."
+            },
+            {
+              "label": "E",
+              "text": "There is an unintended effect. Firms with defensible claims have discovered that any public statement invites litigation, and some have stopped making claims altogether—a retreat that has been called greenhushing. The result is that the least scrupulous firms keep talking and the most careful fall silent, which is the opposite of what disclosure was meant to achieve."
+            },
+            {
+              "label": "F",
+              "text": "The lesson is not that labels are useless but that a label is infrastructure, and infrastructure has to be maintained. A claim is worth what the measurement behind it is worth. Until the measurement is standard, audited and published, the shopper is being asked to trust a word rather than a number—which is precisely the arrangement that advertising has always preferred."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why is a carbon-neutral claim difficult to verify?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Nobody knows how much carbon a forest absorbs."
+                },
+                {
+                  "key": "B",
+                  "text": "Offset schemes are illegal in most countries."
+                },
+                {
+                  "key": "C",
+                  "text": "The relevant data are treated as commercial secrets."
+                },
+                {
+                  "key": "D",
+                  "text": "It depends on what would have happened otherwise."
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段：该主张依赖无人能观测的「反事实」——那片森林本来是否会被砍；若本来就会被砍，信用就买了个空。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "depends on a counterfactual nobody can observe"
+            },
+            {
+              "number": 52,
+              "stem": "Why is a vague claim harder to prosecute than a plainly false one?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is drafted by lawyers."
+                },
+                {
+                  "key": "B",
+                  "text": "It asserts nothing specific enough to be false."
+                },
+                {
+                  "key": "C",
+                  "text": "Regulators lack the resources to test it."
+                },
+                {
+                  "key": "D",
+                  "text": "It is protected as free speech."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段末：几乎什么都没有断言的陈述「无法被证明为假」，故难以按虚假广告起诉。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "cannot be shown to be false"
+            },
+            {
+              "number": 53,
+              "stem": "What does the proposed European directive change?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It requires shops to display offset certificates."
+                },
+                {
+                  "key": "B",
+                  "text": "It forbids the use of the word 'green'."
+                },
+                {
+                  "key": "C",
+                  "text": "It shifts the burden of proof onto the seller."
+                },
+                {
+                  "key": "D",
+                  "text": "It sets a maximum price for carbon credits."
+                }
+              ],
+              "answer": "C",
+              "analysis": "D 段末：举证责任从「无法审计的消费者」转移到「能够审计的卖家」，须先举证再作宣称。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "the burden moves from the shopper ... to the seller"
+            },
+            {
+              "number": 54,
+              "stem": "What is 'greenhushing' and why does it matter?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Careful firms stop making claims, so disclosure achieves the opposite of its aim."
+                },
+                {
+                  "key": "B",
+                  "text": "Regulators conceal the methods they use to test claims."
+                },
+                {
+                  "key": "C",
+                  "text": "Consumers have learned to ignore environmental labels."
+                },
+                {
+                  "key": "D",
+                  "text": "Firms exaggerate their claims, confusing shoppers further."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：有据可依的企业怕诉讼而集体沉默，结果「最不老实的继续说，最谨慎的闭嘴」，与披露初衷相反。",
+              "type": "词句含义题",
+              "evidencePara": "E",
+              "evidenceText": "the least scrupulous firms keep talking and the most careful fall silent"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's conclusion about environmental labels?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They work best when they remain voluntary."
+                },
+                {
+                  "key": "B",
+                  "text": "They mainly benefit large manufacturers."
+                },
+                {
+                  "key": "C",
+                  "text": "They should be abolished altogether."
+                },
+                {
+                  "key": "D",
+                  "text": "They are worth only as much as the measurement behind them."
+                }
+              ],
+              "answer": "D",
+              "analysis": "F 段：标签是「基础设施」，须被维护；一个宣称的价值等于其背后测量的价值，标准、审计、公开之前，消费者只是在「信一个词而不是一个数字」。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "A claim is worth what the measurement behind it is worth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n剪纸是中国古老的民间艺术之一。人们用剪刀或刻刀在红纸上剪出花鸟、人物和吉祥图案，贴在门窗上，寄托对幸福生活的期盼。题材多取自日常生活与戏曲故事，构图讲究对称，线条要求连贯，一幅复杂的作品往往需要数日。过去它由农村妇女口传心授；如今走进美术课堂和设计领域，被用于包装、服装和动画。2009 年，剪纸被列入联合国教科文组织非物质文化遗产名录。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nPaper-cutting is one of China's oldest folk arts. Scissors or a small knife are used to cut flowers, birds, figures and auspicious patterns out of red paper, which is then pasted on windows and doors as a wish for a happy life. Its subjects are drawn mostly from everyday life and from operatic stories; the composition insists on symmetry and the lines must stay unbroken, so a complex piece may take several days. Nothing is drawn in advance: the design exists only in the maker's head until the paper is opened out. In the past the craft was passed down orally among village women. Today it has entered art classrooms and design studios, and is used in packaging, clothing and animation. In 2009 Chinese paper-cutting was inscribed on UNESCO's list of the intangible cultural heritage of humanity.\n\n【要点】①「用剪刀或刻刀在红纸上剪出」用被动语态 Scissors or a small knife are used to cut ... out of red paper；②「寄托对幸福生活的期盼」处理为 as a wish for a happy life 作状语，避免逐字直译；③「构图讲究对称，线条要求连贯」用 insists on symmetry / must stay unbroken，不必强译「讲究」「要求」；④「由农村妇女口传心授」用 was passed down orally among village women，不必逐字译 teach by word of mouth；⑤「被列入……名录」用 was inscribed on / was added to the list，注意过去时被动。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

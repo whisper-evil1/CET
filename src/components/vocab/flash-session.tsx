@@ -14,6 +14,9 @@ type ReviewResponse = {
   reviewCount: number;
   status: string;
   justMastered: boolean;
+  /** 调度结果，如「3 天后」——告诉用户什么时候会再见到这个词 */
+  nextLabel?: string;
+  intervalDays?: number;
 };
 
 type Flash = "none" | "known" | "unknown";
@@ -33,10 +36,13 @@ export function FlashSession({ words, onExit }: Props) {
   const [busy, setBusy] = useState(false);
   const [hideDefs, setHideDefs] = useState(false);
   const [stats, setStats] = useState({ known: 0, unknown: 0, mastered: 0 });
+  /** 刚答完一个词时，调度结果给的「下次再见」提示 */
+  const [nextLabel, setNextLabel] = useState("");
 
-  // 初始化队列（随机打乱）
+  /* 队列顺序由调用方给：VocabApp 传的是「按优先级排好的今日队列」，
+     这里不能再打乱，否则前面算的优先级就白算了。 */
   useEffect(() => {
-    setQueue([...words].sort(() => Math.random() - 0.5));
+    setQueue([...words]);
     setIndex(0);
   }, [words]);
 
@@ -63,13 +69,17 @@ export function FlashSession({ words, onExit }: Props) {
     setFlash(result);
 
     try {
+      // 两种结果都要落库：答错要记 lapses 并把词挪到 10 分钟后，
+      // 否则「错了但没记录」会让优先级一直把它当新词，永远排在第一。
+      const res = await postJson<ReviewResponse>(`/api/vocab/${current.id}/review`, { result });
+
       if (result === "known") {
-        const res = await postJson<ReviewResponse>(`/api/vocab/${current.id}/review`, { result });
         setStats((prev) => ({
           known: prev.known + 1,
           unknown: prev.unknown,
           mastered: prev.mastered + (res.justMastered ? 1 : 0),
         }));
+        setNextLabel(res.nextLabel ?? "");
         // 0.3s 后切下一个
         setTimeout(() => {
           setIndex((prev) => prev + 1);
@@ -77,13 +87,27 @@ export function FlashSession({ words, onExit }: Props) {
         }, 300);
       } else {
         setStats((prev) => ({ ...prev, unknown: prev.unknown + 1 }));
-        // 不认识：词进队尾重刷
+        setNextLabel("");
+        // 不认识：词进队尾重刷（同一轮里立刻再见一次）
         setQueue((prev) => [...prev, current]);
         setTimeout(() => {
           setIndex((prev) => prev + 1);
           setFlash("none");
         }, 300);
       }
+    } catch {
+      // 接口失败不能卡住刷词：本地照常推进，下次进页面会重新同步
+      setNextLabel("");
+      if (result === "known") {
+        setStats((prev) => ({ ...prev, known: prev.known + 1 }));
+      } else {
+        setStats((prev) => ({ ...prev, unknown: prev.unknown + 1 }));
+        setQueue((prev) => [...prev, current]);
+      }
+      setTimeout(() => {
+        setIndex((prev) => prev + 1);
+        setFlash("none");
+      }, 300);
     } finally {
       setBusy(false);
     }
@@ -130,14 +154,19 @@ export function FlashSession({ words, onExit }: Props) {
       </div>
 
       {/* 统计 */}
-      <div className="mt-2 text-[11.5px] text-ink-mute">
-        认识 {stats.known} · 不认识 {stats.unknown} · 本次掌握 {stats.mastered}
+      <div className="mt-2 flex flex-wrap items-baseline gap-x-2 text-[11.5px] text-ink-mute">
+        <span>
+          认识 {stats.known} · 不认识 {stats.unknown} · 本次掌握 {stats.mastered}
+        </span>
+        {nextLabel && <span className="text-correct">下次复习：{nextLabel}</span>}
       </div>
 
       {/* 卡片区 */}
       {words.length === 0 ? (
         <div className="flex flex-1 items-center justify-center">
-          <p className="text-[13.5px] text-ink-soft">生词本是空的，先去刷题加几个词吧</p>
+          <p className="text-[13.5px] text-ink-soft">
+            生词本是空的，先去「词书」导入一批四六级高频词，或用「导入」粘自己的词表
+          </p>
         </div>
       ) : finished ? (
         <div className="flex flex-1 flex-col items-center justify-center gap-4">
@@ -149,9 +178,11 @@ export function FlashSession({ words, onExit }: Props) {
             <button
               type="button"
               onClick={() => {
-                setQueue([...words].sort(() => Math.random() - 0.5));
+                // 保持优先级顺序再来一轮，只是把进度归零
+                setQueue([...words]);
                 setIndex(0);
                 setFlash("none");
+                setNextLabel("");
                 setStats({ known: 0, unknown: 0, mastered: 0 });
               }}
               className="rounded-full bg-ink px-5 py-2 text-[13px] text-paper"
@@ -204,7 +235,8 @@ export function FlashSession({ words, onExit }: Props) {
                     </p>
                   )}
                   <p className="mt-2 text-[11px] text-ink-mute">
-                    已认识 {current.reviewCount}/3 次
+                    已认识 {current.reviewCount}/3 次 · 优先级 {Math.round(current.priority)}
+                    {current.reason ? ` · ${current.reason}` : ""}
                   </p>
                 </div>
               )}

@@ -1,0 +1,1101 @@
+{
+  "id": "cet6-2026-06-s3",
+  "level": "CET6",
+  "year": 2026,
+  "month": 6,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether public money should continue to support the arts when budgets are tight. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nArt in a Tight Budget\n\nWhen a ward is short of nurses, a subsidy for an opera house is easy to caricature. The objection is not that art is worthless; it is that art is optional, and optional things should wait.\n\nThat reasoning proves too much. Libraries and parks are optional in the same sense, and so is the survival of a language. What they share is that nobody can be excluded once they exist, and nobody can be charged what they are worth. A market will therefore supply them badly, or not at all, whatever the budget.\n\nThere is a second argument, less flattering to arts institutions. Public money is defensible when it widens access, not when it subsidises the tastes of people who would have paid anyway. A grant that fills a hall for an audience already rich enough to attend is a transfer from the poor to the comfortable, and it earns the caricature.\n\nThe honest position is conditional. Fund the arts, but ask of every grant what it does for someone who is not already in the room. Culture that cannot answer that has no claim on a nurse's taxes.\n\n（约 197 词）\n\n【思路提示】①先复述对手最强论点（艺术是「可选项」），不树稻草人；②用「proves too much」指出该推理会连带取消图书馆、公园、语言保存，属于归谬；③主动提出对本方不利的第二论点（补贴富人品味），显示论证层次而非单向辩护；④结论落在「有条件支持 + 可检验标准」，把价值之争转为分配之争。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Science has an unusual labour problem. The questions that matter most are often those requiring observations no single laboratory could 26______: the timing of bird migration, the spread of an invasive insect, the quality of a river measured over twenty years. Citizen science, in which volunteers collect or classify data under professional guidance, is one 27______ to that problem, and its growth has been rapid. The largest projects now involve hundreds of thousands of participants and produce datasets that no funded institution could afford to 28______."
+            },
+            {
+              "label": "B",
+              "text": "The method has its sceptics, and their objections are not 29______. A volunteer who misidentifies a species introduces error that is hard to 30______ after the fact; a project that depends on enthusiasm may lose half its contributors within a year; and the places where volunteers are most 31______ are rarely the places where the science is most needed. Advocates reply that professional surveys have their own 32______—they are expensive, infrequent and geographically narrow—and that a large, noisy dataset is often better than a small, tidy one."
+            },
+            {
+              "label": "C",
+              "text": "The more interesting 33______ is not scientific but political. When a government can point to thousands of volunteers monitoring a river, it may feel 34______ from the obligation to fund a proper monitoring agency, and participation then becomes a substitute for public capacity rather than a supplement to it. That risk does not 35______ the value of the work; it merely means that the question 'who is counting?' should be asked alongside 'what did they count?'"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "credible"
+                },
+                {
+                  "key": "B",
+                  "text": "reluctant"
+                },
+                {
+                  "key": "C",
+                  "text": "undertake"
+                },
+                {
+                  "key": "D",
+                  "text": "duplicate"
+                }
+              ],
+              "answer": "C",
+              "analysis": "undertake 意为「承担、着手做（工作或任务）」，undertake observations 即「承担观测任务」；冒号后列举的鸟类迁徙、入侵昆虫、河流水质监测都属于需要长期投入的观测工作。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "observations no single laboratory could ______"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "response"
+                },
+                {
+                  "key": "B",
+                  "text": "abundant"
+                },
+                {
+                  "key": "C",
+                  "text": "deliberate"
+                },
+                {
+                  "key": "D",
+                  "text": "incentive"
+                }
+              ],
+              "answer": "A",
+              "analysis": "one response to that problem 是固定表达「对该问题的一种应对办法」，与前半句的 labour problem 呼应；incentive 指「激励」，不能与 to a problem 搭配表达「解决方案」。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "is one ______ to that problem"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "abundant"
+                },
+                {
+                  "key": "B",
+                  "text": "incentive"
+                },
+                {
+                  "key": "C",
+                  "text": "reluctant"
+                },
+                {
+                  "key": "D",
+                  "text": "assemble"
+                }
+              ],
+              "answer": "D",
+              "analysis": "assemble a dataset 意为「汇集、整合一套数据」，与 enormous 体量呼应：几十万参与者产生的数据，任何有经费的机构都「无力汇集」。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "datasets that no funded institution could afford to ______"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "abundant"
+                },
+                {
+                  "key": "B",
+                  "text": "trivial"
+                },
+                {
+                  "key": "C",
+                  "text": "credible"
+                },
+                {
+                  "key": "D",
+                  "text": "deliberate"
+                }
+              ],
+              "answer": "B",
+              "analysis": "their objections are not trivial 意为「他们的反对意见并非无关紧要」。冒号后列出三条具体缺陷（误判物种、志愿者流失、地域偏倚），说明这些质疑值得认真对待。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "their objections are not ______"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "duplicate"
+                },
+                {
+                  "key": "B",
+                  "text": "deliberate"
+                },
+                {
+                  "key": "C",
+                  "text": "credible"
+                },
+                {
+                  "key": "D",
+                  "text": "correct"
+                }
+              ],
+              "answer": "D",
+              "analysis": "hard to correct after the fact 指「事后难以纠正」；识别错物种产生的误差一旦进入数据库，再回头核实成本极高。duplicate 是「复制」，与误差语境相反。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "introduces error that is hard to ______ after the fact"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "concentrated"
+                },
+                {
+                  "key": "B",
+                  "text": "reluctant"
+                },
+                {
+                  "key": "C",
+                  "text": "abundant"
+                },
+                {
+                  "key": "D",
+                  "text": "credible"
+                }
+              ],
+              "answer": "A",
+              "analysis": "本句是「志愿者最密集的地方，往往不是科学最需要的地方」这一地域偏倚的批评，be concentrated 表示「集中的、扎堆的」，与后文 are rarely the places where… 对照。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "are rarely the places where the science is most needed"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "abundant"
+                },
+                {
+                  "key": "B",
+                  "text": "deliberate"
+                },
+                {
+                  "key": "C",
+                  "text": "limitations"
+                },
+                {
+                  "key": "D",
+                  "text": "incentive"
+                }
+              ],
+              "answer": "C",
+              "analysis": "破折号后 expensive, infrequent and geographically narrow 列举的全是缺点，故 professional surveys have their own limitations「专业调查也有自身的局限」，形成「你也一样」的反驳。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "they are expensive, infrequent and geographically narrow"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "duplicate"
+                },
+                {
+                  "key": "B",
+                  "text": "critique"
+                },
+                {
+                  "key": "C",
+                  "text": "incentive"
+                },
+                {
+                  "key": "D",
+                  "text": "reluctant"
+                }
+              ],
+              "answer": "B",
+              "analysis": "critique 指「批评、批判性意见」，与前一段列举的质疑构成递进：更有意思的批评不在科学层面，而在政治层面。该词比 objection 更书面，符合六级语境。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "The more interesting ______ is not scientific but political"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "reluctant"
+                },
+                {
+                  "key": "B",
+                  "text": "credible"
+                },
+                {
+                  "key": "C",
+                  "text": "deliberate"
+                },
+                {
+                  "key": "D",
+                  "text": "exempt"
+                }
+              ],
+              "answer": "D",
+              "analysis": "be exempt from the obligation 是固定搭配「被免除义务」；本句说政府可以拿志愿者当挡箭牌，从而觉得自己不必再出资建立正规监测机构。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "feel ______ from the obligation to fund a proper monitoring agency"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "incentive"
+                },
+                {
+                  "key": "B",
+                  "text": "diminish"
+                },
+                {
+                  "key": "C",
+                  "text": "duplicate"
+                },
+                {
+                  "key": "D",
+                  "text": "deliberate"
+                }
+              ],
+              "answer": "B",
+              "analysis": "diminish the value of the work 意为「贬低／削弱这项工作的价值」；后半句用 merely 表明作者只是补充一个追问，并未否定公众科学本身，故需一个「削弱」义的动词。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "it merely means that the question 'who is counting?' should be asked"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For thirty years the European night train was treated as a relic. Budget airlines had cut the price of a flight from Vienna to Brussels below the cost of the taxi to the airport, and sleeping cars were withdrawn carriage by carriage. Then, in December 2021, four national railways announced a joint network of night services, and the Austrian operator ÖBB—which had kept its Nightjets running when its neighbours stopped—found itself holding the only expertise left in the business."
+            },
+            {
+              "label": "B",
+              "text": "The revival is real but small. ÖBB carried about 1.5 million night passengers in 2023, a figure that sounds impressive until it is set beside a single busy day at a large airport. New routes have opened: Vienna to Paris, Stockholm to Hamburg, Berlin to Brussels. Most run three times a week rather than daily, because a sleeper train needs a fleet that no manufacturer was building and a path on the track that freight operators are reluctant to give up."
+            },
+            {
+              "label": "C",
+              "text": "The economics are unforgiving. A sleeper earns money on one journey a day and needs a carriage that carries perhaps thirty passengers; an aircraft earns money six or seven times in the same period. Sleeping cars are hand-built, low-volume and costly to maintain, and the track charges are the same whether the train carries freight or people. Operators describe the services as profitable in summer and loss-making in February, when the ski traffic stops."
+            },
+            {
+              "label": "D",
+              "text": "Which is where governments come in. France has banned domestic flights on routes where a rail alternative of under two and a half hours exists, and several states now subsidise night services much as they would a rural bus. The justification is not that trains are cheaper but that they are a public good: a country that has decided to cut transport emissions cannot do so while its only cheap option is the aircraft."
+            },
+            {
+              "label": "E",
+              "text": "The practical obstacles are duller than the romance. A cross-border sleeper must satisfy several national safety regimes, and a locomotive approved on one network may not be approved on the next. Booking systems cannot always sell a bed that crosses three countries. A passenger who wants a compartment to herself must often pay for two, because no operator has solved the pricing of solitude."
+            },
+            {
+              "label": "F",
+              "text": "Nor should the clientele be romanticised. Surveys of Nightjet passengers find a majority of well-educated city dwellers making discretionary journeys, not the low-income travellers who were the original market for night trains. As a substitute for a short-haul flight the service works; as a substitute for a coach it is far too expensive, and it is not obvious that any subsidy will change that."
+            },
+            {
+              "label": "G",
+              "text": "The honest conclusion is that the night train has returned as a symbol and a modest service, not as a system. Its value lies less in the carbon it saves—the arithmetic is surprisingly unflattering when a sleeper carries thirty people—than in the demonstration that a railway can be run as a public service rather than as a business. Whether the demonstration survives the next budget is another matter."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Some governments fund night trains as infrastructure rather than as a commercial venture.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：多国像补贴乡村公交一样补贴夜车，理由是「not that trains are cheaper but that they are a public good」。",
+              "type": "主旨题",
+              "evidencePara": "D",
+              "evidenceText": "subsidise night services much as they would a rural bus"
+            },
+            {
+              "number": 37,
+              "stem": "One operator kept the expertise that its rivals had abandoned.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：奥地利 ÖBB 在邻国停运时仍保留 Nightjet，结果「holding the only expertise left in the business」。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "the only expertise left in the business"
+            },
+            {
+              "number": 38,
+              "stem": "Ticketing has not caught up with the service itself.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：售票系统常常卖不出一张跨越三国的卧铺票；想独用包厢往往要买两张，因为没有运营商解决「独处的定价」。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "Booking systems cannot always sell a bed that crosses three countries"
+            },
+            {
+              "number": 39,
+              "stem": "Services often run on only part of the week because of equipment shortages and contested track access.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：多数线路每周三班而非每日，原因一是没有厂商在造卧铺车队，二是货运公司不愿让出运行线（path）。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "three times a week rather than daily … a path on the track that freight operators are reluctant to give up"
+            },
+            {
+              "number": 40,
+              "stem": "Its importance is exemplary as much as environmental.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：其价值「less in the carbon it saves … than in the demonstration that a railway can be run as a public service」，即示范意义大于减碳效果。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "less in the carbon it saves … than in the demonstration"
+            },
+            {
+              "number": 41,
+              "stem": "The business swings between profit in one season and losses in another.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：运营商称夏季盈利、二月亏损（滑雪客流停止时）。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "profitable in summer and loss-making in February"
+            },
+            {
+              "number": 42,
+              "stem": "Measured against aviation, the scale of the revival remains modest.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：2023 年运送约 150 万人次，听起来不少，但「set beside a single busy day at a large airport」就相形见绌。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "a figure that sounds impressive until it is set beside a single busy day at a large airport"
+            },
+            {
+              "number": 43,
+              "stem": "The passengers are not the poorer travellers who once used such trains.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：调查显示乘客多为受过良好教育、做非必要出行的城市居民，而非当年夜车的低收入主顾。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "not the low-income travellers who were the original market"
+            },
+            {
+              "number": 44,
+              "stem": "A sleeper makes its money on a single trip, while an aircraft can do so several times over.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段首句：卧铺一天只能赚一趟的钱、一节车厢仅载约三十人；同一时段飞机可赚六七趟。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "an aircraft earns money six or seven times in the same period"
+            },
+            {
+              "number": 45,
+              "stem": "Differing national rules make cross-border operation awkward.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：跨境卧铺须同时满足多国安全规范，在一国获准的机车在另一国未必获准。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "must satisfy several national safety regimes"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A public swimming pool is one of the few pieces of civic infrastructure that repays its cost in a currency other than money. It teaches children to survive water, gives the elderly a form of exercise that spares their joints, and is sometimes the only affordable sport in a neighbourhood. It is also, in the language of local government, a cost centre: a heated building full of water is expensive to run, and the price of heating it has risen faster than almost any other line in a council's budget."
+            },
+            {
+              "label": "B",
+              "text": "The economics have turned against these buildings twice. The first blow was energy: when gas and electricity bills for many operators roughly doubled after 2022, some pools found that the boiler alone swallowed a third of their budget. The second was quieter. Maintenance had been deferred for a decade or more — a filtration plant, a roof, a tiled tank — and the bill for catching up arrived all at once, in the form of a survey that few councils could ignore and none could easily fund. In Britain, by some counts, more than four hundred pools have closed since 2010."
+            },
+            {
+              "label": "C",
+              "text": "Staffing is the constraint operators mention first. A pool cannot open without lifeguards, and a qualified lifeguard can earn more, in less demanding conditions, stacking shelves or driving a van. The shortage became acute after the pandemic, when training courses stopped and many young staff never came back. Some councils have responded by shortening opening hours; others keep fewer pools open at any one time, which lowers the wage bill and, with it, the capacity that made the building worth having."
+            },
+            {
+              "label": "D",
+              "text": "When a pool closes, the temptation is to count the swimmers who stop coming and conclude that demand was never there. That inference is usually wrong. Attendance measures access as much as appetite, and the people who disappear first are those for whom the bus fare, the entry fee and a borrowed costume were already a stretch. A pool that raises its prices to cover its costs can look, on paper, better used than before, while quietly turning into a facility for the comfortable."
+            },
+            {
+              "label": "E",
+              "text": "The responses that show promise are unglamorous and mostly involve sharing. Schools, which own many of the country's pools, increasingly open them to the public in the evening and at weekends, an arrangement that spreads a fixed cost across two budgets. Clubs take on the coaching; the council keeps the building. Where that fails, the substitute is rarely another pool. It is a leisure centre with a gym and a car park, which serves a narrower public — and which, unlike the water, teaches nobody to swim."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author imply by describing a pool as 'a cost centre'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is valued chiefly for the health of local residents."
+                },
+                {
+                  "key": "B",
+                  "text": "It is judged by what it consumes rather than by what it gives."
+                },
+                {
+                  "key": "C",
+                  "text": "It ought to be financed entirely out of entry fees."
+                },
+                {
+                  "key": "D",
+                  "text": "It is too small to appear in a council's accounts."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段先列出泳池在「钱以外的通货」上的回报（教孩子游泳、给老人低冲击运动），随即用 It is also, in the language of local government, a cost centre 转折，并解释为「一个装满水的供暖建筑运营昂贵」。可见「成本中心」是财政视角，只核算它消耗多少，不计它提供什么，故 B 对。A 是作者自己的价值观，不是「成本中心」的含义；C「全靠门票」文中未提；D 与成本中心的定义相反——正因支出显眼才被单列。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "in the language of local government, a cost centre: a heated building full of water is expensive to run"
+            },
+            {
+              "number": 47,
+              "stem": "Why does the author say that the economics have turned against pools 'twice'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Energy bills rose while repairs postponed for years fell due together."
+                },
+                {
+                  "key": "B",
+                  "text": "Two successive rounds of council cuts removed their leisure budgets."
+                },
+                {
+                  "key": "C",
+                  "text": "Attendance fell after 2022 and has not recovered since."
+                },
+                {
+                  "key": "D",
+                  "text": "Pools were built larger than their neighbourhoods required."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段把「两次打击」讲得很清楚：The first blow was energy（2022 年后燃气与电费大约翻倍，锅炉一项就吃掉三分之一预算）；The second was quieter（维修被推迟十年以上，补账一次性到期，一份评估报告让议会无法忽视却也拿不出钱）。故 A 对。B 文中未提「两轮削减」；C 出席率下降出现在 D 段讨论闭馆之后，且不是「经济学转向」的原因；D 关于建设规模的说法文中没有。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "The first blow was energy ... The second was quieter. Maintenance had been deferred for a decade or more"
+            },
+            {
+              "number": 48,
+              "stem": "What does the passage suggest about shortening opening hours?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It helps recruit lifeguards who prefer part-time work."
+                },
+                {
+                  "key": "B",
+                  "text": "It reduces insurance costs more than wage costs."
+                },
+                {
+                  "key": "C",
+                  "text": "It saves on wages while removing the capacity that justified the pool."
+                },
+                {
+                  "key": "D",
+                  "text": "It has been rejected by most operators as unworkable."
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段末：缩短开放时间或减少同时开放的泳池数，「which lowers the wage bill and, with it, the capacity that made the building worth having」——省了工资，也削掉了使这栋建筑值得存在的接待能力。故 C 对。A 与文意相反：救生员短缺正是缩时的原因，缩时并不解决招聘；B 保险成本全文未提；D 文中说「一些议会已经这样做」，不是被普遍拒绝。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "lowers the wage bill and, with it, the capacity that made the building worth having"
+            },
+            {
+              "number": 49,
+              "stem": "The statement that attendance 'measures access as much as appetite' implies that",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "swimming has become less popular over the past decade."
+                },
+                {
+                  "key": "B",
+                  "text": "low numbers may reflect obstacles rather than indifference."
+                },
+                {
+                  "key": "C",
+                  "text": "entry fees should be raised to match genuine demand."
+                },
+                {
+                  "key": "D",
+                  "text": "attendance data are too unreliable to guide policy."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段先说「闭馆后数留下来的人数，据此断定从来没有需求」这种推断通常是错的，再给出理由：到场人数同时反映「能不能来」（access）与「想不想来」（appetite）；最先消失的，是那些连车费、门票、借来的泳衣都已拮据的人。故低数字可能源于门槛而非缺乏兴趣，B 对。A 是文章要反驳的结论；C 恰恰是作者批评的做法——涨价会让泳池「悄悄变成给宽裕者的设施」；D 说的是数据含义被误读，不是数据不可靠。",
+              "type": "词句含义题",
+              "evidencePara": "D",
+              "evidenceText": "the people who disappear first are those for whom the bus fare, the entry fee and a borrowed costume were already a stretch"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's attitude towards replacing a closed pool with a leisure centre?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Approval, because it spreads fixed costs across more users."
+                },
+                {
+                  "key": "B",
+                  "text": "Indifference, because the two serve the same residents."
+                },
+                {
+                  "key": "C",
+                  "text": "Doubt that it reaches the same public or teaches the same skill."
+                },
+                {
+                  "key": "D",
+                  "text": "Confidence that it will prove cheaper to run in the long term."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段末：替代品「很少还是另一个泳池，而是带健身房和停车场的休闲中心」，它服务的是「更窄的公众」（narrower public），而且「与水不同，它教不会任何人游泳」。这两点正是保留态度：既非同一群人，也不承担同一项技能，故 C 对。A 把「分摊固定成本」的办法记错了——那是学校夜间开放，不是改建休闲中心；B 与 narrower public 矛盾；D 文中未对运营成本作任何预判。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "which serves a narrower public — and which, unlike the water, teaches nobody to swim"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A carbon offset is a promise with an unusual structure. Instead of reducing your own emissions, you pay somebody else to reduce theirs, and the atmosphere is supposed to be indifferent to who did the reducing. The logic is sound in principle: a tonne of carbon dioxide is a tonne wherever it is avoided, and the cheapest reductions are rarely found where the richest consumers live."
+            },
+            {
+              "label": "B",
+              "text": "The difficulty is measurement. A forest credit rests on a counterfactual: the trees would have been cut down, and because of the payment they were not. That counterfactual cannot be observed. It has to be modelled, and the models depend on assumptions about logging pressure that nobody can verify. When researchers examined a large set of widely traded rainforest credits, they concluded that the threat of deforestation had been overstated in most of them, so that buyers had paid to avert a danger that did not exist."
+            },
+            {
+              "label": "C",
+              "text": "Two further flaws are structural. The first is leakage: pay a logger to spare one valley and he may move to the next, so the emission relocates rather than disappears. The second is permanence: a forest that stores carbon for twenty years and burns in the twenty-first has postponed an emission, not avoided one, and few contracts run long enough for the distinction to be enforced."
+            },
+            {
+              "label": "D",
+              "text": "Companies answer that the alternative is worse. Offsets, they say, are not a substitute for cutting emissions but a way of financing reductions that would not otherwise happen, and the voluntary market has moved faster than any treaty. That is true, and it is precisely why the market needs rules: a voluntary market in a commodity that cannot be verified attracts exactly the participants one would expect it to attract."
+            },
+            {
+              "label": "E",
+              "text": "Regulators have begun to respond. The European Union has moved to restrict what companies may claim, and several standard-setters have rewritten their methodologies to require independent baselines. The more consequential change is a shift in vocabulary, from 'offset' to 'contribution': money paid to protect a forest, with no claim that it cancels a specific tonne. It is honest, and commercially far less attractive."
+            },
+            {
+              "label": "F",
+              "text": "The deeper problem, though, is not fraud but metaphor. To call a payment a compensation implies an equivalence that the science cannot certify; the atmosphere does not issue receipts. Offsets may still be worth buying as a way of funding conservation, but the belief that they make an emission disappear is the part that has to go."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "The logic of an offset depends on the assumption that",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "companies will eventually stop emitting altogether."
+                },
+                {
+                  "key": "B",
+                  "text": "rich consumers emit more than poor ones."
+                },
+                {
+                  "key": "C",
+                  "text": "it does not matter where a reduction takes place."
+                },
+                {
+                  "key": "D",
+                  "text": "forests absorb carbon faster than factories emit it."
+                }
+              ],
+              "answer": "C",
+              "analysis": "A 段：the atmosphere is supposed to be indifferent to who did the reducing；a tonne of carbon dioxide is a tonne wherever it is avoided。抵消的逻辑前提正是温室气体的「位置无关性」。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "indifferent to who did the reducing"
+            },
+            {
+              "number": 52,
+              "stem": "Why is a forest credit especially hard to verify?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because it rests on something that never happened."
+                },
+                {
+                  "key": "B",
+                  "text": "Because satellite data are unavailable in the tropics."
+                },
+                {
+                  "key": "C",
+                  "text": "Because the credits are sold in foreign currencies."
+                },
+                {
+                  "key": "D",
+                  "text": "Because forests grow at unpredictable rates."
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：信用建立在反事实之上——「本来会被砍，因为这笔钱没被砍」；That counterfactual cannot be observed，只能靠模型假设，而假设无法核验。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "That counterfactual cannot be observed"
+            },
+            {
+              "number": 53,
+              "stem": "What does 'leakage' refer to in the third paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Payments being diverted by intermediaries."
+                },
+                {
+                  "key": "B",
+                  "text": "Companies disclosing confidential data."
+                },
+                {
+                  "key": "C",
+                  "text": "Carbon escaping from storage tanks."
+                },
+                {
+                  "key": "D",
+                  "text": "Emissions shifting to another location rather than ending."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段自己给出定义：pay a logger to spare one valley and he may move to the next, so the emission relocates rather than disappears——排放只是「搬家」，总量未减。",
+              "type": "词句含义题",
+              "evidencePara": "C",
+              "evidenceText": "the emission relocates rather than disappears"
+            },
+            {
+              "number": 54,
+              "stem": "What does the author think of the companies' defence?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It applies only to European companies."
+                },
+                {
+                  "key": "B",
+                  "text": "It is valid, which is exactly why regulation is needed."
+                },
+                {
+                  "key": "C",
+                  "text": "It is dishonest and should be ignored."
+                },
+                {
+                  "key": "D",
+                  "text": "It proves that offsets can replace emission cuts."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：That is true, and it is precisely why the market needs rules。作者先承认企业所言属实（自愿市场确实推进更快），随即把这个事实转为监管的理由——「正因为无法核验又靠自愿，才更需要规则」。",
+              "type": "态度题",
+              "evidencePara": "D",
+              "evidenceText": "That is true, and it is precisely why the market needs rules"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's main point in the final paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That the vocabulary of compensation misrepresents what is bought."
+                },
+                {
+                  "key": "B",
+                  "text": "That the atmosphere can absorb more than scientists believe."
+                },
+                {
+                  "key": "C",
+                  "text": "That offsets are almost always fraudulent."
+                },
+                {
+                  "key": "D",
+                  "text": "That conservation should no longer be funded by companies."
+                }
+              ],
+              "answer": "A",
+              "analysis": "F 段：The deeper problem … is not fraud but metaphor；把付款称为 compensation 暗示了一种科学无法证明的「等量关系」——the atmosphere does not issue receipts。作者并不否认抵消可资助保护，只否认它能「抹掉」一吨排放。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "not fraud but metaphor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n京杭大运河是开凿最早、里程最长的人工运河，北起北京，南至杭州，全长近一千八百公里。自隋唐以来，它长期是南北物资运输的主通道，沿岸兴起了一批繁华商埠，不同地域的文化也在此交汇。2014 年，中国大运河被列入世界遗产名录。近年来沿线城市修缮古河道、老桥与会馆，部分河段恢复游船通航。如今它既是仍在运行的水利工程，也是理解中国古代社会的一条线索。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe Beijing-Hangzhou Grand Canal is the oldest and longest artificial waterway in the world. Running from Beijing in the north to Hangzhou in the south, it extends for nearly 1,800 kilometres. From the Sui and Tang dynasties onwards it served for centuries as the main route for moving goods between north and south; prosperous commercial cities grew up along its banks, and cultures from different regions met and mingled there. In 2014 the Grand Canal was inscribed on the World Heritage List. In recent years the cities along its course have stepped up the restoration of old river channels, historic bridges and merchant guild halls, and have reopened some stretches to pleasure boats. Today the canal is at once a water-conservancy project that is still in service and a clue to understanding traditional Chinese society.\n\n【要点】①「开凿最早、里程最长的人工运河」用 the oldest and longest artificial waterway，两个最高级共用一个名词即可；②「北起……南至……全长……」宜用分词短语 Running from … to …, it extends for …，避免三个短句并列；③「自隋唐以来」用 From the Sui and Tang dynasties onwards，配过去时或过去完成时；④「物资运输的主要通道」用 the main route for moving goods；⑤「被列入世界遗产名录」用 was inscribed on the World Heritage List；⑥「会馆」译 merchant guild halls，不可音译；⑦「既是……也是……」用 at once … and …。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "id": "cet4-2022-12-s3",
+  "level": "CET4",
+  "year": 2022,
+  "month": 12,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on why college students should learn to manage their money. You should write at least 120 words but no more than 180 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nWhy College Students Should Learn to Manage Their Money\n\nFor many students, the first term at university is also the first time they have had money without anyone watching how it is spent. That freedom is useful, but it is also a skill that has to be learned.\n\nThe case for learning it is simple. A student who knows where the money goes can say no to a trip without inventing an excuse, and can afford the unexpected: a broken laptop, a train ticket home, a medical bill. Learning to plan also changes what money is for. A budget is not a list of pleasures to be cancelled; it is a decision about which pleasures matter more.\n\nThe methods are unglamorous. Record spending for a month, however roughly; keep a small sum that is not touched except in an emergency; cook two meals a week instead of buying them. None of these will make anyone rich, but they teach the habit that matters later: spending on purpose rather than by accident.\n\n（约 170 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Few objects are replaced as often as a mobile phone. The average handset is used for less than three years, and the old one usually ends up in a drawer. Worldwide, electronic waste is now the fastest growing 26______ of household rubbish, and only a fifth of it is formally 27______. A phone contains gold, silver, copper and small amounts of rare metals. In principle, a tonne of phones yields far more gold than a tonne of 28______, which is why the trade attracts engineers and criminals alike. The problem is 29______: a phone is glued together, its battery is fixed with adhesive, and taking it apart by hand is slow."
+            },
+            {
+              "label": "B",
+              "text": "In many countries the work is done informally. Workers heat circuit boards over a fire to melt the solder, 30______ themselves to toxic fumes, and use acid to recover gold from what remains. The 31______ is cheap and the pollution is severe. Formal recyclers 32______ a different approach: shredding, magnets and chemical baths in sealed plants. They recover more metal, but they need volume to cover the cost, and a 33______ of old devices is exactly what they lack. Several governments now 34______ a small deposit on each new phone, returned when the old one is handed in. Early figures suggest that a deposit works better than 35______ campaigns, because it speaks to the same instinct that makes people keep the phone in the first place."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {"key": "A", "text": "category"},
+                {"key": "B", "text": "price"},
+                {"key": "C", "text": "colour"},
+                {"key": "D", "text": "holiday"}
+              ],
+              "answer": "A",
+              "analysis": "句意是电子垃圾已成为家庭垃圾中增长最快的一「类」，category 与 fastest growing 搭配自然。price、colour、holiday 都无「类别」之意，且不能与 of household rubbish 搭配。",
+              "type": "名词辨析",
+              "evidencePara": "A",
+              "evidenceText": "of household rubbish"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {"key": "A", "text": "recycled"},
+                {"key": "B", "text": "imported"},
+                {"key": "C", "text": "invented"},
+                {"key": "D", "text": "divided"}
+              ],
+              "answer": "A",
+              "analysis": "only a fifth of it is formally… 说的是只有五分之一被正规「回收」，与全文电子垃圾处理主题一致。imported、invented 与垃圾处理无关，divided（分开）无法体现资源再利用。",
+              "type": "动词辨析",
+              "evidencePara": "A",
+              "evidenceText": "only a fifth of it"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {"key": "A", "text": "ore"},
+                {"key": "B", "text": "plastic"},
+                {"key": "C", "text": "paper"},
+                {"key": "D", "text": "water"}
+              ],
+              "answer": "A",
+              "analysis": "一吨手机含金量远高于一吨「矿石」，这是电子垃圾回收有利可图的原因；ore 正指可提炼金属的矿石。plastic、paper、water 不含金，无法与提炼黄金作比较。",
+              "type": "名词辨析",
+              "evidencePara": "A",
+              "evidenceText": "yields far more gold"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {"key": "A", "text": "design"},
+                {"key": "B", "text": "price"},
+                {"key": "C", "text": "weather"},
+                {"key": "D", "text": "distance"}
+              ],
+              "answer": "A",
+              "analysis": "冒号后解释：手机用胶粘合、电池用黏合剂固定、手工拆解很慢，这些都是产品「设计」造成的。price、weather、distance 都无法由拆解困难来解释。",
+              "type": "名词辨析",
+              "evidencePara": "A",
+              "evidenceText": "a phone is glued together"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {"key": "A", "text": "exposing"},
+                {"key": "B", "text": "comparing"},
+                {"key": "C", "text": "attaching"},
+                {"key": "D", "text": "limiting"}
+              ],
+              "answer": "A",
+              "analysis": "工人在火上加热电路板，使自己「暴露」在有毒烟雾中，expose oneself to 是固定搭配，也与后文污染严重相呼应。comparing、attaching、limiting 与 fumes 搭配都不合逻辑。",
+              "type": "动词辨析",
+              "evidencePara": "B",
+              "evidenceText": "to toxic fumes"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {"key": "A", "text": "method"},
+                {"key": "B", "text": "result"},
+                {"key": "C", "text": "market"},
+                {"key": "D", "text": "weather"}
+              ],
+              "answer": "A",
+              "analysis": "前文描述用火烧、用酸浸的做法，本句评价这套「方法」成本低而污染重；method 与 is cheap 搭配自然。result 无法被形容为 cheap，market、weather 与工艺无关。",
+              "type": "名词辨析",
+              "evidencePara": "B",
+              "evidenceText": "use acid to recover gold"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {"key": "A", "text": "take"},
+                {"key": "B", "text": "avoid"},
+                {"key": "C", "text": "invent"},
+                {"key": "D", "text": "refuse"}
+              ],
+              "answer": "A",
+              "analysis": "冒号后列出破碎、磁选、密封化学槽等完全不同的工艺，take a different approach 意为「采取另一种做法」。avoid、refuse 与 approach 搭配意思相反，invent 与「已有工艺」矛盾。",
+              "type": "动词辨析",
+              "evidencePara": "B",
+              "evidenceText": "shredding, magnets and chemical baths"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {"key": "A", "text": "supply"},
+                {"key": "B", "text": "price"},
+                {"key": "C", "text": "design"},
+                {"key": "D", "text": "colour"}
+              ],
+              "answer": "A",
+              "analysis": "正规回收厂需要规模才能摊薄成本，而他们缺的正是旧设备的「供应量」，a supply of old devices 与 need volume 呼应。price、design、colour 都无法解释「缺少规模」。",
+              "type": "名词辨析",
+              "evidencePara": "B",
+              "evidenceText": "they need volume to cover the cost"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {"key": "A", "text": "require"},
+                {"key": "B", "text": "ignore"},
+                {"key": "C", "text": "double"},
+                {"key": "D", "text": "discuss"}
+              ],
+              "answer": "A",
+              "analysis": "政府对每部新手机「要求」缴纳小额押金，交回旧机时退还，这是制度性规定。ignore 与政策方向相反，double、discuss 都无法与 a small deposit 构成通顺搭配。",
+              "type": "动词辨析",
+              "evidencePara": "B",
+              "evidenceText": "returned when the old one is handed in"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {"key": "A", "text": "voluntary"},
+                {"key": "B", "text": "expensive"},
+                {"key": "C", "text": "national"},
+                {"key": "D", "text": "annual"}
+              ],
+              "answer": "A",
+              "analysis": "押金之所以比「自愿」活动有效，是因为它击中了人们留着旧手机不扔的心理；voluntary 与 require a deposit 形成对照。expensive、national、annual 都不能与 campaigns 构成这一对比。",
+              "type": "形容词辨析",
+              "evidencePara": "B",
+              "evidenceText": "speaks to the same instinct"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Most cities run fewer buses after midnight, and the people who depend on them are not the people who write transport policy. Cleaners, nurses, kitchen staff and security guards start or finish work when the timetable has stopped. In one British city, a survey of hospital staff found that a third of those on night shifts had no bus to take them home."
+            },
+            {
+              "label": "B",
+              "text": "The numbers are small and the distances are long. In the same city, four in ten night workers spent more than an hour travelling to work, and a fifth walked home through industrial areas where few other people were about. Taxis were the fallback, at a price that could swallow a night's earnings."
+            },
+            {
+              "label": "C",
+              "text": "The standard objection is cost. A night bus may carry six passengers an hour, so the subsidy per rider looks embarrassing beside a daytime route. Planners who defend the service answer that the comparison is wrong: the alternative is not no cost but a different bill—taxis, sick days after walking home in the rain, and staff who resign because they cannot get to work."
+            },
+            {
+              "label": "D",
+              "text": "Where night services have been designed well, the timetable follows the employer rather than the map. Routes in one Dutch city were built around the changeover at the hospital at half past seven in the evening and half past seven in the morning, and smaller vehicles were used on demand, booked by app, for the hours in between."
+            },
+            {
+              "label": "E",
+              "text": "Safety shapes the details. Stops are lit and placed where a driver can see them; drivers are allowed to stop between official stops at night when a passenger asks; cameras cover the inside of the vehicle as well as the door. None of these measures is expensive, and together they decide whether a service is used."
+            },
+            {
+              "label": "F",
+              "text": "Employers have discovered that they have a stake. A hospital and two hotels in one district now pay part of the cost of a night route, and a food-packing plant runs its own minibus from the nearest housing estate. For them the calculation is simple: a missed shift costs more than a seat on a bus."
+            },
+            {
+              "label": "G",
+              "text": "The evidence is thin but consistent. After a night service began in one outer district, lateness among hospital staff fell, and fewer people left within their first year. The route costs less per year than recruiting and training replacements for the staff it keeps—a fact that rarely appears in a transport budget."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Those who depend on night buses are rarely those who plan transport.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "A",
+              "analysis": "A 段：依赖末班车之后公交的是清洁工、护士、厨房员工和保安，而这些人并不是写交通政策的人——暗示夜班工作集中在低收入岗位。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "Cleaners, nurses, kitchen staff and security guards"
+            },
+            {
+              "number": 37,
+              "stem": "A fifth of night workers walked through industrial areas.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "B",
+              "analysis": "B 段：四成夜班工作者上班路上要花一个多小时，五分之一要步行穿过几乎无人的工业区（a fifth walked home through industrial areas）。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "a fifth walked home through industrial areas"
+            },
+            {
+              "number": 38,
+              "stem": "A near-empty bus may still be cheaper than the alternatives.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "C",
+              "analysis": "C 段：夜间车每小时只载六人，人均补贴看起来难看，但另一种选择不是「没有成本」，而是另一张账单——打车、淋雨走回家后请病假、因无法上班而辞职。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the alternative is not no cost but a different bill"
+            },
+            {
+              "number": 39,
+              "stem": "Routes were timed to fit hospital shift changes.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "D",
+              "analysis": "D 段：荷兰某城的夜班线路围绕医院晚七点半与早七点半的换班时间设计，中间时段则用小型车按需预约。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "built around the changeover at the hospital"
+            },
+            {
+              "number": 40,
+              "stem": "Stops are better lit, and drivers may stop between official stops.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "E",
+              "analysis": "E 段：车站有照明、位置让司机看得见，夜间乘客要求时司机可在非正式站点停车，车内与车门都有摄像头。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "stop between official stops at night"
+            },
+            {
+              "number": 41,
+              "stem": "Some employers contribute to the cost of the service.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "F",
+              "analysis": "F 段：一家医院和两家酒店分担夜班线路的部分成本，一家食品包装厂自营小巴，因为「缺一个班次」的代价高于一个座位。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "pay part of the cost of a night route"
+            },
+            {
+              "number": 42,
+              "stem": "After the service started, fewer new staff left.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "G",
+              "analysis": "G 段：外围城区开通夜班线后，医院员工迟到减少，入职第一年内离职的人也更少（fewer people left within their first year）。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "fewer people left within their first year"
+            },
+            {
+              "number": 43,
+              "stem": "Roughly four in ten night workers travelled for more than an hour each way.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "B",
+              "analysis": "B 段：同一城市中四成夜班工作者单程上班时间超过一小时（four in ten… more than an hour），题目把比例改写为 roughly four in ten，与原文数据一致。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "four in ten night workers spent more than an hour"
+            },
+            {
+              "number": 44,
+              "stem": "Few passengers per bus does not make the service pointless.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "C",
+              "analysis": "C 段：规划者认为用白天线路的标准比较夜间车是错的，因为替代方案另有成本，因此载客少不等于没有价值。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "the comparison is wrong"
+            },
+            {
+              "number": 45,
+              "stem": "The route costs less than replacing the staff it keeps.",
+              "options": [
+                {"key": "A", "text": "Paragraph A"},
+                {"key": "B", "text": "Paragraph B"},
+                {"key": "C", "text": "Paragraph C"},
+                {"key": "D", "text": "Paragraph D"},
+                {"key": "E", "text": "Paragraph E"},
+                {"key": "F", "text": "Paragraph F"},
+                {"key": "G", "text": "Paragraph G"}
+              ],
+              "answer": "G",
+              "analysis": "G 段末：这条线路每年的花费低于为它所留住的员工重新招聘和培训的成本，而这一事实很少出现在交通预算里。",
+              "type": "细节题",
+              "evidencePara": "G",
+              "evidenceText": "costs less per year than recruiting and training replacements"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A \"food desert\" is usually defined by distance: an urban area where no shop selling affordable fresh food lies within a mile, or a rural area within ten. The image is compelling—a mother with two children and no car—and it has driven policy for twenty years. The evidence is less tidy."
+            },
+            {
+              "label": "B",
+              "text": "In 2016 a team in Leeds followed twelve hundred households in a poor district before and after a large supermarket opened nearby. Shopping patterns changed: people used the new store. Diets barely moved. Fruit and vegetable purchases rose by a few percent in the first year and then settled back, and the change was largest among households that already ate reasonably well."
+            },
+            {
+              "label": "C",
+              "text": "The explanation is partly about movement. Most people do not shop at the nearest shop; they shop on the way home from work, near the school, or where a friend goes. A new store changes the map without changing the route. It can also take customers from the small shops that were already there, and when those close the district ends up with the same number of outlets in a different arrangement."
+            },
+            {
+              "label": "D",
+              "text": "What does seem to help is smaller and more varied: a market that opens on the right days, a mobile shop that sells at prices people can pay, a community store run by residents with vegetables at the front and a chair to sit on. Evaluations of such projects find that success depends less on the idea than on hours and prices—an unglamorous point that rarely survives a press release."
+            },
+            {
+              "label": "E",
+              "text": "The conclusion is not that access is unimportant. It is that access is necessary and not sufficient. Income, time and cooking equipment shape what people eat at least as much as the distance to a shop, and a policy that builds one supermarket and declares the problem solved will be disappointed. The shop is a condition; the kitchen and the wage are the causes."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "How is a food desert usually defined?",
+              "options": [
+                {"key": "A", "text": "By the distance to a shop selling affordable fresh food."},
+                {"key": "B", "text": "By the number of fast-food outlets in an area."},
+                {"key": "C", "text": "By the average income of local households."},
+                {"key": "D", "text": "By the price of vegetables in local markets."}
+              ],
+              "answer": "A",
+              "analysis": "A 段首句：食物沙漠通常以「距离」界定——城市中一英里内没有售卖可负担新鲜食物的商店，农村则为十英里。B、C、D 都不是定义标准。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "usually defined by distance"
+            },
+            {
+              "number": 47,
+              "stem": "What did the Leeds study find?",
+              "options": [
+                {"key": "A", "text": "People refused to use the new supermarket."},
+                {"key": "B", "text": "Shopping changed but diets hardly improved."},
+                {"key": "C", "text": "Fruit and vegetable sales doubled within a year."},
+                {"key": "D", "text": "The new store made local shops more profitable."}
+              ],
+              "answer": "B",
+              "analysis": "B 段：居民确实开始使用新超市，但饮食几乎没变——果蔬购买第一年只上升几个百分点，随后回落，且改善最大的是本来就吃得不差的家庭。A 与「people used the new store」相反，C 与「a few percent」矛盾，D 与 C 段「抢走小店的顾客」相反。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "Shopping patterns changed: people used the new store. Diets barely moved."
+            },
+            {
+              "number": 48,
+              "stem": "Why may a new supermarket fail to improve diets?",
+              "options": [
+                {"key": "A", "text": "Its prices are usually higher than local shops."},
+                {"key": "B", "text": "People shop along their usual routes, and local shops may close."},
+                {"key": "C", "text": "Its fresh food is of poorer quality."},
+                {"key": "D", "text": "Residents prefer to grow their own vegetables."}
+              ],
+              "answer": "B",
+              "analysis": "C 段：多数人不在最近的店购物，而是在下班路上、学校附近或朋友去的店买；新店改变了地图却没改变路线，还可能挤垮原有小店，最终只是「同样数量的店换了个位置」。A、C、D 原文未提。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "changes the map without changing the route"
+            },
+            {
+              "number": 49,
+              "stem": "What do evaluations of smaller projects show?",
+              "options": [
+                {"key": "A", "text": "They work best when run by the local council."},
+                {"key": "B", "text": "Their success depends mainly on opening hours and prices."},
+                {"key": "C", "text": "They attract more customers than supermarkets."},
+                {"key": "D", "text": "They are too expensive to be repeated."}
+              ],
+              "answer": "B",
+              "analysis": "D 段：市集、流动商店、社区店的评估显示，成败更多取决于「营业时间与价格」，而不是理念本身——这一点很少能写进新闻稿。A、C、D 均无原文依据。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "success depends less on the idea than on hours and prices"
+            },
+            {
+              "number": 50,
+              "stem": "What is the author's conclusion?",
+              "options": [
+                {"key": "A", "text": "Distance to shops is the main cause of poor diets."},
+                {"key": "B", "text": "Access matters, but income and time matter more."},
+                {"key": "C", "text": "Supermarkets should be banned from poor districts."},
+                {"key": "D", "text": "Cooking equipment is irrelevant to diet."}
+              ],
+              "answer": "B",
+              "analysis": "E 段：结论不是「可及性不重要」，而是它「必要但不充分」；收入、时间和厨具对吃什么的影响不亚于距离。「商店是条件，厨房和工资才是原因」。A 正是作者修正的观点，C、D 与原文相反。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "access is necessary and not sufficient"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In Seoul, more than nine in ten young men examined for military service are short-sighted. Similar figures come from Shanghai, Taipei and Singapore, and the numbers have risen within a single generation. In parts of East Asia, myopia has moved from a condition that affects a minority to the normal state of the teenage eye."
+            },
+            {
+              "label": "B",
+              "text": "Genes cannot explain a change that fast. What changed was the classroom: more reading, more homework, more hours indoors. The eye grows according to the light it receives, and several studies now point to time outdoors as the protective factor. Bright daylight, even under cloud, is many times stronger than indoor lighting, and it appears to slow the elongation of the eyeball that produces myopia."
+            },
+            {
+              "label": "C",
+              "text": "The strongest evidence comes from a trial in Guangzhou, where six schools added forty minutes of outdoor activity at the end of the school day. After three years, the rate of new myopia in those schools was about a quarter lower than in schools that carried on as before. The effect was modest for each child and large for the city."
+            },
+            {
+              "label": "D",
+              "text": "The obstacles are institutional. Time outdoors has to be taken from something, and in schools measured by test results it is taken from lessons. Some parents regard playground time as wasted; in cities where the air is poor or the streets are busy, teachers keep children inside. A school with no field and a concrete yard has to be persuaded that a yard is enough."
+            },
+            {
+              "label": "E",
+              "text": "One caution matters. Outdoor time delays the onset of myopia and slows its progress; it does not reverse damage already done, and it does not remove the need for glasses. Nor is it a substitute for screening: a child who cannot see the blackboard is already behind, whatever the playground policy says. The cheapest treatment remains the one that is hardest to schedule—an hour outside, every day."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the figure from Seoul show?",
+              "options": [
+                {"key": "A", "text": "Short-sightedness is now normal among young men there."},
+                {"key": "B", "text": "Military service causes eye problems."},
+                {"key": "C", "text": "Fewer young people wear glasses than before."},
+                {"key": "D", "text": "Genes explain most cases in the city."}
+              ],
+              "answer": "A",
+              "analysis": "A 段：首尔接受兵役体检的年轻男性中九成以上近视，作者据此说近视在东亚部分地区已从少数人的问题变成青少年眼睛的「常态」。B 因果倒置，C 与数据相反，D 与 B 段「基因解释不了这么快的变化」矛盾。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "more than nine in ten young men"
+            },
+            {
+              "number": 52,
+              "stem": "What appears to protect children's eyes?",
+              "options": [
+                {"key": "A", "text": "Reading in brighter indoor light."},
+                {"key": "B", "text": "Spending time in bright daylight outdoors."},
+                {"key": "C", "text": "Doing eye exercises during breaks."},
+                {"key": "D", "text": "Wearing glasses from an early age."}
+              ],
+              "answer": "B",
+              "analysis": "B 段：眼睛按接收的光线生长，多项研究指向户外时间；即使阴天，室外日光也比室内照明强许多倍，似乎能减缓导致近视的眼轴变长。A 与「室内照明弱」相反，C、D 原文未提。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "point to time outdoors as the protective factor"
+            },
+            {
+              "number": 53,
+              "stem": "What did the Guangzhou trial find?",
+              "options": [
+                {"key": "A", "text": "New cases of myopia fell by about a quarter."},
+                {"key": "B", "text": "All students stopped needing glasses."},
+                {"key": "C", "text": "Test results dropped sharply in six schools."},
+                {"key": "D", "text": "Outdoor time had no measurable effect."}
+              ],
+              "answer": "A",
+              "analysis": "C 段：广州六所学校在放学后增加四十分钟户外活动，三年后新发近视率比照常上课的学校低约四分之一（a quarter lower）。B 夸大，C、D 与「effect was large for the city」相反。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "about a quarter lower"
+            },
+            {
+              "number": 54,
+              "stem": "Why is outdoor time difficult for schools to provide?",
+              "options": [
+                {"key": "A", "text": "It must be taken from lesson time and some parents disapprove."},
+                {"key": "B", "text": "Children refuse to go outside."},
+                {"key": "C", "text": "Outdoor light is too strong in East Asia."},
+                {"key": "D", "text": "There are no teachers trained to supervise play."}
+              ],
+              "answer": "A",
+              "analysis": "D 段：障碍是制度性的——户外时间必须从别处挤出来，在以考试成绩衡量的学校里只能占用课时；一些家长认为玩是浪费，空气差或街道忙时老师把孩子留在室内。B、C、D 无据。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "it is taken from lessons"
+            },
+            {
+              "number": 55,
+              "stem": "What caution does the author add?",
+              "options": [
+                {"key": "A", "text": "Outdoor time cannot undo damage that is already done."},
+                {"key": "B", "text": "Screening for poor eyesight is no longer necessary."},
+                {"key": "C", "text": "Glasses make myopia worse over time."},
+                {"key": "D", "text": "An hour outdoors is enough for every child."}
+              ],
+              "answer": "A",
+              "analysis": "E 段：户外时间只能推迟发病、减缓进展，不能逆转已造成的损害，也不能取代配镜与筛查；「看不见黑板的孩子已经落后了」。B 与「不能替代筛查」相反，C 原文未提，D 把「每天一小时」当作对所有孩子都够用，属过度推断。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "it does not reverse damage already done"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n二十四节气是中国古人根据太阳的位置和农业经验总结出来的时间体系，一年分为二十四个节气。它告诉农民什么时候播种、什么时候收获，也影响着人们的饮食和节日。2016 年，二十四节气被列入联合国教科文组织人类非物质文化遗产名录。今天，虽然很多人不再种地，但每到节气，人们仍会谈论天气和当季的食物。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe twenty-four solar terms form a system of time that ancient Chinese people worked out from the position of the sun and from long experience of farming, and it divides the year into twenty-four periods. Each period has a name that describes a stage of the year, such as Beginning of Spring or White Dew. The terms told farmers when to sow and when to harvest, and they still influence what people eat and how festivals are arranged, because certain foods are thought to suit particular periods. In 2016 the system was added to UNESCO's list of intangible cultural heritage of humanity. Today, although many people no longer farm, they still talk about the weather and about food in season whenever a solar term arrives, and many older people can recite the whole list from memory.\n\n【要点】①「节气」在本语境固定译作 solar terms；②「时间体系」用 a system of time，避免逐字译 time system；③「被列入……名录」用 was added to / was inscribed on the list；④「人类非物质文化遗产」为 intangible cultural heritage of humanity；⑤末句用 although 引导让步状语从句，主句保留「仍会谈论」的对比。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

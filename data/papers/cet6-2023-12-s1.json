@@ -1,0 +1,633 @@
+{
+  "id": "cet6-2023-12-s1",
+  "level": "CET6",
+  "year": 2023,
+  "month": 12,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether university rankings are a reliable guide for students choosing a course. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nThe Limits of University Rankings\n\nEvery autumn a new league table appears, and every autumn the universities that have risen three places mention it in their prospectuses. Rankings answer a question that applicants genuinely ask—which institution is the stronger—but they answer it with a confidence the underlying evidence does not support.\n\nThe measures are proxies, and the proxies are chosen by whoever compiles the table. Research income, citation counts and the share of international staff describe a research institution reasonably well and describe an undergraduate seminar hardly at all. A department can be transformed by one generous donor, or slip because a teaching hospital was counted differently this year; the table then reports a change in the university's quality that never took place.\n\nThere is a subtler cost. Because rankings are read as verdicts rather than indicators, institutions rearrange themselves to fit them: appointing for citation rather than for teaching, recruiting abroad to lift a ratio. The instrument begins to reshape the thing it claims merely to measure.\n\nNone of this makes rankings worthless. They are cheap information, and cheap information has its uses. But an applicant would learn more by asking what recent graduates actually do, who teaches the first-year seminars, and whether anyone there answers an email. Those questions do not fit into a table—which is precisely why they are worth asking.\n\n（约 200 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Every year the world produces some four hundred million tonnes of plastic, and researchers calculate that around eleven million tonnes of it end up in the sea. The figure is 26______, yet it understates the difficulty, because a tonnage tells you only how much has been discarded, not what it goes on doing. Sunlight and waves do not make plastic vanish; they 27______ it into fragments, which now turn up in Arctic ice and in the digestive tracts of fish sold in ordinary markets. A material designed to be 28______ has become one that cannot be recovered, and an arithmetic of collection that assumes waste stays where it is put no longer describes anything real."
+            },
+            {
+              "label": "B",
+              "text": "Against this, recycling has been sold to the public as the answer. In practice only about nine per cent of all plastic ever made has been recycled, and the reason is not laziness. Most packaging is a 29______ of layers—film, foil, adhesive—that no sorting plant can separate at a price anyone will pay. Where collection does work, the material 30______ in quality every time it is melted, so a bottle becomes a fibre and a fibre becomes landfill. Exporting the problem to countries with cheaper labour once kept the totals respectable; since those routes closed, the 31______ have become visible at home."
+            },
+            {
+              "label": "C",
+              "text": "The proposals now on the table are 32______ rather than technological: a levy on virgin resin, a minimum share of recycled content, deposit schemes that pay the consumer to bring the container back. None is 33______ on its own, and each imposes a cost on somebody with a voice. But they share one virtue. They make the producer, and not the household, 34______ for what the package does once it is empty. Such a shift is politically 35______, which is exactly why it is worth arguing for."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "sobering" },
+                { "key": "B", "text": "abundant" },
+                { "key": "C", "text": "collapse" },
+                { "key": "D", "text": "obvious" }
+              ],
+              "answer": "A",
+              "analysis": "sobering 意为「令人清醒、发人深省的」，与后半句 yet it understates the difficulty 构成转折：这个数字已经足以让人警醒，却仍低估了难度。abundant（充足的）与语境相反。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "yet it understates the difficulty"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "obvious" },
+                { "key": "B", "text": "break" },
+                { "key": "C", "text": "collapse" },
+                { "key": "D", "text": "profitable" }
+              ],
+              "answer": "B",
+              "analysis": "break sth into fragments「把……打碎成碎片」是固定搭配；前半句已说明阳光与海浪不会让塑料消失，只能将其破碎。",
+              "type": "搭配题",
+              "evidencePara": "A",
+              "evidenceText": "do not make plastic vanish; they ... it into fragments"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "scattered" },
+                { "key": "B", "text": "profitable" },
+                { "key": "C", "text": "durable" },
+                { "key": "D", "text": "obvious" }
+              ],
+              "answer": "C",
+              "analysis": "durable「耐用的」正是塑料被设计出来的属性，与后半句 cannot be recovered 形成反差：耐久的材料一旦进入环境就无法回收。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "A material designed to be ... has become one that cannot be recovered"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "abundant" },
+                { "key": "B", "text": "collapse" },
+                { "key": "C", "text": "obvious" },
+                { "key": "D", "text": "composite" }
+              ],
+              "answer": "D",
+              "analysis": "破折号列举「薄膜、铝箔、黏合剂」，说明包装是多种材料的复合体，a composite of layers 为常见搭配；复合结构正是分拣厂无法廉价分离的原因。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "a ... of layers—film, foil, adhesive"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "deteriorates" },
+                { "key": "B", "text": "collapse" },
+                { "key": "C", "text": "scattered" },
+                { "key": "D", "text": "profitable" }
+              ],
+              "answer": "A",
+              "analysis": "deteriorate in quality「质量下降」；后文「瓶子变成纤维、纤维变成填埋物」正是塑料每熔一次品质就降一级的结果。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "so a bottle becomes a fibre and a fibre becomes landfill"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "obvious" },
+                { "key": "B", "text": "consequences" },
+                { "key": "C", "text": "collapse" },
+                { "key": "D", "text": "profitable" }
+              ],
+              "answer": "B",
+              "analysis": "have become visible 的主语应为复数名词；出口渠道关闭后，后果只能留在本国显现，the consequences 与前句 Exporting the problem 相对。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "since those routes closed"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "scattered" },
+                { "key": "B", "text": "profitable" },
+                { "key": "C", "text": "regulatory" },
+                { "key": "D", "text": "abundant" }
+              ],
+              "answer": "C",
+              "analysis": "冒号后列出的「原生树脂征税、再生含量下限、押金制」都是管制手段，故与 technological 相对的应是 regulatory（监管性的）。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "a levy on virgin resin, a minimum share of recycled content"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "scattered" },
+                { "key": "B", "text": "obvious" },
+                { "key": "C", "text": "profitable" },
+                { "key": "D", "text": "sufficient" }
+              ],
+              "answer": "D",
+              "analysis": "None is sufficient on its own「单靠任何一项都不够」，与下句 But they share one virtue 的让步转折相呼应。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "But they share one virtue"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "responsible" },
+                { "key": "B", "text": "profitable" },
+                { "key": "C", "text": "abundant" },
+                { "key": "D", "text": "scattered" }
+              ],
+              "answer": "A",
+              "analysis": "make sb responsible for sth「使某人对……负责」是固定结构；本句强调责任应从家庭转回生产者。",
+              "type": "搭配题",
+              "evidencePara": "C",
+              "evidenceText": "the producer, and not the household"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "abundant" },
+                { "key": "B", "text": "awkward" },
+                { "key": "C", "text": "scattered" },
+                { "key": "D", "text": "profitable" }
+              ],
+              "answer": "B",
+              "analysis": "politically awkward「在政治上令人为难」，正因为难办才 need arguing for；awkward 与后文 worth arguing for 构成因果。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "which is exactly why it is worth arguing for"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Noise is the pollutant that leaves no residue. It cannot be photographed, bottled or seen from a satellite, and perhaps for that reason it was regulated far later and far more weakly than the substances that turn rivers green. The World Health Organization now ranks traffic noise second only to air pollution among the environmental causes of disease in western Europe. The estimate is not marginal: long-term exposure is associated with heart attacks, strokes and chronically broken sleep, and the numbers involved run into the millions."
+            },
+            {
+              "label": "B",
+              "text": "The mechanism is not mysterious. A sudden sound releases stress hormones, blood pressure rises, the vessels stiffen, and if the noise recurs all night the body never completes the repair that sleep exists to provide. What makes the harm difficult to argue about is that it is cumulative and invisible. Nobody is admitted to hospital with a diagnosis of road noise. They are admitted with hypertension, and the cause is written into their address."
+            },
+            {
+              "label": "C",
+              "text": "Measurement is the second obstacle. A level averaged over twenty-four hours can conceal the two hours that matter, and one loud lorry at three in the morning will wake a light sleeper without moving the average at all. European law obliges cities to draw noise maps and publish action plans, but the maps are frequently modelled rather than measured, and the plans carry no deadline that anyone can be sued for missing."
+            },
+            {
+              "label": "D",
+              "text": "Engineering offers cheaper remedies than most people assume. A porous asphalt surface can reduce the noise at the tyre by several decibels—a change the ear hears as a halving of loudness—for a fraction of the cost of a sound barrier. Lower speed limits achieve something similar, because tyre noise climbs steeply above fifty kilometres an hour. Neither measure is popular with drivers, and neither appears in the photograph of a finished project."
+            },
+            {
+              "label": "E",
+              "text": "Enforcement is where policy usually stops. A lorry with a defective exhaust is illegal in most cities and almost never prosecuted, because the offence is hard to prove at the roadside and the fine is trivial. Night flights are capped at some airports and quietly tolerated at others; the maps that would show the difference are published years late. A rule that is not measured is, in practice, a suggestion."
+            },
+            {
+              "label": "F",
+              "text": "The politics are unusually unequal. The people who gain from a motorway or an expanded airport are spread across a region; the people who bear the noise live within a kilometre of it, and are usually poorer than average, because housing beside infrastructure is cheap for an obvious reason. Noise thus becomes a question of distribution rather than taste, and a sleepless resident's objection is easily recast as an objection to modernity. The remedies that work are cumulative and dull: quieter surfaces, tighter night limits, insulation grants, and a duty to act on the map rather than merely to publish it. None of them will make a city silent, and silence is not the point. The point is that the noise a city makes should be a decision, not an accident."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "A hazard may be taken less seriously because it leaves nothing visible behind.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "A",
+              "analysis": "A 段开头：噪音「不留残余」，无法被拍摄、装瓶或从卫星上看到，或许正因如此，它的管制远晚于、也远弱于水污染。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "the pollutant that leaves no residue ... regulated far later and far more weakly"
+            },
+            {
+              "number": 37,
+              "stem": "The damage presents itself as an ordinary illness rather than a distinctive one.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：没有人会因为「道路噪音」这个诊断入院，入院的原因是高血压——病因「写在住址里」。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "Nobody is admitted to hospital with a diagnosis of road noise"
+            },
+            {
+              "number": 38,
+              "stem": "An average taken across a whole day can hide the hours that do the harm.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：二十四小时平均值会掩盖真正要紧的那两个小时，凌晨一辆大卡车吵醒浅睡者却完全不动平均值。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "averaged over twenty-four hours can conceal the two hours that matter"
+            },
+            {
+              "number": 39,
+              "stem": "A cheap change to the road surface can rival an expensive barrier.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：多孔沥青可把轮胎噪声降低数分贝，成本只是隔音墙的一小部分。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "for a fraction of the cost of a sound barrier"
+            },
+            {
+              "number": 40,
+              "stem": "Regulations are widely broken and hardly ever punished.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：排气管破损的卡车在多数城市违法，却几乎从不被起诉，因为路边难以取证、罚款微不足道。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "almost never prosecuted"
+            },
+            {
+              "number": 41,
+              "stem": "Those who gain and those who suffer are different groups of people.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：受益者分散在整个区域，承受噪音者住在一公里内且收入通常更低，因此噪音是分配问题。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "a question of distribution rather than taste"
+            },
+            {
+              "number": 42,
+              "stem": "Some official maps are produced by calculation rather than observation.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：法律要求绘制噪音地图，但地图多是「模拟」而非「实测」，行动计划也没有可追责的期限。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "modelled rather than measured"
+            },
+            {
+              "number": 43,
+              "stem": "Slowing traffic helps because of the way tyres generate sound.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：轮胎噪声在时速五十公里以上急剧上升，因此限速也能降噪。",
+              "type": "原因题",
+              "evidencePara": "D",
+              "evidenceText": "tyre noise climbs steeply above fifty kilometres an hour"
+            },
+            {
+              "number": 44,
+              "stem": "The objective is not silence but deliberate choice.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：目标不是让城市寂静，而是让城市发出的声音成为一种「决定」而非「意外」。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "silence is not the point ... a decision, not an accident"
+            },
+            {
+              "number": 45,
+              "stem": "Restrictions on aircraft at night vary from place to place.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：某些机场限制夜间航班，另一些则「悄悄容忍」，能显示差异的地图又发布得很晚。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "capped at some airports and quietly tolerated at others"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When finance directors look for savings, training is among the first lines to go. The reasoning is not stupid: the return on a course is hard to demonstrate in the quarter in which it is paid for, whereas the cost appears on the ledger at once. The result is a familiar cycle. Firms cut development budgets in a downturn, discover two years later that they have too few people who can run the new system, and buy the missing expertise from outside at a premium that would have paid for the training several times over."
+            },
+            {
+              "label": "B",
+              "text": "Economists have a name for the underlying problem: the poaching externality. A company that teaches a technician a widely used skill cannot capture the whole benefit, because a competitor may offer the trained worker slightly more and save itself the cost of instruction. Where the skill is general, the theory predicts that firms will under-invest and that individuals will pay for their own courses, which is broadly what has happened. Where the skill is tied to one firm's equipment or customers, the incentive to train returns—but so does the risk of preparing people for a job that will be automated within five years."
+            },
+            {
+              "label": "C",
+              "text": "Employers have responded by rebuilding training as something shorter and more portable. The corporate academy with its two-week residential course has largely gone; in its place are modules of twenty minutes, delivered on a phone, badged and counted. This is cheaper and reaches far more people, and it can be audited in a way that a week away from the office never could. Whether it teaches anything is a separate question. A module can be completed in a lift on the way to a meeting, and completion rates are not the same as competence, though they are far easier to report to a board."
+            },
+            {
+              "label": "D",
+              "text": "What the evidence supports is less exciting than either the academy or the badge. Training works when it is close to the work, when it is repeated, and when somebody senior notices whether it has been applied. Supervised practice on real tasks outperforms classroom instruction by a wide margin, and the margin grows with the complexity of the task. This is awkward for organisations that have outsourced instruction to a platform, renamed the result a learning culture, and reduced the whole question to an annual figure for hours completed."
+            },
+            {
+              "label": "E",
+              "text": "The strongest argument for spending on training is not philanthropic. Firms that develop people keep them longer, and the cost of replacing a skilled employee—recruitment, induction, lost output while a successor learns—usually runs to several months of salary. That calculation is rarely made, because the savings appear in a different budget from the one that pays the invoice. The accounting boundary, rather than any shortage of evidence, explains why the cycle repeats. Managers who are rewarded for this year's costs will always under-buy a benefit that arrives in three years' time."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author suggest about the finance directors' reasoning?",
+              "options": [
+                { "key": "A", "text": "It is unreasonable because training costs nothing." },
+                { "key": "B", "text": "It is defensible in the short term but expensive in the end." },
+                { "key": "C", "text": "It reflects a deliberate hostility to employees." },
+                { "key": "D", "text": "It is based on a careful calculation of returns." }
+              ],
+              "answer": "B",
+              "analysis": "A 段先说这种想法 not stupid（成本当期入账、收益难以证明），随后指出两年后不得不以高价外购人才，代价「足够支付好几次培训」——即短期说得通、长期昂贵。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "The reasoning is not stupid ... at a premium that would have paid for the training several times over"
+            },
+            {
+              "number": 47,
+              "stem": "Why do firms under-invest in skills that are widely used?",
+              "options": [
+                { "key": "A", "text": "Because such skills cannot be taught in a classroom." },
+                { "key": "B", "text": "Because governments refuse to share the cost." },
+                { "key": "C", "text": "Because a rival may hire the trained worker away." },
+                { "key": "D", "text": "Because workers prefer to learn on their own." }
+              ],
+              "answer": "C",
+              "analysis": "B 段解释 poaching externality：通用技能的好处无法被培训企业独占，竞争者略加薪即可挖走受训者并省下培训费，因此企业投资不足。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "a competitor may offer the trained worker slightly more"
+            },
+            {
+              "number": 48,
+              "stem": "What is the author's attitude towards short online modules?",
+              "options": [
+                { "key": "A", "text": "Approval of their cost and reach, doubt about what they teach." },
+                { "key": "B", "text": "Complete rejection of them as a waste of money." },
+                { "key": "C", "text": "Enthusiasm about replacing all classroom teaching." },
+                { "key": "D", "text": "Indifference, since they change nothing at all." }
+              ],
+              "answer": "A",
+              "analysis": "C 段先肯定其更便宜、覆盖更广、更易审计，随后用 Whether it teaches anything is a separate question 转折：完成率不等于能力。态度是「肯定效率、怀疑效果」。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "completion rates are not the same as competence"
+            },
+            {
+              "number": 49,
+              "stem": "What does 'the accounting boundary' refer to?",
+              "options": [
+                { "key": "A", "text": "The limit on how much a firm may spend on courses." },
+                { "key": "B", "text": "The rule that only senior staff may be trained." },
+                { "key": "C", "text": "The gap between what training costs and what retention saves." },
+                { "key": "D", "text": "The line between legal and illegal training subsidies." }
+              ],
+              "answer": "C",
+              "analysis": "E 段：培训发票与留人节省记在不同预算里，因此这笔账「很少有人算」；正是这条会计界线，而非证据不足，使削减培训的循环反复出现。",
+              "type": "词句含义题",
+              "evidencePara": "E",
+              "evidenceText": "the savings appear in a different budget from the one that pays the invoice"
+            },
+            {
+              "number": 50,
+              "stem": "What is the passage mainly concerned with?",
+              "options": [
+                { "key": "A", "text": "Why firms keep cutting training despite the evidence for it." },
+                { "key": "B", "text": "How to design a corporate academy in a downturn." },
+                { "key": "C", "text": "Why skilled workers change employers so often." },
+                { "key": "D", "text": "How automation will eliminate technical jobs." }
+              ],
+              "answer": "A",
+              "analysis": "全文从削减预算的现象出发，解释挖人外部性、培训形式的退化，最后归结到预算分界与管理者的考核周期——即「证据充分却仍反复削减」的原因。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "Managers who are rewarded for this year's costs will always under-buy a benefit that arrives in three years' time"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The micro-credential was invented to solve a problem of signalling. A degree tells an employer that its holder was capable of being taught; it says very little about whether the holder can configure a particular database or draft a contract in a second language. A short course with an assessed project promises to say exactly that, and to say it in weeks rather than years. In the decade since the first digital badges appeared, several hundred platforms have issued several thousand varieties of them."
+            },
+            {
+              "label": "B",
+              "text": "The trouble with a signal is that it is useful only if it is costly to fake and cheap to read. A certificate from a body the industry recognises satisfies both conditions. A certificate from a platform nobody has heard of satisfies neither, and employers do what they have always done with unfamiliar evidence: they ignore it and fall back on the name of the institution, which is precisely the habit the badge was meant to break. The result is a market in which the supply of credentials has multiplied while the number that anyone actually reads has barely moved."
+            },
+            {
+              "label": "C",
+              "text": "There is a quieter problem. A credential records attendance at a course, and a course is not a skill. Where assessment is automated—five questions at the end of each video—the certificate measures persistence, and persistence is already visible in a work history. Where assessment is a project marked by a human, the cost per learner rises sharply and the price advantage that made the format attractive disappears. Platforms have resolved this by choosing the cheaper option and describing it in the language of rigour."
+            },
+            {
+              "label": "D",
+              "text": "None of this makes the format worthless. In fields where the technology changes faster than a degree can be redesigned, a short, specific, assessed course is genuinely useful, and several professional bodies now accept them as evidence of continuing education. What the evidence does not support is the larger claim, repeated by platform executives and echoed by ministers who like the sound of lower costs, that badges will displace the degree as the currency of hiring."
+            },
+            {
+              "label": "E",
+              "text": "The likely outcome is duller and more useful than either the advertising or the alarm. Credentials will accumulate as an additional layer of evidence—read closely by employers who already know the field, ignored by those who do not—while the degree continues to perform the coarse sorting that no badge can do at scale. That is not a transformation of education. It is the ordinary way in which a new instrument finds the niche its promoters never advertised, and it will be judged, in the end, by whether the people who hold the badges earn more than those who do not."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What weakness of the degree does the first paragraph identify?",
+              "options": [
+                { "key": "A", "text": "It takes too long to be recognised abroad." },
+                { "key": "B", "text": "It is too expensive for most employers to verify." },
+                { "key": "C", "text": "It shows general teachability rather than specific competence." },
+                { "key": "D", "text": "It no longer indicates whether the holder can be taught." }
+              ],
+              "answer": "C",
+              "analysis": "A 段：学位说明持有者「有能力被教会」，却几乎不能说明他是否会配置某个数据库，这正是微证书想要填补的空缺。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "capable of being taught; it says very little about whether the holder can configure a particular database"
+            },
+            {
+              "number": 52,
+              "stem": "Why do employers fall back on institutional names?",
+              "options": [
+                { "key": "A", "text": "Because famous institutions pay for preferential treatment." },
+                { "key": "B", "text": "Because unfamiliar certificates are expensive to evaluate." },
+                { "key": "C", "text": "Because they distrust all forms of practical training." },
+                { "key": "D", "text": "Because professional bodies forbid them to do otherwise." }
+              ],
+              "answer": "B",
+              "analysis": "B 段指出信号必须「难以伪造、易于读取」；无人听过的平台证书两条都不满足，于是雇主回到熟悉的名字上——这是评估成本的规避，而非偏见或规定。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "costly to fake and cheap to read"
+            },
+            {
+              "number": 53,
+              "stem": "What does the author imply about automated assessment?",
+              "options": [
+                { "key": "A", "text": "It certifies completion rather than ability." },
+                { "key": "B", "text": "It is more rigorous than human marking." },
+                { "key": "C", "text": "It has made courses too expensive to run." },
+                { "key": "D", "text": "It is the only way to measure persistence." }
+              ],
+              "answer": "A",
+              "analysis": "C 段：视频末尾五道题所测的是「坚持」，而坚持在工作履历里本就看得见；平台选择便宜方案，却用「严谨」的语言来描述它——言下之意是它证明的是完成而非能力。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the certificate measures persistence"
+            },
+            {
+              "number": 54,
+              "stem": "How does the author regard the claim that badges will replace degrees?",
+              "options": [
+                { "key": "A", "text": "As self-evidently true in technical fields." },
+                { "key": "B", "text": "As unsupported by the evidence available." },
+                { "key": "C", "text": "As a view held only by academic critics." },
+                { "key": "D", "text": "As already demonstrated by wage data." }
+              ],
+              "answer": "B",
+              "analysis": "D 段：格式本身并非无价值，但「徽章将取代学位成为招聘货币」这一更大的主张 the evidence does not support；且该说法多出自平台高管与官员。",
+              "type": "态度题",
+              "evidencePara": "D",
+              "evidenceText": "What the evidence does not support is the larger claim"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author expect to happen in the end?",
+              "options": [
+                { "key": "A", "text": "Degrees will be abolished within a decade." },
+                { "key": "B", "text": "Badges will be read only inside the field that issues them, as a supplement." },
+                { "key": "C", "text": "Employers will stop asking for any formal evidence." },
+                { "key": "D", "text": "Platforms will be regulated out of the education market." }
+              ],
+              "answer": "B",
+              "analysis": "E 段：证书会成为「又一层证据」，被懂行的雇主细读、被不懂的雇主忽视，而学位继续承担大规模粗筛——即补充而非替代，且最终以持证者是否多挣钱来检验。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "an additional layer of evidence ... the degree continues to perform the coarse sorting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国书法是用毛笔书写汉字的艺术，讲究笔画的力度、结构与节奏。它起源于三千多年前，历经篆、隶、楷、行、草等书体的演变，形成了丰富的审美传统。练习书法需要长年临摹名家碑帖，在一笔一画中体会用笔的轻重缓急。书法不仅是记录文字的手段，也寄托着书写者的性情与修养。今天，书法仍是许多中国学生的必修内容，并被列入联合国教科文组织人类非物质文化遗产代表作名录。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChinese calligraphy is the art of writing Chinese characters with a brush, and it attaches great importance to the strength, structure and rhythm of each stroke. It originated more than three thousand years ago and evolved through the seal, clerical, regular, running and cursive scripts, gradually forming a rich aesthetic tradition. Practising calligraphy requires years of copying the steles and model works of celebrated masters, so that the writer learns, stroke by stroke, how much pressure to apply and when to slow down or speed up. Calligraphy is not merely a means of recording language; it also embodies the temperament and cultivated character of the person holding the brush. Today it remains a required subject for many Chinese students, and it has been inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity.\n\n【要点】①「讲究」不宜直译为 care about，用 attaches great importance to 或 lays stress on；②五种书体用 seal / clerical / regular / running / cursive script，首次出现可加 script 一词；③「临摹碑帖」译为 copying the steles and model works，比 imitation 准确；④「轻重缓急」是并列的用笔节奏，可拆为 how much pressure to apply and when to slow down or speed up；⑤「寄托着……性情与修养」用 embodies the temperament and cultivated character，避免逐字译作 place on；⑥末句「被列入名录」用被动 has been inscribed on，时态为现在完成时。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

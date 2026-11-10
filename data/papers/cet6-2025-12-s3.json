@@ -1,0 +1,651 @@
+{
+  "id": "cet6-2025-12-s3",
+  "level": "CET6",
+  "year": 2025,
+  "month": 12,
+  "setNo": 3,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on the importance of checking information before sharing it online. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\n\nChecking Before Sharing\n\nA lie can now travel further in an hour than a correction can travel in a year, and the machinery behind it sits in most people's pockets. Teaching the young to check what they pass on is not a refinement of citizenship; it is the minimum.\n\nThe usual objection is that verification belongs to specialists. It does not. A reader need not audit a clinical trial to notice that a headline claims more than the study does; a student need not hold a degree in economics to ask who benefits from a statistic. What is required is a small set of habits: find the original, look at the date, ask what would count as evidence against the claim.\n\nCarelessness also has a social cost. A rumour about a stranger, forwarded in good faith, can end a career; a false report of a crime can bring a crowd into a street. The person who shares it did not invent the lie, yet helped it travel.\n\nSchools should teach this, but not as a list of forbidden websites. The aim is a temperament — slower to believe, harder to fool, and willing to say that one was wrong.\n\n（约 196 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Roughly a fifth of the food that reaches consumers is never eaten. The figure comes from the United Nations Environment Programme, whose 2024 index put the total at 1.05 billion tonnes in 2022 — about 19 per cent of what shops, restaurants and households had available. Households accounted for 60 per cent of it, a share that 26______ people who assume waste is something supermarkets do to us. The environmental 27______ is larger than the moral one. Food that is grown, transported, refrigerated and then thrown away has already consumed land, water and fuel; if food loss and waste were a country, it would be the third largest emitter of greenhouse gases after China and the United States."
+            },
+            {
+              "label": "B",
+              "text": "Why so much is discarded is less mysterious than it looks. In rich countries waste is 28______ by abundance: portions are cheap relative to income, 'best before' dates are read as deadlines, and a supermarket that keeps a full shelf sells more than one that stocks exactly what it expects to sell. In poor countries the loss happens earlier, for the opposite reason — no cold storage, poor roads, and a harvest that ripens all at once. The two problems are often 29______ under a single heading, although the remedies have almost nothing in common."
+            },
+            {
+              "label": "C",
+              "text": "What works is unglamorous and local. Campaigns that 30______ households to plan their meals reduce waste more reliably than appeals to conscience; so do smaller plates, clearer date labels and fridges that keep food cold evenly. In South Korea, charging households by weight for what they throw out cut waste 31______; in Denmark, a supermarket chain sells 'ugly' produce at a discount. No single measure 32______ the problem, but together they have 33______ a trend that once looked unstoppable. The obstacle is rarely technology. It is the 34______ that waste is inevitable — a background condition rather than a decision — and that responsibility belongs to someone else. Changing that assumption is slow work, and it is the only work that 35______."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                { "key": "A", "text": "surprises" },
+                { "key": "B", "text": "comforts" },
+                { "key": "C", "text": "resembles" },
+                { "key": "D", "text": "instructs" }
+              ],
+              "answer": "A",
+              "analysis": "家庭占浪费总量的 60%，这一比例会让「以为浪费都是超市造成的」人感到意外。surprise 作动词意为「使惊讶」，后接 people 作宾语；comfort（安慰）、resemble（相似）均不合逻辑。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a share that ... people who assume waste is something supermarkets do to us"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                { "key": "A", "text": "cost" },
+                { "key": "B", "text": "benefit" },
+                { "key": "C", "text": "debate" },
+                { "key": "D", "text": "excuse" }
+              ],
+              "answer": "A",
+              "analysis": "与「道德代价」相比较的是「环境代价」；下文列举土地、水、燃料与温室气体排放，正是 environmental cost 的具体内容。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "has already consumed land, water and fuel"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                { "key": "A", "text": "driven" },
+                { "key": "B", "text": "delayed" },
+                { "key": "C", "text": "hidden" },
+                { "key": "D", "text": "measured" }
+              ],
+              "answer": "A",
+              "analysis": "be driven by sth 表示「由……驱动／造成」；冒号后列出分量便宜、保质期被当成最后期限、货架越满卖得越多，都是富裕社会浪费的成因。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "portions are cheap relative to income"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                { "key": "A", "text": "grouped" },
+                { "key": "B", "text": "divided" },
+                { "key": "C", "text": "solved" },
+                { "key": "D", "text": "priced" }
+              ],
+              "answer": "A",
+              "analysis": "although the remedies have almost nothing in common 是让步：两种问题常被「归入」同一名目（food loss and waste），实则解决办法迥异。group under one heading 意为归为一类。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "although the remedies have almost nothing in common"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                { "key": "A", "text": "persuade" },
+                { "key": "B", "text": "forbid" },
+                { "key": "C", "text": "oblige" },
+                { "key": "D", "text": "deter" }
+              ],
+              "answer": "A",
+              "analysis": "persuade sb to do sth 意为「说服某人做某事」，与宣传活动的性质相符，且与后半句「比诉诸良心更有效」呼应；forbid / deter 语义相反，oblige 表示强制。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "reduce waste more reliably than appeals to conscience"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                { "key": "A", "text": "sharply" },
+                { "key": "B", "text": "reluctantly" },
+                { "key": "C", "text": "occasionally" },
+                { "key": "D", "text": "equally" }
+              ],
+              "answer": "A",
+              "analysis": "cut waste sharply 指「大幅削减」，与后文丹麦超市打折出售丑蔬果并列，都是已见效的具体做法；reluctantly 修饰人的态度，不能修饰下降幅度。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "charging households by weight"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                { "key": "A", "text": "solves" },
+                { "key": "B", "text": "explains" },
+                { "key": "C", "text": "repeats" },
+                { "key": "D", "text": "postpones" }
+              ],
+              "answer": "A",
+              "analysis": "No single measure… but together 是对比结构：单项措施无法「解决」问题，合起来才见效。solve the problem 为固定搭配。",
+              "type": "逻辑题",
+              "evidencePara": "C",
+              "evidenceText": "but together they have"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                { "key": "A", "text": "altered" },
+                { "key": "B", "text": "ignored" },
+                { "key": "C", "text": "predicted" },
+                { "key": "D", "text": "welcomed" }
+              ],
+              "answer": "A",
+              "analysis": "a trend that once looked unstoppable 需要「改变／扭转」之意的动词；alter a trend 指使趋势发生改变，与 once 形成时间对比。ignore、predict 均不能与 trend 搭配表达此义。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "a trend that once looked unstoppable"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                { "key": "A", "text": "assumption" },
+                { "key": "B", "text": "evidence" },
+                { "key": "C", "text": "ambition" },
+                { "key": "D", "text": "instruction" }
+              ],
+              "answer": "A",
+              "analysis": "冒号后解释：浪费被视为「背景条件而非决定」，责任归他人——这是一种未经检验的「预设」。assumption 后接 that 同位语从句，符合结构。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "waste is inevitable — a background condition rather than a decision"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                { "key": "A", "text": "matters" },
+                { "key": "B", "text": "remains" },
+                { "key": "C", "text": "spreads" },
+                { "key": "D", "text": "pays" }
+              ],
+              "answer": "A",
+              "analysis": "it is the only work that matters 意为「唯一真正重要的努力」；前句说改变观念很慢，正是这种慢功夫才有意义，语气上是全文的收束。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "Changing that assumption is slow work"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2023 State Farm, the largest home insurer in the United States, stopped accepting new applications for homeowners' policies in California, citing wildfire risk, rebuilding costs and the regulatory limits on what it could charge. Allstate had done much the same a year earlier. Neither company left the state. Both simply stopped taking new business, which is the quietest way to retreat."
+            },
+            {
+              "label": "B",
+              "text": "Insurance works by pooling: many small certain payments buy protection against one large uncertain loss. The arrangement only functions if the insurer can estimate the odds. When the odds stop being estimable — because fire seasons lengthen, because a flood plain that used to flood once a century floods twice a decade — the premium that would cover the risk rises beyond what regulators permit or households will pay."
+            },
+            {
+              "label": "C",
+              "text": "Regulators hold premiums down, which is popular and, in the short run, kind. The consequence is that insurers cannot charge enough to hold capital against the risk, so they withdraw instead, and the state's insurer of last resort expands. California's FAIR Plan, designed for the few properties no one else would cover, has grown from a curiosity into a significant share of the market."
+            },
+            {
+              "label": "D",
+              "text": "The result is a subsidy that runs the wrong way. A household that can afford to rebuild in a fire zone is helped to stay by an artificially cheap policy, while the cost of the eventual loss is spread across everyone else in the state, including tenants who will never own a house. Insurance, in this arrangement, stops being a price signal and becomes a promise that somebody else will pay."
+            },
+            {
+              "label": "E",
+              "text": "Florida shows where the logic leads. Several insurers have failed or withdrawn since 2020; premiums have risen faster than in any other state; and the state-backed carrier now covers more property than any private company. Rebuilding after Hurricane Ian in 2022 cost more than 100 billion dollars. The state has responded by making it harder to sue insurers and by buying reinsurance — measures that treat the symptom rather than the exposure."
+            },
+            {
+              "label": "F",
+              "text": "There are honest responses. One is to stop rebuilding in the most exposed places, through buyouts that return land to flood plain or forest; another is to price the risk accurately and help those who genuinely cannot pay, rather than pretending the risk is smaller than it is. Both are politically expensive, because both make visible what the insurance market used to hide."
+            },
+            {
+              "label": "G",
+              "text": "The deeper point is that insurance is a form of collective memory. It records, in money, what a society has learned about its own hazards. When the record is suppressed — by caps, by subsidies, by a state carrier that is not allowed to say no — the memory fails, and people build where the previous generation would not have built."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "A leading insurer withdrew from new business rather than leaving the state.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "A",
+              "analysis": "A 段：State Farm 与 Allstate 都停止接受新保单，却并未退出加州，作者称这是「最安静的撤退方式」。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "Neither company left the state. Both simply stopped taking new business"
+            },
+            {
+              "number": 37,
+              "stem": "The business depends on being able to calculate probabilities.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "B",
+              "analysis": "B 段：保险靠「大数分摊」，只有承保人能估算概率时才成立；一旦概率无法估算，保费就会超出监管允许或居民愿意支付的水平。",
+              "type": "主旨题",
+              "evidencePara": "B",
+              "evidenceText": "only functions if the insurer can estimate the odds"
+            },
+            {
+              "number": 38,
+              "stem": "Caps on premiums push insurers out and enlarge the state-backed option.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "C",
+              "analysis": "C 段：限价使保险公司收不到足够保费来计提资本，于是退出，而作为「最后承保人」的州立计划随之扩大，加州 FAIR Plan 即为例证。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "so they withdraw instead, and the state's insurer of last resort expands"
+            },
+            {
+              "number": 39,
+              "stem": "Cheap policies transfer the cost of risk to people who face none of it.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "D",
+              "analysis": "D 段：人为压低的保单让有能力在火灾区重建的家庭留下，而最终损失由全州其他人分摊，包括永远不会买房的租客。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "including tenants who will never own a house"
+            },
+            {
+              "number": 40,
+              "stem": "In one state, premiums have climbed fastest while private carriers have collapsed.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "E",
+              "analysis": "E 段：佛罗里达自 2020 年以来多家保险公司倒闭或撤出，保费涨幅居全国之首，州立承保机构承保的房产已超过任何一家私营公司。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "Several insurers have failed or withdrawn since 2020"
+            },
+            {
+              "number": 41,
+              "stem": "One government responded by restricting litigation instead of reducing exposure.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "E",
+              "analysis": "E 段末：该州通过提高起诉保险公司的难度、购买再保险来应对，作者评价其「治标不治本」（treat the symptom rather than the exposure）。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "making it harder to sue insurers"
+            },
+            {
+              "number": 42,
+              "stem": "Purchasing the most exposed properties is put forward as one serious option.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "F",
+              "analysis": "F 段：诚实的办法之一是停止在最危险地带重建，通过「买断」把土地还原为洪泛区或林地。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "buyouts that return land to flood plain or forest"
+            },
+            {
+              "number": 43,
+              "stem": "Pricing risk honestly and assisting the poor is politically difficult.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "F",
+              "analysis": "F 段末：按真实风险定价并补助真正无力承担者，与买断一样「政治上代价高昂」，因为它们让保险市场原先掩盖的东西变得可见。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "Both are politically expensive"
+            },
+            {
+              "number": 44,
+              "stem": "Insurance prices preserve what a society has learned about its dangers.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "G",
+              "analysis": "G 段：保险是一种「集体记忆」，以货币形式记录社会对自身灾害的认知。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "insurance is a form of collective memory"
+            },
+            {
+              "number": 45,
+              "stem": "Silencing that information leads people to build in hazardous places.",
+              "options": [
+                { "key": "A", "text": "Paragraph A" },
+                { "key": "B", "text": "Paragraph B" },
+                { "key": "C", "text": "Paragraph C" },
+                { "key": "D", "text": "Paragraph D" },
+                { "key": "E", "text": "Paragraph E" },
+                { "key": "F", "text": "Paragraph F" },
+                { "key": "G", "text": "Paragraph G" }
+              ],
+              "answer": "G",
+              "analysis": "G 段末：当这一记录被限价、补贴与不许说「不」的州立机构压制，记忆失效，人们便在上代人不会建房的地方建房。",
+              "type": "推断题",
+              "evidencePara": "G",
+              "evidenceText": "people build where the previous generation would not have built"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In 2016 an international team published the first atlas of artificial night sky brightness. It found that 83 per cent of the world's population, and 99 per cent of Europeans and North Americans, live under skies brighter than a natural threshold, and that the Milky Way is hidden from 60 per cent of Europeans and 80 per cent of North Americans. For most of human history the night sky was a shared inheritance; within a century it has become a rarity, available by appointment."
+            },
+            {
+              "label": "B",
+              "text": "The obvious remedy was supposed to be the light-emitting diode. LEDs use a fraction of the electricity of the sodium lamps they replaced, and because they are directional they can be pointed at the road rather than at the sky. A study published in Science in 2023 checked what had actually happened and found that sky brightness had grown by nearly 10 per cent a year between 2011 and 2022. The explanation is a rebound: light became cheaper, so there was more of it. LEDs also emit a broad white spectrum, including blue light, which scatters further in the atmosphere than the orange glow of sodium."
+            },
+            {
+              "label": "C",
+              "text": "The ecological effects are not marginal. Insects are drawn to lamps and die there; one estimate for Germany puts the annual toll at more than a billion. Birds migrating at night are disoriented by illuminated towers and circle until they fall. Newly hatched sea turtles crawl towards streetlights instead of towards the sea. None of these animals evolved in the presence of artificial light, and none can adapt at the speed at which it has spread."
+            },
+            {
+              "label": "D",
+              "text": "The human evidence is harder to state cleanly. Bright light at night suppresses melatonin, the hormone that prepares the body for sleep, and the World Health Organization's cancer agency has classified long-term night-shift work as probably carcinogenic. But shift work is not the same as a streetlamp outside a bedroom window, and studies that try to separate the two are inconsistent. The honest position is that we know enough to be careful and not enough to be precise."
+            },
+            {
+              "label": "E",
+              "text": "The remedy is unusual in being cheap, immediate and well understood: shield lights so that they point downwards, dim them when nobody is there, and use warmer colours where a choice exists. Towns that have done this have cut the electricity used for public lighting by a third and report that residents prefer the result. Unlike most environmental problems, this one can be switched off. That, perhaps, is exactly why it is not taken seriously."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the first paragraph suggest about the night sky?",
+              "options": [
+                { "key": "A", "text": "It has become an experience most people no longer have." },
+                { "key": "B", "text": "It is brighter in rural areas than in cities." },
+                { "key": "C", "text": "It is now protected by international agreement." },
+                { "key": "D", "text": "It has changed little since the nineteenth century." }
+              ],
+              "answer": "A",
+              "analysis": "A 段：83% 的人口、99% 的欧美居民生活在超过自然亮度的天空下，银河对多数人不可见——「共同遗产」在一个世纪内变成稀缺品，故 A 正确。C 项原文未提，D 项与 within a century 相反。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "it has become a rarity"
+            },
+            {
+              "number": 47,
+              "stem": "Why did the switch to LEDs fail to reduce sky brightness?",
+              "options": [
+                { "key": "A", "text": "LEDs consume more power than sodium lamps." },
+                { "key": "B", "text": "Cheaper light encouraged more of it, and blue light scatters widely." },
+                { "key": "C", "text": "LEDs cannot be directed towards the road." },
+                { "key": "D", "text": "Most cities kept their old sodium lamps." }
+              ],
+              "answer": "B",
+              "analysis": "B 段给出两点：一是「回弹效应」，光变便宜所以用得更多；二是 LED 含蓝光的宽光谱在大气中散射更强。A、C 与原文（用电更少、可定向）相反，D 无依据。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "light became cheaper, so there was more of it"
+            },
+            {
+              "number": 48,
+              "stem": "What is the author's view of the evidence on human health?",
+              "options": [
+                { "key": "A", "text": "It proves that street lighting causes cancer." },
+                { "key": "B", "text": "It is suggestive but not yet conclusive." },
+                { "key": "C", "text": "It has been thoroughly disproved." },
+                { "key": "D", "text": "It is irrelevant to the argument." }
+              ],
+              "answer": "B",
+              "analysis": "D 段：夜班与路灯不是一回事，相关研究结论不一致，作者的判断是「足以谨慎，不足以精确」——即有提示性但尚无定论。",
+              "type": "态度题",
+              "evidencePara": "D",
+              "evidenceText": "we know enough to be careful and not enough to be precise"
+            },
+            {
+              "number": 49,
+              "stem": "The phrase 'available by appointment' most probably means",
+              "options": [
+                { "key": "A", "text": "visible only at certain hours of the night." },
+                { "key": "B", "text": "reachable only by travelling to specially protected places." },
+                { "key": "C", "text": "reserved for professional astronomers." },
+                { "key": "D", "text": "priced like a luxury service." }
+              ],
+              "answer": "B",
+              "analysis": "A 段把夜空说成「共同遗产」变为「需预约才能得到」的稀罕物，是反讽说法：普通人已看不到，只能专程前往受保护的暗夜地点。B 项准确还原这一隐喻。",
+              "type": "词句含义题",
+              "evidencePara": "A",
+              "evidenceText": "a shared inheritance; within a century it has become a rarity"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author imply in the final paragraph?",
+              "options": [
+                { "key": "A", "text": "The problem is neglected because it is easy to fix." },
+                { "key": "B", "text": "Residents oppose the changes that towns have made." },
+                { "key": "C", "text": "The technology required is not yet available." },
+                { "key": "D", "text": "Electricity savings are too small to matter." }
+              ],
+              "answer": "A",
+              "analysis": "E 段末：这个问题「可以关掉」，作者随即讽刺地说「也许正因如此才不被认真对待」——易解决反而导致拖延与忽视，这正是其言外之意。B、C、D 均与原文相反。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "That, perhaps, is exactly why it is not taken seriously"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The greenest building, the architect Carl Elefante remarked in 2007, is the one that already exists. The line is quoted so often that it has become a slogan, but it rests on an awkward arithmetic. Buildings account for roughly 37 per cent of energy-related carbon dioxide emissions, and the cement and steel in their frames have already been paid for in carbon. To demolish a structure is to write off that investment and to borrow again."
+            },
+            {
+              "label": "B",
+              "text": "How large the debt is depends on the building. In a 1970s office tower the structure may represent half of the carbon the building will ever emit; in a lightly built warehouse the share is smaller. Case studies that compare refurbishment with demolition and new construction usually find savings of 50 to 75 per cent, even when the replacement is highly efficient, because the emissions from new concrete and steel arrive in a single burst at the moment when they do the most damage to a carbon budget."
+            },
+            {
+              "label": "C",
+              "text": "Retrofitting has limits that are physical before they are financial. Floor-to-ceiling heights, structural grids and stair cores were designed for a different kind of occupant; asbestos and outdated wiring must be removed; and a deep retrofit can cost more per square metre than a new build. There is also a split incentive: the landlord pays for the work, while the tenant pays the energy bill, so neither has a reason to want the whole package."
+            },
+            {
+              "label": "D",
+              "text": "Policy is beginning to shift the calculation. The European Union's revised directive on the energy performance of buildings requires the worst-performing non-residential stock to be improved rather than replaced, and several cities now apply a 'retrofit first' test before granting permission to demolish. The commercial case has been made in unlikely places: the Empire State Building, a 1931 landmark, was given a deep retrofit between 2009 and 2013 that cut its energy use by 38 per cent without altering its silhouette."
+            },
+            {
+              "label": "E",
+              "text": "The objections are not only economic. Preservationists warn that a retrofit which strips out the fabric of a building leaves a shell with a heritage label; planners note that improving an old industrial district can raise rents until the workshops that gave it character are priced out. These are real losses. But they are arguments about how to reuse, not about whether to, and the alternative on offer — demolition — destroys the fabric far more thoroughly."
+            },
+            {
+              "label": "F",
+              "text": "What the debate has quietly changed is the default. A generation ago the question was why anyone would keep an old building; now the burden falls on those who wish to knock it down to show why the carbon already spent should be discarded. That is a modest shift in the paperwork and a considerable one in how the problem is understood."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does Elefante's remark imply?",
+              "options": [
+                { "key": "A", "text": "Old buildings are more beautiful than new ones." },
+                { "key": "B", "text": "Carbon already invested in a standing building counts in its favour." },
+                { "key": "C", "text": "New buildings should never be constructed." },
+                { "key": "D", "text": "Architects should avoid using cement." }
+              ],
+              "answer": "B",
+              "analysis": "A 段：这句名言背后是一笔「尴尬的算术」——建筑的碳排已由水泥与钢材预付，拆除等于勾销这笔投资再借一次。故其含义是既有建筑的隐含碳应计入其优势。",
+              "type": "推断题",
+              "evidencePara": "A",
+              "evidenceText": "have already been paid for in carbon"
+            },
+            {
+              "number": 52,
+              "stem": "Why is demolition and replacement costly in carbon terms?",
+              "options": [
+                { "key": "A", "text": "It wastes embodied carbon and adds new emissions at once." },
+                { "key": "B", "text": "It requires more energy to heat the new building." },
+                { "key": "C", "text": "It produces waste that cannot be recycled." },
+                { "key": "D", "text": "It takes longer than refurbishment." }
+              ],
+              "answer": "A",
+              "analysis": "B 段：拆除使既有结构的「隐含碳」作废，而新建混凝土与钢材的排放在短期内集中释放，恰在碳预算最紧张时造成最大冲击。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "arrive in a single burst"
+            },
+            {
+              "number": 53,
+              "stem": "The 'split incentive' in the third paragraph refers to a situation where",
+              "options": [
+                { "key": "A", "text": "tenants and landlords disagree about design." },
+                { "key": "B", "text": "the party paying for the work is not the party who saves." },
+                { "key": "C", "text": "governments and developers share the cost." },
+                { "key": "D", "text": "older buildings cannot be insured." }
+              ],
+              "answer": "B",
+              "analysis": "C 段：房东出资改造，租户支付电费，双方都没有动力推动整套改造，这就是「激励错位」——付费者与受益者分离。",
+              "type": "词句含义题",
+              "evidencePara": "C",
+              "evidenceText": "the landlord pays for the work, while the tenant pays the energy bill"
+            },
+            {
+              "number": 54,
+              "stem": "What does the Empire State Building case demonstrate?",
+              "options": [
+                { "key": "A", "text": "Landmarks cannot be made energy-efficient." },
+                { "key": "B", "text": "Deep retrofits can deliver large savings without visible change." },
+                { "key": "C", "text": "Commercial buildings consume more energy than homes." },
+                { "key": "D", "text": "Heritage status raises the cost of renovation." }
+              ],
+              "answer": "B",
+              "analysis": "D 段：1931 年的地标建筑经 2009–2013 年深度改造，能耗下降 38%，外轮廓未变，说明「深度改造」在保持外观的同时能大幅节能。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "cut its energy use by 38 per cent without altering its silhouette"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's attitude towards the preservationists' objections?",
+              "options": [
+                { "key": "A", "text": "They are valid but do not settle the question." },
+                { "key": "B", "text": "They are entirely without merit." },
+                { "key": "C", "text": "They should determine planning policy." },
+                { "key": "D", "text": "They apply only to industrial buildings." }
+              ],
+              "answer": "A",
+              "analysis": "E 段：作者承认这些是「真实的损失」，但随即指出它们关乎「如何再利用」而非「是否再利用」，而拆除对建筑肌理的破坏更彻底——态度是承认其合理却不认为能否定改造。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "These are real losses. But they are arguments about how to reuse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n中国是茶的故乡，饮茶的历史已有数千年。2022年，“中国传统制茶技艺及其相关习俗”被列入联合国教科文组织人类非物质文化遗产代表作名录。这一项目涵盖绿茶、乌龙茶、红茶、黑茶等茶类的制作技艺，也包括以茶待客、以茶祭祀等习俗。制茶讲究看天、看地、看茶，许多关键工序至今仍依靠制茶师的经验与手感来判断。茶不仅是饮品，也是中国人日常交往的重要媒介。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nChina is the home of tea, and the drinking of it goes back thousands of years. In 2022, 'traditional tea processing techniques and associated social practices in China' was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity. The entry covers the techniques used to make green, oolong, black and dark teas, together with customs such as serving tea to guests and offering it in rituals. Processing depends on reading the weather, the soil and the leaf, and many crucial steps — picking, withering, firing, rolling — are still adjusted by eye and by hand rather than measured by instruments. Tea is therefore not merely a drink; it is an important medium of everyday social intercourse, and it has shaped hospitality, ceremony and conversation in China for centuries.\n\n【要点】①「茶的故乡」用 the home of tea，是固定说法；②「饮茶的历史已有数千年」用 goes back thousands of years，避免逐字译 the history of drinking tea has...；③名录全称 Representative List of the Intangible Cultural Heritage of Humanity，介词用 on；④「以茶待客、以茶祭祀」用 serving tea to guests and offering it in rituals，动词名词化更简洁；⑤「看天、看地、看茶」意译为 reading the weather, the soil and the leaf，保留三层并列；⑥「依靠经验与手感」用 adjusted by eye and by hand rather than measured by instruments，形成对照；⑦「重要媒介」用 an important medium of everyday social intercourse。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

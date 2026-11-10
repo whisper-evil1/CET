@@ -1,0 +1,1403 @@
+{
+  "id": "cet4-2026-06-s2",
+  "level": "CET4",
+  "year": 2026,
+  "month": 6,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "For this part, you are allowed 30 minutes to write an essay on why college students should take part in voluntary work. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nWhy College Students Should Do Voluntary Work\n\nVoluntary work is often treated as something students do to fill a line on a CV. In fact it is one of the few activities in college that teaches lessons no lecture can.\n\nFirst, it puts students in front of people whose lives are not like their own. A student who spends two hours a week helping elderly residents learns to listen, to explain and to be patient. Second, it exposes the gap between a plan and reality. Volunteers who arrive with a neat schedule usually find that the timetable has to be rewritten on the spot, and that is excellent training for any job. Third, it makes the campus less separate from the city around it. A university that only takes from its neighbourhood will not be trusted by it.\n\nFor these reasons, every student should try at least one term of voluntary work. Two hours a week is enough, but the commitment should be regular, because reliability is the part that matters most.\n\n（约 172 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Rooftop solar panels are a familiar sight in many suburbs, but they remain out of reach for a large share of the population. People who rent their homes cannot decide what goes on the roof, and many older buildings are simply not 26______ enough to carry the weight of the panels. Community solar offers a way around these limits. Instead of installing equipment at home, residents buy a share of a larger solar farm built on unused land nearby, and the electricity it produces is 27______ to their monthly bills as a credit. The model has spread quickly in the past five years. In one state, community projects grew from almost nothing to more than four hundred sites, and regulators now 28______ them as a standard part of the grid rather than an experiment. Supporters point out that the benefits are not only environmental. Because subscribers can 29______ their share when they move, the scheme suits young people who expect to change addresses several times. There are 30______ as well. A project needs a site close to the customers it serves, and land near cities is expensive. Developers also complain that connecting to the local network can take years, since the queues for 31______ are long. Consumer groups warn that some contracts are hard to read, with fees that 32______ quietly after the first year. Even so, the direction seems clear. As panel prices fall and grids grow more 33______, the argument for shared generation becomes stronger. What community solar really sells is not electricity but 34______: a household that cannot put a panel on its own roof can still take part. For a growing number of families, that is 35______."
+            },
+            {
+              "label": "词库",
+              "text": "A) access   B) applied   C) apply   D) blame   E) cheap   F) clean   G) connection   H) costly   I) drawbacks   J) enough   K) flexible   L) rise   M) strong   N) transfer   O) treat"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "applied"
+                },
+                {
+                  "key": "C",
+                  "text": "apply"
+                },
+                {
+                  "key": "D",
+                  "text": "blame"
+                },
+                {
+                  "key": "E",
+                  "text": "cheap"
+                },
+                {
+                  "key": "F",
+                  "text": "clean"
+                },
+                {
+                  "key": "G",
+                  "text": "connection"
+                },
+                {
+                  "key": "H",
+                  "text": "costly"
+                },
+                {
+                  "key": "I",
+                  "text": "drawbacks"
+                },
+                {
+                  "key": "J",
+                  "text": "enough"
+                },
+                {
+                  "key": "K",
+                  "text": "flexible"
+                },
+                {
+                  "key": "L",
+                  "text": "rise"
+                },
+                {
+                  "key": "M",
+                  "text": "strong"
+                },
+                {
+                  "key": "N",
+                  "text": "transfer"
+                },
+                {
+                  "key": "O",
+                  "text": "treat"
+                }
+              ],
+              "answer": "M",
+              "analysis": "空后是 carry the weight of the panels（承受电池板重量），说的是楼体结构是否结实，选 strong；clean/modern 与承重无关。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "carry the weight of the panels"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "applied"
+                },
+                {
+                  "key": "C",
+                  "text": "apply"
+                },
+                {
+                  "key": "D",
+                  "text": "blame"
+                },
+                {
+                  "key": "E",
+                  "text": "cheap"
+                },
+                {
+                  "key": "F",
+                  "text": "clean"
+                },
+                {
+                  "key": "G",
+                  "text": "connection"
+                },
+                {
+                  "key": "H",
+                  "text": "costly"
+                },
+                {
+                  "key": "I",
+                  "text": "drawbacks"
+                },
+                {
+                  "key": "J",
+                  "text": "enough"
+                },
+                {
+                  "key": "K",
+                  "text": "flexible"
+                },
+                {
+                  "key": "L",
+                  "text": "rise"
+                },
+                {
+                  "key": "M",
+                  "text": "strong"
+                },
+                {
+                  "key": "N",
+                  "text": "transfer"
+                },
+                {
+                  "key": "O",
+                  "text": "treat"
+                }
+              ],
+              "answer": "B",
+              "analysis": "be applied to the bills as a credit：把发电量折算成抵扣「记入」账单，与后文 credit（抵扣额）呼应。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "as a credit"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "applied"
+                },
+                {
+                  "key": "C",
+                  "text": "apply"
+                },
+                {
+                  "key": "D",
+                  "text": "blame"
+                },
+                {
+                  "key": "E",
+                  "text": "cheap"
+                },
+                {
+                  "key": "F",
+                  "text": "clean"
+                },
+                {
+                  "key": "G",
+                  "text": "connection"
+                },
+                {
+                  "key": "H",
+                  "text": "costly"
+                },
+                {
+                  "key": "I",
+                  "text": "drawbacks"
+                },
+                {
+                  "key": "J",
+                  "text": "enough"
+                },
+                {
+                  "key": "K",
+                  "text": "flexible"
+                },
+                {
+                  "key": "L",
+                  "text": "rise"
+                },
+                {
+                  "key": "M",
+                  "text": "strong"
+                },
+                {
+                  "key": "N",
+                  "text": "transfer"
+                },
+                {
+                  "key": "O",
+                  "text": "treat"
+                }
+              ],
+              "answer": "O",
+              "analysis": "treat A as B 是固定搭配；「不再当作实验，而当作电网的标准组成部分」。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "rather than an experiment"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "applied"
+                },
+                {
+                  "key": "C",
+                  "text": "apply"
+                },
+                {
+                  "key": "D",
+                  "text": "blame"
+                },
+                {
+                  "key": "E",
+                  "text": "cheap"
+                },
+                {
+                  "key": "F",
+                  "text": "clean"
+                },
+                {
+                  "key": "G",
+                  "text": "connection"
+                },
+                {
+                  "key": "H",
+                  "text": "costly"
+                },
+                {
+                  "key": "I",
+                  "text": "drawbacks"
+                },
+                {
+                  "key": "J",
+                  "text": "enough"
+                },
+                {
+                  "key": "K",
+                  "text": "flexible"
+                },
+                {
+                  "key": "L",
+                  "text": "rise"
+                },
+                {
+                  "key": "M",
+                  "text": "strong"
+                },
+                {
+                  "key": "N",
+                  "text": "transfer"
+                },
+                {
+                  "key": "O",
+                  "text": "treat"
+                }
+              ],
+              "answer": "N",
+              "analysis": "搬家时能把份额「转移」给新地址的用户，才适合常搬家的年轻人，transfer 与 move 对应。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "when they move"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "applied"
+                },
+                {
+                  "key": "C",
+                  "text": "apply"
+                },
+                {
+                  "key": "D",
+                  "text": "blame"
+                },
+                {
+                  "key": "E",
+                  "text": "cheap"
+                },
+                {
+                  "key": "F",
+                  "text": "clean"
+                },
+                {
+                  "key": "G",
+                  "text": "connection"
+                },
+                {
+                  "key": "H",
+                  "text": "costly"
+                },
+                {
+                  "key": "I",
+                  "text": "drawbacks"
+                },
+                {
+                  "key": "J",
+                  "text": "enough"
+                },
+                {
+                  "key": "K",
+                  "text": "flexible"
+                },
+                {
+                  "key": "L",
+                  "text": "rise"
+                },
+                {
+                  "key": "M",
+                  "text": "strong"
+                },
+                {
+                  "key": "N",
+                  "text": "transfer"
+                },
+                {
+                  "key": "O",
+                  "text": "treat"
+                }
+              ],
+              "answer": "I",
+              "analysis": "上文讲优点，此句转折后列举选址贵、并网慢、合同难懂，都是缺点，drawbacks。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "land near cities is expensive"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "applied"
+                },
+                {
+                  "key": "C",
+                  "text": "apply"
+                },
+                {
+                  "key": "D",
+                  "text": "blame"
+                },
+                {
+                  "key": "E",
+                  "text": "cheap"
+                },
+                {
+                  "key": "F",
+                  "text": "clean"
+                },
+                {
+                  "key": "G",
+                  "text": "connection"
+                },
+                {
+                  "key": "H",
+                  "text": "costly"
+                },
+                {
+                  "key": "I",
+                  "text": "drawbacks"
+                },
+                {
+                  "key": "J",
+                  "text": "enough"
+                },
+                {
+                  "key": "K",
+                  "text": "flexible"
+                },
+                {
+                  "key": "L",
+                  "text": "rise"
+                },
+                {
+                  "key": "M",
+                  "text": "strong"
+                },
+                {
+                  "key": "N",
+                  "text": "transfer"
+                },
+                {
+                  "key": "O",
+                  "text": "treat"
+                }
+              ],
+              "answer": "G",
+              "analysis": "前句 connecting to the local network 已点明是「并网接入」，排队的正是 connection。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "connecting to the local network"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "applied"
+                },
+                {
+                  "key": "C",
+                  "text": "apply"
+                },
+                {
+                  "key": "D",
+                  "text": "blame"
+                },
+                {
+                  "key": "E",
+                  "text": "cheap"
+                },
+                {
+                  "key": "F",
+                  "text": "clean"
+                },
+                {
+                  "key": "G",
+                  "text": "connection"
+                },
+                {
+                  "key": "H",
+                  "text": "costly"
+                },
+                {
+                  "key": "I",
+                  "text": "drawbacks"
+                },
+                {
+                  "key": "J",
+                  "text": "enough"
+                },
+                {
+                  "key": "K",
+                  "text": "flexible"
+                },
+                {
+                  "key": "L",
+                  "text": "rise"
+                },
+                {
+                  "key": "M",
+                  "text": "strong"
+                },
+                {
+                  "key": "N",
+                  "text": "transfer"
+                },
+                {
+                  "key": "O",
+                  "text": "treat"
+                }
+              ],
+              "answer": "L",
+              "analysis": "合同难懂、第一年后费用「悄悄上涨」，是消费者组织警告的内容，rise 与 quietly 搭配表隐性涨价。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "some contracts are hard to read"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "applied"
+                },
+                {
+                  "key": "C",
+                  "text": "apply"
+                },
+                {
+                  "key": "D",
+                  "text": "blame"
+                },
+                {
+                  "key": "E",
+                  "text": "cheap"
+                },
+                {
+                  "key": "F",
+                  "text": "clean"
+                },
+                {
+                  "key": "G",
+                  "text": "connection"
+                },
+                {
+                  "key": "H",
+                  "text": "costly"
+                },
+                {
+                  "key": "I",
+                  "text": "drawbacks"
+                },
+                {
+                  "key": "J",
+                  "text": "enough"
+                },
+                {
+                  "key": "K",
+                  "text": "flexible"
+                },
+                {
+                  "key": "L",
+                  "text": "rise"
+                },
+                {
+                  "key": "M",
+                  "text": "strong"
+                },
+                {
+                  "key": "N",
+                  "text": "transfer"
+                },
+                {
+                  "key": "O",
+                  "text": "treat"
+                }
+              ],
+              "answer": "K",
+              "analysis": "电池板降价、电网更能「灵活」接纳分散电源，共享发电的理由才更强，flexible 与 shared generation 对应。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "the argument for shared generation becomes stronger"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "applied"
+                },
+                {
+                  "key": "C",
+                  "text": "apply"
+                },
+                {
+                  "key": "D",
+                  "text": "blame"
+                },
+                {
+                  "key": "E",
+                  "text": "cheap"
+                },
+                {
+                  "key": "F",
+                  "text": "clean"
+                },
+                {
+                  "key": "G",
+                  "text": "connection"
+                },
+                {
+                  "key": "H",
+                  "text": "costly"
+                },
+                {
+                  "key": "I",
+                  "text": "drawbacks"
+                },
+                {
+                  "key": "J",
+                  "text": "enough"
+                },
+                {
+                  "key": "K",
+                  "text": "flexible"
+                },
+                {
+                  "key": "L",
+                  "text": "rise"
+                },
+                {
+                  "key": "M",
+                  "text": "strong"
+                },
+                {
+                  "key": "N",
+                  "text": "transfer"
+                },
+                {
+                  "key": "O",
+                  "text": "treat"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后解释：自家屋顶装不了电池板的家庭也能参与，卖的其实是「参与的机会」，即 access。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "can still take part"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "applied"
+                },
+                {
+                  "key": "C",
+                  "text": "apply"
+                },
+                {
+                  "key": "D",
+                  "text": "blame"
+                },
+                {
+                  "key": "E",
+                  "text": "cheap"
+                },
+                {
+                  "key": "F",
+                  "text": "clean"
+                },
+                {
+                  "key": "G",
+                  "text": "connection"
+                },
+                {
+                  "key": "H",
+                  "text": "costly"
+                },
+                {
+                  "key": "I",
+                  "text": "drawbacks"
+                },
+                {
+                  "key": "J",
+                  "text": "enough"
+                },
+                {
+                  "key": "K",
+                  "text": "flexible"
+                },
+                {
+                  "key": "L",
+                  "text": "rise"
+                },
+                {
+                  "key": "M",
+                  "text": "strong"
+                },
+                {
+                  "key": "N",
+                  "text": "transfer"
+                },
+                {
+                  "key": "O",
+                  "text": "treat"
+                }
+              ],
+              "answer": "J",
+              "analysis": "结尾落到普通家庭的感受：「能参与」这一点对他们来说已经足够了，that is enough。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "For a growing number of families"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The first reaction on many campuses was alarm. Universities updated their rules on academic honesty, and a few departments stopped setting essays that students could finish at home. Software designed to detect machine-written text was bought and then quietly dropped, because it flagged the work of careful students as often as it caught the careless. Teachers who had spent years marking essays found that the evidence they were given proved very little."
+            },
+            {
+              "label": "B",
+              "text": "Yet the picture inside the classroom is less dramatic. Surveys of several thousand students suggest that most use the new tools to begin a task: to list possible arguments, to check whether a paragraph makes sense, or to have a term explained. Only a small minority report handing in text they have never read. Students describe the tool as a patient tutor that never sighs at a second question."
+            },
+            {
+              "label": "C",
+              "text": "The harder question is what an essay is for. If the task is to produce a polished page, a machine can now do much of it. If the task is to show how a mind works through a problem, then the conditions of assessment have to change. Some departments have moved part of their marks to timed writing in class, and a few now ask students to explain their argument aloud before a tutor."
+            },
+            {
+              "label": "D",
+              "text": "Early evidence on learning is mixed but not mysterious. Students who asked the tool for comments on their own draft, and then rewrote it themselves, improved more than a control group. Students who asked it to write the first draft did worse in later tests, and their confidence rose faster than their skill. The difference seems to be whether the student stays in charge of the argument."
+            },
+            {
+              "label": "E",
+              "text": "Money complicates the story. The free version answers quickly but stops when a question grows difficult; the paid one keeps going. Students who can afford a subscription get help with longer texts and better comments. Several universities have responded by buying campus licences, so that access no longer depends on a family budget, though smaller colleges say they cannot match the cost."
+            },
+            {
+              "label": "F",
+              "text": "What most teachers now ask for is neither a ban nor a free-for-all, but a clear statement of what is allowed in each course. That means telling students which uses are permitted, showing them how the tool fails, and rewriting honour codes in language that refers to the things students actually use. Rules that only describe punishment, teachers say, are read once and then forgotten."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Some departments simply stopped setting essays that could be completed at home.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：学校修改学术诚信规定，少数院系「不再布置可以带回家完成的论文」。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "stopped setting essays that students could finish at home"
+            },
+            {
+              "number": 37,
+              "stem": "Most students say they use the technology to get started rather than to submit finished work.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph B"
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段：多数学生用工具「开始一项任务」——列论点、检查段落、让人解释术语；只有少数交出没读过的文字。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "most use the new tools to begin a task"
+            },
+            {
+              "number": 38,
+              "stem": "How student work is assessed has become the centre of the discussion.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph B"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：更难的问题是「论文是为了什么」，于是考核条件要变——部分分数移到课堂限时写作。",
+              "type": "主旨题",
+              "evidencePara": "C",
+              "evidenceText": "the conditions of assessment have to change"
+            },
+            {
+              "number": 39,
+              "stem": "Whether students gain depends on how they treat the suggestions they receive.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：请工具点评自己草稿并亲手改写的人进步更大，关键在「学生是否仍然主导论证」。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "whether the student stays in charge of the argument"
+            },
+            {
+              "number": 40,
+              "stem": "Students who can pay get more help than those who cannot.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：免费版遇到难题就停，付费版能继续，买得起订阅的学生得到更长文本和更好反馈。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "Students who can afford a subscription"
+            },
+            {
+              "number": 41,
+              "stem": "Rules should say what is permitted instead of only describing punishment.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph C"
+                }
+              ],
+              "answer": "C",
+              "analysis": "F 段：教师想要的既不是禁令也不是放任，而是逐门课说明「允许什么」，只讲处罚的规定读一次就被忘掉。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "Rules that only describe punishment"
+            },
+            {
+              "number": 42,
+              "stem": "Detection software turned out to be poor evidence of cheating.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph A"
+                }
+              ],
+              "answer": "D",
+              "analysis": "A 段：检测软件把认真写作的学生也标出来，误判和命中一样多，于是被悄悄弃用。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "flagged the work of careful students as often as it caught the careless"
+            },
+            {
+              "number": 43,
+              "stem": "Explaining an essay face to face is now part of some courses.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph B"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段末：少数院系要求学生在导师面前口头讲解自己的论证。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "explain their argument aloud before a tutor"
+            },
+            {
+              "number": 44,
+              "stem": "Letting the tool produce a first draft was linked to slower improvement.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph A"
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段：让工具写初稿的人在后来的测试中表现更差，自信涨得比能力快。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "asked it to write the first draft did worse in later tests"
+            },
+            {
+              "number": 45,
+              "stem": "Universities are buying group subscriptions to narrow the gap.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "D",
+              "analysis": "E 段：多所大学购买校园授权（campus licences），使能否使用不再取决于家庭预算。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "buying campus licences"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A study that followed more than eight thousand adults for four years has added a familiar item to the list of cheap health habits: a daily walk. Participants who walked for about thirty minutes on most days reported fewer days of low mood than those who did not, and the gap held after the researchers adjusted for income, age and smoking. The effect was modest, roughly one fewer bad day a month, but it appeared in every age group and in every country in the sample."
+            },
+            {
+              "label": "B",
+              "text": "Why walking should affect mood is still argued about. Three explanations are usually offered. Daylight matters, especially in winter. Mild exercise changes the chemistry of stress. And a walk interrupts rumination, the loop of repeating the same worried thought. Of these, the evidence is strongest for the third: people who walked in a park and people who walked along a busy road improved by similar amounts, which suggests that green space matters less than the break itself."
+            },
+            {
+              "label": "C",
+              "text": "Other research points to a second benefit. In a series of experiments at Stanford, students were asked to think of new uses for everyday objects while walking on a treadmill or while sitting at a desk. Those who walked produced about sixty per cent more ideas, and the advantage lasted for a short time after they sat down again. The authors are careful to say that walking does not make people clever; it makes it easier to generate possibilities, not to judge them."
+            },
+            {
+              "label": "D",
+              "text": "The limits of this work deserve attention. Most studies depend on what people say about their own mood, which is easily misremembered. Walking beside heavy traffic may cancel the benefit, and in very hot cities the safest hour is early morning. None of the findings suggests that a walk can replace treatment for depression; the studies compare ordinary habits, not medicines."
+            },
+            {
+              "label": "E",
+              "text": "For anyone who wants to try, the practical advice is dull and useful. Attach the walk to something that already happens, such as the trip after lunch. Ten minutes counts, and three short walks are easier to keep than one long one. Company helps: people walk further when someone is waiting for them. Pace matters less than regularity, and a walk abandoned in the third week helps nobody."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What did the four-year study find about a daily walk?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was linked to fewer days of low mood."
+                },
+                {
+                  "key": "B",
+                  "text": "It worked only for people over sixty."
+                },
+                {
+                  "key": "C",
+                  "text": "It removed low mood completely."
+                },
+                {
+                  "key": "D",
+                  "text": "It was as strong as medical treatment."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：每天走约三十分钟的人报告的「情绪低落天数更少」，且控制收入、年龄、吸烟后差距仍存在；效果只是 modest。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "reported fewer days of low mood"
+            },
+            {
+              "number": 47,
+              "stem": "Which explanation for the mood effect has the strongest support?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Changes in the chemistry of stress."
+                },
+                {
+                  "key": "B",
+                  "text": "The presence of green space."
+                },
+                {
+                  "key": "C",
+                  "text": "Exposure to daylight."
+                },
+                {
+                  "key": "D",
+                  "text": "A break from repeating the same worried thought."
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段：三种解释中证据最强的是打断 rumination（反复想同一件烦心事）；公园与马路旁效果相近，说明绿地并非关键。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "the evidence is strongest for the third"
+            },
+            {
+              "number": 48,
+              "stem": "In the Stanford experiments, walking mainly helped students to",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "work faster when they sat down."
+                },
+                {
+                  "key": "B",
+                  "text": "remember everyday objects better."
+                },
+                {
+                  "key": "C",
+                  "text": "judge ideas more strictly."
+                },
+                {
+                  "key": "D",
+                  "text": "produce a larger number of ideas."
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段：走路的学生想出的新用途多约六成，作者强调它让人「更容易产生可能性」，而不是更会判断。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "about sixty per cent more ideas"
+            },
+            {
+              "number": 49,
+              "stem": "What limitation of the research does the author stress?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Walking was tested only in winter."
+                },
+                {
+                  "key": "B",
+                  "text": "The samples were too small to compare."
+                },
+                {
+                  "key": "C",
+                  "text": "The participants were all office workers."
+                },
+                {
+                  "key": "D",
+                  "text": "It relies on people's own reports of mood."
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：多数研究依赖受试者自述情绪，而自述很容易记错；这正是作者强调的局限。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "depend on what people say about their own mood"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author suggest for building the habit?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Walking fast for a full hour each day."
+                },
+                {
+                  "key": "B",
+                  "text": "Walking only in parks and quiet streets."
+                },
+                {
+                  "key": "C",
+                  "text": "Tying the walk to something already in one's routine."
+                },
+                {
+                  "key": "D",
+                  "text": "Finding a partner who walks at the same pace."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段：把散步「挂在」已经发生的事上（如午饭后出门），十分钟也算；规律比速度重要。",
+              "type": "主旨题",
+              "evidencePara": "E",
+              "evidenceText": "Attach the walk to something that already happens"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For two years, companies in Britain, Iceland and Japan have been running much the same experiment: pay the same salary, work four days instead of five, and see what happens. The largest trial, covering sixty-one firms and nearly three thousand employees, reported that revenue stayed roughly flat, resignations fell by more than half, and the number of sick days dropped sharply. Most of the firms decided to keep the shorter week when the trial ended."
+            },
+            {
+              "label": "B",
+              "text": "The interesting part is how the hours were saved. Almost none of the companies simply squeezed five days of work into four. They cut the number of meetings, shortened those that remained, and gave people blocks of uninterrupted time. One software firm banned internal email before noon; another replaced daily progress reports with a single shared page. Employees said the change made visible how much of the old week had been spent waiting and repeating."
+            },
+            {
+              "label": "C",
+              "text": "The model does not fit every workplace. Offices where people produce reports, designs or code adapted without much trouble. Hospitals, shops and call centres need someone present at all times, so a shorter week for one group means longer shifts or new hires for another, and both cost money. Managers in these sectors also point out that the trial results come mostly from firms that chose to take part, which tends to make them look better than they are."
+            },
+            {
+              "label": "D",
+              "text": "Sceptics raise two further points. The first is novelty: any change, even a bad one, tends to lift morale for a year. The second is measurement. In jobs where output is hard to count, firms may report satisfaction instead of productivity, and the two are not the same thing. A shorter week that leaves customers waiting is not a success, however happy the staff feel."
+            },
+            {
+              "label": "E",
+              "text": "Even with these doubts, the trials have shifted the argument. The question is no longer whether five days is natural, since it is not; it is a historical accident of factory law. The question is whether the hours a firm pays for are the hours it actually needs. On that point the evidence is consistent: a surprising amount of the working week is spent on activities that nobody would miss."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What did the largest trial report?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Revenue was almost unchanged and fewer staff left."
+                },
+                {
+                  "key": "B",
+                  "text": "Sick days increased among younger staff."
+                },
+                {
+                  "key": "C",
+                  "text": "Most firms returned to five days."
+                },
+                {
+                  "key": "D",
+                  "text": "Revenue rose sharply in most firms."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段：营收大体持平（roughly flat），离职减少一半以上，病假明显下降，多数公司保留四天制。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "resignations fell by more than half"
+            },
+            {
+              "number": 52,
+              "stem": "How did the companies manage to save working time?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By extending each working day by two hours."
+                },
+                {
+                  "key": "B",
+                  "text": "By moving most work to the weekend."
+                },
+                {
+                  "key": "C",
+                  "text": "By cutting and shortening meetings and protecting quiet hours."
+                },
+                {
+                  "key": "D",
+                  "text": "By reducing pay and hiring fewer people."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段：几乎没有公司把五天的活压进四天，而是减少会议、缩短会议、给出整块的「不被打断时间」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "cut the number of meetings, shortened those that remained"
+            },
+            {
+              "number": 53,
+              "stem": "Why is the four-day week difficult in hospitals and shops?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their output cannot be measured at all."
+                },
+                {
+                  "key": "B",
+                  "text": "Someone must be on duty at all times."
+                },
+                {
+                  "key": "C",
+                  "text": "They are not allowed to hire new staff."
+                },
+                {
+                  "key": "D",
+                  "text": "Their staff are unwilling to change."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：医院、商店、呼叫中心「任何时刻都需要有人在岗」，一组人少上一天，就得靠别人延长班次或新招人。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "need someone present at all times"
+            },
+            {
+              "number": 54,
+              "stem": "What is the novelty objection?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Employees forget their training in a shorter week."
+                },
+                {
+                  "key": "B",
+                  "text": "Firms in the trial were unusually profitable."
+                },
+                {
+                  "key": "C",
+                  "text": "The trials lasted too long to be compared."
+                },
+                {
+                  "key": "D",
+                  "text": "A new arrangement tends to raise morale only for a while."
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：第一个质疑是「新鲜感」——任何改变，哪怕是不好的改变，也会在一年内提振士气。",
+              "type": "词义题",
+              "evidencePara": "D",
+              "evidenceText": "any change, even a bad one, tends to lift morale for a year"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's conclusion?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Firms should pay staff by the hour."
+                },
+                {
+                  "key": "B",
+                  "text": "A great deal of the working week is wasted."
+                },
+                {
+                  "key": "C",
+                  "text": "The five-day week is a law of nature."
+                },
+                {
+                  "key": "D",
+                  "text": "The trials prove that shorter weeks harm service."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段末：证据一致地显示，一周里有相当多时间花在「没人会想念」的事情上；五天工作制只是工厂法的历史产物。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "spent on activities that nobody would miss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n在中国，移动支付已经成为日常生活的一部分。无论是在城市还是在乡镇，人们出门只需带一部手机，买菜、乘公交、交水电费都可以用手机完成。移动支付不仅方便了消费者，也帮助小商贩扩大了生意。一些老年人起初不太习惯，但在家人的帮助下也慢慢学会了使用。如今，这种无现金的生活方式正被更多人接受。",
+              "analysis": "【参考译文】\nIn China, mobile payment has become part of daily life. Whether in cities or in towns and villages, people need to take only a phone with them when they go out, and they can buy vegetables, take a bus and pay water and electricity bills with it. Mobile payment has not only made shopping easier for consumers but also helped small traders expand their business. Some elderly people were not used to it at first, but with the help of their families they have gradually learned to use it. Today this cashless way of life is being accepted by more and more people.\n\n【要点】①「无论是……还是……」用 whether... or...；②「只需带一部手机」用 need to take only a phone；③「不仅……也……」用 not only... but also...，注意两个分句的主语一致；④末句用现在进行时被动 is being accepted，体现「正被接受」。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

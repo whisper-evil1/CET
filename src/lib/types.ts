@@ -123,6 +123,12 @@ export type PaperSummary = {
   level: string;
   year: number | null;
   month: number | null;
+  /** 同场考试的第几套（1/2/3） */
+  setNo: number | null;
+  /** official = 官方原题；simulated = 按官方结构编写的仿真材料 */
+  origin: string;
+  /** ready = 正文齐备可练；draft = 结构已建、正文待补 */
+  status: string;
   passageCount: number;
   questionCount: number;
   /** 已作答题数，用于首页进度 */
@@ -153,6 +159,71 @@ export type VocabItem = {
   reviewCount: number;
   status: "learning" | "mastered";
   createdAt: string;
+  /* ---- v2.1 记忆曲线 ---- */
+  /** 下次该复习的时间（ISO）；null = 立即到期 */
+  dueAt: string | null;
+  /** 到期状态文案，如「逾期 3 天」「5 天后」「新词」 */
+  dueLabel: string;
+  overdue: boolean;
+  intervalDays: number;
+  ease: number;
+  lapses: number;
+  /** 0-100 优先级，列表排序与展示用 */
+  priority: number;
+  /** 一行说明为什么排在这个优先级 */
+  reason: string;
+  /** COCA/BNC 综合词频排名 */
+  examRank: number | null;
+  /** "cet4,cet6" */
+  examTags: string | null;
+  source: "lookup" | "wordbook" | "import";
+  wordbookId: string | null;
+};
+
+/** 今日队列响应 */
+export type VocabQueue = {
+  items: VocabItem[];
+  /** 学习中的总数 */
+  learningCount: number;
+  /** 已到复习期的数量 */
+  dueCount: number;
+  /** 从未学过的新词数量 */
+  newCount: number;
+  /** 已掌握数量 */
+  masteredCount: number;
+};
+
+/** 词书元信息 */
+export type WordbookMeta = {
+  id: string;
+  name: string;
+  level: string;
+  rule: string;
+  count: number;
+  /** 已经导入到当前用户生词本的条数 */
+  imported: number;
+};
+
+/** 词书内的一条词 */
+export type WordbookEntry = {
+  word: string;
+  rank: number;
+  collins: number;
+  oxford: boolean;
+  phonetic: string | null;
+  definitions: Definition[];
+  imported: boolean;
+};
+
+export type ImportResult = {
+  total: number;
+  added: number;
+  updated: number;
+  skipped: number;
+  /** 解析不出释义的词（仍会入库，待 /api/vocab/refresh 补） */
+  unresolved: string[];
+  /** 被跳过的原文行，最多 10 条，便于用户自查格式 */
+  rejected: string[];
 };
 
 export type LearningStats = {
@@ -196,4 +267,39 @@ export type CheckinData = {
   monthDays: number;
   streak: number;
   calendar: { date: string; levels: ("CET4" | "CET6")[] }[];
+};
+
+/** 错题聚合概览（/api/mistakes） */
+export type MistakeSummary = {
+  answeredCount: number;
+  correctCount: number;
+  wrongCount: number;
+  accuracy: number;
+  /** 错题按题型分布（降序） */
+  byType: { type: string; count: number }[];
+  /** 错题按篇章/试卷分布（降序） */
+  byPaper: { paperId: string; title: string; wrongCount: number }[];
+  /** 错题中误选的选项字母分布（降序），用于提示最易踩的干扰项 */
+  byWrongChoice: { choice: string; count: number }[];
+};
+
+/** 单条错题（/api/mistakes） */
+export type MistakeItem = {
+  id: string;
+  questionId: string;
+  /** 用户选错的选项字母 */
+  choice: string;
+  createdAt: string;
+  question: {
+    number: number;
+    stem: string;
+    options: QuestionOption[];
+    answer: string;
+    analysis: string;
+    optionAnalysis: OptionAnalysis | null;
+    type: string | null;
+    passageTitle: string | null;
+    paperTitle: string;
+    evidenceText: string | null;
+  };
 };

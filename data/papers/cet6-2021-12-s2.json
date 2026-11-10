@@ -1,0 +1,1101 @@
+{
+  "id": "cet6-2021-12-s2",
+  "level": "CET6",
+  "year": 2021,
+  "month": 12,
+  "setNo": 2,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "type": "writing",
+              "stem": "Directions: For this part, you are allowed 30 minutes to write an essay on whether paying for knowledge - online courses, audio books and subscription lectures - is worth the money. You should write at least 150 words but no more than 200 words.",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考范文】\nIs Paying for Knowledge a Waste of Money?\n\nThe complaint that paid knowledge is a tax on the gullible has a long history: every generation has had its correspondence course and its get-rich-quick seminar. What is new is the scale, and the suspicion is not unreasonable. Much of what a subscription sells is the feeling of having learned something, and a lecture listened to on a crowded train competes poorly with a book read slowly.\n\nYet the charge of fraud is too broad. A well-made course does something a free video rarely does: it sequences the material, sets exercises, and provides a person who notices when you are wrong. For a working adult with two hours a week and no idea where to begin, that structure is the product, and it is worth paying for. The alternative is not free learning; it is no learning at all.\n\nThe honest test is not whether knowledge is sold, but whether the buyer can tell what she has bought. A course that promises a skill and delivers a certificate is a bad purchase; one that promises a habit and delivers a schedule may be a good one. Buyers should ask what they will be able to do at the end, and sellers should be required to say.\n\nSo the answer is conditional. Paying for knowledge is not a tax on stupidity; paying for the imitation of knowledge is.\n\n（约 215 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A wetland is not an empty place. To a casual visitor a marsh looks like water that has failed to become land, but to a million wading birds it is a 26______ of food and rest on a journey that may run from the Arctic to the Sahel. The shallow water warms quickly, so insects hatch early; the mud is full of invertebrates; and the reeds offer cover from predators. These qualities cannot be 27______ elsewhere: a drained field has none of them, however green it looks in summer."
+            },
+            {
+              "label": "B",
+              "text": "The trouble is that wetlands sit on land that others want. For two centuries engineers have regarded a marsh as a 28______ to be corrected, and have drained it for farmland, built on it, or straightened the rivers that feed it. Globally, perhaps a third of the resource has gone since 1970, and with it the 29______ of sites that migrating flocks relied on. A species that loses one staging ground may 30______ the loss by flying further, but a species that loses three may not arrive at all."
+            },
+            {
+              "label": "C",
+              "text": "Protection has therefore become a matter of 31______ rather than of sentiment. Listing a site under an international convention does not by itself stop drainage, but it gives a government a reason to refuse a permit, and it 32______ local groups with an argument they can use in court. Where protected areas are also 33______ by the people who live in them - through grazing rights, reed cutting or controlled fishing - the boundaries tend to hold, because the neighbours have a stake in the birds coming back. The most 34______ lesson of recent decades is that water can be put back: restored marshes have reattracted species within a few years, provided the hydrology is right and the surrounding farmland is not still 35______ them with fertiliser."
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "source"
+                },
+                {
+                  "key": "B",
+                  "text": "burden"
+                },
+                {
+                  "key": "C",
+                  "text": "border"
+                },
+                {
+                  "key": "D",
+                  "text": "victim"
+                }
+              ],
+              "answer": "A",
+              "analysis": "a source of food and rest 是固定搭配，指食物与歇脚之处的「来源」；后文列举昆虫、泥中无脊椎动物与芦苇，正是解释这里为何能提供补给。",
+              "type": "搭配题",
+              "evidencePara": "A",
+              "evidenceText": "of food and rest"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "replicated"
+                },
+                {
+                  "key": "B",
+                  "text": "measured"
+                },
+                {
+                  "key": "C",
+                  "text": "forgiven"
+                },
+                {
+                  "key": "D",
+                  "text": "delayed"
+                }
+              ],
+              "answer": "A",
+              "analysis": "cannot be replicated elsewhere 意为「无法在别处复制」；冒号后「排干的农田一点也没有这些条件」正是不可复制的注解。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "a drained field has none of them"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "defect"
+                },
+                {
+                  "key": "B",
+                  "text": "treasure"
+                },
+                {
+                  "key": "C",
+                  "text": "shelter"
+                },
+                {
+                  "key": "D",
+                  "text": "witness"
+                }
+              ],
+              "answer": "A",
+              "analysis": "regard A as B 结构中，B 应体现工程师的负面态度；to be corrected（有待纠正）说明他们把沼泽看成「缺陷」。",
+              "type": "推断题",
+              "evidencePara": "B",
+              "evidenceText": "to be corrected"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "network"
+                },
+                {
+                  "key": "B",
+                  "text": "absence"
+                },
+                {
+                  "key": "C",
+                  "text": "weight"
+                },
+                {
+                  "key": "D",
+                  "text": "colour"
+                }
+              ],
+              "answer": "A",
+              "analysis": "候鸟依赖的是一连串停歇地构成的「网络」，下句说失去一处可绕行、失去三处就到不了，正说明各地相互关联。",
+              "type": "逻辑题",
+              "evidencePara": "B",
+              "evidenceText": "A species that loses one staging ground"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "offset"
+                },
+                {
+                  "key": "B",
+                  "text": "repeat"
+                },
+                {
+                  "key": "C",
+                  "text": "record"
+                },
+                {
+                  "key": "D",
+                  "text": "notice"
+                }
+              ],
+              "answer": "A",
+              "analysis": "offset the loss by flying further 意为「靠多飞一段来弥补损失」；but 之后「失去三处就到不了」形成递进转折。",
+              "type": "词义题",
+              "evidencePara": "B",
+              "evidenceText": "by flying further"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "law"
+                },
+                {
+                  "key": "B",
+                  "text": "luck"
+                },
+                {
+                  "key": "C",
+                  "text": "taste"
+                },
+                {
+                  "key": "D",
+                  "text": "habit"
+                }
+              ],
+              "answer": "A",
+              "analysis": "rather than sentiment 提示要填与「情感」相对的制度性手段；后文 permit、in court 都属于法律层面，a matter of law 为常见表达。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "a reason to refuse a permit"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "equips"
+                },
+                {
+                  "key": "B",
+                  "text": "compares"
+                },
+                {
+                  "key": "C",
+                  "text": "replaces"
+                },
+                {
+                  "key": "D",
+                  "text": "forgives"
+                }
+              ],
+              "answer": "A",
+              "analysis": "equip sb with sth 意为「使某人具备（手段）」，此处指名录给当地团体提供了可用于诉讼的依据。",
+              "type": "搭配题",
+              "evidencePara": "C",
+              "evidenceText": "an argument they can use in court"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "used"
+                },
+                {
+                  "key": "B",
+                  "text": "abandoned"
+                },
+                {
+                  "key": "C",
+                  "text": "governed"
+                },
+                {
+                  "key": "D",
+                  "text": "imported"
+                }
+              ],
+              "answer": "A",
+              "analysis": "破折号后「放牧权、割芦苇、有限捕鱼」说明居民一直在「使用」这片湿地；正因为有利益关联，保护边界才守得住。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "through grazing rights, reed cutting or controlled fishing"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "encouraging"
+                },
+                {
+                  "key": "B",
+                  "text": "expensive"
+                },
+                {
+                  "key": "C",
+                  "text": "unrelated"
+                },
+                {
+                  "key": "D",
+                  "text": "ancient"
+                }
+              ],
+              "answer": "A",
+              "analysis": "冒号后说「水可以放回去、几年内鸟类就回来了」，是好消息，故 lesson 前用 encouraging（令人鼓舞的）。",
+              "type": "态度题",
+              "evidencePara": "C",
+              "evidenceText": "water can be put back"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "polluting"
+                },
+                {
+                  "key": "B",
+                  "text": "protecting"
+                },
+                {
+                  "key": "C",
+                  "text": "cooling"
+                },
+                {
+                  "key": "D",
+                  "text": "measuring"
+                }
+              ],
+              "answer": "A",
+              "analysis": "provided 引出恢复成功的两个前提：水文条件正确、周边农田不再用化肥「污染」湿地；pollute sth with sth 为固定搭配。",
+              "type": "词义题",
+              "evidencePara": "C",
+              "evidenceText": "with fertiliser"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Pharmaceutical prices are negotiated in almost every rich country, but the arrangements differ more than the rhetoric suggests. Some systems bargain centrally for the whole population; others delegate to insurers or hospital groups; a few rely on reference pricing, under which a drug is reimbursed only up to the level of cheaper alternatives already on the market. What they share is a belief that a list price set by a single seller for a captive buyer is not a market price at all."
+            },
+            {
+              "label": "B",
+              "text": "The mechanics are deliberately opaque. A government rarely announces the discount it has won; a confidential rebate is paid back to the payer after the invoice, so the published list price stays high while the net price falls. This suits both sides. The payer can claim a hard bargain without setting a precedent for every other product, and the manufacturer keeps its international reference price intact, because other countries read list prices rather than rebates."
+            },
+            {
+              "label": "C",
+              "text": "The savings are real but smaller than campaigners claim, and they are partly recycled. When one market pushes a price down, a company may raise it elsewhere, or recover the margin on a newer product. Economists call this the waterbed effect, and the evidence for it is strongest in small markets with a single payer. In a large market the arithmetic is different, but the principle - that a discount extracted in one place is paid for in another - is seldom acknowledged in the press release."
+            },
+            {
+              "label": "D",
+              "text": "The industry's case rests on time and risk. A successful drug pays for the thousands of compounds that failed, and the failures are invisible in the price of the survivor. For medicines aimed at very small populations, the fixed costs of trials are spread over few patients, so a price that looks extortionate per dose may be modest per life-year gained. Cut it too hard, the argument runs, and the next molecule is never tested."
+            },
+            {
+              "label": "E",
+              "text": "The counter-argument concerns access rather than innovation. A price that a health system cannot afford does not save patients; it rations them by wealth. Where negotiation has pushed prices very low, firms have sometimes declined to launch a product, or have withdrawn one, and clinicians report shortages of older drugs that became unprofitable to make. A confidential rebate also makes it impossible to judge whether the money would have bought more health if it had been spent on nurses instead."
+            },
+            {
+              "label": "F",
+              "text": "The largest savings, in any case, arrive without negotiation at all. When a patent expires and generic competitors enter, the price of a molecule typically falls by eighty or ninety per cent within a year, and the fall is permanent in a way that a rebate is not. For biologics the decline is slower, because a copy must be tested in patients, but the direction is the same. A system that negotiates brilliantly and buys badly at patent expiry has missed the larger prize."
+            },
+            {
+              "label": "G",
+              "text": "Negotiation, then, is best understood as a distributional instrument rather than a strategy for controlling costs. It decides who pays and how much, and it can widen access at the margin. It does not decide whether a medicine is worth making, which is a question about value, and value is not something a purchasing office can settle alone. That judgement needs evidence on benefits, an honest account of the alternatives, and a public willing to accept that some expensive things are worth buying while some cheap ones are not."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Rich countries bargain in different ways but agree that one seller's list price is not a true market price.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段列举三种谈判方式后总结共同点：单一卖方对无议价能力的买方所定的挂牌价，根本算不上市场价格。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "is not a market price at all"
+            },
+            {
+              "number": 37,
+              "stem": "Discounts are kept confidential so that the published price remains high.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：返利在开票后私下返还，公开的挂牌价维持高位，净价则下降。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "the published list price stays high while the net price falls"
+            },
+            {
+              "number": 38,
+              "stem": "A price cut in one country may be recovered by charging more in another.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "C",
+              "analysis": "C 段「水床效应」：一处压价，厂商便在别处提价或在新产品上找回利润。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "a company may raise it elsewhere"
+            },
+            {
+              "number": 39,
+              "stem": "The price of a successful medicine has to cover the research that produced nothing.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：一款成功药物要为成千上万个失败化合物买单，而失败在成功者的价格里是看不见的。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "pays for the thousands of compounds that failed"
+            },
+            {
+              "number": 40,
+              "stem": "Very low prices may lead companies to keep a product out of a country entirely.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：价格压得过低时，企业有时选择不上市或撤市，临床上还出现老药因无利可图而短缺。",
+              "type": "细节题",
+              "evidencePara": "E",
+              "evidenceText": "firms have sometimes declined to launch a product"
+            },
+            {
+              "number": 41,
+              "stem": "Competition after a patent ends lowers prices far more lastingly than bargaining does.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：专利到期、仿制药入场后，价格一年内跌去八九成，且这种下跌「不像返利那样可以收回」。",
+              "type": "推断题",
+              "evidencePara": "F",
+              "evidenceText": "the fall is permanent in a way that a rebate is not"
+            },
+            {
+              "number": 42,
+              "stem": "Bargaining settles who pays, not whether a medicine deserves to exist.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "analysis": "G 段：谈判是分配工具，决定谁付、付多少，却不决定一种药是否「值得制造」，后者是价值判断。",
+              "type": "主旨题",
+              "evidencePara": "G",
+              "evidenceText": "a distributional instrument rather than a strategy for controlling costs"
+            },
+            {
+              "number": 43,
+              "stem": "Other countries look at list prices, which is why rebates are concealed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段末：厂商维持国际参考价不变，因为别国看的是挂牌价而非返利——这正是折扣要保密的原因。",
+              "type": "原因题",
+              "evidencePara": "B",
+              "evidenceText": "other countries read list prices rather than rebates"
+            },
+            {
+              "number": 44,
+              "stem": "Once protection expires, the price of a molecule often drops by four-fifths or more.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "F",
+              "analysis": "F 段：专利到期、仿制药竞争出现后，价格通常一年内下降百分之八十到九十。",
+              "type": "细节题",
+              "evidencePara": "F",
+              "evidenceText": "falls by eighty or ninety per cent within a year"
+            },
+            {
+              "number": 45,
+              "stem": "Patients may go without a drug simply because the health system cannot afford it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "E",
+              "analysis": "E 段：医保付不起的价格并不能救病人，只是按财富分配——it rations them by wealth。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "it rations them by wealth"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A generic medicine is a copy of a drug whose patent has expired. It contains the same active ingredient, at the same dose, in the same form, and is approved on the strength of evidence that it delivers the drug to the bloodstream in the same way as the original. It does not repeat the decade of trials that the innovator ran, and it does not carry the cost of the failures that preceded the first approval. The consequence is arithmetic: within a year of entry, the price of a molecule commonly falls by eighty per cent or more, and with several competitors it can fall by ninety-five."
+            },
+            {
+              "label": "B",
+              "text": "The savings come from the structure of the industry rather than from any secret. Discovery is expensive and uncertain; copying a known molecule is neither. Dozens of manufacturers may bid for the same contract, and the marginal cost of pressing a tablet is a few cents. Entry is not, however, free. A copyist must show bioequivalence - that the pill puts the same amount of drug into the blood at the same rate - which requires a small clinical study, and must open its factory to inspectors. Those costs are fixed and modest, which is exactly why they do not prevent competition."
+            },
+            {
+              "label": "C",
+              "text": "Doubts about quality are the oldest objection, and they are not imaginary. Several scandals have involved approved copies that contained impurities, or that released their contents too quickly, and in each case the fault lay with a specific plant rather than with the principle of copying. Regulators now test a sample of the market every year, and the results are published. The reasonable conclusion is that the risk is real but is a matter of enforcement: the same factories often make branded products for export, and a system that inspects them properly protects both."
+            },
+            {
+              "label": "D",
+              "text": "A newer risk comes from success. To win contracts, manufacturers consolidate, and a single plant may supply the raw ingredient for an entire continent. When that plant burns down, or fails an inspection, the shortage arrives within weeks, and no pharmacy can invent a substitute. Hospitals then buy from secondary suppliers at several times the price, or postpone treatments. The efficiency that makes generics cheap is the same efficiency that makes the supply chain brittle, and buyers who count only the unit price have not priced the risk."
+            },
+            {
+              "label": "E",
+              "text": "Policy has therefore begun to look beyond the price of the pill. The largest single saver in most drug budgets is still the moment of generic entry, which is why manufacturers defend their patents so vigorously - by evergreening, the practice of making small changes that restart protection, and by paying a rival to delay the launch of a copy. Both tactics convert a public benefit into a private one, and both are now the subject of litigation. The question for regulators is no longer whether copying saves money, but whether the saving arrives soon enough to matter to the patient who is waiting."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "Why can a generic be sold at a fraction of the original price?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It uses a cheaper active ingredient."
+                },
+                {
+                  "key": "B",
+                  "text": "It avoids the cost of discovery and failed trials."
+                },
+                {
+                  "key": "C",
+                  "text": "It is exempt from safety testing of any kind."
+                },
+                {
+                  "key": "D",
+                  "text": "It is subsidised by the original manufacturer."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：仿制药不重做原研药长达十年的试验，也不承担首个获批前那些失败的成本；B 段补充「发现昂贵而不确定，复制已知分子则不然」。注意它并非免于任何检测，仍需生物等效性研究。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "It does not repeat the decade of trials"
+            },
+            {
+              "number": 47,
+              "stem": "What is the function of a bioequivalence study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It proves that the copy works better than the original."
+                },
+                {
+                  "key": "B",
+                  "text": "It shows the copy delivers the drug in the same way."
+                },
+                {
+                  "key": "C",
+                  "text": "It measures the manufacturing cost of the tablet."
+                },
+                {
+                  "key": "D",
+                  "text": "It replaces the need for factory inspections."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：生物等效性指「同样剂量、同样速度进入血液」，需做小型临床研究；它是替代完整试验的依据，但不替代工厂检查。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "the same amount of drug into the blood at the same rate"
+            },
+            {
+              "number": 48,
+              "stem": "What does the author conclude about reports of poor-quality copies?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They show that copying is inherently unsafe."
+                },
+                {
+                  "key": "B",
+                  "text": "They reflect failures of inspection at particular plants."
+                },
+                {
+                  "key": "C",
+                  "text": "They have been invented by branded manufacturers."
+                },
+                {
+                  "key": "D",
+                  "text": "They are too rare to deserve regulation."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：每次丑闻的过错都在「某一家工厂」而非「仿制这一原则」；作者认为风险真实但属执法问题，且同一批工厂也代工品牌药。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the fault lay with a specific plant rather than with the principle of copying"
+            },
+            {
+              "number": 49,
+              "stem": "What is the danger of the consolidation described in the fourth paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Prices rise because competition disappears."
+                },
+                {
+                  "key": "B",
+                  "text": "A single failure can cut supplies across a whole region."
+                },
+                {
+                  "key": "C",
+                  "text": "Doctors lose the ability to prescribe by brand."
+                },
+                {
+                  "key": "D",
+                  "text": "Hospitals must manufacture their own medicines."
+                }
+              ],
+              "answer": "B",
+              "analysis": "D 段：为中标而合并，一座工厂可能供应整个大陆的原料；一旦失火或检查不合格，数周内即出现短缺。作者点明「让仿制药便宜的效率，也正是让供应链脆弱的效率」。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "the shortage arrives within weeks"
+            },
+            {
+              "number": 50,
+              "stem": "What does 'evergreening' refer to?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Extending patent protection through minor modifications."
+                },
+                {
+                  "key": "B",
+                  "text": "Paying a rival to launch a copy earlier."
+                },
+                {
+                  "key": "C",
+                  "text": "Growing medicinal plants sustainably."
+                },
+                {
+                  "key": "D",
+                  "text": "Lowering prices in poor countries."
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段用同位语解释：evergreening 即「做点小改动让保护期重新起算」的做法，与「付钱让对手推迟上市」并列，两者都把公共利益转为私人利益。",
+              "type": "词句含义题",
+              "evidencePara": "E",
+              "evidenceText": "making small changes that restart protection"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Volunteers are routinely described as free labour, and the phrase does more harm than any other in the vocabulary of the charitable sector. An hour of volunteer work is not free to the organisation that receives it. Someone must recruit the volunteer, check references, train her, insure her, supervise her and thank her, and someone must be available when she does not turn up. In a small organisation that someone is usually a paid member of staff whose time is the scarcest resource the charity has."
+            },
+            {
+              "label": "B",
+              "text": "The pattern of turnover is equally expensive and less discussed. Volunteers leave for ordinary reasons - a new job, a move, a change in family circumstances - and each departure costs the organisation the training it invested plus the weeks a replacement needs to become useful. Studies of volunteering consistently find that what keeps people is not gratitude but design: a defined task, a named supervisor, a shift that fits around work, and evidence that the task mattered. Treating volunteers as a pool of unpaid staff produces exactly the indifference that managers then complain about."
+            },
+            {
+              "label": "C",
+              "text": "Donors complicate matters further. Confronted with a charity's accounts, many look first at the proportion spent on administration and reward the lowest figure. This is the overhead myth. Spending on management, accounting, training and evaluation is what allows a programme to work at all, and an organisation that starves its administration eventually starves its mission: unpaid bills, unclaimed grants, no one able to report what was achieved. The ratio measures nothing except how much of the work is invisible."
+            },
+            {
+              "label": "D",
+              "text": "What good oversight looks like is less intuitive. It asks what changed for the people the charity exists to serve, publishes the answer even when the answer is disappointing, and provides a route for complaint that does not depend on the goodwill of the person complained about. Measuring that reliably is hard: the outcomes that matter - a family staying together, a young person returning to college - arrive slowly, resist randomisation, and are expensive to track. This is an argument for funding evaluation, not for abandoning it."
+            },
+            {
+              "label": "E",
+              "text": "What bad oversight looks like is bureaucratic and cheap. Registration forms, annual returns and threshold rules are easy for a regulator to count and almost useless as evidence of anything. Their cost falls hardest on the smallest organisations: a national charity can employ a compliance officer, while a group of eight parents running a weekend club cannot, and either breaks the rule or gives up. Regulation that measures paperwork selects for the ability to complete paperwork."
+            },
+            {
+              "label": "F",
+              "text": "The conclusion is not that charity should be exempt from scrutiny, but that scrutiny should be aimed at the right object. Ask organisations to publish what they achieved and what it cost, in language a donor can understand; fund the staff who make volunteers effective; and regulate the small minority that defrauds the public, rather than the majority that fills in the forms incorrectly. Trust is not built by a low ratio of salaries to spending. It is built by evidence that the money did something, and by the willingness to say so when it did not."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why does the author object to the phrase 'free labour'?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Volunteers expect to be paid for their time."
+                },
+                {
+                  "key": "B",
+                  "text": "Using volunteers costs the organisation money and staff time."
+                },
+                {
+                  "key": "C",
+                  "text": "It is illegal to describe volunteers in this way."
+                },
+                {
+                  "key": "D",
+                  "text": "Volunteers rarely do useful work."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：招募、查证、培训、保险、督导、致谢都要人做，而在小机构里做这些的往往是时间最紧张的受薪员工——所以「免费劳动力」这一说法危害最大。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "An hour of volunteer work is not free"
+            },
+            {
+              "number": 52,
+              "stem": "According to the second paragraph, what makes volunteers stay?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Public recognition of their generosity."
+                },
+                {
+                  "key": "B",
+                  "text": "A clearly defined task and a supportive structure."
+                },
+                {
+                  "key": "C",
+                  "text": "The prospect of paid employment."
+                },
+                {
+                  "key": "D",
+                  "text": "Frequent social events with other volunteers."
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段：留住人的不是感激而是「设计」——明确的任务、指定的督导、能配合工作的班次，以及「这件事有意义」的证据。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "what keeps people is not gratitude but design"
+            },
+            {
+              "number": 53,
+              "stem": "What does the 'overhead myth' lead donors to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Give more to charities with large reserves."
+                },
+                {
+                  "key": "B",
+                  "text": "Reward charities that spend least on administration."
+                },
+                {
+                  "key": "C",
+                  "text": "Demand detailed accounts from every charity."
+                },
+                {
+                  "key": "D",
+                  "text": "Ignore the results a charity reports."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：捐赠人先看行政支出占比、并奖励比例最低者；作者指出管理、会计、培训与评估的支出正是项目能运转的前提，压低它等于让使命挨饿。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "reward the lowest figure"
+            },
+            {
+              "number": 54,
+              "stem": "What is the author's view of registration forms and annual returns?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are the most reliable measure of a charity's value."
+                },
+                {
+                  "key": "B",
+                  "text": "They are easy to count but say little about performance."
+                },
+                {
+                  "key": "C",
+                  "text": "They should be extended to all small organisations."
+                },
+                {
+                  "key": "D",
+                  "text": "They protect small charities from competition."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：这类表格「对监管者来说容易统计，作为任何事情的证据却几乎无用」，且成本最重地落在最小组织身上。",
+              "type": "态度题",
+              "evidencePara": "E",
+              "evidenceText": "almost useless as evidence of anything"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author recommend in the final paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Exempting charities from all external scrutiny."
+                },
+                {
+                  "key": "B",
+                  "text": "Judging charities by outcomes and funded capacity rather than by ratios."
+                },
+                {
+                  "key": "C",
+                  "text": "Requiring every charity to run randomised trials."
+                },
+                {
+                  "key": "D",
+                  "text": "Capping the salaries of charity managers."
+                }
+              ],
+              "answer": "B",
+              "analysis": "F 段：监管应对准「成果与成本」并资助使志愿者有效的岗位，而非看薪酬占比；信任来自「钱做成了事」的证据，包括做得不成时也如实说明。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "Ask organisations to publish what they achieved and what it cost"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "type": "translation",
+              "stem": "把下面这段中文译成英文：\n\n砚台是中国传统「文房四宝」之一，与笔、墨、纸齐名。它多以石材雕成，广东的端砚与安徽的歙砚最为著名，石质细腻，磨墨快而不伤笔锋。汉代已有砚的雏形，唐宋以后形制日益丰富，文人常在砚上刻铭文以自勉。制砚须经选石、构思、雕刻、打磨数道工序，一方好砚往往耗时数月。今天，砚台多作为艺术品被收藏，但书法爱好者仍喜欢用它研墨。",
+              "options": [],
+              "answer": "",
+              "analysis": "【参考译文】\nThe inkstone is one of the four treasures of the traditional Chinese study, ranking alongside the brush, the inkstick and paper. It is usually carved from stone, and the Duan stone of Guangdong and the She stone of Anhui are the most celebrated, being fine-grained enough to grind ink quickly without damaging the tip of the brush. A rudimentary form of the inkstone existed as early as the Han dynasty; after the Tang and Song dynasties its shapes grew increasingly varied, and scholars often carved inscriptions on it to encourage themselves. Making an inkstone involves several stages - choosing the stone, planning the design, carving and polishing - and a good one may take months to complete. Today inkstones are mostly collected as works of art, yet calligraphers still like to grind their ink on them.\n\n【要点】①「文房四宝」译 the four treasures of the study，首次出现可加 traditional Chinese；②「与……齐名」用 ranking alongside / on a par with；③「石质细腻，磨墨快而不伤笔锋」宜用 being fine-grained enough to... 的分词结构，避免两个短句并列；④「雏形」用 a rudimentary form；⑤「刻铭文以自勉」用 carved inscriptions on it to encourage themselves；⑥「数道工序」列举时用破折号或 such as，不必逐字译「工序」；⑦末句用 yet 表转折，保留「收藏」与「实用」的对照。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

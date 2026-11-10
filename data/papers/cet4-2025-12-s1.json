@@ -1,0 +1,1403 @@
+{
+  "id": "cet4-2025-12-s1",
+  "level": "CET4",
+  "year": 2025,
+  "month": 12,
+  "setNo": 1,
+  "origin": "simulated",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "For this part, you are allowed 30 minutes to write an essay on whether college students should live off campus. You should state your opinion and give reasons. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nShould College Students Live Off Campus?\n\nMore universities now allow students to rent flats nearby, and the question divides dormitories and canteens alike.\n\nLiving off campus has real advantages. A student who cooks, pays bills and deals with a landlord learns to manage money and time in a way that a shared room never demands. A quieter flat also helps those who study late or work part-time.\n\nThe costs are easy to forget. Rent near a good university is high, and a student who works extra hours to pay it has less time for the very thing the flat was meant to protect. Living alone also removes the small daily contacts - a roommate's question, a shared meal - through which friendships and information usually travel.\n\nMy view is that the decision should depend on the student rather than on a rule. Those who can afford it, and who have shown they can organise themselves, benefit. Those who cannot should not be pushed out by crowding, but helped to stay.\n\n（约 168 词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For decades, the standard advice to a school-leaver was simple: go to university. That advice is now being 26______. In several countries, the number of young people choosing an apprenticeship, which combines paid work with training, has risen faster than the number entering degree courses. Employers who once 27______ university degrees now say they cannot find enough people who can repair, install or maintain equipment. An apprenticeship answers that 28______ directly: a young worker learns on the job, earns a wage, and finishes with a qualification that industry 29______. The model itself is not new. What is new is the 30______ of it. In the past, apprenticeships were concentrated in construction and engineering; today they appear in banking, health and software. Supporters argue that this 31______ the gap between what schools teach and what workplaces need. Critics are less sure. They point out that many programmes offer 32______ in name only, with low-level tasks and very little teaching, and that a young person who spends four years in one firm may 33______ narrow skills. The evidence so far is mixed. Where apprentices are 34______ by a college as well as by an employer, completion rates and wages are clearly higher. Where the training is left entirely to the firm, the results 35______ widely."
+            },
+            {
+              "label": "词库",
+              "text": "A) age   B) agree   C) copies   D) cost   E) develop   F) doubt   G) narrows   H) need   I) prized   J) questioned   K) range   L) recognises   M) taught   N) training   O) vary"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "age"
+                },
+                {
+                  "key": "B",
+                  "text": "agree"
+                },
+                {
+                  "key": "C",
+                  "text": "copies"
+                },
+                {
+                  "key": "D",
+                  "text": "cost"
+                },
+                {
+                  "key": "E",
+                  "text": "develop"
+                },
+                {
+                  "key": "F",
+                  "text": "doubt"
+                },
+                {
+                  "key": "G",
+                  "text": "narrows"
+                },
+                {
+                  "key": "H",
+                  "text": "need"
+                },
+                {
+                  "key": "I",
+                  "text": "prized"
+                },
+                {
+                  "key": "J",
+                  "text": "questioned"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "recognises"
+                },
+                {
+                  "key": "M",
+                  "text": "taught"
+                },
+                {
+                  "key": "N",
+                  "text": "training"
+                },
+                {
+                  "key": "O",
+                  "text": "vary"
+                }
+              ],
+              "answer": "J",
+              "analysis": "前句是「几十年来标准建议是上大学」，下一句说学徒人数增长快于读学位的人数，说明这个建议正被「质疑」。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "has risen faster than the number entering degree courses"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "age"
+                },
+                {
+                  "key": "B",
+                  "text": "agree"
+                },
+                {
+                  "key": "C",
+                  "text": "copies"
+                },
+                {
+                  "key": "D",
+                  "text": "cost"
+                },
+                {
+                  "key": "E",
+                  "text": "develop"
+                },
+                {
+                  "key": "F",
+                  "text": "doubt"
+                },
+                {
+                  "key": "G",
+                  "text": "narrows"
+                },
+                {
+                  "key": "H",
+                  "text": "need"
+                },
+                {
+                  "key": "I",
+                  "text": "prized"
+                },
+                {
+                  "key": "J",
+                  "text": "questioned"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "recognises"
+                },
+                {
+                  "key": "M",
+                  "text": "taught"
+                },
+                {
+                  "key": "N",
+                  "text": "training"
+                },
+                {
+                  "key": "O",
+                  "text": "vary"
+                }
+              ],
+              "answer": "I",
+              "analysis": "once... now... 形成对比：雇主过去「看重」大学学位，如今却招不到会动手的人，prize 意为高度重视。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "now say they cannot find enough people"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "age"
+                },
+                {
+                  "key": "B",
+                  "text": "agree"
+                },
+                {
+                  "key": "C",
+                  "text": "copies"
+                },
+                {
+                  "key": "D",
+                  "text": "cost"
+                },
+                {
+                  "key": "E",
+                  "text": "develop"
+                },
+                {
+                  "key": "F",
+                  "text": "doubt"
+                },
+                {
+                  "key": "G",
+                  "text": "narrows"
+                },
+                {
+                  "key": "H",
+                  "text": "need"
+                },
+                {
+                  "key": "I",
+                  "text": "prized"
+                },
+                {
+                  "key": "J",
+                  "text": "questioned"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "recognises"
+                },
+                {
+                  "key": "M",
+                  "text": "taught"
+                },
+                {
+                  "key": "N",
+                  "text": "training"
+                },
+                {
+                  "key": "O",
+                  "text": "vary"
+                }
+              ],
+              "answer": "H",
+              "analysis": "上一句说企业招不到技术工人，这是需求；学徒制正好「直接回应这一需求」，answer a need 为常见搭配。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "cannot find enough people"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "age"
+                },
+                {
+                  "key": "B",
+                  "text": "agree"
+                },
+                {
+                  "key": "C",
+                  "text": "copies"
+                },
+                {
+                  "key": "D",
+                  "text": "cost"
+                },
+                {
+                  "key": "E",
+                  "text": "develop"
+                },
+                {
+                  "key": "F",
+                  "text": "doubt"
+                },
+                {
+                  "key": "G",
+                  "text": "narrows"
+                },
+                {
+                  "key": "H",
+                  "text": "need"
+                },
+                {
+                  "key": "I",
+                  "text": "prized"
+                },
+                {
+                  "key": "J",
+                  "text": "questioned"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "recognises"
+                },
+                {
+                  "key": "M",
+                  "text": "taught"
+                },
+                {
+                  "key": "N",
+                  "text": "training"
+                },
+                {
+                  "key": "O",
+                  "text": "vary"
+                }
+              ],
+              "answer": "L",
+              "analysis": "学徒结业时拿到的资格应是产业界「认可」的，qualification that industry recognises 语义通顺。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "finishes with a qualification"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "age"
+                },
+                {
+                  "key": "B",
+                  "text": "agree"
+                },
+                {
+                  "key": "C",
+                  "text": "copies"
+                },
+                {
+                  "key": "D",
+                  "text": "cost"
+                },
+                {
+                  "key": "E",
+                  "text": "develop"
+                },
+                {
+                  "key": "F",
+                  "text": "doubt"
+                },
+                {
+                  "key": "G",
+                  "text": "narrows"
+                },
+                {
+                  "key": "H",
+                  "text": "need"
+                },
+                {
+                  "key": "I",
+                  "text": "prized"
+                },
+                {
+                  "key": "J",
+                  "text": "questioned"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "recognises"
+                },
+                {
+                  "key": "M",
+                  "text": "taught"
+                },
+                {
+                  "key": "N",
+                  "text": "training"
+                },
+                {
+                  "key": "O",
+                  "text": "vary"
+                }
+              ],
+              "answer": "K",
+              "analysis": "冒号后列举建筑、工程之外又进入银行、医疗、软件，讲的是「范围」变广，the range of it。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "today they appear in banking, health and software"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "age"
+                },
+                {
+                  "key": "B",
+                  "text": "agree"
+                },
+                {
+                  "key": "C",
+                  "text": "copies"
+                },
+                {
+                  "key": "D",
+                  "text": "cost"
+                },
+                {
+                  "key": "E",
+                  "text": "develop"
+                },
+                {
+                  "key": "F",
+                  "text": "doubt"
+                },
+                {
+                  "key": "G",
+                  "text": "narrows"
+                },
+                {
+                  "key": "H",
+                  "text": "need"
+                },
+                {
+                  "key": "I",
+                  "text": "prized"
+                },
+                {
+                  "key": "J",
+                  "text": "questioned"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "recognises"
+                },
+                {
+                  "key": "M",
+                  "text": "taught"
+                },
+                {
+                  "key": "N",
+                  "text": "training"
+                },
+                {
+                  "key": "O",
+                  "text": "vary"
+                }
+              ],
+              "answer": "G",
+              "analysis": "支持者认为学徒制「缩小」学校所教与岗位所需之间的差距，narrow the gap 是固定搭配；widens 与立场相反。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "the gap between what schools teach and what workplaces need"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "age"
+                },
+                {
+                  "key": "B",
+                  "text": "agree"
+                },
+                {
+                  "key": "C",
+                  "text": "copies"
+                },
+                {
+                  "key": "D",
+                  "text": "cost"
+                },
+                {
+                  "key": "E",
+                  "text": "develop"
+                },
+                {
+                  "key": "F",
+                  "text": "doubt"
+                },
+                {
+                  "key": "G",
+                  "text": "narrows"
+                },
+                {
+                  "key": "H",
+                  "text": "need"
+                },
+                {
+                  "key": "I",
+                  "text": "prized"
+                },
+                {
+                  "key": "J",
+                  "text": "questioned"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "recognises"
+                },
+                {
+                  "key": "M",
+                  "text": "taught"
+                },
+                {
+                  "key": "N",
+                  "text": "training"
+                },
+                {
+                  "key": "O",
+                  "text": "vary"
+                }
+              ],
+              "answer": "N",
+              "analysis": "in name only（有名无实）后接「低水平任务、极少教学」，说的正是「培训」徒有其名。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "with low-level tasks and very little teaching"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "age"
+                },
+                {
+                  "key": "B",
+                  "text": "agree"
+                },
+                {
+                  "key": "C",
+                  "text": "copies"
+                },
+                {
+                  "key": "D",
+                  "text": "cost"
+                },
+                {
+                  "key": "E",
+                  "text": "develop"
+                },
+                {
+                  "key": "F",
+                  "text": "doubt"
+                },
+                {
+                  "key": "G",
+                  "text": "narrows"
+                },
+                {
+                  "key": "H",
+                  "text": "need"
+                },
+                {
+                  "key": "I",
+                  "text": "prized"
+                },
+                {
+                  "key": "J",
+                  "text": "questioned"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "recognises"
+                },
+                {
+                  "key": "M",
+                  "text": "taught"
+                },
+                {
+                  "key": "N",
+                  "text": "training"
+                },
+                {
+                  "key": "O",
+                  "text": "vary"
+                }
+              ],
+              "answer": "E",
+              "analysis": "批评者担心长期待在一家公司会「形成」狭窄的技能，develop skills 搭配自然。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "spends four years in one firm"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "age"
+                },
+                {
+                  "key": "B",
+                  "text": "agree"
+                },
+                {
+                  "key": "C",
+                  "text": "copies"
+                },
+                {
+                  "key": "D",
+                  "text": "cost"
+                },
+                {
+                  "key": "E",
+                  "text": "develop"
+                },
+                {
+                  "key": "F",
+                  "text": "doubt"
+                },
+                {
+                  "key": "G",
+                  "text": "narrows"
+                },
+                {
+                  "key": "H",
+                  "text": "need"
+                },
+                {
+                  "key": "I",
+                  "text": "prized"
+                },
+                {
+                  "key": "J",
+                  "text": "questioned"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "recognises"
+                },
+                {
+                  "key": "M",
+                  "text": "taught"
+                },
+                {
+                  "key": "N",
+                  "text": "training"
+                },
+                {
+                  "key": "O",
+                  "text": "vary"
+                }
+              ],
+              "answer": "M",
+              "analysis": "与后句「培训完全交给企业」对比：此处指学徒同时由学院和雇主「教授」，故为 taught。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "as well as by an employer"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "age"
+                },
+                {
+                  "key": "B",
+                  "text": "agree"
+                },
+                {
+                  "key": "C",
+                  "text": "copies"
+                },
+                {
+                  "key": "D",
+                  "text": "cost"
+                },
+                {
+                  "key": "E",
+                  "text": "develop"
+                },
+                {
+                  "key": "F",
+                  "text": "doubt"
+                },
+                {
+                  "key": "G",
+                  "text": "narrows"
+                },
+                {
+                  "key": "H",
+                  "text": "need"
+                },
+                {
+                  "key": "I",
+                  "text": "prized"
+                },
+                {
+                  "key": "J",
+                  "text": "questioned"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "recognises"
+                },
+                {
+                  "key": "M",
+                  "text": "taught"
+                },
+                {
+                  "key": "N",
+                  "text": "training"
+                },
+                {
+                  "key": "O",
+                  "text": "vary"
+                }
+              ],
+              "answer": "O",
+              "analysis": "末句与「结果明显更高」对照，说明完全交给企业时结果「差别很大」，vary widely。",
+              "type": "词义题",
+              "evidencePara": "A",
+              "evidenceText": "the results 35______ widely"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Loneliness is often confused with being alone, but the two are not the same. A person may live with a family and still feel unseen; another may spend a weekend by himself and feel perfectly content. What researchers measure is the gap between the relationships a person wants and the ones he has. Surveys in Europe and North America suggest that one adult in four feels this gap often, and that the share has grown since the 1980s."
+            },
+            {
+              "label": "B",
+              "text": "The reason doctors take the subject seriously is that loneliness shows up in the body. Long periods of it are associated with higher levels of stress hormones, poorer sleep and more inflammation. Large studies find that isolated people are more likely to develop heart disease and to die earlier, with an effect that one review compared to smoking fifteen cigarettes a day."
+            },
+            {
+              "label": "C",
+              "text": "The age pattern surprises many people. Loneliness is most common, in most surveys, among those between sixteen and twenty-four, not among the very old. Several explanations are offered: people move for study or work, friendships formed at school break up, and social life moves onto screens where contact is frequent but thin. Whether the phones are a cause or merely the place where the problem appears is still disputed, and the evidence does not yet settle it."
+            },
+            {
+              "label": "D",
+              "text": "For older adults the triggers are more concrete. Retirement removes the colleagues a person saw every day; the death of a partner removes the person who asked how the day had gone; giving up a car can end visits to friends twenty minutes away. Charities in several countries run befriending services that match a volunteer with an isolated person for a weekly call or visit, and the schemes report steady demand."
+            },
+            {
+              "label": "E",
+              "text": "Much of what is offered does not help. Telling people to join a club assumes a confidence they may not have, and a single coffee morning gives a lonely person one pleasant hour followed by six quiet evenings. Apps that turn conversation into short messages may increase the number of contacts while leaving the sense of being known exactly where it was."
+            },
+            {
+              "label": "F",
+              "text": "What does seem to work is unglamorous. Small groups that meet at the same time each week, with the same people, allow the kind of repetition in which friendship forms. Practical help matters too: a lift to the group, a reminder phone call, a room that is warm. Some health systems now pay for this under the name of social prescribing, sending patients to a gardening club instead of, or alongside, a prescription."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Feeling lonely has little to do with how many people are around.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段：有人与家人同住仍觉得被忽视，有人独处一周末却很满足；研究测量的是「想要的关系」与「已有的关系」之间的差距。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "the gap between the relationships a person wants and the ones he has"
+            },
+            {
+              "number": 37,
+              "stem": "One review compared its health risk to smoking many cigarettes a day.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph B"
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段末：一篇综述把孤独的影响比作「每天抽十五支烟」。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "compared to smoking fifteen cigarettes a day"
+            },
+            {
+              "number": 38,
+              "stem": "Isolation is associated with heart disease and earlier death.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph A"
+                }
+              ],
+              "answer": "A",
+              "analysis": "B 段：大型研究发现孤立的人更易患心脏病、更早去世。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "more likely to develop heart disease"
+            },
+            {
+              "number": 39,
+              "stem": "Isolated people tend to sleep less well.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "B",
+              "analysis": "B 段第 2 句：长期孤独与压力激素升高、睡眠变差、炎症增加相关（poorer sleep）。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "poorer sleep and more inflammation"
+            },
+            {
+              "number": 40,
+              "stem": "The highest rates are found among young adults rather than the elderly.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：多数调查显示孤独在 16 至 24 岁人群中最常见，而不是在最年老的人中。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "between sixteen and twenty-four, not among the very old"
+            },
+            {
+              "number": 41,
+              "stem": "It is not settled whether phones cause the problem or simply reveal it.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph C"
+                }
+              ],
+              "answer": "D",
+              "analysis": "C 段末：手机是原因还是问题显现的场所「仍有争议，证据尚未定论」。",
+              "type": "推断题",
+              "evidencePara": "C",
+              "evidenceText": "the evidence does not yet settle it"
+            },
+            {
+              "number": 42,
+              "stem": "Retirement, bereavement or losing transport can cut an older person off.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段列举三个触发点：退休失去同事、丧偶失去每天问候的人、放弃开车后无法探友。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "giving up a car can end visits to friends"
+            },
+            {
+              "number": 43,
+              "stem": "Volunteers are matched with isolated people for regular contact.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段末：多国慈善机构开展 befriending 服务，把志愿者与孤立者配对，每周通话或探访。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "match a volunteer with an isolated person"
+            },
+            {
+              "number": 44,
+              "stem": "A single social event gives only a brief lift.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "analysis": "E 段：一次咖啡早茶只给孤独者「愉快的一小时，接着是六个安静的夜晚」，说明一次性活动效果短暂。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "one pleasant hour followed by six quiet evenings"
+            },
+            {
+              "number": 45,
+              "stem": "Regular meetings with the same small group are what help most.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "D",
+              "analysis": "F 段：真正有效的做法「并不光鲜」——每周同一时间、同一批人的小组，靠重复形成友谊。",
+              "type": "主旨题",
+              "evidencePara": "F",
+              "evidenceText": "Small groups that meet at the same time each week"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "On a Tuesday evening in a church hall, forty people of very different ages stand in a circle and sing. Nobody auditioned. Nobody reads music. A community choir of this kind has become one of the most common ways for adults to make something together, and its growth says as much about loneliness as about music. The point is not a concert; the point is that the same forty people turn up again next week."
+            },
+            {
+              "label": "B",
+              "text": "The health claims are usually larger than the evidence. Singing does not cure depression, and studies that follow choir members are small and often rely on what people say about themselves. What the better research does show is consistent: an hour of singing with others lowers reported stress, slows breathing, and leaves most participants feeling more alert than an hour of listening does. The effect is modest, but it is cheap and it repeats every week."
+            },
+            {
+              "label": "C",
+              "text": "Money is the difficulty. A hall costs between twenty and forty pounds an evening, a piano may need tuning, and a paid conductor takes most of what is left. Choirs survive on subscriptions of a few pounds a week, on grants from councils and charities, and on the endless small fundraising of cake sales and raffles. When a hall is lost, a choir can spend a year in borrowed rooms, and the members who live furthest away are usually the first to stop coming."
+            },
+            {
+              "label": "D",
+              "text": "The conductor matters more than the funding. A good one chooses music that a beginner can manage in a single evening without making it sound like a children's song, sets a tempo slow enough for the back row, and notices the man who has not sung a note since school. Rehearsals run on small decisions of this kind: which verse to repeat, when to stop explaining and simply start again. Members rarely mention technique; they describe being listened to."
+            },
+            {
+              "label": "E",
+              "text": "The real barrier is confidence rather than ability. People who were told at eleven that they cannot sing carry the sentence for fifty years, and a choir that begins with an unaccompanied round, with no audition and no audience, does more to remove it than any invitation. The other barriers are practical: the hour, the bus, the subscription, the fear of walking into a room of strangers. Choirs that survive tend to be the ones that treat all four as their problem rather than the newcomer's."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the growth of community choirs chiefly reflect?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A shortage of concert halls in British cities."
+                },
+                {
+                  "key": "B",
+                  "text": "A wish for regular contact with other people."
+                },
+                {
+                  "key": "C",
+                  "text": "The falling cost of musical instruments."
+                },
+                {
+                  "key": "D",
+                  "text": "A decline in the teaching of music at school."
+                }
+              ],
+              "answer": "B",
+              "analysis": "A 段说这种合唱团的壮大「说明孤独的问题和音乐一样多」，并强调「重点不是演出，而是同样这四十个人下周还会来」——即人们需要固定的人际接触，B 正确。A、C、D 三项在文中均未提及；文中只说场地要花钱租，并未说音乐厅短缺，也未谈乐器价格或学校音乐课。",
+              "type": "细节题",
+              "evidencePara": "A",
+              "evidenceText": "its growth says as much about loneliness as about music"
+            },
+            {
+              "number": 47,
+              "stem": "What does the better research on singing suggest?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It can cure mild depression within a year."
+                },
+                {
+                  "key": "B",
+                  "text": "Its benefits are large and permanent."
+                },
+                {
+                  "key": "C",
+                  "text": "Its benefits are small but consistently found."
+                },
+                {
+                  "key": "D",
+                  "text": "It works only for people who read music."
+                }
+              ],
+              "answer": "C",
+              "analysis": "B 段先泼冷水：唱歌不能治抑郁，相关研究样本小、多依赖自述；随后说明较严谨的研究结果「是一致的」：降低自评压力、放慢呼吸、比听一小时音乐更清醒；末句 The effect is modest 又强调效果有限。合起来是「不大但稳定」，C 正确。A 项与 Singing does not cure depression 直接矛盾；B 项的 large 和 permanent 都无据；D 项与 A 段 Nobody reads music 矛盾。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "The effect is modest, but it is cheap and it repeats every week."
+            },
+            {
+              "number": 48,
+              "stem": "What may happen to a choir that loses its hall?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It usually doubles its weekly subscription."
+                },
+                {
+                  "key": "B",
+                  "text": "It may spend a year in borrowed rooms and lose distant members."
+                },
+                {
+                  "key": "C",
+                  "text": "It has to cut rehearsals to one a month."
+                },
+                {
+                  "key": "D",
+                  "text": "It can apply for a national grant to buy a building."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段末句：失去场地后，合唱团可能「在借来的房间里耗上一年」，而住得最远的成员「往往最先不再来」，B 正确。A 项「把周费翻倍」文中只说靠几镑的会费、拨款和义卖维持，没有涨价一说；C 项「每月只排练一次」无据；D 项只提到向议会和慈善机构申请资助，没有「买楼的全国性拨款」。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "a choir can spend a year in borrowed rooms, and the members who live furthest away are usually the first to stop coming"
+            },
+            {
+              "number": 49,
+              "stem": "What does the passage say a good conductor does?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Chooses music beginners can manage and notices quiet members."
+                },
+                {
+                  "key": "B",
+                  "text": "Trains members to read music before their first concert."
+                },
+                {
+                  "key": "C",
+                  "text": "Keeps rehearsals fast so that nobody becomes bored."
+                },
+                {
+                  "key": "D",
+                  "text": "Invites professional singers to support the back row."
+                }
+              ],
+              "answer": "A",
+              "analysis": "D 段列举好指挥的三件事：选初学者一个晚上就能拿下的曲目、又不至于像儿歌；把速度定得让后排跟得上；注意到那个从学校毕业就没唱过一个音的人。A 项正是前两点加第三点的概括。B 项与全文「没人识谱」的前提矛盾；C 项与 sets a tempo slow enough 相反；D 项「请专业歌手支援后排」文中无据。",
+              "type": "细节题",
+              "evidencePara": "D",
+              "evidenceText": "chooses music that a beginner can manage in a single evening ... and notices the man who has not sung a note since school"
+            },
+            {
+              "number": 50,
+              "stem": "What distinguishes the choirs that survive, according to the last paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They recruit only singers with previous experience."
+                },
+                {
+                  "key": "B",
+                  "text": "They avoid performing in front of an audience."
+                },
+                {
+                  "key": "C",
+                  "text": "They treat practical barriers as their own responsibility."
+                },
+                {
+                  "key": "D",
+                  "text": "They hold rehearsals at weekends to suit families."
+                }
+              ],
+              "answer": "C",
+              "analysis": "E 段把障碍分为心理（自信）和实际（时间、公交、会费、走进满是陌生人的房间）两类，末句说活得下来的合唱团「把这四个都当成自己的问题，而不是新人的问题」，C 正确。A 项与 no audition 的招人方式相反；B 项「不演出」只是入门时的做法（no audience），不是存活的标志；D 项「改到周末」文中没有提到。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "Choirs that survive tend to be the ones that treat all four as their problem rather than the newcomer's."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A smart speaker on the kitchen table, a doorbell with a camera, a thermostat that learns a household's habits: these devices are sold on convenience, and they deliver it. They are also, by design, always partly awake. A microphone waits for a wake word; a camera records when motion is detected; a thermostat reports the temperature of an empty flat so that the heating can be adjusted from a phone."
+            },
+            {
+              "label": "B",
+              "text": "The data such devices produce is more revealing than most owners expect. Patterns of movement show when a house is empty. A thermostat knows when someone is ill and staying in bed. Recordings made by mistake, when a wake word was misheard, have in some cases been listened to by contractors paid to improve the service, a practice that was legal under the terms customers had accepted without reading them."
+            },
+            {
+              "label": "C",
+              "text": "Security is a separate problem. Many cheap cameras ship with weak default passwords, and a device that is never updated becomes a door left open. Networks of hijacked cameras have been used to knock websites offline. Manufacturers rarely say for how long they will supply updates, and a five-year-old device may already be receiving none."
+            },
+            {
+              "label": "D",
+              "text": "Rules have not caught up. It is often unclear whether the seller, the platform or the manufacturer is responsible for a device that misbehaves, and privacy notices are written for lawyers. Some countries now require that connected devices meet basic security standards before sale, and the labels that result are more useful to shoppers than a hundred pages of terms."
+            },
+            {
+              "label": "E",
+              "text": "None of this argues for going back to a house with no switches that think. It argues for buying with the same care as one would apply to a locksmith. Choose firms that publish how long they will support a product, keep recordings on the device rather than in the cloud where possible, put the devices on a separate network, and ask of each gadget one question: what does it need to know to do its job?"
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the first paragraph emphasise about smart devices?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are always partly active by design."
+                },
+                {
+                  "key": "B",
+                  "text": "They save more money than they cost."
+                },
+                {
+                  "key": "C",
+                  "text": "They are mostly used in offices."
+                },
+                {
+                  "key": "D",
+                  "text": "They are difficult to install."
+                }
+              ],
+              "answer": "A",
+              "analysis": "A 段末：这些设备「按设计始终部分处于工作状态」——麦克风等待唤醒词、摄像头一动就录、恒温器上报空房温度。",
+              "type": "主旨题",
+              "evidencePara": "A",
+              "evidenceText": "always partly awake"
+            },
+            {
+              "number": 52,
+              "stem": "What does the thermostat data reveal, according to the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Which shops the family visits."
+                },
+                {
+                  "key": "B",
+                  "text": "How old the building is."
+                },
+                {
+                  "key": "C",
+                  "text": "How much electricity the neighbours use."
+                },
+                {
+                  "key": "D",
+                  "text": "Whether the owner is ill in bed."
+                }
+              ],
+              "answer": "D",
+              "analysis": "B 段：恒温器能看出有人生病卧床，活动规律还能显示房子何时没人。",
+              "type": "细节题",
+              "evidencePara": "B",
+              "evidenceText": "knows when someone is ill and staying in bed"
+            },
+            {
+              "number": 53,
+              "stem": "What makes cheap cameras a security risk?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They cannot be connected to a phone."
+                },
+                {
+                  "key": "B",
+                  "text": "They use weak default passwords and stop receiving updates."
+                },
+                {
+                  "key": "C",
+                  "text": "They are sold only to businesses."
+                },
+                {
+                  "key": "D",
+                  "text": "They record in poor quality."
+                }
+              ],
+              "answer": "B",
+              "analysis": "C 段：廉价摄像头出厂密码很弱，且厂商很少说明更新支持多久，老设备可能已收不到补丁，被劫持后组成僵尸网络。",
+              "type": "细节题",
+              "evidencePara": "C",
+              "evidenceText": "weak default passwords"
+            },
+            {
+              "number": 54,
+              "stem": "Why are privacy notices described as unhelpful?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They change every week."
+                },
+                {
+                  "key": "B",
+                  "text": "They are never shown before purchase."
+                },
+                {
+                  "key": "C",
+                  "text": "They are shorter than the law requires."
+                },
+                {
+                  "key": "D",
+                  "text": "They are written in language lawyers understand."
+                }
+              ],
+              "answer": "D",
+              "analysis": "D 段：责任归属不清，隐私声明「是写给律师看的」；作者认为安全标签比上百页条款更有用。",
+              "type": "推断题",
+              "evidencePara": "D",
+              "evidenceText": "privacy notices are written for lawyers"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author advise buyers to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Store all recordings in the cloud."
+                },
+                {
+                  "key": "B",
+                  "text": "Check how long the firm will support the product."
+                },
+                {
+                  "key": "C",
+                  "text": "Avoid all connected devices."
+                },
+                {
+                  "key": "D",
+                  "text": "Buy the cheapest model available."
+                }
+              ],
+              "answer": "B",
+              "analysis": "E 段：作者不建议回到没有智能开关的家，而是「像挑锁匠一样谨慎」：选会公布支持年限的厂商，尽量本地存储，并自问设备到底需要知道什么。",
+              "type": "推断题",
+              "evidencePara": "E",
+              "evidenceText": "publish how long they will support a product"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n中国瓷器历史悠久，早在几千年前，中国人就开始用高温烧制瓷器。瓷器洁白坚硬，既实用又美观，很快成为重要的出口商品。沿着海上丝绸之路，中国瓷器被运往亚非欧，深受当地人喜爱。在许多国家，瓷器不只是日用品，也被当作艺术品收藏。今天，制瓷技艺仍在传承，年轻工匠在传统造型中加入现代设计。",
+              "analysis": "【参考译文】\nChinese porcelain has a long history. As early as several thousand years ago, the Chinese began to fire porcelain at high temperatures. White, hard, and both useful and beautiful, it soon became an important export. Along the maritime Silk Road, Chinese porcelain was carried to Asia, Africa and Europe, where it was greatly admired. In many countries porcelain was not merely an object of daily use but also collected as a work of art. Today the old craft of porcelain making is still being passed on, and young craftsmen are adding modern design to traditional shapes.\n\n【要点】①「早在几千年前」用 As early as several thousand years ago；②「洁白、坚硬，既……又……」可用形容词短语 White, hard, and both useful and beautiful 作状语；③「被运往……深受喜爱」用被动语态，后接 where 定语从句；④「不只是……也……」用 not merely... but also...；⑤末句用现在进行时体现「仍在传承」。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
