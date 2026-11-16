@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { apiFetch } from "@/lib/api-client";
+import { withSharecode } from "@/lib/share-code";
 import { generateNovel, MODE_LABEL, warmUpCloud, type GenMode } from "@/lib/creation-client";
 import {
   DEFAULT_NOVEL_OPTIONS,
@@ -49,6 +50,11 @@ export function NovelStudio({ workId }: { workId?: string }) {
   const [error, setError] = useState("");
   const [savedTip, setSavedTip] = useState("");
   const [copied, setCopied] = useState(false);
+  const [uploading, setUploading] = useState(false);
+  const [ingestNote, setIngestNote] = useState("");
+  const [previewOpen, setPreviewOpen] = useState(false);
+  const [exporting, setExporting] = useState(false);
+  const fileRef = useRef<HTMLInputElement | null>(null);
   const resultRef = useRef<HTMLElement | null>(null);
 
   const loadSaved = useCallback(async (id: string) => {
@@ -72,6 +78,65 @@ export function NovelStudio({ workId }: { workId?: string }) {
     warmUpCloud();
     if (workId) void loadSaved(workId);
   }, [workId, loadSaved]);
+
+  /** 上传 PDF/Word/txt/zip → 服务端抽文本 → 填入编辑框供校对 */
+  const ingest = async (file: File | undefined) => {
+    if (!file) return;
+    setUploading(true);
+    setIngestNote("");
+    setError("");
+    try {
+      const form = new FormData();
+      form.append("file", file);
+      const data = await apiFetch<{
+        text: string;
+        files: string[];
+        skipped: string[];
+        truncated: boolean;
+      }>("/api/create/ingest", { method: "POST", body: form });
+      const next = data.text.slice(0, MAX_SOURCE_CHARS);
+      setSource((prev) => (prev.trim() ? `${prev}\n\n${next}` : next));
+      const bits = [`已读取 ${data.files.length} 个文件`];
+      if (data.skipped.length) bits.push(`跳过 ${data.skipped.length} 项不支持文件`);
+      if (data.truncated || data.text.length > MAX_SOURCE_CHARS) bits.push("文本过长已截断，请检查");
+      bits.push("请在左侧校对后再生成");
+      setIngestNote(bits.join(" · "));
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "文件解析失败");
+    } finally {
+      setUploading(false);
+      if (fileRef.current) fileRef.current.value = "";
+    }
+  };
+
+  /** 导出 Word：服务端 docx 库生成 .docx 下载 */
+  const exportDocx = async () => {
+    if (!output) return;
+    setExporting(true);
+    setError("");
+    try {
+      const response = await fetch(withSharecode("/api/create/export"), {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ format: "docx", title: output.title, output }),
+      });
+      if (!response.ok) {
+        const msg = await response.json().catch(() => null);
+        throw new Error(msg?.message ?? `导出失败（HTTP ${response.status}）`);
+      }
+      const blob = await response.blob();
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `${(output.title || "adaptation").replace(/[\\/:*?"<>|]/g, "").slice(0, 40)}.docx`;
+      a.click();
+      URL.revokeObjectURL(url);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "导出 Word 失败");
+    } finally {
+      setExporting(false);
+    }
+  };
 
   const chars = source.replace(/\s/g, "").length;
   const paragraphs = splitParagraphs(source, options.paragraphs).length;
@@ -157,6 +222,26 @@ export function NovelStudio({ workId }: { workId?: string }) {
             {chars}/{MAX_SOURCE_CHARS}
           </span>
         </div>
+
+        {/* 文件上传：PDF / Word / Markdown / TXT / ZIP，解析后填入编辑框供校对 */}
+        <input
+          ref={fileRef}
+          type="file"
+          accept=".pdf,.docx,.txt,.md,.markdown,.zip"
+          className="hidden"
+          onChange={(e) => void ingest(e.target.files?.[0])}
+        />
+        <button
+          type="button"
+          onClick={() => fileRef.current?.click()}
+          disabled={uploading}
+          className="mt-2 flex w-full items-center justify-center gap-2 rounded-[11px] border border-dashed border-line bg-paper/50 px-3 py-2.5 text-[12px] text-ink-soft transition-colors hover:border-accent hover:text-accent disabled:opacity-50"
+        >
+          <span aria-hidden>↑</span>
+          {uploading ? "正在读取文件…" : "上传文件导入（PDF / Word / TXT / MD / ZIP）"}
+        </button>
+        {ingestNote && <p className="mt-1.5 text-[11px] leading-[1.6] text-correct">{ingestNote}</p>}
+
         <textarea
           value={source}
           onChange={(e) => setSource(e.target.value.slice(0, MAX_SOURCE_CHARS))}
@@ -321,6 +406,13 @@ export function NovelStudio({ workId }: { workId?: string }) {
               <div className="flex flex-wrap gap-2">
                 <button
                   type="button"
+                  onClick={() => setPreviewOpen(true)}
+                  className="rounded-full border border-accent px-3 py-1.5 text-[11.5px] text-accent transition-colors hover:bg-accent-soft"
+                >
+                  预览 / 存 PDF
+                </button>
+                <button
+                  type="button"
                   onClick={() => void copyEnglish()}
                   className="rounded-full border border-line px-3 py-1.5 text-[11.5px] text-ink-soft transition-colors hover:border-accent hover:text-accent"
                 >
@@ -332,6 +424,14 @@ export function NovelStudio({ workId }: { workId?: string }) {
                   className="rounded-full bg-ink px-3 py-1.5 text-[11.5px] text-paper"
                 >
                   保存
+                </button>
+                <button
+                  type="button"
+                  onClick={() => void exportDocx()}
+                  disabled={exporting}
+                  className="rounded-full border border-line px-3 py-1.5 text-[11.5px] text-ink-soft transition-colors hover:border-accent hover:text-accent disabled:opacity-50"
+                >
+                  {exporting ? "导出中…" : "导出 Word"}
                 </button>
                 <button
                   type="button"
@@ -403,6 +503,77 @@ export function NovelStudio({ workId }: { workId?: string }) {
           </div>
         )}
       </section>
+
+      {/* 预览弹窗：所见即所得，浏览器打印即可存为 PDF（中文渲染完美、零字体依赖） */}
+      {previewOpen && output && (
+        <div className="novel-preview-overlay" role="dialog" aria-modal="true" aria-label="改编稿预览">
+          <div className="novel-preview-bar no-print">
+            <span className="text-[12px] text-ink-soft">预览 · 排版即最终导出样式</span>
+            <div className="flex gap-2">
+              <button
+                type="button"
+                onClick={() => window.print()}
+                className="rounded-full bg-ink px-4 py-1.5 text-[12px] text-paper"
+              >
+                打印 / 存为 PDF
+              </button>
+              <button
+                type="button"
+                onClick={() => setPreviewOpen(false)}
+                className="rounded-full border border-line px-4 py-1.5 text-[12px] text-ink-soft"
+              >
+                关闭
+              </button>
+            </div>
+          </div>
+          <div className="novel-preview-scroll">
+            <article className="novel-preview-paper">
+              <h1>{output.title}</h1>
+              {output.subtitle && <p className="np-subtitle">{output.subtitle}</p>}
+              <p className="np-meta">
+                段级对照 · {output.paragraphs.length} 段 · 英文约 {output.wordCount} 词
+              </p>
+
+              <h2>段级对照</h2>
+              {output.paragraphs.map((p, i) => (
+                <section key={i} className="np-para">
+                  <p className="np-label">原文 {i + 1}</p>
+                  <p className="np-zh">{p.zh}</p>
+                  <p className="np-label np-en-label">English {i + 1}</p>
+                  <p className="np-en">{p.en || "（未生成英文）"}</p>
+                </section>
+              ))}
+
+              {output.glossary.length > 0 && (
+                <>
+                  <h2>专名表</h2>
+                  <table className="np-table">
+                    <tbody>
+                      {output.glossary.map((g) => (
+                        <tr key={g.term}>
+                          <td className="np-term">{g.term}</td>
+                          <td>{g.gloss}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </>
+              )}
+
+              {output.notes.length > 0 && (
+                <>
+                  <h2>改编说明</h2>
+                  <ul className="np-notes">
+                    {output.notes.map((n, i) => (
+                      <li key={i}>{n}</li>
+                    ))}
+                  </ul>
+                </>
+              )}
+            </article>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

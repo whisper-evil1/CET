@@ -34,10 +34,13 @@ export async function apiFetch<T>(input: string, init?: RequestInit): Promise<T>
   // 1. 给相对路径自动补 sharecode 参数，作为 __wb_rsc cookie 丢失时的兜底通道
   const url = withSharecode(input);
 
+  // FormData 必须由浏览器自己设 Content-Type 并带 boundary；手动写 application/json
+  // 会丢掉 boundary，导致 multipart 上传解析失败（拍照搜题走这条路）。
+  const isForm = typeof FormData !== "undefined" && init?.body instanceof FormData;
   const response = await fetch(url, {
     ...init,
     headers: {
-      ...(init?.body ? { "Content-Type": "application/json" } : {}),
+      ...(init?.body && !isForm ? { "Content-Type": "application/json" } : {}),
       ...(init?.headers ?? {}),
     },
   });

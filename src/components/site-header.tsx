@@ -16,7 +16,8 @@ export async function SiteHeader({
     | "favorites"
     | "profile"
     | "leaderboard"
-    | "mistakes";
+    | "mistakes"
+    | "solve";
 }) {
   const session = await auth();
   const user = session?.user;
@@ -31,6 +32,7 @@ export async function SiteHeader({
     { href: "/arcade", label: "闯关", key: "arcade" },
     { href: "/create", label: "创作", key: "create" },
     { href: "/vocab", label: "生词本", key: "vocab" },
+    { href: "/solve/photo", label: "搜题", key: "solve" },
     { href: "/mistakes", label: "错题", key: "mistakes" },
     { href: "/favorites", label: "收藏", key: "favorites" },
     { href: "/leaderboard", label: "排行", key: "leaderboard" },

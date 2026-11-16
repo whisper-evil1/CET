@@ -2,17 +2,9 @@ import Link from "next/link";
 import { prisma } from "@/lib/prisma";
 import { auth } from "@/lib/auth";
 import { SiteHeader } from "@/components/site-header";
-import { DeleteWorkButton } from "@/components/create/delete-work-button";
+import { CreateHub, type HubWork } from "@/components/create/create-hub";
 
 export const dynamic = "force-dynamic";
-
-type WorkCard = {
-  id: string;
-  kind: string;
-  title: string;
-  createdAt: Date;
-  preview: string;
-};
 
 function previewOf(kind: string, output: string): string {
   try {
@@ -20,8 +12,7 @@ function previewOf(kind: string, output: string): string {
     if (kind === "novel") {
       const paragraphs = Array.isArray(data.paragraphs) ? data.paragraphs : [];
       const first = paragraphs[0] as { en?: string; zh?: string } | undefined;
-      const text = (first?.en || first?.zh || "") as string;
-      return text.slice(0, 90);
+      return ((first?.en || first?.zh || "") as string).slice(0, 90);
     }
     const hooks = Array.isArray(data.hooks) ? data.hooks : [];
     const first = typeof hooks[0] === "string" ? (hooks[0] as string) : "";
@@ -31,23 +22,30 @@ function previewOf(kind: string, output: string): string {
   }
 }
 
+/**
+ * 创作中心首页。
+ *
+ * 页面结构对齐参考图：顶部双渐变「创作平台」卡片 + 下方的作品 tab 网格。
+ * 样式沿用本站纸感设计系统（衬线标题 / 朱砂强调 / 低饱和页签色），
+ * 不引入截图里的高饱和渐变——那是另一套品牌语言，硬搬会和阅读区打架。
+ */
 export default async function CreateHubPage() {
   const session = await auth();
   const userId = session?.user?.id ?? null;
 
-  const works: WorkCard[] = userId
+  const rows: HubWork[] = userId
     ? (
         await prisma.creation.findMany({
           where: { userId },
           orderBy: { updatedAt: "desc" },
-          take: 12,
+          take: 24,
           select: { id: true, kind: true, title: true, createdAt: true, output: true },
         })
       ).map((row) => ({
         id: row.id,
         kind: row.kind,
         title: row.title,
-        createdAt: row.createdAt,
+        createdAt: row.createdAt.toISOString(),
         preview: previewOf(row.kind, row.output),
       }))
     : [];
@@ -57,122 +55,66 @@ export default async function CreateHubPage() {
       <SiteHeader active="create" />
       <main className="mx-auto max-w-[1180px] px-4 pb-20 sm:px-5">
         <section className="pt-7 sm:pt-9">
-          <p className="text-[10.5px] tracking-[0.26em] text-accent uppercase">Create</p>
-          <h1 className="mt-2 font-serif text-[26px] leading-tight text-ink sm:text-[32px]">
-            把中国的故事，写成英语世界读得懂的样子
+          <p className="text-[10.5px] tracking-[0.26em] text-accent uppercase">Creation Studio</p>
+          <h1 className="mt-2 font-serif text-[26px] leading-tight text-ink sm:text-[34px]">
+            用英语，讲好中国故事
           </h1>
-          <p className="mt-2 max-w-[58ch] text-[13px] leading-[1.85] text-ink-soft sm:text-[14px]">
-            两个工作台：一个是小说英译改编，段级对照、可导出；一个是短视频出海，
-            直接产出 YouTube Shorts / TikTok 的英文发布包。生成的每一件都能存进作品库。
+          <p className="mt-2 max-w-[62ch] text-[13px] leading-[1.85] text-ink-soft sm:text-[14px]">
+            学习 × 创作 × 连接世界。把中文小说改成海外读得懂的英文，把国内短视频转成可发布的英文成片。
+            生成结果自动存进作品库，随时回来接着改。
           </p>
         </section>
 
-        <section className="mt-6 grid gap-3 md:grid-cols-2">
-          <Link
-            href="/create/novel"
-            className="card-soft group flex flex-col justify-between p-5 transition-colors hover:border-accent/40"
-          >
-            <div>
-              <div className="flex items-center gap-2">
-                <span className="tile-rose flex h-10 w-10 items-center justify-center rounded-[10px] font-serif text-[17px]">
-                  译
-                </span>
-                <h2 className="font-serif text-[18px] text-ink">小说英译改编</h2>
-              </div>
-              <ul className="mt-3 space-y-1.5 text-[12.5px] leading-[1.75] text-ink-soft">
-                <li>· 段级左右对照，改没改丢一眼看得出来</li>
-                <li>· 文体三档：文学化 / 简明英语（B1）/ 青少年向</li>
-                <li>· 专名表 + 改编说明；可导出 Markdown</li>
-              </ul>
+        {/* 创作平台双卡：对齐参考图 11「创作平台卡片」的结构语言 */}
+        <section className="mt-7 grid gap-4 md:grid-cols-2" aria-label="创作平台入口">
+          <Link href="/create/novel" className="hub-entry hub-entry-novel">
+            <div className="hub-entry-top">
+              <span className="hub-entry-eyebrow">NOVEL · TRANSLATION</span>
+              <span className="hub-entry-mark" aria-hidden>译</span>
             </div>
-            <p className="mt-4 text-[12px] text-accent">打开工作台 →</p>
+            <div className="hub-entry-main">
+              <h2 className="hub-entry-title">小说翻译创作</h2>
+              <p className="hub-entry-lead">
+                把中国故事翻译成世界语言<br className="hidden sm:block" />让世界读懂中国
+              </p>
+            </div>
+            <div className="hub-entry-foot">
+              <span className="hub-entry-cta">开始创作 →</span>
+              <span className="hub-entry-deco" aria-hidden>书</span>
+            </div>
           </Link>
 
-          <Link
-            href="/create/video"
-            className="card-soft group flex flex-col justify-between p-5 transition-colors hover:border-accent/40"
-          >
-            <div>
-              <div className="flex items-center gap-2">
-                <span className="tile-sky flex h-10 w-10 items-center justify-center rounded-[10px] font-serif text-[17px]">
-                  影
-                </span>
-                <h2 className="font-serif text-[18px] text-ink">短视频出海</h2>
-              </div>
-              <ul className="mt-3 space-y-1.5 text-[12.5px] leading-[1.75] text-ink-soft">
-                <li>· 英文标题（≤60 字符，超了会标红）</li>
-                <li>· 3 个开场钩子 + 秒级分镜 + 字幕</li>
-                <li>· 话题标签 / 封面文案 / 发布描述</li>
-              </ul>
+          <Link href="/create/video" className="hub-entry hub-entry-video">
+            <div className="hub-entry-top">
+              <span className="hub-entry-eyebrow">SHORT VIDEO · GLOBAL</span>
+              <span className="hub-entry-mark" aria-hidden>影</span>
             </div>
-            <p className="mt-4 text-[12px] text-accent">打开工作台 →</p>
+            <div className="hub-entry-main">
+              <h2 className="hub-entry-title">短视频出海创作</h2>
+              <p className="hub-entry-lead">
+                把精彩的中国内容<br className="hidden sm:block" />制作成全球可发布的视频
+              </p>
+            </div>
+            <div className="hub-entry-foot">
+              <span className="hub-entry-cta">开始创作 →</span>
+              <span className="hub-entry-deco" aria-hidden>影</span>
+            </div>
           </Link>
         </section>
 
-        <section className="mt-9">
-          <div className="mb-3 flex flex-wrap items-baseline justify-between gap-2">
-            <h2 className="font-serif text-[19px] text-ink">作品库</h2>
-            <span className="text-[11.5px] text-ink-mute">
-              {userId ? `最近 ${works.length} 件` : "登录后显示"}
+        {/* 拍照搜题保留为窄条入口：它是真实功能，不因改版丢掉 */}
+        <Link href="/solve/photo" className="hub-solve-strip">
+          <span className="hub-solve-badge" aria-hidden>拍</span>
+          <span className="min-w-0 flex-1">
+            <span className="block text-[13px] font-medium text-ink">拍照搜题</span>
+            <span className="block text-[11.5px] text-ink-mute">
+              不会的题拍下来，Agent 识别后分步讲解；看不清会请你补拍，不硬猜答案
             </span>
-          </div>
+          </span>
+          <span className="text-[11.5px] text-accent">去搜题 →</span>
+        </Link>
 
-          {!userId && (
-            <div className="card-soft p-6 text-center">
-              <p className="text-[12.5px] text-ink-soft">登录后保存的作品会出现在这里。</p>
-              <Link
-                href="/login"
-                className="mt-3 inline-block rounded-full bg-ink px-4 py-2 text-[12.5px] text-paper"
-              >
-                去登录
-              </Link>
-            </div>
-          )}
-
-          {userId && works.length === 0 && (
-            <div className="card-soft p-6 text-center">
-              <p className="text-[12.5px] text-ink-soft">还没有作品。上面选一个工作台开始。</p>
-            </div>
-          )}
-
-          {works.length > 0 && (
-            <ul className="grid gap-2.5 sm:grid-cols-2">
-              {works.map((work) => (
-                <li key={work.id} className="card-soft p-4">
-                  <div className="flex items-start justify-between gap-3">
-                    <div className="min-w-0">
-                      <span
-                        className={`inline-block rounded-full px-2 py-0.5 text-[10.5px] ${
-                          work.kind === "novel" ? "tile-rose" : "tile-sky"
-                        }`}
-                      >
-                        {work.kind === "novel" ? "小说英译" : "短视频"}
-                      </span>
-                      <p className="mt-1.5 truncate font-serif text-[15px] text-ink">
-                        {work.title}
-                      </p>
-                      <p className="mt-1 line-clamp-2 text-[11.5px] leading-[1.7] text-ink-mute">
-                        {work.preview || "（无预览）"}
-                      </p>
-                    </div>
-                    <DeleteWorkButton id={work.id} />
-                  </div>
-                  <div className="mt-2 flex flex-wrap items-center gap-2">
-                    <Link
-                      href={`/create/${work.kind}?id=${work.id}`}
-                      className="rounded-full border border-line px-2.5 py-1 text-[11px] text-ink-soft transition-colors hover:border-accent hover:text-accent"
-                    >
-                      打开
-                    </Link>
-                    <span className="text-[10.5px] text-ink-mute">
-                      {new Date(work.createdAt).toLocaleDateString("zh-CN")}
-                    </span>
-                  </div>
-                </li>
-              ))}
-            </ul>
-          )}
-        </section>
+        <CreateHub works={rows} signedIn={Boolean(userId)} />
       </main>
     </div>
   );

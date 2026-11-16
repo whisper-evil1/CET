@@ -192,3 +192,22 @@ export const creationSchema = z.object({
   output: z.string().min(2).max(200000),
   meta: z.string().max(4000).optional(),
 });
+
+/* ---------------- v2.7 Agent 网关 ---------------- */
+
+/** Agent 创作请求：kind 决定走 WF1 还是 WF2；options 复用创作页既有结构 */
+export const agentCreationSchema = z.object({
+  kind: z.enum(["novel", "video"]),
+  text: z.string().trim().min(20, "至少写一段再生成").max(12000, "一次最多 12000 字"),
+  novel: novelOptionsSchema.optional(),
+  video: videoOptionsSchema.optional(),
+  source: z.enum(["import", "write"]).default("write"),
+  target_platform: z.string().trim().max(64).optional(),
+  client_request_id: z.string().trim().max(80).optional(),
+});
+
+/** 拍照搜题纯文本补充（图片走 multipart，不在这个 schema 里） */
+export const agentPhotoHintSchema = z.object({
+  hint_text: z.string().trim().max(2000).optional().default(""),
+  client_request_id: z.string().trim().max(80).optional(),
+});

@@ -1,6 +1,7 @@
 import { cloud, cloudReady } from "./cloud";
 import { describeCloudError, rankModels, streamCloudText, type StreamFactory } from "./cloud-stream";
 import { withSharecode, isPlatformBlock } from "./share-code";
+import { AGENT_ENABLED, submitAgentCreation } from "./agent-client";
 import {
   buildNovelPrompt,
   buildVideoPrompt,
@@ -22,9 +23,13 @@ import {
  *   3. 服务端也失败 → 抛错，由 UI 提示重试，绝不静默返回半截内容。
  *
  * 三条路的返回都带 mode，UI 必须如实标注当前用的是哪条 —— 骨架不能当译文展示。
+ *
+ * v2.7 起新增 Agent 通道：NEXT_PUBLIC_AGENT_MODE=1 时，创作请求先走
+ * /api/agent/creation（Dify 工作流优先、builtin 降级，含脱敏与出关复扫）；
+ * 该通道失败会透明回落到上面三级链路，默认关闭时对现有用户零影响。
  */
 
-export type GenMode = "cloud" | "server" | "offline";
+export type GenMode = "agent" | "cloud" | "server" | "offline";
 
 export type GenResult<T> = {
   mode: GenMode;
@@ -146,6 +151,22 @@ export async function generateNovel(
   options: NovelOptions,
   onProgress?: (chars: number) => void,
 ): Promise<GenResult<NovelOutput>> {
+  // Agent 通道（可选优先）：失败透明降级到下面的云/服务端链路
+  if (AGENT_ENABLED) {
+    try {
+      const agent = await submitAgentCreation({ kind: "novel", text, novel: options });
+      const output = agent.output as NovelOutput;
+      onProgress?.(output.paragraphs.map((p) => p.en).join(" ").length);
+      return {
+        mode: "agent",
+        output,
+        note: `${agent.mode === "dify" ? "Dify 工作流" : "内置 Agent"} · 脱敏 ${agent.redact_count} 项${agent.note ? ` · ${agent.note}` : ""}`,
+      };
+    } catch (error) {
+      console.warn("[creation] agent channel failed, fallback:", error);
+    }
+  }
+
   const prompt = buildNovelPrompt(text, options);
   const messages: Messages = [
     { role: SYSTEM_ROLE, content: prompt.system },
@@ -193,6 +214,22 @@ export async function generateVideo(
   options: VideoOptions,
   onProgress?: (chars: number) => void,
 ): Promise<GenResult<VideoOutput>> {
+  // Agent 通道（可选优先）：失败透明降级到下面的云/服务端链路
+  if (AGENT_ENABLED) {
+    try {
+      const agent = await submitAgentCreation({ kind: "video", text, video: options });
+      const output = agent.output as VideoOutput;
+      onProgress?.(output.scenes.map((s) => s.voiceover).join(" ").length);
+      return {
+        mode: "agent",
+        output,
+        note: `${agent.mode === "dify" ? "Dify 工作流" : "内置 Agent"} · 脱敏 ${agent.redact_count} 项${agent.note ? ` · ${agent.note}` : ""}`,
+      };
+    } catch (error) {
+      console.warn("[creation] agent channel failed, fallback:", error);
+    }
+  }
+
   const prompt = buildVideoPrompt(text, options);
   const messages: Messages = [
     { role: SYSTEM_ROLE, content: prompt.system },
@@ -234,6 +271,7 @@ export async function generateVideo(
 }
 
 export const MODE_LABEL: Record<GenMode, string> = {
+  agent: "Agent 工作流",
   cloud: "云模型",
   server: "服务端模型",
   offline: "离线骨架",
