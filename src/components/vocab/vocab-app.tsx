@@ -135,18 +135,24 @@ export function VocabApp() {
     );
   }
 
+  /*
+   * 容器宽度：760 → 1180。
+   * 760 在 1440 屏上只占一半，词书两栏被压到 720px，右栏只剩 370px，
+   * 词表里「单词列 + 音标列」的固定宽一挤，释义列就被压成竖排一个字一行。
+   * 放宽到 1180 后两栏都有余量，窄屏仍由 px/pb 自适应。
+   */
   return (
-    <div className="mx-auto max-w-[760px] px-5 pb-28">
+    <div className="mx-auto max-w-[1180px] px-5 pb-28 sm:px-6">
       {/* 标题 + 三个入口 */}
-      <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-line py-6">
-        <h1 className="font-serif text-[26px] text-ink">{TITLES[section]}</h1>
-        <div className="flex items-center gap-1">
+      <div className="flex flex-wrap items-baseline justify-between gap-3 border-b border-line py-7">
+        <h1 className="font-serif text-[30px] text-ink">{TITLES[section]}</h1>
+        <div className="flex items-center gap-1.5">
           {SECTIONS.map((item) => (
             <button
               key={item.key}
               type="button"
               onClick={() => setSection(item.key)}
-              className={`rounded-full px-3 py-1.5 text-[12px] transition-colors ${
+              className={`rounded-full px-4 py-2 text-[13.5px] transition-colors ${
                 section === item.key ? "bg-ink text-paper" : "text-ink-soft hover:bg-paper-deep"
               }`}
             >
@@ -156,7 +162,7 @@ export function VocabApp() {
           {/* 学习数据是「看结果」不是「切分区」，所以用描边按钮和上面三个页签区分开 */}
           <Link
             href="/vocab/stats"
-            className="ml-1 rounded-full border border-line px-3 py-1.5 text-[12px] text-ink-soft transition-colors hover:border-ink-mute hover:text-ink"
+            className="ml-1 rounded-full border border-line px-4 py-2 text-[13.5px] text-ink-soft transition-colors hover:border-ink-mute hover:text-ink"
           >
             学习数据
           </Link>

@@ -233,10 +233,10 @@ export function WordbookShelf({ onImported }: { onImported?: () => void }) {
   }
 
   if (isLoading) {
-    return <p className="py-16 text-center text-[13px] text-ink-mute">正在取你的词书…</p>;
+    return <p className="py-16 text-center text-[14.5px] text-ink-mute">正在取你的词书…</p>;
   }
   if (error) {
-    return <p className="py-16 text-center text-[13px] text-wrong">词书加载失败，刷新再试。</p>;
+    return <p className="py-16 text-center text-[14.5px] text-wrong">词书加载失败，刷新再试。</p>;
   }
 
   return (
@@ -254,33 +254,34 @@ export function WordbookShelf({ onImported }: { onImported?: () => void }) {
         </p>
       )}
 
-      <div className="grid gap-5 lg:grid-cols-[330px_minmax(0,1fr)]">
+      <div className="grid gap-6 lg:grid-cols-[320px_minmax(0,1fr)] xl:grid-cols-[380px_minmax(0,1fr)]">
         {/* 左侧：书架 */}
         <aside className="min-w-0">
-          <ul className="space-y-2">
+          <ul className="space-y-2.5">
             {books.map((book) => {
               const active = selectedId === book.id;
               return (
                 <li key={book.id}>
                   <button
                     type="button"
+                    data-wb-book={book.count}
                     onClick={() => setSelectedId(active ? null : book.id)}
-                    className={`w-full rounded-[12px] border px-5 py-4 text-left transition-colors ${
+                    className={`w-full rounded-[12px] border px-5 py-[18px] text-left transition-colors ${
                       active ? "border-accent bg-accent-soft/30" : "border-line bg-surface hover:border-ink-mute"
                     }`}
                   >
                     <div className="flex items-baseline gap-2.5">
-                      <span className="min-w-0 flex-1 truncate font-serif text-[19px] text-ink">
+                      <span className="min-w-0 flex-1 truncate font-serif text-[21px] text-ink">
                         {book.name}
                       </span>
-                      <span className="shrink-0 rounded-full bg-paper-deep px-2.5 py-1 text-[12px] text-ink-mute">
+                      <span className="shrink-0 rounded-full bg-paper-deep px-2.5 py-1 text-[12.5px] text-ink-mute">
                         {KIND_LABEL[book.kind]}
                       </span>
                     </div>
-                    <div className="mt-1.5 flex items-center gap-2.5">
-                      <span className="font-mono text-[13.5px] text-ink-mute">{book.count} 词</span>
+                    <div className="mt-2 flex items-center gap-2.5">
+                      <span className="font-mono text-[14.5px] text-ink-mute">{book.count} 词</span>
                       {book.isDefault && (
-                        <span className="rounded-full bg-ink px-2 py-1 text-[11.5px] text-paper">默认</span>
+                        <span className="rounded-full bg-ink px-2 py-1 text-[12px] text-paper">默认</span>
                       )}
                     </div>
                   </button>
@@ -291,7 +292,7 @@ export function WordbookShelf({ onImported }: { onImported?: () => void }) {
 
           {/* 新建 */}
           <div className="mt-4 rounded-[12px] border border-dashed border-line bg-paper-deep/30 p-4">
-            <p className="text-[14px] text-ink-soft">新建一本词本</p>
+            <p className="text-[14.5px] text-ink-soft">新建一本词本</p>
             <div className="mt-2.5 flex gap-2.5">
               <input
                 value={newName}
@@ -307,7 +308,7 @@ export function WordbookShelf({ onImported }: { onImported?: () => void }) {
                 type="button"
                 onClick={() => void createBook()}
                 disabled={busy || !newName.trim()}
-                className="shrink-0 rounded-[8px] bg-ink px-5 py-2.5 text-[14px] text-paper disabled:opacity-35"
+                className="shrink-0 rounded-[8px] bg-ink px-5 py-2.5 text-[14.5px] text-paper disabled:opacity-35"
               >
                 新建
               </button>
@@ -324,13 +325,16 @@ export function WordbookShelf({ onImported }: { onImported?: () => void }) {
           ) : (
             <div className="rounded-[12px] border border-line bg-surface">
               {/* 头部：书名 + 操作 */}
-              <div className="flex flex-wrap items-center gap-3 border-b border-line px-5 py-4">
-                <h3 className="min-w-0 font-serif text-[21px] text-ink">{selected.name}</h3>
-                <span className="font-mono text-[14px] text-ink-mute">
-                  {wordData?.words.length ?? selected.count} 个词
+              <div className="flex flex-wrap items-center gap-3 border-b border-line px-6 py-[18px]">
+                <h3 className="min-w-0 font-serif text-[24px] text-ink">{selected.name}</h3>
+                <span className="font-mono text-[15px] text-ink-mute">
+                  {/* 书里有 1500 词但列表只取前 200 条时，写成「200 / 1500」才不会被误读成书缩水 */}
+                  {wordData && wordData.words.length < selected.count
+                    ? `${wordData.words.length} / ${selected.count} 个词`
+                    : `${wordData?.words.length ?? selected.count} 个词`}
                 </span>
                 {selected.rule && (
-                  <span className="hidden min-w-0 flex-1 truncate text-[12.5px] text-ink-mute sm:block">
+                  <span className="hidden min-w-0 flex-1 truncate text-[13px] text-ink-mute sm:block">
                     {selected.rule}
                   </span>
                 )}
@@ -340,7 +344,7 @@ export function WordbookShelf({ onImported }: { onImported?: () => void }) {
                     type="button"
                     disabled={selected.count === 0}
                     onClick={() => void startStudy(selected)}
-                    className="rounded-full bg-ink px-5 py-2.5 text-[14.5px] text-paper disabled:opacity-30"
+                    className="rounded-full bg-ink px-5 py-2.5 text-[15px] text-paper disabled:opacity-30"
                   >
                     开始背（四选一 · 连对 3 次）
                   </button>
@@ -376,7 +380,7 @@ export function WordbookShelf({ onImported }: { onImported?: () => void }) {
 
               {/* 自建词本的加词工具条 */}
               {selected.kind === "custom" && (
-                <div className="flex flex-wrap items-center gap-2.5 border-b border-line-soft px-5 py-3">
+                <div className="flex flex-wrap items-center gap-2.5 border-b border-line-soft px-6 py-3.5">
                   <input
                     value={adding}
                     onChange={(e) => setAdding(e.target.value)}
@@ -414,31 +418,41 @@ export function WordbookShelf({ onImported }: { onImported?: () => void }) {
               )}
 
               {/* 词表 */}
-              {wordsLoading && <p className="px-5 py-8 text-[15px] text-ink-mute">正在取词…</p>}
+              {wordsLoading && <p className="px-6 py-8 text-[15.5px] text-ink-mute">正在取词…</p>}
 
               {!wordsLoading && (
+                /*
+                 * 词表行用 grid + minmax(0,…)，不用「固定 rem 宽 + flex-1」：
+                 * 固定宽在 flex 里不收缩，容器一窄就把释义列压到几十像素，
+                 * 中文被逐字换行，看起来像一列只有一个字的竖排。
+                 * minmax 下限是 0，列可以收缩到刚好放得下，永远不会把释义挤没。
+                 */
                 <ul className="divide-y divide-line-soft">
                   {(wordData?.words ?? []).map((item) => (
-                    <li key={item.word} className="flex items-baseline gap-4 px-5 py-4">
-                      <span className="w-[11rem] shrink-0 truncate font-serif text-[19px] text-ink">
+                    <li
+                      key={item.word}
+                      data-wb-row=""
+                      className="grid gap-x-6 gap-y-1 px-6 py-[18px] md:grid-cols-[minmax(0,10.5rem)_minmax(0,7rem)_minmax(0,1fr)_auto] md:items-baseline"
+                    >
+                      <span data-wb-word="" className="min-w-0 break-words font-serif text-[22px] leading-tight text-ink">
                         {item.word}
                       </span>
-                      {item.phonetic && (
-                        <span className="hidden w-[7.5rem] shrink-0 font-mono text-[13.5px] text-ink-mute md:block">
-                          {item.phonetic}
-                        </span>
-                      )}
-                      <span className="min-w-0 flex-1 text-[15.5px] leading-relaxed text-ink-soft">
+                      <span className="hidden min-w-0 truncate font-mono text-[15px] text-ink-mute md:block">
+                        {item.phonetic ?? ""}
+                      </span>
+                      <span data-wb-def="" className="min-w-0 break-words text-[17px] leading-[1.75] text-ink-soft">
                         {item.definitions.map((d) => `${d.pos} ${d.zh}`.trim()).join("；") || "（暂无释义）"}
                       </span>
-                      {selected.kind === "custom" && (
+                      {selected.kind === "custom" ? (
                         <button
                           type="button"
                           onClick={() => void removeWord(item.word)}
-                          className="shrink-0 text-[13px] text-ink-mute hover:text-wrong"
+                          className="justify-self-start text-[13.5px] text-ink-mute hover:text-wrong md:justify-self-end"
                         >
                           移出
                         </button>
+                      ) : (
+                        <span className="hidden md:block" aria-hidden />
                       )}
                     </li>
                   ))}
@@ -446,7 +460,7 @@ export function WordbookShelf({ onImported }: { onImported?: () => void }) {
               )}
 
               {!wordsLoading && (wordData?.words.length ?? 0) === 0 && (
-                <p className="px-5 py-10 text-center text-[15px] text-ink-mute">
+                <p className="px-6 py-10 text-center text-[15.5px] text-ink-mute">
                   {selected.kind === "reading"
                     ? "生词本还是空的。去刷题遇到不认识的词点一下，或手动加词，就会出现在这里。"
                     : selected.kind === "custom"

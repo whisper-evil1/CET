@@ -101,7 +101,7 @@ export function WordListView({
               key={item.key}
               type="button"
               onClick={() => onTabChange(item.key)}
-              className={`rounded-full px-3 py-1.5 text-[12px] transition-colors ${
+              className={`rounded-full px-4 py-2 text-[13.5px] transition-colors ${
                 tab === item.key ? "bg-ink text-paper" : "text-ink-soft hover:bg-paper-deep"
               }`}
             >
@@ -110,7 +110,7 @@ export function WordListView({
           ))}
         </div>
 
-        <div className="flex items-center gap-1 text-[11.5px]">
+        <div className="flex items-center gap-1 text-[12.5px]">
           {(
             [
               { key: "recent" as const, label: "最近添加" },
@@ -121,7 +121,7 @@ export function WordListView({
               key={item.key}
               type="button"
               onClick={() => onSortChange(item.key)}
-              className={`rounded-full px-2.5 py-1 transition-colors ${
+              className={`rounded-full px-3 py-1.5 transition-colors ${
                 sort === item.key
                   ? "bg-paper-deep text-ink"
                   : "text-ink-mute hover:text-ink-soft"
@@ -134,7 +134,7 @@ export function WordListView({
       </div>
 
       {dueBadge && words.length > 0 && (
-        <p className="mt-2 text-[11.5px] text-ink-mute">{dueBadge}</p>
+        <p className="mt-2.5 text-[12.5px] text-ink-mute">{dueBadge}</p>
       )}
 
       {/*
@@ -150,14 +150,14 @@ export function WordListView({
         >
           <span aria-hidden="true" className="text-[19px]">🧠</span>
           <span className="min-w-0 flex-1">
-            <span className="block text-[13.5px] font-medium text-ink">
+            <span className="block text-[15px] font-medium text-ink">
               背单词 · 连对 3 次才算过
             </span>
-            <span className="mt-0.5 block text-[11.5px] leading-relaxed text-ink-mute">
+            <span className="mt-1 block text-[13px] leading-relaxed text-ink-mute">
               先给词不给义，近义词当干扰；全部过关后再走一轮回顾
             </span>
           </span>
-          <span className="shrink-0 text-[12px] text-accent">开始 →</span>
+          <span className="shrink-0 text-[13.5px] text-accent">开始 →</span>
         </button>
       )}
 
@@ -174,14 +174,14 @@ export function WordListView({
         >
           <span aria-hidden="true" className="text-[19px]">📖</span>
           <span className="min-w-0 flex-1">
-            <span className="block text-[13.5px] font-medium text-ink">
+            <span className="block text-[15px] font-medium text-ink">
               单词串故事 · 边读边记
             </span>
-            <span className="mt-0.5 block text-[11.5px] leading-relaxed text-ink-mute">
+            <span className="mt-1 block text-[13px] leading-relaxed text-ink-mute">
               随机挑 8 个生词串成一篇英文小故事，目标词加粗并附中文释义，还能熄屏连续听
             </span>
           </span>
-          <span className="shrink-0 text-[12px] text-accent">开始 →</span>
+          <span className="shrink-0 text-[13.5px] text-accent">开始 →</span>
         </button>
       )}
 
@@ -193,25 +193,25 @@ export function WordListView({
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="搜索单词或释义…"
-            className="w-full rounded-[8px] border border-line bg-surface px-4 py-2 text-[13px] text-ink outline-none transition-colors placeholder:text-ink-mute/60 focus:border-accent"
+            className="w-full rounded-[8px] border border-line bg-surface px-4 py-2.5 text-[14.5px] text-ink outline-none transition-colors placeholder:text-ink-mute/60 focus:border-accent"
           />
         </div>
       )}
 
       {/* 加载/错误/空 */}
-      {isLoading && <p className="py-16 text-center text-[13px] text-ink-mute">加载中…</p>}
+      {isLoading && <p className="py-16 text-center text-[14.5px] text-ink-mute">加载中…</p>}
       {error != null && (
-        <p className="py-12 text-center text-[13px] text-wrong">
+        <p className="py-12 text-center text-[14.5px] text-wrong">
           {error instanceof Error ? error.message : "加载失败"}
         </p>
       )}
 
       {!isLoading && error == null && words.length === 0 && (
         <div className="py-16 text-center">
-          <p className="text-[13.5px] text-ink-soft">
+          <p className="text-[15px] text-ink-soft">
             {tab === "learning" ? "生词本还是空的" : "还没有已掌握的单词"}
           </p>
-          <p className="mt-2 text-[12.5px] leading-[1.7] text-ink-mute">
+          <p className="mt-2.5 max-w-[48ch] text-[13.5px] leading-[1.8] text-ink-mute">
             {tab === "learning"
               ? "上面「词书」里可以一键导入四六级高频词，「导入」里可以粘自己的词表，刷题时点单词也能加进来"
               : "认识满 3 次的词会自动移到这里"}
@@ -223,13 +223,13 @@ export function WordListView({
       {!isLoading && error == null && filtered.length > 0 && (
         <ul className="mt-3 divide-y divide-line-soft border-t border-line">
           {filtered.map((word) => (
-            <li key={word.id} className="flex items-start gap-3 py-3.5">
+            <li key={word.id} data-vl-row="" className="flex items-start gap-3.5 py-[18px]">
               {/* 发音 */}
               <button
                 type="button"
                 onClick={() => speak(word.word)}
                 aria-label={`朗读 ${word.word}`}
-                className="mt-0.5 h-8 w-8 shrink-0 rounded-full border border-line text-[13px] text-ink-soft transition-colors hover:border-accent hover:text-accent"
+                className="mt-0.5 h-9 w-9 shrink-0 rounded-full border border-line text-[14px] text-ink-soft transition-colors hover:border-accent hover:text-accent"
               >
                 🔊
               </button>
@@ -237,41 +237,41 @@ export function WordListView({
               {/* 单词 + 释义（全部直接可见） */}
               <div className="min-w-0 flex-1">
                 <div className="flex flex-wrap items-baseline gap-x-2 gap-y-1">
-                  <span className="font-serif text-[17px] text-ink">{word.word}</span>
+                  <span data-vl-word="" className="font-serif text-[20px] text-ink">{word.word}</span>
                   {word.phonetic && (
-                    <span className="font-mono text-[11.5px] text-ink-mute">{word.phonetic}</span>
+                    <span className="font-mono text-[13px] text-ink-mute">{word.phonetic}</span>
                   )}
                   <span
-                    className={`rounded-full border px-1.5 py-[1px] font-mono text-[10px] ${priorityTone(word.priority)}`}
+                    className={`rounded-full border px-2 py-[1px] font-mono text-[11px] ${priorityTone(word.priority)}`}
                     title={word.reason || "优先级"}
                   >
                     {Math.round(word.priority)}
                   </span>
                   <span
-                    className={`text-[10.5px] ${word.overdue ? "text-wrong" : "text-ink-mute"}`}
+                    className={`text-[11.5px] ${word.overdue ? "text-wrong" : "text-ink-mute"}`}
                   >
                     {word.dueLabel}
                   </span>
                   {tab === "learning" && (
-                    <span className="ml-auto shrink-0 font-mono text-[11px] text-ink-mute">
+                    <span className="ml-auto shrink-0 font-mono text-[12px] text-ink-mute">
                       {word.reviewCount}/3
                     </span>
                   )}
                 </div>
                 {word.definitions.length > 0 ? (
-                  <p className="mt-1 text-[13px] leading-[1.6] text-ink-soft">
+                  <p data-vl-def="" className="mt-1.5 text-[15.5px] leading-[1.7] text-ink-soft">
                     {word.definitions.map((d) => `${d.pos} ${d.zh}`).join("；")}
                   </p>
                 ) : (
-                  <p className="mt-1 text-[12.5px] italic text-ink-mute">释义待补</p>
+                  <p className="mt-1.5 text-[14px] italic text-ink-mute">释义待补</p>
                 )}
                 {word.example && (
-                  <p className="mt-1.5 font-serif text-[12px] leading-[1.6] text-ink-mute">
+                  <p className="mt-2 font-serif text-[13.5px] leading-[1.7] text-ink-mute">
                     {word.example}
                   </p>
                 )}
                 {word.reason && (
-                  <p className="mt-1 text-[10.5px] text-ink-mute/80">{word.reason}</p>
+                  <p className="mt-1.5 text-[11.5px] text-ink-mute/80">{word.reason}</p>
                 )}
               </div>
 
@@ -280,7 +280,7 @@ export function WordListView({
                 <button
                   type="button"
                   onClick={() => void removeWord(word.word)}
-                  className="text-[11.5px] text-ink-mute transition-colors hover:text-wrong"
+                  className="text-[12.5px] text-ink-mute transition-colors hover:text-wrong"
                   aria-label={`移除 ${word.word}`}
                 >
                   ✕
@@ -289,7 +289,7 @@ export function WordListView({
                   <button
                     type="button"
                     onClick={() => void resetWord(word.id)}
-                    className="text-[11.5px] text-ink-soft underline-offset-2 hover:text-accent hover:underline"
+                    className="text-[12.5px] text-ink-soft underline-offset-2 hover:text-accent hover:underline"
                   >
                     移回
                   </button>
@@ -303,7 +303,7 @@ export function WordListView({
       {/* 底部固定操作栏 */}
       {!isLoading && error == null && tab === "learning" && words.length > 0 && (
         <div className="fixed inset-x-0 bottom-0 z-10 border-t border-line bg-surface/95 backdrop-blur-sm">
-          <div className="mx-auto flex max-w-[760px] gap-2 px-5 py-3">
+          <div className="mx-auto flex max-w-[1180px] gap-2.5 px-5 py-3.5">
             <button
               type="button"
               onClick={onStartFlash}
