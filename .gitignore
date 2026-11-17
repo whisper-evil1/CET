@@ -71,3 +71,6 @@ prisma/*.db-journal
 
 # dev 与生产产物目录分离后的 dev 产物（见 next.config.ts distDir）
 .next-dev/
+
+# 生产启动器写下的依赖完成标记（运行时产物）
+.deps-ok
