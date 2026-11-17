@@ -12,18 +12,19 @@ import { execFile } from "node:child_process";
 import { promisify } from "node:util";
 import fs from "node:fs";
 import path from "node:path";
-import puppeteer from "puppeteer-core";
 
 const execFileAsync = promisify(execFile);
 
-const BASE = process.env.BASE || "http://127.0.0.1:3100";
+const BASE = (process.env.BASE || "http://127.0.0.1:3100").replace(/\/$/, "");
 const SC = process.env.SC || "";
-const CHROME = process.env.CHROME || "C:/Program Files/Google/Chrome/Application/chrome.exe";
 const FFMPEG =
   process.env.FFMPEG_BIN || path.join(process.cwd(), "node_modules", "ffmpeg-static", "ffmpeg.exe");
+const UA =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
 const OUT_DIR = path.join(process.cwd(), "_shots");
 const SRC = path.join(OUT_DIR, "_dub-src.mp4");
 const OUT = path.join(OUT_DIR, "_dub-out.mp4");
+const withShare = (p) => (SC ? `${p}${p.includes("?") ? "&" : "?"}sharecode=${SC}` : p);
 
 const LINES = [
   "Many people think hotpot is just about spice, but Chengdu locals care about aroma.",
@@ -116,52 +117,45 @@ async function meanVolume(file) {
   return m ? Number(m[1]) : NaN;
 }
 
-const browser = await puppeteer.launch({
-  executablePath: CHROME,
-  headless: "new",
-  args: ["--no-sandbox", "--mute-audio"],
-});
-const page = await browser.newPage();
-await page.setViewport({ width: 1440, height: 1000 });
-
-async function waitHydrated() {
-  for (let i = 0; i < 40; i += 1) {
-    const ready = await page
-      .evaluate(() => Object.keys(document.body || {}).some((k) => k.startsWith("__react")))
-      .catch(() => false);
-    if (ready) return true;
-    await sleep(1000);
+/* 会话走 NextAuth 的 credentials 接口拿，不依赖浏览器点按钮：
+   线上登录页水合慢，脚本点「演示账号」经常点空，登录失败会让整轮验收白跑。 */
+const jar = new Map();
+const absorbCookies = (res) => {
+  for (const c of res.headers.getSetCookie?.() ?? []) {
+    const [pair] = c.split(";");
+    const i = pair.indexOf("=");
+    if (i > 0) jar.set(pair.slice(0, i).trim(), pair.slice(i + 1).trim());
   }
-  return false;
-}
+};
+const cookieHeader = () => [...jar].map(([k, v]) => `${k}=${v}`).join("; ");
 
 async function login() {
-  await page
-    .goto(`${BASE}/login?sharecode=${SC}`, { waitUntil: "domcontentloaded", timeout: 60000 })
-    .catch(() => {});
-  await waitHydrated();
-  await sleep(1200);
-  for (let i = 0; i < 6; i += 1) {
-    const clicked = await page
-      .evaluate(() => {
-        const b = [...document.querySelectorAll("button")].find((x) =>
-          /演示账号/.test(x.textContent ?? ""),
-        );
-        if (b) {
-          b.click();
-          return true;
-        }
-        return false;
-      })
-      .catch(() => false);
-    if (clicked) break;
-    await sleep(1500);
+  let csrf = "";
+  for (let i = 0; i < 4 && !csrf; i += 1) {
+    const res = await fetch(BASE + withShare("/api/auth/csrf"), { headers: { "user-agent": UA } });
+    absorbCookies(res);
+    try {
+      csrf = JSON.parse(await res.text()).csrfToken ?? "";
+    } catch {
+      await sleep(2000);
+    }
   }
-  for (let i = 0; i < 12; i += 1) {
-    if (!page.url().includes("/login")) break;
-    await sleep(1500);
-  }
-  return !page.url().includes("/login");
+  if (!csrf) return false;
+
+  const res = await fetch(BASE + withShare("/api/auth/callback/credentials"), {
+    method: "POST",
+    redirect: "manual",
+    headers: { "content-type": "application/x-www-form-urlencoded", cookie: cookieHeader(), "user-agent": UA },
+    body: new URLSearchParams({
+      email: process.env.EMAIL || "demo@cet.local",
+      password: process.env.PASSWORD || "demo1234",
+      csrfToken: csrf,
+      callbackUrl: withShare("/"),
+      json: "true",
+    }),
+  });
+  absorbCookies(res);
+  return [...jar.keys()].some((k) => /session-token/.test(k));
 }
 
 try {
@@ -171,11 +165,8 @@ try {
 
   console.log("【1】登录拿会话");
   const ok = await login();
-  check("演示账号登录成功", ok, page.url().replace(BASE, ""));
+  check("演示账号登录成功", ok, BASE);
   if (!ok) throw new Error("登录失败，后续接口调用无从验证");
-
-  const cookies = await browser.cookies();
-  const cookieHeader = cookies.map((c) => `${c.name}=${c.value}`).join("; ");
 
   const post = async (mode, lines = LINES) => {
     const form = new FormData();
@@ -188,7 +179,7 @@ try {
     const started = Date.now();
     const res = await fetch(`${BASE}/api/create/export-video-file?sharecode=${SC}`, {
       method: "POST",
-      headers: { cookie: cookieHeader },
+      headers: { cookie: cookieHeader(), "user-agent": UA },
       body: form,
     });
     const buf = Buffer.from(await res.arrayBuffer());
@@ -266,7 +257,7 @@ try {
   console.log("\n【5】参数校验");
   const empty = await fetch(`${BASE}/api/create/export-video-file?sharecode=${SC}`, {
     method: "POST",
-    headers: { cookie: cookieHeader },
+    headers: { cookie: cookieHeader(), "user-agent": UA },
     body: (() => {
       const f = new FormData();
       f.set("video", new Blob([fs.readFileSync(SRC)], { type: "video/mp4" }), "dub-src.mp4");
@@ -285,7 +276,7 @@ try {
   fail += 1;
   console.log(`\n  ✗ 脚本异常：${error instanceof Error ? error.message : error}`);
 } finally {
-  await browser.close();
+  /* 无浏览器可关 */
 }
 
 console.log(`\n${fail === 0 ? "PASS" : "FAIL"} ${pass}/${pass + fail}`);
