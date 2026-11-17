@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "prisma db push --skip-generate && next build",
+    "build": "prisma db push --skip-generate && next build && node scripts/build-stamp.cjs",
     "start": "next start",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",

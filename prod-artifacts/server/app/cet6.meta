@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/?level=CET6",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/cet6/layout,_N_T_/cet6/page,_N_T_/cet6"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/33a3b713f6a616fc303fe02a0f1b34bcba7b8c5254eb051c611f6ab71b75c821/$/cet6",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/cet6/page"
+    },
+    "isFallback": false
+  }
+}

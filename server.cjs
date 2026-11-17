@@ -37,63 +37,31 @@ const APP_PORT = PORT + 1000;
 const HOST = "127.0.0.1";
 
 /**
- * 源码内容指纹。
- *
- * 为什么不用时间戳：沙箱每次发布/重启都会重新解压源码，mtime 被整体重置，
- * 拿「谁更新」比会误判成过期，每次重启都白建一遍。
- * 内容哈希与解压顺序、时间都无关，只有代码真的变了才变。
+ * 构建指纹与产物目录：与 `npm run build` 共用同一份实现。
+ * 各写一套算法迟早会漂移，一漂移就变成「每次都重建」或「发旧包」。
  */
-function sourceHash() {
-  const crypto = require("node:crypto");
-  const h = crypto.createHash("sha1");
-  const roots = ["src", "prisma/schema.prisma", "package.json", "tsconfig.json"];
-  for (const name of ["next.config.ts", "next.config.mjs", "next.config.js"]) {
-    if (fs.existsSync(name)) roots.push(name);
-  }
+const { sourceHash, writeStamp, readStamp, distDir, dropCache } = require(
+  "./scripts/build-stamp.cjs"
+);
 
-  const files = [];
-  const walk = (p) => {
-    let st;
-    try {
-      st = fs.statSync(p);
-    } catch {
-      return;
-    }
-    if (st.isDirectory()) {
-      for (const e of fs.readdirSync(p).sort()) walk(path.join(p, e));
-    } else {
-      files.push(p);
-    }
-  };
-  roots.forEach(walk);
-  files.sort();
-
-  for (const f of files) {
-    h.update(f);
-    try {
-      h.update(fs.readFileSync(f));
-    } catch {}
-  }
-  return h.digest("hex").slice(0, 16);
-}
-
-const STAMP_FILE = path.join(".next", "BUILD_STAMP");
+const DIST = distDir();
+const BUILD_ID_FILE = path.join(DIST, "BUILD_ID");
 
 /**
  * 是否还需要构建。
  *
  * 判据是「产物在 + 指纹对得上」，两个条件缺一不可：
- *   只判存在 —— 沙箱会保留上一次的 `.next`，新代码上传后照样跑旧包，
+ *   只判存在 —— 沙箱会保留上一次的产物，新代码上传后照样跑旧包，
  *              表象就是「发布成功但线上还是旧版」（本工程踩过两次）。
  *   只判指纹 —— 产物可能被清掉，指纹文件也随之消失，得靠存在性兜住。
+ *
+ * 产物随源码一起发布时，指纹由 `npm run build` 写入，容器里读到就一致，
+ * 于是冷启动直接 `next start`，访客不必等那 30 秒编译。
  */
 function needsBuild(stamp) {
-  if (!fs.existsSync(path.join(".next", "BUILD_ID"))) return true;
-  try {
-    return fs.readFileSync(STAMP_FILE, "utf8").trim() !== stamp;
-  } catch {
-    return true;
-  }
+  if (!fs.existsSync(BUILD_ID_FILE)) return true;
+  const saved = readStamp();
+  return !saved || saved !== stamp;
 }
 
 let phase = "boot"; // boot | installing | building | starting | ready | error
@@ -353,10 +321,14 @@ async function buildOnce(env, stamp, reason) {
     capture: true,
   });
   try {
-    fs.writeFileSync(STAMP_FILE, stamp);
+    writeStamp(stamp);
   } catch (e) {
     log("写入构建指纹失败（不影响运行）:", e.message);
   }
+  // 容器里不需要增量缓存，留着只占磁盘
+  try {
+    dropCache();
+  } catch {}
   log("构建完成");
 }
 
@@ -367,10 +339,10 @@ async function bootstrap() {
     const freshDeps = await provision(env);
 
     if (freshDeps) {
-      // 刚重装过依赖，旧的 .next 一定来自别的平台，留着只会让构建读到
+      // 刚重装过依赖，旧产物一定来自别的平台，留着只会让构建读到
       // Windows 的编译缓存，直接删干净重来。
       try {
-        fs.rmSync(".next", { recursive: true, force: true });
+        fs.rmSync(DIST, { recursive: true, force: true });
       } catch {}
     }
 
@@ -383,14 +355,18 @@ async function bootstrap() {
           : `源码与产物不一致，重新构建（指纹 ${stamp}）`
       );
     } else {
-      log(`构建产物与源码一致（指纹 ${stamp}），直接启动`);
+      log(`产物与源码一致（指纹 ${stamp}），跳过构建直接启动`);
     }
 
     try {
       await startNext(env);
     } catch (e) {
-      // 产物在、指纹也对，却起不来，说明产物本身不可用，重建一次
-      log("首次启动失败，重新构建后重试:", e.message);
+      // 产物在、指纹也对，却起不来：多半是别的平台编译的产物在本机跑不动，
+      // 先删掉再重建，不能让坏的产物一直挡路。
+      log("首次启动失败，丢弃产物并重建:", e.message);
+      try {
+        fs.rmSync(DIST, { recursive: true, force: true });
+      } catch {}
       await buildOnce(env, stamp, "重建产物");
       await startNext(env);
     }
@@ -404,7 +380,7 @@ async function bootstrap() {
     // 可用性兜底：装依赖或构建失败时，只要还留着一份能跑的旧产物，
     // 就先把它起起来对外服务。跑旧版本远好过让访客直面错误页——
     // 分享链接是已经发出去的，不能因为一次发布失败就变砖。
-    if (fs.existsSync(path.join(".next", "BUILD_ID"))) {
+    if (fs.existsSync(BUILD_ID_FILE)) {
       log("尝试以现有旧产物启动");
       try {
         await startNext(env);
@@ -420,30 +396,27 @@ async function bootstrap() {
   }
 }
 
-/** 未就绪时给访客看的页面：不依赖任何外部资源 */
+/**
+ * 未就绪时给访客看的页面：不依赖任何外部资源。
+ *
+ * 早先这里用 `<meta http-equiv="refresh" content="3">` 整页刷新，问题有三：
+ *   1. 每次刷新整页重绘，白屏闪一下，等待感被放大；
+ *   2. 进度条动画从头开始，看着像卡死；
+ *   3. 「已等待 N 秒」跟着页面重载归零，越看越慌。
+ * 改成页面内轮询 `/__boot`：不刷新、不清零、进度按阶段单调推进，
+ * 就绪后自动跳回原地址，全程只有一个页面。
+ */
 function holdingPage() {
   const secs = Math.floor((Date.now() - startedAt) / 1000);
-  const isErr = phase === "error";
-  const isInstall = phase === "installing";
-  const title = isErr ? "服务启动失败" : isInstall ? "正在准备运行环境" : "正在启动";
-  const body = isErr
-    ? `<p class="hint">启动过程出错，稍后会自动重试。已等待 ${secs} 秒。</p>
-       <p class="err">${errMsg.replace(/[<>&]/g, (c) => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;" }[c]))}</p>`
-    : isInstall
-      ? `<p class="hint">首次部署需要在服务器上安装依赖并编译前端，约 4～6 分钟。<br>本页每 3 秒自动刷新，准备完成即进入。</p>
-       <div class="bar"><span></span></div>
-       <p class="sec">已等待 ${secs} 秒</p>`
-      : `<p class="hint">首次启动需要在服务器上编译前端，约 30 秒。<br>本页每 3 秒自动刷新，编译完成即进入。</p>
-       <div class="bar"><span></span></div>
-       <p class="sec">已等待 ${secs} 秒</p>`;
+  const esc = (s) =>
+    String(s).replace(/[<>&]/g, (c) => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;" }[c]));
 
   return `<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="refresh" content="3">
-<title>${title} · 左文右题</title>
+<title>正在启动 · 左文右题</title>
 <style>
   :root { color-scheme: light; }
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -461,22 +434,113 @@ function holdingPage() {
   .mark { font-size: 13px; letter-spacing: .3em; color: #a6392b; margin-bottom: 14px; }
   h1 { font-size: 26px; letter-spacing: .12em; font-weight: 700; margin-bottom: 8px; }
   .sub { font-size: 13px; color: #8a8479; margin-bottom: 26px; }
-  .hint { font-size: 14px; line-height: 1.85; color: #4a4640; }
-  .err { margin-top: 14px; font-size: 12px; color: #a6392b; word-break: break-all; }
+  .hint { font-size: 14px; line-height: 1.85; color: #4a4640; min-height: 44px; }
+  .steps { list-style: none; text-align: left; max-width: 240px; margin: 20px auto 0; }
+  .steps li {
+    position: relative; padding-left: 22px; font-size: 13.5px; line-height: 2.15;
+    color: #b3aca1; transition: color .3s;
+  }
+  .steps li::before {
+    content: ""; position: absolute; left: 4px; top: 13px;
+    width: 7px; height: 7px; border-radius: 50%; background: #e0dad0; transition: background .3s;
+  }
+  .steps li.on { color: #17181a; font-weight: 600; }
+  .steps li.on::before { background: #a6392b; box-shadow: 0 0 0 3px rgba(166, 57, 43, .14); }
+  .steps li.done { color: #8a8479; }
+  .steps li.done::before { background: #a6392b; opacity: .45; }
+  .steps li.done::after { content: "✓"; position: absolute; left: 1px; top: 5px; font-size: 11px; color: #fff; }
   .bar { height: 3px; background: #eee9df; border-radius: 2px; overflow: hidden; margin: 22px 0 12px; }
-  .bar span { display: block; height: 100%; width: 40%; background: #a6392b; border-radius: 2px;
-    animation: slide 1.6s ease-in-out infinite; }
-  @keyframes slide { 0% { transform: translateX(-100%); } 100% { transform: translateX(350%); } }
+  .bar span { display: block; height: 100%; width: 6%; background: #a6392b; border-radius: 2px;
+    transition: width .6s linear; }
   .sec { font-size: 12px; color: #8a8479; }
+  .sec b { font-weight: 600; color: #4a4640; font-variant-numeric: tabular-nums; }
+  .err { margin-top: 12px; font-size: 12px; color: #a6392b; word-break: break-all; }
 </style>
 </head>
 <body>
   <div class="card">
     <div class="mark">左文右题</div>
-    <h1>${title}</h1>
+    <h1 id="title">正在启动</h1>
     <p class="sub">CET 四六级阅读练习工具</p>
-    ${body}
+    <p class="hint" id="hint">正在初始化服务…</p>
+    <ol class="steps" id="steps">
+      <li data-k="installing">准备运行环境</li>
+      <li data-k="building">编译前端</li>
+      <li data-k="starting">启动服务</li>
+    </ol>
+    <div class="bar"><span id="bar"></span></div>
+    <p class="sec">已等待 <b id="secs">${secs}</b> 秒</p>
+    <p class="err" id="err" hidden>${esc(errMsg)}</p>
   </div>
+<script>
+(function () {
+  var q = location.search || "";
+  var title = document.getElementById("title");
+  var hint = document.getElementById("hint");
+  var bar = document.getElementById("bar");
+  var secs = document.getElementById("secs");
+  var errBox = document.getElementById("err");
+  var items = [].slice.call(document.querySelectorAll("#steps li"));
+  var ORDER = ["installing", "building", "starting"];
+  var TITLE = {
+    boot: "正在启动",
+    installing: "正在准备运行环境",
+    building: "正在编译前端",
+    starting: "正在启动服务",
+    error: "正在重试"
+  };
+  var HINT = {
+    boot: "正在初始化服务…",
+    installing: "首次部署需要在服务器上安装依赖，通常 3～5 分钟；装好之后的重启只要几秒。",
+    building: "正在编译前端，约 30 秒。",
+    starting: "正在启动服务，马上就好。"
+  };
+  var last = "boot";
+
+  function progress(phase, t) {
+    if (phase === "installing") return Math.min(58, 8 + 50 * (1 - Math.exp(-t / 240)));
+    if (phase === "building") return Math.min(93, 62 + 31 * (1 - Math.exp(-t / 50)));
+    if (phase === "starting") return Math.min(99, 94 + 5 * (1 - Math.exp(-t / 12)));
+    return 8;
+  }
+
+  function paint(j) {
+    var shown = j.phase === "error" ? last : j.phase;
+    var idx = ORDER.indexOf(shown);
+    title.textContent = TITLE[j.phase] || TITLE.boot;
+    hint.textContent = HINT[shown] || HINT.boot;
+    for (var i = 0; i < items.length; i++) {
+      items[i].className = i < idx ? "done" : i === idx ? "on" : "";
+    }
+    bar.style.width = progress(shown, j.elapsedSec || 0).toFixed(1) + "%";
+    secs.textContent = Math.round(j.elapsedSec || 0);
+    if (j.error) {
+      errBox.hidden = false;
+      errBox.textContent = j.error;
+    }
+    if (idx >= 0) last = shown;
+  }
+
+  function enter() {
+    bar.style.width = "100%";
+    hint.textContent = "已就绪，正在进入…";
+    setTimeout(function () { location.replace(location.pathname + q); }, 260);
+  }
+
+  function tick() {
+    fetch("/__boot" + q, { cache: "no-store" })
+      .then(function (r) { return r.json(); })
+      .then(function (j) {
+        if (j.ready) { enter(); return; }
+        paint(j);
+        setTimeout(tick, 1200);
+      })
+      .catch(function () { setTimeout(tick, 2500); });
+  }
+
+  tick();
+})();
+</script>
 </body>
 </html>`;
 }
@@ -520,6 +584,11 @@ const server = http.createServer((req, res) => {
         ready: phase === "ready",
         elapsedSec: Number(((Date.now() - startedAt) / 1000).toFixed(1)),
         error: errMsg || null,
+        // 产物来源：distReady=false 说明产物没随包上来，本进程正在现场编译；
+        // stamp 是当前源码的指纹，与 dist 里保存的对比即可判断是不是旧包。
+        dist: DIST,
+        distReady: fs.existsSync(BUILD_ID_FILE),
+        stamp: readStamp(),
         detail: errLog ? errLog.slice(-1500) : null,
       })
     );
