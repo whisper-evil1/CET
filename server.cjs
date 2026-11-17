@@ -627,6 +627,8 @@ const server = http.createServer((req, res) => {
         // stamp 是当前源码的指纹，与 dist 里保存的对比即可判断是不是旧包。
         dist: DIST,
         distReady: fs.existsSync(BUILD_ID_FILE),
+        // 压缩包在不在，决定容器被回收后能不能秒起；不在就只能现场编译
+        bundle: fs.existsSync(BUNDLE),
         stamp: readStamp(),
         detail: errLog ? errLog.slice(-1500) : null,
       })
