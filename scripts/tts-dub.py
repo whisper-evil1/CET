@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 """
+[已弃用] 旧的 Python 配音脚本 —— 线上不再调用。
+
+英文配音已改为服务端 Node 直连 msedge-tts（见 src/lib/video-dub.ts），
+原因：线上容器只装了 Node，没有 pip 的 edge-tts，调用本脚本必定
+ModuleNotFoundError: No module named 'edge_tts'，「英文配音成片」100% 失败。
+本文件仅作为离线调试备用，保留以备排查音色/时间码问题，不再被任何代码引用。
+
 英文字幕逐句配音 + 精确时间码生成。
 
 输入（命令行参数）：

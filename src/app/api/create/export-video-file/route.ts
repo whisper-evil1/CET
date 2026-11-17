@@ -10,7 +10,7 @@ import { dubEnglishVideo } from "@/lib/video-dub";
  *
  * mode=burn（默认）：字幕烧录进画面，保留原声。
  * mode=soft：只封装 mov_text 软字幕轨，无损、更快，供需要开关字幕的场景。
- * mode=dub：英文字幕逐句合成语音替换原中文音轨，字幕按真实配音时长对齐（需 Python + edge-tts）。
+ * mode=dub：英文字幕逐句合成语音替换原中文音轨，字幕按真实配音时长对齐（服务端 msedge-tts，无 Python 依赖）。
  * 输入：multipart，video + lines(JSON 数组) + durationSec + title + 可选 height/mode。
  * 输出：MP4 下载。原视频用完即删，不落库。
  */
@@ -24,7 +24,9 @@ export const POST = withApi(async (request: Request) => {
   const userId = await currentUserId();
   if (!userId) return Errors.unauthorized();
 
-  const limited = rateLimit(`create-export-video-file:${userId}`, { windowMs: 10 * 60_000, max: 5 });
+  // 一次导出 3–10 秒出片，用户常常连点两三次换效果；5 次/10 分钟太紧，
+  // 会把「重试一下」直接变成 429。放开到 10 次，仍能挡住脚本刷。
+  const limited = rateLimit(`create-export-video-file:${userId}`, { windowMs: 10 * 60_000, max: 10 });
   if (!limited.allowed) {
     return Errors.tooMany(`导出太频繁了，${limited.retryAfterSec} 秒后再试`);
   }
@@ -85,8 +87,10 @@ export const POST = withApi(async (request: Request) => {
     console.error("[export-video-file] failed:", error instanceof Error ? error.message : error);
     const detail = error instanceof Error ? error.message : "请换个视频重试";
     if (mode === "dub") {
+      // 配音现在走服务端 msedge-tts（与听力音频同一条链路），失败通常是网络抖动或
+      // 音色接口限流，不再有「缺 Python 包」这种环境问题。提示要指向能自救的动作。
       return Errors.badRequest(
-        `英文配音失败：${detail}。需要服务端安装 Python 与 edge-tts；可先用「导出字幕视频 MP4」。`,
+        `英文配音失败：${detail}。可以直接再点一次重试；如果一直失败，先导出「字幕视频 MP4」，配音稍后再试。`,
       );
     }
     return Errors.badRequest(`视频封装失败：${detail}`);
