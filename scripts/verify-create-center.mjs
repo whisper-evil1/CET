@@ -186,7 +186,57 @@ const missingLibs = libs.filter((f) => !fs.existsSync(f));
 check("8 个创作/Agent API 路由已就位", missingRoutes.length === 0, missingRoutes.join(","));
 check("10 个创作/Agent lib 已就位", missingLibs.length === 0, missingLibs.join(","));
 
-/* ---------- 5. 无 JS 报错（404 仅允许 favicon 类） ---------- */
+/* ---------- 5. 拍照搜题提到创作中心外面（一级导航入口） ---------- */
+await load("/create", "创作中心（搜题入口外移）");
+const hubInfo = await page.evaluate(() => {
+  const html = document.body?.innerHTML ?? "";
+  const navSolve = [...document.querySelectorAll("a")]
+    .filter((a) => (a.textContent || "").trim() === "搜题")
+    .map((a) => a.getAttribute("href") || "");
+  return { navSolve, hasStrip: html.includes("hub-solve-strip") };
+});
+check(
+  "导航栏有独立「搜题」入口指向 /solve/photo",
+  hubInfo.navSolve.some((h) => h.includes("/solve/photo")),
+  hubInfo.navSolve.join(","),
+);
+check("创作中心已移除拍照搜题窄条（不再散落子入口）", hubInfo.hasStrip === false);
+
+await load("/solve/photo", "拍照搜题页");
+const solveInfo = await page.evaluate(() => {
+  const t = document.body?.innerText ?? "";
+  return {
+    title: t.includes("拍照搜题") || t.includes("搜题"),
+    hasUpload: document.querySelectorAll('input[type="file"]').length > 0,
+    hasSteps: /识别|讲解|步骤|补拍/.test(t),
+  };
+});
+check("拍照搜题页独立可访问且有标题", solveInfo.title);
+check("拍照搜题页有上传控件", solveInfo.hasUpload);
+check("拍照搜题页说明分步讲解/补拍", solveInfo.hasSteps);
+
+/* ---------- 6. 生成结果自动入库 + 切走可恢复（源码契约） ---------- */
+const contract = [
+  ["src/lib/create-draft.ts", /export function saveDraft/, "草稿持久化库"],
+  ["src/lib/create-draft.ts", /export function markPending/, "中断标记"],
+  ["src/components/create/novel-studio.tsx", /result\.savedId/, "小说工作台识别服务端已落库"],
+  ["src/components/create/novel-studio.tsx", /saveDraft\("novel"/, "小说工作台写草稿"],
+  ["src/components/create/video-studio.tsx", /result\.savedId/, "短视频工作台识别服务端已落库"],
+  ["src/components/create/video-studio.tsx", /saveDraft\("video"/, "短视频工作台写草稿"],
+  ["src/app/api/create/generate/route.ts", /async function autoSave/, "服务端自动落库"],
+  ["src/lib/creation-client.ts", /savedId\?: string \| null/, "生成结果透传 savedId"],
+];
+const broken = contract.filter(([file, re]) => {
+  if (!fs.existsSync(file)) return true;
+  return !re.test(fs.readFileSync(file, "utf8"));
+});
+check("自动保存/草稿恢复契约完整（8 项）", broken.length === 0, broken.map((x) => x[2]).join(","));
+
+/* ---------- 7. 首页不再放短视频示例视频 ---------- */
+const showcase = fs.readFileSync("src/components/create/creation-showcase.tsx", "utf8");
+check("首页示例视频已移除（无 hotpot-demo / <video>）", !/hotpot-demo|<video/i.test(showcase));
+
+/* ---------- 8. 无 JS 报错（404 仅允许 favicon 类） ---------- */
 const fatal = errors.filter((e) => !/favicon|Hydration|418/i.test(e));
 const real404 = notFounds.filter((u) => !/favicon/i.test(u));
 check("全程无 JS 报错", fatal.length === 0, fatal.slice(0, 3).join(" | "));

@@ -36,6 +36,8 @@ export type GenResult<T> = {
   output: T;
   /** 兜底原因，UI 用小字提示，不弹窗 */
   note: string;
+  /** 服务端已经自动落库时返回作品 id，客户端就不用再存一次 */
+  savedId?: string | null;
 };
 
 /** 模型列表取一次就够，页面内多次生成复用 */
@@ -113,6 +115,7 @@ type ServerPayload = {
   mode?: string;
   output?: unknown;
   note?: string;
+  savedId?: string | null;
 };
 
 async function callServer(
@@ -195,13 +198,14 @@ export async function generateNovel(
   );
   const fallback = parseNovelOutput(JSON.stringify(data.output ?? null), text);
   if (fallback) {
-    return { mode: modeOf(data.mode), output: fallback, note: data.note || cloudNote };
+    return { mode: modeOf(data.mode), output: fallback, note: data.note || cloudNote, savedId: data.savedId };
   }
   if (data.output && typeof data.output === "object") {
     return {
       mode: modeOf(data.mode),
       output: data.output as NovelOutput,
       note: data.note || cloudNote,
+      savedId: data.savedId,
     };
   }
   throw new Error("生成结果无法解析，请重试");
@@ -258,13 +262,14 @@ export async function generateVideo(
   );
   const fallback = parseVideoOutput(JSON.stringify(data.output ?? null), options);
   if (fallback) {
-    return { mode: modeOf(data.mode), output: fallback, note: data.note || cloudNote };
+    return { mode: modeOf(data.mode), output: fallback, note: data.note || cloudNote, savedId: data.savedId };
   }
   if (data.output && typeof data.output === "object") {
     return {
       mode: modeOf(data.mode),
       output: data.output as VideoOutput,
       note: data.note || cloudNote,
+      savedId: data.savedId,
     };
   }
   throw new Error("生成结果无法解析，请重试");

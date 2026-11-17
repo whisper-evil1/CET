@@ -1358,28 +1358,3 @@ body {
   color: rgba(143, 74, 56, 0.13);
 }
 .hub-entry-video .hub-entry-deco { color: rgba(58, 95, 120, 0.13); }
-
-.hub-solve-strip {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-top: 12px;
-  border: 1px solid var(--color-line);
-  border-radius: 12px;
-  background: var(--color-surface);
-  padding: 11px 16px;
-  transition: border-color 0.2s;
-}
-.hub-solve-strip:hover { border-color: var(--color-accent); }
-.hub-solve-badge {
-  display: grid;
-  width: 30px;
-  height: 30px;
-  flex-shrink: 0;
-  place-items: center;
-  border-radius: 9px;
-  background: var(--color-tint-amber);
-  font-family: var(--font-serif);
-  font-size: 15px;
-  color: var(--color-amber-ink);
-}

@@ -15,6 +15,7 @@ export async function SiteHeader({
     | "study"
     | "create"
     | "vocab"
+    | "solve"
     | "favorites"
     | "profile"
     | "leaderboard"
@@ -30,8 +31,9 @@ export async function SiteHeader({
   const links: { href: string; label: string; key: NavKey }[] = [
     { href: "/", label: "首页", key: "home" },
     { href: "/arcade", label: "闯关", key: "arcade" },
-    { href: "/vocab", label: "生词本", key: "vocab" },
     { href: "/create", label: "创作", key: "create" },
+    { href: "/vocab", label: "生词本", key: "vocab" },
+    { href: "/solve/photo", label: "搜题", key: "solve" },
     { href: "/mistakes", label: "错题", key: "mistakes" },
     { href: "/favorites", label: "收藏", key: "favorites" },
     { href: "/leaderboard", label: "排行", key: "leaderboard" },

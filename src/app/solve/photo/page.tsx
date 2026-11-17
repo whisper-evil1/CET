@@ -12,7 +12,7 @@ export default async function PhotoSolvePage() {
 
   return (
     <div className="min-h-screen">
-      <SiteHeader active="create" />
+      <SiteHeader active="solve" />
       <main className="mx-auto max-w-[1080px] px-4 pb-24 sm:px-5">
         <section className="pt-7 sm:pt-9">
           <p className="text-[10.5px] tracking-[0.26em] text-accent uppercase">Photo Solve</p>

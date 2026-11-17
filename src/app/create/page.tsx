@@ -102,17 +102,8 @@ export default async function CreateHubPage() {
           </Link>
         </section>
 
-        {/* 拍照搜题保留为窄条入口：它是真实功能，不因改版丢掉 */}
-        <Link href="/solve/photo" className="hub-solve-strip">
-          <span className="hub-solve-badge" aria-hidden>拍</span>
-          <span className="min-w-0 flex-1">
-            <span className="block text-[13px] font-medium text-ink">拍照搜题</span>
-            <span className="block text-[11.5px] text-ink-mute">
-              不会的题拍下来，Agent 识别后分步讲解；看不清会请你补拍，不硬猜答案
-            </span>
-          </span>
-          <span className="text-[11.5px] text-accent">去搜题 →</span>
-        </Link>
+        {/* 拍照搜题已提升为一级导航「搜题」（/solve/photo），
+            不再塞在创作中心里当窄条——它是独立功能，不是创作平台的子页面 */}
 
         <CreateHub works={rows} signedIn={Boolean(userId)} />
       </main>

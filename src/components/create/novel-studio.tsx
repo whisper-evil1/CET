@@ -5,6 +5,7 @@ import Link from "next/link";
 import { apiFetch } from "@/lib/api-client";
 import { withSharecode } from "@/lib/share-code";
 import { generateNovel, MODE_LABEL, warmUpCloud, type GenMode } from "@/lib/creation-client";
+import { clearDraft, hasPending, loadDraft, markPending, saveDraft } from "@/lib/create-draft";
 import {
   DEFAULT_NOVEL_OPTIONS,
   MAX_SOURCE_CHARS,
@@ -49,6 +50,7 @@ export function NovelStudio({ workId }: { workId?: string }) {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
   const [savedTip, setSavedTip] = useState("");
+  const [interrupted, setInterrupted] = useState(false);
   const [copied, setCopied] = useState(false);
   const [uploading, setUploading] = useState(false);
   const [ingestNote, setIngestNote] = useState("");
@@ -76,8 +78,26 @@ export function NovelStudio({ workId }: { workId?: string }) {
 
   useEffect(() => {
     warmUpCloud();
-    if (workId) void loadSaved(workId);
+    if (workId) {
+      void loadSaved(workId);
+      return;
+    }
+    // 新建工作台：从草稿恢复上次未保存的输入，并检查是否有中断的生成任务
+    const draft = loadDraft<NovelOptions>("novel");
+    if (draft) {
+      setSource(draft.source);
+      if (draft.options) setOptions((prev) => ({ ...prev, ...draft.options }));
+    }
+    setInterrupted(hasPending("novel"));
   }, [workId, loadSaved]);
+
+  // 输入 / 参数变化后防抖写入草稿：切走页面、关标签再回来，内容还在
+  useEffect(() => {
+    if (workId) return;
+    if (!source.trim()) return;
+    const timer = window.setTimeout(() => saveDraft("novel", source, options), 400);
+    return () => window.clearTimeout(timer);
+  }, [source, options, workId]);
 
   /** 上传 PDF/Word/txt/zip → 服务端抽文本 → 填入编辑框供校对 */
   const ingest = async (file: File | undefined) => {
@@ -141,20 +161,52 @@ export function NovelStudio({ workId }: { workId?: string }) {
   const chars = source.replace(/\s/g, "").length;
   const paragraphs = splitParagraphs(source, options.paragraphs).length;
 
+  /** 保存到作品库；生成成功后自动调用，也可手动「保存」再存一次 */
+  const persist = async (out: NovelOutput): Promise<void> => {
+    try {
+      const created = await apiFetch<{ id: string }>("/api/create", {
+        method: "POST",
+        body: JSON.stringify({
+          kind: "novel",
+          title: out.title.slice(0, 150) || "未命名改编",
+          sourceText: source,
+          output: JSON.stringify(out),
+          meta: JSON.stringify(options),
+        }),
+      });
+      setSavedTip(`已保存到作品库（${created.id.slice(0, 6)}…）`);
+      clearDraft("novel");
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "自动保存失败，可点「保存」重试");
+    }
+  };
+
   const run = async () => {
     if (source.trim().length < 20) {
       setError("至少写一段（20 字以上）再生成");
       return;
     }
+    if (busy) return;
     setBusy(true);
     setError("");
     setNote("");
     setSavedTip("");
+    setInterrupted(false);
+    markPending("novel", true);
     try {
       const result = await generateNovel(source, options);
       setOutput(result.output);
       setMode(result.mode);
       setNote(result.note);
+      // 生成成功立即入库：解决「做了一版但网页端没有记录」
+      // 服务端通道会自己落库（哪怕前端已经切走），拿到 savedId 就不再重复存
+      if (result.savedId) {
+        setSavedTip(`已保存到作品库（${result.savedId.slice(0, 6)}…）`);
+        clearDraft("novel");
+      } else if (result.mode !== "offline") {
+        await persist(result.output);
+      }
+      markPending("novel", false);
       // 窄屏是上下堆叠，结果在输入卡下面一屏之外，不滚一下用户会以为没反应
       if (typeof window !== "undefined" && window.innerWidth < 1024) {
         window.setTimeout(() => {
@@ -162,6 +214,7 @@ export function NovelStudio({ workId }: { workId?: string }) {
         }, 120);
       }
     } catch (err) {
+      markPending("novel", false);
       setError(err instanceof Error ? err.message : "生成失败，请重试");
     } finally {
       setBusy(false);
@@ -170,21 +223,7 @@ export function NovelStudio({ workId }: { workId?: string }) {
 
   const save = async () => {
     if (!output) return;
-    try {
-      const created = await apiFetch<{ id: string }>("/api/create", {
-        method: "POST",
-        body: JSON.stringify({
-          kind: "novel",
-          title: output.title.slice(0, 150) || "未命名改编",
-          sourceText: source,
-          output: JSON.stringify(output),
-          meta: JSON.stringify(options),
-        }),
-      });
-      setSavedTip(`已保存到作品库（${created.id.slice(0, 6)}…）`);
-    } catch (err) {
-      setError(err instanceof Error ? err.message : "保存失败");
-    }
+    await persist(output);
   };
 
   const download = () => {
@@ -216,6 +255,18 @@ export function NovelStudio({ workId }: { workId?: string }) {
     <div className="mt-5 grid gap-4 lg:grid-cols-[380px_minmax(0,1fr)]">
       {/* 左：输入与参数 */}
       <section className="card-soft h-fit p-4 sm:p-5">
+        {interrupted && (
+          <div className="mb-3 rounded-[10px] border border-accent/30 bg-accent-soft/50 px-3 py-2 text-[11.5px] leading-[1.7] text-ink-soft">
+            上次生成似乎被中断了，输入已从草稿恢复，可以重新生成。
+            <button
+              type="button"
+              onClick={() => void run()}
+              className="ml-1 text-accent underline-offset-2 hover:underline"
+            >
+              重新生成 →
+            </button>
+          </div>
+        )}
         <div className="flex items-center justify-between">
           <p className="text-[12.5px] font-medium text-ink">中文原文</p>
           <span className="font-mono text-[11px] text-ink-mute">
@@ -359,7 +410,7 @@ export function NovelStudio({ workId }: { workId?: string }) {
           disabled={busy}
           className="mt-4 min-h-[46px] w-full rounded-[10px] bg-ink py-3 text-[13.5px] font-medium text-paper transition-opacity hover:opacity-90 disabled:opacity-50"
         >
-          {busy ? "生成中…（长段落约 20–60 秒）" : `生成英文改编（${paragraphs} 段）`}
+          {busy ? "生成中…（可切走，完成后自动保存）" : `生成英文改编（${paragraphs} 段）`}
         </button>
 
         {error && <p className="mt-2 text-[12px] text-wrong">{error}</p>}

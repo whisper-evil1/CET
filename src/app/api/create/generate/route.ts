@@ -1,5 +1,6 @@
 import { Errors, ok, parseBody, withApi } from "@/lib/api-helpers";
 import { currentUserId } from "@/lib/auth";
+import { prisma } from "@/lib/prisma";
 import { rateLimit } from "@/lib/rate-limit";
 import { aiConfig, type ChatMessage } from "@/lib/ai";
 import { createGenSchema } from "@/lib/validators";
@@ -75,6 +76,45 @@ async function chatOnce(messages: ChatMessage[]): Promise<ProviderResult> {
   }
 }
 
+/**
+ * 自动落库。
+ *
+ * 为什么放在服务端：浏览器一旦卸载组件（切页面、锁屏、切 App），
+ * 前端的「生成完再保存」这一步就可能跑不到，用户回来作品库里是空的。
+ * 服务端这条链路只要请求已经进来，结果就会写进去 —— 哪怕前端已经走了。
+ * 客户端收到 savedId 就不再重复存一次，避免一条内容两条记录。
+ */
+async function autoSave(
+  userId: string,
+  kind: "novel" | "video",
+  text: string,
+  options: unknown,
+  output: unknown,
+): Promise<string | null> {
+  try {
+    const title =
+      kind === "novel"
+        ? String((output as { title?: string }).title ?? "未命名改编")
+        : String((output as { title?: string }).title ?? "未命名短视频");
+    const created = await prisma.creation.create({
+      data: {
+        userId,
+        kind,
+        title: title.slice(0, 150) || (kind === "novel" ? "未命名改编" : "未命名短视频"),
+        sourceText: text,
+        output: JSON.stringify(output),
+        meta: JSON.stringify(options),
+      },
+      select: { id: true },
+    });
+    return created.id;
+  } catch (error) {
+    // 落库失败不能吞掉生成结果：正文照常返回，客户端会再试一次保存
+    console.warn("[create/generate] auto save failed:", error);
+    return null;
+  }
+}
+
 export const POST = withApi(async (request: Request) => {
   const meId = await currentUserId();
   if (!meId) return Errors.unauthorized();
@@ -97,17 +137,24 @@ export const POST = withApi(async (request: Request) => {
 
     if ("text" in result) {
       const parsed = parseNovelOutput(result.text, body.text);
-      if (parsed) return ok({ mode: "server", output: parsed, note: "" });
+      if (parsed) {
+        const savedId = await autoSave(meId, "novel", body.text, options, parsed);
+        return ok({ mode: "server", output: parsed, note: "", savedId });
+      }
+      // 骨架不是真结果，不自动入库（否则作品库里会堆一堆占位内容），
+      // 前端仍可用「保存」手动存
       return ok({
         mode: "offline",
         output: offlineNovel(body.text, options),
         note: "模型返回的格式没能解析，已退成结构骨架，可再试一次",
+        savedId: null,
       });
     }
     return ok({
       mode: "offline",
       output: offlineNovel(body.text, options),
       note: result.error,
+      savedId: null,
     });
   }
 
@@ -120,16 +167,21 @@ export const POST = withApi(async (request: Request) => {
 
   if ("text" in result) {
     const parsed = parseVideoOutput(result.text, options);
-    if (parsed) return ok({ mode: "server", output: parsed, note: "" });
+    if (parsed) {
+      const savedId = await autoSave(meId, "video", body.text, options, parsed);
+      return ok({ mode: "server", output: parsed, note: "", savedId });
+    }
     return ok({
       mode: "offline",
       output: offlineVideo(body.text, options),
       note: "模型返回的格式没能解析，已退成结构骨架，可再试一次",
+      savedId: null,
     });
   }
   return ok({
     mode: "offline",
     output: offlineVideo(body.text, options),
     note: result.error,
+    savedId: null,
   });
 });

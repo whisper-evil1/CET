@@ -226,17 +226,21 @@ export function CreationShowcase() {
                 示例：「成都火锅」口播稿 · YouTube Shorts · 30s
               </p>
 
-              {/* 成片示意 */}
+              {/* 成片示意：静态封面，不在首页挂视频播放器（视频播放器影响首屏观感） */}
               <div className="overflow-hidden rounded-[10px] border border-line-soft bg-ink">
-                <video
-                  src="/demo/hotpot-demo.mp4"
-                  controls
-                  playsInline
-                  preload="metadata"
-                  className="mx-auto block max-h-[300px] w-full max-w-[200px] bg-black"
-                >
-                  你的浏览器不支持视频播放，请升级浏览器查看效果示例。
-                </video>
+                <div className="relative mx-auto flex aspect-[9/16] max-h-[300px] w-full max-w-[168px] flex-col justify-between bg-gradient-to-b from-[#2a1a15] via-[#3d2318] to-[#1a1210] p-3 text-paper">
+                  <span className="self-end rounded-full bg-white/15 px-2 py-0.5 text-[9px] tracking-wider">
+                    30s · Shorts
+                  </span>
+                  <span className="font-serif text-[13px] leading-[1.5]">
+                    Chengdu Hotpot:
+                    <br />
+                    Why the Broth Simmers 40 Minutes First
+                  </span>
+                  <span className="text-[9px] leading-[1.6] text-paper/60">
+                    #ChengduFood #Hotpot #ChineseFood
+                  </span>
+                </div>
                 <p className="px-3 py-1.5 text-center text-[10px] text-paper/70">
                   成片效果示意 · 实际产出为可拍摄的发布包
                 </p>
