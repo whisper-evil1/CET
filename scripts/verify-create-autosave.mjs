@@ -12,8 +12,11 @@
 import puppeteer from "puppeteer-core";
 
 const BASE = process.env.BASE || "http://127.0.0.1:3100";
+const SC = process.env.SC || "";
 const CHROME = process.env.CHROME || "C:/Program Files/Google/Chrome/Application/chrome.exe";
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+// 线上链接带 sharecode 才能访问内页与接口，本地留空
+const withSc = (p) => (SC ? `${p}${p.includes("?") ? "&" : "?"}sharecode=${SC}` : p);
 
 let pass = 0;
 let fail = 0;
@@ -49,7 +52,7 @@ async function waitHydrated() {
 }
 
 /* ---------- 登录（演示账号） ---------- */
-await page.goto(`${BASE}/login`, { waitUntil: "domcontentloaded", timeout: 60000 }).catch(() => {});
+await page.goto(`${BASE}${withSc("/login")}`, { waitUntil: "domcontentloaded", timeout: 60000 }).catch(() => {});
 await waitHydrated();
 await sleep(1500);
 for (let i = 0; i < 5; i++) {
@@ -73,35 +76,42 @@ for (let i = 0; i < 12; i++) {
 check("演示账号登录成功", !page.url().includes("/login"));
 
 /* ---------- 保存一条作品（前端 persist 走的同一条接口） ---------- */
-const saved = await page.evaluate(async (title) => {
-  const res = await fetch("/api/create", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      kind: "novel",
-      title,
-      sourceText: "验收用原文，仅用于确认作品能落库并在列表里出现。",
-      output: JSON.stringify({ title, paragraphs: [{ zh: "验收", en: "acceptance check" }] }),
-      meta: JSON.stringify({ style: "literary", paragraphs: 2 }),
-    }),
-  });
-  const json = await res.json().catch(() => null);
-  return { status: res.status, id: json?.data?.id ?? null, code: json?.code ?? null };
-}, TITLE);
+const saved = await page.evaluate(
+  async (title, endpoint) => {
+    const res = await fetch(endpoint, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        kind: "novel",
+        title,
+        sourceText: "验收用原文，仅用于确认作品能落库并在列表里出现。",
+        output: JSON.stringify({ title, paragraphs: [{ zh: "验收", en: "acceptance check" }] }),
+        meta: JSON.stringify({ style: "literary", paragraphs: 2 }),
+      }),
+    });
+    const json = await res.json().catch(() => null);
+    return { status: res.status, id: json?.data?.id ?? null, code: json?.code ?? null };
+  },
+  TITLE,
+  withSc("/api/create"),
+);
 check("POST /api/create 保存成功", saved.status === 200 && Boolean(saved.id), `id=${saved.id}`);
 
 /* ---------- 回列表看得到 ---------- */
-await page.goto(`${BASE}/create`, { waitUntil: "domcontentloaded", timeout: 60000 }).catch(() => {});
+await page.goto(`${BASE}${withSc("/create")}`, { waitUntil: "domcontentloaded", timeout: 60000 }).catch(() => {});
 await waitHydrated();
 await sleep(2500);
 const listed = await page.evaluate((title) => (document.body?.innerText ?? "").includes(title), TITLE);
 check("作品库里能看到刚保存的一版", listed, TITLE);
 
 /* ---------- 清理，不留测试数据 ---------- */
-const cleaned = await page.evaluate(async (id) => {
-  const res = await fetch(`/api/create/${id}`, { method: "DELETE" });
-  return res.status;
-}, saved.id);
+const cleaned = await page.evaluate(
+  async (endpoint) => {
+    const res = await fetch(endpoint, { method: "DELETE" });
+    return res.status;
+  },
+  withSc(`/api/create/${saved.id}`),
+);
 check("测试作品已清理", cleaned === 200 || cleaned === 204, `status=${cleaned}`);
 
 await browser.close();
