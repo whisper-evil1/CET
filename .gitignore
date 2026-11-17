@@ -74,3 +74,4 @@ prisma/*.db-journal
 
 # 生产启动器写下的依赖完成标记（运行时产物）
 .deps-ok
+prod-artifacts/

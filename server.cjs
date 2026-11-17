@@ -332,6 +332,42 @@ async function buildOnce(env, stamp, reason) {
   log("构建完成");
 }
 
+/**
+ * 随包产物：构建结果打成的单个压缩包。
+ *
+ * 为什么是压缩包而不是直接带目录：
+ *   部署只上传 git 跟踪的普通文件，且会主动跳过"构建产物"形态的目录
+ *   （实测 prod-artifacts 491 个文件已入库、未被 gitignore，容器里仍然拿不到）。
+ *   换成单个文件之后就不再受目录级排除影响，3MB 一次传完，
+ *   容器解压 1～2 秒即可 `next start`，省掉 30～55 秒现场编译。
+ */
+const BUNDLE = "app-bundle.tar.gz";
+
+/**
+ * 从随包产物恢复。返回 true 表示产物可用。
+ * 解压失败不抛错——退回现场构建，功能不受影响，只是慢一点。
+ */
+async function restoreBundle(env) {
+  if (fs.existsSync(BUILD_ID_FILE)) return true;
+  if (!fs.existsSync(BUNDLE)) return false;
+
+  phase = "installing";
+  log(`产物缺失，从 ${BUNDLE} 解压`);
+  try {
+    await run("tar", ["-xzf", BUNDLE, "-C", "."], "解压产物", {
+      env,
+      timeoutMs: 180000,
+      capture: true,
+    });
+  } catch (e) {
+    log("解压失败，改为现场构建:", e.message);
+    return false;
+  }
+  const ok = fs.existsSync(BUILD_ID_FILE);
+  log(ok ? "产物已恢复" : "解压后仍无产物，改为现场构建");
+  return ok;
+}
+
 async function bootstrap() {
   const env = buildEnv();
   const stamp = sourceHash();
@@ -346,7 +382,10 @@ async function bootstrap() {
       } catch {}
     }
 
-    if (freshDeps || needsBuild(stamp)) {
+    // 先用随包产物顶上，能解出来就不编译
+    await restoreBundle(env);
+
+    if (needsBuild(stamp)) {
       await buildOnce(
         env,
         stamp,
