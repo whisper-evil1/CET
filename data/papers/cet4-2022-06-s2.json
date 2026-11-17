@@ -1,0 +1,2700 @@
+{
+  "id": "cet4-2022-06-s2",
+  "level": "CET4",
+  "year": 2022,
+  "month": 6,
+  "setNo": 2,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose you are going to write a proposal to your student union for enriching students’ extracurricular activities. You are to write about what activities to organize and why. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nA Proposal on Enriching Extracurricular Activities\n\nI am writing to propose a few extracurricular activities that our student union could organize, in the hope of making our campus life more colorful and rewarding.\n\nTo begin with, I would suggest holding a monthly book-sharing club. Since many of us read alone and seldom exchange thoughts, such a club would offer a regular chance to share insights, broaden our horizons and improve our critical thinking.\n\nIn addition, I recommend arranging weekend volunteer trips to nearby communities. These activities would not only allow us to apply what we learn in real life, but also cultivate a stronger sense of social responsibility and teamwork among students.\n\nI sincerely hope the student union will take these suggestions into consideration. Your support would mean a great deal to all of us. Thank you for your time and attention."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "本场次听力只有一份音频，本套听力与同场第一套同卷；原文、题目与答案取自该套真题。考场多套卷的选项顺序可能不同，这里沿用第一套的顺序。在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 4.6,
+              "text": "A new study finds that beverages containing added sugar might be harmful.",
+              "zh": "一项新研究发现，含添加糖的饮料可能有害健康。"
+            },
+            {
+              "id": 2,
+              "start": 4.9,
+              "end": 23.4,
+              "text": "In the study, researchers analyzed information from over 80,000 women and 37,000 men. Participants worked in the health profession. They were followed for approximately three decades. They completed surveys about their diet every four years. They also answered questions about sleep and exercise and health every two years.",
+              "zh": "在该研究中，研究人员分析了超过8万名女性和3.7万名男性的信息。参与者从事健康专业工作。他们被跟踪随访了约三十年。他们每四年完成一次关于饮食的调查。他们还每两年回答关于睡眠、运动和健康的问题。"
+            },
+            {
+              "id": 3,
+              "start": 23.8,
+              "end": 31.4,
+              "text": "The more beverages containing added sugar that people drank, the greater their risk of death was during the study period.",
+              "zh": "人们饮用的含添加糖饮料越多，他们在研究期间的死亡风险就越大。"
+            },
+            {
+              "id": 4,
+              "start": 31.8,
+              "end": 42.9,
+              "text": "These beverages included soda, energy drinks and sports drinks. Beverages like pure fruit juice which are sweet but do not contain added sugar were not part of the study.",
+              "zh": "这些饮料包括苏打水、能量饮料和运动饮料。像纯果汁这样味甜但不含添加糖的饮料不在本研究范围内。"
+            },
+            {
+              "id": 5,
+              "start": 43.3,
+              "end": 55.9,
+              "text": "The findings held even after the researchers considered other factors that could affect people's health. These factors included lack of exercise and not eating enough vegetables. They also included consuming too much meat.",
+              "zh": "即使在研究人员考虑了其他可能影响人们健康的因素后，这些发现仍然成立。这些因素包括缺乏运动和蔬菜摄入不足。它们还包括肉类摄入过多。"
+            },
+            {
+              "id": 6,
+              "start": 56.3,
+              "end": 77,
+              "text": "The scientists say that their results support limiting beverages with added sugar. They argue we should replace them with other drinks, with water being the best choice. However, the researchers admit this is simply their recommendation. The study found only an association: It did not prove that drinks with added sugar cause early death.",
+              "zh": "科学家们表示，他们的研究结果支持限制含添加糖的饮料。他们主张我们应该用其他饮料代替它们，其中水是最佳选择。然而，研究人员承认这只是他们的建议。该研究仅发现了一种关联：它并未证明含添加糖的饮料会导致过早死亡。"
+            }
+          ],
+          "audioDuration": 77,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What do we learn about the new study from the news report?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It studied the effects of exercise on sleep."
+                },
+                {
+                  "key": "B",
+                  "text": "Its participants came from various walks of life."
+                },
+                {
+                  "key": "C",
+                  "text": "Its findings confirmed those of previous studies."
+                },
+                {
+                  "key": "D",
+                  "text": "It ran for as long as some thirty years."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：They were followed for approximately three decades.信号：时长事实 three decades 。答案句的信号是一个明确的时长数据 followed for approximately three decades，three decades 即三十年；新闻里凡出现具体年限、…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 说研究的是运动对睡眠的影响，盗用了录音 questions about sleep and exercise 里真出现过的 sleep、exercise 两个原词；但录音里这两项只是参与者被问到的调查内容之一，本研究的真正主题是含糖饮料与死亡风险，并非研究运动对睡眠的影响，听到原词就选正中圈套。 借用原文：Participants worked in the health profession.",
+                "B": "与原文相反：B 说参与者来自各行各业（various walks of life），但录音明说 Participants worked in the health profession.，即都是医疗卫生行业的人；B 与原文事实相反，是对参与者构成的曲解。",
+                "C": "未提及：C 说本研究证实了以往研究的结论，但录音通篇没提与任何 previous studies 的比较，反而在结尾强调 it did not prove that drinks with added sugar cause early death——只是关联、未下定论；C 属录音根本没说的内容。",
+                "D": "正确项：与答案句同义替换（approximately three decades ↔ as long as some thirty years three decades = thirty years）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "They were followed for approximately three decades.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What is the scientists' recommendation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Eating more vegetables instead of meats."
+                },
+                {
+                  "key": "B",
+                  "text": "Drinking water instead of beverages with added sugar."
+                },
+                {
+                  "key": "C",
+                  "text": "Consuming more energy drinks and sports drinks."
+                },
+                {
+                  "key": "D",
+                  "text": "Forming the habit of exercising regularly."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P6）：They argue we should replace them with other drinks, with water being the best choice.信号：建议句 should + 最佳选择 。答案句同时出现两个强信号：建议词 we should replace them 和择优表达 water being the best choice；should 表建议、the …",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 说多吃蔬菜代替肉，盗用了录音 not eating enough vegetables 与 consuming too much meat 里出现过的 vegetables、meat；但录音里这两项是研究者考虑过的其他影响健康的因素，不是科学家给出的建议，把干扰因素当成建议正是陷阱。 借用原文：These beverages included soda, energy drinks and sports drinks.",
+                "C": "与原文相反：C 让人多喝能量饮料和运动饮料，盗用录音 soda, energy drinks and sports drinks 里的原词；但录音明确说这些正是含糖饮料、应当限制，C 把该少喝的说成多喝，与原文意思相反。 借用原文：These factors included lack of exercise",
+                "D": "原词陷阱：D 说养成规律运动的习惯，盗用录音 lack of exercise 里的 exercise；但运动同样只是研究者排查的其他健康因素之一，录音从未把规律运动作为科学家的建议提出，D 答非所问。",
+                "B": "正确项：与答案句同义替换（replace them with other drinks, with water being the best choice ↔ Drinking water instead of beverages with added sugar 用水替换＝喝水代替）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "They argue we should replace them with other drinks, with water being the best choice.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 5.8,
+              "text": "German police appealed Friday for information about the possible owners of two 17th-century oil paintings.",
+              "zh": "德国警方周五呼吁民众提供有关两幅17世纪油画可能所有者的信息。"
+            },
+            {
+              "id": 2,
+              "start": 6.1,
+              "end": 16.9,
+              "text": "Police said a 64-year-old man found the paintings in a garbage pile at a highway rest stop last month. He later handed them in to the Cologne police.",
+              "zh": "警方表示,一名64岁男子上个月在高速公路休息站的垃圾堆中发现了这些画作。他后来将它们交给了科隆警方。"
+            },
+            {
+              "id": 3,
+              "start": 17.3,
+              "end": 23.4,
+              "text": "An initial assessment by an art expert concluded the two framed paintings were originals, police said.",
+              "zh": "警方称,一位艺术专家的初步评估认定这两幅带框画作是原作。"
+            },
+            {
+              "id": 4,
+              "start": 23.8,
+              "end": 40.3,
+              "text": "One is a landscape painted by the Italian artist Pietro Bellotti dating to 1665. The other is a painting of a boy by the 17th-century Dutch artist Samuel van Hoogstraten, date unknown. Their combined worth is estimated to be around one million euros.",
+              "zh": "其中一幅是意大利艺术家Pietro Bellotti于1665年创作的风景画。另一幅是17世纪荷兰艺术家Samuel van Hoogstraten创作的男孩肖像画,创作日期不详。两幅画的总价值估计约为一百万欧元。"
+            },
+            {
+              "id": 5,
+              "start": 40.6,
+              "end": 56.8,
+              "text": "Authorities have not yet confirmed what will happen if the rightful owner is not found. Nevertheless, it is speculated that they could either be handed over to the National Art Museum of Cologne or sold to the public by the local government.",
+              "zh": "当局尚未确认如果找不到合法所有者将如何处理。不过,有人推测这些画作可能会被移交给科隆国家美术馆,或由地方政府向公众出售。"
+            }
+          ],
+          "audioDuration": 56.8,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What did German police say about a 64-year-old man?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He asked them about his lost paintings."
+                },
+                {
+                  "key": "B",
+                  "text": "He knew the owner of two missing paintings."
+                },
+                {
+                  "key": "C",
+                  "text": "He left his paintings at a highway rest stop."
+                },
+                {
+                  "key": "D",
+                  "text": "He found two 17th-century oil paintings."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：Police said a 64-year-old man found the paintings in a garbage pile at a highway rest stop last month.信号：对象出场即答案句 。录音念到 a 64-year-old man 这个题干点名的对象时，紧跟其后的动词 found the paintings 就是答案落点——细节题的答案句信号，就是题干那个专有对象一出现。",
+              "optionAnalysis": {
+                "A": "与原文相反：选项把 his lost paintings 安在男子头上，可录音说的是他在垃圾堆里发现（found）画并上交，画不是他丢的、更不是他来打听自己丢的画，方向正好反了。",
+                "B": "原词陷阱：选项盗用了录音 owners、rightful owner 里反复出现的 owner 一词，编出 \"他认识两幅失踪画的主人\"，可录音只说警方在找失主，从没说这位男子认识失主，是听到 owner 就想选的原词陷阱。 借用原文：at a highway rest stop",
+                "C": "原词陷阱：选项盗用录音 at a highway rest stop 这个真地点，却把动作篡改成 left（把画留在那里），而录音说的是他在那里 found（发现）画，地点是真的、动作是假的，典型原词陷阱。",
+                "D": "正确项：与答案句同义替换（found the paintings ↔ found two 17th-century oil paintings the paintings 还原为完整名称）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Police said a 64-year-old man found the paintings in a garbage pile at a highway rest stop last month.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What is the art expert's conclusion about the two framed paintings?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are imitations."
+                },
+                {
+                  "key": "B",
+                  "text": "They are originals."
+                },
+                {
+                  "key": "C",
+                  "text": "They were stolen by an Italian boy."
+                },
+                {
+                  "key": "D",
+                  "text": "They came from the same artist."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：An initial assessment by an art expert concluded the two framed paintings were originals, police said.信号：结论动词 concluded 引出定性 。录音里 An initial assessment by an art expert concluded 用 concluded（得出结论）这个下结论的信号词，后面紧跟的 w…",
+              "optionAnalysis": {
+                "A": "与原文相反：选项 imitations（赝品）与专家结论 were originals（真迹）意思正好相反，是把定性极性反转的陷阱；A、B 一真一假对立，听准 originals 就该排除 A。 借用原文：a painting of a boy by the 17th-century Dutch artist",
+                "C": "原词陷阱：选项盗用录音第 4 段 the Italian artist 的 Italian 和 a painting of a boy 的 boy，拼成 \"被一个意大利男孩偷走\"，可录音根本没提偷画，画里有个男孩、画家是意大利人都被偷换成了偷窃情节，原词陷阱。 借用原文：One is a landscape painted by the Italian artist Pietro Bellotti dating to 1665. The other is a painting of a boy by the 17th-century Dutch artist Samuel van Hoogstraten",
+                "D": "与原文相反：录音第 4 段明说一幅是意大利画家 Pietro Bellotti 所作、另一幅出自荷兰画家 Samuel van Hoogstraten，是两位不同画家；选项却说出自 same artist，与原文事实直接矛盾。",
+                "B": "正确项：与答案句同义替换（were originals ↔ They are originals. 几乎原句保留）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "An initial assessment by an art expert concluded the two framed paintings were originals, police said.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 21.9,
+              "text": "A four-year-old girl has walked eight kilometers through a snowy forest to seek help for her sick grandmother who later died of a heart attack. The young girl braved the threat of bears, wolves and temperatures far below freezing. She made the journey through a remote region in Siberia after waking up to find her grandmother motionless.",
+              "zh": "一名四岁女孩在雪地森林中步行八公里为生病的祖母寻求帮助，祖母后来死于心脏病发作。这名年幼的女孩冒着熊、狼和远低于冰点的气温威胁，在醒来发现祖母一动不动后，穿越西伯利亚偏远地区完成了这段旅程。"
+            },
+            {
+              "id": 2,
+              "start": 22.3,
+              "end": 46.1,
+              "text": "Named locally as Karla, she lives alone with her elderly grandmother and her blind grandfather. As a result, the girl's mother is facing a criminal case. She stands accused of leaving a minor in danger in the care of the elderly. She also faces investigation from childcare services, who will also be asking why Karla was left alone with her vulnerable relatives.",
+              "zh": "当地称她为Karla，她独自与年迈的祖母和失明的祖父生活在一起。因此，女孩的母亲面临刑事诉讼。她被指控将未成年人置于危险之中，交由老年人照顾。她还面临儿童保育服务部门的调查，该部门也将询问为何让Karla独自与她脆弱的亲属待在一起。"
+            },
+            {
+              "id": 3,
+              "start": 46.5,
+              "end": 61.5,
+              "text": "The journey took place in February when temperatures average negative 26 degrees Celsius. Russian reports on social media suggest the forest may have been as cold as negative 34 degrees Celsius. The journey was only recently confirmed by authorities.",
+              "zh": "这段旅程发生在二月，当时平均气温为零下26摄氏度。俄罗斯社交媒体报道称，森林中的温度可能低至零下34摄氏度。这段旅程直到最近才得到当局确认。"
+            },
+            {
+              "id": 4,
+              "start": 61.9,
+              "end": 75.7,
+              "text": "But though she was suffering from the effects of extreme cold, the child reportedly suffered no life-threatening effects. Last year, a three-year-old boy survived alone for three days in a remote forest in the same region.",
+              "zh": "尽管她遭受了极寒的影响,但据报道这名儿童没有出现危及生命的症状。去年，一名三岁男孩在同一地区的偏远森林中独自生存了三天。"
+            }
+          ],
+          "audioDuration": 75.7,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What did the four-year-old girl attempt to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Look after her grandfather."
+                },
+                {
+                  "key": "B",
+                  "text": "Leave the remote cold region."
+                },
+                {
+                  "key": "C",
+                  "text": "Save her sick grandmother."
+                },
+                {
+                  "key": "D",
+                  "text": "Flee from the threat of bears."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：A four-year-old girl has walked eight kilometers through a snowy forest to seek help for her sick grandmother who later died of a heart attack.信号：目的状语 to seek help for 直指意图 。本句用不定式目的状语 to seek help for her sick grandmother 点明女孩此行的目的——\"问意图\"的题，答案就藏在 to do …",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音第 2 段确实念到 her blind grandfather，A 项 Look after her grandfather. 就盗用这个\"爷爷\"原词制造\"听到就选\"的诱惑；但女孩求助的对象是奶奶不是爷爷，对象张冠李戴。 借用原文：through a remote region in Siberia",
+                "B": "原词陷阱：录音念到 through a remote region in Siberia，B 项 Leave the remote cold region. 盗用 remote region 把女孩动机歪曲成\"为自己离开寒冷地区\"；实际她是为奶奶求助而穿越该地区，不是想离开它。 借用原文：braved the threat of bears",
+                "D": "原词陷阱：录音念到 braved the threat of bears，D 项 Flee from the threat of bears. 把这个醒目画面词搬进选项；但原文是说女孩\"冒着\"熊的威胁去求助，不是\"为逃避熊\"才出门，目的被偷换。",
+                "C": "正确项：与答案句同义替换（to seek help for her sick grandmother ↔ Save her sick grandmother. 为奶奶求助=救奶奶（概括同义））"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "A four-year-old girl has walked eight kilometers through a snowy forest to seek help for her sick grandmother who later died of a heart attack.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What do we learn from the news report about the girl's mother?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She has to face a criminal charge."
+                },
+                {
+                  "key": "B",
+                  "text": "She was found lying motionless in the snow."
+                },
+                {
+                  "key": "C",
+                  "text": "She searched for her daughter in freezing cold."
+                },
+                {
+                  "key": "D",
+                  "text": "She works in childcare services."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：As a result, the girl's mother is facing a criminal case. She stands accused of leaving a minor in danger in the care of the elderly.信号：专门讲 mother 的那句直接应答题干 。录音里唯一正面交代母亲的句子是 the girl's mother is facing a criminal case，紧接着用 stands accused of 补充指…",
+              "optionAnalysis": {
+                "B": "张冠李戴：录音第 1 段说\"奶奶\"被发现时 motionless，B 项 She was found lying motionless in the snow. 把这个画面安到\"母亲\"头上；motionless 是原词，但躺着不动的是奶奶不是妈妈。 借用原文：She also faces investigation from childcare services",
+                "C": "未提及：录音通篇讲严寒（negative 26 degrees Celsius 等），C 项 She searched for her daughter in freezing cold. 借\"严寒\"主题编出\"母亲冒寒找女儿\"的情节；但原文从没说母亲外出寻找，是女孩自己出门求助。",
+                "D": "原词陷阱：录音念到 investigation from childcare services，D 项 She works in childcare services. 盗用 childcare services 这个机构词；但原文是该机构要\"调查\"这件事，不是说母亲\"在那儿工作\"。",
+                "A": "正确项：与答案句同义替换（is facing a criminal case ↔ She has to face a criminal charge. 面临刑事案件=要面临刑事指控（近义词替换））"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "As a result, the girl's mother is facing a criminal case. She stands accused of leaving a minor in danger in the care of the elderly.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What happened to the little girl according to the news report?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She was found in a forest after three days."
+                },
+                {
+                  "key": "B",
+                  "text": "She lay totally unconscious for three days."
+                },
+                {
+                  "key": "C",
+                  "text": "She suffered from the effects of severe cold."
+                },
+                {
+                  "key": "D",
+                  "text": "She was finally rescued by her relatives."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P4）：But though she was suffering from the effects of extreme cold, the child reportedly suffered no life-threatening effects.信号：末段交代结果，让步状语 though 引出真实状况 。答案落在末段交代女孩结局的一句，信号是让步连词 though：though 引出的 suffering from the effects of extreme c…",
+              "optionAnalysis": {
+                "A": "张冠李戴：录音末句说\"去年一个三岁男孩\" survived alone for three days in a remote forest，A 项 She was found in a forest after three days. 盗用 forest 和 three days，把男孩的旧事安到这个女孩头上。 借用原文：the child reportedly suffered no life-threatening effects",
+                "B": "过度推断：B 项 She lay totally unconscious for three days. 借男孩那句的 three days 拼出\"女孩昏迷三天\"；原文既没说女孩昏迷，也没说她经历三天，no life-threatening effects 反而说明她无大碍，程度被严重夸大。 借用原文：to seek help for her sick grandmother",
+                "D": "与原文相反：录音里女孩是\"独自外出为亲属求助\"，D 项 She was finally rescued by her relatives. 把方向反过来说成\"被亲属救出\"；relatives 算原文涉及的关系词，但谁救谁正相反。",
+                "C": "正确项：与答案句同义替换（suffering from the effects of extreme cold ↔ She suffered from the effects of severe cold. extreme cold=severe cold（近义形容词替换））"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "But though she was suffering from the effects of extreme cold, the child reportedly suffered no life-threatening effects.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 6.2,
+              "text": "W: I've made a new friend recently. Her name is Susan and she's from South Africa.",
+              "zh": "W: 我最近交了个新朋友。她叫Susan，来自南非。"
+            },
+            {
+              "id": 2,
+              "start": 6.5,
+              "end": 8.9,
+              "text": "M: How did you meet her?",
+              "zh": "M: 你们怎么认识的？"
+            },
+            {
+              "id": 3,
+              "start": 9.3,
+              "end": 17.3,
+              "text": "W: We met over WeChat. She has very cool photos on her social media. The photos of her hometown look amazing.",
+              "zh": "W: 我们在微信上认识的。她社交媒体上的照片很酷。她家乡的照片看起来棒极了。"
+            },
+            {
+              "id": 4,
+              "start": 17.7,
+              "end": 19.6,
+              "text": "M: What's her hometown called?",
+              "zh": "M: 她家乡叫什么？"
+            },
+            {
+              "id": 5,
+              "start": 20,
+              "end": 38,
+              "text": "W: It's called Cape Town. It's in the southwest of South Africa. She says it's very green and windy. The city was built by European settlers. And there's a big mountain that overlooks the city. The mountain is called Table Mountain because it's flat at the top.",
+              "zh": "W: 叫开普敦。在南非西南部。她说那里很绿，风很大。这座城市是欧洲殖民者建的。还有一座大山俯瞰着这座城市。这座山叫桌山，因为它顶部是平的。"
+            },
+            {
+              "id": 6,
+              "start": 38.4,
+              "end": 42.2,
+              "text": "M: That sounds interesting. What are the people there like?",
+              "zh": "M: 听起来很有意思。那里的人怎么样？"
+            },
+            {
+              "id": 7,
+              "start": 42.6,
+              "end": 58.3,
+              "text": "W: Well, Susan says South Africa is very mixed. There are black people and white people and Indian people. Susan is white. She says her ancestors were from Britain. Many languages are spoken in South Africa, but she only speaks English.",
+              "zh": "W: 嗯，Susan说南非种族很多元。有黑人、白人和印度人。Susan是白人。她说她的祖先来自英国。南非说很多种语言，但她只说英语。"
+            },
+            {
+              "id": 8,
+              "start": 58.6,
+              "end": 66.7,
+              "text": "M: Didn't South Africa host the Football World Cup a few years ago? They must play football a lot then, right?",
+              "zh": "M: 南非不是几年前举办过足球世界杯吗？那他们一定很常踢足球吧？"
+            },
+            {
+              "id": 9,
+              "start": 67,
+              "end": 72,
+              "text": "W: I think they play football, but it's not as popular as rugby.",
+              "zh": "W: 我想他们踢足球，但没有橄榄球那么流行。"
+            },
+            {
+              "id": 10,
+              "start": 72.3,
+              "end": 73.9,
+              "text": "M: Rugby? What's rugby?",
+              "zh": "M: 橄榄球？橄榄球是什么？"
+            },
+            {
+              "id": 11,
+              "start": 74.3,
+              "end": 91.6,
+              "text": "W: Rugby is a sport with two teams and the players carry the ball in their arms and throw it at each other. The ball is not round and the players push each other. I don't really understand the rules. I think it's very complicated.",
+              "zh": "W: 橄榄球是一项两队对抗的运动，球员用手臂抱着球互相传递。球不是圆的，球员之间会互相推搡。我不太懂规则。我觉得挺复杂的。"
+            },
+            {
+              "id": 12,
+              "start": 91.9,
+              "end": 98.5,
+              "text": "M: That sounds like a very strange sport indeed. Is it only South Africa that plays it?",
+              "zh": "M: 听起来确实是项很奇怪的运动。只有南非玩这个吗？"
+            },
+            {
+              "id": 13,
+              "start": 98.8,
+              "end": 105.8,
+              "text": "W: No, it's also popular in Britain and in other former British colonies like Australia and New Zealand.",
+              "zh": "W: 不是，在英国和其他前英国殖民地像澳大利亚、新西兰也很流行。"
+            }
+          ],
+          "audioDuration": 105.8,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "What does the woman say about her new friend Susan?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She shows a real passion for taking photos."
+                },
+                {
+                  "key": "B",
+                  "text": "She has just returned from her hometown."
+                },
+                {
+                  "key": "C",
+                  "text": "She comes from the city of Cape Town."
+                },
+                {
+                  "key": "D",
+                  "text": "She has a truly amazing appearance."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：Her name is Susan and she's from South Africa.信号：女士介绍朋友的开场陈述 。对话一开口，女士就主动交代 she's from South Africa，这是\"被介绍人的出身\"，正面回答了\"关于 Susan\"。随后第5段又点出家乡 It's called Cape T…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音说的是 She has very cool photos on her social media.——朋友圈有好照片，并没说她\"热爱拍照\"。选项把\"有酷照片\"偷换成\"对拍照有热情\"，是听到 photos 就想选的陷阱。 借用原文：The photos of her hometown look amazing.",
+                "B": "原词陷阱：录音里 hometown 出现在 The photos of her hometown look amazing.，说的是\"家乡的照片好看\"，根本没说她\"刚从家乡回来\"。选项借 hometown 这个原词编了个时间动作。 借用原文：The photos of her hometown look amazing.",
+                "D": "张冠李戴：录音里 amazing 形容的是 The photos of her hometown look amazing.——家乡的照片惊艳，不是说\"她本人长相惊艳\"。选项把形容\"照片\"的词安到了\"她的外貌\"上。",
+                "C": "正确项：与答案句同义替换（she's from South Africa ↔ She comes from the city of Cape Town. from = comes from，国家细化到城市）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Her name is Susan and she's from South Africa.",
+              "type": "细节题"
+            },
+            {
+              "number": 9,
+              "stem": "What does the woman say about Table Mountain?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is as famous as Cape Town."
+                },
+                {
+                  "key": "B",
+                  "text": "It has a flat surface at the top."
+                },
+                {
+                  "key": "C",
+                  "text": "It is green and free from pollution."
+                },
+                {
+                  "key": "D",
+                  "text": "It was named by European settlers."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P5）：The mountain is called Table Mountain because it's flat at the top.信号：因果 because 后给出命名缘由即特征 。The mountain is called Table Mountain because it's flat at the top. 中 because 后那句才是关键…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音提到 It's called Cape Town. 是城市名，但从没说桌山\"和开普敦一样有名\"。选项借 Cape Town 这个原词，凭空造了个\"知名度比较\"。 借用原文：it's very green and windy",
+                "C": "偷换概念：录音说 it's very green and windy——这是形容开普敦这座城市\"很绿、多风\"，既不是说桌山，也没说\"无污染\"。选项把 green 扩大成 free from pollution，程度被悄悄拔高。 借用原文：The city was built by European settlers.",
+                "D": "张冠李戴：录音里 European settlers 出现在 The city was built by European settlers.——欧洲移民\"建了这座城\"，命名桌山的依据是\"顶平\"而非欧洲移民。选项把\"建城\"换成\"给山命名\"。",
+                "B": "正确项：与答案句同义替换（it's flat at the top ↔ It has a flat surface at the top. flat at the top = flat surface at the top）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "The mountain is called Table Mountain because it's flat at the top.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "What do we learn from the conversation about the woman's friend Susan?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She has British ancestors."
+                },
+                {
+                  "key": "B",
+                  "text": "She is of mixed blood."
+                },
+                {
+                  "key": "C",
+                  "text": "She grew up in India."
+                },
+                {
+                  "key": "D",
+                  "text": "She speaks several languages."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P7）：Susan is white. She says her ancestors were from Britain.信号：明确指向 Susan 本人的直接陈述 。第7段先讲南非\"很混杂\"，但话锋一转点名 Susan is white. She says her ancestors were from Britain.——主语明确是 Su…",
+              "optionAnalysis": {
+                "B": "张冠李戴：录音 South Africa is very mixed 说的是\"南非（这个国家/人口）很混杂\"，紧接着却明说 Susan is white.——她是白人，不是混血。选项把形容国家的 mixed 安到了她头上。 借用原文：Indian people",
+                "C": "原词陷阱：录音只说南非有 Indian people（印度裔居民），从没说 Susan\"在印度长大\"。选项借 Indian 这个原词编了段她个人的成长史。 借用原文：Many languages are spoken in South Africa, but she only speaks English.",
+                "D": "与原文相反：录音说 Many languages are spoken in South Africa, but she only speaks English.——南非语言多，但她只会英语。选项说她\"会好几门语言\"，正好把 but 之后\"只说英语\"的真意说反了。",
+                "A": "正确项：与答案句同义替换（her ancestors were from Britain ↔ She has British ancestors. ancestors from Britain = British ancestors）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "Susan is white. She says her ancestors were from Britain.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What does the woman say about rugby in South Africa?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is an extremely violent sport."
+                },
+                {
+                  "key": "B",
+                  "text": "It is becoming a national sport."
+                },
+                {
+                  "key": "C",
+                  "text": "It is originated in New Zealand."
+                },
+                {
+                  "key": "D",
+                  "text": "It is more popular than football."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P9）：I think they play football, but it's not as popular as rugby.信号：转折 but 后给出真正的流行度比较 。I think they play football, but it's not as popular as rugby. 中 but 之后才是落点——\"足球不如橄榄球受欢迎\"…",
+              "optionAnalysis": {
+                "A": "过度推断：录音说 the players push each other 且 I think it's very complicated.——只说球员互相推挤、规则复杂，从没说它\"极度暴力\"。选项借\"推挤/复杂\"的印象夸大成 extremely violent。 借用原文：it's also popular in Britain and in other former British colonies like Australia and New Zealand",
+                "B": "未提及：录音只说它在南非比足球受欢迎、在英国及前殖民地也流行，从没说它\"正在成为国球\"。national sport 在原文里根本没出现，是无中生有。",
+                "C": "原词陷阱：录音 it's also popular in Britain and in other former British colonies like Australia and New Zealand 说新西兰是\"它也流行\"的地方之一，并非\"起源地\"。选项把\"流行地\"偷换成\"起源于新西兰\"。",
+                "D": "正确项：与答案句同义替换（it's not as popular as rugby ↔ It is more popular than football. football not as popular as rugby = rugby more popular than football）"
+              },
+              "evidencePara": "P9",
+              "evidenceText": "I think they play football, but it's not as popular as rugby.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 5.8,
+              "text": "M: Hi, Jennifer. I'm really struggling with this semester's workload. Do you have any advice?",
+              "zh": "M: 嗨，Jennifer。我这学期的课业负担真的让我很吃力。你有什么建议吗？"
+            },
+            {
+              "id": 2,
+              "start": 6.1,
+              "end": 22.7,
+              "text": "W: Have you considered making a study guide? It's a tool you can make yourself to take the stress out of studying. I've been using one since the start of last semester, and it has really helped relieve a lot of study pressure.",
+              "zh": "W: 你考虑过做一个学习指南吗？这是一个你可以自己制作的工具，能减轻学习压力。从上学期开始我就一直在用，真的帮我缓解了很多学习压力。"
+            },
+            {
+              "id": 3,
+              "start": 23.1,
+              "end": 35,
+              "text": "M: Sounds like just what I need. My main problem is that my study folder is full of notes and worksheets, and is badly disorganized. I don't know where to start.",
+              "zh": "M: 听起来正是我需要的。我的主要问题是我的学习文件夹里塞满了笔记和作业纸，而且乱七八糟的。我都不知道从哪儿开始。"
+            },
+            {
+              "id": 4,
+              "start": 35.4,
+              "end": 51.9,
+              "text": "W: Okay. Well, the main thing is to have everything in the right place. Whatever you're reviewing, it's important that it's arranged for your particular needs of that subject, and in the most user-friendly way you can. What kind of learner are you?",
+              "zh": "W: 好的。嗯，最重要的是把所有东西都放对地方。不管你在复习什么，重要的是要按照你对那门科目的特定需求来安排，而且要用你能做到的最方便使用的方式。你是哪种类型的学习者？"
+            },
+            {
+              "id": 5,
+              "start": 52.3,
+              "end": 54.2,
+              "text": "M: Um, I'm not sure.",
+              "zh": "M: 嗯，我不太确定。"
+            },
+            {
+              "id": 6,
+              "start": 54.6,
+              "end": 71.5,
+              "text": "W: Well, visual learners prefer using images, pictures, colors, and maps to organize information. Logical learners have a linear mind and would rather use logic, reasoning and systems. I'm an emotional learner, which means I need to connect to information emotionally to understand it.",
+              "zh": "W: 嗯，视觉型学习者更喜欢用图像、图片、颜色和地图来组织信息。逻辑型学习者有线性思维，更喜欢用逻辑、推理和系统。我是情感型学习者，这意味着我需要在情感上与信息建立联系才能理解它。"
+            },
+            {
+              "id": 7,
+              "start": 71.8,
+              "end": 77.6,
+              "text": "M: Oh! I'm very much dependent on vision as a way of taking in information.",
+              "zh": "M: 哦！我非常依赖视觉作为接收信息的方式。"
+            },
+            {
+              "id": 8,
+              "start": 77.9,
+              "end": 89.1,
+              "text": "W: Well, I suggest reorganizing your notes using color-coded sections in your study guides, or using idea mapping to lay out the information and make it more quickly accessible.",
+              "zh": "W: 嗯，我建议你在学习指南里用颜色编码的分区来重新组织你的笔记，或者用思维导图来布局信息，让它更快速可查。"
+            },
+            {
+              "id": 9,
+              "start": 89.4,
+              "end": 96,
+              "text": "M: So you think I should arrange my notes using color and pictures in place of text.",
+              "zh": "M: 所以你认为我应该用颜色和图片代替文字来安排我的笔记。"
+            },
+            {
+              "id": 10,
+              "start": 96.3,
+              "end": 109,
+              "text": "W: Yes, you'll probably start to grasp information a lot quicker that way. As an emotional learner, I organize my notes into a story that I can connect to and recite to myself.",
+              "zh": "W: 对，这样你可能会更快地掌握信息。作为情感型学习者，我会把笔记组织成一个我能产生共鸣并能向自己复述的故事。"
+            },
+            {
+              "id": 11,
+              "start": 109.3,
+              "end": 114.7,
+              "text": "M: That's amazing. I didn't know there were so many different ways to learn.",
+              "zh": "M: 太棒了。我都不知道原来有这么多不同的学习方式。"
+            }
+          ],
+          "audioDuration": 114.7,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What does the woman advise the man to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Prepare a study guide."
+                },
+                {
+                  "key": "B",
+                  "text": "Consult his advisors."
+                },
+                {
+                  "key": "C",
+                  "text": "Go over his notes regularly."
+                },
+                {
+                  "key": "D",
+                  "text": "Take stress-relief sessions."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：Have you considered making a study guide? It's a tool you can make yourself to take the stress out of studying.信号：建议信号 Have you considered 引出的提议 。女方用 Have you considered making a study guide? 这个建议句式回应男方的求助，「考虑过……吗」就是典型的提建议…",
+              "optionAnalysis": {
+                "B": "未提及：选项 Consult his advisors. 说的「咨询顾问」在整段对话里从未出现，女方建议的是自己做学习指南，不是去找顾问。",
+                "C": "原词陷阱：选项 Go over his notes regularly. 借了对话里反复出现的 notes 来诱你，但女方此处的建议是做 study guide，并未叫他「定期复习笔记」；regularly（定期）更是录音里没有的。 借用原文：take the stress out of studying",
+                "D": "原词陷阱：选项 Take stress-relief sessions. 抓住录音里 take the stress out of studying 的 stress 做文章，但录音说的是「学习指南能卸掉压力」，不是叫他去「上减压课程」；stress-relief sessions 是凭 stress 一词编出来的。",
+                "A": "正确项：与答案句同义替换（Have you considered making a study guide? ↔ Prepare a study guide. making 改写成 Prepare，同义动词替换）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Have you considered making a study guide? It's a tool you can make yourself to take the stress out of studying.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What is the biggest problem the man has with his studies?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "His worksheets are terribly messy."
+                },
+                {
+                  "key": "B",
+                  "text": "He finds the workload too heavy."
+                },
+                {
+                  "key": "C",
+                  "text": "His study folder is badly disorganized."
+                },
+                {
+                  "key": "D",
+                  "text": "He has difficulty taking notes quickly."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：My main problem is that my study folder is full of notes and worksheets, and is badly disorganized.信号：强调信号 My main problem is 直接点题 。男方用 My main problem is 这个强调句式亲口点出最大困扰，main problem 就是直接指向答案的信号，其后描述的状况即为答案内容。",
+              "optionAnalysis": {
+                "A": "张冠李戴：选项 His worksheets are terribly messy. 借了录音的 worksheets，但录音说乱的是整个 study folder，worksheets 只是文件夹里装着的东西之一；把「乱」单独安到 worksheets 头上是偷换对象。 借用原文：I'm really struggling with this semester's workload",
+                "B": "原词陷阱：选项 He finds the workload too heavy. 抓住男方开场 struggling with this semester's workload 的 workload，但那只是他来求助的引子，他亲口说的 main problem 是文件夹乱，不是工作量大。 借用原文：my study folder is full of notes and worksheets",
+                "D": "原词陷阱：选项 He has difficulty taking notes quickly. 借录音里的 notes 做文章，但录音只说文件夹里塞满 notes 且很乱，从没提男方「记笔记速度慢」这个困难，taking notes quickly 是凭 notes 一词编造的。",
+                "C": "正确项：与答案句同义替换（my study folder is full of notes and worksheets, and is badly disorganized ↔ His study folder is badly disorganized. study folder 与 badly disorganized 原句几乎直取）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "My main problem is that my study folder is full of notes and worksheets, and is badly disorganized.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What kind of learner does the woman say she is?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A visual learner."
+                },
+                {
+                  "key": "B",
+                  "text": "An emotional learner."
+                },
+                {
+                  "key": "C",
+                  "text": "An organized learner."
+                },
+                {
+                  "key": "D",
+                  "text": "A logical learner."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P6）：I'm an emotional learner, which means I need to connect to information emotionally to understand it.信号：第一人称自指 I'm an emotional learner 。女方在介绍完 visual、logical 两类后，用 I'm an emotional learner 这个第一人称自指句点明自己的类别，I'm 就…",
+              "optionAnalysis": {
+                "A": "张冠李戴：选项 A visual learner. 借了录音里 visual learners 这一类，但视觉型对应的是男方（他说 I'm very much dependent on vision），女方自称的是情感型；把男方的类别安给女方即张冠李戴。 借用原文：reorganizing your notes using color-coded sections",
+                "C": "原词陷阱：选项 An organized learner. 蹭了全篇「整理笔记 organize」的氛围，但录音介绍的三类是 visual、logical、emotional，从没有 organized learner 这一类，更不是女方的自称。 借用原文：Logical learners have a linear mind and would rather use logic, reasoning and systems",
+                "D": "张冠李戴：选项 A logical learner. 取了录音 Logical learners have a linear mind 这一类，但那是女方泛指介绍的一类人，她自称的是 emotional，不是 logical；安到女方头上属张冠李戴。",
+                "B": "正确项：与答案句同义替换（I'm an emotional learner ↔ An emotional learner. emotional learner 原词对应）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "I'm an emotional learner, which means I need to connect to information emotionally to understand it.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "What does the woman think the man can do with his notes?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Arrange them using color and pictures."
+                },
+                {
+                  "key": "B",
+                  "text": "Restructure them in a logical way."
+                },
+                {
+                  "key": "C",
+                  "text": "Commit them to memory after class."
+                },
+                {
+                  "key": "D",
+                  "text": "Organize them into a well-connected story."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P8）：Well, I suggest reorganizing your notes using color-coded sections in your study guides, or using idea mapping to lay out the information.信号：建议信号 I suggest 引出给男方的方法 。女方用 I suggest reorganizing your notes using color-coded sections 直接给男方建议，I suggest …",
+              "optionAnalysis": {
+                "B": "原词陷阱：选项 Restructure them in a logical way. 借了录音介绍 logical learners 时的 logic 一词，但女方给男方（视觉型）的建议是用颜色和图，不是「按逻辑重构」；logical 属另一类学习者的特征。 借用原文：make it more quickly accessible",
+                "C": "原词陷阱：选项 Commit them to memory after class. 蹭了录音 more quickly accessible 的「快」感，但录音说的是用颜色图让信息更快被取用，从没建议「课后把笔记背下来」；memory、after class 都是录音没有的。 借用原文：As an emotional learner, I organize my notes into a story that I can connect to and recite to myself",
+                "D": "张冠李戴：选项 Organize them into a well-connected story. 取了录音 I organize my notes into a story，但那是女方作为情感型学习者「自己」的做法，不是建议给视觉型的男方的；把女方的做法安成给男方的建议即张冠李戴。",
+                "A": "正确项：与答案句同义替换（using color-coded sections in your study guides, or using idea mapping ↔ Arrange them using color and pictures. color-coded、idea mapping 概括成 color and pictures）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "Well, I suggest reorganizing your notes using color-coded sections in your study guides, or using idea mapping to lay out the information.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 15,
+              "text": "The golden rule is a moral principle which states that you should treat others the way you want to be treated yourself. For example, if you want people to treat you with respect, you should treat them with respect.",
+              "zh": "黄金法则是一条道德原则,它指出你应该以你希望被对待的方式对待他人。例如,如果你希望人们尊重你,你就应该尊重他们。"
+            },
+            {
+              "id": 2,
+              "start": 15.3,
+              "end": 24.2,
+              "text": "Different people tend to be exposed to different forms of the golden rule, based on factors such as the religion in their society.",
+              "zh": "不同的人往往会接触到不同形式的黄金法则,这取决于诸如其社会中的宗教等因素。"
+            },
+            {
+              "id": 3,
+              "start": 24.6,
+              "end": 38.8,
+              "text": "However, all forms of the golden rule revolve around the same concept. Namely, they help you treat others better, by using the way you yourself would want to be treated as a guide of how to behave.",
+              "zh": "然而,黄金法则的所有形式都围绕着同一个概念。也就是说,它们通过使用你自己希望被对待的方式作为行为指南,帮助你更好地对待他人。"
+            },
+            {
+              "id": 4,
+              "start": 39.1,
+              "end": 48.4,
+              "text": "A notable criticism of the golden rule is that its application can lead to undesirable outcomes, when it conflicts with laws and ethical principles.",
+              "zh": "对黄金法则的一个显著批评是,当它与法律和伦理原则相冲突时,其应用可能导致不良后果。"
+            },
+            {
+              "id": 5,
+              "start": 48.8,
+              "end": 59.1,
+              "text": "For example, if someone breaks the law, the golden rule would suggest that we should let them go, because we would not want to be punished ourselves.",
+              "zh": "例如,如果有人违法,黄金法则会建议我们应该放过他们,因为我们自己也不想受到惩罚。"
+            },
+            {
+              "id": 6,
+              "start": 59.5,
+              "end": 73.7,
+              "text": "However, this issue with the golden rule can be dealt with in a general manner, by viewing this principle as one of several principles that we use to guide our behavior as individuals and as a society.",
+              "zh": "然而,黄金法则的这一问题可以通过一般性方式来处理,即把这一原则视为我们用来指导个人和社会行为的若干原则之一。"
+            },
+            {
+              "id": 7,
+              "start": 74,
+              "end": 91,
+              "text": "Specifically, in the example described above, most individuals and societies choose to place laws and ethical principles above the golden rule. This means that they strive to implement the golden rule whenever possible, as long as it doesn't clash with a more important concept.",
+              "zh": "具体而言,在上述例子中,大多数个人和社会选择将法律和伦理原则置于黄金法则之上。这意味着只要不与更重要的概念发生冲突,他们就努力在任何可能的情况下实施黄金法则。"
+            }
+          ],
+          "audioDuration": 91,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What do we learn from the passage about the golden rule?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is mainly based on a society's religion."
+                },
+                {
+                  "key": "B",
+                  "text": "It is interpreted differently in different times."
+                },
+                {
+                  "key": "C",
+                  "text": "It is a code of conduct based on laws and ethics."
+                },
+                {
+                  "key": "D",
+                  "text": "It is a moral principle to guide people's behavior."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：The golden rule is a moral principle which states that you should treat others the way you want to be treated yourself.信号：开篇“X is...”下定义句即落点 。录音第一句就用 The golden rule is a moral principle which states that you should treat others t…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确实提到 the religion in their society，但只是说不同人接触到的“形式”受宗教等因素影响，从没说它“mainly based on religion”。A 项盗了 religion 这个原词，把“影响形式的因素之一”偷换成“主要建立在宗教上”，是听到原词就想选的陷阱。 借用原文：Different people tend to be exposed to different forms of the golden rule",
+                "B": "偷换概念：录音说 Different people tend to be exposed to different forms——是“不同人接触不同形式”，B 项 17B 式地改成“interpreted differently in different times”（不同时代有不同解读），把“不同人/不同形式”偷换为“不同时代”，且录音第 3 段强调 all forms... revolve around the same concept（内核其实相同），与 B 相悖。 借用原文：when it conflicts with laws and ethical principles",
+                "C": "原词陷阱：a code of conduct based on laws and ethics 里的 laws and ethics 录音里确实反复出现（如 laws and ethical principles），但那是讲它与法律伦理的“冲突”关系，并非说 golden rule 本身“基于法律伦理”。录音定义它是 a moral principle（道德准则），C 把它的本质错挂到法律伦理上，是张冠李戴式的原词陷阱。",
+                "D": "正确项：与答案句同义替换（a moral principle which states that you should treat others the way you want to be treated ↔ a moral principle to guide people's behavior “主张你该怎样待人”=“指导人的行为”）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The golden rule is a moral principle which states that you should treat others the way you want to be treated yourself.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "What is a notable criticism of the golden rule?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It may lead to misunderstanding despite good intentions."
+                },
+                {
+                  "key": "B",
+                  "text": "It assumes that human beings are all good-natured."
+                },
+                {
+                  "key": "C",
+                  "text": "It may sometimes produce undesirable outcomes."
+                },
+                {
+                  "key": "D",
+                  "text": "It fails to consider the complexity of human relationships."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P4）：A notable criticism of the golden rule is that its application can lead to undesirable outcomes, when it conflicts with laws and ethical principles.信号：信号词 criticism 直接领出答案句 。录音第 4 段以 A notable criticism of the golden rule is that... 开头，criticism 这个批评信号词一出，紧跟的…",
+              "optionAnalysis": {
+                "A": "未提及：It may lead to misunderstanding despite good intentions. 里的 misunderstanding（误解）和 good intentions（好意）录音通篇没提，批评句讲的是“与法律伦理冲突导致不良后果”，与误解无关，属凭常识想象的未提及项。",
+                "B": "过度推断：It assumes that human beings are all good-natured. 是录音从未表达的论断——录音只说不同形式都 help you treat others better，并没说“它假设人人本性善良”。B 借“better/good”的善意语感引申出“假设人皆善良”，属过度推断。",
+                "D": "未提及：It fails to consider the complexity of human relationships. 听着像个高级批评，但录音对它的批评只指向“与法律伦理冲突”，从未说它“没考虑人际关系的复杂性”。这是一个原文未提及、却被包装得很像批评的干扰项。",
+                "C": "正确项：与答案句同义替换（its application can lead to undesirable outcomes ↔ It may sometimes produce undesirable outcomes. lead to=produce，原词 undesirable outcomes 几乎照搬）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "A notable criticism of the golden rule is that its application can lead to undesirable outcomes, when it conflicts with laws and ethical principles.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What does the example of someone breaking the law serve to show?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The golden rule is often in conflict with certain laws and ethical principles."
+                },
+                {
+                  "key": "B",
+                  "text": "The golden rule must sometimes give way to more important principles."
+                },
+                {
+                  "key": "C",
+                  "text": "Failure to follow the golden rule may lead to violation of laws and ethics."
+                },
+                {
+                  "key": "D",
+                  "text": "Observing the golden rule is the first step to becoming a responsible citizen."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P7）：Specifically, in the example described above, most individuals and societies choose to place laws and ethical principles above the golden rule. This means that they strive to implement the golden rule whenever possible, as long as it doesn't clash with a more important concept.信号：例后“This means”总结句即论点落点 。违法的例子在第 5 段，但作者在第 7 段用 most individuals and societies choose to place laws and ethic…",
+              "optionAnalysis": {
+                "A": "原词陷阱：The golden rule is often in conflict with certain laws and ethical principles. 借了录音里的 conflict（conflicts with、clash）。但录音说的是“冲突时如何处理（让位）”，不是强调“它经常与法律冲突”；A 把例子的用意偷换成“频繁冲突”，且 often 程度过强，是原词陷阱。 借用原文：the golden rule would suggest that we should let them go",
+                "C": "与原文相反：Failure to follow the golden rule may lead to violation of laws and ethics. 用了 laws、violation 等近义词，但录音的逻辑是“遵守黄金法则反而可能让违法者逍遥（we should let them go）”，即遵守它才可能冲突法律，而非“不遵守它就违法”。C 把因果方向整个弄反了。",
+                "D": "过度推断：Observing the golden rule is the first step to becoming a responsible citizen. 听着正能量，但录音从没说遵守它是“成为合格公民的第一步”，反而强调它要让位于更重要原则。D 借“principle、society”的语境拔高出一个原文没有的结论，属过度推断。",
+                "B": "正确项：与答案句同义替换（place laws and ethical principles above the golden rule ↔ The golden rule must sometimes give way to more important principles. “把法律置于其上”=“黄金法则让位于更重要原则”）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "Specifically, in the example described above, most individuals and societies choose to place laws and ethical principles above the golden rule. This means that they strive to implement the golden rule whenever possible, as long as it doesn't clash with a more important concept.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 16.2,
+              "text": "Today, many large corporations stress the importance of diversity on their websites, but current statistics show that the typical manager in America still tends to be white and male. Obviously, the desire to bring about diversity has not translated into corporate reality.",
+              "zh": "如今,许多大型企业在其网站上强调多元化的重要性,但目前的统计数据显示,美国的典型管理者仍然倾向于是白人和男性。显然,实现多元化的愿望尚未转化为企业现实。"
+            },
+            {
+              "id": 2,
+              "start": 16.6,
+              "end": 50.4,
+              "text": "Why useless? A team of researchers from the University of Basel published their new study about people's attitudes towards diversity at work. They found that people have a wide range of opinions concerning diversity. On the one hand, many see value in diversity, which can contribute a variety of perspectives, encourage new ideas, and generate innovative solutions. On the other hand, they assume that it might be difficult to work with someone who has completely different views, speaks a different language, or has a different style of work.",
+              "zh": "为什么没有用?巴塞尔大学的一组研究人员发表了他们关于人们对工作场所多元化态度的新研究。他们发现,人们对多元化持有广泛的意见。一方面,许多人看到了多元化的价值,它可以贡献各种不同的观点,鼓励新想法,并产生创新的解决方案。另一方面,他们认为与观点完全不同、说不同语言或工作风格不同的人共事可能会很困难。"
+            },
+            {
+              "id": 3,
+              "start": 50.8,
+              "end": 83.4,
+              "text": "The actual value they attribute to diversity depends on the decision-making perspective. Doubts about the practicability of diversity have a greater weight if a person is directly affected. In other words, when a person's own work group is involved, they tend to prefer team members who are similar to themselves. But when people make decisions for others, they typically put together a more diverse team. These findings could help organizations become more diverse. Companies need to pay attention to who makes hiring and team decisions.",
+              "zh": "他们赋予多元化的实际价值取决于决策视角。如果一个人受到直接影响,对多元化实用性的怀疑会具有更大的权重。换句话说,当涉及一个人自己的工作团队时,他们倾向于选择与自己相似的团队成员。但当人们为他人做决定时,他们通常会组建一个更多元化的团队。这些发现可以帮助组织变得更加多元化。企业需要关注由谁来做出招聘和团队决策。"
+            },
+            {
+              "id": 4,
+              "start": 83.8,
+              "end": 93.8,
+              "text": "These decisions should not only be made by those directly affected. People who are not directly involved in the group's daily work should also take part.",
+              "zh": "这些决策不应仅由直接受影响的人做出。不直接参与团队日常工作的人也应该参与其中。"
+            }
+          ],
+          "audioDuration": 93.8,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What do we learn from the current statistics about diversity in large corporations?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Many of them find it rather difficult to manage."
+                },
+                {
+                  "key": "B",
+                  "text": "They have not seen as much diversity as desired."
+                },
+                {
+                  "key": "C",
+                  "text": "Many of them have an increasingly diversified staff."
+                },
+                {
+                  "key": "D",
+                  "text": "They have not quite grasped the concept of diversity."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：Obviously, the desire to bring about diversity has not translated into corporate reality.信号：否定句 has not 是落点 。这句的答案信号是含蓄否定 has not translated into corporate reality，前面 many large corporations stress th…",
+              "optionAnalysis": {
+                "A": "答非所问：选项 Many of them find it rather difficult to manage. 听上去像盗用了后文 it might be difficult to work with someone who has completely different views 的 difficult，但那是讲人们对多元化的顾虑，不是 current statistics 这道题问的统计现状，属答非所问。 借用原文：the typical manager in America still tends to be white and male",
+                "C": "与原文相反：选项 Many of them have an increasingly diversified staff. 盗用了 diversified 这个原词，方向却反了：录音明说 the typical manager in America still tends to be white and male，统计显示多元化并未实现，C 却说员工日益多元，与原文相反。",
+                "D": "未提及：选项 They have not quite grasped the concept of diversity. 说公司没理解多元化的概念，但录音只说愿望没落实为现实，从没说公司不懂这个概念，属未提及、无中生有。",
+                "B": "正确项：与答案句同义替换（the desire to bring about diversity has not translated into corporate reality ↔ have not seen as much diversity as desired 愿望未落地=未达期望）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Obviously, the desire to bring about diversity has not translated into corporate reality.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What is the newly published study focused on?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Initiatives to achieve diversity in large corporations."
+                },
+                {
+                  "key": "B",
+                  "text": "Advantages and disadvantages of a diversified team."
+                },
+                {
+                  "key": "C",
+                  "text": "People's attitudes towards diversity at the workplace."
+                },
+                {
+                  "key": "D",
+                  "text": "Innovative ideas and solutions resulting from diversity."
+                }
+              ],
+              "answer": "C",
+              "analysis": "主旨题。答案句（P2）：A team of researchers from the University of Basel published their new study about people's attitudes towards diversity at work.信号：study about 直接点题 。答案信号是介绍研究时的点题结构 published their new study about people's attitudes towards diversity at wo…",
+              "optionAnalysis": {
+                "A": "答非所问：选项 Initiatives to achieve diversity in large corporations. 蹭了 diversity in large corporations 这串原词，但 achieve diversity 的举措是第三、四段给组织的建议，不是这项研究本身聚焦的主题，把分论点冒充主旨，以偏概全。 借用原文：On the one hand, many see value in diversity... On the other hand, they assume that it might be difficult",
+                "B": "偷换概念：选项 Advantages and disadvantages of a diversified team. 对应录音第二段 On the one hand / On the other hand 讲的多元化利弊，但那是人们态度的具体内容（人们一方面看到价值、一方面担心），属于主题之下的一个层面，拿来当全篇主旨则范围偏小，以偏概全。 借用原文：encourage new ideas, and generate innovative solutions",
+                "D": "原词陷阱：选项 Innovative ideas and solutions resulting from diversity. 盗用了 generate innovative solutions 的原词，但那只是多元化的众多好处之一，是态度里看到价值的细节，远不是研究聚焦的总主题，属以偏概全。",
+                "C": "正确项：与答案句同义替换（people's attitudes towards diversity at work ↔ People's attitudes towards diversity at the workplace. at work=at the workplace）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "A team of researchers from the University of Basel published their new study about people's attitudes towards diversity at work.",
+              "type": "主旨题"
+            },
+            {
+              "number": 21,
+              "stem": "What do the findings of the new study show?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "People prefer to work with team members similar to themselves."
+                },
+                {
+                  "key": "B",
+                  "text": "Employers attach great importance to their corporations' diversity."
+                },
+                {
+                  "key": "C",
+                  "text": "Employers differ from employees in their perspectives on diversity."
+                },
+                {
+                  "key": "D",
+                  "text": "Doubts about the practicability of diversity are gradually disappearing."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：In other words, when a person's own work group is involved, they tend to prefer team members who are similar to themselves.信号：In other words 后是结论 。答案信号是总结性标志 In other words，它后面紧跟的就是对前文的提炼结论 they tend to prefer team members who are sim…",
+              "optionAnalysis": {
+                "B": "张冠李戴：选项 Employers attach great importance to their corporations' diversity. 蹭了 many large corporations stress the importance of diversity 的 importance、diversity，但那是开头讲公司在网站上的表态，不是这项研究的 findings，张冠李戴地把背景当成了发现。 借用原文：when a person's own work group is involved... But when people make decisions for others",
+                "C": "偷换概念：选项 Employers differ from employees in their perspectives on diversity. 偷换了主体：录音区分的是 when a person's own work group is involved 与 when people make decisions for others（自己是否被直接波及），而非 employers 和 employees 两种身份，属偷换概念。 借用原文：Doubts about the practicability of diversity have a greater weight if a person is directly affected",
+                "D": "与原文相反：选项 Doubts about the practicability of diversity are gradually disappearing. 盗用了 Doubts about the practicability of diversity 整串原词，方向却反了：录音说当人被直接波及时这种疑虑 have a greater weight（分量更重），并非在逐渐消失，与原文相反。",
+                "A": "正确项：与答案句同义替换（they tend to prefer team members who are similar to themselves ↔ People prefer to work with team members similar to themselves. tend to prefer=prefer to work with）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "In other words, when a person's own work group is involved, they tend to prefer team members who are similar to themselves.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 5,
+              "text": "Communication can essentially be divided into two categories: the written and the spoken.",
+              "zh": "沟通本质上可以分为两类：书面沟通和口头沟通。"
+            },
+            {
+              "id": 2,
+              "start": 5.3,
+              "end": 15,
+              "text": "How the balance is struck between these two forms of communication—the point at which one needs to be exchanged for another—really depends on individual cultures.",
+              "zh": "如何在这两种沟通形式之间取得平衡——即在何时需要将一种形式转换为另一种形式——实际上取决于各个文化。"
+            },
+            {
+              "id": 3,
+              "start": 15.3,
+              "end": 23,
+              "text": "Understanding when it's appropriate to exchange one form for another can be a major key to success in international business.",
+              "zh": "理解何时适合将一种形式转换为另一种形式，可能是国际商务成功的关键因素。"
+            },
+            {
+              "id": 4,
+              "start": 23.4,
+              "end": 29.9,
+              "text": "Many cultures place a much greater value on the spoken word than the American working culture does.",
+              "zh": "许多文化对口头语言的重视程度远高于美国职场文化。"
+            },
+            {
+              "id": 5,
+              "start": 30.3,
+              "end": 45.6,
+              "text": "In parts of the Middle East, you'll find spoken word agreements are seen as seriously binding. A person's word is linked to their honor, so verbal agreements are seen as important, whereas written contracts are taken as memos of understanding.",
+              "zh": "在中东部分地区,你会发现口头协议被视为具有严肃的约束力。一个人的话语与其荣誉相关联，因此口头协议被视为重要的，而书面合同则被视为理解备忘录。"
+            },
+            {
+              "id": 6,
+              "start": 46,
+              "end": 63.6,
+              "text": "Western working culture tends to place a high value on the written word, and this reaches its highest level of intensity when it comes to contracts. In the US, France and Germany, written contracts tend to be seen as something that must be strictly carried out.",
+              "zh": "西方职场文化倾向于高度重视书面文字，而这在涉及合同时达到最高强度。在美国、法国和德国，书面合同往往被视为必须严格执行的东西。"
+            },
+            {
+              "id": 7,
+              "start": 64,
+              "end": 77.8,
+              "text": "By contrast, other cultures may not see written contracts as quite so binding. It can prove a challenge to Western businesses if your business partner wants to renegotiate terms that you thought were already agreed on.",
+              "zh": "相比之下，其他文化可能不认为书面合同具有如此强的约束力。如果你的商业伙伴想要重新协商你认为已经达成一致的条款，这可能会给西方企业带来挑战。"
+            },
+            {
+              "id": 8,
+              "start": 78.1,
+              "end": 87.8,
+              "text": "For example, a Japanese firm may have signed a contract, but they may not feel bound by every detail of it—particularly if circumstances later change.",
+              "zh": "例如，一家日本公司可能已经签署了合同，但他们可能不觉得受其每个细节的约束——特别是如果情况后来发生变化。"
+            },
+            {
+              "id": 9,
+              "start": 88.1,
+              "end": 97.4,
+              "text": "Such differences in value that different working cultures place on the written word tend to cause many problems when it comes to business relationships.",
+              "zh": "不同职场文化对书面文字所赋予的价值差异，往往会在商业关系中造成许多问题。"
+            }
+          ],
+          "audioDuration": 97.4,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What is a major key to success in international business according to the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Choosing the best time for signing a business contract."
+                },
+                {
+                  "key": "B",
+                  "text": "Changing one's form of communication from time to time."
+                },
+                {
+                  "key": "C",
+                  "text": "Laying equal stress on written and spoken communication."
+                },
+                {
+                  "key": "D",
+                  "text": "Using different forms of communication appropriately."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Understanding when it's appropriate to exchange one form for another can be a major key to success in international business.信号：题干原词 major key to success 在录音里原句重现 。这句里 a major key to success in international business 与题干几乎逐字相同，是直接点题的下结论…",
+              "optionAnalysis": {
+                "A": "答非所问：Choosing the best time for signing a business contract. 借了录音的商务背景和 appropriate（合适）的影子，把它偷换成挑签合同的最佳时机，但录音说的是恰当地切换沟通形式，根本没讲签合同的时间点，属答非所问。",
+                "B": "偷换概念：Changing one's form of communication from time to time. 借用了换形式这个动作，却把录音强调的 when it's appropriate（看场合）偷换成 from time to time（时不时地）的随意更换，录音讲的是合适与否而非更换频率，属偷换概念。",
+                "C": "与原文相反：Laying equal stress on written and spoken communication. 借了书面与口头这对原文概念，却说要对两者等量看重，而录音通篇强调的是看场合选用合适的那种，不是一视同仁，方向正好相反。",
+                "D": "正确项：与答案句同义替换（when it's appropriate to exchange one form for another ↔ Using different forms of communication appropriately 换一种形式=用不同形式，appropriate=appropriately）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Understanding when it's appropriate to exchange one form for another can be a major key to success in international business.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What does the passage say about spoken word agreements in some Middle East countries?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are regarded as seriously binding."
+                },
+                {
+                  "key": "B",
+                  "text": "They are seldom honored by business partners."
+                },
+                {
+                  "key": "C",
+                  "text": "They are taken as memos of understanding."
+                },
+                {
+                  "key": "D",
+                  "text": "They are to be confirmed in written form."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P5）：In parts of the Middle East, you'll find spoken word agreements are seen as seriously binding.信号：地名 Middle East 后紧跟对口头约定的定性 。录音 In parts of the Middle East 一出现就锁定答案区，紧跟的 spoken word agreements are seen as …",
+              "optionAnalysis": {
+                "B": "与原文相反：They are seldom honored by business partners. 与录音相反，录音说中东口头约定 are seen as seriously binding 且 A person's word is linked to their honor（一个人的话与荣誉相连，被高度看重），seldom honored（很少被信守）恰好反了过来。 借用原文：written contracts are taken as memos of understanding",
+                "C": "张冠李戴：They are taken as memos of understanding. 盗用了录音原句 written contracts are taken as memos of understanding，但录音里被当作谅解备忘录的是书面合同（written contracts），不是题干问的口头约定，属张冠李戴——听到原词 memos of understanding 就选会中招。",
+                "D": "未提及：They are to be confirmed in written form. 借用了 written（书面）这个原文话题词，但录音对中东口头约定只说其约束力强，从未说它要以书面形式确认，属无中生有。",
+                "A": "正确项：与答案句同义替换（spoken word agreements are seen as seriously binding ↔ They are regarded as seriously binding seen as=regarded as，几乎原义对应）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "In parts of the Middle East, you'll find spoken word agreements are seen as seriously binding.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What do we learn about the Western working culture?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has reached the highest level of evolution."
+                },
+                {
+                  "key": "B",
+                  "text": "It places a high value on written contracts."
+                },
+                {
+                  "key": "C",
+                  "text": "It regards written contracts as unalterable."
+                },
+                {
+                  "key": "D",
+                  "text": "It has seen a decline in verbal agreements."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P6）：Western working culture tends to place a high value on the written word, and this reaches its highest level of intensity when it comes to contracts.信号：对象名 Western working culture 后紧跟其定性主干 。录音 Western working culture tends to place a high value on the written …",
+              "optionAnalysis": {
+                "A": "原词陷阱：It has reached the highest level of evolution. 盗用了录音 reaches its highest level of intensity 里的 highest level，却把 intensity（程度）换成 evolution（进化），还擅自拔高成进化最高级，录音从未说西方文化进化到顶，属过度推断+偷换原词。 借用原文：written contracts tend to be seen as something that must be strictly carried out",
+                "C": "过度推断：It regards written contracts as unalterable. 把录音 something that must be strictly carried out（必须严格执行）推到 unalterable（绝对不可更改），严格执行讲的是履行，不可更改讲的是能否修改，录音没说合同不能改，属过度推断。",
+                "D": "未提及：It has seen a decline in verbal agreements. 借了 verbal/口头这个话题词，但录音讲西方文化只说它看重书面合同，从未提到口头协议出现下降，属无中生有。",
+                "B": "正确项：与答案句同义替换（place a high value on the written word ↔ It places a high value on written contracts the written word 与 written contracts 同指书面，且原句下文点明 contracts）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "Western working culture tends to place a high value on the written word, and this reaches its highest level of intensity when it comes to contracts.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "How does a Japanese firm tend to view a written contract?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Its details cannot be renegotiated."
+                },
+                {
+                  "key": "B",
+                  "text": "It has to be carried out to the letter."
+                },
+                {
+                  "key": "C",
+                  "text": "It strengthens business partnerships."
+                },
+                {
+                  "key": "D",
+                  "text": "Its terms may not be strictly binding."
+                }
+              ],
+              "answer": "D",
+              "analysis": "态度观点题。答案句（P8）：For example, a Japanese firm may have signed a contract, but they may not feel bound by every detail of it—particularly if circumstances later change.信号：转折 but 之后才是真意，且 may not 软化约束 。录音 may have signed a contract, but they may not feel bound by every detail 里转折…",
+              "optionAnalysis": {
+                "A": "与原文相反：Its details cannot be renegotiated. 借了上文 renegotiate terms 的原词，但录音正说情况变化时这类公司可能想重新协商条款，并非不能重谈，cannot be renegotiated 与原意相反。 借用原文：written contracts tend to be seen as something that must be strictly carried out",
+                "B": "张冠李戴：It has to be carried out to the letter. 盗用了第6段说西方文化的 something that must be strictly carried out，但严格照字面执行讲的是西方文化（美法德），不是题干问的日本公司，张冠李戴——听到 carried out 就选会中招。 借用原文：tend to cause many problems when it comes to business relationships",
+                "C": "与原文相反：It strengthens business partnerships. 与录音相反，录音说这种价值观差异 tend to cause many problems when it comes to business relationships（往往给商业关系带来很多问题），而非巩固伙伴关系，属与原文相反兼无中生有。",
+                "D": "正确项：与答案句同义替换（they may not feel bound by every detail of it ↔ Its terms may not be strictly binding not feel bound 主动表述=not be binding 被动表述，detail≈terms）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "For example, a Japanese firm may have signed a contract, but they may not feel bound by every detail of it—particularly if circumstances later change.",
+              "type": "态度观点题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "If you've ever looked at the ingredients list while grocery shopping, chances are you've seen the term \"natural flavors\". But have you taken a 26______ to consider what these natural flavors actually are?\n\nMost of us might think that \"natural flavors\" are, well, naturally good for us. A recent study in the journal Appetite found that when the word \"natural\" appears on packaging, people 27______ that the food within is indeed healthier. In truth, natural flavors do not 28______ much, at least chemically speaking, from their flavor-boosting 29______ : artificial flavors. Both can be made in a lab by trained flavorists, but artificial flavors use chemicals to give a product a 30______ smell or taste.\n\nNatural flavors come from plant or animal 31______ , like fruit, vegetable, meat, fish or milk that is then processed or refined in some way. In short, natural flavors are 32______ from plants and animals to create specific flavors for processed foods. But that does not 33______ make it easier to tell what is really in your food. Because the Food and Drug Administration (FDA) has not 34______ the term, companies can use it to refer to pretty much anything derived from a plant or animal. And natural flavors can also include a variety of chemical additives, such as preservatives. The FDA doesn't require companies to reveal what additional chemicals a specific item 35______ .\n\nSo if you want to know for certain what you're getting with your groceries, you might want to stick to the farmer's market."
+            },
+            {
+              "label": "词库",
+              "text": "A) acknowledge\nB) chance\nC) contains\nD) counterparts\nE) defined\nF) differ\nG) especially\nH) extracted\nI) implies\nJ) necessarily\nK) particular\nL) perceive\nM) second\nN) sources\nO) strange"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "acknowledge"
+                },
+                {
+                  "key": "B",
+                  "text": "chance"
+                },
+                {
+                  "key": "C",
+                  "text": "contains"
+                },
+                {
+                  "key": "D",
+                  "text": "counterparts"
+                },
+                {
+                  "key": "E",
+                  "text": "defined"
+                },
+                {
+                  "key": "F",
+                  "text": "differ"
+                },
+                {
+                  "key": "G",
+                  "text": "especially"
+                },
+                {
+                  "key": "H",
+                  "text": "extracted"
+                },
+                {
+                  "key": "I",
+                  "text": "implies"
+                },
+                {
+                  "key": "J",
+                  "text": "necessarily"
+                },
+                {
+                  "key": "K",
+                  "text": "particular"
+                },
+                {
+                  "key": "L",
+                  "text": "perceive"
+                },
+                {
+                  "key": "M",
+                  "text": "second"
+                },
+                {
+                  "key": "N",
+                  "text": "sources"
+                },
+                {
+                  "key": "O",
+                  "text": "strange"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) second\n【原文】take a second = 花点时间，固定搭配\nB) chance 搭配指向不对：take a chance 意为\"冒险、碰运气\"，放进 taken a __(26)__ to consider 成了\"冒险去考虑\"，与\"花时间思考\"的语境不符。\nD) counterparts 复数，与 a 冲突：counterparts 是复数形式，前面却是单数冠词 a，语法上就过不去；词义\"对应物\"也接不上。\nN) sources 复数且词义不符：sources 同样是复数，与 a 不配；\"来源\"也无法和 \"to consider\" 构成通顺意思。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "acknowledge"
+                },
+                {
+                  "key": "B",
+                  "text": "chance"
+                },
+                {
+                  "key": "C",
+                  "text": "contains"
+                },
+                {
+                  "key": "D",
+                  "text": "counterparts"
+                },
+                {
+                  "key": "E",
+                  "text": "defined"
+                },
+                {
+                  "key": "F",
+                  "text": "differ"
+                },
+                {
+                  "key": "G",
+                  "text": "especially"
+                },
+                {
+                  "key": "H",
+                  "text": "extracted"
+                },
+                {
+                  "key": "I",
+                  "text": "implies"
+                },
+                {
+                  "key": "J",
+                  "text": "necessarily"
+                },
+                {
+                  "key": "K",
+                  "text": "particular"
+                },
+                {
+                  "key": "L",
+                  "text": "perceive"
+                },
+                {
+                  "key": "M",
+                  "text": "second"
+                },
+                {
+                  "key": "N",
+                  "text": "sources"
+                },
+                {
+                  "key": "O",
+                  "text": "strange"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) perceive\n【原文】people __(27)__ that the food within is indeed healthier，承接前句 \"natural\" 带来的错觉，这里说人们\"认为/觉得\"里面的食物更健康，perceive（主观认为、感知）正贴这层\"误以为\"的语境。\nA) acknowledge \"承认\"含已确认事实，与误解语境反：acknowledge 是\"承认（某事属实）\"，暗示那是被证实的事实；但本文恰恰要说\"更健康\"只是人们的错觉、并非事实，用 acknowledge 逻辑指向反了。\nF) differ 不接 that 从句，搭配不成立：differ 表\"不同\"，固定接 differ from，不能接 that 从句；语法上就接不上 that the food within is indeed healthier。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "acknowledge"
+                },
+                {
+                  "key": "B",
+                  "text": "chance"
+                },
+                {
+                  "key": "C",
+                  "text": "contains"
+                },
+                {
+                  "key": "D",
+                  "text": "counterparts"
+                },
+                {
+                  "key": "E",
+                  "text": "defined"
+                },
+                {
+                  "key": "F",
+                  "text": "differ"
+                },
+                {
+                  "key": "G",
+                  "text": "especially"
+                },
+                {
+                  "key": "H",
+                  "text": "extracted"
+                },
+                {
+                  "key": "I",
+                  "text": "implies"
+                },
+                {
+                  "key": "J",
+                  "text": "necessarily"
+                },
+                {
+                  "key": "K",
+                  "text": "particular"
+                },
+                {
+                  "key": "L",
+                  "text": "perceive"
+                },
+                {
+                  "key": "M",
+                  "text": "second"
+                },
+                {
+                  "key": "N",
+                  "text": "sources"
+                },
+                {
+                  "key": "O",
+                  "text": "strange"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) differ\n【原文】differ from = 与……不同，搭配定死\nnatural flavors do not __(28)__ much, at least chemically speaking, from their flavor-boosting __(29)__: artificial flavors，意为\"天然香精与人工香精差别不大\"，differ from 是固定搭配，且呼应全文\"两者其实差不多\"的主旨。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "acknowledge"
+                },
+                {
+                  "key": "B",
+                  "text": "chance"
+                },
+                {
+                  "key": "C",
+                  "text": "contains"
+                },
+                {
+                  "key": "D",
+                  "text": "counterparts"
+                },
+                {
+                  "key": "E",
+                  "text": "defined"
+                },
+                {
+                  "key": "F",
+                  "text": "differ"
+                },
+                {
+                  "key": "G",
+                  "text": "especially"
+                },
+                {
+                  "key": "H",
+                  "text": "extracted"
+                },
+                {
+                  "key": "I",
+                  "text": "implies"
+                },
+                {
+                  "key": "J",
+                  "text": "necessarily"
+                },
+                {
+                  "key": "K",
+                  "text": "particular"
+                },
+                {
+                  "key": "L",
+                  "text": "perceive"
+                },
+                {
+                  "key": "M",
+                  "text": "second"
+                },
+                {
+                  "key": "N",
+                  "text": "sources"
+                },
+                {
+                  "key": "O",
+                  "text": "strange"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) counterparts\n【原文】natural flavors do not differ much ... from their flavor-boosting __(29)__: artificial flavors，把 artificial flavors 称作 natural flavors 的 counterparts（对应物/对等物），正是两类香精互为对照的关系，词义最贴。\nN) sources \"来源\"指向错，且后文要用：sources 意为\"来源\"，但 artificial flavors 是与天然香精\"并列对照\"的另一类，不是它的来源；且 sources 在 31 题指\"植物动物来源\"才真正贴切"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "acknowledge"
+                },
+                {
+                  "key": "B",
+                  "text": "chance"
+                },
+                {
+                  "key": "C",
+                  "text": "contains"
+                },
+                {
+                  "key": "D",
+                  "text": "counterparts"
+                },
+                {
+                  "key": "E",
+                  "text": "defined"
+                },
+                {
+                  "key": "F",
+                  "text": "differ"
+                },
+                {
+                  "key": "G",
+                  "text": "especially"
+                },
+                {
+                  "key": "H",
+                  "text": "extracted"
+                },
+                {
+                  "key": "I",
+                  "text": "implies"
+                },
+                {
+                  "key": "J",
+                  "text": "necessarily"
+                },
+                {
+                  "key": "K",
+                  "text": "particular"
+                },
+                {
+                  "key": "L",
+                  "text": "perceive"
+                },
+                {
+                  "key": "M",
+                  "text": "second"
+                },
+                {
+                  "key": "N",
+                  "text": "sources"
+                },
+                {
+                  "key": "O",
+                  "text": "strange"
+                }
+              ],
+              "answer": "K",
+              "type": "选词填空",
+              "analysis": "【答案】K（官方答案）\n应填 K) particular\n【原文】use chemicals to give a product a __(30)__ smell or taste，人工香精用化学物质赋予产品一种\"特定的\"气味或味道，particular（特定的）正契合\"定制某种风味\"的语境。\nO) strange 感情色彩偏负面，与语境冲突：strange 意为\"奇怪的、古怪的\"，带贬义；本句在客观说明香精\"赋予特定风味\"，并无\"气味古怪\"之意，色彩对不上。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "acknowledge"
+                },
+                {
+                  "key": "B",
+                  "text": "chance"
+                },
+                {
+                  "key": "C",
+                  "text": "contains"
+                },
+                {
+                  "key": "D",
+                  "text": "counterparts"
+                },
+                {
+                  "key": "E",
+                  "text": "defined"
+                },
+                {
+                  "key": "F",
+                  "text": "differ"
+                },
+                {
+                  "key": "G",
+                  "text": "especially"
+                },
+                {
+                  "key": "H",
+                  "text": "extracted"
+                },
+                {
+                  "key": "I",
+                  "text": "implies"
+                },
+                {
+                  "key": "J",
+                  "text": "necessarily"
+                },
+                {
+                  "key": "K",
+                  "text": "particular"
+                },
+                {
+                  "key": "L",
+                  "text": "perceive"
+                },
+                {
+                  "key": "M",
+                  "text": "second"
+                },
+                {
+                  "key": "N",
+                  "text": "sources"
+                },
+                {
+                  "key": "O",
+                  "text": "strange"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) sources\n【原文】Natural flavors come from plant or animal __(31)__, like fruit, vegetable, meat, fish or milk，sources（来源）指天然香精的\"植物或动物来源\"，后面列举的水果、蔬菜、肉、鱼、奶正是这些来源的具体例子。\nNatural flavors come from plant or animal __(31)__, like fruit, vegetable, meat, fish or milk，sources（来源）指天然香精的\"植物或动物来源\"，后面列举的水果、蔬菜、肉、鱼、奶正是这些来源的具体例子。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "acknowledge"
+                },
+                {
+                  "key": "B",
+                  "text": "chance"
+                },
+                {
+                  "key": "C",
+                  "text": "contains"
+                },
+                {
+                  "key": "D",
+                  "text": "counterparts"
+                },
+                {
+                  "key": "E",
+                  "text": "defined"
+                },
+                {
+                  "key": "F",
+                  "text": "differ"
+                },
+                {
+                  "key": "G",
+                  "text": "especially"
+                },
+                {
+                  "key": "H",
+                  "text": "extracted"
+                },
+                {
+                  "key": "I",
+                  "text": "implies"
+                },
+                {
+                  "key": "J",
+                  "text": "necessarily"
+                },
+                {
+                  "key": "K",
+                  "text": "particular"
+                },
+                {
+                  "key": "L",
+                  "text": "perceive"
+                },
+                {
+                  "key": "M",
+                  "text": "second"
+                },
+                {
+                  "key": "N",
+                  "text": "sources"
+                },
+                {
+                  "key": "O",
+                  "text": "strange"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) extracted\n【原文】natural flavors are __(32)__ from plants and animals to create specific flavors for processed foods，be extracted from（从……中被提取）正是天然香精的制取方式，搭配与语义双双吻合。\nnatural flavors are __(32)__ from plants and animals to create specific flavors for processed foods，be extracted from（从……中被提取）正是天然香精的制取方式，搭配与语义双双吻合。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "acknowledge"
+                },
+                {
+                  "key": "B",
+                  "text": "chance"
+                },
+                {
+                  "key": "C",
+                  "text": "contains"
+                },
+                {
+                  "key": "D",
+                  "text": "counterparts"
+                },
+                {
+                  "key": "E",
+                  "text": "defined"
+                },
+                {
+                  "key": "F",
+                  "text": "differ"
+                },
+                {
+                  "key": "G",
+                  "text": "especially"
+                },
+                {
+                  "key": "H",
+                  "text": "extracted"
+                },
+                {
+                  "key": "I",
+                  "text": "implies"
+                },
+                {
+                  "key": "J",
+                  "text": "necessarily"
+                },
+                {
+                  "key": "K",
+                  "text": "particular"
+                },
+                {
+                  "key": "L",
+                  "text": "perceive"
+                },
+                {
+                  "key": "M",
+                  "text": "second"
+                },
+                {
+                  "key": "N",
+                  "text": "sources"
+                },
+                {
+                  "key": "O",
+                  "text": "strange"
+                }
+              ],
+              "answer": "J",
+              "type": "选词填空",
+              "analysis": "【答案】J（官方答案）\n应填 J) necessarily\n【原文】not necessarily = 未必，固定搭配\nG) especially \"尤其\"不与 not 构成此意，逻辑不顺：especially 意为\"尤其、特别\"，does not especially make 读作\"不特别使……\"，既不地道也接不上\"了解成分其实没变容易\"的转折语气。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "acknowledge"
+                },
+                {
+                  "key": "B",
+                  "text": "chance"
+                },
+                {
+                  "key": "C",
+                  "text": "contains"
+                },
+                {
+                  "key": "D",
+                  "text": "counterparts"
+                },
+                {
+                  "key": "E",
+                  "text": "defined"
+                },
+                {
+                  "key": "F",
+                  "text": "differ"
+                },
+                {
+                  "key": "G",
+                  "text": "especially"
+                },
+                {
+                  "key": "H",
+                  "text": "extracted"
+                },
+                {
+                  "key": "I",
+                  "text": "implies"
+                },
+                {
+                  "key": "J",
+                  "text": "necessarily"
+                },
+                {
+                  "key": "K",
+                  "text": "particular"
+                },
+                {
+                  "key": "L",
+                  "text": "perceive"
+                },
+                {
+                  "key": "M",
+                  "text": "second"
+                },
+                {
+                  "key": "N",
+                  "text": "sources"
+                },
+                {
+                  "key": "O",
+                  "text": "strange"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) defined\n【原文】Because the Food and Drug Administration (FDA) has not __(34)__ the term, companies can use it to refer to pretty much anything，正因 FDA 没给\"natural flavors\"这个术语下定义，企业才能随便用——define the term（给术语下定义）逻辑严丝合缝。\nH) extracted \"提取术语\"搭配讲不通：extracted 是\"提取、萃取\"，宾语应是物质（如从植物 extracted 出香精），与 the term（术语）搭配成\"提取术语\"不成立；且 extracted 该留给 3"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "acknowledge"
+                },
+                {
+                  "key": "B",
+                  "text": "chance"
+                },
+                {
+                  "key": "C",
+                  "text": "contains"
+                },
+                {
+                  "key": "D",
+                  "text": "counterparts"
+                },
+                {
+                  "key": "E",
+                  "text": "defined"
+                },
+                {
+                  "key": "F",
+                  "text": "differ"
+                },
+                {
+                  "key": "G",
+                  "text": "especially"
+                },
+                {
+                  "key": "H",
+                  "text": "extracted"
+                },
+                {
+                  "key": "I",
+                  "text": "implies"
+                },
+                {
+                  "key": "J",
+                  "text": "necessarily"
+                },
+                {
+                  "key": "K",
+                  "text": "particular"
+                },
+                {
+                  "key": "L",
+                  "text": "perceive"
+                },
+                {
+                  "key": "M",
+                  "text": "second"
+                },
+                {
+                  "key": "N",
+                  "text": "sources"
+                },
+                {
+                  "key": "O",
+                  "text": "strange"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) contains\n【原文】The FDA doesn't require companies to reveal what additional chemicals a specific item __(35)__，意为\"FDA 不要求企业披露某个产品含有哪些额外化学物\"，contains（含有）正对应\"产品里有什么成分\"，且单三与 a specific item 一致。\n2022年6月英语四级真题第2套 完形填空（选词填空）的词库里有哪 15 个候选词、哪 5 个是干扰词？ 2022年6月英语四级真题第2套 完形填空（选词填空）的词库共 15 个词（A–O）：A) acknowledge（动词，承认，认可）；B) chance（名词/动词，机会）；C) contains（动词，包含，含有（第三人称单数））；D) counterparts（名词，对应物，对等物（复数））；E) defined（动词/形容词，下定义，界定（过去式/过去分词））；F) differ（动词，不同，有差异）；G) especially（副词，尤其，特别）；H) extracted（动词/形容词，提取，萃取（过去分词））；I) implies（动词，暗示，意味着（第三人称单数））；J) necessarily（副词，必然地，必定）；K) particular（形容词/名词，特定的，特别的）；L) perceive（动词，认为，感知，察觉）；M) second（名词/形容词/动词，片刻，一秒）；N) sources（名词/动词，来源，源头（复数））；O) strange（形容词，奇怪的，陌生的）。其中始终未被任何空选用的 5 个干扰词是：A) acknowledge、B) chance、G) especially、I) implies、O) strange。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "During the British winter, the thought of two weeks in a coastal villa(别墅) with soul-stirring views of the sea and a huge pool to enjoy is enough to offset(抵消) the labor until the holidays start. For a growing number of people, however, their yearly break is turning into a nightmare as they find that the property they have paid thousands for does not exist and the website through which they booked it has disappeared."
+            },
+            {
+              "label": "B",
+              "text": "Consumers have been warned to be aware of the potential for deception in this market, which is far from uncommon. In 2017 there were 1,632 cases of reported \"villa fraud(诈骗)\", with victims losing an average of £2,052, according to Action Fraud, the national center for reporting such frauds. \"Millions of pounds are lost each year by defrauded holidaymakers,\" says Sean Tipton of the Association of British Travel Agents (ABTA)."
+            },
+            {
+              "label": "C",
+              "text": "The problem has ballooned in the last 10 years, with frauds becoming more and more sophisticated. The fake websites have authentic-sounding names involving a mix of keywords, typically including the place name, \"summer\", \"villas\" or \"rentals\". Details of legitimate(合法的) villas are often stolen from other sites. \"When the fraudsters first started it was unsophisticated—the websites looked amateur and there wasn't a lot of effort,\" says Tipton. \"Now they are clever. They extensively rip off legitimate websites and use a different website name. They'll have pictures of a sales team and it might be a poor actor in New York that is down as their head of sales.\""
+            },
+            {
+              "label": "D",
+              "text": "Fraudsters target popular seaside destinations for British tourists visiting Spain where prices can soar if demand exceeds supply. Prices are kept within reasonable ranges to avoid arousing suspicion. \"A villa might cost £5,000 elsewhere and they will offer it at say £3,500. But a bit of a giveaway is that the villa will be cheaper than on other websites and there's unlimited availability,\" says Tipton. Fraudsters also invest in pay-per-click advertising to feature at the top of search engines when people type in phrases such as \"Spanish seaside villas\"."
+            },
+            {
+              "label": "E",
+              "text": "With such a degree of professionalism, how can consumers find out if the website they're looking to book with is trustworthy? \"When people book holiday villas they are doing so through rose-colored glasses,\" says Tony Neate, chief executive of Get Safe Online, \"They should be Googling the property, and looking on websites like Google Maps and StreetView to see if it's there. Also, speak to the person you're booking the villa with on a landline phone, as fraudsters tend to only use mobiles.\" He also suggests asking someone not going on the holiday to have a look at the website. \"They might spot problems you don't spot.\" Another potential red flag is being asked to pay by bank transfer. \"The problem is that when the money leaves your account it's in theirs straightaway and it's very hard to track it,\" says Barclays Bank head of digital safety, Jodie Gilbert. \"We generally recommend other forms of payment, like credit card.\""
+            },
+            {
+              "label": "F",
+              "text": "Little seems to be known about these fraudsters, \"There is no way to definitely know who they are,\" says Neate. \"It could be anyone. It could be your next-door neighbor or organized crime in Russia.\" Action Fraud says people should ensure the company renting the villa is a member of a recognized trade body such as ABTA."
+            },
+            {
+              "label": "G",
+              "text": "\"By working with industry partners such as ABTA and Get Safe Online, we are able to issue alerts about the latest threats they should be aware of. If you believe you have fallen victim to fraud or cyber-crime, please report it to Action Fraud,\" it adds. ABTA says it is trying to combat the issue by running public awareness campaigns. \"It's a growing problem and people can't stop fraudsters being dishonest,\" says Tipton. \"They're still going to do it. It's not impossible to stop but as it's internet-based it's harder to pursue.\""
+            },
+            {
+              "label": "H",
+              "text": "Nick Cooper, the founder and co-owner of villa booking company Villa Plus, estimates his company has uncovered more than 200 fake villa websites over the past two years, and doesn't believe enough is being done. \"It is hopeless to report fake villa websites to the internet giants who host them,\" he says. \"I found it impossible to speak to anyone. Also, once one bank account gets reported, they simply use another.\""
+            },
+            {
+              "label": "I",
+              "text": "For now the only way to stop fraudsters appears ultimately to lie in the hands of the consumer. \"When people book their holidays they get so emotionally involved, and when they find that villa at a good price with availability in peak season, they are an easy target,\" says Cooper. \"The public has to learn to be far more aware they are a target for these sort of frauds.\" But it's not just the financial cost. \"A family will turn up at a villa and find out it doesn't exist or the owner doesn't know who you are,\" says Tipton. \"The problem then is you have to find accommodation at short notice. It can be incredibly expensive but it's the emotional cost, too.\""
+            },
+            {
+              "label": "J",
+              "text": "Carla O'Shaughnessy from Sydenham was searching last year for a good deal to book a villa in Majorca for a summer break for the family. \"I was comparing prices online and found one that came in a bit cheaper than others,\" says O'Shaughnessy. She emailed the company via its website, asking how far the villa was from the airport and about local restaurants. \"They came back with believable answers; it was all very friendly and professional,\" she says. Happy with the responses, O'Shaughnessy paid the full amount of £ 3,000 via bank transfer into the travel agent's account and then forgot about it until a month before the booking."
+            },
+            {
+              "label": "K",
+              "text": "\"I tried logging on to the website and couldn't,\" she recalls. \"I Googled the agent's name and there were lots of complaints about him being a fraudster. If only I'd Googled before but I never thought of it.\" Although she found another villa in time for their holiday, she admits she was much more cautious. \"I paid through a secure third-party site and had phone conversations with the agent. But I wasn't able to relax until we turned up and I had the keys.\""
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Fraudsters often steal villa-booking information from authentic holiday websites.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】Details of legitimate(合法的) villas are often stolen from other sites.\nH 谈的是 more than 200 fake villa websites over the past two years 与 once one bank account gets reported, they simply use another，主题是举报无门和换账户，并未涉及 steal villa-booking information from authentic holiday websites 这一动作。"
+            },
+            {
+              "number": 37,
+              "stem": "Fraudsters keep changing their bank accounts to avoid being tracked.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（强锚点）\n【原文】Also, once one bank account gets reported, they simply use another.\nJ 讲的是 paid the full amount of £ 3,000 via bank transfer into the travel agent's account，焦点在受害者的支付动作，并未涉及 keep changing their bank accounts 这种骗子方的循环行为。"
+            },
+            {
+              "number": 38,
+              "stem": "It is suggested that people not going on the holiday might help detect website frauds.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】He also suggests asking someone not going on the holiday to have a look at the website."
+            },
+            {
+              "number": 39,
+              "stem": "More and more British holidaymakers find the seaside villas they booked online actually nonexistent.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】For a growing number of people, however, their yearly break is turning into a nightmare as they find that the property they have paid thousands for does not exist and the website through which they booked it has disappeared.\nI 讲的是 A family will turn up at a villa and find out it doesn't exist or the owner doesn't know who you are，描述的是一种典型遭遇场景，并不是 More and more British holidaymakers find... 那种数量增长的总体性事实陈述。"
+            },
+            {
+              "number": 40,
+              "stem": "By checking an agent's name online before booking a villa, holidaymakers can avoid falling into traps.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】I Googled the agent's name and there were lots of complaints about him being a fraudster. If only I'd Googled before but I never thought of it.\nE 的建议是 They should be Googling the property，对象是 the property（别墅本身），并未明指 checking an agent's name 中的代理人姓名，焦点与陈述句不匹配。"
+            },
+            {
+              "number": 41,
+              "stem": "Fraudsters are difficult to identify, according to an online safety expert.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（强锚点）\n【原文】Little seems to be known about these fraudsters, \"There is no way to definitely know who they are,\" says Neate.\nE 中 Neate 说的是 They should be Googling the property, and looking on websites like Google Maps and StreetView to see if it's there，焦点是具体防骗动作，并未触及 Fraudsters are difficult to identify 这个判断。"
+            },
+            {
+              "number": 42,
+              "stem": "Holidaymakers have been alerted to the frequent occurrence of online villa-booking frauds.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（弱锚点）\n【原文】Consumers have been warned to be aware of the potential for deception in this market, which is far from uncommon.\nG 说 we are able to issue alerts about the latest threats they should be aware of 与 running public awareness campaigns，焦点是机构层面的行动，并未像 Consumers have been warned 那样把'消费者被警告'作为主句陈述出来。"
+            },
+            {
+              "number": 43,
+              "stem": "It is holidaymakers that can protect themselves from falling victim to frauds.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（弱锚点）\n【原文】For now the only way to stop fraudsters appears ultimately to lie in the hands of the consumer.\nE 列举了 They should be Googling the property 等具体动作，是'操作层'的防骗方法，并未做出 It is holidaymakers that... 这种'最终责任归属'的判断。"
+            },
+            {
+              "number": 44,
+              "stem": "Holidaymakers are advised not to make payments by bank transfer.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】Another potential red flag is being asked to pay by bank transfer.\nJ 中 paid the full amount of £ 3,000 via bank transfer 只是描述受害者 Carla 的实际付款行为，并未给出 advised not to 这一警示性建议。"
+            },
+            {
+              "number": 45,
+              "stem": "Fraudsters advertise their villas at reasonable prices so as not to be suspected.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】Prices are kept within reasonable ranges to avoid arousing suspicion.\n2022年6月英语四级真题第2套 长篇阅读（信息匹配） 第 1 篇 39. More and more British holidaymakers find the seaside villas they booked online actually nonexistent. 这句陈述的信息出自第几段？为什么？ 2022年6月英语四级真题第2套 长篇阅读（信息匹配） 第 1 篇 第 39 句的信息出自 A 段（强锚点句）。A 段定位句为「For a growing number of people, however, their yearly break is turning into a nightmare as they find that the property they have paid thousands for does not exist and the website through which they booked it has disappeared.」（然而，对越来越多的人来说，他们一年一度的假期正变成噩梦——他们发现自己花了数千英镑订下的房产根本不存在，而当初订房时用的网站也消失了。）。陈述句是对原文的同义改写（More and more British holidaymakers ↔ For a growing number of people；the seaside villas they booked online actually nonexistent ↔ the property they have paid thousands for does not exist）。与之话题相邻的 I 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Social media can be a powerful communication tool for employees, helping them to collaborate, share ideas and solve problems. Research has shown that 82% of employees think social media can improve work relationships and 60% believe it can support decision-making processes. These beliefs contribute to a majority of workers connecting with colleagues on social media, even during work hours."
+            },
+            {
+              "label": "B",
+              "text": "Employers typically worry that social media is a productivity killer; more than half of U.S. employers reportedly block access to social media at work. In my research with 277 employees of a healthcare organization I found these concerns to be misguided. Social media doesn't reduce productivity nearly as much as it kills employee retention."
+            },
+            {
+              "label": "C",
+              "text": "In the first part of the study I surveyed the employees about why and how they used platforms like Facebook, Twitter, or LinkedIn. Respondents were then asked about their work behaviors, including whether they felt motivated in their jobs and showed initiative at work. I found employees who engage in online social interactions with co-workers through social media blogs tend to be more motivated and come up with innovative ideas. But when employees interact with individuals outside the organization, they are less motivated and show less initiative."
+            },
+            {
+              "label": "D",
+              "text": "In the second part of the study I found 76% of employees using social media for work took an interest in other organizations they found on social media. When I examined how respondents expressed openness to new careers and employers, I found that they engaged in some key activities including researching new organizations and making new work connections."
+            },
+            {
+              "label": "E",
+              "text": "These findings present a dilemma for managers: employees using social media at work are more engaged and more productive, but they are also more likely to leave your company. Managers should implement solutions that neutralize the retention risk caused by social media."
+            },
+            {
+              "label": "F",
+              "text": "They can create social media groups in which employees will be more likely to collaborate and less likely to share withdrawal intentions or discussions about external job opportunities. Managers can also use social media to directly reduce turnover(跳槽) intentions, by recognizing employees' accomplishments and giving visibility to employees' success stories."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does previous research about social media reveal?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Most employees think positively of it."
+                },
+                {
+                  "key": "B",
+                  "text": "It improves employees' work efficiency."
+                },
+                {
+                  "key": "C",
+                  "text": "It enables employees to form connections."
+                },
+                {
+                  "key": "D",
+                  "text": "Employees spend much of their work time on it."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Research has shown that 82% of employees think social media can improve work relationships and 60% believe it can support decision-making processes.\nA) ✓ 正确：82% of employees think social media can improve work relationships and 60% believe it can \nB) 偷换概念：原文只说员工\"认为\"社交媒体能改善关系和决策，是主观看法；It improves employees' work efficiency 把这种看法说成了已被证明的客观事实，且把 w\nC) 以偏概全：It enables employees to form connections 把原文 improve work relationships 改成\"建立联系\"，并把\"员工的看法\"\nD) 无中生有：原文只说员工 connecting with colleagues on social media, even during work hours，并没有给出\"花费大量工作时间在上"
+            },
+            {
+              "number": 47,
+              "stem": "What did the author's own research find about social media?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It influences employees' work negatively."
+                },
+                {
+                  "key": "B",
+                  "text": "It does much harm to employee loyalty."
+                },
+                {
+                  "key": "C",
+                  "text": "It kills employees' motivation for work"
+                },
+                {
+                  "key": "D",
+                  "text": "It affects employers' decision-making."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Social media doesn't reduce productivity nearly as much as it kills employee retention.\nA) 以偏概全：原文 Social media doesn't reduce productivity nearly as much as it kills employee retention \nB) ✓ 正确：Social media doesn't reduce productivity nearly as much as it kills employee retention ↔ I\nC) 张冠李戴：原文第 2 段并未谈及对员工动力（motivation）的杀伤——动力一词出现在第 3 段，且第 3 段中社交媒体反而是\"使员工 more motivated\"。本选项把作者研究的\nD) 答非所问：原文第 1 段提及社交媒体被员工认为 can support decision-making processes，主语是\"员工的决策\"，而非\"雇主的决策\"；本选项把\"对雇主决策的影"
+            },
+            {
+              "number": 48,
+              "stem": "What did the author find in his study about the effect of online social interactions?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It differs from employee to employee."
+                },
+                {
+                  "key": "B",
+                  "text": "It tends to vary with the platform used."
+                },
+                {
+                  "key": "C",
+                  "text": "It has much to do with whom employees interact with."
+                },
+                {
+                  "key": "D",
+                  "text": "It is hard to measure when employees interact with outsiders."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】I found employees who engage in online social interactions with co-workers through social media blogs tend to be more motivated and come up with innovative ideas. But when employees interact with individuals outside the organization, they are less motivated and show less initiative.\nA) 偷换概念：原文并未说\"因人而异\"或\"每个员工不一样\"，而是把员工按互动对象分成两类得出两种结果；It differs from employee to employee 把分类标准偷换成\"员\nB) 无中生有：原文 platforms like Facebook, Twitter, or LinkedIn 仅作为研究背景，没有把不同平台作为造成结果差异的原因；It tends to va\nC) ✓ 正确：employees who engage in online social interactions with co-workers ... tend to be more mot\nD) 与原文相反：原文恰恰已经测量出员工与外部人士互动会导致 less motivated and show less initiative，研究是给出了明确结果的，并不\"难以衡量\"。本选项与原文方"
+            },
+            {
+              "number": 49,
+              "stem": "What problem was found with employees using social media for work?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They seldom expressed their inner thoughts."
+                },
+                {
+                  "key": "B",
+                  "text": "Most of them explored new job opportunities."
+                },
+                {
+                  "key": "C",
+                  "text": "They were reluctant to collaborate with others."
+                },
+                {
+                  "key": "D",
+                  "text": "Many of them ended with lower productivity."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】I found 76% of employees using social media for work took an interest in other organizations they found on social media. When I examined how respondents expressed openness to new careers and employers, I found that they engaged in some key activities including researching new organizations and making new work connections.\nA) 无中生有：原文第 4 段没有提到员工\"是否表达内心想法\"——只说他们关注其他组织、研究新公司、建立新人脉，这些都是外向行为；They seldom expressed their inner\nB) ✓ 正确：76% of employees using social media for work took an interest in other organizations they \nC) 与原文相反：原文第 3 段已说与同事互动会让员工 more motivated and come up with innovative ideas，本身就是合作意愿强；They were re\nD) 与原文相反：原文第 2 段已经否定 Social media doesn't reduce productivity nearly as much as it kills employee r"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author suggest managers do to neutralize the retention risk?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Give promotions to employees for their accomplishments."
+                },
+                {
+                  "key": "B",
+                  "text": "Create opportunities for employees to share success stories."
+                },
+                {
+                  "key": "C",
+                  "text": "Acknowledge employees' achievements through social media."
+                },
+                {
+                  "key": "D",
+                  "text": "Encourage employees to increase their visibility on social media."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Managers can also use social media to directly reduce turnover(跳槽) intentions, by recognizing employees' accomplishments and giving visibility to employees' success stories.\nA) 偷换概念：原文动作是 recognizing employees' accomplishments（公开承认成就），不是\"提拔\"；Give promotions to employees f\nB) 张冠李戴：原文是管理者借社交媒体 giving visibility to employees' success stories——动作发起者是管理者；Create opportunitie\nC) ✓ 正确：Managers can also use social media to directly reduce turnover(跳槽) intentions, by recogniz\nD) 偷换概念：原文是管理者 giving visibility to employees' success stories——是\"让员工的事迹可见\"，主导者是管理者；Encourage empl"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In the coming era of budget cuts to education, distance learning could become the norm."
+            },
+            {
+              "label": "B",
+              "text": "The temptation for those in charge of education budgets to trade teachers for technology could be so strong that they ignore the disadvantages of distance learning. School facilities are expensive to build and maintain, and teachers are expensive to employ. Online classes do not require buildings and each class can host hundreds of people simultaneously, resulting in greater savings, thus increasing the temptation of distance education for those concerned more about budgets than learning. But moving away from a traditional classroom in which a living, breathing human being teaches and interacts with students daily would be a disaster. Physically attending school has hidden benefits: getting up every morning, interacting with peers, and building relationships with teachers are essential skills to cultivate in young people. Moreover, schools should be more than simple institutions of traditional learning. They are now places that provide meals. They are places where students receive counseling and other support."
+            },
+            {
+              "label": "C",
+              "text": "Those policy-makers are often fascinated by the latest technology in education and its potential to \"transform\" education overnight. But online education does not allow a teacher to keep a struggling student after class and offer help. Educational videos may deliver academic content, but they are unable to make eye contact or assess a student's level of engagement. Distance education will never match the personal teaching in a traditional classroom. In their first 18 years of life, American children spend only 9% of their time in school. Yet teachers are expected to prepare them to be responsible citizens, cultivate their social skills, encourage successful time management, and enhance their capacity to flourish in an increasingly harsh labor market. Given these expectations, schools should not become permanently \"remote\"."
+            },
+            {
+              "label": "D",
+              "text": "The power of the classroom is rooted in the humanity of the people gathered in the same place, at the same time. Personal teaching is about teachers showing students a higher path, and about young people going through the process together. Technology, no matter how advanced, should simply be a tool of a good teacher."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What mainly accounts for the possibility that distance learning could become the norm?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Advances in education technology."
+                },
+                {
+                  "key": "B",
+                  "text": "Shrinking financial resources."
+                },
+                {
+                  "key": "C",
+                  "text": "Shortage of school facilities."
+                },
+                {
+                  "key": "D",
+                  "text": "Lack of qualified teachers."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】In the coming era of budget cuts to education, distance learning could become the norm.\nA) 无中生有：原文未提及教育技术本身的进步是导致远程教育常态化的原因；P1只字未提技术进步，只谈预算。\nB) ✓ 正确：budget cuts to education ↔ Shrinking financial resources 预判「教育预算削减」与Shrinking financial re\nC) 偷换概念：Shortage of school facilities是「校舍短缺」，而原文School facilities are expensive to build and maint\nD) 无中生有：原文从未提及「合格教师短缺」是远程教育常态化的原因；teachers are expensive to employ说的是教师「贵」，不是「缺」或「不合格」。"
+            },
+            {
+              "number": 52,
+              "stem": "What does the author say is one possible benefit of students attending school physically?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Developing the habit of getting up early."
+                },
+                {
+                  "key": "B",
+                  "text": "Eating nutritionally well-balanced meals."
+                },
+                {
+                  "key": "C",
+                  "text": "Growing into living and breathing human beings."
+                },
+                {
+                  "key": "D",
+                  "text": "Cultivating relationships with peers and teachers."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Physically attending school has hidden benefits: getting up every morning, interacting with peers, and building relationships with teachers are essential skills to cultivate in young people.\nA) 以偏概全：Developing the habit of getting up early虽然对应原文getting up every morning，但原文这只是三项并列好处之一，且作者强\nB) 张冠李戴：原文末尾They are now places that provide meals提到学校提供餐食，但作者并未说「营养均衡的餐食」是attending school physic\nC) 偷换概念：原文a living, breathing human being teaches and interacts with students中living, breathing是修饰\nD) ✓ 正确：interacting with peers, and building relationships with teachers ↔ Cultivating relationshi"
+            },
+            {
+              "number": 53,
+              "stem": "What does the author think of the latest technology in education?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It may have potential disadvantages."
+                },
+                {
+                  "key": "B",
+                  "text": "It may render many teachers jobless."
+                },
+                {
+                  "key": "C",
+                  "text": "It may add to students' financial burden."
+                },
+                {
+                  "key": "D",
+                  "text": "It may revolutionize classroom teaching"
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（态度题）\n【原文】Those policy-makers are often fascinated by the latest technology in education and its potential to \"transform\" education overnight. But online education does not allow a teacher to keep a struggling student after class and offer help.\nA) ✓ 正确：online education does not allow a teacher to keep a struggling student after class and off\nB) 无中生有：原文未提及新技术会「让教师失业」；作者讨论的是技术替代教师在功能上的局限，不是技术造成教师失业的社会后果。\nC) 张冠李戴：原文谈的是节约预算者的成本动机resulting in greater savings，从未提及学生的财务负担会因此增加；把「学校省钱」误读为「学生多花钱」，方向完全相反。\nD) 与原文相反：It may revolutionize classroom teaching即「可能彻底变革课堂教学」是政策制定者的看法，不是作者的；原文用\"transform\"加引号、用But"
+            },
+            {
+              "number": 54,
+              "stem": "What does the author say teachers are expected to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Enhance students' leadership capacity."
+                },
+                {
+                  "key": "B",
+                  "text": "Elevate students to managerial positions."
+                },
+                {
+                  "key": "C",
+                  "text": "Enable students to adapt to the changes in life."
+                },
+                {
+                  "key": "D",
+                  "text": "Prepare students to be competitive in the future."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Yet teachers are expected to prepare them to be responsible citizens, cultivate their social skills, encourage successful time management, and enhance their capacity to flourish in an increasingly harsh labor market.\nA) 无中生有：原文四项期望中没有提到培养「领导力」（leadership capacity）；社交能力不等于领导力，二者不可等同。\nB) 偷换概念：原文没有任何「把学生提升到管理岗位」的内容；该项利用原文management一词（time management）做望文生义的偷换——time management是「时间管理」，\nC) 无中生有：原文四项期望中没有「让学生适应生活变化」（adapt to the changes in life）这一项；adapt to changes是常见教育鸡汤，但原文未提及。\nD) ✓ 正确：enhance their capacity to flourish in an increasingly harsh labor market ↔ Prepare student"
+            },
+            {
+              "number": 55,
+              "stem": "Why couldn't technology replace a good teacher?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It lacks humanity."
+                },
+                {
+                  "key": "B",
+                  "text": "It is still immature."
+                },
+                {
+                  "key": "C",
+                  "text": "It cannot track students' growth."
+                },
+                {
+                  "key": "D",
+                  "text": "It cannot cater to personal needs."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】The power of the classroom is rooted in the humanity of the people gathered in the same place, at the same time.\nA) ✓ 正确：The power of the classroom is rooted in the humanity of the people gathered in the same pl\nB) 与原文相反：原文未提及技术「尚不成熟」（still immature）；作者用no matter how advanced反而承认了技术可以非常先进，否定的是技术的本质属性（非人性），不是技术\nC) 无中生有：原文没有任何关于「技术无法追踪学生成长」的表述；track students' growth这一说法是作者批评教育技术时未涉及的另一个方向。\nD) 以偏概全：It cannot cater to personal needs即「不能满足个性化需求」听起来很对，且与第三段online education does not allow a "
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n从前有个人养了一群羊。一天早上他准备出去放羊，发现少了一只。他仔细一看，看到羊栏 (sheepfold) 上有个窟窿。显然，夜间有狼钻进羊圈叼走了羊。 邻居劝他修羊栏，可是他不听。 第二天，他发现狼又通过窟窿叼走一只羊。他想起邻居的话，就赶快堵上窟窿,把羊栏补好。此后，他的羊再也没有被狼叼走。 故事告诉我们:出了问题及时补救，可以防止蒙受更大损失。",
+              "analysis": "【参考译文】\nLong long ago, there was a man who raised a flock of sheep. One morning, when he was about to take the sheep out to graze, he found that one of them was missing. On a closer look, he saw that there was a hole in the sheepfold. Obviously, during the night a wolf had got into the sheepfold and carried off a sheep. His neighbour advised him to mend the sheepfold, but he would not listen. The next day, he found that another sheep had been carried off by the wolf through the hole. Remembering what his neighbour had said, he quickly blocked up the hole and mended the sheepfold. From then on, his sheep were never carried off by wolves again. The story tells us that fixing problems in time can prevent us from suffering greater losses."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/",
+    "sharedWith": "cet4-2022-06-s1",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 59
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2022-06-2/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

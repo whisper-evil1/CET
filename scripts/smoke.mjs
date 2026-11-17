@@ -8,8 +8,8 @@
 
 const BASE = process.env.SMOKE_BASE ?? "http://127.0.0.1:3000";
 const PAPER = "paper-cet4-2024-12";
-const Q1 = "paper-cet4-2024-12-q46";
-const Q2 = "paper-cet4-2024-12-q47";
+const Q1 = "paper-cet4-2024-12-p1-q46";
+const Q2 = "paper-cet4-2024-12-p1-q47";
 
 let pass = 0;
 let fail = 0;
@@ -112,9 +112,12 @@ async function main() {
     const question = passage?.questions?.[0];
     check("返回 5 道题", passage?.questions?.length === 5);
     check("题干与选项齐全", Boolean(question?.stem && question?.options?.length === 4));
+    // 防作弊：阅读题首屏不下发 answer，也不下发 analysis 内容。
+    // 注：v2.1 起 writing/translation 会刻意下发 analysis（参考范文首屏展示），
+    // 但这里定位的是 p1 阅读篇，仍应为空。
     check(
-      "payload 里没有 answer / analysis 字段",
-      !("answer" in (question ?? {})) && !("analysis" in (question ?? {})),
+      "阅读题首屏不下发 answer 与 analysis",
+      !("answer" in (question ?? {})) && !String(question?.analysis ?? "").trim(),
     );
     check("段落按 A-E 渲染", passage?.paragraphs?.length === 5);
   }

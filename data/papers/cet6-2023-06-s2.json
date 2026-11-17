@@ -1,0 +1,2598 @@
+{
+  "id": "cet6-2023-06-s2",
+  "level": "CET6",
+  "year": 2023,
+  "month": 6,
+  "setNo": 2,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “When faced with differing opinions, we should try to reach agreement through friendly discussion and reasonable argument.” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words(not including the sentence given).",
+              "analysis": "【参考范文】\nWhen faced with differing opinions, we should try to reach agreement through friendly discussion and reasonable argument. In a world where people come from diverse backgrounds, disagreements are inevitable; yet how we handle them reveals our maturity. Rather than shouting others down or stubbornly clinging to our own views, seeking common ground through calm reasoning is always the wiser choice.\n\nThe reason is simple: friendly discussion invites cooperation, while quarrels only deepen the divide. Take the famous debates in scientific communities. When Darwin proposed his theory of evolution, opponents raised sharp objections, but progress was made not by insults but by patient argument and shared evidence. Similarly, in my own study group, a heated dispute over a project was resolved only after we sat down, listened to one another, and combined our ideas. Mutual respect turned rivals into partners.\n\nIn conclusion, differing opinions need not lead to conflict. If we approach them with an open mind, sound logic, and genuine respect, we can transform disagreement into understanding and reach a consensus that benefits everyone. This is not only a skill but a mark of a civilized society."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "听力为历年真题原文，题目与答案为官方标准答案；在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 3.5,
+              "text": "M: Have you decided what you wish to study?",
+              "zh": "M: 你决定想学什么了吗？"
+            },
+            {
+              "id": 2,
+              "start": 3.9,
+              "end": 6.9,
+              "text": "W: Yes, professor. I wish to study architecture.",
+              "zh": "W: 是的，教授。我想学习建筑学。"
+            },
+            {
+              "id": 3,
+              "start": 7.3,
+              "end": 11.5,
+              "text": "M: Ah, that's a wonderful profession. Why did you choose it?",
+              "zh": "M: 啊，那是一门很棒的职业。你为什么选择它？"
+            },
+            {
+              "id": 4,
+              "start": 11.8,
+              "end": 25.7,
+              "text": "W: I gave a lot of thought to things you said during our last discussion, and I decided architecture made the most sense for me. In particular, I'm attracted to the marriage of design and engineering.",
+              "zh": "W: 我认真思考了您在上次讨论中说的话，最后决定建筑学对我来说最合适。尤其是，我很喜欢设计与工程的结合。"
+            },
+            {
+              "id": 5,
+              "start": 26.1,
+              "end": 36.8,
+              "text": "M: That's great, but I seem to remember you were preoccupied with all the lofty mathematics. You no longer think this aspect will be too hard for you?",
+              "zh": "M: 这很好，不过我记得你之前一直在担心那些高深的数学。你现在不再觉得这方面对你来说太难了吗？"
+            },
+            {
+              "id": 6,
+              "start": 37.1,
+              "end": 54.8,
+              "text": "W: No. I was doing some online research and I think I should be able to manage. Math might be the toughest subject I encounter in the curriculum, but I'll simply put in the work required. I'm certain the fruits of my labor will pay off.",
+              "zh": "W: 不会。我做了一些网上调查，我觉得自己应该能够应付。数学可能是我在课程中遇到的最难的科目，但我会投入所需的努力。我相信我的劳动成果一定会得到回报。"
+            },
+            {
+              "id": 7,
+              "start": 55.1,
+              "end": 71.7,
+              "text": "M: I'm sure that's true. Due to its material nature, architecture is one field where you will be able to clearly witness the contribution you make to a city. And the legacies you build will last much longer than any of us mortals.",
+              "zh": "M: 我相信确实如此。由于建筑具有实体性，在这个领域，你将能够清楚地看到自己为一座城市所作出的贡献。而且你所建造的遗产将比我们这些凡人中的任何一个存在得都久远。"
+            },
+            {
+              "id": 8,
+              "start": 72,
+              "end": 82,
+              "text": "W: Yeah, I guess that's true too. So what subjects do you think I should start brushing up on in preparation? I have the whole summer.",
+              "zh": "W: 嗯，我想这也是真的。那么，为了做准备，您觉得我应该先复习哪些科目？我整个夏天都有时间。"
+            },
+            {
+              "id": 9,
+              "start": 82.3,
+              "end": 103.1,
+              "text": "M: These days, architecture is a very diverse and dynamic degree. Most universities will encourage you to learn different things from fields as wide-ranging as philosophy and economics. Nevertheless, I would suggest you start with computer science because there will be many intricate visuals you will have to produce as part of your projects.",
+              "zh": "M: 如今，建筑学是一门非常多样且充满活力的学位专业。大多数大学都会鼓励你学习来自哲学、经济学等广泛领域的不同知识。不过，我建议你先从计算机科学开始，因为作为项目的一部分，你将需要制作许多复杂的视觉图像。"
+            },
+            {
+              "id": 10,
+              "start": 103.4,
+              "end": 107.7,
+              "text": "W: Any software in particular you think I should start with?",
+              "zh": "W: 您觉得我应该先从哪种软件开始，具体来说？"
+            },
+            {
+              "id": 11,
+              "start": 108,
+              "end": 125,
+              "text": "M: Photoshop is a good place. If you aren't yet, try to become as proficient as you can with it. And another thing that I would recommend you learn as much as you can is fine arts, in particular, the history of Western art.",
+              "zh": "M: Photoshop 是个不错的起点。如果你还不熟悉它，就尽量熟练掌握。另外，我建议你尽可能多学习的一项内容是美术，尤其是西方艺术史。"
+            }
+          ],
+          "audioDuration": 125,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "Why does the woman wish to study architecture?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She is attracted to the beauty of modern buildings."
+                },
+                {
+                  "key": "B",
+                  "text": "She is preoccupied with her dream to be an architect."
+                },
+                {
+                  "key": "C",
+                  "text": "She is influenced by her father who teaches architecture."
+                },
+                {
+                  "key": "D",
+                  "text": "She is drawn to its integration of design and engineering."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：In particular, I'm attracted to the marriage of design and engineering.信号：被问者直接应答动机 。教授先问 Why did you choose it?，她的回答里用 I'm attracted to 直接给出动机，且以 In particular 加重强调——\"问因 + 被问者亲口应答 +…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确有 I'm attracted to，A 项 She is attracted to the beauty of modern buildings. 借用了 attracted 这个原词，但她被吸引的是\"设计与工程的结合\"，不是\"现代建筑的美\"——美这一点录音从未说，属听到 attracted 就想选的陷阱。 借用原文：you were preoccupied with all the lofty mathematics",
+                "B": "原词陷阱：preoccupied 一词录音里出现在教授口中 you were preoccupied with all the lofty mathematics，指她曾为数学发愁，根本不是\"痴迷当建筑师的梦想\"。B 项 She is preoccupied with her dream to be an architect. 盗了 preoccupied 又改了对象，与问\"动机\"无关。",
+                "C": "未提及：C 项 She is influenced by her father who teaches architecture. 牵出一个\"教建筑的父亲\"，但整段录音从未提到她父亲，更没说受其影响——是预读时就警惕的\"凭空多出一个人物\"的诱选。",
+                "D": "正确项：与答案句同义替换（the marriage of design and engineering ↔ its integration of design and engineering marriage=integration同义改写）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "In particular, I'm attracted to the marriage of design and engineering.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "How does the woman say she will overcome the difficulty in learning mathematics?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Through hard work."
+                },
+                {
+                  "key": "B",
+                  "text": "With the professor's help."
+                },
+                {
+                  "key": "C",
+                  "text": "By studying the subject online."
+                },
+                {
+                  "key": "D",
+                  "text": "By taking prerequisite courses."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P6）：Math might be the toughest subject I encounter in the curriculum, but I'll simply put in the work required.信号：转折 but 后才是真应对 。她先承认 Math might be the toughest subject，紧接 but I'll simply put in the work required——转折词 but …",
+              "optionAnalysis": {
+                "B": "未提及：对话里确有 professor 这个人，B 项 With the professor's help. 借\"现场有教授\"诱你选，但她讲克服数学的办法时只字未提靠教授，靠的是自己出力——属\"同场有这人就误以为靠他\"的陷阱。",
+                "C": "原词陷阱：录音里 I was doing some online research 确实出现 online，C 项 By studying the subject online. 盗了 online。但她上网只是\"做了点调研\"判断自己应付得来，并非\"靠网上学数学\"来克服难点——原词在、用途被偷换。",
+                "D": "未提及：D 项 By taking prerequisite courses. 说靠\"修先修课\"克服，但录音从未提到 prerequisite 或先修课程这回事——是凭空安上的办法。",
+                "A": "正确项：与答案句同义替换（put in the work required ↔ Through hard work put in work=hard work同义概括）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "Math might be the toughest subject I encounter in the curriculum, but I'll simply put in the work required.",
+              "type": "细节题"
+            },
+            {
+              "number": 3,
+              "stem": "What does the man say about architects' contribution to a city?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is groundbreaking."
+                },
+                {
+                  "key": "B",
+                  "text": "It is long-lasting."
+                },
+                {
+                  "key": "C",
+                  "text": "It is immaterial."
+                },
+                {
+                  "key": "D",
+                  "text": "It is immortal."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P7）：And the legacies you build will last much longer than any of us mortals.信号：男士对城市贡献的直接断言 。男士谈到 the contribution you make to a city 后，紧接断言 the legacies you build will last much longer——…",
+              "optionAnalysis": {
+                "A": "未提及：A 项 It is groundbreaking.\"具开创性\"在录音里毫无对应——男士谈的是贡献能\"长久存续\"，不是\"开天辟地\"，属凭空贴标签。",
+                "C": "与原文相反：录音里 Due to its material nature 出现 material（实体的），C 项 It is immaterial. 恰好取了它的反义 immaterial（非物质/无关紧要）。建筑明明是\"实体\"，选项却说\"无形\"，是\"盗原词又反极性\"的诱选。 借用原文：will last much longer than any of us mortals",
+                "D": "原词陷阱：录音 longer than any of us mortals 用 mortals（凡人）作对比，D 项 It is immortal. 盗这个词根改成 immortal（不朽）。原文只说贡献\"比凡人活得久\"，是相对的\"更久\"，并非\"永不灭\"——把相对的久夸成绝对不朽，程度过头。",
+                "B": "正确项：与答案句同义替换（will last much longer than any of us mortals ↔ It is long-lasting last much longer=long-lasting同义）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "And the legacies you build will last much longer than any of us mortals.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What subject does the man suggest the woman start with?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Economics."
+                },
+                {
+                  "key": "B",
+                  "text": "Philosophy."
+                },
+                {
+                  "key": "C",
+                  "text": "Computer science."
+                },
+                {
+                  "key": "D",
+                  "text": "Western art."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P9）：Nevertheless, I would suggest you start with computer science because there will be many intricate visuals you will have to produce as part of your projects.信号：Nevertheless 转折 + suggest start with 。前句先泛举 philosophy and economics 等领域，再用 Nevertheless 一转，紧跟 I would sugge…",
+              "optionAnalysis": {
+                "A": "原词陷阱：philosophy and economics 里 economics 被念到，但那是男士泛举\"大学会鼓励你学的各类领域\"，A 项 Economics. 盗这个原词冒充答案；题问的是 start with（先学），经济学并非他建议起步的那门。 借用原文：fields as wide-ranging as philosophy and economics",
+                "B": "原词陷阱：B 项 Philosophy. 同样来自 philosophy and economics 的泛举，philosophy 被念到却不是\"建议先学\"的那门——与 A 一样是\"听到学科名就想划\"的原词诱选。 借用原文：another thing that I would recommend you learn as much as you can is fine arts, in particular, the history of Western art",
+                "D": "答非所问：录音末尾 the history of Western art 确出现\"西方艺术\"，D 项 Western art. 盗了它。但那是男士另起一句\"还建议你尽量多学美术\"，与本题问的 start with（最先入手）不是同一件事——位置和性质都对不上。",
+                "C": "正确项：与答案句同义替换（I would suggest you start with computer science ↔ Computer science 原句点名即选项学科）"
+              },
+              "evidencePara": "P9",
+              "evidenceText": "Nevertheless, I would suggest you start with computer science because there will be many intricate visuals you will have to produce as part of your projects.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 8.5,
+              "text": "W: So as I mentioned over the phone, we are looking for someone who is very discreet, I can't stress this enough.",
+              "zh": "W: 正如我在电话里提到的，我们正在寻找一个非常谨慎低调的人，这一点再怎么强调都不为过。"
+            },
+            {
+              "id": 2,
+              "start": 8.8,
+              "end": 10.4,
+              "text": "M: I fully understand.",
+              "zh": "M: 我完全明白。"
+            },
+            {
+              "id": 3,
+              "start": 10.8,
+              "end": 23.8,
+              "text": "W: As we all know, being such a famous football player at Real Madrid, Mr. Sanchez has a very high public profile. This means he cannot leave the house without being recognized and harassed.",
+              "zh": "W: 众所周知，桑切斯先生是皇家马德里非常著名的足球运动员，公众关注度很高。这意味着他出门时不可能不被认出来，也不可能不受到骚扰。"
+            },
+            {
+              "id": 4,
+              "start": 24.2,
+              "end": 30.3,
+              "text": "M: Yes, I completely understand how imperative it would be to respect Mr. Sanchez's private life.",
+              "zh": "M: 是的，我完全明白尊重桑切斯先生的私人生活有多么重要。"
+            },
+            {
+              "id": 5,
+              "start": 30.7,
+              "end": 60.7,
+              "text": "W: Good. As his personal assistant, you would be required to run common everyday chores for Mr. Sanchez, things he cannot do himself due to his fame, like going to the supermarket or post office. So, well, at first sight it may appear that working for a celebrity is very glamorous. Nothing could be further from the truth. I'm telling you this so that you don't get any false expectations of what the job has to offer you.",
+              "zh": "W: 很好。作为他的私人助理，你需要替桑切斯先生处理日常琐事，也就是那些由于他的名气而无法亲自去做的事情，比如去超市或邮局。所以，乍一看，为名人工作似乎很光鲜。但事实远非如此。我告诉你这些，是为了让你不要对这份工作能给你带来什么抱有不切实际的期待。"
+            },
+            {
+              "id": 6,
+              "start": 61.1,
+              "end": 81.1,
+              "text": "M: Thanks. I understand this too. This is my first job after graduating from university. So frankly, I don't have much prior working experience. I am, however, very excited about the prospect of joining this company and very keen to start from the bottom in whatever capacity I may be of use.",
+              "zh": "M: 谢谢。我对此也很清楚。这是我大学毕业后的第一份工作。所以坦白说，我之前没有多少工作经验。不过，我非常期待有机会加入这家公司，也很愿意从基层做起，无论在哪个岗位上，只要我能发挥作用就行。"
+            },
+            {
+              "id": 7,
+              "start": 81.4,
+              "end": 89.5,
+              "text": "W: That's good to hear. You sound very energetic. Tell me why you think you are well suited for this job?",
+              "zh": "W: 听你这么说很好。你听起来精力很充沛。告诉我，你为什么认为自己适合这份工作？"
+            },
+            {
+              "id": 8,
+              "start": 89.8,
+              "end": 117.2,
+              "text": "M: Well, firstly, I love football. I'm a lifelong Real Madrid supporter and go to their games every weekend I can. I would simply love to have a job where I'm involved in some capacity with Real Madrid, regardless of the position and salary. And secondly, I think what this company does in sports consultancy is very cool. And I think my language skills could prove very useful down the road.",
+              "zh": "M: 首先，我热爱足球。我是皇家马德里的终身支持者，只要有可能，我每个周末都会去看他们的比赛。我非常希望能找一份以某种方式参与皇家马德里事务的工作，不管职位和薪水如何。其次，我觉得这家公司在体育咨询方面所做的事情非常酷。我还认为，我的语言能力将来可能会派上很大用场。"
+            },
+            {
+              "id": 9,
+              "start": 117.5,
+              "end": 121,
+              "text": "W: Please tell me more about your language skills.",
+              "zh": "W: 请详细说说你的语言能力。"
+            },
+            {
+              "id": 10,
+              "start": 121.3,
+              "end": 127.5,
+              "text": "M: I am fully fluent in English and Spanish and have a working proficiency in French.",
+              "zh": "M: 我的英语和西班牙语都非常流利，法语也达到了工作交流水平。"
+            }
+          ],
+          "audioDuration": 127.5,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What do we learn from the conversation about Mr. Sanchez?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He has occasionally been harassed by his fans."
+                },
+                {
+                  "key": "B",
+                  "text": "He has been guarded by a discreet assistant."
+                },
+                {
+                  "key": "C",
+                  "text": "He is well known to the public."
+                },
+                {
+                  "key": "D",
+                  "text": "He is a famous football coach."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：As we all know, being such a famous football player at Real Madrid, Mr. Sanchez has a very high public profile. This means he cannot leave the house without being recognized and harassed.信号：直接的身份介绍句 。女士用 being such a famous football player at Real Madrid 一句话给桑切斯定了身份，再用 has a very high public profi…",
+              "optionAnalysis": {
+                "A": "原词陷阱：He has occasionally been harassed by his fans. 借了录音 recognized and harassed 里的 harassed 一词，但录音说的是\"一出门就\"被骚扰、且并未限定\"被粉丝\"，更没说\"偶尔\"。题问的是\"我们了解到什么\"，最核心是他名气大，A把附带后果当主答案、还加了 occasionally, fans 这些原文没有的限定。 借用原文：someone who is very discreet",
+                "B": "张冠李戴：He has been guarded by a discreet assistant. 把开头 we are looking for someone who is very discreet 里的 discreet 拿来，安成\"他被一位谨慎的助理护卫\"。但 discreet 是对应聘者（男方）的要求，不是说桑切斯有这样一个助理——人物对应被搬错，且题问的是桑切斯本人，不是他的助理。 借用原文：famous football player",
+                "D": "偷换概念：He is a famous football coach. 借用了录音 famous football player 里的 famous football，却把 player（球员）偷换成 coach（教练）。一字之差、身份全错，这正是预读时圈出\"coach 是差异点\"要防的偷换。",
+                "C": "正确项：与答案句同义替换（has a very high public profile ↔ well known to the public 「高公众知名度」=「被公众熟知」）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "As we all know, being such a famous football player at Real Madrid, Mr. Sanchez has a very high public profile. This means he cannot leave the house without being recognized and harassed.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What will the man do if he gets the job?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Serve as a personal assistant."
+                },
+                {
+                  "key": "B",
+                  "text": "Play a key role in Real Madrid."
+                },
+                {
+                  "key": "C",
+                  "text": "Run common daily chores for the woman."
+                },
+                {
+                  "key": "D",
+                  "text": "Help promote Mr. Sanchez's public profile."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P5）：As his personal assistant, you would be required to run common everyday chores for Mr. Sanchez, things he cannot do himself due to his fame, like going to the supermarket or post office.信号：招聘者直接交代岗位 。女方用 As his personal assistant 一句明确点出岗位名，这种由招聘方直接交代\"你将担任什么\"的句子，就是\"他将做什么\"的答案句。",
+              "optionAnalysis": {
+                "B": "过度推断：Play a key role in Real Madrid. 借了第7、8段反复出现的 Real Madrid，把\"跑腿助理\"夸成\"在皇马担任关键角色\"。录音清楚说他要做的是 run common everyday chores（跑日常琐事），与\"key role\"完全相反，是过度拔高。 借用原文：run common everyday chores for Mr. Sanchez",
+                "C": "张冠李戴：Run common daily chores for the woman. 几乎照搬录音 run common everyday chores，只把\"for Mr. Sanchez\"换成\"for the woman\"。跑腿是为桑切斯、不是为这位招聘的女士，服务对象被掉包——正是预读时圈 for the woman 要防的张冠李戴。 借用原文：has a very high public profile",
+                "D": "与原文相反：Help promote Mr. Sanchez's public profile. 拿了 high public profile 里的 public profile，编成\"帮桑切斯提升公众形象\"。但录音说的是因他名气太大、助理替他做他没法做的事（things he cannot do himself due to his fame），是\"避开曝光\"，绝非\"提升曝光\"，方向相反。",
+                "A": "正确项：与答案句同义替换（As his personal assistant ↔ Serve as a personal assistant. 「作为私人助理」=「担任私人助理」）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "As his personal assistant, you would be required to run common everyday chores for Mr. Sanchez, things he cannot do himself due to his fame, like going to the supermarket or post office.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What does the man say about himself?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He is honest and always tells the truth."
+                },
+                {
+                  "key": "B",
+                  "text": "He once worked part-time in university."
+                },
+                {
+                  "key": "C",
+                  "text": "He cares little about his working hours."
+                },
+                {
+                  "key": "D",
+                  "text": "He has little previous work experience."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P6）：This is my first job after graduating from university. So frankly, I don't have much prior working experience.信号：第一人称的自我坦白 。男方用 This is my first job after graduating from university 加 I don't have much prior working exper…",
+              "optionAnalysis": {
+                "A": "过度推断：He is honest and always tells the truth. 大概由录音里 frankly（坦白说）联想而来，但 frankly 只是说话的语气词，男方并未谈自己\"诚实、总说真话\"。把一个口头副词夸成性格优点，属无中生有的推断。 借用原文：after graduating from university",
+                "B": "未提及：He once worked part-time in university. 用了 university 这个录音确实出现的词（after graduating from university），但男方只说\"大学毕业\"，从未提\"在校期间打过工\"。借眼熟的 university 编出一段没说过的经历，属未提及。",
+                "C": "未提及：He cares little about his working hours. 听起来像呼应他\"愿从底层做起\"（keen to start from the bottom）的谦逊，但他谈的是不计职位与薪水，从没说\"不在乎工作时长（working hours）\"。working hours 是录音里完全没出现的话题。",
+                "D": "正确项：与答案句同义替换（I don't have much prior working experience ↔ He has little previous work experience. 「没多少经验」=「几乎没经验」）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "This is my first job after graduating from university. So frankly, I don't have much prior working experience.",
+              "type": "细节题"
+            },
+            {
+              "number": 8,
+              "stem": "Why does the man think he is a very competitive candidate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He has a strong ability to connect with people."
+                },
+                {
+                  "key": "B",
+                  "text": "He has a high proficiency in several languages."
+                },
+                {
+                  "key": "C",
+                  "text": "He has a sound knowledge of sports consultancy."
+                },
+                {
+                  "key": "D",
+                  "text": "He has a natural capacity to cooperate with others."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P8）：And I think my language skills could prove very useful down the road.信号：他自陈的优势落点 。在列举理由的段落里，男方以 I think my language skills could prove very useful 把\"语言能力\"点为自己的可用之长——这种\"I think my ……",
+              "optionAnalysis": {
+                "A": "未提及：He has a strong ability to connect with people. 描述的人际沟通能力，录音通篇没有提及。他列的是爱足球、觉得公司酷、语言能力，没有任何一句谈\"与人连接\"，属凭\"助理该会沟通\"的常识脑补。",
+                "C": "张冠李戴：He has a sound knowledge of sports consultancy. 盗用了录音 what this company does in sports consultancy 里的 sports consultancy。但这是他在夸\"公司做的体育咨询很酷\"，说的是公司的业务，不是他本人懂体育咨询——把公司的事安成了他的能力。",
+                "D": "未提及：He has a natural capacity to cooperate with others. 和A一样属人际类能力，与他亲口列的\"语言能力\"无关，录音没说他\"善于与人协作\"。它和A刻意做得相像（connect with people/cooperate with others），用来分散对正确项B的注意。",
+                "B": "正确项：与答案句同义替换（my language skills could prove very useful ↔ He has a high proficiency in several languages. 「语言能力有用」=「精通几门语言」）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "And I think my language skills could prove very useful down the road.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 18.8,
+              "text": "Adventure sports are undeniably attractive to many energetic and thrill-seeking kids. Sports like rock climbing, surfing, skiing, and mountain biking, thus have lots of appeal. They don't have many of the rules and pressures of traditional team sports, but they still have all the benefits of outdoor physical activity.",
+              "zh": "冒险运动对许多精力充沛、寻求刺激的孩子来说无疑很有吸引力。因此，攀岩、冲浪、滑雪和山地自行车等运动颇受欢迎。它们没有传统团队运动中那么多的规则和压力，但仍具备户外体育活动的全部益处。"
+            },
+            {
+              "id": 2,
+              "start": 19.2,
+              "end": 54.9,
+              "text": "When properly supervised, extreme sports can be a part of a healthy, balanced life. Some adventure sports may be associated with high risks of injury, so it's important for kids to figure out when to take risks, and when not to. Risk-free activities deprive kids of the opportunity to test themselves and overcome their fears. But to some, these very risks are what makes these sports a bad choice. They say that extreme sports can often lead to devastating injuries, especially as young thrill-seekers may attempt feats that are too advanced for them.",
+              "zh": "在得到适当监管的情况下，极限运动可以成为健康、均衡生活的一部分。有些冒险运动可能伴随着较高的受伤风险，因此，孩子们必须弄清楚什么时候应该冒险，什么时候不应该冒险。没有任何风险的活动会剥夺孩子们挑战自我、克服恐惧的机会。但在一些人看来，正是这些风险使这类运动成为糟糕的选择。他们认为，极限运动往往会导致严重的伤害，尤其是年轻的冒险者可能会尝试对他们来说难度过高的动作。"
+            },
+            {
+              "id": 3,
+              "start": 55.3,
+              "end": 99.9,
+              "text": "But let's be real. Most kids do all kinds of dangerous stuff whether you want them to or not. Adventure sports have many of the same risks and dangers, but they have an additional sense of adventure, courage and autonomy that is important to foster in young children. As always, it's up to parents to decide what's best for their kids. But if you do decide that adventure sports are a bit too much, do try to introduce other forms of outdoor adventures into their lives. Camping under the stars, fishing, stargazing or even just playing in the woods can help a lot in building the same sense of self-confidence and risk-taking as in adventure sports.",
+              "zh": "但我们还是面对现实吧。不管你愿不愿意，大多数孩子都会做各种各样的危险事情。冒险运动也有许多相同的风险和危险，但它们还具有一种额外的冒险精神、勇气和自主意识，而这些品质对年幼的孩子来说很重要，需要加以培养。一如既往，父母应当决定什么对自己的孩子最好。但如果你确实认为冒险运动有些过于激烈，那就应该努力将其他形式的户外探险引入孩子的生活。在星空下露营、钓鱼、观星，甚至只是在树林里玩耍，都能大大帮助孩子培养与冒险运动相同的自信心和冒险精神。"
+            }
+          ],
+          "audioDuration": 99.9,
+          "questions": [
+            {
+              "number": 9,
+              "stem": "Why do extreme sports appeal to many kids?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They bring more benefits to young people."
+                },
+                {
+                  "key": "B",
+                  "text": "They require less supervision and training."
+                },
+                {
+                  "key": "C",
+                  "text": "They are more suitable to young people."
+                },
+                {
+                  "key": "D",
+                  "text": "They have fewer rules and pressures."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：They don't have many of the rules and pressures of traditional team sports, but they still have all the benefits of outdoor physical activity.信号：对照句\"没有……但仍有……\" 。这句用 They don't have many of the rules and pressures of traditional team sports 与后面 but they …",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 用了录音同句里的原词 benefits，但录音说的是\"仍具备户外活动的全部益处\"，并非\"带来更多益处\"；more 是选项硬加的，题目问的是\"吸引力来自哪\"，benefits 只是顺带提及，不是吸引点。 借用原文：When properly supervised, extreme sports can be a part of a healthy, balanced life.",
+                "B": "原词陷阱：B 的 less supervision and training 借用了第二段的 When properly supervised 制造熟耳感，但录音从没说这类运动\"需要的监管和训练更少\"；相反第二段强调\"需要妥善监管\"，与 B 相反。",
+                "C": "未提及：C 说这类运动\"更适合\"年轻人，录音只说它们对孩子\"有吸引力（attractive/appeal）\"，从未做\"更适合/更不适合\"的比较判断，属于原文未提及的拔高。",
+                "D": "正确项：与答案句同义替换（don't have many of the rules and pressures ↔ have fewer rules and pressures don't have many = fewer）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "They don't have many of the rules and pressures of traditional team sports, but they still have all the benefits of outdoor physical activity.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "What does the speaker say about risk-free activities?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They prevent kids from enjoying adventure sports."
+                },
+                {
+                  "key": "B",
+                  "text": "They help kids guard against any possible injuries."
+                },
+                {
+                  "key": "C",
+                  "text": "They rob kids of the chance to cultivate their courage."
+                },
+                {
+                  "key": "D",
+                  "text": "They deprive kids of the opportunity to develop team spirit."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：Risk-free activities deprive kids of the opportunity to test themselves and overcome their fears.信号：对象词 risk-free 直接现身 。录音里 Risk-free activities deprive kids of the opportunity to test themselves and overcome…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 的 prevent kids from enjoying adventure sports 借了录音常出现的 adventure sports，但录音说\"剥夺机会\"的是 risk-free activities 对\"自我考验\"，并非\"阻止孩子享受冒险运动\"，把对象和内容都换了。 借用原文：extreme sports can often lead to devastating injuries",
+                "B": "与原文相反：B 说无风险活动\"帮孩子防受伤\"，听上去像好事，但录音对 risk-free activities 的态度是负面的（deprive 剥夺机会），B 把贬义说成了褒义，方向相反；injuries 一词来自录音第二段对 devastating injuries 的描述。 借用原文：traditional team sports",
+                "D": "偷换概念：D 把录音\"克服恐惧\"偷换成 develop team spirit（团队精神）。录音里\"团队\"概念只与 traditional team sports 沾边，从没说无风险活动剥夺了\"团队精神\"，是把尾词悄悄换掉。",
+                "C": "正确项：与答案句同义替换（deprive kids of the opportunity to test themselves and overcome their fears ↔ rob kids of the chance to cultivate their courage deprive=rob、克服恐惧=培养勇气）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Risk-free activities deprive kids of the opportunity to test themselves and overcome their fears.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What should parents do if they decide adventure sports are a bit too much for their kids?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Help them take up these sports when they are more mature."
+                },
+                {
+                  "key": "B",
+                  "text": "Let them participate in some less risky outdoor activities."
+                },
+                {
+                  "key": "C",
+                  "text": "Ask them to try some forms of indoor sports."
+                },
+                {
+                  "key": "D",
+                  "text": "Introduce them to these sports step by step."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：But if you do decide that adventure sports are a bit too much, do try to introduce other forms of outdoor adventures into their lives.信号：建议句\"do try to…\"加重语气 。这句用 do try to introduce other forms of outdoor adventures，do 加在动词前是强调语气的建议，且与题干条件 adven…",
+              "optionAnalysis": {
+                "A": "未提及：A 说\"等孩子更成熟再让他们玩这些运动\"，录音从没建议\"等长大再玩\"，only 提到引入别的户外活动；mature 一词录音也未出现，属凭空添加的方案。",
+                "C": "与原文相反：C 让孩子\"试室内运动\"，但录音建议的是 outdoor adventures（户外探险），并举露营、观星等户外例子，方向与\"室内\"相反。 借用原文：do try to introduce other forms of outdoor adventures into their lives",
+                "D": "原词陷阱：D 的\"step by step / 循序渐进地把这些运动介绍给孩子\"盗用了录音原词 introduce，但录音的 introduce 接的是 other forms of outdoor adventures（别的户外活动），不是\"循序渐进地引入冒险运动本身\"；step by step 是选项硬加，且与\"觉得太过头就别玩\"的前提矛盾。",
+                "B": "正确项：与答案句同义替换（introduce other forms of outdoor adventures ↔ participate in some less risky outdoor activities 其他户外探险 = 风险更低的户外活动）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "But if you do decide that adventure sports are a bit too much, do try to introduce other forms of outdoor adventures into their lives.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 23.8,
+              "text": "The shiny gadgets of today will be waste tomorrow. Manufacturers don't talk much about this when they announce the big new thing that will replace your mostly just as good old thing. In fact, technology firms often purposely design devices that will not last long and cannot be repaired so that consumers will have to spend their money on a new one.",
+              "zh": "今天光鲜亮丽的电子产品明天就会成为废品。当制造商宣布要推出替代你那几乎同样好用的旧产品的新款重磅产品时，他们很少提及这一点。事实上，科技公司往往故意设计使用寿命不长且无法维修的设备，以便消费者不得不花钱购买新设备。"
+            },
+            {
+              "id": 2,
+              "start": 24.2,
+              "end": 44.5,
+              "text": "This year, the French government began requiring tech manufacturers to list a repairability score. If a device can be repaired, then its life can be extended, saving consumers money and the planet the burden of so many trashed gadgets. Equipped with this knowledge, consumers can make better choices about which products to buy.",
+              "zh": "今年，法国政府开始要求科技制造商标注可维修性评分。如果一台设备可以维修，其使用寿命就能延长，从而为消费者节省资金，并减轻大量报废电子设备给地球带来的负担。掌握了这一信息，消费者在决定购买哪些产品时就能做出更好的选择。"
+            },
+            {
+              "id": 3,
+              "start": 44.9,
+              "end": 72.2,
+              "text": "Some 59 million tons of old TVs, computers, screens, smartphones, washers and other electronics are discarded every year. This waste is dangerous. Batteries explode in recycling facilities. Toxic substances like mercury leak into soil and groundwater and disperse in the air. Manufacturing flat screens adds greenhouse gases to the atmosphere. We need tech companies to take the lead to solve this problem. If they won't, governments must make them do so.",
+              "zh": "每年约有5900万吨旧电视、电脑、显示屏、智能手机、洗衣机和其他电子产品被废弃。这种废弃物是危险的。电池会在回收设施中发生爆炸。汞等有毒物质会渗入土壤和地下水，并散播到空气中。制造平板显示屏会向大气中排放额外的温室气体。我们需要科技公司带头解决这个问题。如果他们不愿意，政府就必须强制他们这样做。"
+            },
+            {
+              "id": 4,
+              "start": 72.5,
+              "end": 96.8,
+              "text": "Although tech companies will often speak of environmental sustainability, many lobby against repair legislation, fearful it will eat into their profits. Sustainability matters, but marketable design appears to matter more to these companies. Consumers should support right-to-repair legislation. In this world, damage is a certainty. But we cannot leave things broken: A problem of our creation is a problem that can be fixed.",
+              "zh": "尽管科技公司经常谈论环境可持续性，但许多公司却游说反对维修立法，担心这会侵蚀它们的利润。可持续性固然重要，但对这些公司而言，具有市场吸引力的设计似乎更为重要。消费者应当支持“维修权”立法。在这个世界上，损坏是必然会发生的。但我们不能任由东西坏着不管：我们制造出的问题是一个可以被解决的问题。"
+            }
+          ],
+          "audioDuration": 96.8,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "Why do new tech products soon become waste?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Consumers often have a craving for the latest model."
+                },
+                {
+                  "key": "B",
+                  "text": "Such products tend to comprise parts that are irreplaceable."
+                },
+                {
+                  "key": "C",
+                  "text": "Tech firms intentionally design products to have short lifespans."
+                },
+                {
+                  "key": "D",
+                  "text": "Manufacturers use effective strategies to promote fancier products."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：In fact, technology firms often purposely design devices that will not last long and cannot be repaired so that consumers will have to spend their money on a new one.信号：强调词 In fact + 因果连词 so that 。In fact 把语气加重、引出真意，紧接的 so that consumers will have to spend their money on a new…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确实提到 spend their money on a new one 里有 \"买新\" 的影子，但那是厂商设计造成的结果，不是说消费者主动 \"渴望新款\"；A 盗用 \"new\" 的语感把原因偷换到消费者欲望上。 借用原文：cannot be repaired",
+                "B": "答非所问：录音说 cannot be repaired，B 据此说零件 irreplaceable，但题问的是 \"为何变废\" 的根因——厂商故意，而非单纯零件不可换；B 抓了枝节当主因。 借用原文：purposely design devices that will not last long and cannot be repaired",
+                "D": "偷换概念：录音批评厂商 purposely design devices that will not last long，D 却说厂商用有效策略推广更高端产品，语气由贬转中、且 \"fancier products\" 录音根本没说，是改了立场的无中生有。",
+                "C": "正确项：与答案句同义替换（purposely design devices that will not last long ↔ intentionally design products to have short lifespans purposely=intentionally，短命换说法）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "In fact, technology firms often purposely design devices that will not last long and cannot be repaired so that consumers will have to spend their money on a new one.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What did the French government require tech companies to do to help consumers make better choices?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Indicate the competitiveness of their products."
+                },
+                {
+                  "key": "B",
+                  "text": "List a repairability score of their products."
+                },
+                {
+                  "key": "C",
+                  "text": "Specify the major parts of their products."
+                },
+                {
+                  "key": "D",
+                  "text": "Detail the lifecycle of their products."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：This year, the French government began requiring tech manufacturers to list a repairability score.信号：题干主体 French government 在原文复现，紧跟其后动作即答案 。录音 the French government began requiring tech manufacturers to list …",
+              "optionAnalysis": {
+                "A": "未提及：录音通篇没说要标 \"竞争力\"，A 的 competitiveness of their products 是凭 \"产品\" 话题臆造出的方向，与政府要求无关。",
+                "C": "张冠李戴：录音第一段说设备 cannot be repaired 时隐含零件问题，C 借 major parts 之名说政府要求 \"列出主要零件\"，但政府要求的是评分不是列零件，把别处的词安到这道题上。 借用原文：its life can be extended",
+                "D": "原词陷阱：录音后句提到 its life can be extended，D 的 lifecycle of their products 借这点说要求 \"详述生命周期\"，但那是评分带来的好处，不是政府要求标注的内容，方向被带偏。",
+                "B": "正确项：与答案句同义替换（list a repairability score ↔ List a repairability score of their products 近乎原句对应，list 与评分逐词吻合）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "This year, the French government began requiring tech manufacturers to list a repairability score.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What should tech companies do to help ensure environmental sustainability?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Take the initiative to reduce electronic waste."
+                },
+                {
+                  "key": "B",
+                  "text": "Take due caution in upgrading their products."
+                },
+                {
+                  "key": "C",
+                  "text": "Invest in constructing more recycling facilities."
+                },
+                {
+                  "key": "D",
+                  "text": "Substitute all toxic substances with non-toxic ones."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：We need tech companies to take the lead to solve this problem.信号：主张句信号 We need…to take the lead 。We need tech companies to take the lead to solve this problem 用 We need…to 直…",
+              "optionAnalysis": {
+                "B": "未提及：Take due caution in upgrading their products 谈升级要谨慎，录音只在第一段批评厂商频出新品，从未要求厂商 \"升级时谨慎\"，是顺着话题臆造的对策。",
+                "C": "原词陷阱：录音 Batteries explode in recycling facilities 是在讲危害，C 借 recycling facilities 这个原词说应 \"投资建更多回收设施\"，但录音没把建设施当对策，把危害描述里的词挪来当答案。 借用原文：Toxic substances like mercury leak into soil and groundwater",
+                "D": "过度推断：录音 Toxic substances like mercury leak into soil 只在说毒物危害，D 借 toxic substances 拔高成 \"用无毒物替换全部毒物\"，substitute all 录音根本没主张，绝对词 all 更是过满。",
+                "A": "正确项：与答案句同义替换（take the lead to solve this problem ↔ Take the initiative to reduce electronic waste take the lead=take the initiative；this problem=electronic waste）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "We need tech companies to take the lead to solve this problem.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "What does the speaker think of the problem of waste?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It can be solved."
+                },
+                {
+                  "key": "B",
+                  "text": "It is certain to worsen."
+                },
+                {
+                  "key": "C",
+                  "text": "It will be fixed by tech companies."
+                },
+                {
+                  "key": "D",
+                  "text": "It is unavoidable in the long run."
+                }
+              ],
+              "answer": "A",
+              "analysis": "态度观点题。答案句（P4）：But we cannot leave things broken: A problem of our creation is a problem that can be fixed.信号：转折 But + 末句定调 can be fixed 。But we cannot leave things broken 的 But 是态度反转信号，前句 damage is a certainty 是铺垫，转折后…",
+              "optionAnalysis": {
+                "B": "与原文相反：录音 damage is a certainty 只说损害必定存在，B 借 certainty 这个词头偷换成 certain to worsen（必然变糟），把 \"必定有损害\" 曲解为 \"必定恶化\"，与说话人乐观结论相反。 借用原文：many lobby against repair legislation",
+                "C": "张冠李戴：录音说问题 can be fixed 是 \"我们\" 共同的事，C 却说 fixed by tech companies，把解决主体单独安到科技公司头上；录音前文还说很多厂商 lobby against repair，正说明不能指望它们独力解决。 借用原文：damage is a certainty",
+                "D": "与原文相反：unavoidable in the long run 借的是 damage is a certainty 的悲观语气，但说话人紧接 But 就反转为问题能解决，D 取了被否定掉的那一半，与最终乐观态度相反。",
+                "A": "正确项：与答案句同义替换（a problem that can be fixed ↔ It can be solved. can be fixed=can be solved，主被动同形）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "But we cannot leave things broken: A problem of our creation is a problem that can be fixed.",
+              "type": "态度观点题"
+            }
+          ]
+        },
+        {
+          "title": "Recording One",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 13.8,
+              "text": "On average, US workers spend about 10% of their workday surfing the internet, emailing friends or shopping online. This behavior, called cyberloafing, is believed to cost employers up to $85 billion a year in lost productivity.",
+              "zh": "平均而言，美国工人每天约有10%的工作时间用于浏览互联网、给朋友发电子邮件或在线购物。这种被称为“网络闲逛”的行为，据认为每年会因生产力损失而使雇主损失高达850亿美元。"
+            },
+            {
+              "id": 2,
+              "start": 14.2,
+              "end": 43.8,
+              "text": "The majority of cyberloafing research focuses on ways to prevent employees from engaging in this behavior through interventions such as internet monitoring and computer use policies. But it turns out, such behaviors may not be a sign that a worker is lazy or just wasting time. Social media use at work has been linked to higher levels of employee engagement and job satisfaction. New research suggests cyberloafing can help workers cope with an exceptionally stressful work environment.",
+              "zh": "大多数关于网络闲逛的研究都集中于如何通过互联网监控和计算机使用政策等干预措施，防止员工从事这种行为。但事实证明，这类行为未必意味着员工懒惰或只是在浪费时间。研究表明，在工作中使用社交媒体与更高水平的员工敬业度和工作满意度相关。新的研究显示，网络闲逛可以帮助员工应对压力异常大的工作环境。"
+            },
+            {
+              "id": 3,
+              "start": 44.1,
+              "end": 114.9,
+              "text": "But is cyberloafing actually effective at reducing employee stress levels? That's the question my research team wanted to answer in our new study. Our hypothesis was that cyberloafing may serve as a mini-break, giving employees an opportunity to recover from stressful work situations. To test this, we asked workers to complete an online survey and rank how much time they spent cyberloafing, checking non-work emails and shopping. We also asked them to rank job satisfaction, their desire to quit, and how often they've experienced mistreatment at work, such as being bullied, threatened or yelled at. As you might expect, we found that overall, more mistreatment at work was correlated with lower levels of job satisfaction and a greater desire to quit. More interestingly, we found that cyberloafing effectively buffered this connection. That is, mistreated workers who spent more time surfing the web and checking emails reported higher job satisfaction and were less likely to want to quit than similar participants who didn't cyberloaf as much. This suggests that cyberloafing acts as a sort of relief valve for workers, helping them recover from stressful experiences.",
+              "zh": "但网络闲逛是否真的能有效降低员工的压力水平？这正是我的研究团队希望在新研究中回答的问题。我们的假设是，网络闲逛可以起到短暂休息的作用，为员工提供从压力大的工作情境中恢复的机会。为了验证这一点，我们要求员工完成一份在线调查，并对自己花在网络闲逛、查看非工作邮件和购物上的时间进行排序。我们还要求他们对工作满意度、离职意愿，以及在工作中遭受不当对待的频率进行评定，例如受到欺凌、威胁或吼叫。正如你所料，我们发现总体而言，工作中遭受的不当对待越多，工作满意度越低，离职意愿越强。更有意思的是，我们发现网络闲逛有效地缓冲了这种关联。也就是说，与网络闲逛较少的类似参与者相比，遭受不当对待但花更多时间浏览网页和查看电子邮件的员工报告了更高的工作满意度，也不太可能想要离职。这表明，网络闲逛对员工而言就像一种减压阀，帮助他们从压力经历中恢复过来。"
+            },
+            {
+              "id": 4,
+              "start": 115.3,
+              "end": 153.7,
+              "text": "While we did not directly assess how cyberloafing affects worker performance, we believe by relieving stress it may not only reduce worker turnover, but also ultimately bolster productivity. This fits with other recent research that suggests taking short breaks is associated with higher levels of daily job performance. That isn't to say cyberloafing is always good. Too much time spent on non-work activities likely causes performance to suffer. All in all, managers should be more lenient with employees. We believe a bit of online shopping or surfing the internet at work could make workers more productive in the long run.",
+              "zh": "虽然我们没有直接评估网络闲逛如何影响员工的工作表现，但我们认为，通过缓解压力，它不仅可能减少员工流失，最终还可能提高生产力。这与其他近期研究的结果相符，即进行短暂休息与更高水平的日常工作表现相关。这并不是说网络闲逛总是有益的。花费过多时间从事非工作活动很可能会导致工作表现下降。总的来说，管理者应该对员工更加宽容。我们认为，在工作中进行一些在线购物或浏览互联网，从长远来看可能会让员工更具生产力。"
+            }
+          ],
+          "audioDuration": 153.7,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What does most cyberloafing research focus on?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "How internet monitoring can be implemented."
+                },
+                {
+                  "key": "B",
+                  "text": "How to encourage productive internet surfing."
+                },
+                {
+                  "key": "C",
+                  "text": "How cyberloafing affects overall productivity."
+                },
+                {
+                  "key": "D",
+                  "text": "How to prevent employees from cyberloafing."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：The majority of cyberloafing research focuses on ways to prevent employees from engaging in this behavior through interventions such as internet monitoring and computer use policies.信号：原话直述 research focuses on 。录音直接说 The majority of cyberloafing research focuses on ways to prevent employees f…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确实念了 internet monitoring，但它是研究焦点（防止摸鱼）下面举的干预手段之一，不是研究本身关注的对象；A 把举例升格成焦点，且原文没说研究关注它如何被 implemented。 借用原文：prevent employees from engaging in this behavior",
+                "B": "与原文相反：原文研究关注的是防止摸鱼，B 却说成鼓励高效上网（encourage productive internet surfing），方向相反，录音从未说大多数研究关注怎么鼓励上网。 借用原文：is cyberloafing actually effective at reducing employee stress levels?",
+                "C": "张冠李戴：cyberloafing 对效率的影响是讲者自己团队后续探讨的内容，而本题问的是大多数已有研究关注什么——答案句明说那聚焦于 prevent；C 张冠李戴，把后文结论安到大多数研究头上。",
+                "D": "正确项：与答案句同义替换（ways to prevent employees from engaging in this behavior ↔ How to prevent employees from cyberloafing this behavior 即 cyberloafing，prevent 原词对应）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The majority of cyberloafing research focuses on ways to prevent employees from engaging in this behavior through interventions such as internet monitoring and computer use policies.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "What was the hypothesis of the speaker's research team?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Cyberloafing is a sign of workers' laziness."
+                },
+                {
+                  "key": "B",
+                  "text": "Cyberloafing may relieve employees of stress."
+                },
+                {
+                  "key": "C",
+                  "text": "Employee engagement is closely related to job satisfaction."
+                },
+                {
+                  "key": "D",
+                  "text": "Overuse of social media may lead to decline in productivity."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：Our hypothesis was that cyberloafing may serve as a mini-break, giving employees an opportunity to recover from stressful work situations.信号：标志词 Our hypothesis was that 引出答案 。录音用 Our hypothesis was that cyberloafing may serve as a mini-break 直接点出假设，…",
+              "optionAnalysis": {
+                "A": "与原文相反：录音确实念了 a sign that a worker is lazy，但前面有 may not be，是讲者要否定的旧观念，不是其团队的假设；A 取了被否定的那一极，正话反取。 借用原文：Social media use at work has been linked to higher levels of employee engagement and job satisfaction",
+                "C": "张冠李戴：higher levels of employee engagement and job satisfaction 是录音引用的他人研究背景，且原文是说社媒使用与二者相关，并未说 engagement 与 job satisfaction 互相关联；C 既错置主体又乱搭关系。 借用原文：cost employers up to $85 billion a year in lost productivity",
+                "D": "原词陷阱：录音多处提到 productivity，但本团队的假设是摸鱼减压，而非过度用社媒会降低效率；D 取了一个原文别处的话题词拼成假设，答非所问。",
+                "B": "正确项：与答案句同义替换（recover from stressful work situations ↔ relieve employees of stress 从压力中恢复＝缓解压力，同义改写）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Our hypothesis was that cyberloafing may serve as a mini-break, giving employees an opportunity to recover from stressful work situations.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "On what point do the results of the speaker's study agree with other recent research?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Taking mini-breaks means better job performance."
+                },
+                {
+                  "key": "B",
+                  "text": "Cyberloafing generally does more harm than good."
+                },
+                {
+                  "key": "C",
+                  "text": "Worker turnover is linked to the time allowed for cyberloafing."
+                },
+                {
+                  "key": "D",
+                  "text": "Employees who indulge in internet surfing are most likely to quit."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P4）：This fits with other recent research that suggests taking short breaks is associated with higher levels of daily job performance.信号：fits with other recent research 直接挂钩 。录音用 This fits with other recent research that suggests taking short br…",
+              "optionAnalysis": {
+                "B": "与原文相反：录音虽说 cyberloafing is always good 也非绝对，但整体结论是摸鱼适度有益、能提效；B 说弊大于利，与讲者立场相反，更非两研究的吻合点。 借用原文：it may not only reduce worker turnover",
+                "C": "原词陷阱：录音确有 reduce worker turnover，但说的是减压可降低离职，并未说离职与允许摸鱼的时间长短相关联；C 拼出一个原文没有的因果，且不是与他研究的吻合点。 借用原文：were less likely to want to quit than similar participants who didn't cyberloaf as much",
+                "D": "与原文相反：原文说常上网的受虐员工 less likely to want to quit，D 却说爱上网的最想辞职，方向正好反；且离职话题也不是与他研究的吻合点。",
+                "A": "正确项：与答案句同义替换（taking short breaks is associated with higher levels of daily job performance ↔ Taking mini-breaks means better job performance short breaks＝mini-breaks，associated with＝means，higher＝better）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "This fits with other recent research that suggests taking short breaks is associated with higher levels of daily job performance.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Recording Two",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 34.6,
+              "text": "When Julius Morton moved to Nebraska City in 1854, he faced a problem shared by many settlers in the territory: It was a treeless plain. That meant no trees for building materials, or for fuel. But Morton was one of the world's first conservationists, stating, \"For prosperity, we ought to plant as many forests as we have exhausted and consumed\". So he started planting trees, beginning with his own land. By 1860 Morton possessed a forest of more than 300 trees. A few years later, he had more than 1,000.",
+              "zh": "1854年，朱利叶斯·莫顿迁居内布拉斯加城时，面临着该地区许多定居者共同面对的问题：这里是一片没有树木的平原。这意味着没有树木可用作建筑材料，也没有木材可作燃料。但莫顿是世界上最早的自然资源保护主义者之一，他说：“为了繁荣，我们应当种植与已经耗尽和消耗掉的森林一样多的森林。”于是，他开始植树，先从自己的土地种起。到1860年，莫顿已经拥有一片由300多棵树组成的树林。几年后，他拥有的树木超过了1,000棵。"
+            },
+            {
+              "id": 2,
+              "start": 35,
+              "end": 63.8,
+              "text": "As the forest grew, so did Morton's influence in Nebraska. This was largely because Morton founded the Nebraska City News, the state's first newspaper, in which he frequently wrote editorials about the practical and aesthetic benefits of tree planting. He also organized the Nebraska State Gardening Society and served on the Nebraska State Board of Agriculture. While serving on the Board, Morton came up with an idea to spread his belief in tree planting statewide.",
+              "zh": "随着树林不断生长，莫顿在内布拉斯加州的影响力也日益扩大。这主要是因为莫顿创办了《内布拉斯加城新闻报》，这是该州的第一份报纸；他经常在报纸上撰写社论，介绍植树在实用和审美方面的益处。他还组织成立了内布拉斯加州园艺协会，并担任内布拉斯加州农业委员会委员。任职期间，莫顿想出了一个办法，要将他关于植树的信念传播到全州。"
+            },
+            {
+              "id": 3,
+              "start": 64.1,
+              "end": 111.8,
+              "text": "On January 4, 1872, Morton drafted a resolution that April 10 be designated day for the planting of trees in the State of Nebraska and urged people to go out and plant trees themselves. Morton called the special event Arbor Day as \"arbor\" is Latin for \"tree\". The state government agreed. And on April 10, 1872, the first unofficial Arbor Day was celebrated throughout Nebraska. Prizes were awarded to counties, cities, and individuals who planted the largest number of trees. That day, an astounding one million trees were planted in Nebraska—an average of more than six for every man, woman and child in the state. Since 1885, Nebraska has planted more than 700,000 acres of trees, earning it the nickname \"the Tree Planters State\".",
+              "zh": "1872年1月4日，莫顿起草了一项决议，提议将4月10日定为内布拉斯加州植树日，并号召人们走出家门，亲自植树。莫顿把这一特别活动称为“植树节”，因为“arbor”在拉丁语中意为“树”。州政府同意了这一提议。1872年4月10日，内布拉斯加州各地庆祝了第一个非正式的植树节。植树数量最多的县、市和个人获得了奖励。那一天，内布拉斯加州种下了惊人的100万棵树，平均每位州内居民，包括男女老幼在内，种下了六棵以上的树。自1885年以来，内布拉斯加州已经种植了超过70万英亩的树木，因此获得了“植树州”的昵称。"
+            },
+            {
+              "id": 4,
+              "start": 112.1,
+              "end": 130.2,
+              "text": "Arbor Day became a legal, civic holiday in the state in 1885. It was held on April 22—Julius Morton's birthday. In addition to a parade in Nebraska City, Morton introduced what has since become a long-standing Arbor Day tradition: School children went outside and planted trees together.",
+              "zh": "1885年，植树节在该州成为法定的公民节日。节日定于4月22日举行，这一天是朱利叶斯·莫顿的生日。除了在内布拉斯加城举行游行外，莫顿还引入了一项后来成为植树节长期传统的活动：学生们走到户外，一起植树。"
+            },
+            {
+              "id": 5,
+              "start": 130.5,
+              "end": 150.5,
+              "text": "In 1970, nearly a century after Arbor Day was first celebrated, President Richard Nixon declared the last Friday of every April to be observed as National Arbor Day. All 50 states recognize the April observance, although many hold an additional state Arbor Day in a month more suited to local tree planting.",
+              "zh": "1970年，也就是植树节首次庆祝近一个世纪后，理查德·尼克松总统宣布将每年4月的最后一个星期五定为全国植树节。美国50个州都承认在4月举行的这一节日，尽管许多州还会在更适合当地植树的月份另行庆祝本州植树节。"
+            }
+          ],
+          "audioDuration": 150.5,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What does the speaker say about Nebraska City in 1854 when Julius Morton moved there?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "There were no wooden buildings."
+                },
+                {
+                  "key": "B",
+                  "text": "There were environmental problems."
+                },
+                {
+                  "key": "C",
+                  "text": "There were no trees."
+                },
+                {
+                  "key": "D",
+                  "text": "There were few settlers."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：When Julius Morton moved to Nebraska City in 1854, he faced a problem shared by many settlers in the territory: It was a treeless plain. That meant no trees for building materials, or for fuel.信号：时间词后的状况交代 。录音开头复述了题干同样的时间地点 When Julius Morton moved to Nebraska City in 1854，紧跟着的 It was a treeless plain 就…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确实念到 no trees for building materials（没有树作建筑材料），A 把它偷换成 There were no wooden buildings.（没有木建筑）。原文说的是缺\"建材来源\"而非\"已无木建筑\"，听到 building 这个原词就选会上当。 借用原文：a problem shared by many settlers",
+                "B": "过度推断：录音只说当地是没树的平原、缺建材和燃料，并未泛泛地说 There were environmental problems.。B 把\"无树\"这一具体事实拔高成\"环境问题\"这种概括大词，属过度推断。",
+                "D": "原词陷阱：录音念到 a problem shared by many settlers（许多移民共有的问题），D 盗用 settlers 这个原词编出 There were few settlers.（移民很少）。原文是说移民\"多\"且共有难题，并未说移民少，方向正相反。",
+                "C": "正确项：与答案句同义替换（It was a treeless plain ↔ There were no trees. treeless = no trees）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "When Julius Morton moved to Nebraska City in 1854, he faced a problem shared by many settlers in the territory: It was a treeless plain. That meant no trees for building materials, or for fuel.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What did Julius Morton do that increased his influence in Nebraska City?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He served as chairman of the Nebraska State Board of Agriculture."
+                },
+                {
+                  "key": "B",
+                  "text": "He urged the state to start the Nebraska State Gardening Society."
+                },
+                {
+                  "key": "C",
+                  "text": "He engaged himself in a large number of aesthetic projects."
+                },
+                {
+                  "key": "D",
+                  "text": "He founded a newspaper and used it to promote his ideas."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：As the forest grew, so did Morton's influence in Nebraska. This was largely because Morton founded the Nebraska City News, the state's first newspaper, in which he frequently wrote editorials about the practical and aesthetic benefits of tree planting.信号：because 引出的因果落点 。录音先说影响力增长，紧接 This was largely because Morton founded the Nebraska City News，因果连词 because 直接…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音说他 served on the Nebraska State Board of Agriculture（在董事会任职），A 改成 served as chairman of the Nebraska State Board of Agriculture（任董事会主席）。原文只说\"任职\"未说\"任主席\"，且这件事并非影响力增大的原因，既偷换身份又答非所问。 借用原文：organized the Nebraska State Gardening Society",
+                "B": "原词陷阱：录音说他 organized the Nebraska State Gardening Society（组织了园艺学会），B 盗用该机构名却把动作换成 urged the state to start the Nebraska State Gardening Society（敦促州里去创办）。原文是他亲自组织、并非\"敦促州政府创办\"，且此事也非影响力之源，答非所问。 借用原文：the practical and aesthetic benefits of tree planting",
+                "C": "原词陷阱：录音里 aesthetic 只是修饰社论内容（讲植树的实用与审美益处），C 把它拼成 engaged himself in a large number of aesthetic projects（投身大量审美项目）。原文根本没说他搞了一堆审美项目，属盗用原词后无中生有。",
+                "D": "正确项：与答案句同义替换（Morton founded the Nebraska City News, the state's first newspaper ↔ He founded a newspaper 专名概括成普通名词）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "As the forest grew, so did Morton's influence in Nebraska. This was largely because Morton founded the Nebraska City News, the state's first newspaper, in which he frequently wrote editorials about the practical and aesthetic benefits of tree planting.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What does the speaker say happened on April 10, 1872?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A special prize was awarded to Julius Morton."
+                },
+                {
+                  "key": "B",
+                  "text": "One million trees were planted throughout Nebraska."
+                },
+                {
+                  "key": "C",
+                  "text": "The state government declared it the official Arbor Day."
+                },
+                {
+                  "key": "D",
+                  "text": "Nebraska earned the nickname \"the Tree Planters State\"."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：And on April 10, 1872, the first unofficial Arbor Day was celebrated throughout Nebraska. Prizes were awarded to counties, cities, and individuals who planted the largest number of trees. That day, an astounding one million trees were planted in Nebraska—an average of more than six for every man, woman and child in the state.信号：日期后\"That day\"复指 。录音念出题干同一日期 on April 10, 1872，随后用 That day, an astounding one million trees were planted 复指该…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音那天确有颁奖 Prizes were awarded to counties, cities, and individuals，但发给的是种树最多的县市和个人，A 却说 A special prize was awarded to Julius Morton.（颁给莫顿一个特别奖）。原文没说奖给莫顿，盗用 prize 原词后偷换了获奖对象。 借用原文：the first unofficial Arbor Day",
+                "C": "与原文相反：录音明说那天是 the first unofficial Arbor Day（第一个非官方植树节），C 却说州政府 declared it the official Arbor Day（宣布为官方植树节）。原文在 official 前有否定前缀 un-，C 恰好把极性反了，与原文相反。 借用原文：Since 1885, Nebraska has planted more than 700,000 acres of trees, earning it the nickname \"the Tree Planters State\"",
+                "D": "张冠李戴：录音确实念到 earning it the nickname \"the Tree Planters State\"，但那是 Since 1885, Nebraska has planted more than 700,000 acres 之后才赢得的，并非 1872 年4月10日当天的事。D 盗用醒目专名却安错了时间，张冠李戴。",
+                "B": "正确项：与答案句同义替换（an astounding one million trees were planted in Nebraska ↔ One million trees were planted throughout Nebraska. 去掉修饰即等值）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "And on April 10, 1872, the first unofficial Arbor Day was celebrated throughout Nebraska. Prizes were awarded to counties, cities, and individuals who planted the largest number of trees. That day, an astounding one million trees were planted in Nebraska—an average of more than six for every man, woman and child in the state.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Recording Three",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 24.2,
+              "text": "Modern humans arose in Africa about 200,000 years ago. They then spread across Europe and Asia sometime after 60,000 years ago. This is the \"Out of Africa\" model, as it's commonly known. In the 1990s, the hypothesis found widespread acceptance. But this popular idea is in need of revision, particularly given the number of important findings across Asia over the past few decades.",
+              "zh": "现代人类在大约20万年前起源于非洲。随后，他们在距今6万年后的某个时间扩散到了欧洲和亚洲。这就是人们通常所说的“走出非洲”模型。在20世纪90年代，这一假设得到了广泛接受。但鉴于过去几十年间在整个亚洲取得的一系列重要发现，这一流行观点有必要进行修改。"
+            },
+            {
+              "id": 2,
+              "start": 24.6,
+              "end": 58,
+              "text": "For instance, many new human fossils found, particularly in China, are now dated as older than 60,000 years. This calls into question the idea that modern humans migrated out of Africa only 60,000 years ago. Take the recent discovery of two modern human teeth found in the Luna cave in China's Guangxi Zhuang Autonomous Region. When my research team and I dated these teeth, we found they were more than 70,000 years old—a situation clearly impossible if modern humans moved out of Africa only 60,000 years ago.",
+              "zh": "例如，许多新发现的人类化石（特别是在中国发现的）现在的测年结果都早于6万年前。这使人们对现代人类仅在6万年前才迁出非洲的观点提出了质疑。以最近在中国广西壮族自治区陆那洞发现的两颗现代人类牙齿为例。当我和我的研究团队对这两颗牙齿进行测年时，我们发现它们有超过7万年的历史——如果现代人类仅在6万年前才走出非洲，这种情况显然是不可能的。"
+            },
+            {
+              "id": 3,
+              "start": 58.4,
+              "end": 64.9,
+              "text": "So with such findings, what happened exactly? Where does the most current data suggest we came from?",
+              "zh": "那么，面对这些发现，究竟发生了什么？最新的数据表明我们来自何方？"
+            },
+            {
+              "id": 4,
+              "start": 65.3,
+              "end": 94.9,
+              "text": "The first question we should ask is why did modern humans leave Africa to begin with? If a population is perfectly adapted to a particular environment and has access to an abundance of resources, then there really is no reason to move or change. For instance, some monkeys in Africa have a set of teeth that has hardly changed over the course of millions of years, indicating that they found a place that has worked for them.",
+              "zh": "我们首先应该问的问题是：现代人类最初为什么离开非洲？如果一个群体完全适应了特定环境并且拥有丰富的资源，那么确实没有理由迁移或改变。例如，非洲的一些猴子的牙齿在数百万年间几乎没有任何变化，这表明它们找到了适合自己的生存之地。"
+            },
+            {
+              "id": 5,
+              "start": 95.3,
+              "end": 127.9,
+              "text": "So what happened with humans? Some researchers have suggested that population density increased to the point where smaller human groups were forced to explore new lands. Other researchers have suggested that due to major environmental events in East Africa, humans were prompted to find greener pastures. Yet another explanation could simply be that early modern human hunters were following the large animals that they relied on, and so they moved out of Africa without realizing that they were actually moving from one continent to another.",
+              "zh": "那么人类发生了什么？一些研究人员提出，人口密度增加到了迫使较小的人类群体不得不去探索新土地的程度。另一些研究人员则认为，由于东非发生的重大环境事件，促使人类去寻找更适宜生存的环境。还有一种解释可能仅仅是，早期的现代人类猎人跟随着他们所依赖的大型动物，因此在没有意识到自己实际上正在从一个大洲迁移到另一个大洲的情况下就移出了非洲。"
+            },
+            {
+              "id": 6,
+              "start": 128.3,
+              "end": 153.3,
+              "text": "Humans need daily access to reliable fresh water, which appears to be absent from many coastal areas. This brings us to another question: by which route did modern humans move out of Africa? No clear route across the Mediterranean from North Africa appears to be present, so the earlier dispersals out of Africa and into Europe and Asia might have been across the Arabian Peninsula.",
+              "zh": "人类每天都需要获得可靠的淡水，而许多沿海地区似乎缺乏淡水。这就带出了另一个问题：现代人类是通过哪条路线迁出非洲的？从北非穿过地中海的路线似乎并不存在明确的路径，因此早期走出非洲进入欧洲和亚洲的扩散可能是穿过了阿拉伯半岛。"
+            }
+          ],
+          "audioDuration": 153.3,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What do we learn about modern humans according to the hypothesis commonly accepted in the 1990s?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They spread across Europe and Asia in a few decades."
+                },
+                {
+                  "key": "B",
+                  "text": "They lived mostly in Africa for about 200,000 years."
+                },
+                {
+                  "key": "C",
+                  "text": "They preferred to live in Europe rather than in Asia."
+                },
+                {
+                  "key": "D",
+                  "text": "They moved out of Africa about 60,000 years ago."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：Modern humans arose in Africa about 200,000 years ago. They then spread across Europe and Asia sometime after 60,000 years ago. This is the \"Out of Africa\" model, as it's commonly known. In the 1990s, the hypothesis found widespread acceptance.信号：时间状语锁定旧假说内容 。题干限定 in the 1990s 的旧假说，录音里 In the 1990s, the hypothesis found widespread acceptance. 把前文 spread…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 They spread across Europe and Asia in a few decades. 直接搬用录音原词 spread across Europe and Asia，听到就想选；但 in a few decades（几十年内）是录音根本没说的速度，讲者只说在六万年后扩散、并未说扩散只花几十年。 借用原文：Modern humans arose in Africa about 200,000 years ago.",
+                "B": "偷换概念：选项 They lived mostly in Africa for about 200,000 years. 偷换了 arose in Africa about 200,000 years ago 里的 200,000：录音说的是『二十万年前起源于非洲』这个时间点，不是『在非洲住了二十万年』这个时长，听到 200,000 + Africa 就选会落坑。 借用原文：spread across Europe and Asia sometime after 60,000 years ago",
+                "C": "未提及：选项 They preferred to live in Europe rather than in Asia. 借用了原词 Europe 和 Asia，但录音只把欧洲与亚洲并列为扩散去向（Europe and Asia），从未比较二者、更没说『偏好欧洲胜过亚洲』，属凭空添加的偏好。",
+                "D": "正确项：与答案句同义替换（spread across Europe and Asia sometime after 60,000 years ago ↔ They moved out of Africa about 60,000 years ago. 扩散到欧亚=走出非洲）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Modern humans arose in Africa about 200,000 years ago. They then spread across Europe and Asia sometime after 60,000 years ago. This is the \"Out of Africa\" model, as it's commonly known. In the 1990s, the hypothesis found widespread acceptance.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What has called into question the \"Out of Africa\" model?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The discovery of two modern human teeth in China."
+                },
+                {
+                  "key": "B",
+                  "text": "The traces of human migration out of Africa to Asia."
+                },
+                {
+                  "key": "C",
+                  "text": "The human fossils discovered most recently in Africa."
+                },
+                {
+                  "key": "D",
+                  "text": "The Luna cave in Guangxi Zhuang Autonomous Region."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：Take the recent discovery of two modern human teeth found in the Luna cave in China's Guangxi Zhuang Autonomous Region. When my research team and I dated these teeth, we found they were more than 70,000 years old—a situation clearly impossible if modern humans moved out of Africa only 60,000 years ago.信号：Take…例子+测年结果证伪旧说 。讲者用 Take the recent discovery of two modern human teeth 引出一个具体例子，并以 more than 70,000 years…",
+              "optionAnalysis": {
+                "B": "答非所问：选项 The traces of human migration out of Africa to Asia. 用的是全篇大主题词 migration out of Africa，听起来很对题；但题目问的是『具体什么动摇了模型』，动摇模型的是那个测年超七万年的牙齿发现，而非泛泛的『迁徙痕迹』，B 笼统得答非所问。 借用原文：many new human fossils found, particularly in China",
+                "C": "原词陷阱：选项 The human fossils discovered most recently in Africa. 借了录音的 recent / discovery 和 fossils 等原词，但把地点改成了 in Africa；动摇模型的发现明明在中国（Luna cave in China），不在非洲，听到 recent + discovered 就选会被骗。 借用原文：found in the Luna cave in China's Guangxi Zhuang Autonomous Region",
+                "D": "原词陷阱：选项 The Luna cave in Guangxi Zhuang Autonomous Region. 把录音里原样念出的专有地名整段照搬，最易『听到原词就想选』；但动摇模型的是『在该洞发现的牙齿超七万年』这一发现，洞穴本身只是地点，并非动摇模型的证据，D 偷换了概念。",
+                "A": "正确项：与答案句同义替换（the recent discovery of two modern human teeth found in the Luna cave in China ↔ The discovery of two modern human teeth in China. 近乎原句的浓缩）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Take the recent discovery of two modern human teeth found in the Luna cave in China's Guangxi Zhuang Autonomous Region. When my research team and I dated these teeth, we found they were more than 70,000 years old—a situation clearly impossible if modern humans moved out of Africa only 60,000 years ago.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What does the speaker want to show with the example of some monkeys in Africa?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "There must have been some reason for human migration."
+                },
+                {
+                  "key": "B",
+                  "text": "There have been changes in animals' living conditions."
+                },
+                {
+                  "key": "C",
+                  "text": "Humans adapted themselves to the environment there."
+                },
+                {
+                  "key": "D",
+                  "text": "Humans had access to abundant food sources there."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P4）：The first question we should ask is why did modern humans leave Africa to begin with? If a population is perfectly adapted to a particular environment and has access to an abundance of resources, then there really is no reason to move or change. For instance, some monkeys in Africa have a set of teeth that has hardly changed over the course of millions of years, indicating that they found a place that has worked for them.信号：例子前的论点句+indicating回扣 。猴子例子由 For instance 引出，它服务的论点写在前一句 then there really is no reason to move or change，又被例…",
+              "optionAnalysis": {
+                "B": "与原文相反：选项 There have been changes in animals' living conditions. 蹭了 animals（猴子是动物）这一关联，但录音说猴子牙齿 hardly changed、环境一直 worked for them，恰恰是『没变化』，B 把『没变』说成『有变』，与原文相反。 借用原文：If a population is perfectly adapted to a particular environment",
+                "C": "原词陷阱：选项 Humans adapted themselves to the environment there. 借了原文 adapted、environment 等原词，但 perfectly adapted 在录音里说的是『假设种群（以猴子为例）适应了就不会迁』，是用来反衬人类要迁的前提，并非讲者想证明『人类适应了那里』，C 张冠李戴又答非所问。 借用原文：has access to an abundance of resources, then there really is no reason to move",
+                "D": "原词陷阱：选项 Humans had access to abundant food sources there. 盗用原文 access to an abundance of resources 的近义词，但原文说的是『若有充足资源就没理由迁』这一假设前提，讲者举猴子恰是要说明人类迁了说明并非如此，D 把反衬前提错当成结论，且把 resources 窄化成 food sources。",
+                "A": "正确项：与答案句同义替换（there really is no reason to move or change ↔ There must have been some reason for human migration. 正话反说的等值推论）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "The first question we should ask is why did modern humans leave Africa to begin with? If a population is perfectly adapted to a particular environment and has access to an abundance of resources, then there really is no reason to move or change. For instance, some monkeys in Africa have a set of teeth that has hardly changed over the course of millions of years, indicating that they found a place that has worked for them.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What question does the speaker raise close to the end of the talk?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "How humans settled down on the Arabian Peninsula."
+                },
+                {
+                  "key": "B",
+                  "text": "When modern humans started to disperse out of Africa."
+                },
+                {
+                  "key": "C",
+                  "text": "What path modern humans took to migrate out of Africa."
+                },
+                {
+                  "key": "D",
+                  "text": "Why fresh water is so important for human survival."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P6）：This brings us to another question: by which route did modern humans move out of Africa?信号：another question引出的自问句 。结尾段用 This brings us to another question 明确抛出讲者临近结尾的那个问题，冒号后的 by which route did mode…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 How humans settled down on the Arabian Peninsula. 借了结尾出现的地名 Arabian Peninsula，听到就想选；但讲者只是把阿拉伯半岛作为可能路线的推测，并没有把『如何在阿拉伯半岛定居』当作他提出的那个问题，A 答非所问。 借用原文：by which route did modern humans move out of Africa",
+                "B": "偷换概念：选项 When modern humans started to disperse out of Africa. 用了 disperse out of Africa 等原词，问的是『何时』；但『何时走出非洲』是前文（第二段牙齿测年）已讨论的旧问题，结尾真正抛出的是 by which route（哪条路线），B 把疑问词从 route 偷换成 when。 借用原文：Humans need daily access to reliable fresh water",
+                "D": "原词陷阱：选项 Why fresh water is so important for human survival. 盗用结尾出现的 fresh water 原词；但讲者提 Humans need daily access to reliable fresh water 只是引出路线问题的铺垫，并未把『为何淡水重要』作为他提出的问题，D 把铺垫句错当成所提问题。",
+                "C": "正确项：与答案句同义替换（by which route did modern humans move out of Africa ↔ What path modern humans took to migrate out of Africa. by which route=what path）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "This brings us to another question: by which route did modern humans move out of Africa?",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Imagine sitting down to a big dinner: a massive steak, a large portion of fried potatoes, and cake for dessert. After eating so much, you should be too full to eat another bite. But some people experience a powerful urge to keep eating, even after 26______ in a huge meal, a behavior that makes little sense, as most adults are well-versed in the dangers of obesity, which researchers have shown correlates with 27______ health issues and is even linked to increased 28______ risk. But some people still keep eating long after they should stop, a phenomenon Dr. Susan Thompson calls \"insatiable(永不满足的) hunger.\" It is characterized by two main 29______ : not being satisfied by eating, and having a desire to stay sedentary(久坐不动的).\n\nThis is at 30______ with how humans are biologically programmed. When there was a great deal of food available, ancient people would gorge on calories; this massive calorie intake was accompanied by an urge to get active. Humans were also programmed for something called \"compensation,\" which is the brain's 31______ mechanism for preventing the accumulation of excess weight. With compensation, if you eat one large meal in the morning, you are naturally 32______ to eat less for the rest of the day.\n\nBut recent studies show that 70% of American adults have lost the ability to naturally compensate for the calories they consume; worse 33______ , a significant number of them report 34______ hunger halfway through an eating session, but, by the end of the meal, they feel the same or higher levels of hunger than when they sat down. Dr. Thompson argues that the main cause of this phenomenon is the modern diet, which is 35______ of food high in sugar, carbohydrates and calories."
+            },
+            {
+              "label": "词库",
+              "text": "A) attributes\nB) comprised\nC) conceded\nD) conservation\nE) diminishing\nF) far\nG) inclined\nH) indulging\nI) innumerable\nJ) mortality\nK) odds\nL) plights\nM) regulatory\nN) still\nO) unmatchable"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "attributes"
+                },
+                {
+                  "key": "B",
+                  "text": "comprised"
+                },
+                {
+                  "key": "C",
+                  "text": "conceded"
+                },
+                {
+                  "key": "D",
+                  "text": "conservation"
+                },
+                {
+                  "key": "E",
+                  "text": "diminishing"
+                },
+                {
+                  "key": "F",
+                  "text": "far"
+                },
+                {
+                  "key": "G",
+                  "text": "inclined"
+                },
+                {
+                  "key": "H",
+                  "text": "indulging"
+                },
+                {
+                  "key": "I",
+                  "text": "innumerable"
+                },
+                {
+                  "key": "J",
+                  "text": "mortality"
+                },
+                {
+                  "key": "K",
+                  "text": "odds"
+                },
+                {
+                  "key": "L",
+                  "text": "plights"
+                },
+                {
+                  "key": "M",
+                  "text": "regulatory"
+                },
+                {
+                  "key": "N",
+                  "text": "still"
+                },
+                {
+                  "key": "O",
+                  "text": "unmatchable"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) indulging\n【原文】indulge in=纵情大吃，与“吃完一顿大餐”语义一致\nB) comprised 搭配是 be comprised of，不接 in：comprised 的固定搭配是 be comprised of（由……组成），不与 in 连用，且这里没有 be 动词；语义“一顿大餐由……组成”也与“吃完后还想吃”的语境无关。\nE) diminishing 义为“递减”，与“暴饮暴食”反向：diminish in 表示“在……方面减少”，可这里要表达的是“纵享了一顿大餐”，diminishing in a huge meal（在一顿大餐中递减？）语义讲不通，方向恰好相"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "attributes"
+                },
+                {
+                  "key": "B",
+                  "text": "comprised"
+                },
+                {
+                  "key": "C",
+                  "text": "conceded"
+                },
+                {
+                  "key": "D",
+                  "text": "conservation"
+                },
+                {
+                  "key": "E",
+                  "text": "diminishing"
+                },
+                {
+                  "key": "F",
+                  "text": "far"
+                },
+                {
+                  "key": "G",
+                  "text": "inclined"
+                },
+                {
+                  "key": "H",
+                  "text": "indulging"
+                },
+                {
+                  "key": "I",
+                  "text": "innumerable"
+                },
+                {
+                  "key": "J",
+                  "text": "mortality"
+                },
+                {
+                  "key": "K",
+                  "text": "odds"
+                },
+                {
+                  "key": "L",
+                  "text": "plights"
+                },
+                {
+                  "key": "M",
+                  "text": "regulatory"
+                },
+                {
+                  "key": "N",
+                  "text": "still"
+                },
+                {
+                  "key": "O",
+                  "text": "unmatchable"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) innumerable\n【原文】“无数的”健康问题，与肥胖危害的客观表述匹配\nO) unmatchable 感情色彩偏褒，且语义不通：unmatchable 表“无与伦比”，是积极/褒义评价词，用来形容“健康问题”从感情色彩到搭配都明显错位——说“无与伦比的健康问题”更像是把“好”和“坏”拼接起来，逻辑不通。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "attributes"
+                },
+                {
+                  "key": "B",
+                  "text": "comprised"
+                },
+                {
+                  "key": "C",
+                  "text": "conceded"
+                },
+                {
+                  "key": "D",
+                  "text": "conservation"
+                },
+                {
+                  "key": "E",
+                  "text": "diminishing"
+                },
+                {
+                  "key": "F",
+                  "text": "far"
+                },
+                {
+                  "key": "G",
+                  "text": "inclined"
+                },
+                {
+                  "key": "H",
+                  "text": "indulging"
+                },
+                {
+                  "key": "I",
+                  "text": "innumerable"
+                },
+                {
+                  "key": "J",
+                  "text": "mortality"
+                },
+                {
+                  "key": "K",
+                  "text": "odds"
+                },
+                {
+                  "key": "L",
+                  "text": "plights"
+                },
+                {
+                  "key": "M",
+                  "text": "regulatory"
+                },
+                {
+                  "key": "N",
+                  "text": "still"
+                },
+                {
+                  "key": "O",
+                  "text": "unmatchable"
+                }
+              ],
+              "answer": "J",
+              "type": "选词填空",
+              "analysis": "【答案】J（官方答案）\n应填 J) mortality\n【原文】mortality risk=死亡风险，肥胖危害的高频搭配\nA) attributes attribute risk 搭配不存在：attributes 是“属性”，与 risk 不能复合构成“属性风险”这种意义，且语义也不递进。\nD) conservation 话题错位：conservation 是“资源保护”，conservation risk 偏环保领域，与肥胖语境完全不接轨。\nL) plights 复数名词无法作单数前置定语，且无此搭配：plights 用复数，且 plights risk 不是固定搭配，无法表达“困境风险”这种意思。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "attributes"
+                },
+                {
+                  "key": "B",
+                  "text": "comprised"
+                },
+                {
+                  "key": "C",
+                  "text": "conceded"
+                },
+                {
+                  "key": "D",
+                  "text": "conservation"
+                },
+                {
+                  "key": "E",
+                  "text": "diminishing"
+                },
+                {
+                  "key": "F",
+                  "text": "far"
+                },
+                {
+                  "key": "G",
+                  "text": "inclined"
+                },
+                {
+                  "key": "H",
+                  "text": "indulging"
+                },
+                {
+                  "key": "I",
+                  "text": "innumerable"
+                },
+                {
+                  "key": "J",
+                  "text": "mortality"
+                },
+                {
+                  "key": "K",
+                  "text": "odds"
+                },
+                {
+                  "key": "L",
+                  "text": "plights"
+                },
+                {
+                  "key": "M",
+                  "text": "regulatory"
+                },
+                {
+                  "key": "N",
+                  "text": "still"
+                },
+                {
+                  "key": "O",
+                  "text": "unmatchable"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) attributes\n【原文】attributes=特征，正好对应冒号后并列的两件特征\nD) conservation 单数不可数，不能跟在 two main 后，且话题不对：conservation 一般不可数，前面带 two main 直接不合语法；语义“两个保护”也与“吃不饱+久坐”毫无关联。\nL) plights 感情色彩太重，且 characterized by plights 不自然：plights 强调“悲惨困境”，是悲剧色彩词；这里只是中性描述现象的两个特征，用“两大困境”过于戏剧化，且 be characterized by two main plight"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "attributes"
+                },
+                {
+                  "key": "B",
+                  "text": "comprised"
+                },
+                {
+                  "key": "C",
+                  "text": "conceded"
+                },
+                {
+                  "key": "D",
+                  "text": "conservation"
+                },
+                {
+                  "key": "E",
+                  "text": "diminishing"
+                },
+                {
+                  "key": "F",
+                  "text": "far"
+                },
+                {
+                  "key": "G",
+                  "text": "inclined"
+                },
+                {
+                  "key": "H",
+                  "text": "indulging"
+                },
+                {
+                  "key": "I",
+                  "text": "innumerable"
+                },
+                {
+                  "key": "J",
+                  "text": "mortality"
+                },
+                {
+                  "key": "K",
+                  "text": "odds"
+                },
+                {
+                  "key": "L",
+                  "text": "plights"
+                },
+                {
+                  "key": "M",
+                  "text": "regulatory"
+                },
+                {
+                  "key": "N",
+                  "text": "still"
+                },
+                {
+                  "key": "O",
+                  "text": "unmatchable"
+                }
+              ],
+              "answer": "K",
+              "type": "选词填空",
+              "analysis": "【答案】K（官方答案）\n应填 K) odds\n【原文】段首正在做对比——“永不满足的饥饿”这件事 This is at __(30)__ with how humans are biologically programmed. 与人类生物程序“相矛盾”，at odds with 是这一意思的固定搭配，且段后描述古人“一吃多就想动”，正与“久坐不动”相反，逻辑闭环。\nA) attributes 无 at attributes with 搭配：attributes 作名词指“特征、属性”，没有 at attributes with 的固定结构，硬塞语义也不通。\nD) conservation 话题不对：conservation 指“资源保护”，与人体饮食机制毫无关联，且无 at conservation with 搭配。\nJ) mortality 另有归宿，且无此搭配：mortality 是“死亡率”，要留给 28 空的 increased __ risk；且无 at mortality with 搭配。\nL) plights 无搭配，语义也不对：plight 是“困境”，没有 at plights with；说“这与生物程序处于困境”也不通顺。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "attributes"
+                },
+                {
+                  "key": "B",
+                  "text": "comprised"
+                },
+                {
+                  "key": "C",
+                  "text": "conceded"
+                },
+                {
+                  "key": "D",
+                  "text": "conservation"
+                },
+                {
+                  "key": "E",
+                  "text": "diminishing"
+                },
+                {
+                  "key": "F",
+                  "text": "far"
+                },
+                {
+                  "key": "G",
+                  "text": "inclined"
+                },
+                {
+                  "key": "H",
+                  "text": "indulging"
+                },
+                {
+                  "key": "I",
+                  "text": "innumerable"
+                },
+                {
+                  "key": "J",
+                  "text": "mortality"
+                },
+                {
+                  "key": "K",
+                  "text": "odds"
+                },
+                {
+                  "key": "L",
+                  "text": "plights"
+                },
+                {
+                  "key": "M",
+                  "text": "regulatory"
+                },
+                {
+                  "key": "N",
+                  "text": "still"
+                },
+                {
+                  "key": "O",
+                  "text": "unmatchable"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) regulatory\n【原文】“调节性的”机制，与“防止体重过量积累”一一对应\nI) innumerable “无数的”修饰不可数的 mechanism 不通：innumerable 强调数量上无穷多，通常修饰复数可数名词；说“大脑无数的机制”既不贴合 a mechanism 的单数定指，也无法解释它“防止体重堆积”的具体功能。\nO) unmatchable 感情色彩偏褒，且不是科学常用搭配：unmatchable 意为“无与伦比”，是评价色彩词；下文是中性、客观的生理机制描述，且 unmatchable mechanism 几乎不出现于科学语篇。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "attributes"
+                },
+                {
+                  "key": "B",
+                  "text": "comprised"
+                },
+                {
+                  "key": "C",
+                  "text": "conceded"
+                },
+                {
+                  "key": "D",
+                  "text": "conservation"
+                },
+                {
+                  "key": "E",
+                  "text": "diminishing"
+                },
+                {
+                  "key": "F",
+                  "text": "far"
+                },
+                {
+                  "key": "G",
+                  "text": "inclined"
+                },
+                {
+                  "key": "H",
+                  "text": "indulging"
+                },
+                {
+                  "key": "I",
+                  "text": "innumerable"
+                },
+                {
+                  "key": "J",
+                  "text": "mortality"
+                },
+                {
+                  "key": "K",
+                  "text": "odds"
+                },
+                {
+                  "key": "L",
+                  "text": "plights"
+                },
+                {
+                  "key": "M",
+                  "text": "regulatory"
+                },
+                {
+                  "key": "N",
+                  "text": "still"
+                },
+                {
+                  "key": "O",
+                  "text": "unmatchable"
+                }
+              ],
+              "answer": "G",
+              "type": "选词填空",
+              "analysis": "【答案】G（官方答案）\n应填 G) inclined\n【原文】be inclined to do=倾向做某事，唯一能接 to do\nI) innumerable 不接 to do：innumerable 是“数不清的”，不与不定式连用，语法上直接不通；且语义“你是数不清的”更是荒谬。\nO) unmatchable 不接 to do，语义也不对：unmatchable 强调“无与伦比”，既无 be unmatchable to do 的常规结构，也与“倾向少吃”的中性补偿描述毫无关系。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "attributes"
+                },
+                {
+                  "key": "B",
+                  "text": "comprised"
+                },
+                {
+                  "key": "C",
+                  "text": "conceded"
+                },
+                {
+                  "key": "D",
+                  "text": "conservation"
+                },
+                {
+                  "key": "E",
+                  "text": "diminishing"
+                },
+                {
+                  "key": "F",
+                  "text": "far"
+                },
+                {
+                  "key": "G",
+                  "text": "inclined"
+                },
+                {
+                  "key": "H",
+                  "text": "indulging"
+                },
+                {
+                  "key": "I",
+                  "text": "innumerable"
+                },
+                {
+                  "key": "J",
+                  "text": "mortality"
+                },
+                {
+                  "key": "K",
+                  "text": "odds"
+                },
+                {
+                  "key": "L",
+                  "text": "plights"
+                },
+                {
+                  "key": "M",
+                  "text": "regulatory"
+                },
+                {
+                  "key": "N",
+                  "text": "still"
+                },
+                {
+                  "key": "O",
+                  "text": "unmatchable"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) still\n【原文】worse still=更糟的是，固定插入语\nF) far far 修饰比较级须前置：far 强化比较级时位置是 far worse（远远更糟），不能写成 worse far；且 far 作插入语没有 worse far 这种习惯用法，结构不通。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "attributes"
+                },
+                {
+                  "key": "B",
+                  "text": "comprised"
+                },
+                {
+                  "key": "C",
+                  "text": "conceded"
+                },
+                {
+                  "key": "D",
+                  "text": "conservation"
+                },
+                {
+                  "key": "E",
+                  "text": "diminishing"
+                },
+                {
+                  "key": "F",
+                  "text": "far"
+                },
+                {
+                  "key": "G",
+                  "text": "inclined"
+                },
+                {
+                  "key": "H",
+                  "text": "indulging"
+                },
+                {
+                  "key": "I",
+                  "text": "innumerable"
+                },
+                {
+                  "key": "J",
+                  "text": "mortality"
+                },
+                {
+                  "key": "K",
+                  "text": "odds"
+                },
+                {
+                  "key": "L",
+                  "text": "plights"
+                },
+                {
+                  "key": "M",
+                  "text": "regulatory"
+                },
+                {
+                  "key": "N",
+                  "text": "still"
+                },
+                {
+                  "key": "O",
+                  "text": "unmatchable"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) diminishing\n【原文】“饥饿感正在减弱”，与 halfway through 时点契合\n句意是“相当多人报告吃到一半时 __ 饥饿感”——结合“饥饿感本应随进食而下降”的生理常识，diminishing hunger（正在减弱的饥饿感）正合理；后文 but, by the end of the meal, they feel the same or higher levels of hunger than when they sat down. 用 but 转折，对照出“吃到一半饥饿在减弱，吃完反而又回来或更甚”，逻辑闭环。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "attributes"
+                },
+                {
+                  "key": "B",
+                  "text": "comprised"
+                },
+                {
+                  "key": "C",
+                  "text": "conceded"
+                },
+                {
+                  "key": "D",
+                  "text": "conservation"
+                },
+                {
+                  "key": "E",
+                  "text": "diminishing"
+                },
+                {
+                  "key": "F",
+                  "text": "far"
+                },
+                {
+                  "key": "G",
+                  "text": "inclined"
+                },
+                {
+                  "key": "H",
+                  "text": "indulging"
+                },
+                {
+                  "key": "I",
+                  "text": "innumerable"
+                },
+                {
+                  "key": "J",
+                  "text": "mortality"
+                },
+                {
+                  "key": "K",
+                  "text": "odds"
+                },
+                {
+                  "key": "L",
+                  "text": "plights"
+                },
+                {
+                  "key": "M",
+                  "text": "regulatory"
+                },
+                {
+                  "key": "N",
+                  "text": "still"
+                },
+                {
+                  "key": "O",
+                  "text": "unmatchable"
+                }
+              ],
+              "answer": "B",
+              "type": "选词填空",
+              "analysis": "【答案】B（官方答案）\n应填 B) comprised\n【原文】be comprised of=由……组成\n2023年6月英语六级真题第2套 完形填空（选词填空）的词库里有哪 15 个候选词、哪 5 个是干扰词？ 2023年6月英语六级真题第2套 完形填空（选词填空）的词库共 15 个词（A–O）：A) attributes（名词/动词，属性、特征（n.））；B) comprised（动词/形容词，构成）；C) conceded（动词，承认（不情愿地））；D) conservation（名词，保护、保存（尤指自然资源））；E) diminishing（动词/形容词，正在减少的）；F) far（副词/形容词，远）；G) inclined（形容词/动词，倾向于……的）；H) indulging（动词，沉溺、放纵）；I) innumerable（形容词，数不清的、无数的）；J) mortality（名词，死亡率）；K) odds（名词，几率）；L) plights（名词，困境、苦难（常用复数））；M) regulatory（形容词，调节的、监管的）；N) still（副词/形容词，仍然）；O) unmatchable（形容词，无与伦比的、无法匹敌的）。其中始终未被任何空选用的 5 个干扰词是：C) conceded、D) conservation、F) far、L) plights、O) unmatchable。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When psychologist Jessica Pryor lived near an internationally renowned university, she once saw a student walking into a library holding a sleeping bag and a coffee maker. She has heard of graduate students spending 12 to 18 hours at a time in the lab. Their schedules are meant to be literally punishing: If they are scientists-in-training, they won't allow themselves to watch Netflix until their experiments start generating results. \"Relationships become estranged(疏远的)—people stop inviting them to social gatherings or dinner parties, which leads them to spend even more time in the lab,\" Pryor told me."
+            },
+            {
+              "label": "B",
+              "text": "Along with other therapists, Pryor, who is now with the Family Institute at Northwestern University, is trying to sound the alarm about a tendency among young adults and college students to strive for perfection in their work—sometimes at any cost. Though it is often portrayed as a positive trait, Pryor and others say extreme perfectionism can lead to depression, anxiety, and even suicide."
+            },
+            {
+              "label": "C",
+              "text": "What's more, perfectionism seems to be on the rise. In a study of thousands of American, Canadian, and British college students published earlier this year, Thomas Curran of the University of Bath and Andrew Hill of York St. John University found that today's college students report higher levels of perfectionism than college students did during the 1990s or early 2000s. They measured three types of perfectionism: self-oriented, or a desire to be perfect; socially prescribed, or a desire to live up to others' expectations; and other-oriented, or holding others to unrealistic standards. From 1989 to 2016, they found, self-oriented perfectionism scores increased by 10 percent, socially prescribed scores rose by 33 percent, and other-oriented perfectionism increased by 16 percent."
+            },
+            {
+              "label": "D",
+              "text": "A person living with an other-oriented perfectionist might feel criticized by the perfectionist spouse for not doing household chores exactly the \"right\" way. \"One of the most common things couples argue about is the proper way of loading the dishwasher,\" says Amy Bach, a psychologist in Providence, Rhode Island."
+            },
+            {
+              "label": "E",
+              "text": "Curran describes socially prescribed perfectionism as \"My self-esteem is contingent on what other people think.\" His study didn't examine the causal reasons for its rise, but he assumes that the rise of both standardized testing and social media might play a role. These days, LinkedIn alerts us when our rival gets a new job, and Instagram can let us know how well \"liked\" our lives are compared with a friend's. In an opinion piece earlier this year, Curran and Hill argue that society has also become more dog-eat-dog. \"Over the last 50 years, public interest and civic responsibility have been progressively eroded,\" they write, \"replaced by a focus on self-interest and competition in a supposedly free and open marketplace.\" We strive for perfection, it seems, because we feel we must in order to get ahead. Michael Brustein, a clinical psychologist in Manhattan, says when he first began practicing in 2007, he was surprised by how prevalent perfectionism was among his clients, despite how little his graduate training had focused on the phenomenon. He sees perfectionism in, among others, clients who are entrepreneurs, artists, and tech employees. \"You're in New York because you're ambitious, you have this need to strive,\" he says. \"But then your whole identity gets wrapped into a goal.\""
+            },
+            {
+              "label": "F",
+              "text": "Perfectionism can, of course, be a positive force. Think of professional athletes, who train aggressively for ever-higher levels of competition. In well-adjusted perfectionism, someone who doesn't get the gold is able to forget the setback and move on. In maladaptive(不当的) perfectionism, meanwhile, people make an archive of all their failures. They revisit these archives constantly, thinking, as Pryor puts it, \"I need to make myself feel terrible so I don't do this again.\" Then they double down, \"raising the expectation bar even higher, which increases the likelihood of defeat, which makes you self-critical, so you raise the bar higher, work even harder,\" she says. Next comes failure, shame, and pushing yourself even harder toward even higher and more impossible goals. Meeting them becomes an \"all or nothing\" premise. Pryor offered this example: \"Even if I'm an incredible attorney, if I don't make partner in the same pacing as one of my colleagues, clearly that means I'm a failure.\""
+            },
+            {
+              "label": "G",
+              "text": "Brustein says his perfectionist clients tend to devalue their accomplishments, so that every time a goal is achieved, the high lasts only a short time, like \"a gas tank with a hole in it.\" If the boss says you did a great job, it's because he doesn't know anything. If the audience likes your work, that's because it's too stupid to know what good art actually is. But, therapists say, there are also different ways perfectionism manifests. Some perfectionists are always pushing themselves forward. But others actually fall behind on work, unable to complete assignments unless they are, well, perfect. Or they might handicap their performance ahead of time. They're the ones partying until 2 a.m. the night before the final, so that when the grade C rolls in, there's a ready excuse."
+            },
+            {
+              "label": "H",
+              "text": "While educators and parents have successfully convinced students of the need to be high performing and diligent, the experts told me, they haven't adequately prepared them for the inevitability of failure. Instead of praises like \"You're so smart,\" parents and educators should say things like \"You really stuck with it,\" Pryor says, to emphasize the value of perseverance over intrinsic talent. Pryor notes that many of her clients are wary she'll \"turn them into some degenerate couch potato and teach them to be okay with it.\" Instead, she tries to help them think through the parts of their perfectionism they'd like to keep, and to lose the parts that are ruining their lives."
+            },
+            {
+              "label": "I",
+              "text": "Bach, who sees many students from Brown University, says some of them don't even go out on weekends, let alone weekdays. She tells them, \"Aim high, but get comfortable with good enough.\" When they don't get some award, she encourages them to remember that \"one outcome is not a basis for a broad conclusion about the person's intelligence, qualifications, or potential for the future.\""
+            },
+            {
+              "label": "J",
+              "text": "The treatment for perfectionism might be as simple as having patients keep logs of things they can be proud of, or having them behave imperfectly in small ways, just to see how it feels. \"We might have them hang the towels crooked(不正的) or wear some clothing inside out,\" says Martin Antony, a professor in the department of psychology at Ryerson University in Toronto."
+            },
+            {
+              "label": "K",
+              "text": "Brustein likes to get his perfectionist clients to create values that are important to them, then try to shift their focus to living according to those values rather than achieving specific goals. It's a play on the \"You really stuck with it\" message for kids. In other words, it isn't about doing a headstand in yoga class; it's about going to yoga class in the first place, because you like to be the kind of person who takes care of herself. But he warns that some people go into therapy expecting too much—an instant transformation of themselves from a pathological(病态的) perfectionist to a (still high-achieving) non-perfectionist. They try to be perfect, in other words, at no longer being perfect."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Socially prescribed perfectionism is described as one's self-esteem depending on other people's opinion.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】Curran describes socially prescribed perfectionism as \"My self-esteem is contingent on what other people think.\"\nsocially prescribed, or a desire to live up to others' expectations 给的是另一个角度的简短解释，且整段重心是 three types of perfectionism 的清单与上升百分比，不是题干要求的 self-esteem 定义。"
+            },
+            {
+              "number": 37,
+              "stem": "Jessica Pryor has learned that some graduate students work such long hours in the lab that they have little time for entertainment or socializing.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】She has heard of graduate students spending 12 to 18 hours at a time in the lab.\nPryor, who is now with the Family Institute at Northwestern University, is trying to sound the alarm 是讲她的角色与态度，没有讲研究生在实验室待多少小时。"
+            },
+            {
+              "number": 38,
+              "stem": "The author believes perfectionism may sometimes be constructive.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（弱锚点）\n【原文】Perfectionism can, of course, be a positive force.\nThough it is often portrayed as a positive trait, Pryor and others say extreme perfectionism can lead to depression, anxiety, and even suicide——一个 Though 让步从句之后立刻反转，全段立场是警告，而非赞成完美主义可以是建设性的。"
+            },
+            {
+              "number": 39,
+              "stem": "It is found that perfectionism is getting more and more prevalent among college students.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】What's more, perfectionism seems to be on the rise. In a study of thousands of American, Canadian, and British college students published earlier this year, Thomas Curran of the University of Bath and Andrew Hill of York St. John University found that today's college students report higher levels of perfectionism than college students did during the 1990s or early 2000s.\n更进一步，完美主义似乎在上升。今年早些时候发表的一项针对美国、加拿大和英国数千名大学生的研究中，Curran 和 Hill 发现：今天的大学生报告的完美主义水平高于 1990 年代或 2000 年代初的大学生。"
+            },
+            {
+              "number": 40,
+              "stem": "Some experts suggest parents and educators should prepare students for failures.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（强锚点）\n【原文】While educators and parents have successfully convinced students of the need to be high performing and diligent, the experts told me, they haven't adequately prepared them for the inevitability of failure.\nshe encourages them to remember that one outcome is not a basis for a broad conclusion 主体是心理学家 Bach 对她的学生，跟 parents and educators 的应然建议不在同一层。"
+            },
+            {
+              "number": 41,
+              "stem": "Some therapists warn that young adults tend to pursue perfection in their work.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（弱锚点）\n【原文】Along with other therapists, Pryor, who is now with the Family Institute at Northwestern University, is trying to sound the alarm about a tendency among young adults and college students to strive for perfection in their work—sometimes at any cost.\nThomas Curran of the University of Bath and Andrew Hill of York St. John University found 的主体是研究人员的统计发现，不是治疗师发警告。"
+            },
+            {
+              "number": 42,
+              "stem": "Psychologist Amy Bach encourages her students to aim high but be content with something less than perfect.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（强锚点）\n【原文】She tells them, \"Aim high, but get comfortable with good enough.\"\nBrustein likes to get his perfectionist clients to create values that are important to them 主体是 Brustein，且策略不同。"
+            },
+            {
+              "number": 43,
+              "stem": "A clinical psychologist finds perfectionism is widespread among his clients.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】Michael Brustein, a clinical psychologist in Manhattan, says when he first began practicing in 2007, he was surprised by how prevalent perfectionism was among his clients, despite how little his graduate training had focused on the phenomenon.\na tendency among young adults and college students to strive for perfection 的主体是 therapists 集体，并未点名 clinical psychologist 与他的 clients。"
+            },
+            {
+              "number": 44,
+              "stem": "In trying to overcome perfectionism, some people are still pursuing perfection.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】They try to be perfect, in other words, at no longer being perfect.\nhang the towels crooked or wear some clothing inside out 是治疗手段的具体例子，与题干悖论不在同一层。"
+            },
+            {
+              "number": 45,
+              "stem": "In pursuing perfection, some perfectionists fail to complete their tasks on time.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】But others actually fall behind on work, unable to complete assignments unless they are, well, perfect.\n2023年6月英语六级真题第2套 长篇阅读（信息匹配） 第 1 篇 39. It is found that perfectionism is getting more and more prevalent among college students. 这句陈述的信息出自第几段？为什么？ 2023年6月英语六级真题第2套 长篇阅读（信息匹配） 第 1 篇 第 39 句的信息出自 C 段（强锚点句）。C 段定位句为「What's more, perfectionism seems to be on the rise. In a study of thousands of American, Canadian, and British college students published earlier this year, Thomas Curran of the University of Bath and Andrew Hill of York St. John University found that today's college students report higher levels of perfectionism than college students did during the 1990s or early 2000s.」（更进一步，完美主义似乎在上升。今年早些时候发表的一项针对美国、加拿大和英国数千名大学生的研究中，Curran 和 Hill 发现：今天的大学生报告的完美主义水平高于 1990 年代或 2000 年代初的大学生。）。陈述句是对原文的同义改写（perfectionism is getting more and more prevalent among college students ↔ perfectionism seems to be on the rise）。与之话题相邻的 B 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "How on earth did we come to this? We protect our children obsessively from every harm; we scrutinize every carer, teacher or doctor with whom they come into contact. Yet despite all this, one group, which in no way has their best interests at heart, has almost unconstrained access."
+            },
+            {
+              "label": "B",
+              "text": "We seem to take it for granted that advertisers and marketers are allowed to condition even the youngest children. Before children have even developed a proper sense of their own identity, or learned to handle money, they're encouraged to associate status and self-worth with stuff, and to look to external things such as fame and wealth for validation. We're turning out little consumers rather than young citizens who will value themselves for what they contribute to the society in which they live."
+            },
+            {
+              "label": "C",
+              "text": "We've reached this point so gradually that many of us have never questioned it. It's crept up on us in the 60 years since advertisers started to target the young and found that they could recruit them to a commercial assault on their parents. We've come to know it as \"pester power\" or the ability of children to pressure parents to make certain purchases."
+            },
+            {
+              "label": "D",
+              "text": "Many psychologists, child development experts and educators point to research suggesting that this emerging cradle-to-grave consumerism is contributing to growing rates of low self-esteem, depression and other forms of mental illness."
+            },
+            {
+              "label": "E",
+              "text": "Not all psychologists agree. There're plenty working hand in glove with a ￡12bn-a-year industry that has turned the manipulation of adult emotions and desires into an art form—often literally. It's also one that's forever developing new ways to persuade our children to desire material possessions, and because of advertisements' viral effect they only need to infect a few to reach the many. Advertising and marketing can serve a useful purpose for children. Marketing may help socialize children as consumers, inform them about products, and help them carve out unique identities as they reach adulthood."
+            },
+            {
+              "label": "F",
+              "text": "Then, should we ban all advertising aimed at young children? I say yes."
+            },
+            {
+              "label": "G",
+              "text": "Of course there'll be plenty of objections to an outright ban on advertising to the under-11s. There'll be those who argue that would be a breach of freedom of speech and infringe the rights of corporations to brainwash little children into demanding their products."
+            },
+            {
+              "label": "H",
+              "text": "Most parents hate what advertising does to their children, but we do have the power to end it and let our children grow up free from many of the pressures of consumerism until they're old enough to make their own decisions. And though advertising is only part of an all-pervasive(无处不在的) marketing culture we need to make a start somewhere. Let's ban all advertising targeting children of primary school age and younger now."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "Which group of people does the author say has almost unrestricted access to children?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Advertisers."
+                },
+                {
+                  "key": "B",
+                  "text": "Carers."
+                },
+                {
+                  "key": "C",
+                  "text": "Teachers."
+                },
+                {
+                  "key": "D",
+                  "text": "Doctors."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Yet despite all this, one group, which in no way has their best interests at heart, has almost unconstrained access.\nA) ✓ 正确：advertisers and marketers are allowed to condition even the youngest children ↔ Advertiser\nB) 与原文相反：Carers 属于 every carer, teacher or doctor with whom they come into contact 中被严格审查的一方，是「保护孩子\nC) 与原文相反：Teachers 同样位于 every carer, teacher or doctor 列表中，是被审查的对象，不是「几乎不受限地接触孩子」的群体。\nD) 与原文相反：Doctors 也是 every carer, teacher or doctor 列表中的被审查对象，原文未把医生列为「几乎不受限接触孩子」的群体。"
+            },
+            {
+              "number": 47,
+              "stem": "What kind of people should we enable children to become according to the author?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Those who look to fame and wealth for external and ultimate validation."
+                },
+                {
+                  "key": "B",
+                  "text": "Those who value themselves because of their contribution to society."
+                },
+                {
+                  "key": "C",
+                  "text": "Those who associate self-worth with the ability to handle money."
+                },
+                {
+                  "key": "D",
+                  "text": "Those who have developed a proper sense of their own identity."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】We're turning out little consumers rather than young citizens who will value themselves for what they contribute to the society in which they live.\nA) 与原文相反：Those who look to fame and wealth for external and ultimate validation 对应 to look to exter\nB) ✓ 正确：young citizens who will value themselves for what they contribute to the society in which \nC) 偷换概念：Those who associate self-worth with the ability to handle money 把 learned to handle money \nD) 偷换概念：Those who have developed a proper sense of their own identity 同样取自 Before children have ev"
+            },
+            {
+              "number": 48,
+              "stem": "Many child development experts and educators call attention to research that suggests _____.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "life-long consumerism is causing more and more cases of psychological problems."
+                },
+                {
+                  "key": "B",
+                  "text": "increasing commercialization of education is eroding many children's self-esteem."
+                },
+                {
+                  "key": "C",
+                  "text": "the growing desire for wealth is contributing to a rising rate of depression."
+                },
+                {
+                  "key": "D",
+                  "text": "the craving for purchasing material things is nurtured throughout one's life."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Many psychologists, child development experts and educators point to research suggesting that this emerging cradle-to-grave consumerism is contributing to growing rates of low self-esteem, depression and other forms of mental illness.\nA) ✓ 正确：this emerging cradle-to-grave consumerism ↔ life-long consumerism growing rates of low sel\nB) 无中生有：increasing commercialization of education 在原文中完全没有提及，作者批评的是面向孩子的广告与营销，不是教育自身的商业化。\nC) 以偏概全：the growing desire for wealth 只是原文 fame and wealth 的一半；a rising rate of depression 也只是 low\nD) 答非所问：the craving for purchasing material things is nurtured throughout one's life 说的是「物欲是如何被培养起"
+            },
+            {
+              "number": 49,
+              "stem": "What does the author imply about the impact of advertising?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is actually infectious to many rather than a few."
+                },
+                {
+                  "key": "B",
+                  "text": "It is rooted in our desire for material possessions."
+                },
+                {
+                  "key": "C",
+                  "text": "It is comparable to that of virus."
+                },
+                {
+                  "key": "D",
+                  "text": "It is literally limited to children."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（推断题）\n【原文】It's also one that's forever developing new ways to persuade our children to desire material possessions, and because of advertisements' viral effect they only need to infect a few to reach the many.\nA) ✓ 正确：they only need to infect a few to reach the many ↔ It is actually infectious to many rathe\nB) 与原文相反：rooted in our desire for material possessions 把因果反过来——原文是「广告诱使孩子产生物欲」（persuade our childre\nC) 过度推断：comparable to that of virus 已经超出原文 viral effect 的比喻：原文只说「影响具有病毒式扩散效应」，并没断言「广告影响可与病毒影响相提并论」\nD) 与原文相反：literally limited to children 把广告影响范围缩限到「仅限于儿童」，而原文 infect a few to reach the many 恰恰强调影响会"
+            },
+            {
+              "number": 50,
+              "stem": "What is the opponents' argument against a complete ban on advertising to young children?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It would deprive them of the chance to learn about products."
+                },
+                {
+                  "key": "B",
+                  "text": "It would render them unable to carve out unique identities."
+                },
+                {
+                  "key": "C",
+                  "text": "It would breach their freedom as would-be consumers."
+                },
+                {
+                  "key": "D",
+                  "text": "It would violate the rights endowed upon advertisers."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】There'll be those who argue that would be a breach of freedom of speech and infringe the rights of corporations to brainwash little children into demanding their products.\nA) 张冠李戴：deprive them of the chance to learn about products 取自 Marketing may help socialize childre\nB) 张冠李戴：render them unable to carve out unique identities 同样取自 help them carve out unique identiti\nC) 偷换概念：breach their freedom as would-be consumers 中 their 指 young children；但 a breach of freedom \nD) ✓ 正确：infringe the rights of corporations to brainwash little children into demanding their prod"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Many oppose workplace surveillance, because of the inherent dehumanizing effect it has and the relentless pressure it brings. But it's on the rise around the world as firms look to become more efficient by squeezing more productivity from their workers. More than half of companies with over $750m in annual revenue used \"non-traditional\" monitoring techniques on staff last year."
+            },
+            {
+              "label": "B",
+              "text": "Monitoring employee performance gives firms the ability to assess how their staff are performing and interacting, which can be good for both the firm and employees themselves. A growing number of analytics companies offer this service. They gather \"data exhaust\" left by employees' email and instant messaging apps, and use name badges equipped with radio-frequency identification devices and microphones. These can check how much time you spend talking, your volume and tone of voice, even if you do not dominate conversations. While this may sound intrusive, exponents argue that it can also protect employees against bullying and sexual harassment."
+            },
+            {
+              "label": "C",
+              "text": "Some of this data analysis can produce unexpected results. For example, it was found that people who sat at 12-person lunch tables tended to interact, share ideas more and outperform those who regularly sat at four-person tables, a fact that would probably have gone undetected without such data analysis."
+            },
+            {
+              "label": "D",
+              "text": "Over the last few years a Stockholm co-working space called Epicenter has gone much further and holds popular \"chipping parties\", where people can have microchips implanted in their hands. They can use the implants to access electronically-controlled doors, or monitor how typing speed correlates with heart rate. Implanted chips may seem extreme, but it is a relatively small step from ID cards and biometrics to such devices."
+            },
+            {
+              "label": "E",
+              "text": "As long as such schemes are voluntary, there will probably be a growing number of convenience-oriented uses so that a substantial number of workers would opt to have a chip inserted. But if implanted chips are used to reduce slack time or rest breaks, that could prove to be detrimental. And if surveillance tools take away autonomy, that's when they prove most unpopular. A lot depends on how such monitoring initiatives are communicated and this could prevent possible revolts being staged."
+            },
+            {
+              "label": "F",
+              "text": "If bosses don't communicate effectively, employees assume the worst. But if they're open about the information they're collecting and what they're doing with it, research suggests 46% of employees are generally okay with it. Although many such monitoring schemes use anonymised data and participation is voluntary, many staffers remain sceptical and fear an erosion of their civil liberties."
+            },
+            {
+              "label": "G",
+              "text": "So workplace surveillance could be empowering for staff and useful for companies looking to become more efficient and profitable. But implemented in the wrong way, it could also become an unpopular tool of oppression that proves counterproductive."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why are many people opposed to monitoring employee performance?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It puts workers under constant pressure."
+                },
+                {
+                  "key": "B",
+                  "text": "It is universally deemed anti-human by nature."
+                },
+                {
+                  "key": "C",
+                  "text": "It does both mental and physical harm to employees monitored."
+                },
+                {
+                  "key": "D",
+                  "text": "It enables firms to squeeze maximal productivity from employees."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Many oppose workplace surveillance, because of the inherent dehumanizing effect it has and the relentless pressure it brings.\nA) ✓ 正确：the relentless pressure it brings ↔ puts workers under constant pressure 预判中\"持续压力\"一条被A项con\nB) 过度推断：原文说监控具有inherent dehumanizing effect,只是描述其内在属性,并未声称这一点被普遍认同;B项把它升级为universally deemed anti-\nC) 无中生有：原文只提及dehumanizing effect与relentless pressure,均偏心理与人格层面;C项添加physical harm,原文无任何关于身体伤害的表述。\nD) 答非所问：squeeze maximal productivity复述的是企业立场——原文firms look to become more efficient by squeezing m"
+            },
+            {
+              "number": 52,
+              "stem": "What is the supporters' argument for workplace surveillance?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It enables employees to refrain from dominating conversations."
+                },
+                {
+                  "key": "B",
+                  "text": "It enhances employees' identification with firms they work in."
+                },
+                {
+                  "key": "C",
+                  "text": "It can alert employees to intrusion into their privacy."
+                },
+                {
+                  "key": "D",
+                  "text": "It can protect employees against aggressive behavior."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】While this may sound intrusive, exponents argue that it can also protect employees against bullying and sexual harassment.\nA) 偷换概念：原文These can check how much time you spend talking, your volume and tone of voice, even if \nB) 无中生有：B项enhances employees' identification with firms谈的是员工对公司的认同感,原文整段无任何提及\"员工认同公司\"的语义。\nC) 与原文相反：原文While this may sound intrusive承认监控\"听起来侵犯隐私\",但支持者的argument是against bullying而非against intr\nD) ✓ 正确：protect employees against bullying and sexual harassment ↔ protect employees against aggre"
+            },
+            {
+              "number": 53,
+              "stem": "What does the author want to show by the example of different numbers of people interacting at lunch tables?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Data analysis is key to the successful implementation of workplace surveillance."
+                },
+                {
+                  "key": "B",
+                  "text": "Analyzing data gathered from workers can yield something unexpected."
+                },
+                {
+                  "key": "C",
+                  "text": "More workmates sitting at a lunch table tend to facilitate interaction and idea sharing."
+                },
+                {
+                  "key": "D",
+                  "text": "It is hard to decide on how many people to sit at a lunch table without data analysis."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（例证目的题）\n【原文】Some of this data analysis can produce unexpected results. For example, it was found that people who sat at 12-person lunch tables tended to interact, share ideas more and outperform those who regularly sat at four-person tables, a fact that would probably have gone undetected without such data analysis.\nA) 过度推断：原文从未声称数据分析是监控成功实施的key;论点只是说\"数据分析能产生意外结果\",而非\"数据分析是监控成功的关键\";key一词无原文支撑。\nB) ✓ 正确：Some of this data analysis can produce unexpected results. ↔ Analyzing data gathered from \nC) 答非所问：C项More workmates sitting at a lunch table tend to facilitate interaction and idea sharing字\nD) 偷换概念：原文末尾a fact that would probably have gone undetected without such data analysis强调的是\"数据分析揭示了"
+            },
+            {
+              "number": 54,
+              "stem": "What does much of the positive effect of monitoring initiatives depend on?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "How frequently employees are to be monitored."
+                },
+                {
+                  "key": "B",
+                  "text": "What specific personal information is being excluded."
+                },
+                {
+                  "key": "C",
+                  "text": "What steps are taken to minimize their detrimental impact."
+                },
+                {
+                  "key": "D",
+                  "text": "How well bosses make known their purpose of monitoring."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】A lot depends on how such monitoring initiatives are communicated and this could prevent possible revolts being staged.\nA) 无中生有：原文从未提到监控的frequency(频率),只谈how communicated;A项把\"如何沟通\"偷换为\"多频繁地监控\",原文无任何对应。\nB) 偷换概念：原文many such monitoring schemes use anonymised data谈匿名化处理,但语境是\"虽然匿名,员工仍恐惧\";B项specific perso\nC) 过度推断：原文确实提到detrimental一词,但句子是\"如果用监控减少休息,可能detrimental\";题干问的是\"positive effect depend on\",答案应回到A \nD) ✓ 正确：how such monitoring initiatives are communicated ↔ How well bosses make known their purpos"
+            },
+            {
+              "number": 55,
+              "stem": "What concern do monitoring initiatives cause among many staffers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They may empower employers excessively."
+                },
+                {
+                  "key": "B",
+                  "text": "They may erode the workplace environment."
+                },
+                {
+                  "key": "C",
+                  "text": "They may infringe upon staffers' entitled freedom."
+                },
+                {
+                  "key": "D",
+                  "text": "They may become counterproductive in the long run."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Although many such monitoring schemes use anonymised data and participation is voluntary, many staffers remain sceptical and fear an erosion of their civil liberties.\nA) 与原文相反：原文workplace surveillance could be empowering for staff中的empower指的是\"赋权员工\",而非\"赋权雇主\";A项empowe\nB) 偷换概念：原文用an erosion of their civil liberties,erosion的对象是公民自由,而非workplace environment;B项保留了erosio\nC) ✓ 正确：an erosion of their civil liberties ↔ infringe upon staffers' entitled freedom 预判的\"公民自由被侵蚀\nD) 张冠李戴：an unpopular tool of oppression that proves counterproductive是作者在末段的两面性总评,主体是作者而非many staf"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n随着中国经济的快速发展和人们生活水平的稳步提高,城市居民对环境和生活品质的要求越来越高。中国地方政府更加注重公共设施的建设和改进,以更好地满足人们的需求。通过兴建新的广场、公园和公共绿地或对原有公共场地重新加以规划改造,许多城市为市民提供了更多休闲和社交的场所。 如今,政府出资购置的健身器械和铺设的健身步道在不少城市随处可见,既明显改善了市民户外活动的条件,又使城市更加美丽。",
+              "analysis": "【参考译文】\nWith the rapid development of China's economy and the steady improvement of people's living standards, urban residents are placing increasingly high demands on the environment and the quality of life. To meet these rising demands, Chinese local governments are attaching greater importance to the construction and improvement of public facilities. By building new squares, parks and public green spaces, or redesigning and renovating existing public areas, many cities have provided their citizens with more places for leisure and social activities. Today, government-funded fitness equipment and newly paved fitness trails can be seen everywhere in many cities, which has not only markedly improved the conditions for residents' outdoor activities but also made the cities more beautiful."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/",
+    "fetchedAt": "2026-11-15",
+    "passages": 7,
+    "sentences": 43
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2023-06-2/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

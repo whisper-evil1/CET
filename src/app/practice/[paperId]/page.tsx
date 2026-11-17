@@ -44,6 +44,8 @@ export default async function PracticePage({
   });
 
   if (!paper) notFound();
+  // 正文没补齐的卷子不进刷题页：进来是一张空卷，不如回首页看「待补」标记
+  if (paper.status !== "ready") redirect("/#papers");
 
   // 有真实 Section 就用真实数据；否则把老 Passage 包装成单个 reading section
   const sections: PracticePaper["sections"] =
@@ -53,6 +55,7 @@ export default async function PracticePage({
           order: section.order,
           type: section.type as SectionType,
           title: section.title,
+          note: section.note,
           timeLimit: section.timeLimit,
           passages: section.passages.map((passage) => ({
             id: passage.id,
@@ -61,7 +64,8 @@ export default async function PracticePage({
             paragraphs: parseParagraphs(passage.paragraphs),
             audioUrl: passage.audioUrl,
             audioDuration: passage.audioDuration,
-            transcript: parseTranscript(passage.transcript),
+            // 原文不下发到浏览器：听力只给音频，页面上不展示文本
+            transcript: [],
             questions: passage.questions.map((question) => ({
               id: question.id,
               number: question.number,
@@ -90,7 +94,8 @@ export default async function PracticePage({
               paragraphs: parseParagraphs(passage.paragraphs),
               audioUrl: passage.audioUrl,
               audioDuration: passage.audioDuration,
-              transcript: parseTranscript(passage.transcript),
+              // 原文不下发到浏览器：听力只给音频，页面上不展示文本
+            transcript: [],
               questions: passage.questions.map((question) => ({
                 id: question.id,
                 number: question.number,

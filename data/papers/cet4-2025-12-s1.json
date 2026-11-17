@@ -1,0 +1,2615 @@
+{
+  "id": "cet4-2025-12-s1",
+  "level": "CET4",
+  "year": 2025,
+  "month": 12,
+  "setNo": 1,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose the student union of your university is collecting opinions on improving its work for the coming year. You are now to write a response by suggesting how it can better enrich student life. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nI am truly glad that the student union is collecting our opinions for the coming year, and I would like to share a few thoughts on how campus life could become richer and more colourful.\n\nTo begin with, I suggest that more student clubs be set up, ranging from photography to debating, so that everyone can find a hobby and make new friends. It would also be helpful if the union organized regular sports meets and art festivals, because such events relax us after study and build a stronger sense of community. Another idea is to invite experts to hold lectures and workshops, which would broaden our horizons and prepare us for future careers.\n\nI believe these suggestions, if adopted, will make our daily life on campus far more enjoyable. Thank you for listening, and I am always ready to offer any help the union may need."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "听力为历年真题原文，题目与答案为官方标准答案；在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 20,
+              "text": "A terrified cat has survived a five-mile round trip under the engine cover of a car on a school run. The black cat was found curled up under the engine cover of David King's car when he decided to do an oil check after dropping his grandson off at school in Kent.",
+              "zh": "一只受惊的猫在一辆汽车的引擎盖下完成了五英里的往返行程，这辆车当时正在接送孩子上学。当David King在Kent郡送完孙子上学后决定检查机油时,发现这只黑猫蜷缩在他汽车的引擎盖下。"
+            },
+            {
+              "id": 2,
+              "start": 20.4,
+              "end": 28,
+              "text": "Mr King's wife said her husband had come \"running in\" and was \"shouting for me to come have a look\".",
+              "zh": "King先生的妻子说,她丈夫\"跑进来\"\"喊我过去看看\"。"
+            },
+            {
+              "id": 3,
+              "start": 28.4,
+              "end": 51,
+              "text": "\"We weren't even sure it was alive, so I gently pushed it with a stick to check it was breathing and saw it was a terrified little cat. It reversed even further into the engine and was stuck. I tried to reach it, but it was too far down and there wasn't any way I could get it out.\"",
+              "zh": "\"我们甚至不确定它是否还活着,所以我用一根棍子轻轻推了推它,确认它还在呼吸,发现是一只受惊的小猫。它往引擎深处又退了退,被卡住了。我试图够到它,但它在太深的地方,我没办法把它弄出来。\""
+            },
+            {
+              "id": 4,
+              "start": 51.4,
+              "end": 59,
+              "text": "Following a rescue by UK charity Cats Protection, the four-year-old cat was later reunited with its owner, Mr King's neighbour.",
+              "zh": "经过英国慈善机构Cats Protection的救援,这只四岁的猫后来与它的主人——King先生的邻居团聚了。"
+            }
+          ],
+          "audioDuration": 59,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "Where was the black cat found?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Outside the office of a charity foundation."
+                },
+                {
+                  "key": "B",
+                  "text": "Inside the car of David King's neighbour."
+                },
+                {
+                  "key": "C",
+                  "text": "Under the engine cover of a man's car."
+                },
+                {
+                  "key": "D",
+                  "text": "At the gate of a grade school in Kent."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：The black cat was found curled up under the engine cover of David King's car when he decided to do an oil check after dropping his grandson off at school in Kent.信号：found ＋ 地点介词短语 。答案句的信号是动词 found 紧跟一个表地点的介词短语 found curled up under the engine cover of David King's car——题干问…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项把后文出现的 UK charity Cats Protection 里的 charity 一词搬来，编成『慈善机构门口』这个地点。可录音里 charity 只用来说明谁救的猫，从没说猫是在慈善机构门口被发现的，属听到 charity 就想选的原词陷阱。 借用原文：reunited with its owner, Mr King's neighbour",
+                "B": "张冠李戴：选项把末段的 Mr King's neighbour（邻居）搬来，说猫是在『邻居的车里』被发现。但邻居在录音里是猫的主人、出现在结局处，发现猫的车是金先生自己的车，把发现地点安到邻居车上是张冠李戴。 借用原文：after dropping his grandson off at school in Kent",
+                "D": "原词陷阱：选项抓住原文的 school in Kent，把『学校门口』说成发现地点。可录音里 school 是金先生送孙子去的地方、是事情发生前的背景，猫是他送完孙子、回来做机油检查时才在引擎盖下被发现的，发现地不是学校门口。",
+                "C": "正确项：与答案句同义替换（under the engine cover of David King's car ↔ Under the engine cover of a man's car. 人名换成泛称 a man）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The black cat was found curled up under the engine cover of David King's car when he decided to do an oil check after dropping his grandson off at school in Kent.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What do we learn about the cat at the end of the news report?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It got reunited with its owner."
+                },
+                {
+                  "key": "B",
+                  "text": "It was injured during the rescue."
+                },
+                {
+                  "key": "C",
+                  "text": "It became a pet of Mr King's grandson."
+                },
+                {
+                  "key": "D",
+                  "text": "It was placed in the care of a UK charity."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P4）：Following a rescue by UK charity Cats Protection, the four-year-old cat was later reunited with its owner, Mr King's neighbour.信号：末段＋later标结局 。本句是录音最末一段、且含时间词 later，正对应题干的 at the end；新闻的结果通常落在最后一句，later reunited 直接交代了猫的最终下场，是答案句。",
+              "optionAnalysis": {
+                "B": "未提及：选项说猫『在救援中受伤』，但录音从头到尾只字未提受伤，末段只说被救后团聚。它利用第3段 terrified（受惊）、stuck（卡住）等词让人联想到猫很惨，进而脑补成『受伤』，实属过度推断、原文未提。",
+                "C": "张冠李戴：选项把第1段的 grandson（孙子）搬来，说猫成了金先生孙子的宠物。可孙子只在『送孙子上学』的背景里出现，录音末段明说猫团聚的对象是主人即邻居，不是被孙子养，属张冠李戴。 借用原文：Following a rescue by UK charity Cats Protection",
+                "D": "原词陷阱：选项说猫『被交由英国一家慈善机构照管』，盗用了末段 UK charity Cats Protection 这个真出现的机构。但录音里 charity 是负责『救援』的一方，救完之后猫是团聚而非留在机构照管，把过程中的救援者说成最终归宿，差在结局。",
+                "A": "正确项：与答案句同义替换（reunited with its owner ↔ It got reunited with its owner. 近乎原句的同义重述）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Following a rescue by UK charity Cats Protection, the four-year-old cat was later reunited with its owner, Mr King's neighbour.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 13.8,
+              "text": "In less than a month, the Special Olympics Spring Games will make a return to Fayetteville. The Games are coming back for the first time in five years. The event will take place at Methodist University.",
+              "zh": "不到一个月后,特殊奥林匹克春季运动会将重返Fayetteville。这是该运动会五年来首次回归。活动将在Methodist University举行。"
+            },
+            {
+              "id": 2,
+              "start": 14.2,
+              "end": 41.1,
+              "text": "Event organizer Benjamin Kowalczyk says he's excited that athletes will get a chance to come back and demonstrate their abilities. Organizers expect about 100 athletes will come out to compete in Fayetteville. They will have a variety of events to choose from, including running, throwing, and jumping. There will also be a fun tent for children. Kowalczyk said it's rewarding to see athletes with special needs triumph in the Games.",
+              "zh": "活动组织者Benjamin Kowalczyk表示,他很高兴运动员们将有机会回来展示他们的能力。组织者预计约有100名运动员将来到Fayetteville参加比赛。他们将有多种项目可供选择,包括跑步、投掷和跳跃。现场还将设有儿童趣味帐篷。Kowalczyk说,看到有特殊需求的运动员在运动会上取得胜利是很有意义的。"
+            },
+            {
+              "id": 3,
+              "start": 41.5,
+              "end": 54.5,
+              "text": "For anyone who wants to help make this year's Games a massive success, there are still opportunities to volunteer for Fayetteville's Special Olympics. Organizers encourage them to visit the Games' website to sign up.",
+              "zh": "对于任何想要帮助今年运动会取得巨大成功的人,仍有机会为Fayetteville特殊奥林匹克运动会做志愿者。组织者鼓励他们访问运动会网站进行报名。"
+            }
+          ],
+          "audioDuration": 54.5,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What will Fayetteville witness in less than a month?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The 100th anniversary celebration of Methodist University."
+                },
+                {
+                  "key": "B",
+                  "text": "The first important political event in the next five years."
+                },
+                {
+                  "key": "C",
+                  "text": "The opening of the Special Olympics Spring Games."
+                },
+                {
+                  "key": "D",
+                  "text": "The reunion of this year's Olympic gold medalists."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：In less than a month, the Special Olympics Spring Games will make a return to Fayetteville.信号：题干时间词原样出现 。录音开头 In less than a month 与题干 in less than a month 用词完全一致，这种\"题干时间状语在原文原样响起\"就是最强的定位信号，听到它，紧跟其后的主语就…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确实念到了 Methodist University（卫理公会大学），A 就把这个原词捡来编出 The 100th anniversary celebration of Methodist University.\"百年校庆\"，但原文只说赛事在该校举办，从没提任何校庆或\"100th\"，是典型听到地名就想选的原词陷阱。 借用原文：The Games are coming back for the first time in five years.",
+                "B": "原词陷阱：录音说赛事是 coming back for the first time in five years（五年来首次回归），B 把 \"five years\" 这个原词改头换面成 The first important political event in the next five years.，既把\"赛事\"偷换成\"政治大事\"，又把\"过去五年\"扭成\"未来五年\"，是盗用数字+偷换概念的双重陷阱。 借用原文：the Special Olympics Spring Games will make a return to Fayetteville",
+                "D": "偷换概念：选项 The reunion of this year's Olympic gold medalists. 借了原文反复出现的 \"Olympics\" 来误导：原文是 Special Olympics（特殊奥林匹克/残障人士运动会），D 偷偷掐掉 \"Special\" 变成普通\"Olympic gold medalists 金牌选手聚会\"，原文从未提金牌选手聚会，属偷换概念。",
+                "C": "正确项：与答案句同义替换（the Special Olympics Spring Games will make a return ↔ The opening of the Special Olympics Spring Games. 重返即开赛）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "In less than a month, the Special Olympics Spring Games will make a return to Fayetteville.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What did Benjamin Kowalczyk say is rewarding to see?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Volunteers visit the Games' website to sign up."
+                },
+                {
+                  "key": "B",
+                  "text": "Athletes with special needs triumph in the Games."
+                },
+                {
+                  "key": "C",
+                  "text": "Organizers devote their time and energy to the Games."
+                },
+                {
+                  "key": "D",
+                  "text": "Children play in a fun tent and enjoy themselves fully."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：Kowalczyk said it's rewarding to see athletes with special needs triumph in the Games.信号：题干rewarding原话再现 。录音 Kowalczyk said it's rewarding to see 把题干里的人名和评价词 \"rewarding\" 原样念出，这是\"人物+评价词\"双重信号，听到它就知道接…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音第三段确有 visit the Games' website to sign up，A 把这句原词整段搬来，但那是给\"想当志愿者的人\"的报名指引，不是 Kowalczyk \"觉得值得一看\"的事，盗用原词却答非所问。 借用原文：it's rewarding to see athletes with special needs triumph in the Games",
+                "C": "张冠李戴：选项 Organizers devote their time and energy to the Games. 看似贴合主题，但原文 Kowalczyk 评\"值得\"的是运动员取胜，并没说\"组织者投入时间精力\"这件事值得看；原文只说想帮忙的人可去志愿，把评价对象悄悄换成了组织者，属张冠李戴+未提及。 借用原文：There will also be a fun tent for children.",
+                "D": "原词陷阱：录音第二段确实念了 There will also be a fun tent for children.，D 把 \"fun tent/children\" 这组原词捡来，但那只是顺带交代赛事设施，Kowalczyk 的 \"rewarding\" 评价根本没落在孩子玩耍上，是听到原词就想选的原词陷阱。",
+                "B": "正确项：与答案句同义替换（athletes with special needs triumph in the Games ↔ Athletes with special needs triumph in the Games. 评价词后内容直接对应）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Kowalczyk said it's rewarding to see athletes with special needs triumph in the Games.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 8.5,
+              "text": "A German supermarket has been ordered to destroy its chocolate rabbits after it lost a court battle with a Swiss chocolate manufacturer.",
+              "zh": "一家德国超市在与一家瑞士巧克力制造商的法庭诉讼中败诉后,被勒令销毁其巧克力兔子产品。"
+            },
+            {
+              "id": 2,
+              "start": 8.8,
+              "end": 16.9,
+              "text": "The Swiss firm had argued its gold-wrapped chocolate rabbit deserved copyright protection from a similar product sold by the budget supermarket.",
+              "zh": "这家瑞士公司辩称,其金色包装的巧克力兔子应当受到版权保护,以防止这家廉价超市销售的类似产品侵权。"
+            },
+            {
+              "id": 3,
+              "start": 17.3,
+              "end": 34.9,
+              "text": "Switzerland's highest court agreed and overturned a ruling last year by the country's commercial court that had sided with the supermarket. It ordered that all the imitation rabbits be destroyed, but suggested the chocolate needn't be wasted. It could be melted for use in other products.",
+              "zh": "瑞士最高法院表示同意,推翻了去年该国商事法院支持超市的裁决。法院下令销毁所有仿冒兔子产品,但建议巧克力无需浪费,可以融化用于其他产品。"
+            },
+            {
+              "id": 4,
+              "start": 35.3,
+              "end": 56.4,
+              "text": "It said even though there are some differences between the two products, there was still the possibility of confusion for consumers. The Swiss manufacturer's rabbit has a red bow and bell, while the German supermarket's has a green bow and bell. The colour of the wrapper is similar, as are the illustrations of the features.",
+              "zh": "法院称,尽管两种产品之间存在一些差异,但仍有可能使消费者产生混淆。瑞士制造商的兔子有红色蝴蝶结和铃铛,而德国超市的兔子有绿色蝴蝶结和铃铛。包装纸的颜色相似,特征的图案也相似。"
+            },
+            {
+              "id": 5,
+              "start": 56.8,
+              "end": 68.3,
+              "text": "The chocolate company has been to court before to protect its popular chocolate treat. Last year, a German federal court said the shade of the gold wrapping was also protected.",
+              "zh": "这家巧克力公司此前曾诉诸法庭以保护其畅销巧克力产品。去年,德国联邦法院裁定金色包装纸的色调也受到保护。"
+            }
+          ],
+          "audioDuration": 68.3,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What has the German supermarket been ordered to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Destroy its imitation chocolate rabbits."
+                },
+                {
+                  "key": "B",
+                  "text": "Change the wrapping of its commodities."
+                },
+                {
+                  "key": "C",
+                  "text": "Compensate for the Swiss manufacturer's loss."
+                },
+                {
+                  "key": "D",
+                  "text": "Defend itself in the country's commercial court."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：A German supermarket has been ordered to destroy its chocolate rabbits after it lost a court battle with a Swiss chocolate manufacturer.信号：命令信号 ordered to 。答案句的信号是 has been ordered to destroy，ordered to 正是题干 been ordered to 的呼应，这种表命令、判决的短语就是答案落点，听…",
+              "optionAnalysis": {
+                "B": "原词陷阱：选项 Change the wrapping of its commodities. 借用了原文后文反复提到的 wrapper（包装），但原文从没要求超市改包装，命令是销毁，属听到 wrapping 就想选的原词陷阱。 借用原文：it lost a court battle with a Swiss chocolate manufacturer",
+                "C": "原词陷阱：选项 Compensate for the Swiss manufacturer's loss. 拼用了原文的 Swiss manufacturer 和 lost（败诉），但原文判的是销毁，从未提赔偿损失，是把熟词重组出的假动作。 借用原文：overturned a ruling last year by the country's commercial court",
+                "D": "原词陷阱：选项 Defend itself in the country's commercial court. 借了原文的 commercial court，但那是去年商业法院的旧判决场景，本题命令是销毁兔子，并非要超市去出庭辩护。",
+                "A": "正确项：与答案句同义替换（destroy its chocolate rabbits ↔ Destroy its imitation chocolate rabbits. 近乎同表述加补词）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "A German supermarket has been ordered to destroy its chocolate rabbits after it lost a court battle with a Swiss chocolate manufacturer.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What did Switzerland's highest court suggest about the chocolate in question?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It could be rewrapped and sold by the budget supermarket."
+                },
+                {
+                  "key": "B",
+                  "text": "It could be reshaped into animals other than rabbits."
+                },
+                {
+                  "key": "C",
+                  "text": "It could be resold cheaper to avoid waste."
+                },
+                {
+                  "key": "D",
+                  "text": "It could be reused in other products."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：It ordered that all the imitation rabbits be destroyed, but suggested the chocolate needn't be wasted. It could be melted for use in other products.信号：转折 but 后是真意 。答案句信号是转折词 but suggested the chocolate needn't be wasted，but 前讲销毁、but 后才是对巧克力的建议，转折之后才是落点，这正呼应题干…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 rewrapped and sold by the budget supermarket 搬来原文的 budget supermarket，但原文建议是熔化再用，从没说重新包装由该超市出售，是熟词拼出的假处置。 借用原文：all the imitation rabbits be destroyed",
+                "B": "原词陷阱：选项 reshaped into animals other than rabbits 借了原文 rabbits 一词臆造出改造成别的动物，原文只说熔化用于其他产品，并未提改塑成动物。 借用原文：the chocolate needn't be wasted",
+                "C": "原词陷阱：选项 resold cheaper to avoid waste 借了原文 needn't be wasted 中的 waste 概念，但原文是熔化再用以避免浪费，不是降价转售，处置动作被偷换。",
+                "D": "正确项：与答案句同义替换（melted for use in other products ↔ It could be reused in other products. 熔化再用即重复使用）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "It ordered that all the imitation rabbits be destroyed, but suggested the chocolate needn't be wasted. It could be melted for use in other products.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "Why did Switzerland's highest court overturn the commercial court's ruling?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To be fair to the German supermarkets."
+                },
+                {
+                  "key": "B",
+                  "text": "To protect chocolate retailers' interests."
+                },
+                {
+                  "key": "C",
+                  "text": "To boost the growth of the chocolate industry."
+                },
+                {
+                  "key": "D",
+                  "text": "To prevent consumers' possible confusion."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：It said even though there are some differences between the two products, there was still the possibility of confusion for consumers.信号：让步转折露真因 。答案句信号是让步结构 even though there are some differences...there was still the possibility of confusion，ev…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 To be fair to the German supermarkets. 借了原文反复出现的 German supermarket，但原文推翻原判恰恰对超市不利，目的是防混淆而非对超市公平，方向相反。 借用原文：the possibility of confusion for consumers",
+                "B": "偷换概念：选项 To protect chocolate retailers' interests. 把原文的 consumers（消费者）偷换成 retailers（零售商），原文明说担心的是消费者混淆，保护对象被换了一方。",
+                "C": "未提及：选项 To boost the growth of the chocolate industry. 借了反复出现的 chocolate，但原文从未提推动巧克力行业发展这一目的，是凭熟词臆造的目的。",
+                "D": "正确项：与答案句同义替换（the possibility of confusion for consumers ↔ To prevent consumers' possible confusion. 存在混淆即为防混淆）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "It said even though there are some differences between the two products, there was still the possibility of confusion for consumers.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 15,
+              "text": "M: Can you please hand me that book over there? It has instructions for making a winter bean salad. My sister's boyfriend is coming over for dinner. He's vegetarian, so I need to make a lot of vegetable dishes.",
+              "zh": "M: 你能把那边那本书递给我吗？上面有冬季豆子沙拉的做法。我姐姐的男朋友要过来吃晚饭。他是素食主义者，所以我得做很多蔬菜菜肴。"
+            },
+            {
+              "id": 2,
+              "start": 15.3,
+              "end": 27.7,
+              "text": "W: He only eats vegetables, no meat? That doesn't sound like a very balanced diet. How can he get enough protein? What does he do to strengthen his muscles and all that?",
+              "zh": "W: 他只吃蔬菜,不吃肉?这听起来可不像是均衡的饮食啊。他怎么获取足够的蛋白质?他怎么增强肌肉什么的?"
+            },
+            {
+              "id": 3,
+              "start": 28.1,
+              "end": 39.6,
+              "text": "M: Apparently that's no problem. He's explained this to me when we first met. He eats a variety of different vegetables and nuts, especially those with high amounts of protein.",
+              "zh": "M: 显然这不是问题。我们第一次见面时他跟我解释过。他吃各种不同的蔬菜和坚果,尤其是那些蛋白质含量高的。"
+            },
+            {
+              "id": 4,
+              "start": 40,
+              "end": 50.3,
+              "text": "W: It sounds a bit difficult, but he's done his research I suppose. What's his reasoning for being vegetarian? Is it his religion, health condition, or lifestyle?",
+              "zh": "W: 听起来有点难,不过我想他是做过研究的。他吃素的理由是什么?是宗教信仰、健康状况,还是生活方式?"
+            },
+            {
+              "id": 5,
+              "start": 50.6,
+              "end": 66.8,
+              "text": "M: He's an animal activist. He's always been very sensitive and sympathizes with animals. He's even written to his state senator about the torture of dolphins in sea parks. He says that keeping animals in zoos and parks causes them great distress.",
+              "zh": "M: 他是个动物保护主义者。他一直很敏感,同情动物。他甚至给他所在州的参议员写信,抗议海洋公园虐待海豚。他说把动物关在动物园和公园里会给它们造成巨大的痛苦。"
+            },
+            {
+              "id": 6,
+              "start": 67.1,
+              "end": 88.7,
+              "text": "W: That's a little gloomy, but I can understand that to a point. Not all zoos and animal parks have the most favorable conditions, but without them it just wouldn't be feasible to learn about animals and their environments. Besides, I don't think I could ever give up a good hot dog at a baseball game.",
+              "zh": "W: 这有点悲观,不过我在某种程度上能理解。不是所有动物园和动物公园的条件都最理想,但没有它们的话,了解动物及其生存环境根本就不可行。再说,我觉得我永远都放弃不了在棒球赛上吃根美味热狗。"
+            },
+            {
+              "id": 7,
+              "start": 89,
+              "end": 97.5,
+              "text": "M: Honestly, I agree, but just don't let him hear you say that. He's the spokesperson for his local animal rights group.",
+              "zh": "M: 老实说,我同意,不过别让他听到你这么说。他是当地动物权利组织的发言人。"
+            }
+          ],
+          "audioDuration": 97.5,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "What does the man request the woman to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Return the handbook to him."
+                },
+                {
+                  "key": "B",
+                  "text": "Make a vegetable dish."
+                },
+                {
+                  "key": "C",
+                  "text": "Pass a book to him."
+                },
+                {
+                  "key": "D",
+                  "text": "Meet his sister's boyfriend."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：Can you please hand me that book over there?信号：请求句 Can you please... 。答案句的信号是请求口吻 Can you please hand me that book over there?，Can you please 一出，后面跟的动作 han…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 的 Return the handbook to him. 用 handbook 蹭录音里的 hand me that book 的发音（hand...book），听着像，但录音说的是 hand（递）+ book（书），不是 handbook（手册），更没有 return（还）的意思。 借用原文：I need to make a lot of vegetable dishes",
+                "B": "答非所问：B 的 Make a vegetable dish. 用了录音 making a winter bean salad 里的做素菜原词，但做菜是男的自己\"I need to make\"，不是请女的做，答非所问。 借用原文：My sister's boyfriend is coming over for dinner",
+                "D": "原词陷阱：D 的 Meet his sister's boyfriend. 取自录音 My sister's boyfriend is coming over for dinner 的原词，但那只是交代背景（男友要来吃饭），并非男的请女的去见他。",
+                "C": "正确项：与答案句同义替换（hand me that book ↔ Pass a book to him. hand 与 pass 同义换词）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Can you please hand me that book over there?",
+              "type": "细节题"
+            },
+            {
+              "number": 9,
+              "stem": "What does the woman say about eating vegetables only?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It doesn't seem to be a balanced diet."
+                },
+                {
+                  "key": "B",
+                  "text": "It would reduce one's protein intake."
+                },
+                {
+                  "key": "C",
+                  "text": "It would do harm to one's muscles."
+                },
+                {
+                  "key": "D",
+                  "text": "It doesn't sound practical for her."
+                }
+              ],
+              "answer": "A",
+              "analysis": "态度观点题。答案句（P2）：He only eats vegetables, no meat? That doesn't sound like a very balanced diet.信号：评价句 That doesn't sound like... 。答案信号是女的抛出的总评价 That doesn't sound like a very balanced diet，doesn't sound lik…",
+              "optionAnalysis": {
+                "B": "原词陷阱：B 的 It would reduce one's protein intake. 蹭了录音 How can he get enough protein? 的 protein 原词，但女的只是反问\"怎么获取足够蛋白质\"来支撑她的判断，并没下\"会减少蛋白质摄入\"的结论。 借用原文：strengthen his muscles",
+                "C": "原词陷阱：C 的 It would do harm to one's muscles. 借用录音 strengthen his muscles 的 muscles 原词，但女的是问\"他怎么练肌肉\"，并没说\"会伤肌肉\"，属于无中生有地拔高。 借用原文：That doesn't sound like a very balanced diet",
+                "D": "偷换概念：D 的 It doesn't sound practical for her. 套用了录音 sound 的口吻，但女的评价的是\"这饮食不均衡\"，从没说\"对她本人不实际\"，把评判对象悄悄换成了\"对她\"。",
+                "A": "正确项：与答案句同义替换（That doesn't sound like a very balanced diet ↔ It doesn't seem to be a balanced diet. sound like 换 seem to be）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "He only eats vegetables, no meat? That doesn't sound like a very balanced diet.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 10,
+              "stem": "Why does the boyfriend of the man's sister choose to be a vegetarian?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To improve his health."
+                },
+                {
+                  "key": "B",
+                  "text": "To protect animal rights."
+                },
+                {
+                  "key": "C",
+                  "text": "To follow a trendy lifestyle."
+                },
+                {
+                  "key": "D",
+                  "text": "To stick to his religious belief."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P5）：He's an animal activist. He's always been very sensitive and sympathizes with animals.信号：亮明身份句 He's an animal activist 。答案信号是男的直接亮出男友的身份与立场 He's an animal activist，紧接 sympathizes with animals。原因题里这…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 的 To improve his health. 蹭了录音 health condition 的 health 原词，但那是女的列举可能原因时随口提的选项之一，录音随后明确否掉、给出的真实原因是动物保护，不是健康。 借用原文：Is it his religion, health condition, or lifestyle?",
+                "C": "原词陷阱：C 的 To follow a trendy lifestyle. 借用录音 lifestyle 原词，但这同样只是女的列举的待选项之一，男的回答里根本没提\"赶潮流\"，是答非所问。 借用原文：Is it his religion, health condition, or lifestyle?",
+                "D": "原词陷阱：D 的 To stick to his religious belief. 用了录音 religion 原词，且\"宗教吃素\"最符合日常常识，最易被默认选中；但录音明说原因是动物保护，宗教只是女的列举的可能性之一，并非答案。",
+                "B": "正确项：与答案句同义替换（He's an animal activist ↔ To protect animal rights. 身份具体说法换成概括目的）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "He's an animal activist. He's always been very sensitive and sympathizes with animals.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "On what point does the man agree with the woman at the end of the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The torture and distress dolphins suffer in parks."
+                },
+                {
+                  "key": "B",
+                  "text": "The necessity of having zoos and eating meat."
+                },
+                {
+                  "key": "C",
+                  "text": "The gloomy environments animals are kept in."
+                },
+                {
+                  "key": "D",
+                  "text": "The urgency of joining an animal rights group."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P6）：W: Not all zoos and animal parks have the most favorable conditions, but without them it just wouldn't be feasible to learn about animals and their environments. Besides, I don't think I could ever give up a good hot dog at a baseball game. M: Honestly, I agree.信号：赞同信号 Honestly, I agree 。答案信号是男的结尾的明确赞同 Honestly, I agree，它指向的是女的紧挨着说的两点——动物园有存在的必要 without them it just woul…",
+              "optionAnalysis": {
+                "A": "张冠李戴：A 的 The torture and distress dolphins suffer in parks. 几乎照搬录音 the torture of dolphins in sea parks 与 causes them great distress 的原词，但那是男友（动物活动家）的立场，不是男女二人结尾达成的共识，张冠李戴。 借用原文：That's a little gloomy",
+                "C": "原词陷阱：C 的 The gloomy environments animals are kept in. 蹭录音 That's a little gloomy 的 gloomy 原词，但 gloomy 是女的形容男友说法\"有点令人沮丧\"，并非两人一致认同\"动物处境阴郁\"，答非所问。 借用原文：He's the spokesperson for his local animal rights group",
+                "D": "原词陷阱：D 的 The urgency of joining an animal rights group. 借用录音 his local animal rights group 的 animal rights group 原词，但录音只是说男友是该组织发言人，根本没提\"加入组织的紧迫性\"，属凭空编造。",
+                "B": "正确项：与答案句同义替换（without them it just wouldn't be feasible to learn about animals ↔ The necessity of having zoos and eating meat. 没了就不行 = 有必要）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "W: Not all zoos and animal parks have the most favorable conditions, but without them it just wouldn't be feasible to learn about animals and their environments. Besides, I don't think I could ever give up a good hot dog at a baseball game. M: Honestly, I agree.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 4.6,
+              "text": "W: Did you see that television program on air travel last night?",
+              "zh": "W: 你昨晚看那个关于航空旅行的电视节目了吗？"
+            },
+            {
+              "id": 2,
+              "start": 4.9,
+              "end": 15.7,
+              "text": "M: Yes. The part about overcoming jetlag was interesting. I was surprised that the expert recommended not eating for the entire journey and avoiding sleeping on the plane.",
+              "zh": "M: 看了。关于克服时差反应那部分挺有意思的。我很惊讶那个专家建议整个旅程都不吃东西，还要避免在飞机上睡觉。"
+            },
+            {
+              "id": 3,
+              "start": 16.1,
+              "end": 34.5,
+              "text": "W: I was too, as I read an article on the subject in the past that suggested the opposite. It claimed that it was important not to miss meals and that taking a nap on the plane was the best way to adjust to a new time zone.",
+              "zh": "W: 我也是，因为我以前读过一篇关于这个话题的文章，建议的是相反的做法。文章说不能错过用餐很重要，而且在飞机上小睡是适应新时区的最好方法。"
+            },
+            {
+              "id": 4,
+              "start": 34.9,
+              "end": 54.5,
+              "text": "M: Well, the expert on the show did cite research supporting her recommendations, so I guess I'll give it a try next time I fly a long distance. Jetlag is a big problem for me and has been for the last few years, even though I never suffered from it before.",
+              "zh": "M: 嗯，节目里那位专家确实引用了研究来支持她的建议，所以我想下次长途飞行时试试看。时差反应对我来说是个大问题，过去几年一直这样，尽管我以前从来没有受过时差困扰。"
+            },
+            {
+              "id": 5,
+              "start": 54.9,
+              "end": 69.1,
+              "text": "W: Well, she did say that jetlag often becomes more of a problem after 40, so I guess I'm lucky that I can still adjust to different time zones well. My problem is I'm afraid to fly.",
+              "zh": "W: 嗯，她确实说过时差反应在40岁之后往往会变成更大的问题，所以我想我很幸运，还能很好地适应不同的时区。我的问题是我害怕坐飞机。"
+            },
+            {
+              "id": 6,
+              "start": 69.4,
+              "end": 81.4,
+              "text": "M: Oh, I didn't know that. Actually, my mother is terrified of airplanes to the point where she can't even fly, so our family vacations were always by car or train.",
+              "zh": "M: 哦，我不知道这个。其实我妈妈特别害怕飞机，严重到根本不能坐飞机，所以我们家的假期总是开车或坐火车。"
+            },
+            {
+              "id": 7,
+              "start": 81.8,
+              "end": 97.5,
+              "text": "W: I'm not as bad as that. I just get anxious before I fly and feel nervous the whole time we're in the air, which is why I was hoping the television program would cover that topic more than it did.",
+              "zh": "W: 我没那么严重。我只是在坐飞机前会焦虑，在空中的整个过程都感到紧张，这就是为什么我希望那个电视节目能更多地讨论这个话题，而不是像实际那样一带而过。"
+            },
+            {
+              "id": 8,
+              "start": 97.8,
+              "end": 107.1,
+              "text": "M: Yeah. That segment was too brief, especially as so many people have that problem. She said 20% of people are afraid to fly.",
+              "zh": "M: 是啊。那个部分太简短了，特别是有那么多人都有这个问题。她说20%的人害怕坐飞机。"
+            },
+            {
+              "id": 9,
+              "start": 107.4,
+              "end": 114,
+              "text": "W: Actually, it was a quarter of people, so the problem really is widespread and deserves attention.",
+              "zh": "W: 实际上是四分之一的人，所以这个问题确实很普遍，值得关注。"
+            }
+          ],
+          "audioDuration": 114,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What part of the TV program does the man say was interesting?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The part about getting over jetlag."
+                },
+                {
+                  "key": "B",
+                  "text": "The part about air travel in the past."
+                },
+                {
+                  "key": "C",
+                  "text": "The part about not eating on board the plane."
+                },
+                {
+                  "key": "D",
+                  "text": "The part about avoiding sleeping on the plane."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：The part about overcoming jetlag was interesting.信号：被问者男士的直接应答 + 评价词 interesting 。本题问的是男士，男士开口的 The part about overcoming jetlag was interesting. 就是被问者的直接应答，句中 …",
+              "optionAnalysis": {
+                "B": "未提及：The part about air travel in the past 里 air travel 是整段对话的大话题词，听着耳熟，但男士说有趣的是克服时差那部分，\"过去的航空旅行\"录音并未作为有趣的一部分提到，属拿大话题词凑出的诱选。",
+                "C": "原词陷阱：not eating on board the plane 盗用了录音 not eating for the entire journey 这个原词内容，但那是男士转述\"专家推荐\"的建议、且他说的是\"surprised（吃惊）\"，并非回答\"哪部分有趣\"。听到 not eating 就选即落陷阱。 借用原文：avoiding sleeping on the plane",
+                "D": "原词陷阱：avoiding sleeping on the plane 盗用录音 avoiding sleeping on the plane 的原词，但这与 C 一样属男士转述的专家建议、令他吃惊的内容，并不是他点名\"有趣\"的那部分（有趣的是克服时差整块），属原词陷阱。",
+                "A": "正确项：与答案句同义替换（overcoming jetlag ↔ getting over jetlag 同义短语替换 overcome=get over）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The part about overcoming jetlag was interesting.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What does the man say he will do next time he flies a long distance?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Take a nap to adjust to a new time zone."
+                },
+                {
+                  "key": "B",
+                  "text": "Have meals as usual to stay away from hunger."
+                },
+                {
+                  "key": "C",
+                  "text": "Concentrate on reading articles recommended by experts."
+                },
+                {
+                  "key": "D",
+                  "text": "Try following the advice given by the expert on the show."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：the expert on the show did cite research supporting her recommendations, so I guess I'll give it a try next time I fly a long distance.信号：表打算的信号 I'll give it a try + 时间短语 next time 。I guess I'll give it a try next time I fly a long distance 里的 I'…",
+              "optionAnalysis": {
+                "A": "张冠李戴：Take a nap to adjust to a new time zone 盗用了女士那句 taking a nap on the plane was the best way to adjust to a new time zone 的原词，但那是女士转述\"过去文章\"的主张，且专家恰恰建议\"不要睡\"，并非男士下次要做的事，属张冠李戴。 借用原文：it was important not to miss meals",
+                "B": "张冠李戴：Have meals as usual to stay away from hunger 对应女士读到的旧观点 it was important not to miss meals，而男士打算照的是\"专家建议\"，专家主张是 not eating——男士要做的恰与 B 相反，属张冠李戴兼与原文相反。 借用原文：I read an article on the subject in the past",
+                "C": "偷换概念：Concentrate on reading articles recommended by experts 把录音里的 expert 与 W 提到的 an article on the subject 拼在一起，造出\"读专家推荐的文章\"，但男士说的是 give it a try（照建议试做），并非去读文章，属偷换概念。",
+                "D": "正确项：与答案句同义替换（give it a try ↔ Try following the advice give it a try=try following，照建议试一试）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "the expert on the show did cite research supporting her recommendations, so I guess I'll give it a try next time I fly a long distance.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "Why does the woman think she is lucky?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She does not have any problem flying."
+                },
+                {
+                  "key": "B",
+                  "text": "She can spend a lot of time vacationing."
+                },
+                {
+                  "key": "C",
+                  "text": "She does not have to worry about jetlag."
+                },
+                {
+                  "key": "D",
+                  "text": "She has been well treated when traveling."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P5）：she did say that jetlag often becomes more of a problem after 40, so I guess I'm lucky that I can still adjust to different time zones well.信号：标志词 I'm lucky + that 引出理由 。I'm lucky that I can still adjust to different time zones well 里 I'm lucky 直接对应题干…",
+              "optionAnalysis": {
+                "A": "与原文相反：She does not have any problem flying 与原文相反：女士紧接着说 My problem is I'm afraid to fly，明说自己有怕飞的问题，所以\"飞行无问题\"是反着说的，且她的幸运也不是指这点。 借用原文：our family vacations were always by car or train",
+                "B": "未提及：She can spend a lot of time vacationing 里 vacation 蹭了后文男士提到的 our family vacations，但那是男士讲自家度假方式，女士的幸运与\"能度很多假\"毫无关系，属未提及。",
+                "D": "未提及：She has been well treated when traveling\"旅行中受优待\"在整段录音里没有任何对应内容，与女士的幸运（能适应时区）也不搭，属凭空捏造。",
+                "C": "正确项：与答案句同义替换（I can still adjust to different time zones well ↔ She does not have to worry about jetlag 能适应时区=不必担心时差，肯否定转换）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "she did say that jetlag often becomes more of a problem after 40, so I guess I'm lucky that I can still adjust to different time zones well.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "Why does the woman think the problem of being afraid to fly deserves attention?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has caused heavy losses to many airlines."
+                },
+                {
+                  "key": "B",
+                  "text": "It impacts female travelers more seriously."
+                },
+                {
+                  "key": "C",
+                  "text": "It has long been ignored by many experts."
+                },
+                {
+                  "key": "D",
+                  "text": "It affects twenty-five percent of people."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P9）：Actually, it was a quarter of people, so the problem really is widespread and deserves attention.信号：纠正信号 Actually + 数字 a quarter，且与题干 deserves attention 同词 。女士用 Actually, it was a quarter of people 纠正男士先前说的数字…",
+              "optionAnalysis": {
+                "A": "未提及：It has caused heavy losses to many airlines 蹭了全篇的 air travel/航空话题，但\"给航空公司造成巨额亏损\"录音从未提及，女士给的理由是比例之高，不是公司亏损，属未提及。",
+                "B": "未提及：It impacts female travelers more seriously 凭空加了\"female travelers、more seriously\"的范围与程度，录音只说影响四分之一的人、并未区分性别，属无中生有地偷加范围程度。",
+                "C": "与原文相反：It has long been ignored by many experts 借了对话反复出现的 expert 设原词诱惑，但录音说的是这问题 deserves attention（值得关注），并未说\"长期被专家忽视\"，方向相反，属与原文相反兼借词诱选。",
+                "D": "正确项：与答案句同义替换（a quarter of people ↔ twenty-five percent of people a quarter=25%，分数与百分比换算）"
+              },
+              "evidencePara": "P9",
+              "evidenceText": "Actually, it was a quarter of people, so the problem really is widespread and deserves attention.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 11.2,
+              "text": "The most common question I'm asked always centers around how to get started in user experience design, to which my response is always that nothing can substitute real-world experience.",
+              "zh": "我被问到的最常见问题总是围绕如何开始从事用户体验设计，对此我的回答始终是，没有什么能替代真实世界的经验。"
+            },
+            {
+              "id": 2,
+              "start": 11.5,
+              "end": 37.3,
+              "text": "Building the skills required of a user experience designer takes time, patience, and commitment. Higher education is a great way to equip yourself with some core skills, but it will not prepare you for actual challenges you'll face with clients' work. In other words, being proficient with a design tool and a few methods doesn't make you a user experience designer. There simply isn't a one-size-fits-all process.",
+              "zh": "培养用户体验设计师所需的技能需要时间、耐心和投入。高等教育是让你具备一些核心技能的好方法,但它不会让你为客户工作中将面临的实际挑战做好准备。换句话说,精通一个设计工具和几种方法并不能让你成为用户体验设计师。根本不存在一个放之四海而皆准的流程。"
+            },
+            {
+              "id": 3,
+              "start": 37.6,
+              "end": 51.5,
+              "text": "Being effective requires adaptability — something you don't really learn in school, much less in a 6-month training camp. It's gained through experience on the job and learning what's appropriate given the needs of the project.",
+              "zh": "要做到有效需要适应能力——这是你在学校里真正学不到的,更不用说在6个月的培训营中了。它是通过工作中的经验获得的,并学会根据项目需求选择合适的方法。"
+            },
+            {
+              "id": 4,
+              "start": 51.9,
+              "end": 88,
+              "text": "I found my way to user experience through graphic design and slowly over many different roles and experiences. That led me to become a user experience designer. It took time and commitment to continue to pursue roles within teams that I knew could teach and challenge me. That's not to say that I think my path is the only one. But once again, nothing can substitute real-world experience. You can start anywhere as long as you know your end goal and you commit to actively pursuing opportunities to learn and grow along the way.",
+              "zh": "我通过平面设计找到了进入用户体验的道路,并在许多不同的角色和经历中慢慢成长。这让我成为了一名用户体验设计师。这需要时间和投入来持续追求那些我知道能教导和挑战我的团队中的角色。这并不是说我认为我的道路是唯一的。但再次强调,没有什么能替代真实世界的经验。只要你知道自己的最终目标,并致力于积极寻求学习和成长的机会,你可以从任何地方开始。"
+            }
+          ],
+          "audioDuration": 88,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What does the speaker think is the best way to get started in user experience design?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Learning from skilled designers."
+                },
+                {
+                  "key": "B",
+                  "text": "Obtaining real-world experience."
+                },
+                {
+                  "key": "C",
+                  "text": "Joining a 6-month training camp."
+                },
+                {
+                  "key": "D",
+                  "text": "Anticipating actual challenges."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：The most common question I'm asked always centers around how to get started in user experience design, to which my response is always that nothing can substitute real-world experience.信号：nothing can substitute抬高某项 。答案信号是这句里的 nothing can substitute real-world experience（没有什么能替代真实世界的经验）——nothing …",
+              "optionAnalysis": {
+                "A": "未提及：Learning from skilled designers. 听起来很合理，但录音通篇没说过要向熟练的设计师学，它是凭常识脑补的入门方式，原文无对应。",
+                "C": "原词陷阱：Joining a 6-month training camp. 盗用了录音第三段的原词 6-month training camp，但原文是把训练营当成学不到适应力的反面例子来说的，并非入门的最佳方式，属于听到原词就想选的陷阱。 借用原文：it will not prepare you for actual challenges you'll face",
+                "D": "原词陷阱：Anticipating actual challenges. 借用了第二段原词 actual challenges，但原文说的是高等教育无法让你为真实挑战做好准备，并没说入门的最佳方式是去预判挑战，选项把原词搬过来又改了意思。",
+                "B": "正确项：与答案句同义替换（nothing can substitute real-world experience ↔ Obtaining real-world experience. 唯一不可替代等于最佳）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The most common question I'm asked always centers around how to get started in user experience design, to which my response is always that nothing can substitute real-world experience.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "What does the speaker say being effective requires?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Core skills."
+                },
+                {
+                  "key": "B",
+                  "text": "Higher education."
+                },
+                {
+                  "key": "C",
+                  "text": "Adaptability."
+                },
+                {
+                  "key": "D",
+                  "text": "Capability."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：Being effective requires adaptability — something you don't really learn in school, much less in a 6-month training camp.信号：requires直接点出条件 。答案信号就是题干原话在录音里几乎复现：Being effective requires adaptability，requires 后面紧跟的 adaptability 就是被点名的条…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Core skills. 盗用了第二段原词 core skills，但原文说的是高等教育能帮你装备一些核心技能、随后却话锋一转说它不够，core skills 并不是 being effective 所需要的那样东西，属听到原词就想选的陷阱。 借用原文：but it will not prepare you for actual challenges",
+                "B": "原词陷阱：Higher education. 盗用第二段原词 Higher education，但原文说高等教育不能让你应对真实挑战、是被往下压的一项，根本不是 being effective 所需，听到这个原词就选会掉坑。",
+                "D": "未提及：Capability. 和正确项 Adaptability. 一样以 -ability 结尾、长得像，是专为只听个相似尾音的考生设的形近干扰，但录音从没说 being effective 需要 capability。",
+                "C": "正确项：与答案句同义替换（Being effective requires adaptability ↔ Adaptability. 原词同形直接对应）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Being effective requires adaptability — something you don't really learn in school, much less in a 6-month training camp.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What can people do as long as they know their end goal and strive for it?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Start anywhere."
+                },
+                {
+                  "key": "B",
+                  "text": "Face challenges."
+                },
+                {
+                  "key": "C",
+                  "text": "Pursue roles in teams."
+                },
+                {
+                  "key": "D",
+                  "text": "Follow their own path."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P4）：You can start anywhere as long as you know your end goal and you commit to actively pursuing opportunities to learn and grow along the way.信号：as long as条件句的主句 。答案信号是这句的结构 You can start anywhere as long as you know your end goal——as long as 是题干照搬的条件信号…",
+              "optionAnalysis": {
+                "B": "原词陷阱：Face challenges. 里的 challenges 来自前文（如第二段说的 actual challenges、第四段说团队能 challenge me），但 as long as 那句答案句里说的是 start anywhere，不是面对挑战，选项搬了别处的原词来凑。 借用原文：to continue to pursue roles within teams that I knew could teach and challenge me",
+                "C": "张冠李戴：Pursue roles in teams. 盗用第四段原词 pursue roles within teams，但那是作者讲自己当年的经历（他自己去团队里求角色），不是回答只要知道目标就能做什么，属张冠李戴式的原词陷阱。 借用原文：That's not to say that I think my path is the only one.",
+                "D": "与原文相反：Follow their own path. 借用第四段 my path 的说法，但原文是作者说我不认为自己这条路是唯一的，恰恰是不主张人人照走他的路，选项却说去走自己的路，与原文倾向相反。",
+                "A": "正确项：与答案句同义替换（You can start anywhere ↔ Start anywhere. 主句原话浓缩为动词短语）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "You can start anywhere as long as you know your end goal and you commit to actively pursuing opportunities to learn and grow along the way.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 18.8,
+              "text": "When planning for this year, our principal asked what needed to change to engage students more in their learning. I responded in a whisper \"flexible seating\", thinking about our then-current classroom. It had rows of desks with blue chairs and nameplates reminding each student where they should be sitting.",
+              "zh": "在规划今年的工作时,我们的校长问需要改变什么才能让学生更多地参与到学习中来。我小声回答\"灵活座位\",同时想到我们当时的教室。教室里一排排课桌配着蓝色椅子,桌上的姓名牌提醒着每个学生应该坐在哪里。"
+            },
+            {
+              "id": 2,
+              "start": 19.2,
+              "end": 30.7,
+              "text": "This began a journey to transform our practice and challenge the ways of learning for a group of Year 6 students used to sitting in desks and rows for years.",
+              "zh": "这开启了一段转变我们教学实践的旅程,并挑战了一群习惯于多年坐在课桌排列教室里的六年级学生的学习方式。"
+            },
+            {
+              "id": 3,
+              "start": 31.1,
+              "end": 51,
+              "text": "Flexible seating has been defined as movable furniture to create an engaging learning environment. It is a shift in practice from being teacher-focused to student-focused learning. For us, flexible seating has meant removing most of the traditional chairs and desks and introducing a variety of different seating options to promote student engagement.",
+              "zh": "灵活座位被定义为可移动的家具,用以创造一个富有吸引力的学习环境。它是从以教师为中心向以学生为中心学习的实践转变。对我们而言,灵活座位意味着移除大部分传统的椅子和课桌,引入各种不同的座位选择来促进学生参与。"
+            },
+            {
+              "id": 4,
+              "start": 51.4,
+              "end": 71.7,
+              "text": "The use of rows and their minimal adaptations to \"U\" shape were traditionally intended to maximize on-task behavior and reduce distraction from the teacher. Teachers tend to still use this format because of either the need to control students or the belief that the teacher is the most important person in the room.",
+              "zh": "使用排列及其向\"U\"形的最小调整,传统上旨在最大化专注行为并减少对教师的干扰。教师倾向于仍然使用这种形式,原因要么是需要控制学生,要么是认为教师是教室里最重要的人。"
+            },
+            {
+              "id": 5,
+              "start": 72,
+              "end": 80.5,
+              "text": "Now our students have a range of different seating options, including a floor desk, couches, stools, bean bags, and the traditional desk-and-chair.",
+              "zh": "现在我们的学生有一系列不同的座位选择,包括地板书桌、沙发、凳子、豆袋椅以及传统的课桌椅。"
+            },
+            {
+              "id": 6,
+              "start": 80.8,
+              "end": 93.2,
+              "text": "From our experience so far, flexible seating enhances student ownership of space and engagement in learning, while reducing rates of student disengagement and disciplinary actions. It is a win for all concerned.",
+              "zh": "根据我们迄今为止的经验,灵活座位增强了学生对空间的所有权和学习参与度,同时降低了学生脱离学习和纪律处分的比率。这对所有相关方来说都是双赢。"
+            }
+          ],
+          "audioDuration": 93.2,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "Why did the school principal ask what needed to change?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To respond actively to students' requests."
+                },
+                {
+                  "key": "B",
+                  "text": "To engage students more in their learning."
+                },
+                {
+                  "key": "C",
+                  "text": "To enable teachers to interact more with their students."
+                },
+                {
+                  "key": "D",
+                  "text": "To allow students more freedom in their academic work."
+                }
+              ],
+              "answer": "B",
+              "analysis": "目的题。答案句（P1）：When planning for this year, our principal asked what needed to change to engage students more in their learning.信号：目的状语 to engage… 直接给出动机 。句中 to engage students more in their learning 是\"为了…\"的目的状语，紧跟在校长发问之后，正是他发问的目的所在，是这句成为答…",
+              "optionAnalysis": {
+                "A": "未提及：选项说\"主动回应学生的请求\"，但录音里是校长主动发问、要让学生更投入，没有\"回应学生请求\"一说，方向不符。",
+                "C": "原词陷阱：选项把焦点说成\"让老师与学生更多互动\"，盗用了录音反复出现的 teachers、students，但校长的目的是让\"学生\"更投入学习，不是促进师生互动，偷换了主体与重点。",
+                "D": "过度推断：选项说\"给学生更多学业自由\"，录音目的句只讲 engage（投入），从未提 freedom（自由），是把投入度过度引申成自由度。",
+                "B": "正确项：与答案句同义替换（to engage students more in their learning ↔ To engage students more in their learning. 几乎原句搬到选项）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "When planning for this year, our principal asked what needed to change to engage students more in their learning.",
+              "type": "目的题"
+            },
+            {
+              "number": 20,
+              "stem": "What has flexible seating meant at the speaker's school?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Using new furniture to create a comfortable environment."
+                },
+                {
+                  "key": "B",
+                  "text": "Shifting from traditional teaching to task-based learning."
+                },
+                {
+                  "key": "C",
+                  "text": "Adopting a variety of different seating options."
+                },
+                {
+                  "key": "D",
+                  "text": "Rearranging most traditional chairs and desks."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：For us, flexible seating has meant removing most of the traditional chairs and desks and introducing a variety of different seating options to promote student engagement.信号：下定义信号 has meant 。句中 flexible seating has meant 是\"在本校它意味着什么\"的下定义信号，与题干 has meant 完全对应，定义内容紧随其后，是答案句的标志。",
+              "optionAnalysis": {
+                "A": "未提及：选项说\"用新家具营造舒适环境\"，录音定义句讲的是 promote student engagement（促进投入），从未提 comfortable（舒适），属凭空添加。",
+                "B": "偷换概念：选项说\"从传统教学转向任务式学习\"，录音只说从 teacher-focused 转向 student-focused，并未出现 task-based learning（任务式学习）这一说法，偷换了概念。 借用原文：removing most of the traditional chairs and desks",
+                "D": "原词陷阱：选项\"重排大部分传统桌椅\"盗用了录音的 traditional chairs and desks，但录音是 removing（撤掉）这些桌椅再引入多样座位，不是 Rearranging（重排），只截了动作的一半且改了动词。",
+                "C": "正确项：与答案句同义替换（introducing a variety of different seating options ↔ Adopting a variety of different seating options. introducing 与 Adopting 同义替换）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "For us, flexible seating has meant removing most of the traditional chairs and desks and introducing a variety of different seating options to promote student engagement.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What has flexible seating brought about at the speaker's school?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A win for all people involved."
+                },
+                {
+                  "key": "B",
+                  "text": "A strengthened effect of its discipline."
+                },
+                {
+                  "key": "C",
+                  "text": "A harmonious relationship among its students."
+                },
+                {
+                  "key": "D",
+                  "text": "A change to teachers' opinion of their students."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P6）：From our experience so far, flexible seating enhances student ownership of space and engagement in learning, while reducing rates of student disengagement and disciplinary actions. It is a win for all concerned.信号：结尾总结句 It is a win for all concerned 。末段 It is a win for all concerned 是带总结语气的收束句，把前面列举的好处一句话归纳为\"对所有人都是共赢\"，是结…",
+              "optionAnalysis": {
+                "B": "原词陷阱：选项说\"纪律效果增强\"，盗用录音的 disciplinary，但录音是 reducing…disciplinary actions（减少纪律处分），方向相反；且只取纪律一项，丢了\"共赢\"的全面性。 借用原文：enhances student ownership of space and engagement in learning",
+                "C": "原词陷阱：选项说\"学生之间关系融洽\"，盗用了高频词 students，但录音讲的是学生对空间的归属感与投入，从未提学生彼此之间的 harmonious relationship（融洽关系）。",
+                "D": "未提及：选项说\"改变了老师对学生的看法\"，录音末段只讲对学生投入、纪律的成效与\"共赢\"，并未提到老师对学生看法的任何改变。",
+                "A": "正确项：与答案句同义替换（It is a win for all concerned ↔ A win for all people involved. all concerned 与 all people involved 同义）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "From our experience so far, flexible seating enhances student ownership of space and engagement in learning, while reducing rates of student disengagement and disciplinary actions. It is a win for all concerned.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 26.2,
+              "text": "Dozens of British students arriving for their first day of school on Tuesday were sent home over their shoes. About 30 students were turned away from Taverham High School in Norfolk, England. Headteacher, Dr Roger Harris, confirmed that this was due to a change in the school's uniform policy. Harris, who became headteacher this year, said he notified parents of the updated rules in an email in June.",
+              "zh": "周二,数十名英国学生因鞋子问题在开学第一天被遣返回家。英格兰诺福克郡Taverham高中约有30名学生被拒之门外。校长Roger Harris博士证实,这是由于学校校服政策的变化。今年新上任的Harris表示,他在6月份通过电子邮件通知了家长更新后的规定。"
+            },
+            {
+              "id": 2,
+              "start": 26.6,
+              "end": 40.8,
+              "text": "The price of school uniforms can spark panic among families struggling with the high cost of living. Nearly all British schools have uniforms. They cost parents an average of £337 per year for each secondary school child.",
+              "zh": "校服价格可能让那些苦于高昂生活成本的家庭感到恐慌。几乎所有英国学校都有校服。家长平均每年为每个中学生支付337英镑的校服费用。"
+            },
+            {
+              "id": 3,
+              "start": 41.1,
+              "end": 57.7,
+              "text": "According to the new rules, students of Taverham are required to wear smart black shoes appropriate for the workplace, Harris held that strengthened rules around school uniforms improved student outcomes and behavior. But for some parents, the school's restrictions are an unnecessary burden.",
+              "zh": "根据新规定, Taverham的学生必须穿适合职场的得体黑色鞋子。Harris认为,加强校服规定能改善学生的学业成绩和行为表现。但对一些家长来说,学校的限制是不必要的负担。"
+            },
+            {
+              "id": 4,
+              "start": 58.1,
+              "end": 72.7,
+              "text": "As annual inflation climbs over 10%, many households are on tight budgets. Private rental prices in Britain rose 3.2% over the 12 months to July 2022, the largest jump since 2016. Soaring energy bills have made things worse.",
+              "zh": "随着年通胀率攀升至10%以上,许多家庭的预算都很紧张。截至2022年7月的12个月里,英国私人租房价格上涨了3.2%,这是自2016年以来的最大涨幅。飙升的能源账单使情况更加恶化。"
+            },
+            {
+              "id": 5,
+              "start": 73,
+              "end": 91.1,
+              "text": "Lucinda May, mum of a Taverham student, said that she had to ask her parents for £65 to buy her child the correct pair of shoes. May said that the school's uniform policy showed the lack of regard for parents dealing with the high cost of living.",
+              "zh": "Taverham学生家长Lucinda May说,她不得不向父母要65英镑给孩子买一双符合规定的鞋子。May表示,学校的校服政策显示出对正在应对高昂生活成本的家长缺乏关照。"
+            }
+          ],
+          "audioDuration": 91.1,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "Why were dozens of British students sent home on Tuesday?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They weren't informed of the school's updated rules."
+                },
+                {
+                  "key": "B",
+                  "text": "They arrived late for their first day of school."
+                },
+                {
+                  "key": "C",
+                  "text": "They answered their headteacher's email in an impolite way."
+                },
+                {
+                  "key": "D",
+                  "text": "They didn't wear the shoes required by the school's new policy."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：About 30 students were turned away from Taverham High School in Norfolk, England. Headteacher, Dr Roger Harris, confirmed that this was due to a change in the school's uniform policy.信号：因果信号 due to 。答案句里 this was due to a change in the school's uniform policy 的 \"due to\" 是明确的因果信号，它后面跟的\"校服政策变动\"就…",
+              "optionAnalysis": {
+                "A": "选项说学生\"没被告知更新的规定\"，但录音里校长明确说 he notified parents of the updated rules in an email in June——是已经通知过的，选项把\"通知过\"反说成\"没被告知\"，方向相反。 借用原文：he notified parents of the updated rules in an email in June",
+                "B": "录音只说这天是 their first day of school on Tuesday，提到了\"开学第一天\"，但从未说学生\"迟到\"；选项盗用了\"first day\"的时间背景，把原因编成\"迟到\"，原文没有依据。",
+                "C": "原词陷阱：录音提到校长是用 in an email in June 通知家长的，选项盗用\"email\"这个原词，编出\"以不礼貌方式回复校长邮件\"；原文只说校长发邮件通知，根本没说学生回邮件、更没说态度不礼貌。",
+                "D": "正确项：与答案句同义替换（a change in the school's uniform policy ↔ the shoes required by the school's new policy 概括换具体加同义改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "About 30 students were turned away from Taverham High School in Norfolk, England. Headteacher, Dr Roger Harris, confirmed that this was due to a change in the school's uniform policy.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What can the price of school uniforms spark among families in financial difficulty?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Riots."
+                },
+                {
+                  "key": "B",
+                  "text": "Anger."
+                },
+                {
+                  "key": "C",
+                  "text": "Disputes."
+                },
+                {
+                  "key": "D",
+                  "text": "Panic."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：The price of school uniforms can spark panic among families struggling with the high cost of living.信号：题干原词 spark 几乎原句重现 。答案句 The price of school uniforms can spark panic among families 与题干用词高度重合（price/spark/fam…",
+              "optionAnalysis": {
+                "A": "Riots（骚乱）程度最重、最抓耳，但录音里从未出现\"骚乱\"；它是把\"恐慌\"夸大成\"骚乱\"的诱饵，原文无依据。",
+                "B": "Anger（愤怒）听上去和\"家长有意见\"很搭，但原文 spark 后面接的是 panic 不是 anger；anger 是个貌似合理却没被念到的情绪词。",
+                "C": "Disputes（争执/纠纷）也是一种貌似合理的负面反应，但原文激起的是 panic，并未提到\"争执\"，属没被念到的干扰项。",
+                "D": "正确项：与答案句同义替换（spark panic among families ↔ Panic. 原词直接对应）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The price of school uniforms can spark panic among families struggling with the high cost of living.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What did the headteacher think of the school's new uniform rules?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They strengthened the school's discipline and order."
+                },
+                {
+                  "key": "B",
+                  "text": "They improved student behavior and performance."
+                },
+                {
+                  "key": "C",
+                  "text": "They enhanced the positive image of the school."
+                },
+                {
+                  "key": "D",
+                  "text": "They rendered the school unique in the district."
+                }
+              ],
+              "answer": "B",
+              "analysis": "态度观点题。答案句（P3）：Harris held that strengthened rules around school uniforms improved student outcomes and behavior.信号：观点引导词 held that 。答案句 Harris held that strengthened rules around school uniforms improved student outcomes an…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音里有 strengthened rules around school uniforms，\"strengthened\" 这个词真的念到了；选项 strengthened the school's discipline and order 盗用 strengthened，但把它的对象换成\"纪律和秩序\"——原文是\"更严格的规定改善了成绩和行为\"，strengthened 修饰的是 rules 而非 discipline，张冠李戴。",
+                "C": "\"提升学校的正面形象\"（positive image）听起来是个合理好处，但校长说的是改善\"成绩和行为\"，从未提到\"形象\"，原文无依据。",
+                "D": "录音第 4 段出现过 Private rental prices in Britain 等带 district/地区背景的经济描述（原文用 households/Britain），选项 rendered the school unique in the district 借\"地区\"这类背景感造出\"让学校在本区独一无二\"，但校长的观点里根本没说学校\"独特\"，属编造。",
+                "B": "正确项：与答案句同义替换（improved student outcomes and behavior ↔ improved student behavior and performance 同义词替换）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Harris held that strengthened rules around school uniforms improved student outcomes and behavior.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 25,
+              "stem": "What did Lucinda May have to do to buy her child the correct pair of shoes?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Turn to her parents for help."
+                },
+                {
+                  "key": "B",
+                  "text": "Tighten her monthly budget."
+                },
+                {
+                  "key": "C",
+                  "text": "Borrow £65 from her friend."
+                },
+                {
+                  "key": "D",
+                  "text": "Postpone paying her other bills."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P5）：Lucinda May, mum of a Taverham student, said that she had to ask her parents for £65 to buy her child the correct pair of shoes.信号：被问者的直接动作 had to ask 。答案句 she had to ask her parents for £65 to buy her child the correct pair of shoes 里的 \"h…",
+              "optionAnalysis": {
+                "B": "\"缩紧月度预算\"和第 4 段 many households are on tight budgets 的 \"tight budgets\" 背景相呼应，但那是说大环境下家庭预算紧，并非 May 本人\"缩预算\"这个动作；她的实际做法是向父母要钱。 借用原文：she had to ask her parents for £65",
+                "C": "偷换概念：金额 £65 是原文真念到的（ask her parents for £65），选项 Borrow £65 from her friend. 保住了对的金额却把对象从\"her parents\"偷换成\"her friend\"，动作也从\"ask\"变\"borrow\"，对象错了。",
+                "D": "\"推迟支付其他账单\"和第 4 段 Soaring energy bills have made things worse. 里的 bills 沾边，但原文只说能源账单让情况更糟，从没说 May\"推迟付账单\"；这是借 bills 一词编出的动作。",
+                "A": "正确项：与答案句同义替换（ask her parents for £65 ↔ Turn to her parents for help 同义短语 + 概括化）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "Lucinda May, mum of a Taverham student, said that she had to ask her parents for £65 to buy her child the correct pair of shoes.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "People tend to want as many choices as possible. They believe this will maximize their 26______ of making the best decision. But research shows that, when it comes to actually making a 27______ from all of these choices, people can become 28______ and avoid making a decision altogether. Even worse, when people finally do decide, they are generally less satisfied with their decision and feel more regretful over whatever choice they made.\n\nWhy does this happen? Research shows that when people choose from many options, they 29______ more in the decision, but feel less confident in their ability to decide well. In other words, when we are 30______ with more choices, making the \"right\" or \"correct\" decision begins to feel more 31______ and, at the same time, more difficult to do. This may contribute to the deep fear that we will make the wrong decision.\n\nHow can we solve this problem? I believe this fear could be tempered by putting decisions into perspective. It might help to remember that many of the choices you make, such as what to have for lunch, will not 32______ much in the future and that, even more important choices, like accepting a new job, can 33______ be changed. It could also help to 34______ these situations with clear guidelines and ideas of what you want from the 35______ of options, which can narrow the possible choices, and also make you more confident about your ability to make the right decision."
+            },
+            {
+              "label": "词库",
+              "text": "A) approximately\nB) case\nC) chance\nD) confused\nE) crucial\nF) deposited\nG) enter\nH) invest\nI) matter\nJ) presented\nK) range\nL) regular\nM) seize\nN) selection\nO) ultimately"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "approximately"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "chance"
+                },
+                {
+                  "key": "D",
+                  "text": "confused"
+                },
+                {
+                  "key": "E",
+                  "text": "crucial"
+                },
+                {
+                  "key": "F",
+                  "text": "deposited"
+                },
+                {
+                  "key": "G",
+                  "text": "enter"
+                },
+                {
+                  "key": "H",
+                  "text": "invest"
+                },
+                {
+                  "key": "I",
+                  "text": "matter"
+                },
+                {
+                  "key": "J",
+                  "text": "presented"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "regular"
+                },
+                {
+                  "key": "M",
+                  "text": "seize"
+                },
+                {
+                  "key": "N",
+                  "text": "selection"
+                },
+                {
+                  "key": "O",
+                  "text": "ultimately"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) chance\n【原文】chance of doing sth = 做……的可能性\nB) case case of doing 不是「可能性」：case 表示「案例、情况」，maximize their case of making 既不成搭配，也与「最大化可能性」的语义不符。\nN) selection selection 表「选择动作/选出物」，与 maximize 不搭：selection of making the best decision 语义混乱（做最佳决定本身不是「被选出物」），且 N 在 27 题处与 making a ___ 搭配更稳"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "approximately"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "chance"
+                },
+                {
+                  "key": "D",
+                  "text": "confused"
+                },
+                {
+                  "key": "E",
+                  "text": "crucial"
+                },
+                {
+                  "key": "F",
+                  "text": "deposited"
+                },
+                {
+                  "key": "G",
+                  "text": "enter"
+                },
+                {
+                  "key": "H",
+                  "text": "invest"
+                },
+                {
+                  "key": "I",
+                  "text": "matter"
+                },
+                {
+                  "key": "J",
+                  "text": "presented"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "regular"
+                },
+                {
+                  "key": "M",
+                  "text": "seize"
+                },
+                {
+                  "key": "N",
+                  "text": "selection"
+                },
+                {
+                  "key": "O",
+                  "text": "ultimately"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) selection\n【原文】make a selection from = 从……中做出选择\nB) case make a case 义为「论证、辩护」，方向跑偏：make a case for sth 表「为某事辩护、提出论据」，与「从一堆选项里挑一个」的语义完全不沾边。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "approximately"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "chance"
+                },
+                {
+                  "key": "D",
+                  "text": "confused"
+                },
+                {
+                  "key": "E",
+                  "text": "crucial"
+                },
+                {
+                  "key": "F",
+                  "text": "deposited"
+                },
+                {
+                  "key": "G",
+                  "text": "enter"
+                },
+                {
+                  "key": "H",
+                  "text": "invest"
+                },
+                {
+                  "key": "I",
+                  "text": "matter"
+                },
+                {
+                  "key": "J",
+                  "text": "presented"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "regular"
+                },
+                {
+                  "key": "M",
+                  "text": "seize"
+                },
+                {
+                  "key": "N",
+                  "text": "selection"
+                },
+                {
+                  "key": "O",
+                  "text": "ultimately"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) confused\n【原文】confused = 困惑、不知所措，正好引出「干脆不决定」\nE) crucial 义为「重要的」，与「不做决定」矛盾：若代入「become crucial」=「变得重要」，与并列动作「干脆不做决定」逻辑相反，明显方向错位；且 E 更适合后面 31 题描述「决定本身变得重要」。\nL) regular 义为「定期的、常规的」，与心理状态不沾边：regular 描述事物的频率/规律，「become regular」（变得规律）与本句心理负担的语境毫无关系。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "approximately"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "chance"
+                },
+                {
+                  "key": "D",
+                  "text": "confused"
+                },
+                {
+                  "key": "E",
+                  "text": "crucial"
+                },
+                {
+                  "key": "F",
+                  "text": "deposited"
+                },
+                {
+                  "key": "G",
+                  "text": "enter"
+                },
+                {
+                  "key": "H",
+                  "text": "invest"
+                },
+                {
+                  "key": "I",
+                  "text": "matter"
+                },
+                {
+                  "key": "J",
+                  "text": "presented"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "regular"
+                },
+                {
+                  "key": "M",
+                  "text": "seize"
+                },
+                {
+                  "key": "N",
+                  "text": "selection"
+                },
+                {
+                  "key": "O",
+                  "text": "ultimately"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) invest\n【原文】invest more in sth = 在……上投入更多\nG) enter enter in 不成搭配：enter 通常直接接宾语（enter a room）或接 into，没有 enter more in the decision 的说法；语义上也无法表达「投入精力」。\nI) matter matter 是不及物动词「要紧」，不能接 more in：matter 表「要紧」时句式是「sth matters」，不可说「they matter more in the decision」；且 I 的「要紧」义应留给 32 题。\nM) seize seize 是「抓住」，常与机会搭配，与「投入更多」不符：seize the chance/opportunity 是常用搭配，seize more in the decision 既不成搭配也不合语义。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "approximately"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "chance"
+                },
+                {
+                  "key": "D",
+                  "text": "confused"
+                },
+                {
+                  "key": "E",
+                  "text": "crucial"
+                },
+                {
+                  "key": "F",
+                  "text": "deposited"
+                },
+                {
+                  "key": "G",
+                  "text": "enter"
+                },
+                {
+                  "key": "H",
+                  "text": "invest"
+                },
+                {
+                  "key": "I",
+                  "text": "matter"
+                },
+                {
+                  "key": "J",
+                  "text": "presented"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "regular"
+                },
+                {
+                  "key": "M",
+                  "text": "seize"
+                },
+                {
+                  "key": "N",
+                  "text": "selection"
+                },
+                {
+                  "key": "O",
+                  "text": "ultimately"
+                }
+              ],
+              "answer": "J",
+              "type": "选词填空",
+              "analysis": "【答案】J（官方答案）\n应填 J) presented\n【原文】be presented with 是固定搭配，表「被给予/面对……」\nD) confused confused with 表「把……与……搞混」，方向反了，且已被 28 题用走：confused 形容人 confused by/about 才地道，confused with 多用于「把 A 和 B 搞混」（confuse A with B），与本句「面对更\nE) crucial 义为「至关重要的」，与 with 不搭：crucial 后通常接 to/for/in，没有 be crucial with 的用法；意思也偏离「面对更多选择」的语境。\nL) regular 义为「定期的、常规的」，与上下文无关：regular 与「面对更多选择」毫无语义勾连，be regular with 也不构成本句所需的「面对/被给予」之意。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "approximately"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "chance"
+                },
+                {
+                  "key": "D",
+                  "text": "confused"
+                },
+                {
+                  "key": "E",
+                  "text": "crucial"
+                },
+                {
+                  "key": "F",
+                  "text": "deposited"
+                },
+                {
+                  "key": "G",
+                  "text": "enter"
+                },
+                {
+                  "key": "H",
+                  "text": "invest"
+                },
+                {
+                  "key": "I",
+                  "text": "matter"
+                },
+                {
+                  "key": "J",
+                  "text": "presented"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "regular"
+                },
+                {
+                  "key": "M",
+                  "text": "seize"
+                },
+                {
+                  "key": "N",
+                  "text": "selection"
+                },
+                {
+                  "key": "O",
+                  "text": "ultimately"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) crucial\n【原文】和 difficult 并列：决定既「显得更重要」又「更难做」\nL) regular 义为「常规的」，与「深深的恐惧」逻辑不通：若说「正确决定显得更常规、更难做」既自相矛盾（常规的事不该难），也无法解释下文为何会引出「害怕选错」的恐惧。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "approximately"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "chance"
+                },
+                {
+                  "key": "D",
+                  "text": "confused"
+                },
+                {
+                  "key": "E",
+                  "text": "crucial"
+                },
+                {
+                  "key": "F",
+                  "text": "deposited"
+                },
+                {
+                  "key": "G",
+                  "text": "enter"
+                },
+                {
+                  "key": "H",
+                  "text": "invest"
+                },
+                {
+                  "key": "I",
+                  "text": "matter"
+                },
+                {
+                  "key": "J",
+                  "text": "presented"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "regular"
+                },
+                {
+                  "key": "M",
+                  "text": "seize"
+                },
+                {
+                  "key": "N",
+                  "text": "selection"
+                },
+                {
+                  "key": "O",
+                  "text": "ultimately"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) matter\n【原文】matter much = 关系重大、要紧\nM) seize seize 是及物动词，与不及物结构不符：seize 后通常接具体宾语（机会、权力），will not seize much in the future 既缺宾语也不合「不重要」之意。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "approximately"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "chance"
+                },
+                {
+                  "key": "D",
+                  "text": "confused"
+                },
+                {
+                  "key": "E",
+                  "text": "crucial"
+                },
+                {
+                  "key": "F",
+                  "text": "deposited"
+                },
+                {
+                  "key": "G",
+                  "text": "enter"
+                },
+                {
+                  "key": "H",
+                  "text": "invest"
+                },
+                {
+                  "key": "I",
+                  "text": "matter"
+                },
+                {
+                  "key": "J",
+                  "text": "presented"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "regular"
+                },
+                {
+                  "key": "M",
+                  "text": "seize"
+                },
+                {
+                  "key": "N",
+                  "text": "selection"
+                },
+                {
+                  "key": "O",
+                  "text": "ultimately"
+                }
+              ],
+              "answer": "O",
+              "type": "选词填空",
+              "analysis": "【答案】O（官方答案）\n应填 O) ultimately\n【原文】ultimately 表「最终归根到底」，弱化决定的不可逆感\nA) approximately approximately 表「大约」，修饰数字而非动作：approximately 用来修饰数量（approximately 100 people），用在 can approximately be changed 既语义不通，也与「最终"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "approximately"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "chance"
+                },
+                {
+                  "key": "D",
+                  "text": "confused"
+                },
+                {
+                  "key": "E",
+                  "text": "crucial"
+                },
+                {
+                  "key": "F",
+                  "text": "deposited"
+                },
+                {
+                  "key": "G",
+                  "text": "enter"
+                },
+                {
+                  "key": "H",
+                  "text": "invest"
+                },
+                {
+                  "key": "I",
+                  "text": "matter"
+                },
+                {
+                  "key": "J",
+                  "text": "presented"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "regular"
+                },
+                {
+                  "key": "M",
+                  "text": "seize"
+                },
+                {
+                  "key": "N",
+                  "text": "selection"
+                },
+                {
+                  "key": "O",
+                  "text": "ultimately"
+                }
+              ],
+              "answer": "G",
+              "type": "选词填空",
+              "analysis": "【答案】G（官方答案）\n应填 G) enter\n【原文】enter these situations with ... = 带着……进入这些情境\nM) seize seize 是「抓住、夺取」，对象多为机会/权力：seize these situations 表「抓住/夺取这些情境」语义生硬，且与 with clear guidelines 这种「带着方法论」的伴随状语搭不上——seize "
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "approximately"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "chance"
+                },
+                {
+                  "key": "D",
+                  "text": "confused"
+                },
+                {
+                  "key": "E",
+                  "text": "crucial"
+                },
+                {
+                  "key": "F",
+                  "text": "deposited"
+                },
+                {
+                  "key": "G",
+                  "text": "enter"
+                },
+                {
+                  "key": "H",
+                  "text": "invest"
+                },
+                {
+                  "key": "I",
+                  "text": "matter"
+                },
+                {
+                  "key": "J",
+                  "text": "presented"
+                },
+                {
+                  "key": "K",
+                  "text": "range"
+                },
+                {
+                  "key": "L",
+                  "text": "regular"
+                },
+                {
+                  "key": "M",
+                  "text": "seize"
+                },
+                {
+                  "key": "N",
+                  "text": "selection"
+                },
+                {
+                  "key": "O",
+                  "text": "ultimately"
+                }
+              ],
+              "answer": "K",
+              "type": "选词填空",
+              "analysis": "【答案】K（官方答案）\n应填 K) range\n【原文】a range of / the range of options 是固定搭配，意为「一系列选项」\nB) case case of options 不成搭配：case 常见的是 in case of、a case of（一箱/一例），不能用 the case of options 表示「一系列选项」，语义和搭配都不通。\nC) chance 意为「机会」，与「一组选项」错位，且已被 26 题用走：chance 意为机会、可能性，the chance of options 既不是固定搭配，也不符合「从众多选项里选」的语义；而且按解题顺序它早已在 26 题被先用掉。\nN) selection 义近但要留给 27 题的「做出一次选择」：selection 也能表「一组选择」，但本篇 27 题 making a __(27)__ from all of these choices 与 make a selectio\nA) approximately 副词：大约，大致 干扰词 · 未选用"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Five years ago, the city of Queens, New York, announced that it would be putting bike lanes onto a stretch of Skillman Ave — and removing 116 parking spots. Cyclists loved the plan, but local business owners got very angry. Taking out those parking spots, as they argued at protests and in letters to the city council, would ruin stores and restaurants along Skillman. \"Parking here is already a nightmare,\" one shouted at a protest rally."
+            },
+            {
+              "label": "B",
+              "text": "But the bike lanes were a done deal, and soon they were in place. Early this year, Jesse Coburn — an investigative writer with Streetsblog New York — wondered whether those predictions of economic collapse came true. So he asked the city's Department of Finance to give him a few years' worth of sales figures for that stretch of Skillman Ave. How had the businesses on that street fared?"
+            },
+            {
+              "label": "C",
+              "text": "Quite well, it turns out. In the year after the bike lanes arrived, businesses on Skillman saw sales rise by 12 percent, compared to 3 percent for Queens in general. What's more, that section of road saw new businesses open, while Queens overall had a net loss."
+            },
+            {
+              "label": "D",
+              "text": "The thing is, the actual merchants along Skillman? They didn't believe it. When Coburn spoke to them and described what he'd found, only a few store owners admitted the lanes had helped. Many still insisted the lanes were killing their part of the city. And emotions ran hot: Someone scattered tacks(大头钉) on the bike lane."
+            },
+            {
+              "label": "E",
+              "text": "This little story turns out to be a fascinating glimpse at the challenges cities face as they try to update their urban infrastructure — to clean up the air, reduce greenhouse emissions, and speed up travel by making towns more bike-friendly. There's a rising amount of data showing that installing bike lanes and making streets more pedestrian-friendly boosts the economic fortunes of a place. Removing cars and parking spots works. But the folks who run local businesses simply aren't convinced, even when their own street performs. Given that sort of mess, can political fights over bike lanes ever end?"
+            },
+            {
+              "label": "F",
+              "text": "In 2013, researchers at New York City's Department of Transportation studied seven stretches of road that had installed bike lanes or created pedestrian-friendly areas. The city analyzed the data for businesses along those routes and found that by the third year, sales grew faster on five of the streets than in the district overall, on average — up to five times faster, in fact."
+            },
+            {
+              "label": "G",
+              "text": "Beyond New York, a survey of research from 23 cities found that bike lanes and pedestrian-friendly design didn't hurt local retail and food stores. (\"Fears of disastrous consequences for local businesses are unfounded,\" the researchers concluded.) More recent work has shown roughly the same."
+            },
+            {
+              "label": "H",
+              "text": "The truth is that in fairly dense areas, bikes are more efficient at moving people around. You might lose one car driver's business — but you gain shoppers who now can arrive more easily on bikes. \"Cyclists and pedestrians are consumers too,\" notes Professor Susan Handy. Plus, streets redesigned for bikes and pedestrians tend to become more pleasant places to hang around, so \"in a lot of cases, that's created much nicer environments that are really good for those businesses.\""
+            },
+            {
+              "label": "I",
+              "text": "Mom-and-pop shops are usually pretty quick at recognizing situations that will help their bottom lines. So why the blind spot here? Perhaps it's that attention focuses on horror stories — and some merchants do get hit when bike lanes come in."
+            },
+            {
+              "label": "J",
+              "text": "I spoke to Cindy Hughes, a hairdresser(理发师) in Cambridge, Massachusetts. She said business fell by at least 40 percent when the city removed nearby parking to put in a bike lane. The majority of her customers drive, with many coming from nearby towns. Only a very few have shifted to cycling, and even those almost certainly won't cycle in Boston's snowy winters. So while Hughes supports bike lanes — \"cyclists deserve to be safe\" — she sees the parking loss as an existential risk. \"Look, 90 percent of my customers drive,\" she told me. \"For our business, the bike lanes are way worse than Covid was.\""
+            },
+            {
+              "label": "K",
+              "text": "For others, the pushback is cultural, says Henry Grabar, a writer for the Slate Magazine. Small business owners are frequently drivers who commute from other parts of the city by car, Grabar points out. They're also often longtime locals. \"They tend to be people with deep roots in the city, who have hung around since before the neighborhood became what it is today,\" he adds. Driving around town in a car is so normal to them that cycling seems weird and unusual — despite its boost from Covid, when bike sales exploded by 75 percent."
+            },
+            {
+              "label": "L",
+              "text": "Psychology beats all! Who knew, right? The fierce divide between store owners and bike-lane advocates seems similar to our larger culture wars over climate change. If we've learned anything about culture wars, it's that data isn't much good at changing minds."
+            },
+            {
+              "label": "M",
+              "text": "When Janette Sadik-Khan was the head of New York City's Transportation Department back in the early 2000s, she oversaw a rollout(推出) of bike lanes — and got angry blowback from residents and business owners who claimed there weren't enough cyclists to justify installing lanes. Now, she notes ironically, the lanes are so full of activity that opponents have turned to claiming the problem is the opposite: There are too many cyclists getting in the way of cars."
+            },
+            {
+              "label": "N",
+              "text": "Maybe bike lanes will always be charged with emotion, until enough of the public is finally concerned about climate change — and it seems reckless(鲁莽的) to not have them."
+            },
+            {
+              "label": "O",
+              "text": "Crises, after all, have a way of opening people's eyes to possibilities. During Covid, restaurants and cafés lost so much business that cities nationwide began allowing them to build curbside seating areas where people could sit, safely, in the open air. It greatly reduced parking — but because, well, shop owners didn't see any way around it. Customers loved the outdoor seating so much that cities are making it permanent: A New York City study of several streets closed during Covid found storeowners making more than before, and diners enjoying the outdoor lifestyle. If data won't change minds, customers might."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "An increasing amount of data indicates that installing bike lanes raises local business revenues.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（弱锚点）\n【原文】There's a rising amount of data showing that installing bike lanes and making streets more pedestrian-friendly boosts the economic fortunes of a place.\nIn 2013, researchers at New York City's Department of Transportation studied seven stretches of road 是单次、具体的研究,不承担'数据日益增多'这一总括语义。"
+            },
+            {
+              "number": 37,
+              "stem": "According to a magazine writer, some small business owners' resistance to bike lanes arises from cultural factors.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】For others, the pushback is cultural, says Henry Grabar, a writer for the Slate Magazine.\nPsychology beats all 与 culture wars over climate change 虽都和'文化'相关,但没有引用任何具名杂志撰稿人,不满足 According to a magazine writer 的来源限制。"
+            },
+            {
+              "number": 38,
+              "stem": "A stretch of Skillman Ave witnessed not only a big increase in sales but also the opening of new businesses.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】In the year after the bike lanes arrived, businesses on Skillman saw sales rise by 12 percent, compared to 3 percent for Queens in general. What's more, that section of road saw new businesses open, while Queens overall had a net loss.\nasked the city's Department of Finance to give him a few years' worth of sales figures for that stretch of Skillman Ave 只是记者去要数据的过程,不承载具体增长数据与新店信息。"
+            },
+            {
+              "number": 39,
+              "stem": "When people have no way out in crises, they are more likely to embrace changes.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "O",
+                  "text": "Paragraph O"
+                }
+              ],
+              "answer": "O",
+              "type": "信息匹配",
+              "analysis": "【答案】O（强锚点）\n【原文】Crises, after all, have a way of opening people's eyes to possibilities.\nuntil enough of the public is finally concerned about climate change 的触发条件是'公众担忧气候变化',与题干 in crises 不同。"
+            },
+            {
+              "number": 40,
+              "stem": "According to one survey, city design with bike lanes and pedestrian space did not negatively impact local businesses.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】Beyond New York, a survey of research from 23 cities found that bike lanes and pedestrian-friendly design didn't hurt local retail and food stores.\nby the third year, sales grew faster on five of the streets than in the district overall 是 study 的正向增长结论,与题干 did not negatively impact 的否定式中性结论语气不一致。"
+            },
+            {
+              "number": 41,
+              "stem": "Despite increased business activity on Skillman Ave, many store owners insisted the bike lanes were destroying their area.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】When Coburn spoke to them and described what he'd found, only a few store owners admitted the lanes had helped. Many still insisted the lanes were killing their part of the city.\nwould ruin stores and restaurants along Skillman 是 Five years ago 车道还没铺时的反对,A 段里没有 Despite increased business activity 这种'尽管商业活动增长'的事实背景。"
+            },
+            {
+              "number": 42,
+              "stem": "In a war of culture, data does not help much in changing people's minds.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "L",
+                  "text": "Paragraph L"
+                }
+              ],
+              "answer": "L",
+              "type": "信息匹配",
+              "analysis": "【答案】L（强锚点）\n【原文】If we've learned anything about culture wars, it's that data isn't much good at changing minds.\nIf data won't change minds, customers might 的论述重心是'顾客'这条出路,且整段没有提到 culture war,不满足题干第一枚指纹。"
+            },
+            {
+              "number": 43,
+              "stem": "A businesswoman said her business dropped sharply when parking space gave way to a bike lane, because most of her customers came by car.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】She said business fell by at least 40 percent when the city removed nearby parking to put in a bike lane. The majority of her customers drive, with many coming from nearby towns.\nParking here is already a nightmare, one shouted at a protest rally 是匿名群体抗议口号,不是题干 A businesswoman said 的具体个体讲述。"
+            },
+            {
+              "number": 44,
+              "stem": "Local business owners on Skillman Ave argued that their businesses would be ruined when parking spots were replaced by bike lanes.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】Cyclists loved the plan, but local business owners got very angry. Taking out those parking spots, as they argued at protests and in letters to the city council, would ruin stores and restaurants along Skillman.\nCindy Hughes, a hairdresser(理发师) in Cambridge, Massachusetts 明确发生地在 Cambridge,且 business fell by at least 40 percent 是事后实测,与题干 Skillman Ave 与事前担忧均不符。"
+            },
+            {
+              "number": 45,
+              "stem": "People may find it more pleasant to wander around streets redesigned for cycling and walking.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（强锚点）\n【原文】streets redesigned for bikes and pedestrians tend to become more pleasant places to hang around\n2025年12月英语四级真题第1套 长篇阅读（信息匹配） 第 1 篇 44. Local business owners on Skillman Ave argued that their businesses would be ruined when parking spots were replaced by bike lanes. 这句陈述的信息出自第几段？为什么？ 2025年12月英语四级真题第1套 长篇阅读（信息匹配） 第 1 篇 第 44 句的信息出自 A 段（强锚点句）。A 段定位句为「Cyclists loved the plan, but local business owners got very angry. Taking out those parking spots, as they argued at protests and in letters to the city council, would ruin stores and restaurants along Skillman.」（骑行者很喜欢这个方案,但当地商户非常愤怒;他们在抗议中、在写给市议会的信里都辩称,拆掉那些停车位会毁掉 Skillman 沿街的商店与餐馆。）。陈述句是对原文的同义改写（Local business owners on Skillman Ave argued that their businesses would be ruined ↔ local business owners got very angry. Taking out those parking spots, as they argued at protests and in letters to the city council, would ruin stores and restaurants along Skillman；when parking spots were replaced by bike lanes ↔ putting bike lanes onto a stretch of Skillman Ave — and removing 116 parking spots）。与之话题相邻的 D 段、J 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "All living organisms on Earth are exposed to a 24-hour day-night cycle. This cycle is the reason why people rest at night and are active during the day. Consequently, all human body functions also follow this daily rhythm, and the timing of behaviors like exercise or food intake can significantly influence your health. For example, eating at night can lead to weight gain over time because food intake at night leads to increased fat storage."
+            },
+            {
+              "label": "B",
+              "text": "Many drug targets in the body follow a 24-hour cycle, too. This means that the specific proteins a drug is designed to modify can react differently to the medicine over the course of a 24-hour time period. Because how the body responds to a drug can differ depending on the time it is taken, it logically follows that taking medicines at specific times could help increase their effectiveness and reduce unwanted side effects."
+            },
+            {
+              "label": "C",
+              "text": "When doctors prescribe medicine for people, they rarely consider the best time to take it. There are two main reasons for that oversight. First, many physicians are not aware that some drugs work better during a specific time of the day. And second, most drugs have not been studied for possible different effects during a 24-hour cycle. Therefore, patients are directed to take most drugs during the morning or evening primarily to ensure compliance."
+            },
+            {
+              "label": "D",
+              "text": "Over 50 years ago, researchers found that the cholesterol drug simvastatin is more effective at lowering cholesterol levels when taken at night rather than during the day. This is because the liver enzyme(酶) these drugs target is more active at night."
+            },
+            {
+              "label": "E",
+              "text": "Taking medicine at the wrong time can even cause harm. My colleagues and I wondered whether midazolam, the most common sedative(镇静剂) used in surgical procedures worldwide, might interfere with the internal clock that protects the heart at night. Currently, there are no guidelines regarding when midazolam should be administered."
+            },
+            {
+              "label": "F",
+              "text": "More research is needed to determine the best times to administer treatments for different diseases. I believe taking drug timing into account could help make treatments more effective and help more people worldwide."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What do we learn from the passage about the timing of our behaviors?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has a considerable impact on our health."
+                },
+                {
+                  "key": "B",
+                  "text": "It confines us to a 24-hour day-night cycle."
+                },
+                {
+                  "key": "C",
+                  "text": "It requires us to follow a particular rhythm."
+                },
+                {
+                  "key": "D",
+                  "text": "It holds the key to all human body functions."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Consequently, all human body functions also follow this daily rhythm, and the timing of behaviors like exercise or food intake can significantly influence your health.\nA) ✓ 正确：can significantly influence your health ↔ It has a considerable impact on our health 预判「行为\nB) 偷换概念：原文是「昼夜周期导致行为有节律」，It confines us to a 24-hour day-night cycle 却说「行为时机把我们限制在 24 小时周期里」，把因当成了\nC) 张冠李戴：It requires us to follow a particular rhythm 说「行为时机要求我们遵循某节律」，但原文里「遵循节律」的主体是人体功能（all human\nD) 过度推断：It holds the key to all human body functions 称行为时机「掌握着人体所有功能的关键」，原文只说人体功能遵循节律、行为时机影响健康，从未说"
+            },
+            {
+              "number": 47,
+              "stem": "What does the author say about the proteins in our body?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They can modify the effects of medicines in different ways."
+                },
+                {
+                  "key": "B",
+                  "text": "They can reduce unwanted side effects of certain medicines."
+                },
+                {
+                  "key": "C",
+                  "text": "Their reaction to medicines changes during the day-night cycle."
+                },
+                {
+                  "key": "D",
+                  "text": "Their design determines how differently they react to medicines."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】This means that the specific proteins a drug is designed to modify can react differently to the medicine over the course of a 24-hour time period.\nA) 与原文相反：They can modify the effects of medicines in different ways 说「蛋白质改变药物的效果」，但原文是药物去作用（modify）\nB) 张冠李戴：They can reduce unwanted side effects of certain medicines 把「减少副作用」说成蛋白质的能力，可原文里减副作用的是「按特定\nC) ✓ 正确：can react differently to the medicine over the course of a 24-hour time period ↔ Their rea\nD) 无中生有：Their design determines how differently they react to medicines 称「蛋白质的设计决定其反应差异」，原文从未谈蛋白质有"
+            },
+            {
+              "number": 48,
+              "stem": "What do doctors do when prescribing medicine for people?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They give little thought to the time of taking it for maximum effect."
+                },
+                {
+                  "key": "B",
+                  "text": "They rarely consider which medicine works better for which patient."
+                },
+                {
+                  "key": "C",
+                  "text": "They tell patients its possible side effects during a period of 24 hours."
+                },
+                {
+                  "key": "D",
+                  "text": "They tell patients to comply with the directions of drug manufacturers."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】When doctors prescribe medicine for people, they rarely consider the best time to take it.\nA) ✓ 正确：they rarely consider the best time to take it ↔ They give little thought to the time of ta\nB) 偷换概念：They rarely consider which medicine works better for which patient 把疏忽的对象换成「哪种药对哪个病人更好」，而原\nC) 偷换概念：They tell patients its possible side effects during a period of 24 hours 说医生告知 24 小时内的副作用，\nD) 偷换概念：They tell patients to comply with the directions of drug manufacturers 说让病人遵从药厂说明，但原文 comp"
+            },
+            {
+              "number": 49,
+              "stem": "Why do doctors advise patients to take most drugs in the morning or in the evening?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To discourage them from making complaints."
+                },
+                {
+                  "key": "B",
+                  "text": "To ensure they take the drugs as instructed."
+                },
+                {
+                  "key": "C",
+                  "text": "To comply with new research findings strictly."
+                },
+                {
+                  "key": "D",
+                  "text": "To guarantee the maximum effect of the drugs."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Therefore, patients are directed to take most drugs during the morning or evening primarily to ensure compliance.\nA) 无中生有：To discourage them from making complaints 说目的是「阻止病人投诉」，原文目的只有 ensure compliance，从未提 compla\nB) ✓ 正确：to ensure compliance ↔ To ensure they take the drugs as instructed 预判「为确保病人按医嘱服药」与 To ensu\nC) 与原文相反：To comply with new research findings strictly 说目的是严格遵循新研究成果，但原文恰恰指出多数药未做昼夜研究（most drugs ha\nD) 与原文相反：To guarantee the maximum effect of the drugs 说目的是保证药效最大，但全文论点正是医生没考虑增效时机（they rarely consi"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author suggest near the end of the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Considering drug-taking timing when prescribing drugs for patients."
+                },
+                {
+                  "key": "B",
+                  "text": "Making treatments less complex by taking drug timing into account."
+                },
+                {
+                  "key": "C",
+                  "text": "Conducting more studies to find out the best timing for treating different diseases."
+                },
+                {
+                  "key": "D",
+                  "text": "Finding out the most effective drugs for treating diseases through further research."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（主旨题）\nA) 以偏概全：Considering drug-taking timing when prescribing drugs for patients 是第三段对医生开药的观点延伸，而题干问的是 n\nB) 无中生有：Making treatments less complex by taking drug timing into account 称考虑服药时机可让治疗「不那么复杂」，原文末段只\nC) ✓ 正确：More research is needed to determine the best times to administer treatments for different\nD) 偷换概念：Finding out the most effective drugs for treating diseases through further research 说要研究「最"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Katharine Abraham, an economics professor, was chatting with her hairdresser(理发师) about retirement plans. The economist said she plans to continue working because she wants to. The hairdresser agreed but for a different reason: She needs the money."
+            },
+            {
+              "label": "B",
+              "text": "Both scenarios(情况) are contributing to a big increase in the number of people in the U.S. working into their 70s. Over the past 20 years, the share of Americans working in their 70s has risen from less than 10% to nearly 15%."
+            },
+            {
+              "label": "C",
+              "text": "In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement. The decline of manufacturing and the increase in the number of people working in less labor-intensive occupations also has contributed to the trend, says Abraham, who researches work and retirement decisions of older Americans."
+            },
+            {
+              "label": "D",
+              "text": "\"Which matters more depends on what your history up until that point has been in the type of work you're doing,\" Abraham says."
+            },
+            {
+              "label": "E",
+              "text": "The overall trend is hitting Americans of all different levels of educational attainment, although the percentages vary by category. The share of Americans with bachelor's degrees who were working into their 70s reached nearly 20% in 2018. For those with a high school degree or less, the proportion of those working in their 70s had risen to around 10%, while those with some college education were in the middle at around 15%."
+            },
+            {
+              "label": "F",
+              "text": "Martin Neil Baily, an economist who is leading a research project on retirement security, notes that quitting a career can lead to feelings of isolation and loneliness, particularly for men. He suggests that many college-educated workers are choosing to stay in the labor force more for social benefits than for financial reasons. They're also more likely to be in professional occupations where they tend to enjoy their work more."
+            },
+            {
+              "label": "G",
+              "text": "Workers in more physical jobs, meanwhile, may be more likely to look forward to retiring, Baily says, suggesting those who stay on are more likely doing so for financial reasons."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What do we learn from the passage about the economics professor and her hairdresser?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They differ in their reasons for continuing to work."
+                },
+                {
+                  "key": "B",
+                  "text": "They are both committed to working into their 70s."
+                },
+                {
+                  "key": "C",
+                  "text": "They are happy about their current financial situation."
+                },
+                {
+                  "key": "D",
+                  "text": "They hold different views about postponing retirement."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】The economist said she plans to continue working because she wants to. The hairdresser agreed but for a different reason: She needs the money.\nA) ✓ 正确：The hairdresser agreed but for a different reason ↔ They differ in their reasons for conti\nB) 答非所问：B 项 They are both committed to working into their 70s 把题目焦点偏到 \"是否都坚持工作到 70 多岁\"，但题目问的是 \"对照两\nC) 无中生有：C 项 They are happy about their current financial situation 说两人都对当前财务状况满意，但理发师明确说 She needs\nD) 偷换概念：D 项 They hold different views about postponing retirement 似乎与 A 相近，但 different views about"
+            },
+            {
+              "number": 52,
+              "stem": "What is one of the reasons for people to delay retirement?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "More and more people have switched to less intellectually challenging jobs."
+                },
+                {
+                  "key": "B",
+                  "text": "The number of jobs suitable for older people has increased in the private sector."
+                },
+                {
+                  "key": "C",
+                  "text": "The rate of wage increase in terms of purchasing power has slowed down for years."
+                },
+                {
+                  "key": "D",
+                  "text": "More and more people in the workplace find it hard to rely on traditional pensions."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement.\nA) 偷换概念：原文说 the increase in the number of people working in less labor-intensive occupations——是 \"从\nB) 无中生有：B 项 The number of jobs suitable for older people has increased in the private sector 说私人部门\nC) ✓ 正确：years of slow rise in real wages ↔ The rate of wage increase in terms of purchasing power \nD) 偷换概念：原文 a shift away from traditional pensions in the private sector 是 \"私人部门正在远离传统养老金\"——指制度变化；D"
+            },
+            {
+              "number": 53,
+              "stem": "What is the general trend in people delaying retirement?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The higher their earnings, the more likely they are tempted to delay retirement."
+                },
+                {
+                  "key": "B",
+                  "text": "Those who have more job satisfaction tend to retire later than those who have less."
+                },
+                {
+                  "key": "C",
+                  "text": "More men than women are likely to stay in the labor force until their late seventies."
+                },
+                {
+                  "key": "D",
+                  "text": "The higher their educational level, the more likely they are to delay retirement."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】The overall trend is hitting Americans of all different levels of educational attainment, although the percentages vary by category. The share of Americans with bachelor's degrees who were working into their 70s reached nearly 20% in 2018. For those with a high school degree or less, the proportion of those working in their 70s had risen to around 10%, while those with some college education were in the middle at around 15%.\nA) 无中生有：A 项 The higher their earnings, the more likely they are tempted to delay retirement 把维度换成 \nB) 张冠李戴：B 项 Those who have more job satisfaction tend to retire later than those who have less 谈职业\nC) 张冠李戴：C 项 More men than women are likely to stay in the labor force until their late seventies 涉\nD) ✓ 正确：The share of Americans with bachelor's degrees who were working into their 70s reached nea"
+            },
+            {
+              "number": 54,
+              "stem": "What is the chief reason for college-educated workers delaying retirement according to an economist?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Enjoying financial security."
+                },
+                {
+                  "key": "B",
+                  "text": "Staying connected socially."
+                },
+                {
+                  "key": "C",
+                  "text": "Contributing more professionally."
+                },
+                {
+                  "key": "D",
+                  "text": "Increasing social security payments."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】He suggests that many college-educated workers are choosing to stay in the labor force more for social benefits than for financial reasons.\nA) 与原文相反：A 项 Enjoying financial security 把主因说成 \"享受经济保障\"，但原文明确 more for social benefits than for fin\nB) ✓ 正确：more for social benefits than for financial reasons ↔ Staying connected socially 预判抓 socia\nC) 过度推断：C 项 Contributing more professionally 说 \"在专业上贡献更多\"，原文 in professional occupations where the\nD) 无中生有：D 项 Increasing social security payments 把 social 与 financial 拼成 \"提高社会保障金\"，是基于熟词 social 的乱凑"
+            },
+            {
+              "number": 55,
+              "stem": "What does the passage say about people doing manual work?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are eager to enjoy life after retiring."
+                },
+                {
+                  "key": "B",
+                  "text": "They are likely to have financial troubles."
+                },
+                {
+                  "key": "C",
+                  "text": "They generally don't enjoy doing it."
+                },
+                {
+                  "key": "D",
+                  "text": "They tend to anticipate retirement."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Workers in more physical jobs, meanwhile, may be more likely to look forward to retiring, Baily says, suggesting those who stay on are more likely doing so for financial reasons.\nA) 过度推断：A 项 They are eager to enjoy life after retiring 把原文 \"期待退休\" 引申到 \"渴望享受退休后的生活\"，原文只说期待退休、未提退休后\nB) 过度推断：B 项 They are likely to have financial troubles 把原文 those who stay on are more likely doing\nC) 无中生有：C 项 They generally don't enjoy doing it 说 \"他们通常不喜欢做这工作\"，但原文只说他们更期待退休、并未直接评价是否喜欢工作；不能由 \"期待退\nD) ✓ 正确：may be more likely to look forward to retiring ↔ They tend to anticipate retirement 预判抓 \"期"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n近年来，中国政府高度重视民营经济(private economy)的发展，出台了一系列政策支持民营企业。截至 2025 年 3 月底，全国民营企业数量超过 5700 万家，占企业总量的 92.3%。民营企业不仅数量稳步增长，质量和结构也在不断提升。民营企业的研发投入不断增加，在新一代信息技术、人工智能等领域发展迅速。民营企业核心竞争力的增强为中国经济的高质量发展提供了有力支撑。",
+              "analysis": "【参考译文】\nIn recent years, the Chinese government has attached great importance to the development of the private economy and introduced a series of policies to support private enterprises. By the end of March 2025, the number of private enterprises nationwide exceeded 57 million, accounting for 92.3% of the total number of enterprises. Private enterprises are not only growing steadily in number but also improving in quality and structure. They are also increasing their R&D investment and developing rapidly in fields such as next-generation information technology and artificial intelligence. As a result, the enhancement of private enterprises' core competitiveness provides strong support for the high-quality development of China's economy."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-12-1/",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 43
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2025-12-1/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

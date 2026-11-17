@@ -40,10 +40,19 @@ type PracticeState = {
     vocabWords: Record<string, string>;
     startId?: string;
   }) => void;
+  /**
+   * 同一套卷内切篇（选词填空 / 匹配 / 阅读一 / 阅读二）。
+   * 不能再用 init：init 会用服务端首屏快照重建 answers，把用户刚做的题冲掉。
+   */
+  syncQuestions: (payload: {
+    order: string[];
+    answers: Record<string, AnswerEntry>;
+    startId?: string;
+  }) => void;
   goTo: (id: string) => void;
   next: () => void;
   prev: () => void;
-  select: (questionId: string, choice: string) => void;
+  select: (questionId: string, choice: string | null) => void;
   markSubmitted: (questionId: string, result: AnswerResult) => void;
   toggleFavoriteLocal: (questionId: string, value: boolean) => void;
   addVocabLocal: (word: string, brief: string) => void;
@@ -83,6 +92,15 @@ export const usePracticeStore = create<PracticeState>((set, get) => ({
       drawer: null,
       jump: null,
     }),
+
+  syncQuestions: ({ order, answers, startId }) =>
+    set((state) => ({
+      order,
+      currentId:
+        startId && order.includes(startId) ? startId : (order[0] ?? state.currentId),
+      // 客户端已有的作答优先，服务端快照只补本篇还没碰过的题
+      answers: { ...answers, ...state.answers },
+    })),
 
   goTo: (id) => {
     if (!get().order.includes(id)) return;

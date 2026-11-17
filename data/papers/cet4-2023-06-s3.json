@@ -1,0 +1,2681 @@
+{
+  "id": "cet4-2023-06-s3",
+  "level": "CET4",
+  "year": 2023,
+  "month": 6,
+  "setNo": 3,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose the student union of your university is organizing an online discussion on college students doing community service. You are to write an essay on its benefits and the service you can provide to the community. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nThese days, more and more college students are getting involved in community service. In my view, this is a meaningful practice that benefits both the community and ourselves.\n\nCommunity service brings benefits to both society and the people who offer it. On the one hand, it warms our neighborhood: by visiting lonely elderly people or helping local children with their studies, we deliver real care to those in need. On the other hand, it shapes us as individuals, since serving others trains our communication skills and sense of responsibility. As for me, the service I can provide is teaching English. Being good at this subject, I plan to offer free English lessons to children in my community every weekend, so that they can enjoy learning and grow with confidence.\n\nIn short, doing community service is well worth our effort, as it helps others and improves ourselves at the same time. I sincerely hope that more of us will step out and act."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "本场次听力只有一份音频，本套听力与同场第一套同卷；原文、题目与答案取自该套真题。考场多套卷的选项顺序可能不同，这里沿用第一套的顺序。在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 11.2,
+              "text": "A woman was charged with allegedly violating a Rhode Island city law against feeding wild animals. The 55-year-old woman's neighbors blame her for making the area's rat problem worse.",
+              "zh": "一名女子被指控涉嫌违反罗德岛州某市禁止喂食野生动物的法律。这名55岁女子的邻居指责她加剧了该地区的老鼠问题。"
+            },
+            {
+              "id": 2,
+              "start": 11.5,
+              "end": 20,
+              "text": "Newly installed cameras captured several rats active in the middle of the day. Neighbors say that it's even worse during the night.",
+              "zh": "新安装的摄像头拍摄到数只老鼠在白天活动。邻居们表示夜间情况更加严重。"
+            },
+            {
+              "id": 3,
+              "start": 20.4,
+              "end": 27.3,
+              "text": "The woman and her parents, who own the home, told reporters that she's being charged for feeding birds.",
+              "zh": "这名女子及其拥有该房产的父母告诉记者,她被指控的原因是喂鸟。"
+            },
+            {
+              "id": 4,
+              "start": 27.7,
+              "end": 33,
+              "text": "\"Who would have known just loving animals gets you that much trouble,\" she said.",
+              "zh": "她说:\"谁能想到仅仅是喜爱动物就会惹来这么大的麻烦。\""
+            },
+            {
+              "id": 5,
+              "start": 33.4,
+              "end": 45.3,
+              "text": "It is prohibited to feed any wild animals including birds in Rhode Island City. Nevertheless, while the woman's intention was to feed birds, it is clear that rats were also benefiting.",
+              "zh": "在罗德岛市,禁止喂食包括鸟类在内的任何野生动物。然而,尽管该女子的本意是喂鸟,但显然老鼠也从中受益。"
+            },
+            {
+              "id": 6,
+              "start": 45.6,
+              "end": 57.2,
+              "text": "Anthony Moretti, director of the city administration, said he saw more than 20 rats near the woman's home. He said it will take months to get the problem under control.",
+              "zh": "市政管理部门主任Anthony Moretti表示,他在该女子家附近看到了20多只老鼠。他说控制这个问题需要数月时间。"
+            }
+          ],
+          "audioDuration": 57.2,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What do we learn from the report about the 55-year-old woman?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She was involved in a conflict with bird lovers."
+                },
+                {
+                  "key": "B",
+                  "text": "She was charged with mistreating animals."
+                },
+                {
+                  "key": "C",
+                  "text": "She was on bad terms with her neighbors."
+                },
+                {
+                  "key": "D",
+                  "text": "She was accused of violating a city law."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：A woman was charged with allegedly violating a Rhode Island city law against feeding wild animals.信号：导语句即答案句 。A woman was charged with allegedly violating a Rhode Island city law against feeding wild animals. …",
+              "optionAnalysis": {
+                "A": "原词陷阱：She was involved in a conflict with bird lovers. 利用录音多次提到的 birds / feeding birds 制造「她与爱鸟者起冲突」的假象，但录音通篇只说她「以为自己在喂鸟」，从未出现她和任何 bird lovers 群体的冲突，是典型的「听到 bird 就想选」。 借用原文：was charged with allegedly violating a Rhode Island city law against feeding wild animals",
+                "B": "偷换概念：She was charged with mistreating animals. 沿用了录音里 was charged with 的句式结构和 animals 这个词，但把违法内容从「违反禁止投喂的市法规」偷换成「虐待动物」——录音从未提及任何虐待行为，反而她声称是「出于爱」在喂。 借用原文：The 55-year-old woman's neighbors blame her",
+                "C": "过度推断：She was on bad terms with her neighbors. 利用录音 The 55-year-old woman's neighbors blame her 里出现的 neighbors blame 来诱选；但 blame 是针对此次鼠患的具体指责，新闻并未交代他们一贯关系不和，把「具体事件上的指责」升级成「长期关系恶劣」属于过度推断。",
+                "D": "正确项：与答案句同义替换（was charged with allegedly violating a Rhode Island city law ↔ was accused of violating a city law charge≈accuse 同义替换）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "A woman was charged with allegedly violating a Rhode Island city law against feeding wild animals.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What did the director of the city administration say at the end of the news report?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It will take time to solve the rat problem."
+                },
+                {
+                  "key": "B",
+                  "text": "All wild animals should be well protected."
+                },
+                {
+                  "key": "C",
+                  "text": "The woman was not to blame for the situation."
+                },
+                {
+                  "key": "D",
+                  "text": "No one should go unpunished for violating law."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P6）：Anthony Moretti, director of the city administration, said he saw more than 20 rats near the woman's home. He said it will take months to get the problem under control.信号：末段官员引语 。He said it will take months to get the problem under control. 出现在新闻最后一段、由 director of the city admin…",
+              "optionAnalysis": {
+                "B": "原词陷阱：All wild animals should be well protected. 借用了录音里多次出现的 wild animals 做诱饵，但官员从未谈论「应保护所有野生动物」这种价值口号，他只是描述老鼠数量和耗时，All wild animals 属于绝对化范围扩大。 借用原文：Nevertheless, while the woman's intention was to feed birds, it is clear that rats were also benefiting.",
+                "C": "与原文相反：The woman was not to blame for the situation. 与录音传递的态度相反——录音 Nevertheless, while the woman's intention was to feed birds, it is clear that rats were also benefiting. 明确指出「尽管她本意是喂鸟，但老鼠也因此得利」，是把责任与她挂钩，而非为她开脱。 借用原文：It is prohibited to feed any wild animals including birds in Rhode Island City.",
+                "D": "张冠李戴：No one should go unpunished for violating law. 看似呼应录音里 It is prohibited to feed any wild animals 的法律口吻，但这是新闻叙述者的背景交代，并非「director of the city administration」在末尾说的话，且 No one should go unpunished 这种绝对化执法口号录音中并未出现。",
+                "A": "正确项：与答案句同义替换（it will take months to get the problem under control ↔ It will take time to solve the rat problem. months≈time, under control≈solve）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "Anthony Moretti, director of the city administration, said he saw more than 20 rats near the woman's home. He said it will take months to get the problem under control.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 13.5,
+              "text": "To prepare for eventually sending astronauts to Mars, NASA began taking applications Friday for four people to live for a year in Mars Dune Alpha. That's a 1,700-square-foot Martian habitat inside a building in Houston.",
+              "zh": "为了准备最终将宇航员送往火星, NASA于周五开始接受四人申请,让他们在Mars Dune Alpha中生活一年。这是位于休斯顿一座建筑内的一个1700平方英尺的火星栖息地。"
+            },
+            {
+              "id": 2,
+              "start": 13.8,
+              "end": 22.3,
+              "text": "The paid volunteers will work in an environment similar to Mars. They will have limited communications with family, restricted food and resources.",
+              "zh": "这些有偿志愿者将在类似火星的环境中工作。他们与家人的通讯将受到限制,食物和资源也会受限。"
+            },
+            {
+              "id": 3,
+              "start": 22.7,
+              "end": 36.5,
+              "text": "NASA is planning three experiments with the first one starting in the fall next year. Food will all be ready-to-eat space food. Some plants will be grown, but not potatoes like in the movie The Martian.",
+              "zh": "NASA正在计划三次实验,第一次实验将于明年秋季开始。食物将全部是即食太空食品。会种植一些植物,但不会像电影《火星救援》中那样种植土豆。"
+            },
+            {
+              "id": 4,
+              "start": 36.9,
+              "end": 44.5,
+              "text": "\"We want to understand how humans perform in them,\" said lead scientist Grace Douglas. \"We are looking at Mars-realistic situations.\"",
+              "zh": "首席科学家Grace Douglas说:\"我们想了解人类在这些环境中的表现。我们关注的是符合火星实际情况的场景。\""
+            },
+            {
+              "id": 5,
+              "start": 44.9,
+              "end": 64.1,
+              "text": "The application process opens Friday and they're not seeking just anybody. The requirements are strict, including a master's degree in a science, engineering or math field or pilot experience. Only American citizens or permanent U.S. residents are acceptable. Applicants must be between 30 and 55 and in good physical health.",
+              "zh": "申请流程于周五开放,他们寻找的并非普通人选。要求非常严格,包括拥有科学、工程或数学领域的硕士学位或飞行员经验。只接受美国公民或美国永久居民。申请人必须年龄在30至55岁之间,身体健康状况良好。"
+            },
+            {
+              "id": 6,
+              "start": 64.4,
+              "end": 75.2,
+              "text": "Attitude is key, said former Canadian astronaut Chris Hadfield. He said the participants need to be super competent, resourceful, and not relying on other people to feel comfortable.",
+              "zh": "加拿大前宇航员Chris Hadfield表示,态度是关键。他说参与者需要非常能干、足智多谋,不依赖他人也能感到自在。"
+            }
+          ],
+          "audioDuration": 75.2,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What does NASA require the paid volunteers to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Communicate with astronauts in Mars Dune Alpha."
+                },
+                {
+                  "key": "B",
+                  "text": "Work in an environment resembling Mars."
+                },
+                {
+                  "key": "C",
+                  "text": "Build a Martian habitat in Houston."
+                },
+                {
+                  "key": "D",
+                  "text": "Send in applications before Friday."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：The paid volunteers will work in an environment similar to Mars.信号：题干主语原词复现 。题干主体是 the paid volunteers，录音第 2 段开头 The paid volunteers will work in an environment similar to Mar…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项里出现了录音原词 Mars Dune Alpha，但录音从头到尾没说志愿者要去和宇航员通讯，只在第 2 段提了 They will have limited communications with family——是和家人有限通讯，不是和宇航员通讯。把 Mars Dune Alpha 这个专名扣到一个原文没说的动作上骗你听到原词就选。 借用原文：a 1,700-square-foot Martian habitat inside a building in Houston",
+                "C": "录音说 a 1,700-square-foot Martian habitat inside a building in Houston，确实有 Martian habitat 和 Houston 两个原词，但志愿者是住进去而不是建。选项 Build a Martian habitat in Houston 把 habitat 和 Houston 拼到 Build 这个动词上，是把建造者的事安到志愿者头上，典型张冠李戴。 借用原文：NASA began taking applications Friday",
+                "D": "录音第 1 段念了 NASA began taking applications Friday，第 5 段也说 The application process opens Friday——Friday 这个词真的反复出现，但说的是 NASA 周五开始收申请，而不是 NASA 要求志愿者周五前递申请。Friday 是被盗用来骗 听到就想选 的原词。",
+                "B": "正确项：与答案句同义替换（will work in an environment similar to Mars ↔ Work in an environment resembling Mars similar to 替换 resembling）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The paid volunteers will work in an environment similar to Mars.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What will the participants in the project eat?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ready-made food."
+                },
+                {
+                  "key": "B",
+                  "text": "Food that is organic."
+                },
+                {
+                  "key": "C",
+                  "text": "Food they grow."
+                },
+                {
+                  "key": "D",
+                  "text": "Potatoes mostly."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：Food will all be ready-to-eat space food. Some plants will be grown, but not potatoes like in the movie The Martian.信号：Food 起首+all 强调 。录音第 3 段那一句 Food will all be ready-to-eat space food. 以题干关键词 Food 起首，且用 all 这种范围最大、最绝对的修饰词强调全…",
+              "optionAnalysis": {
+                "B": "未提及：录音从头到尾没有出现 organic 这个词，也没说食物是天然有机的；选项 Food that is organic. 是凭电影或常识对火星实验食物的想象，属于录音没说就硬塞的未提及干扰。",
+                "C": "录音确实念了 Some plants will be grown，grown 这个原词被选项 Food they grow. 直接盗用；但原文用 Some 限定只是一些，且强调 Food will all be ready-to-eat——食物全部是即食的，植物种植只是次要补充，不是吃的来源。听到 grown 就想选 C 是这道题最大的诱惑。 借用原文：but not potatoes like in the movie The Martian",
+                "D": "录音里 but not potatoes like in the movie The Martian 明确用 but not 否定了土豆，选项 Potatoes mostly. 却把它当作主食呈现，与原文方向完全相反。potatoes 这个原词被盗来诱惑那些被电影《火星救援》带偏的考生。",
+                "A": "正确项：与答案句同义替换（ready-to-eat space food ↔ Ready-made food ready-to-eat=ready-made）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Food will all be ready-to-eat space food. Some plants will be grown, but not potatoes like in the movie The Martian.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 17.3,
+              "text": "A Japanese mayor apologized Thursday for biting the Olympic gold medal of a softball player. Nagoya mayor Takashi Kawamura had praised an athlete, Miu Goto, during a public media event. He asked her to put the medal around his neck. Kawamura then bit into it.",
+              "zh": "日本一位市长周四为咬了一名垒球运动员的奥运金牌道歉。名古屋市长河村隆之在一次公开媒体活动中表扬了运动员后藤希友。他请她把奖牌挂在他的脖子上。随后河村咬了那枚奖牌。"
+            },
+            {
+              "id": 2,
+              "start": 17.7,
+              "end": 28,
+              "text": "Biting a medal in front of journalists and photographers has become a common pose for Olympic medalists. However, it is only for the winners themselves, not others.",
+              "zh": "在记者和摄影师面前咬奖牌已成为奥运奖牌获得者的常见姿势。然而,这只适用于获奖者本人,而非其他人。"
+            },
+            {
+              "id": 3,
+              "start": 28.4,
+              "end": 34.5,
+              "text": "\"I'm really sorry that I hurt the treasure of the gold medalist,\" Kawamura told reporters Thursday.",
+              "zh": "河村周四告诉记者:\"我真的很抱歉伤害了金牌得主的珍宝。\""
+            },
+            {
+              "id": 4,
+              "start": 34.9,
+              "end": 42.2,
+              "text": "The mayor said the medal was undamaged, though he offered to pay for the cost of a new one.",
+              "zh": "市长表示奖牌没有损坏,不过他提出愿意支付一枚新奖牌的费用。"
+            },
+            {
+              "id": 5,
+              "start": 42.6,
+              "end": 49.1,
+              "text": "Goto, however, has accepted the International Olympic Committee's offer of a replacement, according to Japanese media reports.",
+              "zh": "然而,据日本媒体报道,后藤已接受国际奥委会提供的替换奖牌。"
+            },
+            {
+              "id": 6,
+              "start": 49.5,
+              "end": 62.1,
+              "text": "The scene broadcast on television prompted thousands of complaints to city hall. Some Olympians said they treat their medals as treasures and that it was disrespectful and unacceptable for Kawamura to bite one.",
+              "zh": "电视上播出的这一幕引发了数千人向市政厅投诉。一些奥运选手表示,他们把奖牌视为珍宝,河村咬奖牌是不尊重的、不可接受的行为。"
+            },
+            {
+              "id": 7,
+              "start": 62.5,
+              "end": 72.8,
+              "text": "\"I would cry if that happened to me,\" said another athlete, Naohisa Takato. \"I handle my own gold medal so gently that I would not scratch it.\"",
+              "zh": "另一位运动员高藤直寿说:\"如果这发生在我身上,我会哭的。我对待自己的金牌非常温柔,不会让它划伤。\""
+            }
+          ],
+          "audioDuration": 72.8,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What do the news reports say about the Japanese mayor Takashi Kawamura?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He apologized for scratching an athlete's gold medal."
+                },
+                {
+                  "key": "B",
+                  "text": "He was asked to present a gold medal to Miu Goto."
+                },
+                {
+                  "key": "C",
+                  "text": "He bit a softball player's Olympic gold medal."
+                },
+                {
+                  "key": "D",
+                  "text": "He attracted public attention at a media event."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：A Japanese mayor apologized Thursday for biting the Olympic gold medal of a softball player.信号：新闻首句即考点 。新闻类录音的第一句往往就是核心事件概述，本题答案直接落在 A Japanese mayor apologized Thursday for biting the Olympic gold medal…",
+              "optionAnalysis": {
+                "A": "张冠李戴：A 项说他为 scratching（刮花）金牌道歉，但录音原文 apologized Thursday for biting 道歉的对象是 bit（咬），不是 scratch。scratch 一词反而出现在第 7 段 I would not scratch it，是另一位运动员说的话，属于张冠李戴。 借用原文：He asked her to put the medal around his neck.",
+                "B": "与原文相反：B 项说市长被要求把金牌颁给 Miu Goto，但录音 He asked her to put the medal around his neck. 恰恰相反——是市长请运动员把奖牌挂在他自己脖子上，方向颠倒。 借用原文：Nagoya mayor Takashi Kawamura had praised an athlete, Miu Goto, during a public media event.",
+                "D": "原词陷阱：D 项说他在 media event 上吸引了公众关注。录音 during a public media event 确实出现 media event，但'吸引公众关注'是事件附带的结果，不是新闻报道的核心事件，与题干 What do the news reports say about… 的核心不符。",
+                "C": "正确项：与答案句同义替换（biting the Olympic gold medal of a softball player ↔ bit a softball player's Olympic gold medal 动名词换过去式）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "A Japanese mayor apologized Thursday for biting the Olympic gold medal of a softball player.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What did mayor Takashi Kawamura offer to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Have another picture taken with the Olympic medalist."
+                },
+                {
+                  "key": "B",
+                  "text": "Apologize to the International Olympic Committee."
+                },
+                {
+                  "key": "C",
+                  "text": "Get the damaged medal repaired."
+                },
+                {
+                  "key": "D",
+                  "text": "Pay for the cost of a new medal."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：The mayor said the medal was undamaged, though he offered to pay for the cost of a new one.信号：题干原词直接命中 。录音里 he offered to pay for the cost of a new one 直接出现题干的核心动词 offered，紧接其后的 to pay for the cost of a…",
+              "optionAnalysis": {
+                "A": "未提及：A 项说再拍一张照。录音里确实出现 photographers（第 2 段），但市长并没有提出'再拍一张'，A 是无中生有。",
+                "B": "原词陷阱：B 项说他要向 International Olympic Committee 道歉。录音 Goto, however, has accepted the International Olympic Committee's offer of a replacement 里确实出现 International Olympic Committee，但那是奥委会向运动员提供替换奖牌，与市长的道歉对象无关。市长道歉对象是 reporters（Kawamura told reporters Thursday）。 借用原文：the medal was undamaged",
+                "C": "与原文相反：C 项预设奖牌已 damaged 需要修，但录音 the medal was undamaged 明确说市长称奖牌并未受损，故无需修复。前缀 un- 一字之差，方向完全相反。",
+                "D": "正确项：与答案句同义替换（offered to pay for the cost of a new one ↔ Pay for the cost of a new medal. 代词还原为名词）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "The mayor said the medal was undamaged, though he offered to pay for the cost of a new one.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What did some Olympians say they would do with their medals?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Allow no one to touch them."
+                },
+                {
+                  "key": "B",
+                  "text": "See them as symbols of honor."
+                },
+                {
+                  "key": "C",
+                  "text": "Treat them as treasures."
+                },
+                {
+                  "key": "D",
+                  "text": "Keep them in a safe place."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P6）：Some Olympians said they treat their medals as treasures and that it was disrespectful and unacceptable for Kawamura to bite one.信号：题干引述结构对位 。录音 Some Olympians said they treat their medals as treasures 几乎与题干 Some Olympians say they would do…",
+              "optionAnalysis": {
+                "A": "未提及：A 项说不让任何人碰。录音里没有任何一句话说'不允许任何人触碰'，运动员只是说视若珍宝、会轻拿轻放（I handle my own gold medal so gently），并没有提到 touch 这件事。",
+                "B": "过度推断：B 项把奖牌看作 symbols of honor（荣誉象征）。录音里运动员说的是 treat as treasures（视若珍宝）和 handle gently（轻拿轻放），并没有上升到'荣誉象征'这种抽象概念，属于过度推断。",
+                "D": "未提及：D 项说放在 safe place（安全的地方）。录音通篇没有提到把奖牌放在哪里这一存放地点信息，运动员的表述只关乎'如何对待'与'如何轻拿轻放'，不涉及存放位置。",
+                "C": "正确项：与答案句同义替换（they treat their medals as treasures ↔ Treat them as treasures. 近乎原词复现）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "Some Olympians said they treat their medals as treasures and that it was disrespectful and unacceptable for Kawamura to bite one.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 3.5,
+              "text": "M: What's that orange thing on your computer screen?",
+              "zh": "M: 你电脑屏幕上那个橙色的东西是什么？"
+            },
+            {
+              "id": 2,
+              "start": 3.9,
+              "end": 13.8,
+              "text": "W: It's something I bought yesterday. It's a plastic sheet that blocks blue light. I have one that I use to cover my phone screen too.",
+              "zh": "W: 这是我昨天买的。是一张能阻挡蓝光的塑料贴膜。我还有一张用来贴手机屏幕的。"
+            },
+            {
+              "id": 3,
+              "start": 14.2,
+              "end": 17.2,
+              "text": "M: What do you mean by blue light?",
+              "zh": "M: 你说的蓝光是什么意思？"
+            },
+            {
+              "id": 4,
+              "start": 17.6,
+              "end": 26.8,
+              "text": "W: Blue light includes natural light, but it also includes light that isn't natural, for example, from computers, phones, televisions and other electronic devices.",
+              "zh": "W: 蓝光包括自然光，但也包括非自然光，比如来自电脑、手机、电视和其他电子设备的光。"
+            },
+            {
+              "id": 5,
+              "start": 27.2,
+              "end": 32.5,
+              "text": "M: So blue light is harmful and that's why you want to block it.",
+              "zh": "M: 所以蓝光是有害的，这就是你想阻挡它的原因。"
+            },
+            {
+              "id": 6,
+              "start": 32.9,
+              "end": 55.9,
+              "text": "W: It isn't that simple. Blue light isn't necessarily bad for us. In fact, we need blue light during the day to be healthy. But too much blue light, especially from electronic devices, can harm our health by weakening our vision and making it harder for us to fall asleep. And poor sleep can cause all sorts of health problems.",
+              "zh": "W: 没那么简单。蓝光不一定对我们有害。事实上，我们白天需要蓝光来保持健康。但过多的蓝光，尤其是来自电子设备的蓝光，会削弱我们的视力，让我们更难入睡，从而损害我们的健康。而睡眠不好会导致各种健康问题。"
+            },
+            {
+              "id": 7,
+              "start": 56.3,
+              "end": 79.7,
+              "text": "M: I'm not so sure that sleep is nearly as important as people always say it is. I haven't slept enough in months because I have too much work to do, and I feel fine. And it's the same for most of my friends. Poor sleep might be a problem for older people, but surely young people can handle late nights.",
+              "zh": "M: 我不太确定睡眠真的像人们常说的那么重要。我好几个月都没睡够了，因为工作太多，但我感觉挺好的。我大多数朋友也是这样。睡眠不好可能对老年人是个问题，但年轻人肯定能应付熬夜吧。"
+            },
+            {
+              "id": 8,
+              "start": 80,
+              "end": 100,
+              "text": "W: Well, the research I've read shows that sleep is probably even more important than we thought, and that not having enough sleep can contribute to serious health problems like obesity and heart disease. And all the artificial blue light from electronic devices means we have to try harder to sleep well.",
+              "zh": "W: 嗯，我读到的研究表明，睡眠可能比我们想象的还要重要，睡眠不足会导致肥胖和心脏病等严重的健康问题。而且电子设备发出的所有人造蓝光意味着我们必须更努力才能睡好。"
+            },
+            {
+              "id": 9,
+              "start": 100.3,
+              "end": 108,
+              "text": "M: Maybe you're right. I'm on my computer very late most nights, and that's probably why I don't sleep enough.",
+              "zh": "M: 也许你说得对。我大多数晚上都很晚还在用电脑，这可能就是我睡眠不足的原因。"
+            }
+          ],
+          "audioDuration": 108,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "What did the woman do to her computer?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She covered its screen with a plastic sheet."
+                },
+                {
+                  "key": "B",
+                  "text": "She connected it with her smartphone."
+                },
+                {
+                  "key": "C",
+                  "text": "She decorated it with colorful stickers."
+                },
+                {
+                  "key": "D",
+                  "text": "She bought some new software for it."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：It's a plastic sheet that blocks blue light.信号：被问者对 What's that 的直接应答 。男士开口就问 What's that orange thing on your computer screen?，女士紧接着在 It's a plastic sheet…",
+              "optionAnalysis": {
+                "B": "原词陷阱：B 选项把 She connected it with her smartphone.\"把电脑连到手机\"塞进来——但原文只是说 I have one that I use to cover my phone screen too，提到 phone 仅仅是说\"我手机屏幕上也贴了一张\"，根本没有\"把电脑连到手机\"的动作。 借用原文：It's a plastic sheet that blocks blue light.",
+                "C": "偷换概念：C 把女士的动作改成了 She decorated it with colorful stickers.\"用彩色贴纸装饰\"，原文 It's a plastic sheet that blocks blue light. 说的是\"阻挡蓝光的塑料膜\"，目的在于功能、不是装饰，颜色（橙）只是膜本身颜色而不是\"贴纸\"。 借用原文：It's something I bought yesterday.",
+                "D": "原词陷阱：D 把她买的东西说成 She bought some new software for it.\"新软件\"，可原文清楚说 It's something I bought yesterday. It's a plastic sheet——买的是\"塑料膜\"这一实物，不是软件。",
+                "A": "正确项：与答案句同义替换（plastic sheet that blocks blue light ↔ plastic sheet 选项原词复现自原文）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "It's a plastic sheet that blocks blue light.",
+              "type": "细节题"
+            },
+            {
+              "number": 9,
+              "stem": "What does the woman say about blue light?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It may not be simply blue."
+                },
+                {
+                  "key": "B",
+                  "text": "It includes unnatural light."
+                },
+                {
+                  "key": "C",
+                  "text": "It is more harmful to young people."
+                },
+                {
+                  "key": "D",
+                  "text": "It induces people to fall asleep."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：Blue light includes natural light, but it also includes light that isn't natural, for example, from computers, phones, televisions and other electronic devices.信号：but … also includes 的修正信号 。女士先给一个\"轻\"的说法 Blue light includes natural light，紧跟着 but it also includes light tha…",
+              "optionAnalysis": {
+                "A": "偷换概念：It may not be simply blue.\"它可能不只是蓝色\"说的是\"颜色不只蓝\"，可录音从未谈过蓝光\"颜色\"的复杂性，谈的是\"光源\"是否自然。两者讨论的层面不同。 借用原文：Poor sleep might be a problem for older people, but surely young people can handle late nights.",
+                "C": "张冠李戴：录音中提到 Poor sleep might be a problem for older people, but surely young people can handle late nights. 是\"男士\"的看法，谈的是\"年轻人 vs 老人扛夜\"，并不是女士对\"蓝光对年轻人更有害\"的表态；女士全程没说蓝光对年轻人特别更糟。 借用原文：making it harder for us to fall asleep",
+                "D": "与原文相反：It induces people to fall asleep. 说蓝光\"让人入睡\"，可女士明确表态 making it harder for us to fall asleep——蓝光过多反而让人更难入睡，方向完全相反。",
+                "B": "正确项：与答案句同义替换（light that isn't natural ↔ unnatural light isn't natural=unnatural）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Blue light includes natural light, but it also includes light that isn't natural, for example, from computers, phones, televisions and other electronic devices.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "Why does the man say he hasn't slept enough for months?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He has had much trouble falling asleep."
+                },
+                {
+                  "key": "B",
+                  "text": "He has had some sort of health problems."
+                },
+                {
+                  "key": "C",
+                  "text": "He has stayed up playing computer games."
+                },
+                {
+                  "key": "D",
+                  "text": "He has been burdened with excessive work."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P7）：I haven't slept enough in months because I have too much work to do, and I feel fine.信号：because 的因果信号 。男士在 I haven't slept enough in months because I have too much work to do 里用 because 直接给出原因——\"工…",
+              "optionAnalysis": {
+                "A": "偷换概念：He has had much trouble falling asleep. 是\"努力睡却睡不着\"，可男士说的是 I haven't slept enough in months because I have too much work to do——他不是睡不着，而是没时间睡。 trouble falling asleep（失眠）和 not having time to sleep（没时间睡）是两回事。 借用原文：not having enough sleep can contribute to serious health problems",
+                "B": "偷换概念：He has had some sort of health problems. 暗示\"有健康问题所以没睡够\"，可原文里男士反而说 I feel fine——他根本没承认自己有健康问题；况且原文谈\"健康问题\"是作为\"长期缺睡可能导致的后果\"出现，不是男士没睡够的原因。 借用原文：I'm on my computer very late most nights",
+                "C": "原词陷阱：He has stayed up playing computer games. 借 computer 这个录音里反复出现的原词制造\"听见 computer 就想选\"的诱惑。但原文里 computer 都用于 I'm on my computer very late most nights 等场合——他熬夜是在\"用电脑工作\"，根本没说在\"玩游戏\"。",
+                "D": "正确项：与答案句同义替换（too much work to do ↔ been burdened with excessive work too much=excessive）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "I haven't slept enough in months because I have too much work to do, and I feel fine.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What has the woman learned from the research she has read?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Exposure to blue light is the chief cause of obesity."
+                },
+                {
+                  "key": "B",
+                  "text": "Sleep may be more important than people assumed."
+                },
+                {
+                  "key": "C",
+                  "text": "Sleep may also be negatively affected by natural light."
+                },
+                {
+                  "key": "D",
+                  "text": "Overuse of electronic devices may cause heart disease."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P8）：Well, the research I've read shows that sleep is probably even more important than we thought, and that not having enough sleep can contribute to serious health problems like obesity and heart disease.信号：the research shows that 的结论句框 。女士开口就用 the research I've read shows that 这一典型结论句框启动答案句，紧跟着的 sleep is probably…",
+              "optionAnalysis": {
+                "A": "过度推断：原文 not having enough sleep can contribute to serious health problems like obesity and heart disease 只说\"缺睡可能导致肥胖等问题\"，主语是\"缺睡\"，且用 contribute to 这种有限度的因果措辞；A 把锅甩到 Exposure to blue light 头上，并升级为 the chief cause of obesity 这种独占性主因——既偷换了主语，又夸大了因果强度。 借用原文：all the artificial blue light from electronic devices means we have to try harder to sleep well",
+                "C": "与原文相反：原文反复说 artificial blue light from electronic devices 干扰睡眠，矛头是\"非自然 / 人造\"蓝光；C Sleep may also be negatively affected by natural light. 偏偏把矛头扭到 natural light，与原文方向完全相反。 借用原文：not having enough sleep can contribute to serious health problems like obesity and heart disease",
+                "D": "偷换概念：原文把 heart disease 仅作为 serious health problems like obesity and heart disease 的举例之一，主语是\"缺睡\"；D Overuse of electronic devices may cause heart disease. 把主语换成\"过度使用电子设备\"、把举例\"心脏病\"提到结论位置，既偷换主语又拉直因果链。",
+                "B": "正确项：与答案句同义替换（even more important than we thought ↔ more important than people assumed we thought=people assumed）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "Well, the research I've read shows that sleep is probably even more important than we thought, and that not having enough sleep can contribute to serious health problems like obesity and heart disease.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 6.5,
+              "text": "W: As a kid, did you know what job you wanted to do when you grew up?",
+              "zh": "W: 你小时候知道自己长大后想做什么工作吗？"
+            },
+            {
+              "id": 2,
+              "start": 6.8,
+              "end": 15.3,
+              "text": "M: No, I didn't. And I got sick every time adults asked me what I wanted to be when I grew up.",
+              "zh": "M: 不知道。每次大人问我长大后想做什么，我都觉得烦。"
+            },
+            {
+              "id": 3,
+              "start": 15.7,
+              "end": 47.2,
+              "text": "W: It's the same with me. And I'm tired of people asking that question of my 10-year-old daughter. My daughter's stock answers are basketball player, pop singer, mechanical engineer. Adults love that last one, as it's the perfect mix of the sensible and the ambitious. When she was much younger, my daughter used to say she wanted to be Queen of the Clouds, which I loved. That's the kind of goal-setting I like to see in children, springing from their boundless imaginations.",
+              "zh": "W: 我也是。我也受够了别人老问我10岁女儿这个问题。我女儿的标准答案是篮球运动员、流行歌手、机械工程师。大人们特别喜欢最后那个，因为它既实际又有抱负，是完美的结合。我女儿小时候曾说她想当云朵女王，我特别喜欢这个。这才是我希望在孩子身上看到的那种目标设定，源于他们无边无际的想象力。"
+            },
+            {
+              "id": 4,
+              "start": 47.6,
+              "end": 62.2,
+              "text": "M: Yes, we grown-ups can be tedious and limiting in our need for reality. And we teach a very gloomy image of adulthood—that whatever our children's future holds, it must be seen within the context of a job.",
+              "zh": "M: 是啊，我们成年人为了现实可能会变得乏味和局限。而且我们给孩子灌输了一种非常灰暗的成年生活形象——无论我们孩子的未来是什么样的，都必须放在工作这个框架里看。"
+            },
+            {
+              "id": 5,
+              "start": 62.6,
+              "end": 64.9,
+              "text": "W: How utterly overwhelming and dull!",
+              "zh": "W: 这太让人喘不过气来了，而且多无聊啊！"
+            },
+            {
+              "id": 6,
+              "start": 65.3,
+              "end": 76.4,
+              "text": "M: When people ask my son what he wants to be when he grows up, I have to swallow the urge to say, \"Hey, back off my kid's dreams!\"",
+              "zh": "M: 每当有人问我儿子长大后想做什么时，我都得忍住不说：嘿，别对我孩子的梦想指手画脚！"
+            },
+            {
+              "id": 7,
+              "start": 76.8,
+              "end": 90.6,
+              "text": "W: We can't dismiss the idea that teenagers have to plan to do something after they finish school, and parents are entitled to hope it's more than simply spending 10 hours a day playing computer games.",
+              "zh": "W: 我们不能否认青少年确实需要为毕业后做点什么而规划，家长也有权希望那不仅仅是每天花10个小时玩电脑游戏。"
+            },
+            {
+              "id": 8,
+              "start": 90.9,
+              "end": 102.9,
+              "text": "M: But asking \"What do you want to be?\" isn't going to lead a child to a fulfilled life, rather at least to false expectations and a high chance of disappointment.",
+              "zh": "M: 但问\"你想做什么\"并不会引导孩子走向充实的人生，反而至少会带来错误的期望和很大的失望可能。"
+            },
+            {
+              "id": 9,
+              "start": 103.3,
+              "end": 112.9,
+              "text": "W: Exactly. We should be helping our kids understand who they are, even if that means letting go of who we think they should be.",
+              "zh": "W: 没错。我们应该帮助孩子了解他们自己是谁，即使这意味着放下我们认为他们应该成为什么样的人。"
+            }
+          ],
+          "audioDuration": 112.9,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What question were both speakers fed up with when they were kids?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "What they wanted to be when grown up."
+                },
+                {
+                  "key": "B",
+                  "text": "What their favorite cartoon character was."
+                },
+                {
+                  "key": "C",
+                  "text": "What they learned from computer games."
+                },
+                {
+                  "key": "D",
+                  "text": "What they liked to do most after school."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：And I got sick every time adults asked me what I wanted to be when I grew up.信号：被问者的直接应答信号 got sick 。女问 did you know what job you wanted to do when you grew up? 后，男方在第二段用 I got sick every …",
+              "optionAnalysis": {
+                "B": "整段对话从未出现 cartoon 或具体的卡通形象名称，What their favorite cartoon character was. 属于无中生有。",
+                "C": "原词陷阱：录音第七段 spending 10 hours a day playing computer games 真的念了 computer games，但语境是女方说『家长希望孩子放学别只打游戏』，与『被问烦了的童年问题』完全无关；选项 What they learned from computer games. 借用了 computer games 这个原词来骗『听到就想选』。",
+                "D": "偷换概念：对话谈的是『长大后想做什么』，没有出现 after school 这种放学时段的具体话题，What they liked to do most after school. 属于偷换概念，把『长大目标』换成了『日常活动』。",
+                "A": "正确项：与答案句同义替换（what I wanted to be when I grew up ↔ What they wanted to be when grown up. 人称与时态同义改写）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "And I got sick every time adults asked me what I wanted to be when I grew up.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What occupation do adults see as both sensible and ambitious according to the woman?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A stock broker."
+                },
+                {
+                  "key": "B",
+                  "text": "A pop singer."
+                },
+                {
+                  "key": "C",
+                  "text": "A mechanical engineer."
+                },
+                {
+                  "key": "D",
+                  "text": "A basketball player."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：My daughter's stock answers are basketball player, pop singer, mechanical engineer. Adults love that last one, as it's the perfect mix of the sensible and the ambitious.信号：指代锁定 + 因果信号 as 。原文用 that last one 指代列举里排在最后的 mechanical engineer，紧接着 as 引出原因 the perfect mix of the sensible…",
+              "optionAnalysis": {
+                "A": "整段录音从未出现 stock broker 这个职业，A stock broker. 属无中生有，可能是利用『一听就显得 ambitious』的常识脑补干扰。",
+                "B": "录音里确实念到 pop singer，但它只是被列举的三个选项之一，并不是大人 love 的那一项；A pop singer. 借原词诱选，盗用了 pop singer 这个词。 借用原文：basketball player",
+                "D": "basketball player 也是被女方提到的列举项之一，但同样不是大人最喜欢那一项，A basketball player. 也是利用原词诱选。",
+                "C": "正确项：与答案句同义替换（that last one ↔ A mechanical engineer. 顺位指代还原）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "My daughter's stock answers are basketball player, pop singer, mechanical engineer. Adults love that last one, as it's the perfect mix of the sensible and the ambitious.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What kind of goal-setting does the woman like to see in children?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ambitious."
+                },
+                {
+                  "key": "B",
+                  "text": "Sensible."
+                },
+                {
+                  "key": "C",
+                  "text": "Imaginative."
+                },
+                {
+                  "key": "D",
+                  "text": "Practical."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：When she was much younger, my daughter used to say she wanted to be Queen of the Clouds, which I loved. That's the kind of goal-setting I like to see in children, springing from their boundless imaginations.信号：原话直引 the kind of goal-setting I like 与原因 springing from imaginations 。原文女方直接说 That's the kind of goal-settin…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音里出现 the perfect mix of the sensible and the ambitious，ambitious 确被念到，但语境是『大人对 mechanical engineer 的评价』，不是女方喜欢的立目标类型，Ambitious. 借原词诱选。 借用原文：the sensible",
+                "B": "原词陷阱：the sensible 同样出现在大人评价 mechanical engineer 那句里，并非女方喜欢的立目标类型；Sensible. 又是借原词诱选。 借用原文：we grown-ups can be tedious and limiting in our need for reality",
+                "D": "女方明确表达自己喜欢的是『来自想象力』的目标，而 Practical. 偏务实，恰是和『想象力』相反的方向；男方第四段还说 we grown-ups can be tedious and limiting in our need for reality，说明双方都批评『太务实』，所以 Practical 与女方立场相反。",
+                "C": "正确项：与答案句同义替换（springing from their boundless imaginations ↔ Imaginative. 名词到形容词的同源替换）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "When she was much younger, my daughter used to say she wanted to be Queen of the Clouds, which I loved. That's the kind of goal-setting I like to see in children, springing from their boundless imaginations.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "What does the woman suggest adults should do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Relax their strict control of their kids."
+                },
+                {
+                  "key": "B",
+                  "text": "Help their kids understand themselves."
+                },
+                {
+                  "key": "C",
+                  "text": "Impose their own dreams on their kids."
+                },
+                {
+                  "key": "D",
+                  "text": "Dismiss their high expectations of their kids."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P9）：We should be helping our kids understand who they are, even if that means letting go of who we think they should be.信号：we should be+建议动作信号 。女方在最后一段用 We should be helping our kids understand who they are 直接说出建议，we should 是最典型的建议…",
+              "optionAnalysis": {
+                "A": "录音并未谈到家长应放松对孩子的『严格控制』，只是说不要把自己的期望强加给孩子；Relax their strict control of their kids. 把『放下自己的预设』偷换成『放松严格控制』，扩大了原文范围。",
+                "C": "letting go of who we think they should be 表明女方主张『放下我们希望他们成为的样子』，等于反对把自己的梦强加给孩子；Impose their own dreams on their kids. 与原文立场完全相反，是反向陷阱。 借用原文：false expectations",
+                "D": "原词陷阱：录音第八段提到 false expectations，expectations 是原词，但语境是『问 What do you want to be 会带来虚假期望和失望』，并非要求家长 dismiss their high expectations；选项 Dismiss their high expectations of their kids. 借 expectations 这个原词诱选，又把『不要制造虚假期望』推断成『要彻底抛弃所有高期望』，过度推断。",
+                "B": "正确项：与答案句同义替换（helping our kids understand who they are ↔ Help their kids understand themselves. 宾语从句到反身代词的等值改写）"
+              },
+              "evidencePara": "P9",
+              "evidenceText": "We should be helping our kids understand who they are, even if that means letting go of who we think they should be.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 13.5,
+              "text": "Greater Internet access correlates directly with improved health care, education and economic development. People living in rural areas, however, lag behind in online use, which limits their access to government services, banking and job opportunities.",
+              "zh": "互联网接入的扩大与医疗保健、教育和经济发展的改善直接相关。然而,生活在农村地区的人们在网络使用方面落后,这限制了他们获得政府服务、银行业务和就业机会的途径。"
+            },
+            {
+              "id": 2,
+              "start": 13.8,
+              "end": 22.3,
+              "text": "Nowhere is this challenge clearer than in Africa. Most Africans live in rural areas that are tough to wire for Internet access.",
+              "zh": "这一挑战在非洲表现得最为明显。大多数非洲人生活在难以铺设互联网接入线路的农村地区。"
+            },
+            {
+              "id": 3,
+              "start": 22.7,
+              "end": 37.3,
+              "text": "Now, some phone companies are trying to introduce Internet-ready phones into African markets. Certain companies have started selling simple smartphones for only $20. Previously, the lowest price had been around $40, well out of reach for many people.",
+              "zh": "现在,一些手机公司正试图将支持互联网的手机引入非洲市场。某些公司已经开始销售售价仅为20美元的简易智能手机。此前,最低价格约为40美元,这对许多人来说遥不可及。"
+            },
+            {
+              "id": 4,
+              "start": 37.6,
+              "end": 60.7,
+              "text": "These devices are powered by software from the giant electronics company, KaiOS Technologies Limited. Most companies are trying to make phones ever more powerful and capable. But KaiOS went the other way. It made every effort to keep the essential capabilities of smartphones, but strip out costs and preserve battery life for people who likely have inadequate access to electricity.",
+              "zh": "这些设备由大型电子公司KaiOS Technologies Limited的软件驱动。大多数公司都在努力让手机变得更强大、功能更多。但KaiOS反其道而行之。它竭尽全力保留智能手机的基本功能,同时降低成本并延长电池续航时间,以满足那些可能无法充分获得电力供应的人们的需求。"
+            },
+            {
+              "id": 5,
+              "start": 61.1,
+              "end": 92.6,
+              "text": "The KaiOS devices offer an alternative to the more expensive models that remain out of reach of many Africans and contribute to the digital divide. The body of KaiOS phones is as basic as it gets. Instead of a touchscreen, they're controlled with an old-school keypad. They're designed for 3G networks because 4G coverage doesn't reach two thirds of Africa's customers. In total, KaiOS phones are made from about $15 worth of parts, while Apple's top-of-the-line iPhone has $390 worth of stuff.",
+              "zh": "KaiOS设备为许多非洲人提供了一种替代选择,那些价格更高的机型仍然遥不可及,并加剧了数字鸿沟。KaiOS手机的机身设计极其简单。它们不使用触摸屏,而是通过老式键盘进行操控。它们是为3G网络设计的,因为4G覆盖范围无法触及非洲三分之二的用户。总的来说, KaiOS手机由价值约15美元的零部件制成,而苹果公司的顶级iPhone则使用了价值390美元的材料。"
+            }
+          ],
+          "audioDuration": 92.6,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What are a number of phone companies trying to do in Africa?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Set up company branches."
+                },
+                {
+                  "key": "B",
+                  "text": "Improve its infrastructure."
+                },
+                {
+                  "key": "C",
+                  "text": "Introduce iPhones into its markets."
+                },
+                {
+                  "key": "D",
+                  "text": "Promote Internet-ready phones."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Now, some phone companies are trying to introduce Internet-ready phones into African markets.信号：句首 Now 引出新话题 。Now, some phone companies are trying to introduce Internet-ready phones into African markets. …",
+              "optionAnalysis": {
+                "A": "未提及：Set up company branches. 在录音里根本没出现 set up 或 branches 这类词，是凭'公司+非洲'凑出的常识推论，属于未提及类干扰。",
+                "B": "Improve its infrastructure. 借了 tough to wire for Internet access 这类'基建落后'的语境制造既视感，但原文从未说手机公司去改善基础设施，而是说他们另辟蹊径推廉价手机，是典型的原词陷阱+偷换概念。 借用原文：Apple's top-of-the-line iPhone has $390 worth of stuff.",
+                "C": "Introduce iPhones into its markets. 盗用了原文段尾 Apple's top-of-the-line iPhone has $390 worth of stuff. 这一处 iPhone 原词，但原文恰恰是把 iPhone 当成对照——非洲推的是低价 KaiOS 手机、不是 iPhone，这是典型原词陷阱+与原文相反。",
+                "D": "正确项：与答案句同义替换（introduce Internet-ready phones ↔ Promote Internet-ready phones. introduce≈promote 同义替换）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Now, some phone companies are trying to introduce Internet-ready phones into African markets.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "How do KaiOS smartphones differ from smartphones of most other companies?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They cater to Africans' needs."
+                },
+                {
+                  "key": "B",
+                  "text": "They are more expensive models."
+                },
+                {
+                  "key": "C",
+                  "text": "They are more powerful and capable"
+                },
+                {
+                  "key": "D",
+                  "text": "They boast the longest battery life."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P4）：Most companies are trying to make phones ever more powerful and capable. But KaiOS went the other way. It made every effort to keep the essential capabilities of smartphones, but strip out costs and preserve battery life for people who likely have inadequate access to electricity.信号：But + went the other way 双重转折 。But KaiOS went the other way. 里的 But 与 went the other way 是典型的双重转折信号，前一句 Most…",
+              "optionAnalysis": {
+                "B": "原词陷阱：They are more expensive models. 借了 more expensive models 这个原词，但原文恰恰是说 KaiOS 给出更便宜的替代品、绕开 more expensive models，与原文方向完全相反，是原词陷阱+与原文相反。 借用原文：Most companies are trying to make phones ever more powerful and capable.",
+                "C": "They are more powerful and capable 直接照搬了 more powerful and capable 这串原词，但原文是说'多数公司在追求更强更全，而 KaiOS 反其道而行'，KaiOS 恰恰不是更强更全，原词陷阱+张冠李戴。 借用原文：preserve battery life for people who likely have inadequate access to electricity",
+                "D": "They boast the longest battery life. 盗用了 preserve battery life 这一处续航话题，但原文只说'保住/延长续航'，并没有说'最长'，longest 是程度的过度推断，未提及 + 与原文相反。",
+                "A": "正确项：与答案句同义替换（strip out costs and preserve battery life for people who likely have inadequate access to electricity ↔ They cater to Africans' needs. 服务用电不稳人群→迎合非洲人需求）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Most companies are trying to make phones ever more powerful and capable. But KaiOS went the other way. It made every effort to keep the essential capabilities of smartphones, but strip out costs and preserve battery life for people who likely have inadequate access to electricity.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What are KaiOS smartphones equipped with?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A large touchscreen."
+                },
+                {
+                  "key": "B",
+                  "text": "An old-school keypad."
+                },
+                {
+                  "key": "C",
+                  "text": "A voice-response device."
+                },
+                {
+                  "key": "D",
+                  "text": "A digitally-designed system."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P5）：Instead of a touchscreen, they're controlled with an old-school keypad.信号：Instead of 一句给出'不是A、是B' 。Instead of a touchscreen, they're controlled with an old-school keypad. 用 Instead o…",
+              "optionAnalysis": {
+                "A": "A large touchscreen. 盗用了原文 Instead of a touchscreen 的 touchscreen 原词，但原文用 Instead of 明确否定了 touchscreen，方向完全反了，是典型原词陷阱+与原文相反。",
+                "C": "A voice-response device. 在录音里完全没有 voice 或 response 类词，是凭'智能手机也可能用语音控制'这种常识脑补的，属于未提及。",
+                "D": "A digitally-designed system. 与原文里描述 KaiOS 手机外观、控制方式的句子毫无对应，'数字化设计的系统'是个含义空泛的兜底干扰，属未提及。",
+                "B": "正确项：与答案句同义替换（they're controlled with an old-school keypad ↔ An old-school keypad. 原词级同义对应）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "Instead of a touchscreen, they're controlled with an old-school keypad.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 10.8,
+              "text": "For years, using recycled plastic to make plastic products was cheap. By contrast, fossil fuel plastic was more expensive. Thus this sustainable option was an economic option too.",
+              "zh": "多年来，使用再生塑料制造塑料产品的成本较低。相比之下，化石燃料塑料则更加昂贵。因此，这种可持续选择也是一种经济选择。"
+            },
+            {
+              "id": 2,
+              "start": 11.2,
+              "end": 15.8,
+              "text": "But now it is cheaper for major manufacturers to use new plastic.",
+              "zh": "但现在对于大型制造商来说，使用新塑料更便宜。"
+            },
+            {
+              "id": 3,
+              "start": 16.2,
+              "end": 43.5,
+              "text": "According to one recent business report, recycled plastic now costs an extra $72 a tonne compared with newly-made plastic. This may be because of consumer demands. They are pushing for more recycled plastics in new products. Meanwhile, new plastic is becoming cheaper. This is because of a boom in petroleum chemical production from the U.S. The price increase of recycled plastic could cost sustainable manufacturers an extra $250 million a year.",
+              "zh": "根据最近的一份商业报告，与新制塑料相比，再生塑料现在每吨要多花费72美元。这可能是因为消费者的需求。他们推动在新产品中使用更多再生塑料。与此同时，新塑料正变得更便宜。这是因为美国石油化工生产的繁荣。再生塑料价格的上涨可能会使可持续制造商每年多支出2.5亿美元。"
+            },
+            {
+              "id": 4,
+              "start": 43.9,
+              "end": 55,
+              "text": "Smaller manufacturers may also be forced to use new plastic to reduce costs. Makers of clear plastic bottles may also opt for new fossil-fuel based plastic to save money.",
+              "zh": "较小的制造商也可能被迫使用新塑料以降低成本。透明塑料瓶的制造商也可能选择使用新的化石燃料基塑料来省钱。"
+            },
+            {
+              "id": 5,
+              "start": 55.4,
+              "end": 65.7,
+              "text": "Plastic packaging makers are being pressured to use more recycled plastic. This is done in hopes of reducing the enormous amount of plastic pollution in the oceans.",
+              "zh": "塑料包装制造商正面临使用更多再生塑料的压力。这样做是为了减少海洋中大量的塑料污染。"
+            },
+            {
+              "id": 6,
+              "start": 66,
+              "end": 78.7,
+              "text": "The UK government plans to tax companies which don't use at least 30% recycled plastic in their products. Additionally, the government is planning to increase the quantity of recycled plastic in the market.",
+              "zh": "英国政府计划对产品中再生塑料使用量未达到至少30%的公司征税。此外，政府正计划增加市场上再生塑料的数量。"
+            },
+            {
+              "id": 7,
+              "start": 79,
+              "end": 88.7,
+              "text": "This could mean incentives for new recycling plants. Additionally, recycling facilities may be improved at a local council level and recycled plastic could be imported.",
+              "zh": "这可能意味着对新回收工厂的激励措施。此外，地方议会层面的回收设施可能会得到改善，再生塑料也可以进口。"
+            },
+            {
+              "id": 8,
+              "start": 89,
+              "end": 93.3,
+              "text": "This would help increase the amount of recycled plastic in circulation.",
+              "zh": "这将有助于增加流通中再生塑料的数量。"
+            }
+          ],
+          "audioDuration": 93.3,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What is said about using recycled plastic to make plastic products in the past?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It ensured sustainable economic growth."
+                },
+                {
+                  "key": "B",
+                  "text": "It was strongly opposed by manufacturers."
+                },
+                {
+                  "key": "C",
+                  "text": "It was cheaper than using fossil fuel plastic."
+                },
+                {
+                  "key": "D",
+                  "text": "It satisfied consumer demands on the whole."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：For years, using recycled plastic to make plastic products was cheap. By contrast, fossil fuel plastic was more expensive. Thus this sustainable option was an economic option too.信号：对比信号 By contrast 锁定答案句 。答案句的关键信号是 By contrast——它紧跟在\"回收塑料便宜\"之后，接出\"化石燃料塑料更贵\"的对比，正好把两者的价格高低关系明确点出。此外开头的 For yea…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音原句是 this sustainable option was an economic option too，意思是\"这种可持续选项同时也是经济划算的选项\"，强调的是\"便宜=经济\"，与\"保证可持续经济增长\"完全不是一回事。选项把 sustainable + economic 这两个原词拼成 sustainable economic growth，但 growth（增长）在录音里根本没提。 借用原文：This may be because of consumer demands",
+                "B": "录音第一段只讲了\"便宜\"和\"经济\"，全篇也未出现 manufacturers oppose 这类否定/反对的措辞，strongly opposed 是凭空捏造的反向描述，属于典型的\"未提及\"。",
+                "D": "张冠李戴：录音确实提到 This may be because of consumer demands，但那是在解释\"现在回收塑料反而更贵\"的原因，发生在\"现在\"，与题干限定的 in the past 时间错位。选项盗用了 consumer demand 这个原词把\"现在\"的信息安到\"过去\"，是典型的张冠李戴。",
+                "C": "正确项：与答案句同义替换（using recycled plastic to make plastic products was cheap ↔ It was cheaper than using fossil fuel plastic. 录音两句并一句·形容词转比较级）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "For years, using recycled plastic to make plastic products was cheap. By contrast, fossil fuel plastic was more expensive. Thus this sustainable option was an economic option too.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What has led to more competitive price for new plastic?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The capacity to mass produce it."
+                },
+                {
+                  "key": "B",
+                  "text": "The U.S. federal government's regulations."
+                },
+                {
+                  "key": "C",
+                  "text": "A boom in market demand for clear plastic bottles."
+                },
+                {
+                  "key": "D",
+                  "text": "A rapid increase in U.S. petroleum chemical production."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Meanwhile, new plastic is becoming cheaper. This is because of a boom in petroleum chemical production from the U.S.信号：因果信号 This is because 锁定答案句 。答案句靠 This is because of 这个清晰的因果信号锁定——录音里出现\"new plastic is becoming cheaper\"（结果）后…",
+              "optionAnalysis": {
+                "A": "未提及：\"大规模生产能力\"听起来很合理（产能高自然成本低），但录音里从未提到 capacity 或 mass produce，这是凭常识脑补出的答案，属于未提及。",
+                "B": "录音里 U.S. 只与 petroleum chemical production from the U.S. 搭配，是讲\"美国石化产量\"，全篇并未提到 U.S. federal government 的任何 regulation。选项盗用了原词 U.S.，又把后半段 The UK government 的\"政府监管\"语义错位拼到\"美国\"头上，是典型的\"原词+张冠李戴\"混合干扰。 借用原文：Makers of clear plastic bottles may also opt for new fossil-fuel based plastic to save money",
+                "C": "偷换概念：clear plastic bottles 确实在 Makers of clear plastic bottles may also opt for new fossil-fuel based plastic to save money 里出现过，但那是讲\"透明塑料瓶的厂家会选新塑料\"——是\"新塑料更便宜\"的结果之一，而不是它变便宜的原因。选项把\"结果\"包装成\"原因\"。",
+                "D": "正确项：与答案句同义替换（a boom in petroleum chemical production from the U.S. ↔ A rapid increase in U.S. petroleum chemical production. boom=rapid increase·同义词替换）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Meanwhile, new plastic is becoming cheaper. This is because of a boom in petroleum chemical production from the U.S.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What does the UK government plan to do about plastic?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Require companies to use 30% of new plastic."
+                },
+                {
+                  "key": "B",
+                  "text": "Increase the supply of new plastic in the market."
+                },
+                {
+                  "key": "C",
+                  "text": "Reduce the amount of plastic pollution in local areas."
+                },
+                {
+                  "key": "D",
+                  "text": "Take measures to promote the use of recycled plastic."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P6）：The UK government plans to tax companies which don't use at least 30% recycled plastic in their products. Additionally, the government is planning to increase the quantity of recycled plastic in the market.信号：主体+计划信号 plans to / is planning to 双重锁定 。本段同时出现两次明显的\"计划\"信号：The UK government plans to 与 the government is pla…",
+              "optionAnalysis": {
+                "A": "偷换概念：录音原文是 tax companies which don't use at least 30% recycled plastic，30% 限定的是 recycled plastic（回收塑料），政府要求的是\"至少用30%的回收塑料\"。选项把数字 30% 原样搬过来，但偷偷把 recycled plastic 换成 new plastic（新塑料），方向完全反了——典型的\"数字原词陷阱+正话反说\"。 借用原文：the government is planning to increase the quantity of recycled plastic in the market",
+                "B": "偷换概念：录音说政府计划 increase the quantity of recycled plastic in the market——增加的是回收塑料的量。选项把 recycled plastic 偷换成 new plastic（新塑料），把\"增加回收塑料供应\"扭曲成\"增加新塑料供应\"，正好相反。又是把 increase 原词留着、偷换名词的伎俩。 借用原文：reducing the enormous amount of plastic pollution in the oceans",
+                "C": "录音里 reduce plastic pollution 的目标是 reducing the enormous amount of plastic pollution in the oceans——减少海洋里的塑料污染。选项把 oceans 偷换成 local areas（本地地区），范围被偷改了；并且 reduce pollution 这件事在录音里也不是政府计划的内容，而是\"包装厂家被施压\"去做的，主体也不对。属于范围偷改+张冠李戴的双重错。",
+                "D": "正确项：与答案句同义替换（tax companies which don't use at least 30% recycled plastic ↔ Take measures to promote the use of recycled plastic. 具体措施→抽象概括）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "The UK government plans to tax companies which don't use at least 30% recycled plastic in their products. Additionally, the government is planning to increase the quantity of recycled plastic in the market.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 19.2,
+              "text": "At the Dreamery, a business in Manhattan, naps are for sale. A 45-minute session in a darkened enclosure with peace and quiet costs $25. To be clear, this institution is no hotel. This is a nap joint. It sells the idea of the nap as much as the nap itself.",
+              "zh": "在曼哈顿的 Dreamery，小睡是用来出售的。在一个幽暗的封闭空间里享受平静与安宁的 45 分钟小睡需要 25 美元。需要明确的是，这家机构不是酒店。这是一家小睡店。它出售的是小睡这个理念，就像出售小睡本身一样。"
+            },
+            {
+              "id": 2,
+              "start": 19.6,
+              "end": 40.7,
+              "text": "Is a nap worth $25? The answer is obviously yes. Here, at this point in the argument, it's traditional for me to bring up all the studies that show the benefits of napping. But do you really need experts to tell you that? Just look at the world around you at 2:30 in the afternoon.",
+              "zh": "一次小睡值 25 美元吗？答案显然是肯定的。在论证的这一点上，按惯例我应该列举所有显示小睡益处的研究。但你真的需要专家告诉你这些吗？只需看看下午两点半你周围的世界。"
+            },
+            {
+              "id": 3,
+              "start": 41.1,
+              "end": 68.7,
+              "text": "I've been working from home for more than 10 years now. And the quality and quantity of work I can do emerges directly from my ability to concentrate. I don't understand how people have creative careers without napping. Every day at about 1 p.m., everyone faces the same choice: sleep until 2 p.m. and then work until 5, or daydream and drift around social media and attend pointless meetings until 7 p.m.",
+              "zh": "我在家工作已经超过 10 年了。我能完成的工作质量和数量直接来源于我的专注能力。我不明白人们如何能在不小睡的情况下从事创意职业。每天大约下午一点，每个人都面临同样的选择：睡到下午两点然后工作到五点，或者做白日梦、在社交媒体上闲逛、参加毫无意义的会议直到晚上七点。"
+            },
+            {
+              "id": 4,
+              "start": 69,
+              "end": 90.2,
+              "text": "The friends I have who still work in offices inform me their bosses insist that they take the second option, and that napping is associated with laziness. I genuinely find it odd. For if you nap properly, it's like waking up from a full night's sleep and you can double your day's worth of concentration.",
+              "zh": "我那些仍在办公室工作的朋友告诉我，他们的老板坚持让他们选择第二种方案，而且小睡被认为与懒惰联系在一起。我真的觉得这很奇怪。因为如果你好好小睡，那就像从一整夜的睡眠中醒来，你可以让一天的专注力翻倍。"
+            }
+          ],
+          "audioDuration": 90.2,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What do we learn about the Dreamery, a business in Manhattan?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It studies dreams."
+                },
+                {
+                  "key": "B",
+                  "text": "It rents a place for nap-takers."
+                },
+                {
+                  "key": "C",
+                  "text": "It is a hotel for business people."
+                },
+                {
+                  "key": "D",
+                  "text": "It is a nap research institute."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：At the Dreamery, a business in Manhattan, naps are for sale. A 45-minute session in a darkened enclosure with peace and quiet costs $25. To be clear, this institution is no hotel. This is a nap joint.信号：正面定义 + 否定式澄清 。答案句的信号有两层:一是 naps are for sale 直接给出 Dreamery 做什么生意——卖午睡;二是 To be clear, this institution is no…",
+              "optionAnalysis": {
+                "A": "未提及：It studies dreams. 利用机构名 Dreamery 含 dream 一词来制造'研究梦'的字面联想,但录音从未说这家店研究 dreams,只说它出售 naps are for sale;店名带 dream 不等于业务是研究 dream,这是把字面误当成业务定义。",
+                "C": "与原文相反：It is a hotel for business people. 里的 hotel 在录音 this institution is no hotel 里原词出现,但出现的位置正是被讲话人否掉的位置——讲话人明确说'这不是酒店'。考生若只听到 hotel 三个字就选,会正好掉进讲话人提前设的反话陷阱里。 借用原文：At the Dreamery, a business in Manhattan",
+                "D": "过度推断：It is a nap research institute. 把这家店从'a business / a nap joint'拔高为'研究机构'。录音明明说 At the Dreamery, a business in Manhattan,定位是 business(生意),又自称 nap joint(店);从未说它是 research institute,这是把性质从'商业'拔高到'学术研究',越界推断。",
+                "B": "正确项：与答案句同义替换（naps are for sale ↔ rents a place for nap-takers naps are for sale ≈ rents a place for nap-takers）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "At the Dreamery, a business in Manhattan, naps are for sale. A 45-minute session in a darkened enclosure with peace and quiet costs $25. To be clear, this institution is no hotel. This is a nap joint.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "Why does the speaker ask us to look at the world around us at 2:30 in the afternoon?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To find out creative people's work performance."
+                },
+                {
+                  "key": "B",
+                  "text": "To see how many people can go without napping."
+                },
+                {
+                  "key": "C",
+                  "text": "To understand the obvious importance of napping."
+                },
+                {
+                  "key": "D",
+                  "text": "To feel how difficult it is to get his idea across."
+                }
+              ],
+              "answer": "C",
+              "analysis": "目的题。答案句（P2）：Is a nap worth $25? The answer is obviously yes. Here, at this point in the argument, it's traditional for me to bring up all the studies that show the benefits of napping. But do you really need experts to tell you that? Just look at the world around you at 2:30 in the afternoon.信号：立场句 + 反问 + 让你看现象 。信号有三层:一是立场句 The answer is obviously yes. 先抛出讲话人的论点——午睡显然值得;二是反问 But do you really need exp…",
+              "optionAnalysis": {
+                "A": "原词陷阱：To find out creative people's work performance. 借了录音第三段里 I don't understand how people have creative careers without napping. 中的 creative 一词制造熟悉感,但讲话人让人看下午两点半的世界,目的不是去研究'有创造力的人的工作表现',他根本没让你去观察任何特定人群。这是跨段盗词,把第三段的词嫁接到第二段的目的上。 借用原文：The answer is obviously yes.",
+                "B": "与原文相反：To see how many people can go without napping. 在方向上正好与讲话人立场相反。讲话人是在论证'午睡显然重要',让你看世界是为了证明大家都需要午睡;选项却说目的是'看有多少人不靠午睡也行',这把目的反向了。 借用原文：But do you really need experts to tell you that?",
+                "D": "偷换概念：To feel how difficult it is to get his idea across. 把讲话人的目的偷换成'体会到自己讲清楚观点有多难'。录音里讲话人并不是在抱怨自己难以传达观点,他相反非常自信地说'你不需要专家'——他对自己的观点能不能被听懂没有任何困扰,选项是对讲话人姿态的歪曲。",
+                "C": "正确项：与答案句同义替换（The answer is obviously yes. ↔ the obvious importance of napping obviously yes ≈ obvious importance）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Is a nap worth $25? The answer is obviously yes. Here, at this point in the argument, it's traditional for me to bring up all the studies that show the benefits of napping. But do you really need experts to tell you that? Just look at the world around you at 2:30 in the afternoon.",
+              "type": "目的题"
+            },
+            {
+              "number": 24,
+              "stem": "What do we learn about the quantity and quality of the speaker's work?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They decline due to pointless meetings."
+                },
+                {
+                  "key": "B",
+                  "text": "They depend on his ability to concentrate."
+                },
+                {
+                  "key": "C",
+                  "text": "They enable him to enjoy a creative career."
+                },
+                {
+                  "key": "D",
+                  "text": "They are affected by the overuse of social media."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：I've been working from home for more than 10 years now. And the quality and quantity of work I can do emerges directly from my ability to concentrate.信号：因果衔接词 emerges directly from 。答案信号是 emerges directly from 这一因果衔接短语——它把'工作的质和量'与'集中力'明确绑成因果关系。这种'A emerges/com…",
+              "optionAnalysis": {
+                "A": "原词陷阱：They decline due to pointless meetings. 借了录音里 attend pointless meetings until 7 p.m. 中的 pointless meetings 制造熟悉感,但 pointless meetings 在录音里是讲话人用来描述'不午睡就要被迫做的烂事'之一,并不是导致讲话人产出 decline 的原因。讲话人压根没说自己产出在下降,只是把不午睡的人生活描述为低效。 借用原文：I don't understand how people have creative careers without napping.",
+                "C": "与原文相反：They enable him to enjoy a creative career. 盗了录音 I don't understand how people have creative careers without napping. 中的 creative career 来诱选。但因果方向相反:录音是说'人怎么能在没午睡的情况下还做创造性工作'——讲话人是用 creative career 来反衬'没午睡就难做创造性工作',而不是说工作的质和量'使他能享受'创造性职业。选项把'我的工作量质 → 取决于集中力'偷换成'我的工作量质 → 让我能享受创造性职业',因果颠倒。 借用原文：daydream and drift around social media",
+                "D": "原词陷阱：They are affected by the overuse of social media. 借了录音里 daydream and drift around social media 中的 social media 制造熟悉感。但录音里 drift around social media 是讲话人描述'不午睡会陷入'的散漫状态之一,并非他在说自己的工作量质被社交媒体过度使用所影响。同样是用原词嫁接到错位的因果上。",
+                "B": "正确项：与答案句同义替换（the quality and quantity of work I can do ↔ They the quality and quantity of work ≈ They）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "I've been working from home for more than 10 years now. And the quality and quantity of work I can do emerges directly from my ability to concentrate.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What does the speaker say he finds odd?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Some bosses associate napping with laziness."
+                },
+                {
+                  "key": "B",
+                  "text": "Many office workers nap during work hours."
+                },
+                {
+                  "key": "C",
+                  "text": "Some bosses can concentrate without napping."
+                },
+                {
+                  "key": "D",
+                  "text": "Many of his friends daydream in the office."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P4）：The friends I have who still work in offices inform me their bosses insist that they take the second option, and that napping is associated with laziness. I genuinely find it odd.信号：态度词 odd 直接锁前一句 。答案信号是 I genuinely find it odd. 中的 odd——题干 What does the speaker say he finds odd? 在录音里几乎是原词复…",
+              "optionAnalysis": {
+                "B": "未提及：Many office workers nap during work hours. 借了录音里 The friends I have who still work in offices 中的 offices 制造场景熟悉感,但录音从未说很多上班族在上班时间午睡,反而说老板逼他们走第二条路(发呆、刷社交媒体、开无意义的会)。这是凭空造一个录音没有的现象。",
+                "C": "原词陷阱：Some bosses can concentrate without napping. 盗了第三段 my ability to concentrate 里的 concentrate 一词制造熟悉感,但讲话人本人的立场恰恰是'不午睡很难保持集中力',而且讲话人觉得 odd 的对象是'老板对午睡的偏见',不是老板的集中力。选项把讲话人不解的对象偷换成了与原话无关的、且方向相反的命题。 借用原文：daydream and drift around social media",
+                "D": "张冠李戴：Many of his friends daydream in the office. 盗了第三段 daydream and drift around social media 里的 daydream 与第四段 The friends I have who still work in offices 里的 friends,把两个原词拼到一起造一个录音没说的现象。录音里讲话人觉得 odd 的是老板把午睡当懒惰,而不是朋友在办公室发呆;且 daydream 是讲话人假设'不午睡就会陷入'的状态,不是他对朋友行为的描述。",
+                "A": "正确项：与答案句同义替换（their bosses insist that they take the second option, and that napping is associated with laziness ↔ Some bosses associate napping with laziness. their bosses + napping is associated with laziness ≈ Some bosses associate napping with laziness）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "The friends I have who still work in offices inform me their bosses insist that they take the second option, and that napping is associated with laziness. I genuinely find it odd.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Whether you're just having a down day or a down period, taking a walk can instantly lift your mood, especially when you go outdoors. Not only can walking make you less depressed, but according to a new study, depression sufferers who took a 26______ walk showed just as much improvement in their 27______ as people taking medicine. In fact, 60-70 percent of the participants in the study could no longer even be 28______ as depressed.\n\nBone density may not be one of the most exciting health benefits of walking, but it's an important one. People with stronger bones avoid osteoporosis(骨质疏松症) and all the problems that 29______ with it, like breaks and other disabilities. And the best way to get strong, healthy bones is by doing weight-bearing exercises like running, dancing and walking, according to a large study. But as regards bones, it's 30______ use it or lose it: To keep your bones strong you have to keep exercising. The researchers found that adults who walked regularly had better bone density throughout their lives than their 31______ friends.\n\nTaking a walk can be great for 32______ your head or blowing off some steam. It also provides a great opportunity to 33______ with friends and family, far away from electronics and other 34______ at home. Even better, you set a powerful example because when they see you 35______ the benefits of walking, they'll be encouraged to walk more, too."
+            },
+            {
+              "label": "词库",
+              "text": "A) accompany\nB) approved\nC) bond\nD) classified\nE) clearing\nF) come\nG) daily\nH) definitely\nI) distractions\nJ) exclusively\nK) inactive\nL) occurrences\nM) reaping\nN) symptoms\nO) typical"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accompany"
+                },
+                {
+                  "key": "B",
+                  "text": "approved"
+                },
+                {
+                  "key": "C",
+                  "text": "bond"
+                },
+                {
+                  "key": "D",
+                  "text": "classified"
+                },
+                {
+                  "key": "E",
+                  "text": "clearing"
+                },
+                {
+                  "key": "F",
+                  "text": "come"
+                },
+                {
+                  "key": "G",
+                  "text": "daily"
+                },
+                {
+                  "key": "H",
+                  "text": "definitely"
+                },
+                {
+                  "key": "I",
+                  "text": "distractions"
+                },
+                {
+                  "key": "J",
+                  "text": "exclusively"
+                },
+                {
+                  "key": "K",
+                  "text": "inactive"
+                },
+                {
+                  "key": "L",
+                  "text": "occurrences"
+                },
+                {
+                  "key": "M",
+                  "text": "reaping"
+                },
+                {
+                  "key": "N",
+                  "text": "symptoms"
+                },
+                {
+                  "key": "O",
+                  "text": "typical"
+                }
+              ],
+              "answer": "G",
+              "type": "选词填空",
+              "analysis": "【答案】G（官方答案）\n应填 G) daily\n【原文】本句把走路效果与 people taking medicine\"吃药\"相比——吃药是规律按日进行的，与之相提并论的走路自然是\"每日的\"daily walk，强调坚持，才能解释 60-70 percent of the participants... could no longer even be __(28)__ as depressed 的明显改善。\nO) typical 义不贴语境：typical walk 是\"典型的一次散步\"，无法体现\"像吃药一样规律坚持\"的疗效逻辑，与下文显著改善对不上。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accompany"
+                },
+                {
+                  "key": "B",
+                  "text": "approved"
+                },
+                {
+                  "key": "C",
+                  "text": "bond"
+                },
+                {
+                  "key": "D",
+                  "text": "classified"
+                },
+                {
+                  "key": "E",
+                  "text": "clearing"
+                },
+                {
+                  "key": "F",
+                  "text": "come"
+                },
+                {
+                  "key": "G",
+                  "text": "daily"
+                },
+                {
+                  "key": "H",
+                  "text": "definitely"
+                },
+                {
+                  "key": "I",
+                  "text": "distractions"
+                },
+                {
+                  "key": "J",
+                  "text": "exclusively"
+                },
+                {
+                  "key": "K",
+                  "text": "inactive"
+                },
+                {
+                  "key": "L",
+                  "text": "occurrences"
+                },
+                {
+                  "key": "M",
+                  "text": "reaping"
+                },
+                {
+                  "key": "N",
+                  "text": "symptoms"
+                },
+                {
+                  "key": "O",
+                  "text": "typical"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) symptoms\n【原文】本句说抑郁症患者走路后 showed just as much improvement in their __(27)__ as people taking medicine——和\"吃药的人\"作对比，能像吃药一样改善的、抑郁者身上的东西，正是\"症状\"。symptoms（症状）扣住了上文 depression sufferers 的语境。\nI) distractions 语义不搭：distractions 是\"分心物\"，与\"抑郁改善\"无关，且它是第 34 空的语境用词。\nL) occurrences 义偏且无所属：occurrences 指\"发生的事件\"，说\"他们的事件改善了\"逻辑不通。\nC) bond 名义不合：bond 作名词是\"纽带\"，与抑郁症状无关，它另有动词用法留给第 33 空。\nE) clearing 动名词义不对：clearing 作名词是\"清理\"这一动作，放\"their clearing\"既不通顺也不切题。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accompany"
+                },
+                {
+                  "key": "B",
+                  "text": "approved"
+                },
+                {
+                  "key": "C",
+                  "text": "bond"
+                },
+                {
+                  "key": "D",
+                  "text": "classified"
+                },
+                {
+                  "key": "E",
+                  "text": "clearing"
+                },
+                {
+                  "key": "F",
+                  "text": "come"
+                },
+                {
+                  "key": "G",
+                  "text": "daily"
+                },
+                {
+                  "key": "H",
+                  "text": "definitely"
+                },
+                {
+                  "key": "I",
+                  "text": "distractions"
+                },
+                {
+                  "key": "J",
+                  "text": "exclusively"
+                },
+                {
+                  "key": "K",
+                  "text": "inactive"
+                },
+                {
+                  "key": "L",
+                  "text": "occurrences"
+                },
+                {
+                  "key": "M",
+                  "text": "reaping"
+                },
+                {
+                  "key": "N",
+                  "text": "symptoms"
+                },
+                {
+                  "key": "O",
+                  "text": "typical"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) classified\n【原文】be classified as 固定搭配\"被归类为\"\nB) approved 搭配与义皆不合：approved as 不是\"被认定为\"的常用搭配，且 approved（批准、认可）说\"被认可为抑郁\"语义荒谬。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accompany"
+                },
+                {
+                  "key": "B",
+                  "text": "approved"
+                },
+                {
+                  "key": "C",
+                  "text": "bond"
+                },
+                {
+                  "key": "D",
+                  "text": "classified"
+                },
+                {
+                  "key": "E",
+                  "text": "clearing"
+                },
+                {
+                  "key": "F",
+                  "text": "come"
+                },
+                {
+                  "key": "G",
+                  "text": "daily"
+                },
+                {
+                  "key": "H",
+                  "text": "definitely"
+                },
+                {
+                  "key": "I",
+                  "text": "distractions"
+                },
+                {
+                  "key": "J",
+                  "text": "exclusively"
+                },
+                {
+                  "key": "K",
+                  "text": "inactive"
+                },
+                {
+                  "key": "L",
+                  "text": "occurrences"
+                },
+                {
+                  "key": "M",
+                  "text": "reaping"
+                },
+                {
+                  "key": "N",
+                  "text": "symptoms"
+                },
+                {
+                  "key": "O",
+                  "text": "typical"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) come\n【原文】come with 意为\"随……一起出现、伴随而来\"。all the problems that __(29)__ with it, like breaks and other disabilities\"伴随骨质疏松而来的所有问题，如骨折等\"，come with 既搭配成立、复数 problems 对应原形 come，语法语义双通。\ncome with 意为\"随……一起出现、伴随而来\"。all the problems that __(29)__ with it, like breaks and other disabilities\"伴随骨质疏松而来的所有问题，如骨折等\"，come with 既搭配成立、复数 problems 对应原形 come，语法语义双通。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accompany"
+                },
+                {
+                  "key": "B",
+                  "text": "approved"
+                },
+                {
+                  "key": "C",
+                  "text": "bond"
+                },
+                {
+                  "key": "D",
+                  "text": "classified"
+                },
+                {
+                  "key": "E",
+                  "text": "clearing"
+                },
+                {
+                  "key": "F",
+                  "text": "come"
+                },
+                {
+                  "key": "G",
+                  "text": "daily"
+                },
+                {
+                  "key": "H",
+                  "text": "definitely"
+                },
+                {
+                  "key": "I",
+                  "text": "distractions"
+                },
+                {
+                  "key": "J",
+                  "text": "exclusively"
+                },
+                {
+                  "key": "K",
+                  "text": "inactive"
+                },
+                {
+                  "key": "L",
+                  "text": "occurrences"
+                },
+                {
+                  "key": "M",
+                  "text": "reaping"
+                },
+                {
+                  "key": "N",
+                  "text": "symptoms"
+                },
+                {
+                  "key": "O",
+                  "text": "typical"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) definitely\n【原文】本句承上文\"想骨骼强壮就得一直锻炼\"，it's __(30)__ use it or lose it\"这确实是用进废退\"，definitely（确实地）加强\"就是这么个道理\"的肯定语气，与 To keep your bones strong you have to keep exercising 的告诫一致。\nJ) exclusively 义不合：exclusively 是\"唯一地、专门地\"，\"这唯一地是用进废退\"语义别扭，无法表达对该道理的确认强调。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accompany"
+                },
+                {
+                  "key": "B",
+                  "text": "approved"
+                },
+                {
+                  "key": "C",
+                  "text": "bond"
+                },
+                {
+                  "key": "D",
+                  "text": "classified"
+                },
+                {
+                  "key": "E",
+                  "text": "clearing"
+                },
+                {
+                  "key": "F",
+                  "text": "come"
+                },
+                {
+                  "key": "G",
+                  "text": "daily"
+                },
+                {
+                  "key": "H",
+                  "text": "definitely"
+                },
+                {
+                  "key": "I",
+                  "text": "distractions"
+                },
+                {
+                  "key": "J",
+                  "text": "exclusively"
+                },
+                {
+                  "key": "K",
+                  "text": "inactive"
+                },
+                {
+                  "key": "L",
+                  "text": "occurrences"
+                },
+                {
+                  "key": "M",
+                  "text": "reaping"
+                },
+                {
+                  "key": "N",
+                  "text": "symptoms"
+                },
+                {
+                  "key": "O",
+                  "text": "typical"
+                }
+              ],
+              "answer": "K",
+              "type": "选词填空",
+              "analysis": "【答案】K（官方答案）\n应填 K) inactive\n【原文】本句说 adults who walked regularly had better bone density... than their __(31)__ friends——\"经常走路\"的人骨密度更好，对比的对象自然是\"不爱运动的\"朋友。inactive（不活动的、久坐不动的）正好与 walked regularly 反向呼应，对比成立。\nO) typical 不构成对比：typical 是\"典型的\"，\"典型的朋友\"既无对比意味也不切骨骼话题；本句要的是与\"常运动\"相反的一群人，typical 给不出这层反差。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accompany"
+                },
+                {
+                  "key": "B",
+                  "text": "approved"
+                },
+                {
+                  "key": "C",
+                  "text": "bond"
+                },
+                {
+                  "key": "D",
+                  "text": "classified"
+                },
+                {
+                  "key": "E",
+                  "text": "clearing"
+                },
+                {
+                  "key": "F",
+                  "text": "come"
+                },
+                {
+                  "key": "G",
+                  "text": "daily"
+                },
+                {
+                  "key": "H",
+                  "text": "definitely"
+                },
+                {
+                  "key": "I",
+                  "text": "distractions"
+                },
+                {
+                  "key": "J",
+                  "text": "exclusively"
+                },
+                {
+                  "key": "K",
+                  "text": "inactive"
+                },
+                {
+                  "key": "L",
+                  "text": "occurrences"
+                },
+                {
+                  "key": "M",
+                  "text": "reaping"
+                },
+                {
+                  "key": "N",
+                  "text": "symptoms"
+                },
+                {
+                  "key": "O",
+                  "text": "typical"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) clearing\n【原文】clear your head\"理清思绪\"\nclear one's head 意为\"清醒头脑、理清思绪\"。great for __(32)__ your head or blowing off some steam\"利于清空头脑或发泄压力\"，clearing 与并列的 blowing off steam（释放压力）同属\"放松减压\"语义，贴合本段走路怡心的主旨。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accompany"
+                },
+                {
+                  "key": "B",
+                  "text": "approved"
+                },
+                {
+                  "key": "C",
+                  "text": "bond"
+                },
+                {
+                  "key": "D",
+                  "text": "classified"
+                },
+                {
+                  "key": "E",
+                  "text": "clearing"
+                },
+                {
+                  "key": "F",
+                  "text": "come"
+                },
+                {
+                  "key": "G",
+                  "text": "daily"
+                },
+                {
+                  "key": "H",
+                  "text": "definitely"
+                },
+                {
+                  "key": "I",
+                  "text": "distractions"
+                },
+                {
+                  "key": "J",
+                  "text": "exclusively"
+                },
+                {
+                  "key": "K",
+                  "text": "inactive"
+                },
+                {
+                  "key": "L",
+                  "text": "occurrences"
+                },
+                {
+                  "key": "M",
+                  "text": "reaping"
+                },
+                {
+                  "key": "N",
+                  "text": "symptoms"
+                },
+                {
+                  "key": "O",
+                  "text": "typical"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) bond\n【原文】bond with sb.\"与某人增进感情\"\nA) accompany 及物动词不接 with：accompany 是及物动词，\"陪伴某人\"直接说 accompany sb.，不说 accompany with sb.；空后有 with，accompany 在语法搭配上就不成"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accompany"
+                },
+                {
+                  "key": "B",
+                  "text": "approved"
+                },
+                {
+                  "key": "C",
+                  "text": "bond"
+                },
+                {
+                  "key": "D",
+                  "text": "classified"
+                },
+                {
+                  "key": "E",
+                  "text": "clearing"
+                },
+                {
+                  "key": "F",
+                  "text": "come"
+                },
+                {
+                  "key": "G",
+                  "text": "daily"
+                },
+                {
+                  "key": "H",
+                  "text": "definitely"
+                },
+                {
+                  "key": "I",
+                  "text": "distractions"
+                },
+                {
+                  "key": "J",
+                  "text": "exclusively"
+                },
+                {
+                  "key": "K",
+                  "text": "inactive"
+                },
+                {
+                  "key": "L",
+                  "text": "occurrences"
+                },
+                {
+                  "key": "M",
+                  "text": "reaping"
+                },
+                {
+                  "key": "N",
+                  "text": "symptoms"
+                },
+                {
+                  "key": "O",
+                  "text": "typical"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) distractions\n【原文】本句说走路让人 far away from electronics and other __(34)__ at home\"远离电子产品和家里其他的__\"，与 electronics 并列、又能让人\"远离\"的，正是\"分心的事物\"distractions——电子产品本身就是典型的 distraction，并列贴切。\nL) occurrences 义偏、与并列项不同类：occurrences 是\"发生的事件\"，与 electronics（电子产品这类\"物\"）不是同类并列项，且\"远离家里其他事件\"逻辑生硬。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accompany"
+                },
+                {
+                  "key": "B",
+                  "text": "approved"
+                },
+                {
+                  "key": "C",
+                  "text": "bond"
+                },
+                {
+                  "key": "D",
+                  "text": "classified"
+                },
+                {
+                  "key": "E",
+                  "text": "clearing"
+                },
+                {
+                  "key": "F",
+                  "text": "come"
+                },
+                {
+                  "key": "G",
+                  "text": "daily"
+                },
+                {
+                  "key": "H",
+                  "text": "definitely"
+                },
+                {
+                  "key": "I",
+                  "text": "distractions"
+                },
+                {
+                  "key": "J",
+                  "text": "exclusively"
+                },
+                {
+                  "key": "K",
+                  "text": "inactive"
+                },
+                {
+                  "key": "L",
+                  "text": "occurrences"
+                },
+                {
+                  "key": "M",
+                  "text": "reaping"
+                },
+                {
+                  "key": "N",
+                  "text": "symptoms"
+                },
+                {
+                  "key": "O",
+                  "text": "typical"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) reaping\n【原文】reap the benefits 固定搭配\"收获好处\"\nA) accompany 搭配不成立：accompany 是\"陪伴\"，accompany the benefits（陪伴好处）讲不通，且与\"被激励多走\"的因果链断裂。 WORD BANK · 词库分类表 15 个候选词\nA) accompany 动词：陪伴、伴随 干扰词 · 未选用\nB) approved 动词 形容词：批准（的）、认可（的） 干扰词 · 未选用\nC) bond 动词 名词：（动）建立情感纽带、增进感情；（名）纽带、联结 用于第 33 空"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The first thing you notice in the staircase to the fourth-floor studio on Canal Street in Manhattan, New York, is the measured thumping(嘭嘭声) coming from behind a metal door. Just beyond the entrance, large lion masks were twisting and turning to the drum-beat. On a recent Friday evening, the teenagers made their way across the studio floor as they practiced Chinese lion dancing."
+            },
+            {
+              "label": "B",
+              "text": "\"You want to play in a circle,\" Victor Fong, aged 24, told his students at the New York Chinese Freemasons Athletic Club. \"Take it slow and do it again.\" The dance group, made up of 60 members, performs throughout the year but was now preparing for its biggest events, Chinese Lunar New Year celebrations, which will begin on Saturday and conclude on February 15. Teenagers comprise about half of the group, many of whom began lion dancing at the age of 14. About 100 current and past members of the dance group—which has been performing since 1956—will be among the 220 groups marching through Chinatown in Manhattan for the 18th Lunar New Year Parade on February 5."
+            },
+            {
+              "label": "C",
+              "text": "Mr. Fong has been involved in the organization since he was 15 and began teaching lion dancing three years ago. But the club also acts as a recreation center and safe haven(庇护所) for teenagers, with video games readily available. As many as 20 students show up after school. \"The basic requirement for hanging out here is you have to learn how to lion dance,\" Mr. Fong said. While that is not a formal requirement for being a member, everyone finds a way to participate in the Lunar New Year Parade, whether it's by dancing, carrying a flag or beating a drum."
+            },
+            {
+              "label": "D",
+              "text": "Alvin Chau, aged 26, is an environmental consultant by day and a lion dancer on weekends. He has been a club member for 10 years and joined because of an interest in lion dance. \"We're a big family,\" he said, shaking hands with other members as they walked through the door. \"You know everyone.\""
+            },
+            {
+              "label": "E",
+              "text": "It is believed that the lion dance began in the third century. Stories vary about how lion dancing came to be, but most of them include a monster named Nian who would terrorize a village. The villagers finally banded together and scared the beast away with firecrackers(爆竹) and drums. While lions are not native to China, some versions of the story include the villagers creating a monster of their own in the shape of a lion to fight off the beast."
+            },
+            {
+              "label": "F",
+              "text": "Today, the dancers travel across Chinatown going from business to business to bring good luck for the coming year. The new year—according to the Chinese lunar calendar—will begin on Saturday and marks the Year of the Rooster(鸡年), which is thought to be a symbol of positivity. \"It's almost like the dark night is ending and the sun is coming up,\" said Ya Yung Teng, the digital collections coordinator for the Museum of Chinese in America. \"It's hopeful that we're going to have a new day.\" Roosters and chickens are not particularly strong creatures, Ms. Teng said, but they are numerous. \"In a way,\" she said, the rooster \"stands for 'We the People.'\""
+            },
+            {
+              "label": "G",
+              "text": "The lion head and tail are operated by two people. As one person controls the head, a second follows under a train of fabric representing the body. The dancers move in harmony as they imitate the animal's natural movements in the wild, including the aggressiveness of an attack. A lion head figure weighs under 10 pounds and sits squarely on the dancer's shoulders. Inside, the dancer manipulates strings that open and close the lion's eyes, shake its ears and open its mouth to reveal a fire-orange tongue."
+            },
+            {
+              "label": "H",
+              "text": "\"A good lion dancer will imitate a living creature,\" said Karlin Chan, aged 59, who heads the athletic club's community public relations. \"I started lion dancing when I was a kid,\" he said. \"Chinatown was much smaller then and it was a celebration with fireworks and firecrackers, which added a lot of flavor and meaning to it.\""
+            },
+            {
+              "label": "I",
+              "text": "Mr. Chan buys a new lion head each year when he travels to China. A head costs about $1,500. \"If you want the good stuff, the quality, you have to see it for yourself,\" he said. \"I'll inspect the product before we put it in the container and ship it over.\" Mr. Chan, who has been involved with the club for nearly 50 years, said that passing the dance from one generation to the next was vital. \"You need to pass on the traditions and the culture, and this is a part of our culture,\" he said. \"It's a great way to promote cultural understanding and exchange; we welcome that.\""
+            },
+            {
+              "label": "J",
+              "text": "For Sara Pore, aged 17, another club member, lion dance is more than just tradition; it provides a creative outlet. \"Lion dancing started 2,000 years ago—that's incredible,\" she said. \"But what makes you a competent lion dancer is that there's a sense of imagination involved. Lion dancing teaches competence in leadership because of this. You're constantly forced to push yourself past your limit.\""
+            },
+            {
+              "label": "K",
+              "text": "Back at rehearsal(排练), Just in Le, aged 18, tied a red ribbon around his waist to practice jumping. The dancers use the ribbons to pull themselves up over their partners' heads. The room's ceilings are too low to wear the lion heads for jumping practice, so once up on his partner's head, Mr. Le held out his arms as if in offering."
+            },
+            {
+              "label": "L",
+              "text": "Mr. Le comes by the dance as a legacy(传承). \"I was born into it,\" Mr. Le said, noting that his uncle and father were club members. \"Growing up, I would always watch my family and see the lion dance, and I slowly grew interested in it.\" By the age of 14, he was fully enrolled in the athletic club's lion dance group. \"I value my culture and tradition, being Chinese or Asian-American. I have a lot of pride in that,\" he said. \"I want to contribute and give back to the community.\""
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The lion dancers perform from door to door to bring New Year wishes to business people.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（强锚点）\n【原文】Today, the dancers travel across Chinatown going from business to business to bring good luck for the coming year.\n如今，舞者们穿行于唐人街，挨家挨户走访商铺，为即将到来的一年带来好运。"
+            },
+            {
+              "number": 37,
+              "stem": "The New York dance club also serves as a place for entertainment where youngsters can enjoy themselves safely.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】But the club also acts as a recreation center and safe haven for teenagers, with video games readily available.\n但这家俱乐部也充当青少年的娱乐中心和安全庇护所，备有随时可玩的电子游戏。"
+            },
+            {
+              "number": 38,
+              "stem": "Lion dancers need to have a little imagination to perform well.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】But what makes you a competent lion dancer is that there's a sense of imagination involved."
+            },
+            {
+              "number": 39,
+              "stem": "There are a number of different versions about the origin of the lion dance.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】Stories vary about how lion dancing came to be, but most of them include a monster named Nian who would terrorize a village.\n关于舞狮如何起源，说法各异，但大多数版本都包含一个会恐吓村庄、名叫年的怪兽。"
+            },
+            {
+              "number": 40,
+              "stem": "Some 50% of the members of a New York lion dance club are teenagers.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（强锚点）\n【原文】Teenagers comprise about half of the group, many of whom began lion dancing at the age of 14.\nC 段 As many as 20 students show up after school 给的是放学后到场的 20 人，讲的是出勤人数，并未说青少年占成员的‘一半’，故不是 40 题源头。"
+            },
+            {
+              "number": 41,
+              "stem": "One club member says he feels proud of his cultural tradition.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "L",
+                  "text": "Paragraph L"
+                }
+              ],
+              "answer": "L",
+              "type": "信息匹配",
+              "analysis": "【答案】L（强锚点）\n【原文】I value my culture and tradition, being Chinese or Asian-American. I have a lot of pride in that.\nI 段 You need to pass on the traditions and the culture 强调要把文化传下去，是‘传承’主题，没有 feels proud 这层自豪情感，故非 41 题源头。"
+            },
+            {
+              "number": 42,
+              "stem": "Two dancers coordinate their movements, one manipulating the lion's head and the other its body.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】The lion head and tail are operated by two people. As one person controls the head, a second follows under a train of fabric representing the body.\n狮头和狮尾由两人操作。一人控制狮头，另一人在代表狮身的一长片布料下跟随。"
+            },
+            {
+              "number": 43,
+              "stem": "One lion dancer compares their New York dance club to a family.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】\"We're a big family,\" he said, shaking hands with other members as they walked through the door.\n“我们是一个大家庭，”他一边说，一边与走进门来的其他成员握手。"
+            },
+            {
+              "number": 44,
+              "stem": "Lion dance should be handed down to future generations as part of Chinese culture.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（强锚点）\n【原文】Mr. Chan, who has been involved with the club for nearly 50 years, said that passing the dance from one generation to the next was vital.\nL 段 I want to contribute and give back to the community 是个人意愿，未提‘把舞狮传给未来世代至关重要’这一普遍主张，故非 44 题源头。"
+            },
+            {
+              "number": 45,
+              "stem": "One lion dancer learned how to perform from his elders.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "L",
+                  "text": "Paragraph L"
+                }
+              ],
+              "answer": "L",
+              "type": "信息匹配",
+              "analysis": "【答案】L（弱锚点）\n【原文】\"Growing up, I would always watch my family and see the lion dance, and I slowly grew interested in it.\"\n2023年6月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 42. Two dancers coordinate their movements, one manipulating the lion's head and the other its body. 这句陈述的信息出自第几段？为什么？ 2023年6月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 第 42 句的信息出自 G 段（强锚点句）。G 段定位句为「The lion head and tail are operated by two people. As one person controls the head, a second follows under a train of fabric representing the body.」（狮头和狮尾由两人操作。一人控制狮头，另一人在代表狮身的一长片布料下跟随。）。陈述句是对原文的同义改写（Two dancers coordinate their movements ↔ The lion head and tail are operated by two people；one manipulating the lion's head and the other its body ↔ As one person controls the head, a second follows under a train of fabric representing the body）。该句锚点唯一、直达对应段，文中无易混的相邻段。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Team-building exercises have become popular for managers trying to increase organisational and team harmony and productivity. Unfortunately many employees resent compulsory bonding and often regard these exercises as a nuisance."
+            },
+            {
+              "label": "B",
+              "text": "A paper published this week by University of Sydney researchers in Social Networks has reported participants' feelings about team-building interventions(干预), revealing ethical implications in forcing employees to take part."
+            },
+            {
+              "label": "C",
+              "text": "\"Many people see team-building activities as a waste of time, so we decided to look in more depth at what's behind this,\" said the paper's lead researcher, Dr. Peter Matous."
+            },
+            {
+              "label": "D",
+              "text": "\"Teams are formed, combined and restructured. Staff are relocated and office spaces redesigned. All this is done with the aim of improving workplace efficiency, collaboration and cohesion. But does any of this work?\" said Dr. Matous."
+            },
+            {
+              "label": "E",
+              "text": "The study found that team-building exercises which focused on the sharing of and intervening into personal attitudes and relationships between team members were considered too heavy-handed and intrusive, although the researchers say some degree of openness and vulnerability is often necessary to make deep, effective connections with colleagues."
+            },
+            {
+              "label": "F",
+              "text": "\"Some participants were against team-building exercises because they were implicitly compulsory. They didn't welcome management's interest in their lives beyond their direct work performance,\" said Matous. \"Many people don't want to be forced into having fun or making friends, especially not on top of their busy jobs. They feel management is being too nosy or trying to control their lives too much.\""
+            },
+            {
+              "label": "G",
+              "text": "In this study the researchers recommended a self-disclosure(表露) approach where participants were guided through a series of questions that allowed them to increasingly disclose personal information and values. The method is well-tested and has been shown to increase interpersonal closeness. However, to be successful it must be voluntary."
+            },
+            {
+              "label": "H",
+              "text": "The researchers said there are numerous schools of thought that propose differing psychological methods for strengthening relationships. \"With caution, many relational methods to improve teams and organisations can be borrowed from other fields. The question is how to apply them effectively to strengthen an entire collective, which is more than just the sum of individual relationships,\" said Dr. Matous."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "Why are many employees opposed to team-building exercises?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They consider such exercises annoying."
+                },
+                {
+                  "key": "B",
+                  "text": "They deem these exercises counter-productive."
+                },
+                {
+                  "key": "C",
+                  "text": "They see such exercises as harmful to harmony."
+                },
+                {
+                  "key": "D",
+                  "text": "They find these exercises too demanding."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Unfortunately many employees resent compulsory bonding and often regard these exercises as a nuisance.\nA) ✓ 正确：regard these exercises as a nuisance ↔ consider such exercises annoying resent ↔ annoying \nB) 无中生有：counter-productive 指适得其反、降低生产力，原文只说员工嫌烦，从未说团建会起反作用，属凭空添加。\nC) 与原文相反：harmful to harmony 称团建有害于和谐，但原文 increase organisational and team harmony 说团建本意是增进和谐，选项把目的反\nD) 答非所问：too demanding 指要求过高、太费力，这是 on top of their busy jobs 一带而过的另一层意思，并非第 46 题问的反对的主要原因。"
+            },
+            {
+              "number": 47,
+              "stem": "What did Dr. Matous and his team do to find out whether team-building activities would improve productivity?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They relocated team leaders and their offices."
+                },
+                {
+                  "key": "B",
+                  "text": "They rearranged the staff and office spaces."
+                },
+                {
+                  "key": "C",
+                  "text": "They redesigned the staff's work schedules."
+                },
+                {
+                  "key": "D",
+                  "text": "They reintroduced some cohesive activities."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Teams are formed, combined and restructured. Staff are relocated and office spaces redesigned. All this is done with the aim of improving workplace efficiency, collaboration and cohesion.\nA) 以偏概全：relocated team leaders 只说调动了团队领导，而原文 Staff are relocated 指全体员工，选项把范围悄悄缩小到领导一类人。\nB) ✓ 正确：Staff are relocated ↔ rearranged the staff office spaces redesigned ↔ office spaces 预判为调动员\nC) 偷换概念：redesigned the staff's work schedules 说重新设计的是工作日程，但原文 redesigned 的对象是 office spaces 办公空间，选\nD) 无中生有：reintroduced some cohesive activities 说重新引入凝聚性活动，原文从未提及重新引入活动这一动作，纯属添加。"
+            },
+            {
+              "number": 48,
+              "stem": "What did the study by Matous' team find about some team-building exercises?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They were intended to share personal attitudes and relationships."
+                },
+                {
+                  "key": "B",
+                  "text": "They implicitly added to the vulnerability of team members."
+                },
+                {
+                  "key": "C",
+                  "text": "They invariably strengthened connections among colleagues."
+                },
+                {
+                  "key": "D",
+                  "text": "They were regarded as an intrusion into employees' private lives."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】The study found that team-building exercises which focused on the sharing of and intervening into personal attitudes and relationships between team members were considered too heavy-handed and intrusive, although the researchers say some degree of openness and vulnerability is often necessary to make deep, effective connections with colleagues.\nA) 答非所问：intended to share personal attitudes and relationships 说团建意在分享个人态度关系，但 focused on the shar\nB) 与原文相反：added to the vulnerability 称团建增加了成员的脆弱，但原文 some degree of...vulnerability is often necessa\nC) 过度推断：invariably strengthened connections 说团建无一例外地增进了联系，但原文只说脆弱开放是建立联系所必需的前提，且整段强调这类团建被嫌侵入，并未说它总\nD) ✓ 正确：intrusive ↔ an intrusion into employees' private lives interest in their lives beyond thei"
+            },
+            {
+              "number": 49,
+              "stem": "How can the self-disclosure approach succeed in increasing interpersonal closeness?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By allowing participants freedom to express themselves."
+                },
+                {
+                  "key": "B",
+                  "text": "By applying it to employees who volunteer to participate."
+                },
+                {
+                  "key": "C",
+                  "text": "By arranging in proper order the questions participants face."
+                },
+                {
+                  "key": "D",
+                  "text": "By guiding employees through a series of steps in team building."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】The method is well-tested and has been shown to increase interpersonal closeness. However, to be successful it must be voluntary.\nA) 偷换概念：freedom to express themselves 说让参与者自由表达，但原文规定的成功条件是 voluntary 自愿参加，而非表达自由，选项偷换了条件的内容。\nB) ✓ 正确：it must be voluntary ↔ employees who volunteer to participate 预判成功须自愿，By applying it to em\nC) 答非所问：arranging in proper order the questions 说按顺序排好问题，这是 guided through a series of questions 描\nD) 偷换概念：guiding employees through a series of steps in team building 把自我表露法说成团建中的引导步骤，原文的 a series"
+            },
+            {
+              "number": 50,
+              "stem": "What does Matous think of the various psychological methods borrowed from other fields for strengthening relationships?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They must be used in combination for an entire collective."
+                },
+                {
+                  "key": "B",
+                  "text": "They prioritise some psychological aspects over others."
+                },
+                {
+                  "key": "C",
+                  "text": "They place too much stress on individual relationships."
+                },
+                {
+                  "key": "D",
+                  "text": "They have to be applied cautiously to be effective."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】\"With caution, many relational methods to improve teams and organisations can be borrowed from other fields. The question is how to apply them effectively to strengthen an entire collective, which is more than just the sum of individual relationships,\" said Dr. Matous.\nA) 过度推断：used in combination for an entire collective 说必须组合使用，但原文 how to apply them effectively to \nB) 张冠李戴：prioritise some psychological aspects over others 说这些方法偏重某些心理层面，这呼应的是 numerous schools of \nC) 与原文相反：place too much stress on individual relationships 说过分强调个体关系，但原文 more than just the sum of \nD) ✓ 正确：With caution ↔ applied cautiously how to apply them effectively ↔ to be effective 预判须谨慎且讲求"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "There are close to 58,000 homeless people in Los Angeles county. That's a shocking and tragic number for a region that's home to some of the richest people in the world. At last, the problem became so acute—and so visible—that Los Angeles took extraordinary action. The citizens of this county voted in November 2016 and again in March 2017 to raise their own taxes. The purpose of such action is to fund an enormous multibillion-dollar, 10-year program of housing and social services for the homeless."
+            },
+            {
+              "label": "B",
+              "text": "As a result, Los Angeles now has its best chance in decades to combat homelessness. This is an opportunity that surely all can agree must not be wasted. It is neither desirable nor morally acceptable nor practical for this county to tolerate the signs of deprivation more commonly associated with the slums(贫民窟) of Rio de Janiero."
+            },
+            {
+              "label": "C",
+              "text": "How did we get here? For as long as there are homeless people, there is a tendency to blame the victims themselves for their condition—to see their failure to thrive as an issue of character, of moral weakness, of laziness. But contrary to popular belief, the homeless in Los Angeles are not mostly mentally ill or drug addicted or frightening, although a sizable minority meet some of those descriptions. Today, a greater and greater proportion of people living on the streets are there because of bad luck or a series of mistakes, or because the economy forgot them—they lost a job or were evicted(逐出) or fled an abusive marriage just as the housing market was growing increasingly unforgiving."
+            },
+            {
+              "label": "D",
+              "text": "The challenges are enormous, even if everyone is pulling in the same direction. That reality was driven home this month by a new Los Angeles Homeless Services Authority report showing that the county's homeless population is growing faster than the supply of new housing."
+            },
+            {
+              "label": "E",
+              "text": "In the world's richest nation, homelessness on this scale should be shameful and shocking. But most Los Angeles residents are no longer either shocked or shamed. Increasingly, we are uncomfortable, annoyed, disgusted, scared or unaware. Compassion(同情心) is being replaced by resignation."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why did the citizens of Los Angeles vote to raise their own taxes?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To combat the county's homelessness."
+                },
+                {
+                  "key": "B",
+                  "text": "To reform the county's service system."
+                },
+                {
+                  "key": "C",
+                  "text": "To fund the development of local infrastructure."
+                },
+                {
+                  "key": "D",
+                  "text": "To narrow the gap between the rich and the poor."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】The purpose of such action is to fund an enormous multibillion-dollar, 10-year program of housing and social services for the homeless.\nA) ✓ 正确：housing and social services for the homeless ↔ combat the county's homelessness The purpos\nB) 无中生有：原文只说资助住房与社会服务，从未提\"改革服务体系\"，reform the county's service system 是凭 services 一词臆造出的动作。\nC) 偷换概念：加税资助的是 housing and social services，the development of local infrastructure 把\"住房与社会服务\"偷换成\"地\nD) 无中生有：原文 some of the richest people in the world 只是用富裕反衬问题之刺眼，从未说加税是为\"缩小贫富差距\"，narrow the gap bet"
+            },
+            {
+              "number": 52,
+              "stem": "What do people tend to believe about the homeless?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They seldom meet the descriptions of homelessness."
+                },
+                {
+                  "key": "B",
+                  "text": "They are the victims of fast economic development."
+                },
+                {
+                  "key": "C",
+                  "text": "They are responsible for their own condition."
+                },
+                {
+                  "key": "D",
+                  "text": "They account for the majority of drug addicts."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】For as long as there are homeless people, there is a tendency to blame the victims themselves for their condition—to see their failure to thrive as an issue of character, of moral weakness, of laziness.\nA) 与原文相反：原文说无家可归者\"多数并非\"精神病或瘾君子，是作者驳斥偏见，seldom meet the descriptions 把\"少数符合\"歪曲成\"很少符合\"，且这是作者观点而非\"人们倾向\nB) 答非所问：victims of fast economic development 把原文 the economy forgot them（被经济遗忘）偷换成\"快速经济发展的受害者\"，且这是\nC) ✓ 正确：blame the victims themselves for their condition ↔ responsible for their own condition the\nD) 以偏概全：原文只说\"相当一部分人\"符合吸毒等描述，account for the majority of drug addicts 反过来说无家可归者\"占瘾君子的大多数\"，既夸大又颠倒了主从"
+            },
+            {
+              "number": 53,
+              "stem": "What is one of the causes for more and more people in Los Angeles to become homeless?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They find it increasingly difficult to afford a place to live."
+                },
+                {
+                  "key": "B",
+                  "text": "The divorce rate in the county has been on a steady rise."
+                },
+                {
+                  "key": "C",
+                  "text": "They have been compelled to take low-paying jobs."
+                },
+                {
+                  "key": "D",
+                  "text": "The society fails to forgive them for their mistakes."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Today, a greater and greater proportion of people living on the streets are there because of bad luck or a series of mistakes, or because the economy forgot them—they lost a job or were evicted or fled an abusive marriage just as the housing market was growing increasingly unforgiving.\nA) ✓ 正确：the housing market was growing increasingly unforgiving ↔ increasingly difficult to afford\nB) 无中生有：原文只提个别人 fled an abusive marriage（逃离虐待婚姻），是个体经历，从未说\"全郡离婚率持续上升\"，divorce rate … on a steady r\nC) 无中生有：原文说有人 lost a job（失业），并未说他们被迫去做低薪工作，compelled to take low-paying jobs 与文意不符且属臆造。\nD) 偷换概念：原文 unforgiving 形容的是 housing market（房市无情），society fails to forgive them for their mistakes "
+            },
+            {
+              "number": 54,
+              "stem": "What do we learn from the new Los Angeles Homeless Services Authority report?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Supplying enough job opportunities for the homeless remains a challenge."
+                },
+                {
+                  "key": "B",
+                  "text": "Everyone is pulling in the same direction to solve the homelessness problem."
+                },
+                {
+                  "key": "C",
+                  "text": "The increase in new housing falls short of the demand of the growing homeless population."
+                },
+                {
+                  "key": "D",
+                  "text": "Los Angeles' homeless condition is deteriorating faster than many people predict."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】That reality was driven home this month by a new Los Angeles Homeless Services Authority report showing that the county's homeless population is growing faster than the supply of new housing.\nA) 偷换概念：报告比较的是\"人口\"与\"住房\"，Supplying enough job opportunities 把\"住房供给\"偷换成\"就业机会供给\"，报告未涉及就业。\nB) 答非所问：Everyone is pulling in the same direction 取自报告前一句 even if everyone is pulling in the same \nC) ✓ 正确：the county's homeless population is growing faster than the supply of new housing ↔ The in\nD) 无中生有：报告只说人口增长快于住房供给，从未提\"恶化速度快于许多人的预测\"，faster than many people predict 凭空加入\"预测\"这一参照，属臆造。"
+            },
+            {
+              "number": 55,
+              "stem": "How do most Los Angeles residents now feel about homelessness?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are increasingly ashamed about its scale."
+                },
+                {
+                  "key": "B",
+                  "text": "They find it no more scaring than it appears."
+                },
+                {
+                  "key": "C",
+                  "text": "They are less and less indifferent to it."
+                },
+                {
+                  "key": "D",
+                  "text": "They no longer find it shocking."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】But most Los Angeles residents are no longer either shocked or shamed. Increasingly, we are uncomfortable, annoyed, disgusted, scared or unaware.\nA) 与原文相反：原文说居民 no longer … shamed（不再羞愧），increasingly ashamed 说\"越来越羞愧\"，与原文正相反。\nB) 与原文相反：原文把 scared（害怕）列为居民如今增多的情绪之一，no more scaring than it appears 却说\"不比看上去更可怕\"，与原文相反。\nC) 与原文相反：原文说居民越来越 unaware（漠然），同情 being replaced by resignation（被无奈取代），less and less indifferent 说\"越\nD) ✓ 正确：most Los Angeles residents are no longer either shocked or shamed ↔ They no longer find it"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n中国政府一直大力推行义务教育(compulsory education) ,以使每个儿童都享有受教育的机会。自1986年《义务教育法》生效以来，经过不懈努力，实现了在全国推行义务教育的目标。如今，在中国, 儿童年满六周岁开始上小学, 从小学到初中一共接受九年义务教育。从2008年秋季学期开始, 义务教育阶段学生无须缴纳学费。随着一系列教育改革举措的实施, 中国义务教育的质量也有显著提高。",
+              "analysis": "【参考译文】\nThe Chinese government has been vigorously promoting compulsory education so that every child can have access to education. Since the Compulsory Education Law came into effect in 1986, China has, through unremitting efforts, achieved the goal of making compulsory education available nationwide. Today in China, children start primary school at the age of six and receive a total of nine years of compulsory education from primary school to junior high school. Since the autumn semester of 2008, students in the compulsory education stage have no longer had to pay tuition fees. With the implementation of a series of educational reform measures, the quality of compulsory education in China has also improved significantly."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2023-06-1/",
+    "sharedWith": "cet4-2023-06-s1",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 54
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2023-06-3/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

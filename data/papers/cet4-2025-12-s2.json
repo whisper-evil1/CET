@@ -1,0 +1,2634 @@
+{
+  "id": "cet4-2025-12-s2",
+  "level": "CET4",
+  "year": 2025,
+  "month": 12,
+  "setNo": 2,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose it is proposed that all university students should be required to learn academic writing. You are now to write a response by stating what you think of the proposal. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nIt has recently been proposed that all university students should be required to learn academic writing. In my view, this proposal deserves our full support, for such a skill is far more than an optional refinement.\n\nFor one thing, academic writing trains students to organize ideas logically and cite sources honestly. When I wrote my first term paper, I struggled to structure arguments and nearly copied online material by mistake; a writing course would have taught me both clear reasoning and academic integrity. For another, this ability pays off well beyond campus. Whether a graduate applies for a research position or drafts a report at work, the capacity to express thoughts precisely on paper often determines success.\n\nAdmittedly, mastering academic writing takes time and effort. Nevertheless, the long-term rewards clearly outweigh the cost. Therefore, I strongly believe universities should make this course compulsory, ideally starting from the first year so that students benefit throughout their studies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "听力为历年真题原文，题目与答案为官方标准答案；在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 8.5,
+              "text": "Customs and Border Protection officials are seeing a rise in people illegally bringing eggs from Mexico into border states, such as Texas.",
+              "zh": "美国海关与边境保护局官员发现,从墨西哥非法携带鸡蛋进入得克萨斯州等边境州的人数正在增加。"
+            },
+            {
+              "id": 2,
+              "start": 8.8,
+              "end": 21.2,
+              "text": "The U.S. average price for a dozen large eggs last month hit $4.25. That's more than double their $1.78 price in December, 2023. Meanwhile, 30 eggs in Mexico sell for just $3.4.",
+              "zh": "上个月美国一打大号鸡蛋的平均价格达到4.25美元。这是2023年12月1.78美元价格的两倍多。与此同时,墨西哥30个鸡蛋的售价仅为3.4美元。"
+            },
+            {
+              "id": 3,
+              "start": 21.6,
+              "end": 48.9,
+              "text": "Those bringing eggs into the U.S. risk fines of up to $10,000. But officials say they usually seize and destroy the eggs. They also impose a $300 penalty. The Department of Agriculture banned eggs from Mexico in 2012. This was due to the risk of bird flu. Officials said most people arriving at international borders with eggs are truthful about their purchases. They simply don't know bringing eggs is not allowed.",
+              "zh": "将鸡蛋带入美国的人面临最高1万美元的罚款。但官员表示,他们通常会没收并销毁鸡蛋。他们还会处以300美元的罚金。农业部于2012年禁止从墨西哥进口鸡蛋。这是由于禽流感的风险。官员表示,大多数携带鸡蛋抵达国际边境的人对其购买行为如实申报。他们只是不知道携带鸡蛋是不被允许的。"
+            },
+            {
+              "id": 4,
+              "start": 49.3,
+              "end": 58.9,
+              "text": "\"Generally, the items are declared during the first inspection. Then the person can abandon the eggs without consequence,\" a Customs and Border Protection spokesperson said.",
+              "zh": "美国海关与边境保护局发言人表示:\"通常情况下,这些物品在首次检查时就会申报。然后当事人可以放弃这些鸡蛋而不会产生后果。\""
+            },
+            {
+              "id": 5,
+              "start": 59.3,
+              "end": 66.6,
+              "text": "Even so, there have been a very small number of cases recently when authorities discovered eggs during further inspections.",
+              "zh": "即便如此,最近仍有极少数情况是当局在进一步检查时发现了鸡蛋。"
+            }
+          ],
+          "audioDuration": 66.6,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What do we learn from the news report about the egg price in the U.S.?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has gone up sharply."
+                },
+                {
+                  "key": "B",
+                  "text": "It has been fluctuating."
+                },
+                {
+                  "key": "C",
+                  "text": "It has risen because of bird flu."
+                },
+                {
+                  "key": "D",
+                  "text": "It has been consumers' concern."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：The U.S. average price for a dozen large eggs last month hit $4.25. That's more than double their $1.78 price in December, 2023.信号：数字对比+more than double 。答案句的信号是数字加比较：hit $4.25 与 more than double their $1.78 price——从 1.78 涨到 4.25、还『翻了不止一倍』…",
+              "optionAnalysis": {
+                "B": "未提及：It has been fluctuating. 说价格『来回波动』，但录音只给了从 1.78 到 4.25 的单向上涨，没有任何下跌或反复，方向不符。",
+                "C": "原词陷阱：It has risen because of bird flu. 把上涨原因归给禽流感。录音确实念到 bird flu，但那是解释 The Department of Agriculture banned eggs from Mexico（为何禁止从墨西哥带蛋）的原因，不是涨价的原因——盗用了原词却接错了因果。",
+                "D": "未提及：It has been consumers' concern. 说蛋价成了消费者的担忧。录音通篇没提消费者的态度或担忧，只客观报了价格数字，属无中生有。",
+                "A": "正确项：与答案句同义替换（more than double their $1.78 price ↔ gone up sharply 倍数=大幅）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The U.S. average price for a dozen large eggs last month hit $4.25. That's more than double their $1.78 price in December, 2023.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What does the news report say about most people arriving at American borders with eggs?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They don't want to abandon their eggs."
+                },
+                {
+                  "key": "B",
+                  "text": "They don't know they will be heavily fined."
+                },
+                {
+                  "key": "C",
+                  "text": "They don't know they are forbidden to bring eggs."
+                },
+                {
+                  "key": "D",
+                  "text": "They don't declare their eggs during the inspection."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：Officials said most people arriving at international borders with eggs are truthful about their purchases. They simply don't know bringing eggs is not allowed.信号：题干同词组+紧跟解释句 。答案句信号是题干原词组在录音里复现：most people arriving at international borders with eggs 几乎照搬了题干，它后面紧跟的 They s…",
+              "optionAnalysis": {
+                "A": "原词陷阱：They don't want to abandon their eggs. 说他们不愿放弃鸡蛋。录音里确有 abandon the eggs 这个词，但原文是说『在第一次检查时申报、然后可以无后果地放弃鸡蛋』，根本没说他们『不愿放弃』——盗用 abandon 一词，意思却恰相反。 借用原文：Those bringing eggs into the U.S. risk fines of up to $10,000.",
+                "B": "偷换概念：They don't know they will be heavily fined. 说他们不知会被重罚。录音里 risk fines of up to $10,000、a $300 penalty 确实提到罚款，但原文说这群人不知道的是『带蛋被禁止』，不是『不知会被罚款』——把『不知禁令』偷换成了『不知罚款』。 借用原文：Generally, the items are declared during the first inspection.",
+                "D": "与原文相反：They don't declare their eggs during the inspection. 说他们检查时不申报。录音里 declared during the first inspection 确实有 declare 和 inspection，但原文是说『物品一般会在第一次检查时被申报』，即多数人是申报的，与选项的『不申报』正好相反。",
+                "C": "正确项：与答案句同义替换（They simply don't know bringing eggs is not allowed ↔ They don't know they are forbidden to bring eggs. not allowed=forbidden）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Officials said most people arriving at international borders with eggs are truthful about their purchases. They simply don't know bringing eggs is not allowed.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 10.4,
+              "text": "Nettie's House, a restaurant in America, has been hit with criticism after announcing on the website that children under the age of 10 are no longer welcome.",
+              "zh": "美国一家名为Nettie's House的餐厅在其网站上宣布不再欢迎10岁以下儿童后遭到批评。"
+            },
+            {
+              "id": 2,
+              "start": 10.8,
+              "end": 32.3,
+              "text": "Among the reasons given for the decision, the restaurant cited \"noise levels, lack of space for high chairs, cleaning up crazy messes, and the liability of kids running around the restaurant\". They decided that it was time to take control. The decision wasn't made lightly, but some recent events pushed them to implement this new policy.",
+              "zh": "餐厅给出的决定理由包括\"噪音水平、高脚椅空间不足、清理混乱不堪的场面以及孩子在餐厅跑来跑去的责任问题\"。他们决定是时候采取管控措施了。这个决定并非轻率做出,但最近发生的一些事件促使他们实施这项新政策。"
+            },
+            {
+              "id": 3,
+              "start": 32.6,
+              "end": 51.1,
+              "text": "Responding to the post, one person commented that \"It is messed up beyond another level. Children are children. Mums are tired and don't have time to cook. Not welcoming children under 10 is a complete slap in the face to families.\" He felt so disappointed in the establishment.",
+              "zh": "针对这篇帖子,有人评论说\"这简直乱得不成样子。孩子就是孩子。妈妈们很累,没有时间做饭。不欢迎10岁以下儿童完全是对家庭的一记耳光。\"他对这家餐厅感到非常失望。"
+            },
+            {
+              "id": 4,
+              "start": 51.5,
+              "end": 60.3,
+              "text": "There are others, however, who showed support for the restaurant's decision. They said it has the right to implement any rules it wants.",
+              "zh": "然而,也有其他人对餐厅的决定表示支持。他们说餐厅有权实施任何它想要的规定。"
+            }
+          ],
+          "audioDuration": 60.3,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What do we learn from the news report about the restaurant Nettie's House?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is no longer critical of younger customers."
+                },
+                {
+                  "key": "B",
+                  "text": "It has banned kids under 10 from dining there."
+                },
+                {
+                  "key": "C",
+                  "text": "It is no longer as noisy and crowded as before."
+                },
+                {
+                  "key": "D",
+                  "text": "It has implemented a decision to expand business."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：Nettie's House, a restaurant in America, has been hit with criticism after announcing on the website that children under the age of 10 are no longer welcome.信号：新闻首句点题，机构名后紧跟核心事件 。短篇新闻第一句通常就把核心事件说清。这里店名之后紧跟 announcing on the website that children under the age of 10 ar…",
+              "optionAnalysis": {
+                "A": "与原文相反：It is no longer critical of younger customers. 借了原文\"针对低龄顾客\"这层意思，却说餐厅\"不再挑剔年轻顾客\"——恰恰相反，餐厅是收紧了对儿童的限制；而且 no longer critical 的是公众对餐厅的批评，不是餐厅对顾客的态度，方向反了。 借用原文：noise levels",
+                "C": "原词陷阱：It is no longer as noisy and crowded as before. 抓住了原文提到的 noise levels（吵闹）来勾人，但原文只是把吵闹列为出台新规的\"理由\"，从没说餐厅现在已经变得不吵不挤了。听到 noise 就选 C 就中了原词陷阱。 借用原文：implement this new policy",
+                "D": "原词陷阱：It has implemented a decision to expand business. 蹭了原文里 implement this new policy 的 implement 一词，但原文实施的是\"谢绝儿童\"的新政策，根本没提扩张生意，expand business 是无中生有。",
+                "B": "正确项：与答案句同义替换（children under the age of 10 are no longer welcome ↔ banned kids under 10 from dining there \"不再欢迎\"=\"禁止用餐\"的同义改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Nettie's House, a restaurant in America, has been hit with criticism after announcing on the website that children under the age of 10 are no longer welcome.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What do supporters say in response to the restaurant's new policy?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is fully aware of frequent customers' feelings."
+                },
+                {
+                  "key": "B",
+                  "text": "It caters to the tastes of different customers."
+                },
+                {
+                  "key": "C",
+                  "text": "It is entitled to adopt any rules it wants."
+                },
+                {
+                  "key": "D",
+                  "text": "It should announce its decisions online."
+                }
+              ],
+              "answer": "C",
+              "analysis": "态度观点题。答案句（P4）：There are others, however, who showed support for the restaurant's decision. They said it has the right to implement any rules it wants.信号：转折 however 引出支持方，应答句紧随 。第4段以 There are others, however, who showed support 用转折词 however 把镜头从前文反对者切到支持者，紧接着 T…",
+              "optionAnalysis": {
+                "A": "未提及：It is fully aware of frequent customers' feelings. 说餐厅\"充分了解常客的感受\"，但支持者原话只讲\"餐厅有权定规矩\"，从没提常客（frequent customers）也没说店家了解谁的感受，这层意思原文整个没出现。",
+                "B": "原词陷阱：It caters to the tastes of different customers. 蹭了全篇反复出现的 customers 一词，但支持者说的是\"店家有权定规矩\"，不是说它\"迎合不同顾客的口味\"——caters to tastes 在原文没有依据，是借熟词编的好听话。 借用原文：announcing on the website",
+                "D": "原词陷阱：It should announce its decisions online. 蹭了原文 announcing on the website 的\"网上宣布\"，但那只是叙述餐厅当初怎么发的公告，支持者根本没说\"店家应该在网上公布决定\"，且 should 是建议口吻、与本题问的支持表态不符。",
+                "C": "正确项：与答案句同义替换（it has the right to implement any rules it wants ↔ It is entitled to adopt any rules it wants has the right=is entitled，implement=adopt）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "There are others, however, who showed support for the restaurant's decision. They said it has the right to implement any rules it wants.",
+              "type": "态度观点题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 10.4,
+              "text": "Security officers were searching a suburb in Australia where an adult snake was believed to be wandering after the discovery of a huge, \"freshly shed\" snake skin.",
+              "zh": "在澳大利亚一个郊区发现了一张巨大的\"新脱落\"蛇皮后,安全官员正在搜寻该地区,据信有一条成年蛇在游荡。"
+            },
+            {
+              "id": 2,
+              "start": 10.8,
+              "end": 28.4,
+              "text": "The skin was found at a construction site, and the government wrote to residents to warn them. They were told to observe and, if possible, photograph the animal. If it was moving, watch where it went. It was recommended not to make contact with the animal.",
+              "zh": "这张蛇皮是在一处建筑工地发现的,政府向居民发出书面警告。他们被告知要观察这条蛇,如有可能对其拍照。如果它在移动,要观察它去了哪里。建议不要与该动物接触。"
+            },
+            {
+              "id": 3,
+              "start": 28.8,
+              "end": 51.8,
+              "text": "The type of snake was determined to be one of the world's largest snake species. It is not poisonous, but can still attack and kill its victims. This type of snake is classified as a threat to humans, especially small children, as well as pets. They may carry viruses that are fatal to native snakes, which do not have resistance.",
+              "zh": "经确定,这种蛇是世界上最大的蛇类物种之一。它没有毒性,但仍然可以攻击并杀死猎物。这种蛇被归类为对人类构成威胁,特别是对幼儿以及宠物。它们可能携带对本地蛇类致命的病毒,而本地蛇类对这些病毒没有抵抗力。"
+            },
+            {
+              "id": 4,
+              "start": 52.1,
+              "end": 77.5,
+              "text": "If officers found the snake, they would employ a licensed snake catcher to catch it and transport it to a specialist animal doctor, the government said. If caught, the snake would be examined to determine where it came from, how long it had been in the area, what it had been eating, whether it was carrying any diseases of concern and whether it had produced babies.",
+              "zh": "政府表示,如果官员找到这条蛇,他们将雇用有执照的捕蛇人将其捕获并运送到专业动物医生处。如果被捕获,将对这条蛇进行检查,以确定它来自哪里、在该地区待了多长时间、吃了什么、是否携带任何令人担忧的疾病以及是否产下了幼蛇。"
+            }
+          ],
+          "audioDuration": 77.5,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What does the report say security officers were searching for?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A missing pet."
+                },
+                {
+                  "key": "B",
+                  "text": "A grown-up snake."
+                },
+                {
+                  "key": "C",
+                  "text": "A huge animal skin."
+                },
+                {
+                  "key": "D",
+                  "text": "A snake specialist."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：Security officers were searching a suburb in Australia where an adult snake was believed to be wandering after the discovery of a huge, \"freshly shed\" snake skin.信号：搜寻主语句直接点对象 。答案句是新闻第一句，把『谁在搜+搜什么』一并说清：an adult snake was believed to be wandering（一条成年蛇据信在游荡），这才是被搜寻的活物；蛇皮 sn…",
+              "optionAnalysis": {
+                "C": "原词陷阱：选项盗用了录音里真实出现的 a huge, \"freshly shed\" snake skin（巨大的刚蜕的蛇皮），听到 huge 和 skin 很想选 A huge animal skin.。但蛇皮只是引发搜寻的线索，搜寻的对象是活蛇本身，故 C 答非所问。 借用原文：a specialist animal doctor",
+                "A": "未提及：录音通篇说的是一条野生大蛇，从未提到这是谁走失的宠物。A missing pet. 在原文中没有依据，属凭常识臆测（『蛇会不会是谁养的跑了』），录音没说就不能选。",
+                "D": "张冠李戴：A snake specialist.（捕蛇/治蛇专家）盗用了录音后文 a licensed snake catcher 与 a specialist animal doctor 的概念，但这些人是抓到蛇之后才会请的，不是此刻搜寻的对象。把『搜寻蛇』偷换成『搜寻专家』，张冠李戴。",
+                "B": "正确项：与答案句同义替换（an adult snake ↔ A grown-up snake. adult=grown-up 同义改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Security officers were searching a suburb in Australia where an adult snake was believed to be wandering after the discovery of a huge, \"freshly shed\" snake skin.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "Where does the report say the discovery was made?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "In a government office."
+                },
+                {
+                  "key": "B",
+                  "text": "In a deserted house."
+                },
+                {
+                  "key": "C",
+                  "text": "At a local zoo."
+                },
+                {
+                  "key": "D",
+                  "text": "At a construction site."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：The skin was found at a construction site, and the government wrote to residents to warn them.信号：地点状语 at 直接给地点 。答案句里 The skin was found at a construction site 的 at a construction site 是典型的地点状语，正面回答了『发现在哪』。…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项盗用了同句里的 the government 一词，听到 government 就想选 In a government office.。但录音里政府是『写信提醒居民』的施动方，并非发现蛇皮的地点，二者无关，属答非所问。",
+                "B": "未提及：In a deserted house.（废弃房屋）录音从未提到，可能是考生凭『蛇出没=破旧荒地』的常识脑补出来的。原文只说工地，没说废屋，无依据。",
+                "C": "未提及：At a local zoo.（本地动物园）也是常识联想（『蛇=动物=动物园』），录音里完全没有出现 zoo。原文发现地是工地，不是动物园，排除。",
+                "D": "正确项：与答案句同义替换（found at a construction site ↔ At a construction site. 地点词原样对应）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The skin was found at a construction site, and the government wrote to residents to warn them.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What did the government say would be done if security officers found what they were searching for?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Figuring out where it came from."
+                },
+                {
+                  "key": "B",
+                  "text": "Curing it of any possible diseases."
+                },
+                {
+                  "key": "C",
+                  "text": "Protecting its babies against harm."
+                },
+                {
+                  "key": "D",
+                  "text": "Determining how to catch it safely."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P4）：If caught, the snake would be examined to determine where it came from, how long it had been in the area, what it had been eating, whether it was carrying any diseases of concern and whether it had produced babies.信号：If caught 引出后续措施 。答案句以 If caught（一旦抓获）开头，正对题干的 if…found 假设条件，后面 would be examined to determine where it came…",
+              "optionAnalysis": {
+                "B": "偷换概念：选项盗用了录音 whether it was carrying any diseases of concern 里的 diseases 一词，听到『病』就想选 Curing it of any possible diseases.。但原文只是『检查它是否携带疾病』，并非『治好它的病』，把『检查』偷换成『治疗』，故错。 借用原文：whether it had produced babies",
+                "C": "偷换概念：选项盗用了 whether it had produced babies 里的 babies，让人误选 Protecting its babies against harm.。但原文是『查清它是否产过幼蛇』，根本不是『保护幼蛇不受伤害』，方向完全不同，属偷换概念。 借用原文：employ a licensed snake catcher to catch it",
+                "D": "原词陷阱：Determining how to catch it safely. 盗用了 catch（抓）。录音里抓蛇是 employ a licensed snake catcher to catch it（雇持证捕蛇人去抓），是直接安排人去抓，并不是『研究怎样安全地抓』，故 D 答非所问。",
+                "A": "正确项：与答案句同义替换（examined to determine where it came from ↔ Figuring out where it came from. determine=figure out 同义）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "If caught, the snake would be examined to determine where it came from, how long it had been in the area, what it had been eating, whether it was carrying any diseases of concern and whether it had produced babies.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 1.4,
+              "text": "W: Poor Hannah!",
+              "zh": "W: 可怜的Hannah!"
+            },
+            {
+              "id": 2,
+              "start": 1.8,
+              "end": 3.3,
+              "text": "M: Why? What happened?",
+              "zh": "M: 怎么了?发生什么事了?"
+            },
+            {
+              "id": 3,
+              "start": 3.6,
+              "end": 9,
+              "text": "W: Didn't you hear? She won a TV competition and became a millionaire overnight.",
+              "zh": "W: 你没听说吗?她赢了一个电视竞赛,一夜之间成了百万富翁。"
+            },
+            {
+              "id": 4,
+              "start": 9.3,
+              "end": 12.4,
+              "text": "M: No way. That's incredible. Are you kidding?",
+              "zh": "M: 不会吧。太不可思议了。你在开玩笑吗?"
+            },
+            {
+              "id": 5,
+              "start": 12.8,
+              "end": 22,
+              "text": "W: No, I'm serious. I swear it. She went on a TV show where they quiz on general knowledge, and she won first prize.",
+              "zh": "W: 没有,我是认真的。我发誓。她参加了一个电视节目,那种考常识问答的,然后她赢得了头奖。"
+            },
+            {
+              "id": 6,
+              "start": 22.4,
+              "end": 27,
+              "text": "M: Wow. That's so lucky of her. How much did she win?",
+              "zh": "M: 哇。她太幸运了。她赢了多少钱?"
+            },
+            {
+              "id": 7,
+              "start": 27.4,
+              "end": 35,
+              "text": "W: I'm not sure of the exact figure, but it's a few million Euros, maybe five million Euros after tax.",
+              "zh": "W: 我不确定具体数字,但有几百万欧元,税后大概五百万欧元。"
+            },
+            {
+              "id": 8,
+              "start": 35.4,
+              "end": 39.6,
+              "text": "M: I can't believe it. You're really not joking, are you?",
+              "zh": "M: 我真不敢相信。你真的不是在开玩笑,对吧?"
+            },
+            {
+              "id": 9,
+              "start": 40,
+              "end": 45.3,
+              "text": "W: Honestly, look at my face. Our friend Hannah won a ton of money.",
+              "zh": "W: 真的,你看我的表情。咱们的朋友Hannah赢了一大笔钱。"
+            },
+            {
+              "id": 10,
+              "start": 45.6,
+              "end": 49.1,
+              "text": "M: Unbelievable. Then why were you saying \"poor Hannah\"?",
+              "zh": "M: 难以置信。那你为什么说\"可怜的Hannah\"?"
+            },
+            {
+              "id": 11,
+              "start": 49.5,
+              "end": 53.7,
+              "text": "W: Well, it turns out that she's spent it all already.",
+              "zh": "W: 嗯,结果她已经把钱全花光了。"
+            },
+            {
+              "id": 12,
+              "start": 54.1,
+              "end": 57.5,
+              "text": "M: Five million Euros? How is that even possible?",
+              "zh": "M: 五百万欧元?这怎么可能?"
+            },
+            {
+              "id": 13,
+              "start": 57.9,
+              "end": 72.5,
+              "text": "W: She bought a house for herself and her husband, a house for her parents, and then a house for each of her four brothers and sisters. And then she bought her husband a ridiculously expensive sports car.",
+              "zh": "W: 她给自己和丈夫买了一套房子,给她父母买了一套房子,然后又给她四个兄弟姐妹每人买了一套房子。之后她又给她丈夫买了一辆贵得离谱的跑车。"
+            },
+            {
+              "id": 14,
+              "start": 72.8,
+              "end": 77.5,
+              "text": "M: Wow. Are they all happy? Because that's what matters, isn't it?",
+              "zh": "M: 哇。他们都开心吗?因为这才是最重要的,不是吗?"
+            },
+            {
+              "id": 15,
+              "start": 77.8,
+              "end": 96.7,
+              "text": "W: I know for a fact Hannah isn't. You see, she was planning to quit the job she hates and retire early. But now that she ran out of money, she can't. Basically, she miscalculated how fast she was burning through the money, and she's now full of regret.",
+              "zh": "W: 我确定Hannah不开心。你看,她本来计划辞掉她讨厌的工作,提前退休。但现在她钱花光了,做不到了。基本上,她错误估计了花钱的速度,现在她满心懊悔。"
+            },
+            {
+              "id": 16,
+              "start": 97,
+              "end": 100.5,
+              "text": "M: Why don't they sell that flashy new car?",
+              "zh": "M: 他们为什么不把那辆炫酷的新车卖掉?"
+            },
+            {
+              "id": 17,
+              "start": 100.8,
+              "end": 114.7,
+              "text": "W: She wants to, but her husband refuses to get rid of it. He says the car is the best thing that has ever happened to him, and if she sells it, he will divorce her.",
+              "zh": "W: 她想卖,但她丈夫拒绝放弃那辆车。他说那辆车是他这辈子遇到的最好的东西,如果她把它卖了,他就跟她离婚。"
+            }
+          ],
+          "audioDuration": 114.7,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "Why does the woman say she swears it?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The man doesn't agree Hannah is poor."
+                },
+                {
+                  "key": "B",
+                  "text": "The man doesn't believe what she says."
+                },
+                {
+                  "key": "C",
+                  "text": "The man doesn't think she can be a millionaire."
+                },
+                {
+                  "key": "D",
+                  "text": "The man doesn't consider her to be trustworthy."
+                }
+              ],
+              "answer": "B",
+              "analysis": "推断题。答案句（P8）：M: I can't believe it. You're really not joking, are you?信号：发誓是对男士『不信』的回应 。女士反复发誓的触发点，是男士这句 I can't believe it. You're really not joking, are you?——男士先表态不信、追问是否开玩笑，女士才被…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 The man doesn't agree Hannah is poor. 借了录音开头 Poor Hannah! 的 poor 来勾人，但男士从没就『Hannah 穷不穷』表过态，他不信的是『中了大奖』这件事，与穷不穷无关。 借用原文：became a millionaire overnight",
+                "C": "偷换概念：选项 The man doesn't think she can be a millionaire. 抓了录音 became a millionaire overnight 里的 millionaire，但男士震惊的是『这事是不是真的』，并非质疑『她有没有能力成为富翁』——把『不信事实』偷换成了『不信她的能力』。",
+                "D": "过度推断：选项 The man doesn't consider her to be trustworthy. 听着和『不信』近似，但 trustworthy 指『这个人不可信、人品有问题』，男士只是惊讶于消息太离奇、问对方是否开玩笑，并没有否定女士的人品，属过度引申。",
+                "B": "正确项：与答案句同义替换（I can't believe it. ↔ doesn't believe what she says I can't believe=doesn't believe）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "M: I can't believe it. You're really not joking, are you?",
+              "type": "推断题"
+            },
+            {
+              "number": 9,
+              "stem": "What do we learn about Hannah from the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She no longer has any money left."
+                },
+                {
+                  "key": "B",
+                  "text": "She has been betrayed by her family."
+                },
+                {
+                  "key": "C",
+                  "text": "She can no longer hold on to her job."
+                },
+                {
+                  "key": "D",
+                  "text": "She has been robbed of 5 million Euros."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P11）：W: Well, it turns out that she's spent it all already.信号：转折后交代真实结局 。前文一直在讲 Hannah 中了大奖、好运连连，直到女士这句 it turns out that she's spent it all already 才点出真相——钱花光了。it turns …",
+              "optionAnalysis": {
+                "B": "未提及：选项 She has been betrayed by her family. 在录音里找不到任何依据——对话提到她给家人买房，是付出而非被背叛，『被家人背叛』纯属编造。",
+                "C": "与原文相反：选项 She can no longer hold on to her job. 抓了录音 quit the job she hates 里的 job，但录音是说她原想辞掉讨厌的工作却辞不成、只能继续干，恰恰是『保得住/必须保住』工作，选项却说成『保不住』，把意思反了。 借用原文：maybe five million Euros after tax",
+                "D": "原词陷阱：选项 She has been robbed of 5 million Euros. 用了录音里真念到的钱数 maybe five million Euros after tax 来制造熟悉感，但钱是她自己花光的(买房买车)，不是被人抢走，robbed 完全没有依据。",
+                "A": "正确项：与答案句同义替换（she's spent it all already ↔ no longer has any money left 全花光=不再有钱）"
+              },
+              "evidencePara": "P11",
+              "evidenceText": "W: Well, it turns out that she's spent it all already.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "What does the man think really matters to people?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Fortune."
+                },
+                {
+                  "key": "B",
+                  "text": "Family."
+                },
+                {
+                  "key": "C",
+                  "text": "Harmony."
+                },
+                {
+                  "key": "D",
+                  "text": "Happiness."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P14）：M: Wow. Are they all happy? Because that's what matters, isn't it?信号：matters 原词点名 + 反问强调 。男士直接说 that's what matters, isn't it?，其中 matters 与题干 really matters 对得上；而 that 指的正是前半句的 …",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 Fortune. 和整段『中大奖、五百万』的话题最贴，最易顺手误选，但通篇没有任何人说『财富才是最要紧的』，男士点名的是开心，不是钱。 借用原文：a house for her parents, and then a house for each of her four brothers and sisters",
+                "B": "原词陷阱：选项 Family. 借了录音里反复出现的家人(给 her parents、四个兄弟姐妹买房)，但男士说『要紧』时指的是大家开不开心，不是『家庭』这个概念本身。",
+                "C": "未提及：选项 Harmony.(和睦)看似和『家人开心』沾点边，但录音里既没念到 harmony 这个词，也没人表达『和睦才最重要』，纯属凭话题臆造。",
+                "D": "正确项：与答案句同义替换（Are they all happy? ↔ Happiness. happy→Happiness 形转名）"
+              },
+              "evidencePara": "P14",
+              "evidenceText": "M: Wow. Are they all happy? Because that's what matters, isn't it?",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What does Hannah's husband say he'll do if she sells the new car?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Divorce her."
+                },
+                {
+                  "key": "B",
+                  "text": "Leave home."
+                },
+                {
+                  "key": "C",
+                  "text": "Buy her a more expensive model."
+                },
+                {
+                  "key": "D",
+                  "text": "Let the best thing happen to them."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P17）：W: She wants to, but her husband refuses to get rid of it. He says the car is the best thing that has ever happened to him, and if she sells it, he will divorce her.信号：if…he will… 条件句直给答案 。答案句就是 if she sells it, he will divorce her——题干的条件 if she sells 在这里原样出现，紧跟的主句 he will di…",
+              "optionAnalysis": {
+                "B": "偷换概念：选项 Leave home. 听着和『离婚』情绪相近，但录音里丈夫说的是 divorce(离婚)，从没提『离家出走』，属凭联想替换。",
+                "C": "原词陷阱：选项 Buy her a more expensive model. 抓了录音 a ridiculously expensive sports car 的 expensive，但录音里丈夫是『拒绝卖掉现有的车』，根本不是要再买更贵的，方向相反。 借用原文：the car is the best thing that has ever happened to him",
+                "D": "原词陷阱：选项 Let the best thing happen to them. 改自录音 the car is the best thing that has ever happened to him，但那是丈夫形容车好、是已经发生的事，并非他在『卖车后要做的动作』，把一句描述硬塞成了答案。",
+                "A": "正确项：与答案句同义替换（he will divorce her ↔ Divorce her. 原句动作直接照搬）"
+              },
+              "evidencePara": "P17",
+              "evidenceText": "W: She wants to, but her husband refuses to get rid of it. He says the car is the best thing that has ever happened to him, and if she sells it, he will divorce her.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 16.2,
+              "text": "W: If you have time right now, I think we need to sit down and discuss what exactly we are going to do for Jake's education next year. I've been thinking it over, and I'd like to send him to Westwood Elementary.",
+              "zh": "W: 如果你现在有时间的话,我觉得我们需要坐下来讨论一下明年Jake的教育问题。我一直在考虑这件事,我想把他送到Westwood小学。"
+            },
+            {
+              "id": 2,
+              "start": 16.6,
+              "end": 41.2,
+              "text": "M: You mean that boarding school? I thought we agreed that we would not be sending him away at such a young age. I admit that their academic record is very strong with many outstanding awards for achievements in Science and Math, but he is just not mature enough to live on his own at this point. What about enrolling him in Lakeview School?",
+              "zh": "M: 你是说那所寄宿学校?我以为我们说好了不会在他这么小的年纪就把他送走。我承认他们的学术成绩非常优秀,在科学和数学方面获得了许多杰出的奖项,但他现在还不够成熟,不能独自生活。把他送到Lakeview学校怎么样?"
+            },
+            {
+              "id": 3,
+              "start": 41.6,
+              "end": 65.8,
+              "text": "W: They do have a great outdoor campus where he could finally learn all those outdoor sports you have been wanting him to try. With so much greenery and fresh air, I think his current breathing problems would probably disappear. They did just open, though, so I don't think I feel comfortable having our son in the first class of a brand-new school.",
+              "zh": "W: 他们确实有一个很棒的户外校园,在那里他终于可以学习你一直想让他尝试的那些户外运动了。有这么多的绿化和新鲜空气,我想他目前的呼吸问题可能会消失。不过他们刚开办,所以我不太放心让我们的儿子成为一所全新学校的第一届学生。"
+            },
+            {
+              "id": 4,
+              "start": 66.1,
+              "end": 88.5,
+              "text": "M: Yeah, the classrooms would probably smell like paint, making the air in the school all stuffy. What about our local school then? They have a wonderful arts program that would really challenge Jake in terms of creativity and imagination. Being practically next door, one of us could take him to school every day before going to work.",
+              "zh": "M: 是啊,教室里可能还有油漆味,让学校里的空气都很闷。那我们本地的学校呢?他们有一个很棒的艺术课程,能真正在创造力和想象力方面挑战Jake。就在家门口,我们其中一个人每天上班前都可以送他去学校。"
+            },
+            {
+              "id": 5,
+              "start": 88.8,
+              "end": 107.7,
+              "text": "W: I don't know. They have a reputation of being overly strict with the students, not to mention the overwhelming amount of homework they assign, which would lead to a lot of pressure for Jake and me. What if we send him to the place near your mother's house?",
+              "zh": "W: 我不知道。他们以对学生过于严格而闻名,更不用说布置的作业量大得惊人,这会给Jake和我带来很大压力。要不我们把他送到你妈妈家附近的那所学校?"
+            }
+          ],
+          "audioDuration": 107.7,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What does the man say about Jake?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He is not outstanding in Science and Math."
+                },
+                {
+                  "key": "B",
+                  "text": "He does not have a strong academic record."
+                },
+                {
+                  "key": "C",
+                  "text": "He is not yet mature enough to live on his own."
+                },
+                {
+                  "key": "D",
+                  "text": "He does not like Westwood Elementary School."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：I admit that their academic record is very strong with many outstanding awards for achievements in Science and Math, but he is just not mature enough to live on his own at this point.信号：转折 but 之后才是男方真意 。这句前半是 I admit…让步夸学校，真正的态度落在 but he is just not mature enough to live on his own at this poi…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项说 not outstanding in Science and Math，而录音 outstanding awards for achievements in Science and Math 恰恰是说学校在科学数学上很突出。它盗用了原词 Science and Math，却把\"突出\"反说成\"不突出\"。 借用原文：their academic record is very strong",
+                "B": "偷换概念：录音明说 their academic record is very strong，指的还是学校的学术记录强；选项 He does not have a strong academic record. 既把对象从学校换成 Jake，又把\"强\"反成\"不强\"。",
+                "D": "未提及：Westwood 是女方想送的 boarding school，男方的顾虑是孩子\"不够成熟\"，全程没说 Jake 喜不喜欢这所学校，He does not like Westwood Elementary School. 属凭空添加。",
+                "C": "正确项：与答案句同义替换（he is just not mature enough to live on his own ↔ He is not yet mature enough to live on his own. 几乎原句，just→yet 同义）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "I admit that their academic record is very strong with many outstanding awards for achievements in Science and Math, but he is just not mature enough to live on his own at this point.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "Why does the woman feel uncomfortable about sending Jake to Lakeview School?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is too far away."
+                },
+                {
+                  "key": "B",
+                  "text": "It is newly opened."
+                },
+                {
+                  "key": "C",
+                  "text": "It lacks outdoor sports facilities."
+                },
+                {
+                  "key": "D",
+                  "text": "It has too few first-class teachers."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：They did just open, though, so I don't think I feel comfortable having our son in the first class of a brand-new school.信号：though 转折 + 不安的直接陈述 。前文女方先夸 Lakeview 校园好、空气好，though 一转才道出顾虑，紧接 I don't think I feel comfortable having our s…",
+              "optionAnalysis": {
+                "A": "张冠李戴：It is too far away. 谈的是距离，但女方对 Lakeview 的顾虑是\"太新\"，文中没说 Lakeview 远；\"近\"反而是后面本地学校的优点。距离话题被张冠李戴到了 Lakeview 头上。 借用原文：a great outdoor campus where he could finally learn all those outdoor sports",
+                "C": "与原文相反：录音说 Lakeview a great outdoor campus where he could finally learn all those outdoor sports，户外运动是它的优点；选项 It lacks outdoor sports facilities. 把\"有大操场练户外运动\"反说成\"缺户外运动设施\"。",
+                "D": "未提及：It has too few first-class teachers. 谈师资，但整段讲 Lakeview 只提了校园、空气、刚开学，从没提教师数量或质量，属凭空添加。",
+                "B": "正确项：与答案句同义替换（They did just open ↔ It is newly opened. did just open = newly opened）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "They did just open, though, so I don't think I feel comfortable having our son in the first class of a brand-new school.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What does the man say about their local school?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has a beautiful campus."
+                },
+                {
+                  "key": "B",
+                  "text": "It is within walking distance."
+                },
+                {
+                  "key": "C",
+                  "text": "It has a wonderful arts program."
+                },
+                {
+                  "key": "D",
+                  "text": "It is helpful to Jake's breathing problems."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P4）：What about our local school then? They have a wonderful arts program that would really challenge Jake in terms of creativity and imagination.信号：男方主动提议本校时主推的卖点 。男方用 What about our local school then? 把话题转到本地学校，紧接给出的第一条理由 a wonderful arts program 就是他主推的卖点…",
+              "optionAnalysis": {
+                "A": "张冠李戴：It has a beautiful campus. 谈校园，但漂亮校园说的是 Lakeview（a great outdoor campus、so much greenery and fresh air），不是本地学校，属张冠李戴。 借用原文：Being practically next door",
+                "B": "原词陷阱：本地学校确实近，Being practically next door，但题干问 man 关于本校\"说了什么\"，他主推的是艺术项目；It is within walking distance. 虽是事实细节，却非他强调的卖点，且与正解只能取其一时，原文用 wonderful 着重的是 arts program。 借用原文：his current breathing problems would probably disappear",
+                "D": "张冠李戴：It is helpful to Jake's breathing problems. 谈呼吸，但能改善呼吸的是 Lakeview 的清新空气（his current breathing problems would probably disappear），与本地学校无关，属张冠李戴。",
+                "C": "正确项：与答案句同义替换（a wonderful arts program ↔ It has a wonderful arts program. 几乎原句复现）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "What about our local school then? They have a wonderful arts program that would really challenge Jake in terms of creativity and imagination.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "What does the woman suggest at the end of the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Asking Jake which school he himself prefers to enroll in."
+                },
+                {
+                  "key": "B",
+                  "text": "Thinking twice about what is best for Jake's education next year."
+                },
+                {
+                  "key": "C",
+                  "text": "Consulting her mother about which school Jake is to attend."
+                },
+                {
+                  "key": "D",
+                  "text": "Sending Jake to the school near the home of the man's mother."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P5）：What if we send him to the place near your mother's house?信号：建议句式 What if 在结尾出现 。对话最后一句 What if we send him to the place near your mother's house? 用 What if 提出新方案，是女方对男方…",
+              "optionAnalysis": {
+                "A": "未提及：Asking Jake which school he himself prefers to enroll in. 让 Jake 自己选，但结尾女方提的是送到男方母亲家附近，全程没说征求 Jake 意愿，属凭空添加。",
+                "B": "答非所问：Thinking twice about what is best for Jake's education next year. 把 what exactly we are going to do for Jake's education next year 这句开头的话改写过来，但那是对话开端女方提出讨论的引子，不是结尾给出的具体建议。 借用原文：the place near your mother's house",
+                "C": "张冠李戴：Consulting her mother about which school Jake is to attend. 盗用结尾的 mother，却把人物彻底换了：原文是\"送到你（男方）妈妈家附近的学校\"，选项变成\"去咨询她（女方）自己的妈妈\"，既改了是谁的母亲，又把\"送去就读\"换成\"征求意见\"。",
+                "D": "正确项：与答案句同义替换（the place near your mother's house ↔ Sending Jake to the school near the home of the man's mother. your mother = the man's mother）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "What if we send him to the place near your mother's house?",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 18.8,
+              "text": "Analytical decision-making is a decision-making approach where a manager makes important business decisions only with solid data. This style contrasts with more instinctive leadership styles where managers make many decisions using instinct or opinion. While analytical decision-makers benefit from a deliberate, thoughtful approach, this style also has some shortcomings.",
+              "zh": "分析型决策是一种决策方法,管理者仅凭可靠数据做出重要商业决策。这种风格与更依赖直觉的领导风格形成对比,后者的管理者运用本能或观点做出许多决策。虽然分析型决策者受益于审慎、深思的方法,但这种风格也存在一些缺陷。"
+            },
+            {
+              "id": 2,
+              "start": 19.2,
+              "end": 43.4,
+              "text": "A key flaw with analytical decision-making is that it takes time. While this approach is beneficial when you have the time and the decision is important, it is problematic when time is crucial. Analytical decision-makers struggle with deadlines and a sense of urgency with decisions. In situations where you need more timely action, decisions based on some information and instinct may work better.",
+              "zh": "分析型决策的一个关键缺陷是耗费时间。虽然当你有时间且决策重要时这种方法是有益的,但当时间紧迫时就会产生问题。分析型决策者难以应对截止日期和决策的紧迫感。在需要更及时行动的情况下,基于部分信息和直觉的决策可能效果更好。"
+            },
+            {
+              "id": 3,
+              "start": 43.8,
+              "end": 66.8,
+              "text": "The desire to be right is a major driver of analytical decision-making. Leaders who use this style don't want to make mistakes. This commitment, one right way of thinking or doing things, hinders the manager's flexibility. Inflexibility causes you to ignore or avoid listening to the thoughts and ideas of others. You only want to utilize hard data or facts.",
+              "zh": "追求正确是分析型决策的主要驱动力。采用这种风格的领导者不想犯错。这种对唯一正确思维或做事方式的执着,妨碍了管理者的灵活性。缺乏灵活性导致你忽视或避免倾听他人的想法和观点。你只想利用硬数据或事实。"
+            },
+            {
+              "id": 4,
+              "start": 67.1,
+              "end": 91.4,
+              "text": "Despite its restrictions, analytical decision-making does have several key strengths. By relying on facts and data, you minimize your potential for a wrong decision. You also get away from the habit of making guesses or following instincts. Database technology enables business leaders to look to hard evidence in analyzing target markets and promotional strategies, rather than making assumptions or guesses on what works.",
+              "zh": "尽管存在局限性,分析型决策确实具有几个关键优势。通过依赖事实和数据,你将做出错误决策的可能性降至最低。你也摆脱了猜测或遵循直觉的习惯。数据库技术使商业领导者能够依靠确凿证据来分析目标市场和促销策略,而不是对有效方法进行假设或猜测。"
+            }
+          ],
+          "audioDuration": 91.4,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What does the passage say is a major flaw of analytical decision-making?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is time consuming."
+                },
+                {
+                  "key": "B",
+                  "text": "It is unfit for crucial issues."
+                },
+                {
+                  "key": "C",
+                  "text": "It relies too much on solid data."
+                },
+                {
+                  "key": "D",
+                  "text": "It dulls a leader's sense of urgency."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：A key flaw with analytical decision-making is that it takes time.信号：关键词 key flaw 直接亮出缺点 。录音第 2 段开头 A key flaw with analytical decision-making is that it takes time 用 A key flaw…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音说的是 it is problematic when time is crucial——\"当时间紧迫时它才成问题\"，B 却把 crucial 搬来说成 It is unfit for crucial issues（不适合关键\"问题\"），把\"时间紧迫\"偷换成\"关键议题\"，听到 crucial 就选会中招。 借用原文：makes important business decisions only with solid data",
+                "C": "偷换概念：It relies too much on solid data 把\"靠 solid data\"说成缺点，但录音里 makes important business decisions only with solid data 是在客观描述这种风格、第 4 段更把\"靠数据\"算作优点，C 把中性/优点歪曲成缺陷，与题干问的 flaw 不符。 借用原文：struggle with deadlines and a sense of urgency",
+                "D": "过度推断：录音只说分析型决策者 struggle with deadlines and a sense of urgency（应付不来紧迫感），并未说它\"钝化/削弱\"领导的紧迫感；D 的 dulls a leader's sense of urgency 是借 urgency 一词反向引申，原文无此意。",
+                "A": "正确项：与答案句同义替换（it takes time ↔ It is time consuming takes time = time consuming 同义改写）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "A key flaw with analytical decision-making is that it takes time.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "What does a leader tend to do when they are committed to analytical decision-making?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Depend on digital technology."
+                },
+                {
+                  "key": "B",
+                  "text": "Make assumptions and guesses."
+                },
+                {
+                  "key": "C",
+                  "text": "Ignore others' thoughts and ideas."
+                },
+                {
+                  "key": "D",
+                  "text": "Lay emphasis on thinking flexibly."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：Inflexibility causes you to ignore or avoid listening to the thoughts and ideas of others.信号：因果信号 causes 引出结果行为 。录音第 3 段 Inflexibility causes you to ignore or avoid listening to the thoughts and ideas …",
+              "optionAnalysis": {
+                "A": "张冠李戴：Depend on digital technology 像是从第 4 段 Database technology enables business leaders 摘来的——那是讲\"优点\"的语境，与第 17 题问的\"僵化导致的行为\"不是一回事，且原文用的是 database technology 而非泛指的 digital technology。 借用原文：get away from the habit of making guesses",
+                "B": "与原文相反：录音里 get away from the habit of making guesses 说的是分析型决策者\"摆脱猜测\"，B 的 Make assumptions and guesses 恰恰相反——这类人不会去做假设猜测，B 取了原词 guesses 却把极性反了。 借用原文：hinders the manager's flexibility",
+                "D": "与原文相反：录音明说 hinders the manager's flexibility、Inflexibility——这类领导是\"妨碍灵活、僵化\"，D 的 Lay emphasis on thinking flexibly 把它说成\"强调灵活思考\"，与原文意思正好相反。",
+                "C": "正确项：与答案句同义替换（ignore or avoid listening to the thoughts and ideas of others ↔ Ignore others' thoughts and ideas 原句压缩成短语，意思不变）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Inflexibility causes you to ignore or avoid listening to the thoughts and ideas of others.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What is a key strength of analytical decision-making?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Maximizing the advantage of available resources."
+                },
+                {
+                  "key": "B",
+                  "text": "Minimizing the possibility of a wrong decision."
+                },
+                {
+                  "key": "C",
+                  "text": "Discovering new potential markets."
+                },
+                {
+                  "key": "D",
+                  "text": "Perfecting promotional strategies."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：By relying on facts and data, you minimize your potential for a wrong decision.信号：段首 strengths 转好 + minimize 点优点 。第 4 段以 does have several key strengths 由弊转利，紧接 you minimize your potential f…",
+              "optionAnalysis": {
+                "A": "未提及：Maximizing the advantage of available resources（最大化资源优势）听来很像个优点，但录音讲优点处只说 minimize your potential for a wrong decision 和摆脱猜测，从未提\"资源优势\"，属凭常识硬安。",
+                "C": "原词陷阱：录音第 4 段确有 markets：analyzing target markets and promotional strategies，但那是说\"用数据分析现有目标市场\"，C 却说成 Discovering new potential markets（发现新市场），听到 markets 就选会中招。 借用原文：analyzing target markets and promotional strategies",
+                "D": "原词陷阱：D 的 Perfecting promotional strategies 直接搬走录音里的 promotional strategies，但原文是说\"用数据去分析促销策略\"，并非\"完善促销策略\"是它的优点，词对了、意思却错了。",
+                "B": "正确项：与答案句同义替换（minimize your potential for a wrong decision ↔ Minimizing the possibility of a wrong decision potential ≈ possibility 近义替换）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "By relying on facts and data, you minimize your potential for a wrong decision.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 18.1,
+              "text": "What is the secret to living past 100? Playing the piano is among the things the world's oldest person believes has contributed to her long life. Branyas Morera is now 115 years and 320 days old. That means she's been alive longer than any other living individual.",
+              "zh": "活过100岁的秘诀是什么?弹钢琴是世界上最长寿的人认为有助于她长寿的事情之一。Branyas Morera现在已经115岁零320天了。这意味着她比任何其他在世的人活得都久。"
+            },
+            {
+              "id": 2,
+              "start": 18.5,
+              "end": 31.5,
+              "text": "Branyas was born in the United States on April 4th, 1907. But her family moved to Spain, where they were originally from, when she was a young child. She has lived there ever since.",
+              "zh": "Branyas于1907年4月4日出生在美国。但她的家人在她还是小孩时搬回了他们原来所在的西班牙。从那以后她就一直住在那里。"
+            },
+            {
+              "id": 3,
+              "start": 31.9,
+              "end": 49.5,
+              "text": "The 115-year-old is active on social media, regularly sharing aspects of her life. She also shares some of her secrets to living so long. These include playing the piano from a young age. Unfortunately, she had to give up the practice seven years ago at 108.",
+              "zh": "这位115岁的老人活跃在社交媒体上,经常分享她生活的方方面面。她还分享了一些长寿的秘诀。其中包括从小弹钢琴。不幸的是,她在七年前108岁时不得不放弃了这个练习。"
+            },
+            {
+              "id": 4,
+              "start": 49.9,
+              "end": 85.2,
+              "text": "Her other secrets for living a long life? She led an active lifestyle until her later years, but has never followed a specific diet. \"Many people ask me what diet I follow to live so many years,\" Branyas wrote. \"I have always eaten little, but everything, and I have never followed any plan.\" But she does eat yogurt every day, which she said has \"an infinite number of positive properties\" for the body. She has also said that the secret to a long life is \"knowing how to choose\" what to forget.",
+              "zh": "她长寿的其他秘诀?她在晚年之前保持着积极的生活方式,但从未遵循过特定的饮食。\"很多人问我遵循什么饮食才能活这么多年,\"Branyas写道。\"我一直吃得很少,但什么都吃,从未遵循过任何计划。\"但她确实每天吃酸奶,她说酸奶对身体有\"无数积极的作用\"。她还说过长寿的秘诀是\"知道如何选择\"要忘记什么。"
+            },
+            {
+              "id": 5,
+              "start": 85.5,
+              "end": 89.4,
+              "text": "\"Life would be impossible if we remembered everything,\" she said.",
+              "zh": "\"如果我们记住一切,生活将是不可能的,\"她说。"
+            }
+          ],
+          "audioDuration": 89.4,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What do we learn about Branyas Morera?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She is one of the world's best-known pianists."
+                },
+                {
+                  "key": "B",
+                  "text": "She celebrated her 110th birthday this April."
+                },
+                {
+                  "key": "C",
+                  "text": "She moved to the U.S. at a young age."
+                },
+                {
+                  "key": "D",
+                  "text": "She is the world's oldest individual."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：Branyas Morera is now 115 years and 320 days old. That means she's been alive longer than any other living individual.信号：longer than 任何人即最年长 。答案信号是比较结构 longer than any other living individual——“比任何其他在世者都活得久”就等于“世上最年长”，这种“er than …",
+              "optionAnalysis": {
+                "A": "过度推断：原文确实提到她弹钢琴，但只说弹琴是她长寿秘诀之一，从未说她是“世界知名钢琴家”；one of the world's best-known pianists把“会弹琴”拔高成“知名钢琴家”，是过度推断。 借用原文：115 years and 320 days old",
+                "B": "原词陷阱：原文说她现在 115 years and 320 days old，是 115 岁，本选项却说她四月庆祝“110 岁生日”；它盗用了原文真实存在的出生日期“April 4th”的月份与年龄数字来拼凑，数字被偷换，听到“April”就选会中招。 借用原文：her family moved to Spain",
+                "C": "与原文相反：原文说她出生在美国，后来 her family moved to Spain——是搬去西班牙；本选项却说她“年幼时搬到美国”，把方向彻底说反了。它盗用“moved”“young child”等原词，只把目的地颠倒，专坑没听清方向的人。",
+                "D": "正确项：与答案句同义替换（longer than any other living individual ↔ the world's oldest individual 比较级换最高级）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Branyas Morera is now 115 years and 320 days old. That means she's been alive longer than any other living individual.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What is one of Branyas Morera's secrets to living a long life?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Being always active on social media."
+                },
+                {
+                  "key": "B",
+                  "text": "Doing regular and vigorous exercise."
+                },
+                {
+                  "key": "C",
+                  "text": "Playing the piano from a young age."
+                },
+                {
+                  "key": "D",
+                  "text": "Following a specific diet every day."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：She also shares some of her secrets to living so long. These include playing the piano from a young age.信号：These include 引出秘诀清单 。答案信号是列举句 These include playing the piano from a young age——“These include”紧跟在“her secr…",
+              "optionAnalysis": {
+                "A": "原词陷阱：原文确实说她 active on social media，但这只是描述她的日常状态，紧接其后“These include”列举秘诀时并没有把“活跃于社交媒体”列进去；本选项盗用“active on social media”原词，却答非所问。 借用原文：led an active lifestyle",
+                "B": "偷换概念：原文只说她 led an active lifestyle（生活方式活跃），并没说她做“regular and vigorous exercise（规律而剧烈的运动）”；本选项把“active lifestyle”偷换成程度更重的“vigorous exercise”，程度被拔高。 借用原文：never followed a specific diet",
+                "D": "与原文相反：原文明确说她 has never followed a specific diet——从不遵循特定饮食；本选项却说她“每天遵循特定饮食”，与原文相反。它盗用“specific diet”原词，把否定听成肯定就会误选。",
+                "C": "正确项：与答案句同义替换（playing the piano from a young age ↔ Playing the piano from a young age 列举项原样对应）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "She also shares some of her secrets to living so long. These include playing the piano from a young age.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What does Branyas Morera think also contributes to a long life?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Eating as little as one can possibly manage."
+                },
+                {
+                  "key": "B",
+                  "text": "Having the ability to forget things selectively."
+                },
+                {
+                  "key": "C",
+                  "text": "Figuring out the positive properties of each food item."
+                },
+                {
+                  "key": "D",
+                  "text": "Knowing how to remember major events in one's life."
+                }
+              ],
+              "answer": "B",
+              "analysis": "态度观点题。答案句（P4）：She has also said that the secret to a long life is \"knowing how to choose\" what to forget.信号：she has also said 引出本人观点 。答案信号是引述句 She has also said that the secret to a long life is——“she has also said”直…",
+              "optionAnalysis": {
+                "A": "过度推断：原文说她 always eaten little, but everything——吃得少但什么都吃；本选项却说“尽可能少吃”，把“eaten little”拔高到极端，还丢了“但什么都吃”的另一半。它盗用“eaten little”原词，制造“听到 little 就选”的诱惑。 借用原文：an infinite number of positive properties",
+                "C": "偷换概念：原文说酸奶对身体有 an infinite number of positive properties，是夸酸奶本身；本选项却说“弄清每种食物的有益属性”，把“酸奶有有益属性”偷换成“她认为要研究每种食物的属性”。它盗用“positive properties”原词，所指对象被偷换。 借用原文：Life would be impossible if we remembered everything",
+                "D": "与原文相反：原文强调的是“懂得选择忘掉什么”，还说 Life would be impossible if we remembered everything——记住一切反而不行；本选项却说“懂得记住人生大事”，方向与原文相反。它盗用 remember/forget 同一话题词，把遗忘说成记忆。",
+                "B": "正确项：与答案句同义替换（knowing how to choose what to forget ↔ the ability to forget things selectively 选择遗忘换选择性遗忘）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "She has also said that the secret to a long life is \"knowing how to choose\" what to forget.",
+              "type": "态度观点题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 25.8,
+              "text": "It's the first day of school, and your teacher tells you to find a seat in the classroom. Where do you sit? Does it matter? Yes. It does matter where you sit in your classroom, so choose and choose carefully. Studies report that where you sit in the classroom can impact your ability to learn and the way your teacher perceives you. Guess what else? Your grade.",
+              "zh": "这是开学第一天,老师让你在教室里找个座位。你会坐在哪里?这重要吗?是的。你坐在教室的哪个位置确实很重要,所以要慎重选择。研究表明,你在教室里的座位会影响你的学习能力以及老师对你的看法。你猜还有什么?你的成绩。"
+            },
+            {
+              "id": 2,
+              "start": 26.2,
+              "end": 29.6,
+              "text": "Then what is the best seat in the classroom?",
+              "zh": "那么教室里最好的座位是哪里呢?"
+            },
+            {
+              "id": 3,
+              "start": 30,
+              "end": 61.9,
+              "text": "In one study, students who sat in the front and center of the classroom received a higher grade average and scored higher on tests than those sitting towards the back of the classroom. Get this. Students sitting in the middle of the classroom also outscored students sitting behind them. This study gathered that students had a clearer vision of the blackboard and were able to focus more attention on the instructor. By sitting front and center, students were able to hear better too.",
+              "zh": "在一项研究中,坐在教室前排和中间位置的学生比坐在教室后排的学生获得了更高的平均成绩,考试分数也更高。还有一点。坐在教室中间的学生的成绩也超过了坐在他们后面的学生。这项研究发现,学生们对黑板有更清晰的视野,能够将更多注意力集中在授课教师身上。坐在前排和中间位置,学生们也能听得更清楚。"
+            },
+            {
+              "id": 4,
+              "start": 62.3,
+              "end": 93,
+              "text": "The instructors said that they also formed a better connection with the students who sat in front. Perhaps the connection is made because of eye contact and visibility and more interaction. But when you sit in the front row, you may be called on more by your teacher, mainly due to the fact that you are easier to see. So for students who are not prepared and for those who are extremely shy, the attention could cause some unwanted stress.",
+              "zh": "授课教师表示,他们与坐在前排的学生建立了更好的联系。也许这种联系是由于眼神交流、可见度以及更多互动而形成的。但是当你坐在前排时,你可能会更多地被老师提问,主要是因为老师更容易看到你。所以对于没有准备好的学生以及极度害羞的学生来说,这种关注可能会带来一些不必要的压力。"
+            }
+          ],
+          "audioDuration": 93,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What is of great importance to students according to the speaker?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The ability to learn."
+                },
+                {
+                  "key": "B",
+                  "text": "The first day of school."
+                },
+                {
+                  "key": "C",
+                  "text": "How teachers perceive them."
+                },
+                {
+                  "key": "D",
+                  "text": "Where they sit in the classroom."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：It does matter where you sit in your classroom, so choose and choose carefully. Studies report that where you sit in the classroom can impact your ability to learn and the way your teacher perceives you.信号：加重强调 It does matter 。说话人先自问 Where do you sit? Does it matter? 紧接着用加重语气的 It does matter where you sit in your…",
+              "optionAnalysis": {
+                "A": "原词陷阱：原文确实念到 your ability to learn，但那是\"座位\"带来的\"影响之一\"，并非说话人说的\"对学生重要的东西\"本身。把\"被影响的结果\"当成\"重要的东西\"，是典型的听到原词就想选。 借用原文：It's the first day of school",
+                "B": "原词陷阱：原文开头说 It's the first day of school，但那只是用来引出话题的场景背景，说话人从没说\"开学第一天\"对学生重要，属于借开头原词设的陷阱。 借用原文：the way your teacher perceives you",
+                "C": "答非所问：原文 the way your teacher perceives you 确被念到，但它和\"学习能力\"一样，是座位带来的\"影响\"，不是说话人认定\"重要\"的那样东西，张冠李戴。",
+                "D": "正确项：与答案句同义替换（where you sit in your classroom ↔ Where they sit in the classroom. 人称转换，意思不变）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "It does matter where you sit in your classroom, so choose and choose carefully. Studies report that where you sit in the classroom can impact your ability to learn and the way your teacher perceives you.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What did one study find about students seated in the middle of the classroom?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They often received close attention from the instructors."
+                },
+                {
+                  "key": "B",
+                  "text": "They obtained the highest grade average in their class."
+                },
+                {
+                  "key": "C",
+                  "text": "They actually wanted a clear vision of the blackboard."
+                },
+                {
+                  "key": "D",
+                  "text": "They scored higher than students sitting behind them."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Get this. Students sitting in the middle of the classroom also outscored students sitting behind them.信号：提示语 Get this 引出关键发现 。说话人用 Get this（\"注意听这个\"）专门提醒，随后给出 Students sitting in the middle of the classroom also ou…",
+              "optionAnalysis": {
+                "A": "张冠李戴：原文 formed a better connection with the students who sat in front 讲的是\"前排\"学生与老师的关系，受关注的是前排不是\"中间\"。把前排学生的待遇安到\"中间座位学生\"头上，是张冠李戴。 借用原文：received a higher grade average",
+                "B": "偷换概念：原文只说前排/中间学生 received a higher grade average（比后排更高），选项却说成 obtained the highest grade average in their class（全班最高），把\"比较高\"偷换成\"最高\"，程度被夸大。 借用原文：students had a clearer vision of the blackboard",
+                "C": "偷换概念：原文 students had a clearer vision of the blackboard 说的是前排中间学生\"看黑板更清楚\"这一既成事实（成绩高的原因），并非选项所谓\"他们其实想要看清黑板（wanted）\"，既改了意思又不是本题问的发现。",
+                "D": "正确项：与答案句同义替换（outscored students sitting behind them ↔ They scored higher than students sitting behind them. outscore = scored higher than）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Get this. Students sitting in the middle of the classroom also outscored students sitting behind them.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What can eye contact, visibility and more interaction probably bring about?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A higher grade average among all students of a class."
+                },
+                {
+                  "key": "B",
+                  "text": "A better connection between instructors and students."
+                },
+                {
+                  "key": "C",
+                  "text": "A stronger support for a student-centered teaching approach."
+                },
+                {
+                  "key": "D",
+                  "text": "A more favorable atmosphere for effective classroom learning."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：The instructors said that they also formed a better connection with the students who sat in front. Perhaps the connection is made because of eye contact and visibility and more interaction.信号：因果倒装 because of 揭示因果 。原文先给结果 formed a better connection，再用 because of eye contact and visibility and more in…",
+              "optionAnalysis": {
+                "A": "答非所问：a higher grade average 是上一段讲座位与成绩的内容，与本题问的\"眼神交流等带来什么\"不是同一个因果；选项还把范围扩成 among all students of a class（全班所有人），既答非所问又以偏概全。",
+                "C": "未提及：A stronger support for a student-centered teaching approach. 里\"以学生为中心的教学法\"原文从未提及，是凭\"师生互动\"硬联想出来的，属未提及。",
+                "D": "过度推断：A more favorable atmosphere for effective classroom learning. 听上去与\"课堂学习\"很搭，但原文讲的是\"师生联系（connection）\"，从没说\"更有利的课堂学习氛围\"，属未提及的合理推测项。",
+                "B": "正确项：与答案句同义替换（formed a better connection with the students who sat in front ↔ A better connection between instructors and students. 近乎原义概括，主体补全）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "The instructors said that they also formed a better connection with the students who sat in front. Perhaps the connection is made because of eye contact and visibility and more interaction.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What do we learn about extremely shy students sitting in the front row of the classroom?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They may experience some unwanted stress."
+                },
+                {
+                  "key": "B",
+                  "text": "They may try hard to show their preparedness."
+                },
+                {
+                  "key": "C",
+                  "text": "They may receive extra attention from the instructor."
+                },
+                {
+                  "key": "D",
+                  "text": "They may feel helpless when called on by the instructor."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P4）：So for students who are not prepared and for those who are extremely shy, the attention could cause some unwanted stress.信号：结尾 So 收束 + 转折隐含 。前句还在说前排\"被老师叫到更多\"，结尾用 So for…those who are extremely shy, the attention could cause some unw…",
+              "optionAnalysis": {
+                "B": "与原文相反：They may try hard to show their preparedness. 原文未提；原文恰恰说的是\"没准备好\"的学生 students who are not prepared，与\"努力表现自己准备好了\"方向相反。 借用原文：you may be called on more by your teacher",
+                "C": "原词陷阱：the attention 确被念到，但原文说这关注对害羞学生造成的是\"压力\"；选项 They may receive extra attention from the instructor. 只截取\"被额外关注\"这个中性事实，回避了问的\"后果\"，是听到 attention 就想选的原词陷阱。 借用原文：you may be called on more by your teacher",
+                "D": "过度推断：原文说前排学生 may be called on more（更可能被点名），但只说会带来\"压力\"，并未说他们\"被点到时感到无助（feel helpless）\"，是顺着\"被点名\"多推了一步。",
+                "A": "正确项：与答案句同义替换（the attention could cause some unwanted stress ↔ They may experience some unwanted stress. cause→experience，因果换视角）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "So for students who are not prepared and for those who are extremely shy, the attention could cause some unwanted stress.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Some music inspires you to move your feet, some inspires you to get out there and change the world. In any case, it's 26______ to say that music moves people in special ways.\n\nIf you're especially into a piece of music, your brain does something called Autonomous Sensory Meridian Response (ASMR), which 27______ to you like a sting in your brain.\n\nIt turns out that ASMR is pretty special. According to a 28______ published study in The Journal of Prevention of Alzheimer's Disease, the part of your brain responsible for ASMR doesn't get lost to Alzheimer's. Alzheimer's 29______ to put people into layers of confusion, and the study confirms that music can sometimes 30______ lift people out of the Alzheimer's haze and bring them back to (at least a likeness of) normality … if only for a short while. ASMR is powerful stuff!\n\nThis phenomenon has been 31______ several times but rarely studied properly. One of the most famous examples of this is the story of 92-year-old Henry Dryer, who comes out of dementia(痴呆) while listening to songs from his youth.\n\nJeff Anderson, associate professor in Radiology at the University of Utah and 32______ author on the study, says \"In our society, the diagnoses of dementia are 33______ resources to the maximum. No one says playing music will be a cure for Alzheimer's disease, but it might make the symptoms more 34______ , decrease the cost of care and improve a patient's 35______ of life.\""
+            },
+            {
+              "label": "词库",
+              "text": "A) actually\nB) consequently\nC) contributing\nD) fair\nE) feels\nF) manageable\nG) mends\nH) observed\nI) phase\nJ) plotting\nK) quality\nL) recently\nM) taxing\nN) tends\nO) yielded"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "consequently"
+                },
+                {
+                  "key": "C",
+                  "text": "contributing"
+                },
+                {
+                  "key": "D",
+                  "text": "fair"
+                },
+                {
+                  "key": "E",
+                  "text": "feels"
+                },
+                {
+                  "key": "F",
+                  "text": "manageable"
+                },
+                {
+                  "key": "G",
+                  "text": "mends"
+                },
+                {
+                  "key": "H",
+                  "text": "observed"
+                },
+                {
+                  "key": "I",
+                  "text": "phase"
+                },
+                {
+                  "key": "J",
+                  "text": "plotting"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "recently"
+                },
+                {
+                  "key": "M",
+                  "text": "taxing"
+                },
+                {
+                  "key": "N",
+                  "text": "tends"
+                },
+                {
+                  "key": "O",
+                  "text": "yielded"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) fair\n【原文】It's fair to say 是英语高频习语「可以这样说、说……不为过」\nF) manageable manageable 修饰「可控、可处理」，和 to say 接不上：manageable 通常修饰任务、症状（make symptoms more manageable），用来说一件事「可控」；说一句话「可控」语义荒谬。\nM) taxing taxing 是「费神的」，说一句话费神在语境里不通：taxing 多修饰任务、工作量；it's taxing to say 字面虽通，但与前文铺陈「音乐打动人」的语气完全相反，开篇就泼冷水不合逻辑。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "consequently"
+                },
+                {
+                  "key": "C",
+                  "text": "contributing"
+                },
+                {
+                  "key": "D",
+                  "text": "fair"
+                },
+                {
+                  "key": "E",
+                  "text": "feels"
+                },
+                {
+                  "key": "F",
+                  "text": "manageable"
+                },
+                {
+                  "key": "G",
+                  "text": "mends"
+                },
+                {
+                  "key": "H",
+                  "text": "observed"
+                },
+                {
+                  "key": "I",
+                  "text": "phase"
+                },
+                {
+                  "key": "J",
+                  "text": "plotting"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "recently"
+                },
+                {
+                  "key": "M",
+                  "text": "taxing"
+                },
+                {
+                  "key": "N",
+                  "text": "tends"
+                },
+                {
+                  "key": "O",
+                  "text": "yielded"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) feels\n【原文】which __(27)__ to you like a sting in your brain 后面跟 like a sting（像针刺），feels (to you) like … 正是「（对你来说）感觉像……」的标准表达，对人称 sb. 用 feels to sb. like 也通。\nG) mends mend 是「修补」，与 like a sting 不搭：mend 通常修补衣服、关系，无法「mend to you like a sting」，搭配和语义都不成立。\nN) tends tend 后接 to do，不接 to you like：tends 常见结构是 tends to do sth.（往往做某事），后面接动词原形；这里后面是介词 to you + like + 名词，结构对不上。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "consequently"
+                },
+                {
+                  "key": "C",
+                  "text": "contributing"
+                },
+                {
+                  "key": "D",
+                  "text": "fair"
+                },
+                {
+                  "key": "E",
+                  "text": "feels"
+                },
+                {
+                  "key": "F",
+                  "text": "manageable"
+                },
+                {
+                  "key": "G",
+                  "text": "mends"
+                },
+                {
+                  "key": "H",
+                  "text": "observed"
+                },
+                {
+                  "key": "I",
+                  "text": "phase"
+                },
+                {
+                  "key": "J",
+                  "text": "plotting"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "recently"
+                },
+                {
+                  "key": "M",
+                  "text": "taxing"
+                },
+                {
+                  "key": "N",
+                  "text": "tends"
+                },
+                {
+                  "key": "O",
+                  "text": "yielded"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) recently\n【原文】recently published「最近发表」是学术文献标配搭配\nA) actually actually 表「实际上」，修饰 published 语义空洞：actually published「实际上发表的」在英语里几乎不用——研究要么发表了要么没有，没有「实际上发表」这种说法，搭配不自然。\nB) consequently consequently 表因果，前文无因，逻辑不接：consequently 用来连接前因后果，这里 According to a … published study 是引出依据，并非承接因果；且 a consequently pu"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "consequently"
+                },
+                {
+                  "key": "C",
+                  "text": "contributing"
+                },
+                {
+                  "key": "D",
+                  "text": "fair"
+                },
+                {
+                  "key": "E",
+                  "text": "feels"
+                },
+                {
+                  "key": "F",
+                  "text": "manageable"
+                },
+                {
+                  "key": "G",
+                  "text": "mends"
+                },
+                {
+                  "key": "H",
+                  "text": "observed"
+                },
+                {
+                  "key": "I",
+                  "text": "phase"
+                },
+                {
+                  "key": "J",
+                  "text": "plotting"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "recently"
+                },
+                {
+                  "key": "M",
+                  "text": "taxing"
+                },
+                {
+                  "key": "N",
+                  "text": "tends"
+                },
+                {
+                  "key": "O",
+                  "text": "yielded"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) tends\n【原文】tends to do 表「倾向于、往往」，契合阿尔茨海默症常见症状\nG) mends mend 不接 to do，且语义反向：mend 是「修补、痊愈」，不接 to do；而且 Alzheimer's mends people 意思是「阿尔茨海默症治愈人」，与下文「陷入困惑」完全矛盾。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "consequently"
+                },
+                {
+                  "key": "C",
+                  "text": "contributing"
+                },
+                {
+                  "key": "D",
+                  "text": "fair"
+                },
+                {
+                  "key": "E",
+                  "text": "feels"
+                },
+                {
+                  "key": "F",
+                  "text": "manageable"
+                },
+                {
+                  "key": "G",
+                  "text": "mends"
+                },
+                {
+                  "key": "H",
+                  "text": "observed"
+                },
+                {
+                  "key": "I",
+                  "text": "phase"
+                },
+                {
+                  "key": "J",
+                  "text": "plotting"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "recently"
+                },
+                {
+                  "key": "M",
+                  "text": "taxing"
+                },
+                {
+                  "key": "N",
+                  "text": "tends"
+                },
+                {
+                  "key": "O",
+                  "text": "yielded"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) actually\n【原文】actually 强调「真的、的确」，呼应前文研究证实\nB) consequently consequently 是因果连接副词，本句无因果链：consequently 通常放句首/分句首引出结果（…, consequently, …）；这里没有「因为某事 → 所以 lift」的因果，硬塞进 can sometimes c"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "consequently"
+                },
+                {
+                  "key": "C",
+                  "text": "contributing"
+                },
+                {
+                  "key": "D",
+                  "text": "fair"
+                },
+                {
+                  "key": "E",
+                  "text": "feels"
+                },
+                {
+                  "key": "F",
+                  "text": "manageable"
+                },
+                {
+                  "key": "G",
+                  "text": "mends"
+                },
+                {
+                  "key": "H",
+                  "text": "observed"
+                },
+                {
+                  "key": "I",
+                  "text": "phase"
+                },
+                {
+                  "key": "J",
+                  "text": "plotting"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "recently"
+                },
+                {
+                  "key": "M",
+                  "text": "taxing"
+                },
+                {
+                  "key": "N",
+                  "text": "tends"
+                },
+                {
+                  "key": "O",
+                  "text": "yielded"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) observed\n【原文】observed「被观察到」与并列的 studied 同属研究动作\nO) yielded yield 不及物或表「产生/屈服」，与 phenomenon 主语不搭：yield 表「产生（结果）」时用法是 A yielded B；表「屈服」时是 yield to。This phenomenon has been yielded 字面意思「这种现"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "consequently"
+                },
+                {
+                  "key": "C",
+                  "text": "contributing"
+                },
+                {
+                  "key": "D",
+                  "text": "fair"
+                },
+                {
+                  "key": "E",
+                  "text": "feels"
+                },
+                {
+                  "key": "F",
+                  "text": "manageable"
+                },
+                {
+                  "key": "G",
+                  "text": "mends"
+                },
+                {
+                  "key": "H",
+                  "text": "observed"
+                },
+                {
+                  "key": "I",
+                  "text": "phase"
+                },
+                {
+                  "key": "J",
+                  "text": "plotting"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "recently"
+                },
+                {
+                  "key": "M",
+                  "text": "taxing"
+                },
+                {
+                  "key": "N",
+                  "text": "tends"
+                },
+                {
+                  "key": "O",
+                  "text": "yielded"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) contributing\n【原文】contributing author 是学术文献固定身份「参与撰写的作者」\nJ) plotting plotting 是「密谋/绘图」，修饰 author 语义荒诞：plotting author 字面是「正在密谋的作者」或「在画图的作者」，作为学术身份描述完全不通；学术场合无此搭配。\nM) taxing taxing 形容「繁重的」，不能用来形容人的身份：taxing 通常修饰任务、工作（a taxing job），用来形容 author（人）逻辑不通，且语义偏负面，与正面介绍学者的语境冲突。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "consequently"
+                },
+                {
+                  "key": "C",
+                  "text": "contributing"
+                },
+                {
+                  "key": "D",
+                  "text": "fair"
+                },
+                {
+                  "key": "E",
+                  "text": "feels"
+                },
+                {
+                  "key": "F",
+                  "text": "manageable"
+                },
+                {
+                  "key": "G",
+                  "text": "mends"
+                },
+                {
+                  "key": "H",
+                  "text": "observed"
+                },
+                {
+                  "key": "I",
+                  "text": "phase"
+                },
+                {
+                  "key": "J",
+                  "text": "plotting"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "recently"
+                },
+                {
+                  "key": "M",
+                  "text": "taxing"
+                },
+                {
+                  "key": "N",
+                  "text": "tends"
+                },
+                {
+                  "key": "O",
+                  "text": "yielded"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) taxing\n【原文】tax resources「使资源吃紧」是固定搭配，与 to the maximum 呼应\nJ) plotting plot resources 不是搭配，且语义对不上「占用资源」：plot 表「策划/绘制」，plot resources 字面像「策划资源、绘制资源」，与「消耗社会资源」的语境完全错位。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "consequently"
+                },
+                {
+                  "key": "C",
+                  "text": "contributing"
+                },
+                {
+                  "key": "D",
+                  "text": "fair"
+                },
+                {
+                  "key": "E",
+                  "text": "feels"
+                },
+                {
+                  "key": "F",
+                  "text": "manageable"
+                },
+                {
+                  "key": "G",
+                  "text": "mends"
+                },
+                {
+                  "key": "H",
+                  "text": "observed"
+                },
+                {
+                  "key": "I",
+                  "text": "phase"
+                },
+                {
+                  "key": "J",
+                  "text": "plotting"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "recently"
+                },
+                {
+                  "key": "M",
+                  "text": "taxing"
+                },
+                {
+                  "key": "N",
+                  "text": "tends"
+                },
+                {
+                  "key": "O",
+                  "text": "yielded"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) manageable\n【原文】make symptoms more manageable「让症状更可控」医学语境标配\nit might make the symptoms more __(34)__, decrease the cost of care and improve a patient's __(35)__ of life.，三件好事并列：症状更可控、护理成本下降、生活质量提升；manageable 与「降低成本、改善质量」语气完全一致。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "consequently"
+                },
+                {
+                  "key": "C",
+                  "text": "contributing"
+                },
+                {
+                  "key": "D",
+                  "text": "fair"
+                },
+                {
+                  "key": "E",
+                  "text": "feels"
+                },
+                {
+                  "key": "F",
+                  "text": "manageable"
+                },
+                {
+                  "key": "G",
+                  "text": "mends"
+                },
+                {
+                  "key": "H",
+                  "text": "observed"
+                },
+                {
+                  "key": "I",
+                  "text": "phase"
+                },
+                {
+                  "key": "J",
+                  "text": "plotting"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "recently"
+                },
+                {
+                  "key": "M",
+                  "text": "taxing"
+                },
+                {
+                  "key": "N",
+                  "text": "tends"
+                },
+                {
+                  "key": "O",
+                  "text": "yielded"
+                }
+              ],
+              "answer": "K",
+              "type": "选词填空",
+              "analysis": "【答案】K（官方答案）\n应填 K) quality\n【原文】quality of life 是英语固定搭配\nI) phase phase of life 偏「人生阶段」，与「改善」不搭：phase of life 表示「人生的某个阶段」，可以「进入」一个 phase 但谈不上 improve a phase of life；这里要的是生活的「品质」可以被提升，ph\nA) actually 副词：实际上、真的 用于第 30 空\nB) consequently 副词：因此、结果 干扰词 · 未选用\nC) contributing 动词 形容词：做贡献的；（作定语）共同署名的、参与撰写的 用于第 32 空"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The gaming industry is larger than films and music combined, yet few of us are likely to list our achievements in playing computer games as work experience in our résumé. But why not? Businesses are waking up to the skills gamers can bring to the workplace."
+            },
+            {
+              "label": "B",
+              "text": "One start-up is convinced that the skills learned by playing games — hard-won through years of training and battle — can be applied to real-life work situations. And Game Academy reckons its belief is backed up by hard data. Do you enjoy unusual puzzle games like Portal, or tower defence games like Defense Grid? The team has found that IT workers play those more than average. But if you prefer Civilization, Total War, or X-Com, where strategy and resource management are key, then you might have more in common with managers."
+            },
+            {
+              "label": "C",
+              "text": "Game Academy's idea is simple: analyse gamers' habits from their online gaming profile, and offer courses in valuable skills that reflect their aptitudes — skills they can practise and refine in-game. And there is already a growing acceptance that gaming skills are transferable."
+            },
+            {
+              "label": "D",
+              "text": "Even the military is hiring gamers. \"The ability to absorb information, react swiftly and coordinate actions whilst remaining calm under pressure are often attributes of people that are good at gaming,\" according to a Royal Air Force spokesperson. Those skills are part of what the Royal Air Force is looking for \"in a variety of roles\". \"Skills acquired through gaming can be very relevant to certain areas.\""
+            },
+            {
+              "label": "E",
+              "text": "\"There are plenty of soft skills that gamers can utilise in a professional setting, such as teamwork, problem solving and strategic planning,\" says Ryan Gardner, a regional director with Hays recruitment. But does that really mean your top 100 ranking in Overwatch should go down in your résumé? \"It's about how you either make it relevant to the job you are applying for, or how it makes you more interesting as a potential employee,\" Mr Gardner says."
+            },
+            {
+              "label": "F",
+              "text": "Two years ago, a Glasgow University study made headlines for suggesting gaming could make students more successful. But \"the research hasn't really changed minds, at least not yet,\" says one of the authors of the study, Dr Matthew Barr. He's now writing a book on the topic. \"For now, I think the negative reputation around games means that telling someone you're a determined gamer is more likely to harm your chances of getting a job. But if someone can explain how they've led a team in an online game, for example, they may be able to persuade an employer that this is useful,\" says Dr Barr."
+            },
+            {
+              "label": "G",
+              "text": "Playing games casually is unlikely to help your career prospects. But part of Game Academy's suggestion is to transform casual gamers into \"conscious\" ones, applying critical thinking to developing their skills. \"We see gameplay as a resource of talent,\" says co-founder David Barrie. \"Why can't we put in our résumé our gaming victories and achievements?\" he asks. \"If they say they want leadership — why can't I point to my years of leading World of Warcraft raids?\""
+            },
+            {
+              "label": "H",
+              "text": "There are already plenty of gamers out there who know that their hobby has made them who they are. Earlier this year, Matthew Ricci told gaming site Kotaku: \"If you're playing EVE Online you basically already have an MBA.\" Often made fun of in gaming circles as a \"spreadsheet simulator(电子表格模拟)\", the economy of the fictional EVE universe is driven by real market principles. If you want to build a new spaceship, the raw material has to be mined by another player. Manufacturing costs come into effect, and commodities fluctuate in price based on demand and the distance to haul the commodity."
+            },
+            {
+              "label": "I",
+              "text": "Mr Ricci, who had always dreamed of being the boss of his own company, ran an in-game corporation comprising hundreds of players. Eventually, he realised he could transfer his skills to real-life business — instead of doing it for free. He restructured Zentech, once a taxation vehicle for his father's business, and it is now in its fourth year helping international brands enter the Canadian market. EVE teaches skills like creativity, leadership, organisation, and conflict resolution, he maintains. He credits his success to his family, his strong desire to run his own business — and \"a damn good company in Iceland that made a damn good game\"."
+            },
+            {
+              "label": "J",
+              "text": "Digital entrepreneur and business consultant Mia Bennett says: \"In more traditional settings, gaming is still imagined to be the pursuit of teenage boys — a waste of time.\" But there are some links to skills like \"decision-making, the ability to anticipate and future planning,\" she says. \"It also helps with meta-skills — learning how to learn, experimentation, and creative thinking.\""
+            },
+            {
+              "label": "K",
+              "text": "Twelve years into his career, Mark Long, a radiotherapy physicist with the NHS in Surrey, doesn't get as much gaming time as he used to. \"I would love to say that my gaming skills allow me to destroy cancer using linear accelerators like photon(光子) blasters, but that's not quite the reality.\" Instead, he credits old-school games like Palace of Magic with exposing him to computers. Every new gaming upgrade improved his knowledge of how they worked. Gaming also encouraged a competitive spirit — and that, he believes, translates. \"When creating treatment plans, the aim is to optimise the radiation dose to the tumour and restrict it as much as possible to healthy surrounding tissues and organs,\" he says. It's about \"repeating the process, but each time doing something slightly different to improve the result\". Not unlike achieving a high score or a perfect run. \"Most videogames are essentially puzzles to solve,\" he says. \"And problem-solving is a big part of my job.\""
+            },
+            {
+              "label": "L",
+              "text": "\"Over at Game Academy, Mr Barrie is aware they still have a mountain to climb. The employer community will need the science,\" he says, but confesses he only became a true believer when he started asking players about their biggest in-game achievements. \"The scale and scope of their answers were amazing,\" he says. \"But ask them the same about their work, and they don't know.\" \"The engagement and powerful skills that people get playing a game — why can't work be like that?\" he asks."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Certain gaming skills meet the requirements of the armed forces in Britain.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】Even the military is hiring gamers. \"The ability to absorb information, react swiftly and coordinate actions whilst remaining calm under pressure are often attributes of people that are good at gaming,\" according to a Royal Air Force spokesperson.\n连军方都在招玩家。皇家空军发言人说：吸收信息、快速反应、在压力下保持冷静同时协调行动的能力，往往是擅长打游戏的人身上具备的特质。"
+            },
+            {
+              "number": 37,
+              "stem": "One veteran player has applied his gaming skills to his real-world business and owes his success partly to a game company.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（强锚点）\n【原文】He credits his success to his family, his strong desire to run his own business — and \"a damn good company in Iceland that made a damn good game\".\nWhy can't we put in our résumé our gaming victories and achievements? 只是建议玩家用游戏成就求职，并没有出现 Ricci 那种把虚拟公司经验落到 Zentech 的实际创业故事，更没有把功劳归给游戏公司，与题干两个并列条件都对不上。"
+            },
+            {
+              "number": 38,
+              "stem": "According to a researcher, bad reputation about games will probably limit a gamer's chances of landing a job.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（强锚点）\n【原文】For now, I think the negative reputation around games means that telling someone you're a determined gamer is more likely to harm your chances of getting a job.\nlimit 与 harm 同义；landing a job 与 getting a job 同义"
+            },
+            {
+              "number": 39,
+              "stem": "Businesses are beginning to realise gaming skills are applicable to their employees' work.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】Businesses are waking up to the skills gamers can bring to the workplace.\nthere is already a growing acceptance that gaming skills are transferable 谈的是社会层面接受度的提升，主语不是 Businesses，也没有 wake up to / begin to realise 那种觉醒意味。题干强调的是企业主体的认知变化，与本句视角不符。"
+            },
+            {
+              "number": 40,
+              "stem": "A physicist admits gaming has contributed to his computer knowledge and skills of solving problems.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】Instead, he credits old-school games like Palace of Magic with exposing him to computers. Every new gaming upgrade improved his knowledge of how they worked. ... \"Most videogames are essentially puzzles to solve,\" he says. \"And problem-solving is a big part of my job.\"\n相反，他把自己对计算机的接触归功于 Palace of Magic 这类老牌游戏，每一次硬件升级都加深了他对电脑工作方式的认识。他还说大多数电子游戏本质上都是要解的谜，而解决问题正是他工作中的大头。"
+            },
+            {
+              "number": 41,
+              "stem": "Game Academy proposes to help gamers develop their skills using critical thinking.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】But part of Game Academy's suggestion is to transform casual gamers into \"conscious\" ones, applying critical thinking to developing their skills.\nanalyse gamers' habits from their online gaming profile, and offer courses in valuable skills that reflect their aptitudes 是 Game Academy 的另一项做法陈述，专名相同，但不是题干要的批判性思维方向。"
+            },
+            {
+              "number": 42,
+              "stem": "One who enjoys playing games that require management skills to win might possess more qualities of a manager.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（强锚点）\n【原文】But if you prefer Civilization, Total War, or X-Com, where strategy and resource management are key, then you might have more in common with managers.\nThere are plenty of soft skills that gamers can utilise in a professional setting, such as teamwork, problem solving and strategic planning 给出的是一组与具体岗位无关的软技能清单，没有像题干那样把某类游戏与管理者气质直接挂钩。"
+            },
+            {
+              "number": 43,
+              "stem": "In more conventional views, gaming is a time-wasting activity pursued by young boys.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】In more traditional settings, gaming is still imagined to be the pursuit of teenage boys — a waste of time.\n名词短语 a waste of time 与形容词 time-wasting 同义"
+            },
+            {
+              "number": 44,
+              "stem": "It is suggested that gaming skills be included in a résumé if they enhance a job applicant's appeal.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】\"It's about how you either make it relevant to the job you are applying for, or how it makes you more interesting as a potential employee,\" Mr Gardner says.\nWhy can't we put in our résumé our gaming victories and achievements? 是无条件鼓励写进简历，没有 if they enhance a job applicant's appeal 这种限定；题干强调的恰恰是这个限定，所以邻段对不上题干。"
+            },
+            {
+              "number": 45,
+              "stem": "Many gamers know their passion for playing games has shaped their identity.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（弱锚点）\n【原文】There are already plenty of gamers out there who know that their hobby has made them who they are.\n2025年12月英语四级真题第2套 长篇阅读（信息匹配） 第 1 篇 40. A physicist admits gaming has contributed to his computer knowledge and skills of solving problems. 这句陈述的信息出自第几段？为什么？ 2025年12月英语四级真题第2套 长篇阅读（信息匹配） 第 1 篇 第 40 句的信息出自 K 段（强锚点句）。K 段定位句为「Instead, he credits old-school games like Palace of Magic with exposing him to computers. Every new gaming upgrade improved his knowledge of how they worked. ... \"Most videogames are essentially puzzles to solve,\" he says. \"And problem-solving is a big part of my job.\"」（相反，他把自己对计算机的接触归功于 Palace of Magic 这类老牌游戏，每一次硬件升级都加深了他对电脑工作方式的认识。他还说大多数电子游戏本质上都是要解的谜，而解决问题正是他工作中的大头。）。陈述句是对原文的同义改写（A physicist ↔ a radiotherapy physicist with the NHS in Surrey；gaming has contributed to his computer knowledge ↔ Every new gaming upgrade improved his knowledge of how they worked；skills of solving problems ↔ problem-solving is a big part of my job）。该句锚点唯一、直达对应段，文中无易混的相邻段。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Junk food is now a staple of many Americans' diets. Advertising campaigns from the snack food companies, often featuring sports stars, send the message that we can neutralize any negative effects of consuming their products simply by getting more physical exercise. But recent studies show a lack of exercise is not to blame for rising obesity rates. Bad diets are."
+            },
+            {
+              "label": "B",
+              "text": "Interventions(干预) to help reduce junk food consumption are especially important for children and teenagers. Prevention is better than cure because obesity is so difficult to treat. Unfortunately, while health education has shown some success among young children, teens have been harder to reach."
+            },
+            {
+              "label": "C",
+              "text": "Now a large-scale study has tried an innovative approach to change teenagers' attitudes towards healthy eating, and the results are promising. The researchers argued that previous interventions have probably been unsuccessful because of a major flaw: they focused on a future, healthier you and assumed that this would be enough motivation for teenagers. In contrast, the new intervention cleverly exploits teenagers' instinct for rebelliousness and autonomy, and the value they place on social justice."
+            },
+            {
+              "label": "D",
+              "text": "To do this, researchers had students read an article on the food industry. It revealed a secret about the manipulative and deceptive strategies used to make junk food more addictive and characterize the products as healthy. The article also explained how advertising campaigns specifically target very young and poor people, causing harm for these vulnerable groups. Afterwards, the participants read a fictional survey of teens who wanted to \"fight back against the companies by buying and eating less processed food\""
+            },
+            {
+              "label": "E",
+              "text": "After the intervention, participants associated healthy eating with autonomy and social justice. The teenagers also rated healthy eating as being more appealing. Importantly, there were also some promising effects of the new intervention on actual behavior. A day later the students were offered a choice of snacks and drinks in a seemingly unrelated context. The teens chose healthy snacks and drinks (such as fruit or water) more often over unhealthy options (like biscuits and soda). Apparently associating a healthy diet with teenagers' own values seems to be a promising avenue to prevent obesity."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What do we learn about advertising campaigns from the snack food companies?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They convey the idea that their products are ok if consumers exercise more."
+                },
+                {
+                  "key": "B",
+                  "text": "They send the message that bad diets are responsible for Americans' obesity."
+                },
+                {
+                  "key": "C",
+                  "text": "They usually feature sports stars to emphasize the benefits of their snack foods."
+                },
+                {
+                  "key": "D",
+                  "text": "They claim that lack of exercise is to blame for the increasing obesity rates."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（见正文）"
+            },
+            {
+              "number": 47,
+              "stem": "What does the passage say about health education?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has shed light on teens' instinct for rebellion and autonomy."
+                },
+                {
+                  "key": "B",
+                  "text": "It has placed much more emphasis on cure than on prevention."
+                },
+                {
+                  "key": "C",
+                  "text": "It has contributed little to the campaigns against obesity."
+                },
+                {
+                  "key": "D",
+                  "text": "It has largely failed to turn teens away from junk food."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（见正文）"
+            },
+            {
+              "number": 48,
+              "stem": "What is a major flaw in previous interventions to help reduce junk food consumption?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They motivated teens to stay away from junk food only temporarily."
+                },
+                {
+                  "key": "B",
+                  "text": "They focused on the benefits young people would reap in the future."
+                },
+                {
+                  "key": "C",
+                  "text": "They were based on the assumption that motivation was the only key."
+                },
+                {
+                  "key": "D",
+                  "text": "They were incapable of appealing to teens' instinct for rebelliousness."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（见正文）"
+            },
+            {
+              "number": 49,
+              "stem": "In what way is the new intervention innovative?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It emphasizes people's sense of social responsibility."
+                },
+                {
+                  "key": "B",
+                  "text": "It cleverly exploits teenagers' personal weaknesses."
+                },
+                {
+                  "key": "C",
+                  "text": "It takes advantage of teenagers' natural inclination."
+                },
+                {
+                  "key": "D",
+                  "text": "It promises immediate rather than future benefits."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（见正文）"
+            },
+            {
+              "number": 50,
+              "stem": "What conclusion can be drawn from the new research?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A totally different approach could be adopted to combat advertising campaigns for snack food."
+                },
+                {
+                  "key": "B",
+                  "text": "An effective intervention has to be found to persuade teenagers to switch to a healthier lifestyle."
+                },
+                {
+                  "key": "C",
+                  "text": "Obesity can be hopefully prevented by building links between teenagers' values and healthy eating."
+                },
+                {
+                  "key": "D",
+                  "text": "An innovative way to beat obesity is to expose food companies' manipulative and deceptive practices."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（见正文）"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Adults dream during REM (rapid eye movement) sleep and infants have loads of REM. So, it might be fair to assume that babies have tons of dreams."
+            },
+            {
+              "label": "B",
+              "text": "But scientists believe REM serves a completely different purpose for newborns and infants than dreaming. When babies are in REM, it allows their brain to develop pathways, connections, and eventually, learn languages."
+            },
+            {
+              "label": "C",
+              "text": "Since your baby doesn't dream at this stage of brain development, it's safe to assume babies do not have nightmares, either. Nightmares stem from exposure to trauma(创伤), an overactive imagination, and the normal stresses of everyday life."
+            },
+            {
+              "label": "D",
+              "text": "Are you wondering, what do babies dream about? Good question, but the answer is nothing! So, when do babies start dreaming? The general consensus is that they start dreaming around the age of two. Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day. In his lab, he lets kids fall asleep and then wakes them 3 times a night and asks them to describe what they recall."
+            },
+            {
+              "label": "E",
+              "text": "Foulkes' findings are unsurprising. Basically, little kids have little dreams. But exactly what kids see while dreaming depends on their age. As children develop and grow, their dreams do too."
+            },
+            {
+              "label": "F",
+              "text": "Dreams of very small kids are usually just snapshots(快照), looking much more like a slideshow than a movie, when compared to the dreams of adults. They heavily feature animals and other familiar sights, like images of people eating. According to Foulkes, \"Children's dream life…seems to be similar to their waking imagination and narration.\" Kids ages 5 – 9 begin seeing moving images and characters in action. Dreams now include multiple events strung together, one after the other. They also start developing greater ability to remember dreams. Still, that's not always the case: When roused during REM sleep, 25% of the kids in Foulkes' studies had no recollection of dreaming, a trend that continues through age 9."
+            },
+            {
+              "label": "G",
+              "text": "So, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What do scientists think of REM?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is a sign of dreaming in adults and infants alike."
+                },
+                {
+                  "key": "B",
+                  "text": "It is essential to human beings' language learning."
+                },
+                {
+                  "key": "C",
+                  "text": "It determines the formation of connections in the brain."
+                },
+                {
+                  "key": "D",
+                  "text": "It performs a different function in babies than in adults."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】But scientists believe REM serves a completely different purpose for newborns and infants than dreaming.\nA) 与原文相反：原文明说婴儿在 REM 期\"不做梦\"，It is a sign of dreaming in adults and infants alike 反而说成人婴儿都做梦，与文意相反。\nB) 以偏概全：原文 eventually, learn languages 只把语言学习列为大脑发育的一个结果，It is essential to human beings' language\nC) 偷换概念：原文是 REM \"allows\" 婴儿大脑发育连接（提供条件），It determines the formation of connections in the brain 把 \nD) ✓ 正确：a completely different purpose for newborns and infants than dreaming ↔ a different functi"
+            },
+            {
+              "number": 52,
+              "stem": "What can we infer about nightmares from the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They occur often in people with an active imagination."
+                },
+                {
+                  "key": "B",
+                  "text": "They occur in people suffering from emotional stress."
+                },
+                {
+                  "key": "C",
+                  "text": "They vary in different stages of brain development."
+                },
+                {
+                  "key": "D",
+                  "text": "They appear in the sleep of both adults and infants."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（推断题）\n【原文】Nightmares stem from exposure to trauma(创伤), an overactive imagination, and the normal stresses of everyday life.\nA) 以偏概全：P3 只把 an overactive imagination 列为三因之一，They occur often in people with an active imaginati\nB) ✓ 正确：the normal stresses of everyday life ↔ emotional stress 预判 \"承受情绪压力的人易做噩梦\" 与 They occur in \nC) 无中生有：原文 P3 谈噩梦的成因，从未把噩梦与 \"大脑发育阶段\" 的关系作为话题；They vary in different stages of brain development 把别\nD) 与原文相反：原文 it's safe to assume babies do not have nightmares, either 明确婴儿不做噩梦，They appear in the s"
+            },
+            {
+              "number": 53,
+              "stem": "What is the aim of psychologist David Foulkes' study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To reveal the secrets of children's dreams."
+                },
+                {
+                  "key": "B",
+                  "text": "To see if children start dreaming at age two."
+                },
+                {
+                  "key": "C",
+                  "text": "To solve the mystery of dreaming and brain growth."
+                },
+                {
+                  "key": "D",
+                  "text": "To confirm the general consensus on when kids dream."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day.\nA) ✓ 正确：to bring the secrets of their dreams to the light of day ↔ To reveal the secrets of childr\nB) 偷换概念：原文 they start dreaming around the age of two 是研究背景里的 \"普遍共识\"，并非 Foulkes 研究的目的；To see if chi\nC) 无中生有：原文未把 Foulkes 的目标说成 \"解开做梦与大脑发育之谜\"；To solve the mystery of dreaming and brain growth 引入了 P2 \nD) 偷换概念：原文 The general consensus is that they start dreaming around the age of two. 表示这是研究界已有共识，Fo"
+            },
+            {
+              "number": 54,
+              "stem": "What are Foulkes' findings about kids' dreams?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They feature strange animals."
+                },
+                {
+                  "key": "B",
+                  "text": "They are unsurprising to adults."
+                },
+                {
+                  "key": "C",
+                  "text": "They grow and evolve with age."
+                },
+                {
+                  "key": "D",
+                  "text": "They reflect kids' waking life."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Foulkes' findings are unsurprising. Basically, little kids have little dreams. But exactly what kids see while dreaming depends on their age. As children develop and grow, their dreams do too.\nA) 以偏概全：They heavily feature animals and other familiar sights 只说幼儿梦多含动物等\"熟悉景象\"，They feature stran\nB) 答非所问：题问 findings 的内容；They are unsurprising to adults. 拿原文 \"unsurprising\" 的评价词当做内容，Foulkes' find\nC) ✓ 正确：As children develop and grow, their dreams do too ↔ They grow and evolve with age. 预判 \"梦随孩\nD) 偷换概念：原文 Children's dream life…seems to be similar to their waking imagination and narration 的相似"
+            },
+            {
+              "number": 55,
+              "stem": "What can we assume about babies who appear upset upon waking?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have been roused against their will."
+                },
+                {
+                  "key": "B",
+                  "text": "They have been disturbed by a nightmare."
+                },
+                {
+                  "key": "C",
+                  "text": "They have trouble recollecting the images of their dreams."
+                },
+                {
+                  "key": "D",
+                  "text": "They have been affected by something other than dreaming."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（推断题）\n【原文】So, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play.\nA) 无中生有：原文 P7 没有说婴儿被人弄醒；They have been roused against their will. 凭空添加 \"被弄醒\" + \"违背意愿\" 两个文本无据的语义。\nB) 与原文相反：原文 babies do not have nightmares 明确说婴儿不做噩梦；They have been disturbed by a nightmare. 反着说婴儿被\nC) 答非所问：题问 \"哭醒原因\"，They have trouble recollecting the images of their dreams. 把焦点换成 \"回忆梦境困难\"，且 25% \nD) ✓ 正确：there may be other factors at play ↔ They have been affected by something other than dream"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n近年来，\"城市漫步(city walk)\"在中国的年轻人中悄然兴起，已成为一种旅游新潮流。与传统旅游不同，城市漫步不追求在短时间内游览尽可能多的景点。而是随意行走或按照主题路线漫步在城市的大街小巷。漫步者品尝地道小吃，欣赏特色建筑，了解当地生活方式。他们还用相机或手机记录城市的风景和人物。这种旅游方式能让城市漫步者更深入了解城市的历史与文化。",
+              "analysis": "【参考译文】\nIn recent years, city walk has quietly emerged among young people in China and has become a new travel trend. Unlike traditional travel, city walk does not seek to visit as many attractions as possible in a short time. Instead, city walkers wander randomly or stroll along themed routes through the streets and alleys of the city. They taste authentic snacks, admire distinctive buildings, and learn about local ways of life. They also record the city's scenery and people with cameras or mobile phones. This travel style enables city walkers to gain a deeper understanding of the city's history and culture."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-12-2/",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 48
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2025-12-2/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

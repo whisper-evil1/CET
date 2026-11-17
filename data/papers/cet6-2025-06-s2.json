@@ -1,0 +1,2612 @@
+{
+  "id": "cet6-2025-06-s2",
+  "level": "CET6",
+  "year": 2025,
+  "month": 6,
+  "setNo": 2,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \" As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly. \" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+              "analysis": "【参考范文】\nAs social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly. Platforms such as WeChat and Weibo have become part of daily life, yet the way we behave online shapes both our own reputation and the wider community.\n\nTo use social media responsibly, we should verify information before sharing it and treat others with respect. This is because a single careless post can spread misinformation within minutes. A case in point is my own experience: last year I nearly forwarded a false rumour about a campus event, but a quick check revealed it was fake. Had I shared it, I would have misled hundreds of classmates.\n\nTherefore, using social media properly is not a trivial habit but a genuine responsibility. If each of us pauses to think before posting, the online world can become a place of trust rather than confusion. Only in this way can we truly enjoy the benefits that technology offers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "听力为历年真题原文，题目与答案为官方标准答案；在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 10.8,
+              "text": "W: We are down to two candidates for one position, and we need to decide by the end of the day in order to finalize this whole procedure.",
+              "zh": "W: 现在只剩下两个候选人竞争一个职位了，我们得在今天结束前做出决定，才能完成整个流程。"
+            },
+            {
+              "id": 2,
+              "start": 11.2,
+              "end": 16.9,
+              "text": "M: Yes, but it isn't an easy choice to make. Both applicants are quite strong.",
+              "zh": "M: 是的，但这不是一个容易做出的选择。两位申请人都很优秀。"
+            },
+            {
+              "id": 3,
+              "start": 17.3,
+              "end": 29.9,
+              "text": "W: Let's get to it, then. Both of them went to good universities, and both of them studied business-related subjects. So academically, I'd say they're pretty much the same. What do you think?",
+              "zh": "W: 那我们就开始吧。他们都毕业于不错的大学，也都学过与商科相关的专业。所以从学业方面来说，我觉得他们基本不相上下。你怎么看？"
+            },
+            {
+              "id": 4,
+              "start": 30.3,
+              "end": 44.5,
+              "text": "M: I would agree, yes. The only difference worth noting, perhaps, is that it looks like Rachel scored moderately stronger grades throughout high school and university. But as I said, only a tiny bit higher than Peter.",
+              "zh": "M: 我同意。或许唯一值得一提的区别是，Rachel在高中和大学期间的成绩似乎一直稍微好一些。不过正如我所说，也只是比Peter高那么一点点。"
+            },
+            {
+              "id": 5,
+              "start": 44.9,
+              "end": 53.7,
+              "text": "W: That's true, and worth noting. Thank you. In addition, Rachel interviewed very well. I thought she came across as bright and alert.",
+              "zh": "W: 确实，这一点值得注意。谢谢。另外，Rachel的面试表现非常好。我觉得她给人的感觉聪明又机敏。"
+            },
+            {
+              "id": 6,
+              "start": 54.1,
+              "end": 63.7,
+              "text": "M: Yes. She asked some very good questions about the position and the company, which made me think she is very keen about the job.",
+              "zh": "M: 是的。她问了一些关于这个职位和公司的很好的问题，这让我觉得她非常想得到这份工作。"
+            },
+            {
+              "id": 7,
+              "start": 64,
+              "end": 78.3,
+              "text": "W: I thought so, too. Now, let's look at Peter's interview performance. I thought he also did very well. He came across as respectful and professional, wouldn't you say? Calm and poised. Very mature for his age.",
+              "zh": "W: 我也这么认为。现在我们来看看Peter的面试表现。我觉得他也表现得非常好。他给人的感觉很尊重他人，也很专业，你不这么认为吗？沉着而稳重。以他的年龄来说，他非常成熟。"
+            },
+            {
+              "id": 8,
+              "start": 78.6,
+              "end": 88.6,
+              "text": "M: Exactly. In my notes, I wrote that he seemed composed and in control of his emotions. I think he definitely looked more mature than Rachel.",
+              "zh": "M: 没错。我在笔记中写道，他看起来沉着冷静，而且能控制自己的情绪。我觉得他看上去确实比Rachel成熟得多。"
+            },
+            {
+              "id": 9,
+              "start": 88.9,
+              "end": 99.7,
+              "text": "W: Interesting. So, we agree that Rachel appeared inexperienced and less mature than Peter, even though both candidates are the same age and have practically no work experience.",
+              "zh": "W: 有意思。所以我们都认为，尽管两位候选人年龄相同，而且几乎没有工作经验，但Rachel显得缺乏经验，也没有Peter成熟。"
+            },
+            {
+              "id": 10,
+              "start": 100,
+              "end": 108.1,
+              "text": "M: When comparing them side by side, yes, Peter seemed more self-assured somehow. Maybe it was something about their body language.",
+              "zh": "M: 把他们放在一起比较时，确实如此，不知怎么的，Peter显得更加自信。也许是他们的肢体语言造成的差别。"
+            },
+            {
+              "id": 11,
+              "start": 108.4,
+              "end": 111.5,
+              "text": "W: Sure. Maybe he was simply less nervous.",
+              "zh": "W: 当然。也许他只是没那么紧张。"
+            },
+            {
+              "id": 12,
+              "start": 111.8,
+              "end": 116.8,
+              "text": "M: Maybe. Who knows? To be honest, I think I like Rachel better.",
+              "zh": "M: 也许吧。谁知道呢？说实话，我觉得我更喜欢Rachel。"
+            },
+            {
+              "id": 13,
+              "start": 117.1,
+              "end": 120.2,
+              "text": "W: Hmm. Really? I think I like Peter.",
+              "zh": "W: 嗯。真的吗？我觉得我更喜欢Peter。"
+            },
+            {
+              "id": 14,
+              "start": 120.5,
+              "end": 130.9,
+              "text": "M: Ah, well. If there's a tie, and we can't come to an agreement, then we'll take it to John and let him cast the deciding vote.",
+              "zh": "M: 啊，好吧。如果意见打平，而我们又无法达成一致，那我们就把这件事交给John，让他投决定性的一票。"
+            }
+          ],
+          "audioDuration": 130.9,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "Why does the man think it is difficult to make the decision?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have to make a choice by the end of the day."
+                },
+                {
+                  "key": "B",
+                  "text": "Both candidates are very keen on getting the job."
+                },
+                {
+                  "key": "C",
+                  "text": "They hold different views on the procedure."
+                },
+                {
+                  "key": "D",
+                  "text": "Both candidates are quite competitive."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：M: Yes, but it isn't an easy choice to make. Both applicants are quite strong.信号：男士应答里的转折 + 给因 。这是男士对女士「今天得定」的直接应答，but it isn't an easy choice to make 用 but 转出「不好选」，紧接 Both applicants are q…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 取自女士开场 we need to decide by the end of the day 的「by the end of the day」，但那是「期限」而非「难以抉择的原因」；问的是 Why difficult，时间紧不是男士给出的理由，属听到原词就想选的陷阱。 借用原文：she is very keen about the job",
+                "B": "张冠李戴：「很想要这份工作」对应录音后面 she is very keen about the job，那是评价 Rachel 的，且只针对一人；本题问男士为何觉得难选，他给的因是「两人都强」，不是「都很想要」，B 张冠李戴又答非所问。 借用原文：finalize this whole procedure",
+                "C": "未提及：录音里两人对「流程」并无分歧，finalize this whole procedure 只是说要走完流程，并没有说「对 procedure 持不同看法」；C 借 procedure 一词虚构了一个原文没有的分歧。",
+                "D": "正确项：与答案句同义替换（Both applicants are quite strong ↔ Both candidates are quite competitive 近义改写 strong→competitive、applicants→candidates）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "M: Yes, but it isn't an easy choice to make. Both applicants are quite strong.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What do the speakers say may be worth noting?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Both Rachel and Peter came across as respectful and professional."
+                },
+                {
+                  "key": "B",
+                  "text": "Rachel scored moderately higher grades than Peter at school."
+                },
+                {
+                  "key": "C",
+                  "text": "Both Rachel and Peter excelled in their academic pursuit."
+                },
+                {
+                  "key": "D",
+                  "text": "Peter appeared slightly stronger than Rachel physically."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：M: The only difference worth noting, perhaps, is that it looks like Rachel scored moderately stronger grades throughout high school and university. But as I said, only a tiny bit higher than Peter.信号：明示标记 difference worth noting 。男士直接说 The only difference worth noting，与题干 worth noting 字面对应，是教科书式的答案信号；其后 Rac…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 的 respectful and professional 直接取自女士评 Peter 的 He came across as respectful and professional，是真听到的原词；但那是夸 Peter 一人的面试表现，并非两人都如此，且不是被点为「worth noting」的那点，属原词陷阱。 借用原文：only a tiny bit higher than Peter",
+                "C": "与原文相反：录音强调 only a tiny bit higher，仅是「略高」；C 的 excelled（出类拔萃）且说「两人都」学业杰出，把程度从「略」拔高到「极」、把范围从「Rachel 略胜」改成「两人皆优」，与原文程度相反。",
+                "D": "未提及：录音通篇比的是成绩、面试表现、成熟度，从未提到 physically（体格）；D 把 stronger 偷换成「身体上更强」，是录音根本没说的维度。",
+                "B": "正确项：与答案句同义替换（Rachel scored moderately stronger grades throughout high school and university ↔ Rachel scored moderately higher grades than Peter at school stronger grades=higher grades，程度词原样保留）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "M: The only difference worth noting, perhaps, is that it looks like Rachel scored moderately stronger grades throughout high school and university. But as I said, only a tiny bit higher than Peter.",
+              "type": "细节题"
+            },
+            {
+              "number": 3,
+              "stem": "According to the man, what might account for Peter appearing somewhat more self-assured than Rachel?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "His use of body language."
+                },
+                {
+                  "key": "B",
+                  "text": "His accumulation of experience."
+                },
+                {
+                  "key": "C",
+                  "text": "His unusual state of mind."
+                },
+                {
+                  "key": "D",
+                  "text": "His knowledge about the company."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P10）：M: When comparing them side by side, yes, Peter seemed more self-assured somehow. Maybe it was something about their body language.信号：男士的归因句 Maybe it was… 。这是男士亲口给出的归因——Peter seemed more self-assured somehow 之后紧跟 Maybe it was something about …",
+              "optionAnalysis": {
+                "B": "原词陷阱：B 的 experience 来自录音 practically no work experience，但原文说的是「两人几乎都没有工作经验」，恰恰不是经验造成差异；B 把「没有经验」偷成「经验的积累」，听到 experience 就选即落坑。 借用原文：composed and in control of his emotions",
+                "C": "偷换概念：录音说 Peter 显得 composed and in control of his emotions（沉着、控制情绪），是正面的镇定，并非 unusual state of mind（异常心态）；C 把镇定歪曲成「异常」，且不是男士给的归因，原文未提此因。 借用原文：asked some very good questions about the position and the company",
+                "D": "张冠李戴：D 的 knowledge about the company 化用录音 asked some very good questions about the position and the company，但那是说 Rachel 问了好问题、显得很想要这份工作，针对的是 Rachel、回答的是「是否 keen」，与本题问 Peter 自信的归因无关。",
+                "A": "正确项：与答案句同义替换（Maybe it was something about their body language ↔ His use of body language body language原词同指其运用）"
+              },
+              "evidencePara": "P10",
+              "evidenceText": "M: When comparing them side by side, yes, Peter seemed more self-assured somehow. Maybe it was something about their body language.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What does the man say they will do if they can't reach an agreement?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Compare the candidates side by side again."
+                },
+                {
+                  "key": "B",
+                  "text": "Ask the board to cast the deciding vote."
+                },
+                {
+                  "key": "C",
+                  "text": "Find a way to break the tie next time."
+                },
+                {
+                  "key": "D",
+                  "text": "Let John make the final decision."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P14）：M: Ah, well. If there's a tie, and we can't come to an agreement, then we'll take it to John and let him cast the deciding vote.信号：条件句 If…then 的对策落点 。男士用 If there's a tie, and we can't come to an agreement, then we'll take it to John 给出明确的…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 的 compare side by side 取自男士早前的 When comparing them side by side，确是原词；但那是描述他们之前已做的对比，而非「谈不拢时的对策」，问的是 if can't agree 怎么办，A 时态与问点都不符。 借用原文：take it to John and let him cast the deciding vote",
+                "B": "偷换概念：B 的 cast the deciding vote 正是录音原词 cast the deciding vote，极具迷惑；但录音里投决定票的是 John 一个人，B 却说交给 the board（董事会）投票，把「个人 John」偷换成「集体 board」。 借用原文：If there's a tie, and we can't come to an agreement",
+                "C": "偷换概念：C 的 break the tie 借用录音 If there's a tie 的 tie 一词，但录音对平局的对策是「这次就交给 John」，C 却说「找办法在下次打破平局」，把「当下交 John」偷改成「留待下次」，时点与做法都对不上。",
+                "D": "正确项：与答案句同义替换（take it to John and let him cast the deciding vote ↔ Let John make the final decision cast the deciding vote=make the final decision）"
+              },
+              "evidencePara": "P14",
+              "evidenceText": "M: Ah, well. If there's a tie, and we can't come to an agreement, then we'll take it to John and let him cast the deciding vote.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 10.8,
+              "text": "M: We're here with Clementine Ortega, head designer of the private fashion label L'Orange, to discuss her latest collection. Ms. Ortega, how would you describe this season's look?",
+              "zh": "M：我们现在请到了私人时装品牌 L'Orange 的首席设计师克莱门蒂娜·奥尔特加，来谈谈她的最新系列。奥尔特加女士，您会如何描述这一季的风格？"
+            },
+            {
+              "id": 2,
+              "start": 11.2,
+              "end": 28.5,
+              "text": "W: To be honest, my preferred style has always been on the ambiguous side, and I think this collection is even more so. I try not to adhere to social norms and expectations. Rather, I always try to incorporate something slightly absurd into my aesthetic.",
+              "zh": "W：说实话，我一直偏爱比较暧昧的风格，而我觉得这个系列更是如此。我尽量不去遵循社会规范和期望。相反，我总是努力在自己的审美中融入一些略显荒诞的元素。"
+            },
+            {
+              "id": 3,
+              "start": 28.9,
+              "end": 43.9,
+              "text": "M: The assortments of accessories in this collection have had quite the impact on critics. The dazzling cape deployed at the end of the show, for example, bewildered many in the audience. What was your inspiration for this piece?",
+              "zh": "M：这个系列中各种配饰的组合给评论家们留下了相当深刻的印象。比如，时装秀最后亮相的那件耀眼披风就让许多观众感到困惑。您创作这件作品的灵感是什么？"
+            },
+            {
+              "id": 4,
+              "start": 44.3,
+              "end": 75.4,
+              "text": "W: Over the summer, I traveled through rural mountain villages throughout Asia in search of handicrafts to decorate my new studio with. The embroidery done by the women in a particular village was so exquisite. I couldn't stop thinking about it. Trying to recreate their designs would have been futile. So instead, I applied my own eccentric approach. Using glitter, I drew similar intricate patterns onto the velvet cape. This ended up in the glamorous, luminous look that concluded the show.",
+              "zh": "W：夏天的时候，我走遍了亚洲各地的乡村山村，寻找可以用来装饰我新工作室的手工艺品。某个村庄里的妇女所做的刺绣精美绝伦，让我一直念念不忘。试图重现她们的设计肯定是徒劳的。所以，我采用了自己的另类手法。我用亮粉在天鹅绒披风上画出了类似的精细图案。最终呈现出华丽而明亮的效果，为整场秀画上了句号。"
+            },
+            {
+              "id": 5,
+              "start": 75.8,
+              "end": 81.5,
+              "text": "M: It was indeed majestic, and yet, dare I say, masculine at the same time.",
+              "zh": "M：确实很宏伟，不过，恕我直言，它同时也带有男性化的气质。"
+            },
+            {
+              "id": 6,
+              "start": 81.8,
+              "end": 100.7,
+              "text": "W: Well, yes, that was intentional. I like to merge styles that are often at opposite ends of the fashion spectrum. Hence, the sparkling cape was paired with a traditional power suit you would typically see in a business setting. It was sensational, if I do say so myself.",
+              "zh": "W：嗯，是的，这是有意为之。我喜欢把通常处于时尚光谱两端的风格融合在一起。因此，这件闪闪发光的披风搭配了一套传统的权力套装，也就是通常会在商务场合看到的那种套装。就我个人而言，我觉得效果非常惊艳。"
+            },
+            {
+              "id": 7,
+              "start": 101,
+              "end": 121,
+              "text": "M: Spectacular for sure! A stunning show all around. Going against stereotypes, the incorporation of indigenous aspects, along with your underlying signature touch, made this collection a statement of the season. You have proven yourself a formidable young designer, and we can't wait to see what creations you come up with next.",
+              "zh": "M：当然精彩绝伦！整场秀都令人惊叹。突破刻板印象，融入原住民元素，再加上您一贯的个人风格，使这个系列成为本季的宣言。您已经证明自己是一位不可小觑的年轻设计师，我们迫不及待地想看看您接下来会创作出什么作品。"
+            }
+          ],
+          "audioDuration": 121,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What are the speakers mainly talking about?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The private label \"L'Orange\"."
+                },
+                {
+                  "key": "B",
+                  "text": "The woman's latest collection."
+                },
+                {
+                  "key": "C",
+                  "text": "This season's new fashion."
+                },
+                {
+                  "key": "D",
+                  "text": "The head designer's role."
+                }
+              ],
+              "answer": "B",
+              "analysis": "主旨题。答案句（P1）：We're here with Clementine Ortega, head designer of the private fashion label L'Orange, to discuss her latest collection.信号：开场引入语点题 。记者开场白 to discuss her latest collection 直接交代了\"今天来谈什么\"，访谈类对话的中心话题几乎都由开场引入句给出，这就是答案句。",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确实念到品牌名 the private fashion label L'Orange，但它只是介绍设计师身份时的背景，全程没有围绕\"这个品牌\"展开，是听到原词就想选的原词陷阱。 借用原文：this season's look",
+                "C": "偷换概念：记者后面问过 this season's look，C 借这个词把话题偷换成\"本季新潮流\"这种行业泛论；可对话谈的始终是\"她个人的这一系列\"，不是整个时尚界的趋势。 借用原文：head designer",
+                "D": "未提及：录音用 head designer 介绍她的职位，D 借此说成\"首席设计师的职责\"；但全段没有一句在谈\"这个职位要干什么\"，是抓住头衔词的过度发挥。",
+                "B": "正确项：与答案句同义替换（to discuss her latest collection ↔ The woman's latest collection. her=the woman 指代对应）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "We're here with Clementine Ortega, head designer of the private fashion label L'Orange, to discuss her latest collection.",
+              "type": "主旨题"
+            },
+            {
+              "number": 6,
+              "stem": "What does the woman say she always tries to incorporate into her aesthetic?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Something reflecting the social norms."
+                },
+                {
+                  "key": "B",
+                  "text": "Something meeting public expectations."
+                },
+                {
+                  "key": "C",
+                  "text": "Something slightly absurd."
+                },
+                {
+                  "key": "D",
+                  "text": "Something a bit ambiguous."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：Rather, I always try to incorporate something slightly absurd into my aesthetic.信号：I always try to 是直接应答 。被问者女设计师用 I always try to incorporate something slightly absurd 直接讲出她总加入的东西，主语+always …",
+              "optionAnalysis": {
+                "A": "与原文相反：录音里 I try not to adhere to social norms 是她要\"避开\"的东西，A 却说她要加入\"反映社会规范\"的东西，正好把否定听成了肯定。 借用原文：social norms and expectations",
+                "B": "与原文相反：原文 expectations 与 social norms 并列，都在 I try not to adhere to 的否定范围内；B 说她要做\"符合公众期待\"的东西，与她的本意相反。 借用原文：my preferred style has always been on the ambiguous side",
+                "D": "原词陷阱：录音里 my preferred style has always been on the ambiguous side 说的是她整体风格偏\"含糊\"，D 借 ambiguous 这个原词来答\"她加入了什么\"，但题问的是 incorporate 进去的具体东西（absurd），答非所问。",
+                "C": "正确项：与答案句同义替换（something slightly absurd ↔ Something slightly absurd. 近乎原句对应）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Rather, I always try to incorporate something slightly absurd into my aesthetic.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What does the woman say she likes to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Merge styles often at opposite ends of the fashion spectrum."
+                },
+                {
+                  "key": "B",
+                  "text": "Learn from the designs of the Asian rural mountain villagers."
+                },
+                {
+                  "key": "C",
+                  "text": "Make velvet capes look both majestic and masculine."
+                },
+                {
+                  "key": "D",
+                  "text": "Draw intricate patterns onto a traditional power suit."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P6）：I like to merge styles that are often at opposite ends of the fashion spectrum.信号：I like to 直陈偏好 。I like to merge styles that are often at opposite ends of the fashion spectrum 用 I like to 直…",
+              "optionAnalysis": {
+                "B": "与原文相反：录音里她去亚洲山村看了刺绣，但明说 Trying to recreate their designs would have been futile——照搬他们的设计是徒劳的，所以她没\"学他们的设计\"，B 把\"放弃模仿\"说反成\"向他们学习\"。 借用原文：masculine at the same time",
+                "C": "张冠李戴：majestic 和 masculine 是男主持人 masculine at the same time 给出的观感评价，C 盗用这两个原词，把\"别人对作品的评价\"伪装成\"她喜欢做的事\"，张冠李戴。 借用原文：I drew similar intricate patterns onto the velvet cape",
+                "D": "原词陷阱：I drew similar intricate patterns onto the velvet cape 是她做那件斗篷时的一次具体操作，D 把这个一次性细节冒充成她长期\"喜欢做\"的事，可题问的是她声明的偏好（merge styles），层级对不上。",
+                "A": "正确项：与答案句同义替换（merge styles that are often at opposite ends of the fashion spectrum ↔ Merge styles often at opposite ends of the fashion spectrum. 省略定语从句的同义压缩）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "I like to merge styles that are often at opposite ends of the fashion spectrum.",
+              "type": "细节题"
+            },
+            {
+              "number": 8,
+              "stem": "What is the man looking forward to?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Obtaining the woman's signature."
+                },
+                {
+                  "key": "B",
+                  "text": "Seeing the woman's new creations."
+                },
+                {
+                  "key": "C",
+                  "text": "Incorporating indigenous aspects into his work."
+                },
+                {
+                  "key": "D",
+                  "text": "Sharing more ideas with the woman next time."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P7）：we can't wait to see what creations you come up with next.信号：结尾 can't wait 表期待 。男方在结尾说 we can't wait to see what creations you come up with next，can't wait to see 就是\"期待\"…",
+              "optionAnalysis": {
+                "A": "偷换概念：录音 your underlying signature touch 里 signature 指她\"标志性\"的风格印记，A 却理解成\"获取她的签名\"，把一词多义的 signature 偷换了义项，且男方根本没说要签名。 借用原文：the incorporation of indigenous aspects",
+                "C": "原词陷阱：the incorporation of indigenous aspects 是男方对本季作品已完成之处的称赞，描述的是过去做成的事；C 盗用 indigenous 这个原词，把\"已经做到\"说成\"他期待去做\"，时间和主体都错位。",
+                "D": "未提及：录音结尾的 next 是接在 what creations you come up with next（下次的作品）上的，D 借这个\"下次\"感造出\"下次多分享想法\"，可对话从没提\"再聊/分享想法\"，是无中生有。",
+                "B": "正确项：与答案句同义替换（to see what creations you come up with next ↔ Seeing the woman's new creations. come up with next=new creations）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "we can't wait to see what creations you come up with next.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 33.8,
+              "text": "Pet dogs can often readily understand a wide range of their owners' commands and gestures, but are these abilities inborn or are they exclusively learned through training? To find out, a new study examined whether stray dogs could understand human gestures. The study revealed that 80% of participating dogs successfully followed pointing gestures to a specific location despite having never received prior training. The results suggest that dogs can understand complex gestures by simply watching humans. This could have implications in reducing conflict between stray dogs and humans.",
+              "zh": "宠物狗通常能够轻易理解主人的各种命令和手势，但这些能力是与生俱来的，还是完全通过训练学会的？为了 выяс清这一点，一项新研究考察了流浪狗是否能够理解人类的手势。研究显示，尽管从未接受过任何训练，参与研究的狗中有80%成功地根据指向特定地点的手势采取了行动。研究结果表明，狗只需观察人类，就能理解复杂的手势。这一发现可能有助于减少流浪狗与人类之间的冲突。"
+            },
+            {
+              "id": 2,
+              "start": 34.1,
+              "end": 63.8,
+              "text": "Dogs were domesticated 10,000 to 15,000 years ago. This means they are probably the oldest domesticated animals on the planet. Humans then bred dogs with the most desirable and useful traits so that they could function as companions and workers. This resulted in domesticated dogs that are highly responsive to human commands and gestures. However, it was not clear whether dogs understand us through training alone, or whether this was an inherent ability. Why does this matter?",
+              "zh": "狗在一万至一万五千年前被驯化。这意味着它们很可能是地球上最早被驯化的动物。后来，人类将具有最理想、最有用特征的狗进行繁育，使它们能够充当伴侣和工作动物。由此形成的家犬对人类的命令和手势反应非常灵敏。然而，人们并不清楚，狗是否仅仅通过训练来理解我们，还是说这是一种与生俱来的能力。这为什么重要呢？"
+            },
+            {
+              "id": 3,
+              "start": 64.1,
+              "end": 101.1,
+              "text": "Stray dogs are a common feature in cities around the world. They may observe and occasionally interact with people, but such dogs have never been trained, and are behaviorally \"wild\". Conflicts between stray dogs and humans are a problem. Understanding how humans shape stray dogs' behavior may help alleviate this problem. According to the researchers of the new study, stray dogs are intelligent creatures. They closely observe humans and use their understanding of us to make a decision. Treating stray dogs with sensitivity and respect, and giving them space, the researchers assert, can reduce much conflict.",
+              "zh": "流浪狗是世界各地城市中常见的一道风景。它们可能会观察人类，偶尔也会与人接触，但这些狗从未接受过训练，在行为上属于“野生”状态。流浪狗与人类之间的冲突是一个问题。了解人类如何影响流浪狗的行为，或许有助于缓解这一问题。新研究的研究人员认为，流浪狗是聪明的动物。它们会密切观察人类，并利用对我们的理解来作出决定。研究人员强调，以敏感和尊重的态度对待流浪狗，并给予它们空间，可以减少许多冲突。"
+            }
+          ],
+          "audioDuration": 101.1,
+          "questions": [
+            {
+              "number": 9,
+              "stem": "What does the passage say about 80% of participating dogs in the new study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They could readily recognize their owner simply by looking."
+                },
+                {
+                  "key": "B",
+                  "text": "They could understand the implications of human commands."
+                },
+                {
+                  "key": "C",
+                  "text": "They could be domesticated to act as our companions."
+                },
+                {
+                  "key": "D",
+                  "text": "They could follow pointing gestures without training."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：The study revealed that 80% of participating dogs successfully followed pointing gestures to a specific location despite having never received prior training.信号：数字 80% 即定位锚点 。录音念到 80% of participating dogs 这个数字就是定位信号，紧跟其后的 successfully followed pointing gestures to a s…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A readily recognize their owner simply by looking 借了录音第 1 段开头 readily understand 里的 readily 一词，但录音说的是'轻易理解命令手势'，从未说'看一眼就认出主人'，是把听到的熟词嫁接到没说过的事上。 借用原文：This could have implications in reducing conflict",
+                "B": "偷换概念：B understand the implications of human commands 用了录音里的 commands，但 80% 那句讲的是'跟随手势找到地点'，并非'理解命令的言外之意（implications）'；implications 一词录音另有出处（讲研究意义），被挪来制造混淆。 借用原文：they could function as companions and workers",
+                "C": "张冠李戴：C domesticated to act as our companions 的 domesticated、companions 都出自录音第 2 段讲'家养狗被驯化成伴侣'，但第 9 题问的是新研究里的 80% 流浪狗，C 把'家养狗'的事安到了'实验流浪狗'头上。",
+                "D": "正确项：与答案句同义替换（followed pointing gestures ↔ follow pointing gestures 近乎原词的同动作对应）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The study revealed that 80% of participating dogs successfully followed pointing gestures to a specific location despite having never received prior training.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "What may help alleviate the problem caused by stray dogs?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Cultivating them to be intelligent creatures."
+                },
+                {
+                  "key": "B",
+                  "text": "Training them to behave like domesticated dogs."
+                },
+                {
+                  "key": "C",
+                  "text": "Understanding how humans impact their behavior."
+                },
+                {
+                  "key": "D",
+                  "text": "Taking measures to reduce their numbers."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：Understanding how humans shape stray dogs' behavior may help alleviate this problem.信号：help alleviate 即办法落点 。录音第 3 段 may help alleviate this problem 与题干 alleviate the problem 完全呼应，这句的主语 Understan…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A Cultivating them to be intelligent creatures 借了录音 stray dogs are intelligent creatures 里的 intelligent creatures，但原文是'流浪狗本就是聪明的生物'，并没说'培养它们变聪明'能缓解问题，盗原词却扭了意思。 借用原文：dogs that are highly responsive to human commands and gestures",
+                "B": "与原文相反：B Training them to behave like domesticated dogs 拼了录音的 training、domesticated，但全文恰恰强调流浪狗'未经训练'也能懂人、应'给空间善待'，'训练成家养狗'与文章主张方向相反。",
+                "D": "未提及：D Taking measures to reduce their numbers（采取措施减少其数量）录音全篇未提'减少流浪狗数量'，是凭'流浪狗是问题'想当然推出的极端办法，原文谈的是'理解与善待'而非清除。",
+                "C": "正确项：与答案句同义替换（Understanding how humans shape stray dogs' behavior ↔ Understanding how humans impact their behavior 同义动词替换 shape=impact）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Understanding how humans shape stray dogs' behavior may help alleviate this problem.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What do the researchers suggest we do to reduce conflicts between stray dogs and humans?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Tame them through repeated training."
+                },
+                {
+                  "key": "B",
+                  "text": "Treat them with sensitivity and respect."
+                },
+                {
+                  "key": "C",
+                  "text": "Make them responsive to our commands."
+                },
+                {
+                  "key": "D",
+                  "text": "Watch their behavior and try to improve it."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：Treating stray dogs with sensitivity and respect, and giving them space, the researchers assert, can reduce much conflict.信号：researchers assert 即建议落点 。录音末句 the researchers assert, can reduce much conflict 里 the researchers assert（研究者…",
+              "optionAnalysis": {
+                "A": "与原文相反：A Tame them through repeated training 借了全文反复出现的 training，但研究者主张'善待、给空间'，且全文强调流浪狗'未经训练也能懂人'，'反复训练驯服'与建议方向相反。 借用原文：highly responsive to human commands and gestures",
+                "C": "张冠李戴：C Make them responsive to our commands 用了录音第 2 段 highly responsive to human commands，但那是描述'家养狗被驯化后的结果'，并非研究者对'如何减少流浪狗冲突'的建议，对象与语境都错位。 借用原文：They closely observe humans and use their understanding of us",
+                "D": "偷换概念：D Watch their behavior and try to improve it 蹭了录音 They closely observe humans 的 observe/behavior，但原文是说'狗观察人'，且研究者建议是'善待给空间'，并非'人观察狗的行为并改进它'，主客颠倒且非建议内容。",
+                "B": "正确项：与答案句同义替换（Treating stray dogs with sensitivity and respect ↔ Treat them with sensitivity and respect 动名词转祈使、近乎原词）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Treating stray dogs with sensitivity and respect, and giving them space, the researchers assert, can reduce much conflict.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 19.2,
+              "text": "Think your refrigerator is just one big box of evenly cold air? Not so! The temperature inside the average fridge actually varies from front to back, bottom to top and everywhere in between. Because of this, food product placement within the appliance is far more important than you probably realize.",
+              "zh": "你以为冰箱只是一个内部空气温度均匀的大箱子吗？并不是！普通冰箱内部的温度实际上会随着前后、上下以及中间各处的位置而变化。因此，食物在冰箱内的摆放位置比你可能意识到的要重要得多。"
+            },
+            {
+              "id": 2,
+              "start": 19.6,
+              "end": 46.5,
+              "text": "The whole purpose of the modern refrigerator is to slow the growth of bacteria, which thrive in temperatures from 4.4 to 60 degrees Celsius. As a result, refrigerators are typically set at or below that low end to protect foods against bacteria. Although it might seem like time spent organizing the fridge will spoil your day, doing so will actually make it more user-friendly, easier to clean and food safety-conscious.",
+              "zh": "现代冰箱的全部用途，就是减缓细菌的繁殖，而细菌在4.4至60摄氏度的温度范围内容易滋生。因此，冰箱通常会被设定在4.4摄氏度或更低，以保护食物免受细菌侵害。虽然整理冰箱所花的时间似乎会破坏你一天的心情，但这样做实际上会让冰箱更便于使用、更容易清洁，也更符合食品安全要求。"
+            },
+            {
+              "id": 3,
+              "start": 46.9,
+              "end": 101.8,
+              "text": "Those little bins on the inside of refrigerator doors are convenient, but they don't maintain a consistent temperature, so definitely refrain from putting perishable foods in there. The top area is not as cold as the bottom of the fridge, so save it for the foods that don't need extra-chilly temperatures. Store foods that are ready to eat or already cooked on the top shelf. The middle shelf is the most temperature-controlled part of the fridge, so place eggs here. Drinks and prepared foods can also live on the middle shelf if you ran out of room up top. The back of the bottom shelf is the coldest spot in the fridge, so store perishable dairy products here to keep them edible longer. Never store foods with high water content here, because the water within them can and will freeze, effectively ruining them.",
+              "zh": "冰箱门内侧的那些小格子虽然很方便，但无法保持恒定的温度，所以一定不要把易腐食品放在那里。冰箱顶部区域没有底部那么冷，因此应留给那些不需要特别低温的食物。把即食食品或已经烹调好的食物放在顶层搁板上。如果顶部没有空间，也可以把饮料和熟食放在中层搁板上。中层搁板是冰箱内温度控制最稳定的区域，因此应把鸡蛋放在这里。底层搁板靠后的部位是冰箱内最冷的地方，所以应把易腐乳制品存放在这里，以便延长其可食用时间。切勿在这里存放含水量高的食物，因为其中的水分会结冰，从而彻底毁掉这些食物。"
+            }
+          ],
+          "audioDuration": 101.8,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "Why is food product placement within the fridge very important?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The temperature inside it varies from place to place."
+                },
+                {
+                  "key": "B",
+                  "text": "Proper placement facilitates access to food products."
+                },
+                {
+                  "key": "C",
+                  "text": "Its different shelves are designed for different purposes."
+                },
+                {
+                  "key": "D",
+                  "text": "The space in an average fridge changes from top to bottom."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：The temperature inside the average fridge actually varies from front to back, bottom to top and everywhere in between. Because of this, food product placement within the appliance is far more important than you probably realize.信号：Because of this 因果回指 。Because of this 是答案信号：this 回指前一句讲的温度处处不同，紧接着说正因如此摆放才重要，所以前一句 The temperature inside th…",
+              "optionAnalysis": {
+                "B": "未提及：Proper placement facilitates access to food products. 说摆放是为了方便取放，但录音解释的原因只有温度因位置而异，全程没提取放是否方便，属于录音未提及的角度。",
+                "C": "原词陷阱：Its different shelves are designed for different purposes. 听起来很对，但它说的是层架被设计成不同用途，而录音第一段给的原因是温度因位置而异；它借后文反复出现的 shelf 字眼制造听到就想选的诱惑，却答非所问。 借用原文：The temperature inside the average fridge actually varies from front to back, bottom to top and everywhere in between",
+                "D": "偷换概念：The space in an average fridge changes from top to bottom. 几乎照搬录音句式，却把变化的主语从温度换成了空间 space；录音说的是 The temperature inside the average fridge actually varies，变的是温度不是空间，属偷换核心概念。",
+                "A": "正确项：与答案句同义替换（The temperature inside the average fridge actually varies from front to back, bottom to top and everywhere in between ↔ The temperature inside it varies from place to place. 处处不同概括为因地而异）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The temperature inside the average fridge actually varies from front to back, bottom to top and everywhere in between. Because of this, food product placement within the appliance is far more important than you probably realize.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What does the passage say is the whole purpose of the modern refrigerator?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To slow the rising of temperature in it."
+                },
+                {
+                  "key": "B",
+                  "text": "To provide a big box of evenly cold air."
+                },
+                {
+                  "key": "C",
+                  "text": "To prevent germs from growing quickly."
+                },
+                {
+                  "key": "D",
+                  "text": "To keep the food cold as long as possible."
+                }
+              ],
+              "answer": "C",
+              "analysis": "目的题。答案句（P2）：The whole purpose of the modern refrigerator is to slow the growth of bacteria, which thrive in temperatures from 4.4 to 60 degrees Celsius.信号：purpose is to 直接点明 。The whole purpose of the modern refrigerator is to slow the growth of bacteria 用 purpose…",
+              "optionAnalysis": {
+                "A": "原词陷阱：To slow the rising of temperature in it. 借用了录音里反复出现的 temperature 字眼，把目的说成减缓升温；但录音明说目的是 to slow the growth of bacteria，减缓的是细菌生长不是温度上升，盗词却答错对象。 借用原文：Think your refrigerator is just one big box of evenly cold air? Not so!",
+                "B": "与原文相反：To provide a big box of evenly cold air. 几乎照搬录音开头 one big box of evenly cold air，但那是录音先抛出又立刻否定（Not so）的错误印象，并非冰箱目的，盗用否定前的说法。",
+                "D": "未提及：To keep the food cold as long as possible. 是凭常识容易选的诱饵，听起来冰箱不就是保冷吗；但录音点明的目的是抑制细菌生长，没说根本目的是尽量久保冷，属未提及的常识陷阱。",
+                "C": "正确项：与答案句同义替换（to slow the growth of bacteria ↔ To prevent germs from growing quickly. bacteria=germs，slow growth=prevent growing quickly）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The whole purpose of the modern refrigerator is to slow the growth of bacteria, which thrive in temperatures from 4.4 to 60 degrees Celsius.",
+              "type": "目的题"
+            },
+            {
+              "number": 14,
+              "stem": "Where in the fridge should we store foods already cooked?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "On the top shelf."
+                },
+                {
+                  "key": "B",
+                  "text": "In the middle section."
+                },
+                {
+                  "key": "C",
+                  "text": "On the inside of its doors."
+                },
+                {
+                  "key": "D",
+                  "text": "At the back of its bottom shelf."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：Store foods that are ready to eat or already cooked on the top shelf.信号：对象+位置直接配对 。Store foods that are ready to eat or already cooked on the top shelf 把对象 already cooked 与位置 the t…",
+              "optionAnalysis": {
+                "B": "原词陷阱：In the middle section. 盗用录音里真实出现的 middle shelf，但录音说中层最恒温、用来放 eggs，不是放熟食；听到 middle 就选会答非所问。 借用原文：Those little bins on the inside of refrigerator doors...refrain from putting perishable foods in there.",
+                "C": "原词陷阱：On the inside of its doors. 盗用录音的 inside of refrigerator doors，但录音说门内温度不稳、要避免放易腐食物，并未指派熟食，张冠李戴。 借用原文：The back of the bottom shelf is the coldest spot in the fridge, so store perishable dairy products here",
+                "D": "原词陷阱：At the back of its bottom shelf. 盗用录音真实位置 back of the bottom shelf，但录音说那里最冷、用来放 perishable dairy products，不是熟食，盗位置却对错食物。",
+                "A": "正确项：与答案句同义替换（on the top shelf ↔ On the top shelf. 位置词原样对应）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Store foods that are ready to eat or already cooked on the top shelf.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "Why should we never store foods with high water content at the back of the bottom shelf?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They will be extra-chilly."
+                },
+                {
+                  "key": "B",
+                  "text": "They will be hard to defrost."
+                },
+                {
+                  "key": "C",
+                  "text": "They will be contaminated."
+                },
+                {
+                  "key": "D",
+                  "text": "They will be ruined."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Never store foods with high water content here, because the water within them can and will freeze, effectively ruining them.信号：because 引出后果 。because the water within them can and will freeze, effectively ruining them 由 because 引出禁止的原因，…",
+              "optionAnalysis": {
+                "A": "原词陷阱：They will be extra-chilly. 借用录音前文出现的 extra-chilly 字眼，但那词是讲顶层不必放需要极冷的食物，与底层含水食物被毁无关；底层后果是结冰损坏不是单纯变冷。",
+                "B": "过度推断：They will be hard to defrost. 顺着结冰往下想出难以解冻，但录音只说结冰把食物毁了，没提解冻难易，属在结冰基础上多推一步。",
+                "C": "未提及：They will be contaminated. 说会被污染，但录音讲的后果是结冰损坏，全程没提污染，属录音未涉及的角度。",
+                "D": "正确项：与答案句同义替换（effectively ruining them ↔ They will be ruined. ruining 主动转被动）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Never store foods with high water content here, because the water within them can and will freeze, effectively ruining them.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Recording One",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 14.6,
+              "text": "My current research is mainly looking at factors like stress and how it affects our immune system. So the current projects that I'm quite excited about are looking at older people and factors that are important to them.",
+              "zh": "我目前的研究主要关注压力及其如何影响我们的免疫系统等因素。因此，我目前颇为感兴趣的项目是研究老年人以及对他们而言重要的因素。"
+            },
+            {
+              "id": 2,
+              "start": 14.9,
+              "end": 50.3,
+              "text": "In one project we are looking at hip fracture in older people, which is a common event and we're trying to understand the impact of depression. Often people in hospital with a hip fracture develop depression, and these are the people that then go on to become feeble a lot more quickly than others. They get infections. Often these infections lead to death. So we're trying to slow down that progression to feebleness. So if we can better understand how these factors interact, then we can actually start doing something about it.",
+              "zh": "在一个项目中，我们研究老年人的髋部骨折。这是一种常见事件，而我们正试图了解抑郁症的影响。髋部骨折住院患者常常会患上抑郁症，而这些人随后会比其他人更快地变得虚弱。他们会受到感染，而这些感染往往会导致死亡。因此，我们正努力减缓这一衰弱进程。如果我们能够更好地了解这些因素是如何相互作用的，那么我们实际上就可以开始采取措施来应对这一问题。"
+            },
+            {
+              "id": 3,
+              "start": 50.6,
+              "end": 96.4,
+              "text": "The impact that my research will have in Birmingham, first of all, is obviously for older people because these are the people that are having hip fractures and developing depression, and we're trying to improve their health and their quality of life. But this isn't just a problem in Birmingham or even in the UK. This is a problem globally. People are aging. There's a lot more people in the older generation who are living for longer but not necessarily staying healthy for a large part of their lives. So the last part of their life can often be full of ill health, and we're trying to understand factors that can contribute to the quality of life later on.",
+              "zh": "首先，我的研究在伯明翰产生的影响显然会惠及老年人，因为髋部骨折并患上抑郁症的正是这些人，而我们正努力改善他们的健康状况和生活质量。但这不仅是伯明翰，甚至也不仅是英国面临的问题，而是一个全球性问题。人们正在变老。老年群体中有越来越多的人寿命延长了，但他们未必能在生命的大部分时间里保持健康。因此，他们生命的最后阶段往往充满疾病，而我们正试图了解那些可能影响晚年生活质量的因素。"
+            },
+            {
+              "id": 4,
+              "start": 96.8,
+              "end": 156.4,
+              "text": "I think the thing that excites me most about my research is that it feels real and relevant. Lots of academics are probably very excited about their research, but it might not be that relevant to those around them. Whereas I feel that the work I do is relevant to everyone because everyone is aging. Health is an issue for everyone, regardless of their age, and what I'm trying to do is understand the factors that affect health and how we can improve the quality of life in people. So that's one of the things that really excites me about it. One of the other things is, rather than just taking one perspective, so rather than looking at aging and health just from the perspective of the psychologist, we are now bringing together a lot of different techniques and a lot of different viewpoints to actually look at the sort of different factors affecting health.",
+              "zh": "我认为，研究中最让我感到兴奋的是，它真实而且与现实密切相关。许多学者可能都对自己的研究非常兴奋，但这些研究未必与身边的人有那么大的关联。而我觉得，我所做的工作与每个人都相关，因为每个人都会变老。无论年龄大小，健康都是每个人都要面对的问题，而我努力做的，就是了解影响健康的因素，以及我们如何改善人们的生活质量。这是让我真正感到兴奋的事情之一。另一个原因是，我们不只是采取单一视角，也就是说，不只是从心理学家的角度来看待衰老和健康，而是将许多不同的技术和观点结合起来，实际研究影响健康的各种不同因素。"
+            }
+          ],
+          "audioDuration": 156.4,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What does the speaker say is quite common among older people?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Chronic depression."
+                },
+                {
+                  "key": "B",
+                  "text": "Growing feebleness."
+                },
+                {
+                  "key": "C",
+                  "text": "Hip fracture."
+                },
+                {
+                  "key": "D",
+                  "text": "Fatal infections."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：In one project we are looking at hip fracture in older people, which is a common event and we're trying to understand the impact of depression.信号：which is a common event 直接点\"常见\" 。答案句里 which is a common event（这是一种常见的情况）紧跟在 hip fracture in older people 之后，…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确实念到 depression，A 的 Chronic depression. 借此勾人，但原文说的是\"骨折后常发展出抑郁\"，抑郁是骨折带来的结果，且并未被 common 修饰，也没说是\"chronic（慢性）\"，答非所问。 借用原文：become feeble a lot more quickly than others",
+                "B": "原词陷阱：录音说 become feeble a lot more quickly，B 的 Growing feebleness. 取了这个 feeble，但原文讲的是骨折＋抑郁导致\"更快变虚弱\"这一恶化进程，并非在说\"老年人中常见的是虚弱\"，对不上题干的\"常见\"。 借用原文：Often these infections lead to death.",
+                "D": "原词陷阱：录音说 They get infections. Often these infections lead to death.，D 的 Fatal infections. 拼合了 infections 和\"致命\"，但原文 often 修饰的是\"感染导致死亡\"这一后续后果，处于\"骨折→抑郁→虚弱→感染→死亡\"链条末端，不是题干问的\"常见之事\"本身。",
+                "C": "正确项：与答案句同义替换（hip fracture in older people, which is a common event ↔ Hip fracture. 原词直接对应＋common 坐实）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "In one project we are looking at hip fracture in older people, which is a common event and we're trying to understand the impact of depression.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "What does the speaker think excites her most about her research?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It feels real and relevant."
+                },
+                {
+                  "key": "B",
+                  "text": "It contributes to psychology."
+                },
+                {
+                  "key": "C",
+                  "text": "It outcompetes lots of academics' research."
+                },
+                {
+                  "key": "D",
+                  "text": "It wins recognition outside of Birmingham."
+                }
+              ],
+              "answer": "A",
+              "analysis": "态度观点题。答案句（P4）：I think the thing that excites me most about my research is that it feels real and relevant.信号：excites me most 直接领出答案 。答案句 the thing that excites me most about my research is that it feels real and relev…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音确有 from the perspective of the psychologist，B 的 It contributes to psychology. 借 psychology 勾人，但原文是说\"不再只从心理学家的单一视角看\"，恰恰在强调超越心理学，而非\"为心理学做贡献\"，意思反向。 借用原文：Lots of academics are probably very excited about their research, but it might not be that relevant to those around them",
+                "C": "过度推断：录音说 Lots of academics are probably very excited about their research, but it might not be that relevant，C 的 It outcompetes lots of academics' research. 借 academics 勾人，但原文只是用别的学者作对比来突出\"自己的研究更切身相关\"，从未说\"胜过／outcompete\"别人，属过度拔高。 借用原文：But this isn't just a problem in Birmingham or even in the UK. This is a problem globally.",
+                "D": "原词陷阱：Birmingham 是录音里反复出现的地名（见 The impact that my research will have in Birmingham），D 的 It wins recognition outside of Birmingham. 借它勾人，但录音从没说研究\"在伯明翰之外赢得认可\"，只说这是\"全球性问题\"，把\"问题是全球的\"偷换成\"研究在外地获认可\"。",
+                "A": "正确项：与答案句同义替换（it feels real and relevant ↔ It feels real and relevant. 几乎原句搬入选项）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "I think the thing that excites me most about my research is that it feels real and relevant.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 18,
+              "stem": "How does the speaker approach her research project?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By bringing together experts old and young."
+                },
+                {
+                  "key": "B",
+                  "text": "By counting on advanced modern technology."
+                },
+                {
+                  "key": "C",
+                  "text": "By making full use of her expertise."
+                },
+                {
+                  "key": "D",
+                  "text": "By combining multiple perspectives."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：rather than just taking one perspective, so rather than looking at aging and health just from the perspective of the psychologist, we are now bringing together a lot of different techniques and a lot of different viewpoints to actually look at the sort of different factors affecting health.信号：rather than… we are now bringing together 对比转折 。答案句用 rather than just taking one perspective 先否定\"单一视角\"，再以 we…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确有 bringing together，A 的 By bringing together experts old and young. 借此勾人，但原文汇集的是 different techniques and viewpoints（技术与观点），不是\"老少专家\"，old and young 是套用别处的 older／young 之类印象，张冠李戴。 借用原文：bringing together a lot of different techniques",
+                "B": "过度推断：录音说 a lot of different techniques（多种不同的技术手段），B 的 By counting on advanced modern technology. 借 techniques 勾人，但原文只说\"多种技术手段\"，从没说\"依赖先进的现代科技\"，advanced modern 是凭空添加的拔高。 借用原文：rather than looking at aging and health just from the perspective of the psychologist",
+                "C": "与原文相反：By making full use of her expertise. 即\"充分用她自己（心理学家）的专长\"，这正是录音用 rather than… just from the perspective of the psychologist 明确否定的单一视角做法，选项取了被否定的那一半，与原文意思相反。",
+                "D": "正确项：与答案句同义替换（a lot of different techniques and a lot of different viewpoints ↔ By combining multiple perspectives. different viewpoints＝multiple perspectives 同义改写）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "rather than just taking one perspective, so rather than looking at aging and health just from the perspective of the psychologist, we are now bringing together a lot of different techniques and a lot of different viewpoints to actually look at the sort of different factors affecting health.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Recording Two",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 10.8,
+              "text": "Americans are obsessed with celebrity chefs. We talk about them and try to eat like them. But could we learn something more from them than recipes and techniques?",
+              "zh": "美国人痴迷于名厨。我们谈论他们，也努力像他们一样饮食。但除了食谱和技巧之外，我们还能从他们身上学到更多东西吗？"
+            },
+            {
+              "id": 2,
+              "start": 11.2,
+              "end": 26.5,
+              "text": "According to market data enterprises, Americans spend nearly 10 billion dollars a year on self-help and personal-organization products. The market is huge, partly because most colleges and graduate schools don't teach basic organization, but cooking schools and professional kitchens do.",
+              "zh": "根据市场数据公司的资料，美国人每年在自我提升和个人组织管理产品上的花费接近100亿美元。这个市场规模巨大，部分原因在于大多数高校和研究生院并不教授基本的组织管理方法，而烹饪学校和专业厨房却会教授这些内容。"
+            },
+            {
+              "id": 3,
+              "start": 26.9,
+              "end": 46.1,
+              "text": "Perhaps the principles of cooking organization can be extended to help even those of us who aren't top chefs. The system that makes kitchens function is called \"mise-en-place\", or literally \"put in place\". It's a French phrase that means to gather and arrange the ingredients and tools needed for cooking.",
+              "zh": "也许，烹饪中的组织原则可以推广开来，甚至帮助我们这些并非顶级厨师的人。使厨房运转起来的这套系统叫作“mise-en-place”，字面意思是“放置到位”。这是一个法语短语，意为收集并安排好烹饪所需的食材和工具。"
+            },
+            {
+              "id": 4,
+              "start": 46.5,
+              "end": 96.5,
+              "text": "But for many professional cooks, the phrase means something deeper. Some cooks call it their religion. It helps them coordinate vast amounts of labor and material, and transforms the lives of its practitioners through focus and self-discipline. Students at the culinary institute of America view it as a way of life. It's a way of concentrating their mind to only focus on the aspects that they need to be working on at the moment, to kind of rid themselves of distractions. And it's a habit that some students carry with them even when they're not in the kitchen. They mise-en-place their life. They set up their books for class. They set up their chef whites. They shine their shoes. They know everything that they need every step of the day.",
+              "zh": "但对许多专业厨师来说，这个短语有着更深层的含义。有些厨师称之为自己的宗教。它帮助他们协调大量的人力和物资，并通过专注和自律改变实践者的生活。美国烹饪学院的学生把它视为一种生活方式。这是一种集中精神的方法，让他们只专注于当下需要处理的事情，从而摆脱各种干扰。有些学生即使不在厨房里，也会保持这一习惯。他们按这种方式安排自己的生活。他们为上课准备好书本，整理好厨师服，擦亮鞋子。他们知道一天中的每一步需要用到的一切。"
+            },
+            {
+              "id": 5,
+              "start": 96.8,
+              "end": 139.5,
+              "text": "Then how does one attain this level of organization? The key to high-level organization is the mindset. Cooks can easily do six hours of preparation for a three-hour dinner shift. \"Mise-en-place forces cooks to account for every minute of their time and every movement. Every component of one single dish is in one single corner, so their hand literally moves inches,\" explains Dwayne Lipuma, an instructor at the culinary institute of America. \"Once students set up their station, I should be able to cover up their eyes. And they should know that their knives are always here, their oil is always right here, their salt and pepper is always right here.\"",
+              "zh": "那么，一个人如何才能达到这种程度的组织性呢？高水平组织的关键在于思维方式。厨师们很容易为三个小时的晚餐班次准备六个小时。“mise-en-place迫使厨师计算出时间的每一分钟和动作的每一次移动。一道菜的每一个组成部分都放在同一个角落里，因此他们的手实际上只需移动几英寸。”美国烹饪学院的讲师德韦恩·利普玛解释道，“学生们一旦布置好自己的工作台，我就算蒙住他们的眼睛，他们也应该知道刀具总是在这里，油总是在这里，盐和胡椒总是在这里。”"
+            },
+            {
+              "id": 6,
+              "start": 139.8,
+              "end": 154.1,
+              "text": "But practiced at its highest level, mise-en-place says that time is precious, resources are precious, space is precious, your self-respect and the respect of others are precious. Use them wisely. Isn't that a philosophy for our time?",
+              "zh": "但当mise-en-place得到最高程度的实践时，它所传达的是：时间很宝贵，资源很宝贵，空间很宝贵，你的自尊以及他人的尊重都很宝贵。要明智地使用它们。这难道不正是适合我们这个时代的一种人生哲学吗？"
+            }
+          ],
+          "audioDuration": 154.1,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What does the speaker say about most colleges and graduate schools in America?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They don't teach basic organization."
+                },
+                {
+                  "key": "B",
+                  "text": "They don't focus on teaching techniques."
+                },
+                {
+                  "key": "C",
+                  "text": "They attach little importance to recipes."
+                },
+                {
+                  "key": "D",
+                  "text": "They hire very few distinguished chefs."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：The market is huge, partly because most colleges and graduate schools don't teach basic organization, but cooking schools and professional kitchens do.信号：原因状语 because 引出的因果句 。答案句由 partly because most colleges and graduate schools don't teach basic organization 这…",
+              "optionAnalysis": {
+                "B": "原词陷阱：选项 They don't focus on teaching techniques. 借了录音开头 recipes and techniques 里的 techniques 制造熟耳感，但讲者从没说学校“不重视教技巧”，学校被说成不教的是 organization，不是 techniques，属听到原词就想选的陷阱。 借用原文：recipes and techniques",
+                "C": "原词陷阱：选项 They attach little importance to recipes. 取了开头 recipes and techniques 的 recipes，但录音并未说学校“不重视食谱”，更没把 recipes 和大学挂钩，是借原词编出的无中生有。 借用原文：celebrity chefs",
+                "D": "未提及：选项 They hire very few distinguished chefs. 用了贯穿全篇的 chefs 蹭话题，但录音通篇没提“学校聘用名厨多少”，hire very few distinguished chefs 完全是没听到的内容。",
+                "A": "正确项：与答案句同义替换（most colleges and graduate schools don't teach basic organization ↔ They don't teach basic organization. 把主语换成代词，其余几乎照搬）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The market is huge, partly because most colleges and graduate schools don't teach basic organization, but cooking schools and professional kitchens do.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "How do students of the culinary institute of America view \"mise-en-place\" or \"put in place\"?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It's unique to celebrity chefs."
+                },
+                {
+                  "key": "B",
+                  "text": "It's a way of transformation."
+                },
+                {
+                  "key": "C",
+                  "text": "It's too demanding for them."
+                },
+                {
+                  "key": "D",
+                  "text": "It's a way of life to them."
+                }
+              ],
+              "answer": "D",
+              "analysis": "态度观点题。答案句（P4）：Students at the culinary institute of America view it as a way of life.信号：被点名群体后紧跟的“view it as…”态度句 。讲者点出 Students at the culinary institute of America 这一群体后，紧接 view it as a way of l…",
+              "optionAnalysis": {
+                "A": "偷换概念：选项 It's unique to celebrity chefs. 借了开头 celebrity chefs 的熟词，但录音说把它当生活方式的是学生，不是名厨独有；unique（独有）这个范围限定录音根本没说，属偷换概念加原词诱选。 借用原文：transforms the lives of its practitioners",
+                "B": "答非所问：选项 It's a way of transformation. 取自录音 transforms the lives of its practitioners 的 transform，听起来很耳熟，但那句是讲者总述 mise-en-place 的功效，不是“学生怎么看它”的答案；题问的是学生的 view，答案句明确是 a way of life。 借用原文：focus and self-discipline",
+                "C": "过度推断：选项 It's too demanding for them. 利用 focus and self-discipline 让人联想“很苛刻”，但录音从未说学生觉得它“太苛刻”，反而把它当生活方式正面接纳，too demanding 是凭印象的过度推断。",
+                "D": "正确项：与答案句同义替换（view it as a way of life ↔ It's a way of life to them. view it as A 改写成 It's A to them）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Students at the culinary institute of America view it as a way of life.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 21,
+              "stem": "What does the speaker advise us to do at the end of the talk?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Respect others so as to be respected."
+                },
+                {
+                  "key": "B",
+                  "text": "Use time and resources in a wise way."
+                },
+                {
+                  "key": "C",
+                  "text": "Cultivate a habit of self-discipline."
+                },
+                {
+                  "key": "D",
+                  "text": "Learn from philosophers earnestly."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P6）：But practiced at its highest level, mise-en-place says that time is precious, resources are precious, space is precious, your self-respect and the respect of others are precious. Use them wisely.信号：结尾的祈使劝告句“Use them wisely” 。整段在罗列 time is precious, resources are precious 之后，以祈使句 Use them wisely. 收束，这句独立成句…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 Respect others so as to be respected. 借了 your self-respect and the respect of others are precious 里的 respect，但录音只把“尊重”列为“宝贵之物”之一，最后的劝告是 Use them wisely（明智使用），并非“尊重别人以换取被尊重”，且 so as to be respected 是录音没有的因果，属原词陷阱加过度推断。 借用原文：focus and self-discipline",
+                "C": "原词陷阱：选项 Cultivate a habit of self-discipline. 取自第四段 focus and self-discipline 的 self-discipline，这是前文描述 mise-en-place 作用时的词，不是结尾劝告；题问 at the end，结尾讲者劝的是明智使用时间资源，不是培养自律。 借用原文：Isn't that a philosophy for our time?",
+                "D": "偷换概念：选项 Learn from philosophers earnestly. 利用结尾 Isn't that a philosophy for our time? 的 philosophy 设套，但那只是反问“这难道不是我们时代的一种哲理吗”，并非叫人“认真向哲学家学习”，philosophers 与 learn from 都是录音没有的捏造。",
+                "B": "正确项：与答案句同义替换（time is precious, resources are precious ↔ Use time and resources in a wise way. 把要珍惜的对象同义搬进祈使句）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "But practiced at its highest level, mise-en-place says that time is precious, resources are precious, space is precious, your self-respect and the respect of others are precious. Use them wisely.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Recording Three",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 30.4,
+              "text": "Why do we stop making goals for ourselves and stop progressing in life? One reason is the belief that we should accept who we are and not constantly strive to improve ourselves. The mistake we make with this is that whilst self-acceptance is imperative, it should actually be used as the basis for growth. When we're not growing, learning and seeking improvements in our lives, we tend to stagnate, accepting what is, and stop believing we can be better.",
+              "zh": "为什么我们会停止为自己设定目标，停止在人生中不断进步？其中一个原因，是我们认为应该接受真实的自我，而不是不断努力提升自己。我们在这件事上犯的错误是：尽管自我接纳至关重要，但它实际上应当成为成长的基础。当我们不再成长、学习，也不再寻求改善生活时，往往就会停滞不前，接受现状，并不再相信自己能够变得更好。"
+            },
+            {
+              "id": 2,
+              "start": 30.8,
+              "end": 66.5,
+              "text": "A key tool for creating goals and progressing, is using our imagination. Yet as is so often the case, by the time we've reached midlife, we've stopped dreaming about what we want to achieve and feel quite negatively about goal setting. Instead of feeling confidence, happiness and satisfaction from achieving our goals, we feel we are always falling short. That leads to disappointment, and we stop dreaming. We stop imagining the life we'd like to have or the person we'd like to be, quickly finding ourselves shattered by the pain of our reality.",
+              "zh": "创造目标并取得进步的一个重要工具，是运用我们的想象力。然而，正如经常发生的那样，到了中年，我们已经不再憧憬自己想要实现的事情，并且对设定目标抱有相当消极的态度。实现目标本应带来自信、幸福感和满足感，但我们感受到的却总是自己未能达到要求。这会导致失望，于是我们不再憧憬，也不再想象自己想要拥有的生活或想成为的人，很快便会因现实的痛苦而感到心碎。"
+            },
+            {
+              "id": 3,
+              "start": 66.8,
+              "end": 88,
+              "text": "Up until now, unless we work in the creative industry, we've found the idea of using \"play\" a bit childish. In the West, we're mostly operating from our heads, the rational mind. But it's beginning to be better understood, because using our imagination is actually one of the most powerful things we could ever do.",
+              "zh": "到目前为止，除非我们从事创意行业，否则我们一直觉得运用“玩耍”这个概念有些幼稚。在西方，我们大多依赖头脑，也就是理性思维来行动。但人们开始更好地理解这一点，因为运用想象力实际上是我们所能做的最强大、最有力量的事情之一。"
+            },
+            {
+              "id": 4,
+              "start": 88.3,
+              "end": 152.6,
+              "text": "The problem with finding ourselves irritated for not achieving the goal is because the goal always changes and we're always adapting, whether we realize it or not. What happens, therefore, is that we end up feeling like we're never going to reach our goals. And herein lies one of the biggest misconceptions and reasons for failure, dissatisfaction and unhappiness. We measure against the goal, rather than where we've come from. Dan Sullivan calls this \"the gap and the gain\". We measure always against the goal, which we never feel we're reaching, rather than the gain, that is where we've come from. In measuring where we've come from, rather than where we're trying to get to, we see results. We see things we've taken for granted, or not noticed. It's a simple, yet profound change in perception, and what I love about it is the power it has to instantly shift us up a gear. It's so, so simple, yet has an immediate, positive impact on our thinking.",
+              "zh": "之所以会因未能实现目标而感到恼怒，问题在于目标总是在变化，而我们也始终在不断调整自己，无论是否意识到这一点。因此，最终我们会觉得自己永远不可能实现目标。这正是人们对失败、不满和不幸福最大的误解和原因之一。我们总是拿自己与目标进行比较，而不是与过去的自己比较。Dan Sullivan 将此称为“差距与收获”。我们总是以目标为参照进行衡量，而我们从未觉得自己正在接近目标；我们没有衡量收获，也就是自己从何处走来。衡量自己从何处走来，而不是试图走向何方时，我们就能看到成果。我们会看到那些曾经视为理所当然或未曾注意到的事情。这是观念上的一个简单却深刻的改变，而我喜欢它的地方在于，它所拥有的力量能够让我们立刻提升一个层次。它非常非常简单，却能立即对我们的思维产生积极影响。"
+            }
+          ],
+          "audioDuration": 152.6,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What should self-acceptance be used as according to the speaker?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The motive for hard work."
+                },
+                {
+                  "key": "B",
+                  "text": "The reason for stagnation."
+                },
+                {
+                  "key": "C",
+                  "text": "The basis for self-improvement."
+                },
+                {
+                  "key": "D",
+                  "text": "The justification for self-confidence."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：The mistake we make with this is that whilst self-acceptance is imperative, it should actually be used as the basis for growth.信号：转折 whilst + 定性结构 used as 。答案句先用让步 whilst self-acceptance is imperative（尽管自我接纳重要）退一步，再用 it should actually be…",
+              "optionAnalysis": {
+                "A": "未提及：The motive for hard work. 把 self-acceptance 说成『努力工作的动机』，原文只讲它是成长的基础，从未提 hard work，也未提 motive，属无中生有。",
+                "B": "原词陷阱：The reason for stagnation. 借用了原文 we tend to stagnate 的同根词 stagnation 制造耳熟，但原文说『不成长才会停滞』，stagnation 是不接纳成长的后果，绝非 self-acceptance 被用作的角色，属听到原词就想选的陷阱。 借用原文：the basis for growth",
+                "D": "偷换概念：The justification for self-confidence. 利用 self- 前缀与 C 的 self-improvement 混淆，但原文落点是 growth/improvement，不是 self-confidence，且 justification（理由）也非原文的 basis，属偷换概念。",
+                "C": "正确项：与答案句同义替换（used as the basis for growth ↔ The basis for self-improvement. growth = self-improvement 同义替换）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The mistake we make with this is that whilst self-acceptance is imperative, it should actually be used as the basis for growth.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What do people tend to do when they have reached midlife?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Feel confidence, happiness and satisfaction."
+                },
+                {
+                  "key": "B",
+                  "text": "Believe they have achieved their life goals."
+                },
+                {
+                  "key": "C",
+                  "text": "Use a key tool for setting ambitious goals."
+                },
+                {
+                  "key": "D",
+                  "text": "Stop imagining further progress in life."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：Yet as is so often the case, by the time we've reached midlife, we've stopped dreaming about what we want to achieve and feel quite negatively about goal setting.... We stop imagining the life we'd like to have or the person we'd like to be.信号：转折 Yet + midlife 时间锚 + 重复 stop 。Yet as is so often the case, by the time we've reached midlife 用 Yet 转折并点出时间…",
+              "optionAnalysis": {
+                "A": "与原文相反：Feel confidence, happiness and satisfaction. 三个词全部来自原文 Instead of feeling confidence, happiness and satisfaction from achieving our goals，但原文前面是 Instead of（而不是），意思恰恰是人们没有这些感受，选项却取了被否定的内容，是典型听到原词就选的陷阱。 借用原文：we feel we are always falling short",
+                "B": "与原文相反：Believe they have achieved their life goals. 说人们相信已达成人生目标，而原文说中年时人们 feel we are always falling short（总觉得没达到），方向完全相反，属无中生有又反向。 借用原文：A key tool for creating goals and progressing, is using our imagination",
+                "C": "张冠李戴：Use a key tool for setting ambitious goals. 里 a key tool 来自第 2 段开头 A key tool for creating goals and progressing, is using our imagination，但那是作者讲『工具是什么』，并非说中年人会去用它；原文恰恰说中年时人们停止了想象，选项张冠李戴。",
+                "D": "正确项：与答案句同义替换（We stop imagining the life we'd like to have or the person we'd like to be ↔ Stop imagining further progress in life. stop imagining 原词 + 概括化）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Yet as is so often the case, by the time we've reached midlife, we've stopped dreaming about what we want to achieve and feel quite negatively about goal setting.... We stop imagining the life we'd like to have or the person we'd like to be.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "Why do we find ourselves irritated for not achieving the goal?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "We feel we are always falling behind others."
+                },
+                {
+                  "key": "B",
+                  "text": "We have to adapt to the ever-changing goal."
+                },
+                {
+                  "key": "C",
+                  "text": "There are various misconceptions about goal setting."
+                },
+                {
+                  "key": "D",
+                  "text": "There are always problems with the goal originally set."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：The problem with finding ourselves irritated for not achieving the goal is because the goal always changes and we're always adapting, whether we realize it or not.信号：因果结构 The problem with … is because 。The problem with finding ourselves irritated for not achieving the goal …",
+              "optionAnalysis": {
+                "A": "偷换概念：We feel we are always falling behind others. 借了原文反复出现的 always 与 falling 的语感（如 we feel we are always falling short），但加了 others（落后于他人）。原文讲的是和自己的目标比、和来路比，从未说和别人比，others 是凭空添加。 借用原文：herein lies one of the biggest misconceptions",
+                "C": "原词陷阱：There are various misconceptions about goal setting. 搬用了原文 herein lies one of the biggest misconceptions 的 misconceptions，听着耳熟，但题目问的是『恼火的原因』，原因是 the goal always changes，而非泛泛地说『存在各种误解』，属听到原词就选的陷阱。 借用原文：The problem with finding ourselves irritated for not achieving the goal",
+                "D": "偷换概念：There are always problems with the goal originally set. 借了原文 The problem with… 的 problem 一词，但原文说的是『恼火这件事的问题在于目标在变』，不是说『当初设的目标本身有毛病』，把问题归错了对象。",
+                "B": "正确项：与答案句同义替换（the goal always changes and we're always adapting ↔ We have to adapt to the ever-changing goal. always changes + always adapting → ever-changing + adapt）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "The problem with finding ourselves irritated for not achieving the goal is because the goal always changes and we're always adapting, whether we realize it or not.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What does the speaker say has an immediate positive impact on our thinking?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A noticeable change in the number of goals to achieve."
+                },
+                {
+                  "key": "B",
+                  "text": "Measuring always against the gap rather than the gain."
+                },
+                {
+                  "key": "C",
+                  "text": "Measuring where we've come from instead of measuring against the goal."
+                },
+                {
+                  "key": "D",
+                  "text": "A proper conception of what we fail to notice in trying to achieve our goals."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P4）：We measure against the goal, rather than where we've come from.... In measuring where we've come from, rather than where we're trying to get to, we see results.... It's a simple, yet profound change in perception... yet has an immediate, positive impact on our thinking.信号：正面评价 profound/positive impact 指向 measuring where we've come from 。has an immediate, positive impact on our t…",
+              "optionAnalysis": {
+                "A": "未提及：A noticeable change in the number of goals to achieve. 说『要达成的目标数量发生明显变化』，原文谈的是衡量基准的转变（量来路 vs 量目标），从未提目标的数量变化，属未提及。",
+                "B": "与原文相反：Measuring always against the gap rather than the gain. 搬用了原文术语 We measure always against the goal 与 gap/gain，但作者批评的恰恰是『总对着 gap/goal 量』、推崇的是量 gain（来路）。选项说『量 gap 而非 gain』正好取了被否定的一面，与原文相反。 借用原文：things we've taken for granted, or not noticed",
+                "D": "偷换概念：A proper conception of what we fail to notice in trying to achieve our goals. 借了原文 things we've taken for granted, or not noticed 的 not noticed，拼成『对我们没注意到之物的正确认知』，但原文说有即时正面影响的是『衡量来路这一做法』本身，不是某种 conception，属偷换概念/过度拼凑。",
+                "C": "正确项：与答案句同义替换（measuring where we've come from, rather than where we're trying to get to ↔ Measuring where we've come from instead of measuring against the goal. rather than = instead of，goal = where we're trying to get to）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "We measure against the goal, rather than where we've come from.... In measuring where we've come from, rather than where we're trying to get to, we see results.... It's a simple, yet profound change in perception... yet has an immediate, positive impact on our thinking.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "No beast on Earth is tougher than the tiny tardigrade(缓步类动物). It can 26______ being frozen at -272° Celsius, being exposed to the vacuum of outer space and even being 27______ with 500 times the dose of X-rays that would kill a human. In other words, the creature can endure conditions that don't even exist on Earth. And researchers are looking to the microscopic animals to learn how to prepare humans and crops to handle the 28______ of space travel.\n\nThe tardigrade's indestructibility stems from its 29______ to its environment—which may seem surprising, since it lives in 30______ comfortable places, like the cool, wet patches of moss(青苔) that dot a garden wall.\n\nBut it turns out that a tardigrade's damp, mossy home can dry out many times each year. Drying is pretty 31______ for most living things. It does damage to cells in some of the same ways that freezing, vacuum and radiation do. Tardigrades, however, have 32______ special strategies for dealing with these kinds of damage.\n\nAs a tardigrade dries out, its cells produce several strange proteins that are unlike anything found in other animals. In water, the proteins are shapeless. But as water disappears, the proteins self-assemble into long fibers that fill the cell's 33______ . The fibers support the cell's membranes(细胞膜) and proteins, preventing them from breaking or 34______ .\n\nEmulating tardigrades could one day help humans colonize outer space. Food crops could be engineered to produce tardigrade proteins, allowing these organisms to grow more efficiently on spacecraft where levels of radiation are elevated compared with on Earth.\n\nSo if humans ever succeed in reaching the stars, they may accomplish this 35______ , in part, by standing on the shoulders of the tiny eight-legged endurance specialists in your backyard."
+            },
+            {
+              "label": "词库",
+              "text": "A) adaptations\nB) blasted\nC) catastrophic\nD) evolved\nE) feat\nF) interior\nG) probing\nH) recurrence\nI) rigors\nJ) seemingly\nK) survive\nL) tempt\nM) thrill\nN) unanimously\nO) unfolding"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adaptations"
+                },
+                {
+                  "key": "B",
+                  "text": "blasted"
+                },
+                {
+                  "key": "C",
+                  "text": "catastrophic"
+                },
+                {
+                  "key": "D",
+                  "text": "evolved"
+                },
+                {
+                  "key": "E",
+                  "text": "feat"
+                },
+                {
+                  "key": "F",
+                  "text": "interior"
+                },
+                {
+                  "key": "G",
+                  "text": "probing"
+                },
+                {
+                  "key": "H",
+                  "text": "recurrence"
+                },
+                {
+                  "key": "I",
+                  "text": "rigors"
+                },
+                {
+                  "key": "J",
+                  "text": "seemingly"
+                },
+                {
+                  "key": "K",
+                  "text": "survive"
+                },
+                {
+                  "key": "L",
+                  "text": "tempt"
+                },
+                {
+                  "key": "M",
+                  "text": "thrill"
+                },
+                {
+                  "key": "N",
+                  "text": "unanimously"
+                },
+                {
+                  "key": "O",
+                  "text": "unfolding"
+                }
+              ],
+              "answer": "K",
+              "type": "选词填空",
+              "analysis": "【答案】K（官方答案）\n应填 K) survive\n【原文】与开篇\"地球最坚韧\"主旨吻合，survive doing 是地道搭配\nL) tempt \"引诱\"语义牛头不对马嘴：tempt 是\"诱惑/吸引\"，宾语通常是人，且后接不定式 to do；说\"它诱惑被冷冻在 -272 度\"既不搭配也与文意完全相反。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adaptations"
+                },
+                {
+                  "key": "B",
+                  "text": "blasted"
+                },
+                {
+                  "key": "C",
+                  "text": "catastrophic"
+                },
+                {
+                  "key": "D",
+                  "text": "evolved"
+                },
+                {
+                  "key": "E",
+                  "text": "feat"
+                },
+                {
+                  "key": "F",
+                  "text": "interior"
+                },
+                {
+                  "key": "G",
+                  "text": "probing"
+                },
+                {
+                  "key": "H",
+                  "text": "recurrence"
+                },
+                {
+                  "key": "I",
+                  "text": "rigors"
+                },
+                {
+                  "key": "J",
+                  "text": "seemingly"
+                },
+                {
+                  "key": "K",
+                  "text": "survive"
+                },
+                {
+                  "key": "L",
+                  "text": "tempt"
+                },
+                {
+                  "key": "M",
+                  "text": "thrill"
+                },
+                {
+                  "key": "N",
+                  "text": "unanimously"
+                },
+                {
+                  "key": "O",
+                  "text": "unfolding"
+                }
+              ],
+              "answer": "B",
+              "type": "选词填空",
+              "analysis": "【答案】B（官方答案）\n应填 B) blasted\n【原文】be blasted with 是\"被…强力照射/轰击\"的固定搭配\nD) evolved evolve 是不及物动词，没有被动义：evolve 意为\"进化\"，本身不能说\"被进化\"；evolve with X-rays 也无固定搭配，更与本句\"承受极端伤害\"的语义方向相反。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adaptations"
+                },
+                {
+                  "key": "B",
+                  "text": "blasted"
+                },
+                {
+                  "key": "C",
+                  "text": "catastrophic"
+                },
+                {
+                  "key": "D",
+                  "text": "evolved"
+                },
+                {
+                  "key": "E",
+                  "text": "feat"
+                },
+                {
+                  "key": "F",
+                  "text": "interior"
+                },
+                {
+                  "key": "G",
+                  "text": "probing"
+                },
+                {
+                  "key": "H",
+                  "text": "recurrence"
+                },
+                {
+                  "key": "I",
+                  "text": "rigors"
+                },
+                {
+                  "key": "J",
+                  "text": "seemingly"
+                },
+                {
+                  "key": "K",
+                  "text": "survive"
+                },
+                {
+                  "key": "L",
+                  "text": "tempt"
+                },
+                {
+                  "key": "M",
+                  "text": "thrill"
+                },
+                {
+                  "key": "N",
+                  "text": "unanimously"
+                },
+                {
+                  "key": "O",
+                  "text": "unfolding"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) rigors\n【原文】the rigors of space travel 是新闻文本中描述\"太空旅行严酷条件\"的高频搭配\nH) recurrence \"复发\"与\"太空旅行\"搭配不成立：recurrence 用于事件再次发生，the recurrence of space travel 意思变成\"太空旅行的复发\"，与\"应对严酷条件\"的因果链完全错位。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adaptations"
+                },
+                {
+                  "key": "B",
+                  "text": "blasted"
+                },
+                {
+                  "key": "C",
+                  "text": "catastrophic"
+                },
+                {
+                  "key": "D",
+                  "text": "evolved"
+                },
+                {
+                  "key": "E",
+                  "text": "feat"
+                },
+                {
+                  "key": "F",
+                  "text": "interior"
+                },
+                {
+                  "key": "G",
+                  "text": "probing"
+                },
+                {
+                  "key": "H",
+                  "text": "recurrence"
+                },
+                {
+                  "key": "I",
+                  "text": "rigors"
+                },
+                {
+                  "key": "J",
+                  "text": "seemingly"
+                },
+                {
+                  "key": "K",
+                  "text": "survive"
+                },
+                {
+                  "key": "L",
+                  "text": "tempt"
+                },
+                {
+                  "key": "M",
+                  "text": "thrill"
+                },
+                {
+                  "key": "N",
+                  "text": "unanimously"
+                },
+                {
+                  "key": "O",
+                  "text": "unfolding"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) adaptations\n【原文】adaptation to environment 是地道搭配，且与下文进化呼应\nH) recurrence \"复发\"与\"环境适应\"语义无关：recurrence to its environment 不是固定搭配，且\"对环境的复发\"在语义上不成立。\nI) rigors rigors 表外部严酷，不是它\"自己的\"特质：rigors to its environment 不通；况且 its rigors 意为\"它自己的严酷\"，与\"不可摧毁性来源\"的因果链方向不对，应是\"环境的严酷\"而非\"它的严酷\""
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adaptations"
+                },
+                {
+                  "key": "B",
+                  "text": "blasted"
+                },
+                {
+                  "key": "C",
+                  "text": "catastrophic"
+                },
+                {
+                  "key": "D",
+                  "text": "evolved"
+                },
+                {
+                  "key": "E",
+                  "text": "feat"
+                },
+                {
+                  "key": "F",
+                  "text": "interior"
+                },
+                {
+                  "key": "G",
+                  "text": "probing"
+                },
+                {
+                  "key": "H",
+                  "text": "recurrence"
+                },
+                {
+                  "key": "I",
+                  "text": "rigors"
+                },
+                {
+                  "key": "J",
+                  "text": "seemingly"
+                },
+                {
+                  "key": "K",
+                  "text": "survive"
+                },
+                {
+                  "key": "L",
+                  "text": "tempt"
+                },
+                {
+                  "key": "M",
+                  "text": "thrill"
+                },
+                {
+                  "key": "N",
+                  "text": "unanimously"
+                },
+                {
+                  "key": "O",
+                  "text": "unfolding"
+                }
+              ],
+              "answer": "J",
+              "type": "选词填空",
+              "analysis": "【答案】J（官方答案）\n应填 J) seemingly\n【原文】上一段刚说缓步类动物的不可摧毁源自对环境的适应，作者紧接着用 which may seem surprising 提示读者：它住的地方其实 cool, wet patches of moss，看着挺舒服。所以这里要的就是\"看似、表面上\"——seemingly comfortable 与后文实际会反复干涸的真相形成反差。\nN) unanimously 语义牛头不对马嘴：unanimously 意为\"一致地\"，描述群体投票或意见，与单数主语 it 的居住环境舒适程度无关，代入 lives in unanimously comfortable pla"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adaptations"
+                },
+                {
+                  "key": "B",
+                  "text": "blasted"
+                },
+                {
+                  "key": "C",
+                  "text": "catastrophic"
+                },
+                {
+                  "key": "D",
+                  "text": "evolved"
+                },
+                {
+                  "key": "E",
+                  "text": "feat"
+                },
+                {
+                  "key": "F",
+                  "text": "interior"
+                },
+                {
+                  "key": "G",
+                  "text": "probing"
+                },
+                {
+                  "key": "H",
+                  "text": "recurrence"
+                },
+                {
+                  "key": "I",
+                  "text": "rigors"
+                },
+                {
+                  "key": "J",
+                  "text": "seemingly"
+                },
+                {
+                  "key": "K",
+                  "text": "survive"
+                },
+                {
+                  "key": "L",
+                  "text": "tempt"
+                },
+                {
+                  "key": "M",
+                  "text": "thrill"
+                },
+                {
+                  "key": "N",
+                  "text": "unanimously"
+                },
+                {
+                  "key": "O",
+                  "text": "unfolding"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) catastrophic\n【原文】与下句\"破坏细胞、堪比冷冻真空辐射\"等量齐观\n紧接着的下一句 It does damage to cells in some of the same ways that freezing, vacuum and radiation do 把\"干燥\"的伤害与冷冻、真空、辐射并列；这种伤害程度只能用\"灾难性的\"来形容，catastrophic 程度恰好对得上。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adaptations"
+                },
+                {
+                  "key": "B",
+                  "text": "blasted"
+                },
+                {
+                  "key": "C",
+                  "text": "catastrophic"
+                },
+                {
+                  "key": "D",
+                  "text": "evolved"
+                },
+                {
+                  "key": "E",
+                  "text": "feat"
+                },
+                {
+                  "key": "F",
+                  "text": "interior"
+                },
+                {
+                  "key": "G",
+                  "text": "probing"
+                },
+                {
+                  "key": "H",
+                  "text": "recurrence"
+                },
+                {
+                  "key": "I",
+                  "text": "rigors"
+                },
+                {
+                  "key": "J",
+                  "text": "seemingly"
+                },
+                {
+                  "key": "K",
+                  "text": "survive"
+                },
+                {
+                  "key": "L",
+                  "text": "tempt"
+                },
+                {
+                  "key": "M",
+                  "text": "thrill"
+                },
+                {
+                  "key": "N",
+                  "text": "unanimously"
+                },
+                {
+                  "key": "O",
+                  "text": "unfolding"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) evolved\n【原文】evolve 在此作及物动词，意为\"演化出\"\n最具迷惑性的错误词是 B) —— blasted 也可作过去分词，词性陷阱 。have + 过去分词 + 名词宾语的现在完成时框架里，blasted 与 evolved 都是过去分词，词性符合；但 blast strategies 搭配不成立，且本句靠 however 引出的\"它却演化出策略\"才是文意。识破法：动词不仅看词性，还要看与宾语 special strategies 是否能搭配。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adaptations"
+                },
+                {
+                  "key": "B",
+                  "text": "blasted"
+                },
+                {
+                  "key": "C",
+                  "text": "catastrophic"
+                },
+                {
+                  "key": "D",
+                  "text": "evolved"
+                },
+                {
+                  "key": "E",
+                  "text": "feat"
+                },
+                {
+                  "key": "F",
+                  "text": "interior"
+                },
+                {
+                  "key": "G",
+                  "text": "probing"
+                },
+                {
+                  "key": "H",
+                  "text": "recurrence"
+                },
+                {
+                  "key": "I",
+                  "text": "rigors"
+                },
+                {
+                  "key": "J",
+                  "text": "seemingly"
+                },
+                {
+                  "key": "K",
+                  "text": "survive"
+                },
+                {
+                  "key": "L",
+                  "text": "tempt"
+                },
+                {
+                  "key": "M",
+                  "text": "thrill"
+                },
+                {
+                  "key": "N",
+                  "text": "unanimously"
+                },
+                {
+                  "key": "O",
+                  "text": "unfolding"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) interior\n【原文】fill ... interior 是描述细胞内部空间的典型搭配\nA) adaptations 义为\"适应性变化\"，不可被纤维填满：adaptations 指生物层面的适应性特征，是抽象概念，不存在\"被长纤维填满\"的物理空间含义，与 fill 在语义上不兼容。\nE) feat \"壮举\"是抽象成就，不能被填满：feat 用于人或行为的伟大成就（如下文 they may accomplish this __(35)__ 才是它的归宿），与细胞物理结构毫无关系。\nH) recurrence \"复发\"指事件重复，不指空间：recurrence 是\"再次发生\"的动作性名词，不是一个可以被纤维 fill 的位置或空间。\nI) rigors \"严酷条件\"指环境而非细胞内部：rigors 表抽象的\"艰难考验\"，复数语义偏外部环境，且后文马上要用它来描述太空旅行的严酷（见 26 题语境），与本句\"细胞内部\"语义错位。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adaptations"
+                },
+                {
+                  "key": "B",
+                  "text": "blasted"
+                },
+                {
+                  "key": "C",
+                  "text": "catastrophic"
+                },
+                {
+                  "key": "D",
+                  "text": "evolved"
+                },
+                {
+                  "key": "E",
+                  "text": "feat"
+                },
+                {
+                  "key": "F",
+                  "text": "interior"
+                },
+                {
+                  "key": "G",
+                  "text": "probing"
+                },
+                {
+                  "key": "H",
+                  "text": "recurrence"
+                },
+                {
+                  "key": "I",
+                  "text": "rigors"
+                },
+                {
+                  "key": "J",
+                  "text": "seemingly"
+                },
+                {
+                  "key": "K",
+                  "text": "survive"
+                },
+                {
+                  "key": "L",
+                  "text": "tempt"
+                },
+                {
+                  "key": "M",
+                  "text": "thrill"
+                },
+                {
+                  "key": "N",
+                  "text": "unanimously"
+                },
+                {
+                  "key": "O",
+                  "text": "unfolding"
+                }
+              ],
+              "answer": "O",
+              "type": "选词填空",
+              "analysis": "【答案】O（官方答案）\n应填 O) unfolding\n【原文】unfold 是生化语境下\"蛋白质解折叠/结构散开\"的标准说法\nG) probing \"探测\"是主动动作，与被防止的损坏无关：probe 意为\"探查、调查\"，主语应是\"探查者\"；细胞膜或蛋白被防止\"探查\"在语义上完全说不通，与 breaking 也不成对。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adaptations"
+                },
+                {
+                  "key": "B",
+                  "text": "blasted"
+                },
+                {
+                  "key": "C",
+                  "text": "catastrophic"
+                },
+                {
+                  "key": "D",
+                  "text": "evolved"
+                },
+                {
+                  "key": "E",
+                  "text": "feat"
+                },
+                {
+                  "key": "F",
+                  "text": "interior"
+                },
+                {
+                  "key": "G",
+                  "text": "probing"
+                },
+                {
+                  "key": "H",
+                  "text": "recurrence"
+                },
+                {
+                  "key": "I",
+                  "text": "rigors"
+                },
+                {
+                  "key": "J",
+                  "text": "seemingly"
+                },
+                {
+                  "key": "K",
+                  "text": "survive"
+                },
+                {
+                  "key": "L",
+                  "text": "tempt"
+                },
+                {
+                  "key": "M",
+                  "text": "thrill"
+                },
+                {
+                  "key": "N",
+                  "text": "unanimously"
+                },
+                {
+                  "key": "O",
+                  "text": "unfolding"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) feat\n【原文】accomplish a feat 是\"完成壮举\"的固定搭配\nH) recurrence \"复发\"与\"完成壮举\"语义相反：recurrence 暗示\"再次发生\"，常用于疾病或负面事件复发，accomplish this recurrence 既不搭配也与本段\"人类首次抵达星辰\"的壮举语境完全冲突。 W\nA) adaptations 名词：适应（性变化），名词复数 用于第 29 空\nB) blasted 动词 形容词：（被）轰击、强力照射；过去分词/过去式 用于第 27 空\nC) catastrophic 形容词：灾难性的、毁灭性的 用于第 31 空"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "As the scale and impacts of climate change become increasingly alarming, meat is a popular target for action. Advocates for the protection of the natural environment from destruction or pollution urge the public to eat less meat. Some activists have even called for taxing meat to reduce consumption of it."
+            },
+            {
+              "label": "B",
+              "text": "A key claim underlying these arguments holds that globally, meat production generates more greenhouse gases than the entire transportation sector. However, this claim is demonstrably wrong, as I will show. And its persistence has led to false assumptions about the linkage between meat and climate change."
+            },
+            {
+              "label": "C",
+              "text": "My recent research focuses on ways in which animal agriculture affects air quality and climate change. In my view, there are many reasons for either choosing animal protein or opting for a vegetarian selection. However, abandoning meat and meat products is not the environmental panacea(万灵药) many would have us believe. And if taken to an extreme, it also could have harmful nutritional consequences."
+            },
+            {
+              "label": "D",
+              "text": "A healthy portion of meat's negative reputation centers on the assertion that livestock is the largest source of greenhouse gases worldwide. For example, an analysis published in 2009 by the World Watch Institute based in Washington, D.C. asserted that 51 percent of global greenhouse gas emissions come from rearing and processing livestock. According to the U.S. Environmental Protection Agency, the largest sources of U.S. greenhouse gas emissions in 2016 were electricity production (28 percent of total emissions), transportation (28 percent) and industry (22 percent). All of agriculture accounted for a total of 9 percent, but all of animal agriculture contributes less than half of this amount, representing 3.9 percent of the total greenhouse emission in the U.S. That is very different from claiming that livestock represents as much as or more than transportation."
+            },
+            {
+              "label": "E",
+              "text": "Why is there such a misconception? In 2006 the United Nations Food and Agriculture Organization (FAO) published a study titled \"Livestock's Long Shadow,\" which received widespread international attention. It stated that livestock produced a staggering 18 percent of the world's greenhouse gas emissions. The agency drew a startling conclusion that livestock was doing more to harm the climate than all modes of transportation combined. This latter claim was wrong, and has since been corrected by Henning Stenfeld, the report's senior author."
+            },
+            {
+              "label": "F",
+              "text": "The problem was that analysts from the FAO used a comprehensive life-cycle assessment to study the climate impact of livestock, but a different method when they analyzed transportation. For livestock, they considered every factor associated with producing meat. This included emissions from fertilizer production, converting land from forests to pastures, growing feed, and direct emissions from animals (manure as well as expelling of gas from the stomach) from birth to death."
+            },
+            {
+              "label": "G",
+              "text": "However, when they looked at transportation's carbon footprint, they ignored impacts on the climate from manufacturing vehicle materials and parts, assembling vehicles and maintaining roads, bridges and airports. Instead, they only considered the exhaust smoke emitted by finished cars, trucks, trains and planes. As a result, the FAO's comparison of greenhouse gas emissions from livestock to those from transportation was greatly distorted."
+            },
+            {
+              "label": "H",
+              "text": "I pointed out this flaw during a speech to fellow scientists in San Francisco on March 22, 2010, which led to a flood of media coverage. To its credit, the FAO immediately owned up to its error. Unfortunately, the agency's initial claim that livestock was responsible for the lion's share of world greenhouse gas emissions had already received wide coverage. To this day, we struggle to \"unring\" the bell. In its most recent assessment report, the FAO estimated that livestock produces 14.5 percent of global greenhouse gas emissions from human activities. There is no comparable full life-cycle assessment for transportation. However, as Stenfeld has pointed out, direct emissions from transportation versus livestock can be compared and amount to 14 versus 5 percent, respectively."
+            },
+            {
+              "label": "I",
+              "text": "Many people continue to think that avoiding meat as infrequently as once a week will make a significant difference to the climate. But according to one recent study, even if Americans eliminated all animal protein from their diets, they would reduce U.S. greenhouse gas emissions by only 2.6 percent. According to our research at the University of California, Davis, if the practice of Meatless Monday were to be adopted by all Americans, we'd see a reduction of only 0.5 percent."
+            },
+            {
+              "label": "J",
+              "text": "Moreover, technological, genetic and management changes that have taken place in U.S. agriculture over the past 70 years have made livestock production more efficient and less greenhouse gas-intensive. According to the FAO's statistical database, total direct greenhouse gas emissions from U.S. livestock have declined by 11.3 percent since 1961, while production of livestock meat has more than doubled."
+            },
+            {
+              "label": "K",
+              "text": "Demand for meat is rising in developing and emerging economies, especially in the Middle East, North Africa and Southeast Asia. For example, raising livestock such as goats in Kenya is an important source of food and income for many small-scale farmers and herders. But meat consumption per person in these regions still lags that of developed countries. In 2015, average annual meat consumption per person in developed countries was 92 kilograms, compared to 24 kilograms in the Middle East and North Africa and 18 kilograms in Southeast Asia. Still, given projected population growth in the developing world, there will certainly be an opportunity for countries such as the United States to bring their sustainable livestock rearing practices to the table."
+            },
+            {
+              "label": "L",
+              "text": "Removing animals from U.S. agriculture would lower national greenhouse gas emissions to a small degree, but it would also make it harder to meet people's nutritional requirements. Many critics of animal agriculture are quick to point out that if farmers raised only plants, they could produce more pounds of food and more calories per person. But humans also need many essential micro- and macro-nutrients for good health. It's hard to make a compelling argument that the United States has a calorie deficit, given its high national rates of adult and child obesity. Moreover, not all plant parts are edible or desirable. Raising livestock is a way to add nutritional and economic value to plant agriculture."
+            },
+            {
+              "label": "M",
+              "text": "As one example, the energy in plants that livestock consume is most often contained in cellulose(纤维素), which is indigestible for humans and many other mammals. But cows, sheep and other ruminant(反刍的) animals can break cellulose down and release the solar energy contained in this vast resource. According to the FAO, as much as 70 percent of all agricultural land globally is range land that can only be utilized as grazing land for ruminant livestock."
+            },
+            {
+              "label": "N",
+              "text": "The world population is currently projected to reach 9.8 billion by 2050. Feeding this many people will raise immense challenges. Meat is more calorie-dense per serving than vegetarian options, and ruminant animals largely thrive on feed that is not suitable for humans. Raising livestock also offers much-needed income for small-scale farmers in developing nations. Worldwide, livestock provides a livelihood for 1 billion people."
+            },
+            {
+              "label": "O",
+              "text": "Climate change demands urgent attention, and the livestock industry has a large overall environmental footprint that affects air, water and land. These, combined with a rapidly rising world population, give us plenty of compelling reasons to continue to work for greater efficiencies in animal agriculture. I believe the place to start is with science-based facts."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The FAO concluded that farm animals were producing more greenhouse gases than all modes of transportation combined.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】The agency drew a startling conclusion that livestock was doing more to harm the climate than all modes of transportation combined.\nH 描述的是作者点出错误后 FAO 承认错误并更新数据，对应的是 To this day, we struggle to unring the bell 与 14.5 percent，而非题干所指的最初下结论的时刻。"
+            },
+            {
+              "number": 37,
+              "stem": "Consumption of meat per person in developing countries is much less than that in countries like the U.S.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】But meat consumption per person in these regions still lags that of developed countries.\nN 谈的是养畜对发展中国家小农生计的意义，与题干追问的人均消费对比无关。"
+            },
+            {
+              "number": 38,
+              "stem": "The FAO was worthy of praise in that it admitted its mistake once it was pointed out.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（强锚点）\n【原文】To its credit, the FAO immediately owned up to its error.\nE 写的是 FAO 当初下结论被点为错，并未写承认错误这一动作，本段不是承认错误的承载段。"
+            },
+            {
+              "number": 39,
+              "stem": "Environmentalists try hard to make people consume less meat to combat climate change.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】Advocates for the protection of the natural environment from destruction or pollution urge the public to eat less meat."
+            },
+            {
+              "number": 40,
+              "stem": "Recent research has shown that even if Americans quit eating meat altogether, the resulting reduction of greenhouse gases in the U.S. would be slight.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（强锚点）\n【原文】But according to one recent study, even if Americans eliminated all animal protein from their diets, they would reduce U.S. greenhouse gas emissions by only 2.6 percent.\nJ 给出的 total direct greenhouse gas emissions from U.S. livestock have declined by 11.3 percent since 1961 是过去已发生的事实，不是题干追问的全戒肉假设下的减排幅度。"
+            },
+            {
+              "number": 41,
+              "stem": "More than half of the world's farmland is suitable only for animals like cows to graze on.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "M",
+                  "text": "Paragraph M"
+                }
+              ],
+              "answer": "M",
+              "type": "信息匹配",
+              "analysis": "【答案】M（强锚点）\n【原文】According to the FAO, as much as 70 percent of all agricultural land globally is range land that can only be utilized as grazing land for ruminant livestock.\n根据 FAO 的数据，全球高达 70% 的农用地是只能用作反刍家畜放牧的牧场。"
+            },
+            {
+              "number": 42,
+              "stem": "The allegation that farm animals produce the world's largest portion of greenhouse gases is responsible for meat's bad reputation.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】A healthy portion of meat's negative reputation centers on the assertion that livestock is the largest source of greenhouse gases worldwide.\nE 解释的是 Why is there such a misconception，举的是 FAO 报告这一具体来源，而非题干追问的负面声誉的成因表述。"
+            },
+            {
+              "number": 43,
+              "stem": "Raising farm animals makes it easier to meet people's nutritional needs.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "L",
+                  "text": "Paragraph L"
+                }
+              ],
+              "answer": "L",
+              "type": "信息匹配",
+              "analysis": "【答案】L（强锚点）\n【原文】Removing animals from U.S. agriculture would lower national greenhouse gas emissions to a small degree, but it would also make it harder to meet people's nutritional requirements.\nN 写的是 Feeding this many people will raise immense challenges 与 Worldwide, livestock provides a livelihood for 1 billion people，而非题干所指养畜让营养需求更易满足这一因果。"
+            },
+            {
+              "number": 44,
+              "stem": "The author doesn't believe giving up meat and meat products will be a cure-all for the environmental problem.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】However, abandoning meat and meat products is not the environmental panacea(万灵药) many would have us believe.\nThe author doesn't believe giving up meat and meat products will be a cure-all ↔ abandoning meat and meat products is not the environmental panacea(万灵药) many would have us believe"
+            },
+            {
+              "number": 45,
+              "stem": "Changes in America's farming technology and management in the past decades have increased efficiency and reduced greenhouse gas emissions in meat production.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】Moreover, technological, genetic and management changes that have taken place in U.S. agriculture over the past 70 years have made livestock production more efficient and less greenhouse gas-intensive.\n2025年6月英语六级真题第2套 长篇阅读（信息匹配） 第 1 篇 45. Changes in America's farming technology and management in the past decades have increased efficiency and reduced greenhouse gas emissions in meat production. 这句陈述的信息出自第几段？为什么？ 2025年6月英语六级真题第2套 长篇阅读（信息匹配） 第 1 篇 第 45 句的信息出自 J 段（强锚点句）。J 段定位句为「Moreover, technological, genetic and management changes that have taken place in U.S. agriculture over the past 70 years have made livestock production more efficient and less greenhouse gas-intensive.」（此外，过去 70 年里美国农业经历的技术、遗传与管理变革使畜牧业生产更高效、温室气体排放强度更低。）。陈述句是对原文的同义改写（Changes in America's farming technology and management in the past decades ↔ technological, genetic and management changes that have taken place in U.S. agriculture over the past 70 years；have increased efficiency and reduced greenhouse gas emissions in meat production ↔ have made livestock production more efficient and less greenhouse gas-intensive）。与之话题相邻的 D 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Why are we so worried about our careers? Partly it's to do with money, but there's a psychological aspect to our fears as well."
+            },
+            {
+              "label": "B",
+              "text": "We worry because we suspect—not wrongly—that the world is full of a frightening sort of person ready to judge us ruthlessly and swiftly: a person we can call a snob."
+            },
+            {
+              "label": "C",
+              "text": "A snob is anyone who takes a relatively small part of us and uses it to come to a rigid conclusion about how much of their attention we deserve. In the past, that might be your ancestry and royal connections. Nowadays, the snob cares about one thing only: what you do for a living."
+            },
+            {
+              "label": "D",
+              "text": "This explains why the first question we will be asked in any new social context is 'What do you do?' and according to how we answer, snobs will either welcome us with broad smiles, or leave us in the cold."
+            },
+            {
+              "label": "E",
+              "text": "And that is why we are fired up by such a desperate urge to achieve and impress."
+            },
+            {
+              "label": "F",
+              "text": "Sometimes our behaviour is mistaken for greed and vanity, but it is more than this. A lot of our interest in fancy cars, jobs and houses has nothing to do with materialism. It has to do with a hunger for the respect and esteem that is only available in our societies through the acquisition of material goods. It isn't the goods themselves we seek, it is the love we stand to gain through our possession of them. The next time we see someone driving a Ferrari, we shouldn't condemn them for their greed, we should pity them for the intensity of their need for love from the world."
+            },
+            {
+              "label": "G",
+              "text": "At the root of snobbery is a lack of imagination and confidence about how to decide who in the world is valuable. The snobs are brutally misguided and slavish in their beliefs about how the superior individuals can be identified. For snobs, it is the already acclaimed and already successful who are the only ones worthy of respect. There is no room in their timid regimented minds to imagine that someone might be clever, kind or good—and yet somehow have been overlooked entirely by society, their qualities lying hidden beneath an unfamiliar veil, and having as yet discovered no obvious outlet."
+            },
+            {
+              "label": "H",
+              "text": "The true answer to snobbery is not to say that there is no such thing as a better or worse person, but to insist that better or worse exist in constantly unexpected places and carry none of the outward signs of distinction. And because we are such poor judges of the worth of others, our ultimate duty remains to be kind, good, curious and imaginative about pretty much everyone who ever crosses our path."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What gives rise to our worry about careers apart from money?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Fear of being judged in a snobbish manner."
+                },
+                {
+                  "key": "B",
+                  "text": "The prospect of facing fault-finding managers."
+                },
+                {
+                  "key": "C",
+                  "text": "The ruthless way employees are often treated."
+                },
+                {
+                  "key": "D",
+                  "text": "Fright at the difficulty in hunting for a job."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（见正文）"
+            },
+            {
+              "number": 47,
+              "stem": "What do we learn from the passage about today's snobs?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They try hard to dig into a person's past."
+                },
+                {
+                  "key": "B",
+                  "text": "They draw a rigid conclusion about people."
+                },
+                {
+                  "key": "C",
+                  "text": "They judge a person by their occupation."
+                },
+                {
+                  "key": "D",
+                  "text": "They tend to place people in a social context."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（见正文）"
+            },
+            {
+              "number": 48,
+              "stem": "What does the author say about people's interest in material goods?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is the cause for condemnation of their greed."
+                },
+                {
+                  "key": "B",
+                  "text": "It has a lot to do with the comforts they provide."
+                },
+                {
+                  "key": "C",
+                  "text": "It arouses pity rather than respect from the wealthy."
+                },
+                {
+                  "key": "D",
+                  "text": "It arises from their craving for social recognition."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（见正文）"
+            },
+            {
+              "number": 49,
+              "stem": "What kind of people do snobs deem worth respect and esteem?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Those with fame and fortune."
+                },
+                {
+                  "key": "B",
+                  "text": "Those with regimented minds."
+                },
+                {
+                  "key": "C",
+                  "text": "Those with intelligence and imagination."
+                },
+                {
+                  "key": "D",
+                  "text": "Those with qualities lying hidden in disguise."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（见正文）"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author imply we should do to avoid being snobbish?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Be aware there has never been such a thing as a better or worse person."
+                },
+                {
+                  "key": "B",
+                  "text": "Be kind to and curious about those who we happen to meet in our lives."
+                },
+                {
+                  "key": "C",
+                  "text": "Realize that better or worse keeps changing in unexpected ways."
+                },
+                {
+                  "key": "D",
+                  "text": "Judge people on the basis of their distinctive character traits."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（见正文）"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Women have historically been paid less. But in the US in the 1980s, they began to catch up—fast. During that decade, the gender pay gap closed by about one percentage point a year. Had that trend continued, the gender wage gap would have been closed by 2017."
+            },
+            {
+              "label": "B",
+              "text": "But the trend didn't continue, and the gap remains yawning."
+            },
+            {
+              "label": "C",
+              "text": "According to a new study from academics at Harvard, the stagnation can be put down, perhaps counterintuitively, to the introduction of state and federal family leave policies."
+            },
+            {
+              "label": "D",
+              "text": "The academics argue that during the 1990s, as governments began to introduce leave policies, it was mainly women who took advantage of them. Though the leave policies might have helped those women to stay in the workplace—instead of dropping out to have families—those who returned saw their wages had increased at lower rates than the men."
+            },
+            {
+              "label": "E",
+              "text": "After family leave was introduced in the US, in fact, the rate of gender wage convergence fell to just 0.03 percentage points per year, and has remained there ever since."
+            },
+            {
+              "label": "F",
+              "text": "Those monitoring the process towards salary equity at work have long watched as progress slowed in many countries around the world. In fact, that progress began to reverse during the pandemic(大流行病)."
+            },
+            {
+              "label": "G",
+              "text": "The gender pay gap is one of the most outstanding examples of that lack of parity(平等), and still exists just about everywhere. The motherhood penalty has become a shorthand for describing why: In many places, especially rich countries, women earn the same as men until they reach their childbearing years. Women who have children begin to see their salaries slip behind their male counterparts."
+            },
+            {
+              "label": "H",
+              "text": "Part of this is because women take on more of the unpaid labor at home, which can eat into time available for work and energy for career advancement. But it's also because mothers are passed over for raises and promotion, and because time out of the workplace sets women back, even if that time is taken voluntarily, and supported by company or government policy."
+            },
+            {
+              "label": "I",
+              "text": "What would have happened if leave policies hadn't been introduced? The study doesn't go into that question, other than to say that if the 1980s trend continued, we would have been at parity by now."
+            },
+            {
+              "label": "J",
+              "text": "It's possible, however, that the journey towards wage parity would have stalled either way. If women's gains in the 1980s were made through the erasure of things like bias, once those less uncontrollable problems had been addressed, there would still have been an issue with women—who are the ones to bear children and take care of them in the early weeks because of biological factors like the ability to breastfeed, forcing them to take breaks, whether or not those breaks were mandated."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What do we learn about the gender pay gap in the US during the 1980s?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was being slowly closed."
+                },
+                {
+                  "key": "B",
+                  "text": "It was shrinking rapidly."
+                },
+                {
+                  "key": "C",
+                  "text": "It started to yawn."
+                },
+                {
+                  "key": "D",
+                  "text": "It remained substantial."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】But in the US in the 1980s, they began to catch up—fast. During that decade, the gender pay gap closed by about one percentage point a year.\nA) 与原文相反：It was being slowly closed 把原文的 fast 偷换成 slowly，方向完全相反。\nB) ✓ 正确：they began to catch up—fast ↔ shrinking rapidly closed by about one percentage point a yea\nC) 张冠李戴：It started to yawn 借用 the gap remains yawning 制造关联，但 yawning 在原文描述的是 P2 之后趋势停滞后差距依旧巨大的状态，不\nD) 答非所问：It remained substantial 描述的是 Women have historically been paid less 这种历史背景下的总体状态，并不针对题干所问的"
+            },
+            {
+              "number": 52,
+              "stem": "What happened with the introduction of state and federal family leave policies?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The process towards salary equity at work began to reverse."
+                },
+                {
+                  "key": "B",
+                  "text": "The rate of gender wage convergence started to fall noticeably."
+                },
+                {
+                  "key": "C",
+                  "text": "The trend of women returning to work after childbirth started."
+                },
+                {
+                  "key": "D",
+                  "text": "The narrowing of the gender pay gap attracted more attention."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】After family leave was introduced in the US, in fact, the rate of gender wage convergence fell to just 0.03 percentage points per year, and has remained there ever since.\nA) 张冠李戴：The process towards salary equity at work began to reverse 借用 that progress began to rever\nB) ✓ 正确：the rate of gender wage convergence fell to just 0.03 percentage points per year ↔ The rat\nC) 无中生有：The trend of women returning to work after childbirth started 借用 helped those women to sta\nD) 无中生有：The narrowing of the gender pay gap attracted more attention 把\"差距缩小\"和\"引起更多关注\"拼接在一起，但原文从未提及"
+            },
+            {
+              "number": 53,
+              "stem": "What partly accounts for the slip in women's salaries?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The insufficient motivation women generally have for career advancement."
+                },
+                {
+                  "key": "B",
+                  "text": "The opportunities numerous women give up for pay raise and promotion."
+                },
+                {
+                  "key": "C",
+                  "text": "The huge amounts of time and energy women spend taking care of the family."
+                },
+                {
+                  "key": "D",
+                  "text": "The lack of policy support from government and business corporations."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Part of this is because women take on more of the unpaid labor at home, which can eat into time available for work and energy for career advancement.\nA) 无中生有：The insufficient motivation women generally have for career advancement 把原因归结为女性自身\"职业发展动力不\nB) 与原文相反：The opportunities numerous women give up for pay raise and promotion 暗示女性\"主动放弃\"涨薪机会，但原文 mo\nC) ✓ 正确：women take on more of the unpaid labor at home ↔ taking care of the family eat into time a\nD) 与原文相反：The lack of policy support from government and business corporations 把原因归为\"缺乏政策支持\"，但原文恰恰相反"
+            },
+            {
+              "number": 54,
+              "stem": "What does the new study say about wage parity?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It would have stalled if those controllable problems had not been addressed."
+                },
+                {
+                  "key": "B",
+                  "text": "It would have halted if company and government had not worked together."
+                },
+                {
+                  "key": "C",
+                  "text": "It would have been achieved with the complete erasure of gender biases."
+                },
+                {
+                  "key": "D",
+                  "text": "It would have been attained with the continuation of the 1980s trend."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】The study doesn't go into that question, other than to say that if the 1980s trend continued, we would have been at parity by now.\nA) 与原文相反：It would have stalled if those controllable problems had not been addressed 借用 once those \nB) 无中生有：It would have halted if company and government had not worked together 把\"公司和政府合作\"作为条件，但原文从\nC) 过度推断：It would have been achieved with the complete erasure of gender biases 借用 through the eras\nD) ✓ 正确：if the 1980s trend continued ↔ with the continuation of the 1980s trend we would have been"
+            },
+            {
+              "number": 55,
+              "stem": "What prevents women from achieving parity with men in the final analysis?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ignoring biases against women in the workplace."
+                },
+                {
+                  "key": "B",
+                  "text": "Giving birth to children and taking care of them."
+                },
+                {
+                  "key": "C",
+                  "text": "Failing to mandate breaks for childbirth and care."
+                },
+                {
+                  "key": "D",
+                  "text": "Lacking resources to address biological problems."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】If women's gains in the 1980s were made through the erasure of things like bias, once those less uncontrollable problems had been addressed, there would still have been an issue with women—who are the ones to bear children and take care of them in the early weeks because of biological factors like the ability to breastfeed, forcing them to take breaks, whether or not those breaks were mandated.\nA) 与原文相反：Ignoring biases against women in the workplace 把原因归为\"忽视偏见\"，但原文 through the erasure of thin\nB) ✓ 正确：who are the ones to bear children and take care of them in the early weeks ↔ Giving birth \nC) 与原文相反：Failing to mandate breaks for childbirth and care 把\"不强制规定休假\"作为最终原因，但原文 whether or not thos\nD) 无中生有：Lacking resources to address biological problems 借用 biological factors like the ability to"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n粤港澳大湾区(Guangdong-Hong Kong-Macao Greater Bay Area)具有得天独厚的地理位置,拥有完善的交通基础设施和丰富的产业资源。大湾区是中国开放程度最高、经济活力最强的区域之一,在国家经济发展中具有重要的战略地位。大湾区不仅将建成充满活力的世界级城市群和具有全球影响力的国际科技创新中心,还将打造成适合工作、购物、旅游的优质生活圈。随着改革开放的不断深入,大湾区的建设将进一步推动区域经济发展。到2035年,大湾区将实现成为国际一流湾区的目标。",
+              "analysis": "【参考译文】\nThe Guangdong-Hong Kong-Macao Greater Bay Area boasts a favorable geographical location, well-developed transport infrastructure and abundant industrial resources. As one of the most open and economically dynamic regions in China, the Greater Bay Area holds an important strategic position in the country's economic development. It will not only be built into a dynamic world-class city cluster and an international center for sci-tech innovation with global influence, but also be turned into a quality living circle suitable for working, shopping and traveling. With the deepening of the reform and opening-up, the construction of the Greater Bay Area will further promote regional economic development. By 2035, the Greater Bay Area will achieve its goal of becoming a world-class bay area."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-2/",
+    "fetchedAt": "2026-11-15",
+    "passages": 7,
+    "sentences": 41
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2025-06-2/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

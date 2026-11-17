@@ -33,15 +33,17 @@ export default async function LoginPage({
             别再来回翻页了。
           </h1>
           <p className="mt-5 max-w-[42ch] text-[13.5px] leading-[1.9] text-ink-soft">
-            左边文章独立滚动，右边题目独立滚动，两边互不影响。
-            点单词即查、查过自动进生词本，每题都能问 AI 和写自己的笔记。
+            六十六套四六级真题，左边文章、右边题目，各滚各的。点单词即查，查过的自动进生词本，
+            按记忆曲线回来找你。读累了换背单词，写累了去做一次中译英——不逼你按顺序来。
           </p>
         </div>
 
-        <div className="flex items-center gap-4 text-[11.5px] text-ink-mute">
+        <div className="flex flex-wrap items-center gap-4 text-[11.5px] text-ink-mute">
           <span>两栏独立滚动</span>
           <span className="h-3 w-px bg-line" />
           <span>生词自动复习</span>
+          <span className="h-3 w-px bg-line" />
+          <span>词书自建</span>
           <span className="h-3 w-px bg-line" />
           <span>私密笔记</span>
         </div>

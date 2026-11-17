@@ -20,7 +20,11 @@ datasource db {
 model User {
   id        String   @id @default(cuid())
   email     String   @unique
+  /// 绑定手机号。与邮箱指向同一个账号：手机号登录、邮箱登录都落到这一行
+  phone     String?  @unique
   password  String
+  /// 是否设置过密码。验证码账号最初没有密码，进「我的」可以直接设一个
+  passwordSet Boolean @default(true)
   name      String?
   avatar    String?
   createdAt DateTime @default(now())
@@ -31,82 +35,96 @@ model User {
   answers   Answer[]
   stats     UserStats[]
   checkins  Checkin[]
+  creations Creation[]
+  vocabLogs VocabReview[]
+  signIns   SignIn[]
+  books     WordBook[]
 }
 
 model Paper {
-  id       String    @id @default(cuid())
-  title    String
-  level    String // CET4 | CET6
-  year     Int?
-  month    Int?
+  id        String    @id @default(cuid())
+  title     String
+  level     String // CET4 | CET6
+  year      Int?
+  month     Int?
+  /// 同场考试的第几套（1/2/3）
+  setNo     Int?
+  /// 内容来源：official = 可核实的官方原题；simulated = 本应用按官方结构编写的仿真材料
+  origin    String    @default("simulated")
+  /// ready = 正文齐备可练；draft = 结构已建、正文待补
+  status    String    @default("ready")
+  /// 隐藏：早期 seed 的示例卷不再出现在试卷列表与闯关抽取里，但数据保留（作答记录不受影响）
+  hidden    Boolean   @default(false)
   totalTime Int? // 整套考试时长（分钟），考试模式用；PRD 定义 CET4=125 / CET6=130
-  sort     Int       @default(0)
-  passages Passage[]
-  sections Section[]
+  sort      Int       @default(0)
+  passages  Passage[]
+  sections  Section[]
 }
 
 // v2.0 新增：试卷内的一个 Section（写作/听力/阅读/翻译）。
 // Passage 通过 sectionId 可选关联到 Section，老数据走 paperId，新数据走 sectionId。
 model Section {
-  id        String   @id @default(cuid())
+  id        String    @id @default(cuid())
   paperId   String
-  paper     Paper    @relation(fields: [paperId], references: [id], onDelete: Cascade)
+  paper     Paper     @relation(fields: [paperId], references: [id], onDelete: Cascade)
   order     Int
   type      String // writing | listening | reading | translation
   title     String // 如 "Section A 短篇新闻"
-  timeLimit Int?    // 该部分限时（分钟），考试模式用
+  /// 该部分的口径说明：真题原文出自哪里、是否与其他套共用、仿真稿等（页面上原样展示）
+  note      String?
+  timeLimit Int? // 该部分限时（分钟），考试模式用
   passages  Passage[]
 
   @@index([paperId, order])
 }
 
 model Passage {
-  id         String     @id @default(cuid())
-  paperId    String
-  paper      Paper      @relation(fields: [paperId], references: [id], onDelete: Cascade)
+  id            String     @id @default(cuid())
+  paperId       String
+  paper         Paper      @relation(fields: [paperId], references: [id], onDelete: Cascade)
   // v2.0 可选：走 Section 层级时填，老数据留空
-  sectionId  String?
-  section    Section?   @relation(fields: [sectionId], references: [id], onDelete: Cascade)
-  order      Int
-  title      String?
+  sectionId     String?
+  section       Section?   @relation(fields: [sectionId], references: [id], onDelete: Cascade)
+  order         Int
+  title         String?
   /// [{ label: "A", text: "..." }] 序列化后的 JSON 文本
-  paragraphs String
+  paragraphs    String
   // v2.0 听力用：音频地址、时长、逐句原文
-  audioUrl     String?
+  audioUrl      String?
   audioDuration Int?
   /// [{ id:1, start:0.0, end:4.2, text:"..." }] 序列化 JSON
-  transcript String?
-  questions  Question[]
+  transcript    String?
+  questions     Question[]
 
   @@index([paperId, order])
   @@index([sectionId])
 }
 
 model Question {
-  id             String   @id @default(cuid())
-  passageId      String
-  passage        Passage  @relation(fields: [passageId], references: [id], onDelete: Cascade)
-  order          Int
-  number         Int      @default(0) // 卷面题号，如 41
-  stem           String
+  id                String           @id @default(cuid())
+  passageId         String
+  passage           Passage          @relation(fields: [passageId], references: [id], onDelete: Cascade)
+  order             Int
+  number            Int              @default(0) // 卷面题号，如 41
+  stem              String
   /// [{ key: "A", text: "..." }]
-  options        String
-  answer         String
-  analysis       String
+  options           String
+  answer            String
+  analysis          String
   /// { A: "为什么错", B: "..." }
-  optionAnalysis String?
-  evidencePara   String? // 依据段落 label，如 "C"
-  evidenceText   String? // 依据原句，前端做高亮定位
-  type           String? // 细节题 | 主旨题 | 推断题 | 词义题 | 态度题
+  optionAnalysis    String?
+  evidencePara      String? // 依据段落 label，如 "C"
+  evidenceText      String? // 依据原句，前端做高亮定位
+  type              String? // 细节题 | 主旨题 | 推断题 | 词义题 | 态度题
   // v2.0 听力/阅读通用：答案出自原文第几句，序列化 JSON [7, 8]
   evidenceSentences String?
   // v2.0 答案颜色标注用
-  correctColor   String   @default("#22c55e")
-  wrongColor     String   @default("#ef4444")
-  comments       Comment[]
-  favorites      Favorite[]
-  answers        Answer[]
-  experiencePacks ExperiencePack[]
+  correctColor      String           @default("#22c55e")
+  wrongColor        String           @default("#ef4444")
+  comments          Comment[]
+  favorites         Favorite[]
+  answers           Answer[]
+  experiencePacks   ExperiencePack[]
 
   @@index([passageId, order])
 }
@@ -163,8 +181,80 @@ model VocabWord {
   createdAt       DateTime @default(now())
   updatedAt       DateTime @updatedAt
 
+  // ---- v2.1 记忆曲线与优先级 ----
+  // 全部可空或带默认值：线上已有用户的生词数据在 db push 时原样保留。
+  /// 下次该复习的时间；null 视为立即到期（老数据就是 null，会自动进入首次队列）
+  dueAt        DateTime?
+  /// SM-2 的难度因子，答错下调、答对上调
+  ease         Float     @default(2.5)
+  /// 当前间隔（天），0 表示还没进入间隔序列
+  intervalDays Int       @default(0)
+  /// 累计答错次数，用于优先级里的薄弱度
+  lapses       Int       @default(0)
+  /// 0-100 优先级快照，列表排序用（真正排序时按算法实时算）
+  priority     Float     @default(50)
+  /// "cet4,cet6" —— 考纲标签，来自离线词库
+  examTags     String?
+  /// COCA/BNC 综合词频排名，来自词书数据；null 表示不在词书内
+  examRank     Int?
+  /// lookup（刷题点词）| wordbook（词书导入）| import（外部导入）
+  source       String    @default("lookup")
+  wordbookId   String?
+
   @@unique([userId, word])
   @@index([userId, status])
+  @@index([userId, status, dueAt])
+}
+
+/// 用户自己的词书。
+///
+/// 为什么要单独一张表，而不是继续用 VocabWord.wordbookId：
+///   - 内置四六级词书是「只读的题库」，用户不该往里面塞词；
+///   - 用户想自己分本（考研核心 / 阅读生词 / 某个单元的听写），
+///     这些本子要有名字、能改能删，还得能同时存在多个；
+///   - 一个词可以同时在几个本子里，WordBookItem 是「书 ↔ 词」的关系，
+///     不能用单词表上的单个字段表达。
+///
+/// 内置词书和「阅读生词」不落这张表：
+///   - 内置词书来自 data/wordbooks.json，虚拟成 exam:cet4 / exam:cet6；
+///   - 阅读生词就是 VocabWord 里 source=lookup 的那些，虚拟成 reading。
+/// 只有用户自己建的本子才写库，避免复制几千行数据。
+model WordBook {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name      String
+  /// 默认词书：加词时默认选中的那本，每个用户最多一本
+  isDefault Boolean  @default(false)
+  note      String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  items WordBookItem[]
+
+  @@unique([userId, name])
+  @@index([userId])
+}
+
+/// 词书里的一条词。
+///
+/// 词形、音标、释义在这里存一份快照：背单词不该依赖「这个词还在不在生词本」，
+/// 用户删了生词本里的词，词书里的这一条要照样能背。
+model WordBookItem {
+  id          String   @id @default(cuid())
+  bookId      String
+  book        WordBook @relation(fields: [bookId], references: [id], onDelete: Cascade)
+  userId      String
+  word        String
+  phonetic    String?
+  /// [{ pos: "n.", zh: "..." }]，与 VocabWord 同构
+  definitions String   @default("[]")
+  /// COCA/BNC 排名，来自内置词书；自建词书里手工加的词为 null
+  rank        Int?
+  createdAt   DateTime @default(now())
+
+  @@unique([bookId, word])
+  @@index([userId, word])
 }
 
 model Favorite {
@@ -177,6 +267,30 @@ model Favorite {
 
   @@unique([userId, questionId])
   @@index([userId])
+}
+
+/// v2.4 单词学习分析：每次复习追加一条流水。
+///
+/// 为什么必须单独建表：VocabWord 上只留了「当前快照」（reviewCount / streak / interval），
+/// 拿它算不出「这周复习量趋势」「按间隔分组的正确率」这类时间序列。
+/// 纯新增表，db push 不动老数据；历史复习没有流水，趋势图会显示「从今天开始记录」。
+model VocabReview {
+  id        String    @id @default(cuid())
+  userId    String
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  wordId    String
+  /// again | hard | good | easy
+  grade     String
+  isCorrect Boolean
+  /// 本次判定后进入的间隔（天），画记忆曲线用
+  intervalDays Int    @default(0)
+  /// 判定后的复习次数，用来分组看「第几次复习的正确率」
+  reviewCount  Int    @default(0)
+  createdAt DateTime  @default(now())
+
+  @@index([userId, createdAt])
+  @@index([wordId])
+  @@index([userId, isCorrect])
 }
 
 /// 词典结果缓存：同一单词只查一次，之后走本地库
@@ -214,31 +328,75 @@ model UserStats {
 
 // v2.0 打卡：当天做题 ≥5 道才算打卡，防刷分
 model Checkin {
-  id        String   @id @default(cuid())
-  userId    String
-  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  id            String   @id @default(cuid())
+  userId        String
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
   /// SQLite 不支持 @db.Date，这里用 DateTime 存当天 00:00
-  date      DateTime
-  level     String
-  questionCount Int  @default(0)
+  date          DateTime
+  level         String
+  questionCount Int      @default(0)
 
   @@unique([userId, date, level])
   @@index([userId, date])
 }
 
+/**
+ * v2.7 每日签到（弹窗打卡）。
+ *
+ * 与上面的 Checkin 分开存：Checkin 是「当天做题 ≥5 道」的自动统计，
+ * 用于排行榜与打卡日历；SignIn 是用户主动按下的那一次签到，
+ * 只服务于「进站弹窗 + 连续天数 + 每日彩蛋」。
+ * 两者互不写对方的数据，避免把排行榜口径搅乱。
+ */
+model SignIn {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  /// 本地日期 YYYY-MM-DD；唯一约束保证一天只签一次
+  day       String
+  /// 当天彩蛋编号，用于同一天重复打开时展示同一句
+  egg       Int      @default(0)
+  createdAt DateTime @default(now())
+
+  @@unique([userId, day])
+  @@index([userId, day])
+}
+
 // v2.0 AI 经验包：每题生成一次缓存，讨论数变化时标记刷新
 model ExperiencePack {
-  id              String   @id @default(cuid())
-  questionId      String
-  question        Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
-  pitfall         String
-  correctApproach String
+  id                  String   @id @default(cuid())
+  questionId          String
+  question            Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  pitfall             String
+  correctApproach     String
   /// ["错误原因1", ...] 序列化 JSON
-  commonMistakes  String
+  commonMistakes      String
   /// ["生词1", ...] 序列化 JSON
-  keyVocab        String
-  basedOnCommentCount Int  @default(0)
-  generatedAt     DateTime @default(now())
+  keyVocab            String
+  basedOnCommentCount Int      @default(0)
+  generatedAt         DateTime @default(now())
 
   @@unique([questionId])
+}
+
+/// v2.3 创作平台：小说英译改编 / 短视频出海。
+/// SQLite 没有 Json 类型（见文件头约定），output / meta 都存序列化文本，
+/// 由 src/lib/creation.ts 负责 parse/stringify，业务层拿到的永远是强类型对象。
+model Creation {
+  id         String   @id @default(cuid())
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  /// novel | video
+  kind       String
+  title      String
+  /// 中文原文（小说片段 / 口播稿）
+  sourceText String
+  /// 生成结果，序列化 JSON
+  output     String
+  /// 生成参数（风格、目标读者、平台、时长…），序列化 JSON
+  meta       String?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([userId, kind, updatedAt])
 }

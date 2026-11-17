@@ -1,14 +1,17 @@
 "use client";
 
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
-import { delJson, postJson } from "@/lib/api-client";
+import useSWR from "swr";
+import { delJson, postJson, swrFetcher } from "@/lib/api-client";
 import { speakText, stopSpeaking } from "@/lib/pronounce";
 import { normalizeForVocab, sentenceAround } from "@/lib/text-segments";
+import type { BookSummary } from "@/lib/books";
 import type { WordEntry } from "@/lib/types";
 import { usePracticeStore } from "@/stores/practice";
 import type { WordClickPayload } from "./article-pane";
 
 type LookupResponse = { found: boolean; entry: WordEntry | null; hint: string | null };
+type BookList = { books: BookSummary[] };
 
 type Props = {
   payload: WordClickPayload;
@@ -36,6 +39,18 @@ export function WordCard({ payload, passageId, onClose }: Props) {
   /** 加入/取消失败时的醒目提示：以前只写进 hint，被释义区盖住，用户以为「点了没反应」 */
   const [error, setError] = useState<string | null>(null);
   const [pos, setPos] = useState<{ left: number; top: number } | null>(null);
+
+  /* 词书落点：默认收起，点了「存到词书」才去取书架 */
+  const [chooser, setChooser] = useState(false);
+  const [newBookName, setNewBookName] = useState("");
+  const [bookBusy, setBookBusy] = useState("");
+  const [savedBook, setSavedBook] = useState<{ id: string; name: string } | null>(null);
+  const { data: bookData, isLoading: booksLoading } = useSWR<BookList>(
+    chooser ? "/api/books" : null,
+    swrFetcher,
+    { revalidateOnFocus: false },
+  );
+  const myBooks = (bookData?.books ?? []).filter((book) => book.kind === "custom");
 
   const context = useMemo(
     () => sentenceAround(payload.paragraphText, payload.word, payload.charOffset),
@@ -102,7 +117,8 @@ export function WordCard({ payload, passageId, onClose }: Props) {
 
   useLayoutEffect(() => {
     reposition();
-  }, [reposition, loading, entry, hint]);
+    // 词书面板展开会改变卡片高度，得重新算一次边界，否则靠底部时会被切掉
+  }, [reposition, loading, entry, hint, chooser, savedBook, booksLoading]);
 
   useEffect(() => {
     window.addEventListener("resize", reposition);
@@ -196,6 +212,44 @@ export function WordCard({ payload, passageId, onClose }: Props) {
       );
     } finally {
       setSaving(false);
+    }
+  };
+
+  /* ---------- 存到词书 ---------- */
+  // 和生词本是两条路：生词本走记忆曲线，词书是「我今天要背这一叠」。
+  // 所以点「存到词书」会先问一句存哪本，而不是偷偷丢进默认书里。
+  const saveToBook = async (bookId: string, bookName: string, busyKey?: string) => {
+    if (saving || bookBusy) return;
+    setBookBusy(busyKey ?? bookId);
+    setError(null);
+    try {
+      await postJson(`/api/books/${encodeURIComponent(bookId)}/words`, { word: normalized });
+      setSavedBook({ id: bookId, name: bookName });
+      setChooser(false);
+    } catch (err) {
+      setError(
+        err instanceof Error && err.message ? `存到词书失败：${err.message}` : "存到词书失败，请重试",
+      );
+    } finally {
+      setBookBusy("");
+    }
+  };
+
+  const createBookAndSave = async () => {
+    const name = newBookName.trim();
+    if (!name || saving || bookBusy) return;
+    setBookBusy("__new");
+    setError(null);
+    try {
+      const res = await postJson<{ book: { id: string; name: string } }>("/api/books", { name });
+      await postJson(`/api/books/${encodeURIComponent(res.book.id)}/words`, { word: normalized });
+      setSavedBook({ id: res.book.id, name: res.book.name });
+      setNewBookName("");
+      setChooser(false);
+    } catch (err) {
+      setError(err instanceof Error && err.message ? err.message : "新建词书失败，请重试");
+    } finally {
+      setBookBusy("");
     }
   };
 
@@ -332,6 +386,98 @@ export function WordCard({ payload, passageId, onClose }: Props) {
               : entry && entry.definitions.length > 0
                 ? "＋ 加入生词本"
                 : "＋ 先收藏，稍后补释义"}
+          </button>
+        )}
+
+        {/* 词书：加词前先问落点。默认收成一行小字，别把词卡撑长 */}
+        {chooser ? (
+          <div className="mt-2 rounded-[8px] border border-line bg-paper-deep/50 p-2">
+            <div className="flex items-baseline justify-between px-1">
+              <p className="text-[11px] tracking-wide text-ink-mute">存到哪本词书</p>
+              <button
+                type="button"
+                onClick={() => setChooser(false)}
+                className="text-[11px] text-ink-mute hover:text-ink"
+              >
+                收起
+              </button>
+            </div>
+
+            {booksLoading && <p className="px-1 py-2 text-[11.5px] text-ink-mute">正在取词书…</p>}
+
+            {!booksLoading && myBooks.length > 0 && (
+              <ul className="mt-1 max-h-[7.5rem] space-y-1 overflow-y-auto">
+                {myBooks.map((book) => (
+                  <li key={book.id}>
+                    <button
+                      type="button"
+                      onClick={() => void saveToBook(book.id, book.name)}
+                      disabled={Boolean(bookBusy) || saving}
+                      className="flex w-full items-center gap-2 rounded-[6px] border border-line bg-surface px-2.5 py-2 text-left text-[12px] text-ink transition-colors hover:border-accent disabled:opacity-45"
+                    >
+                      <span className="min-w-0 flex-1 truncate">{book.name}</span>
+                      {book.isDefault && (
+                        <span className="shrink-0 rounded-full bg-ink px-1.5 py-[1px] text-[9.5px] text-paper">
+                          默认
+                        </span>
+                      )}
+                      <span className="shrink-0 font-mono text-[10px] text-ink-mute">
+                        {book.count} 词
+                      </span>
+                      <span className="shrink-0 text-[12px] text-ink-mute">
+                        {bookBusy === book.id ? "…" : "›"}
+                      </span>
+                    </button>
+                  </li>
+                ))}
+              </ul>
+            )}
+
+            {!booksLoading && myBooks.length === 0 && (
+              <p className="mt-1 px-1 text-[11px] leading-relaxed text-ink-mute">
+                还没有自己的词书，下面起个名字就有了。
+              </p>
+            )}
+
+            <div className="mt-1.5 flex gap-1.5">
+              <input
+                value={newBookName}
+                onChange={(event) => setNewBookName(event.target.value)}
+                onKeyDown={(event) => {
+                  if (event.key === "Enter") void createBookAndSave();
+                }}
+                maxLength={24}
+                placeholder="新建一本，如「第三单元」"
+                className="min-w-0 flex-1 rounded-[5px] border border-line bg-surface px-2 py-1 text-[11.5px] text-ink outline-none focus:border-accent"
+              />
+              <button
+                type="button"
+                onClick={() => void createBookAndSave()}
+                disabled={!newBookName.trim() || Boolean(bookBusy) || saving}
+                className="shrink-0 rounded-[5px] bg-ink px-2 py-1 text-[11.5px] text-paper disabled:opacity-35"
+              >
+                {bookBusy === "__new" ? "…" : "建并存入"}
+              </button>
+            </div>
+          </div>
+        ) : savedBook ? (
+          <div className="mt-2 flex items-center justify-between">
+            <span className="truncate text-[12px] text-correct">✓ 已存到《{savedBook.name}》</span>
+            <button
+              type="button"
+              onClick={() => setChooser(true)}
+              className="shrink-0 text-[11.5px] text-ink-mute hover:text-ink"
+            >
+              换一本
+            </button>
+          </div>
+        ) : (
+          <button
+            type="button"
+            onClick={() => setChooser(true)}
+            className="mt-2 w-full rounded-[6px] border border-line py-1.5 text-[12px] text-ink-soft transition-colors hover:border-accent hover:text-accent"
+          >
+            存到词书…
           </button>
         )}
       </div>

@@ -4,6 +4,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { postJson } from "@/lib/api-client";
 import { canPronounce, speakText, stopSpeaking } from "@/lib/pronounce";
 import type { VocabItem } from "@/lib/types";
+import { WordStoryPlayer } from "./word-story-player";
 
 type Props = {
   words: VocabItem[];
@@ -12,6 +13,7 @@ type Props = {
 
 type Mode = "both" | "en" | "zh";
 type PlayState = "idle" | "playing" | "paused";
+type Panel = "words" | "story";
 
 const PAUSE_OPTIONS = [3, 5, 8, 12] as const;
 const RATE_OPTIONS = [0.5, 0.75, 1, 1.25, 1.5] as const;
@@ -24,11 +26,58 @@ const RATE_OPTIONS = [0.5, 0.75, 1, 1.25, 1.5] as const;
  * - 语速 0.5-1.5x 可调
  * - 回忆停顿 3/5/8/12 秒可调（读完释义后等多久再切下一个）
  * - 暂停/继续/上一个/下一个/进度条
- * - visibilitychange 时自动暂停
  * - 两种发声方式都不可用时显示降级提示
  * - 底部"这个我认识"按钮计入 reviewCount
+ *
+ * 熄屏续听：不再在 visibilitychange 时自动暂停（那正是锁屏就断的原因）；
+ * 「故事串联」面板走整篇 MP3，锁屏后系统媒体通道继续放。
  */
 export function AudioPlayer({ words, onExit }: Props) {
+  const [panel, setPanel] = useState<Panel>("words");
+
+  if (panel === "story") {
+    return (
+      <div>
+        <PanelTabs panel={panel} onChange={setPanel} />
+        <WordStoryPlayer words={words} onExit={onExit} />
+      </div>
+    );
+  }
+  return (
+    <div>
+      <PanelTabs panel={panel} onChange={setPanel} />
+      <WordLoopPlayer words={words} onExit={onExit} />
+    </div>
+  );
+}
+
+function PanelTabs({ panel, onChange }: { panel: Panel; onChange: (p: Panel) => void }) {
+  return (
+    <div className="mx-auto flex max-w-[720px] items-center gap-1 px-5 pt-4">
+      {(
+        [
+          { key: "words" as const, label: "🎧 单词连播" },
+          { key: "story" as const, label: "📖 故事串联" },
+        ]
+      ).map((tab) => (
+        <button
+          key={tab.key}
+          type="button"
+          onClick={() => onChange(tab.key)}
+          className={`rounded-full px-3.5 py-1.5 text-[12.5px] transition-colors ${
+            panel === tab.key
+              ? "bg-ink text-paper"
+              : "text-ink-mute hover:bg-paper-deep"
+          }`}
+        >
+          {tab.label}
+        </button>
+      ))}
+    </div>
+  );
+}
+
+function WordLoopPlayer({ words, onExit }: { words: VocabItem[]; onExit: () => void }) {
   // 乐观按「可用」渲染，挂载后再按真实能力校正，避免 SSR 与客户端首屏不一致
   const [supported, setSupported] = useState(true);
   useEffect(() => {
@@ -47,10 +96,22 @@ export function AudioPlayer({ words, onExit }: Props) {
   stateRef.current = { mode, rate, pauseSec, playState, index, wordsLen: words.length };
 
   const pauseTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  /** 朗读代次：切词/暂停时 +1，让上一次还没走完的异步朗读链作废，避免新旧两段声音叠在一起 */
+  const speakSeqRef = useRef(0);
   const currentWord = words[index];
 
+  /** 打断当前朗读（手动切词/暂停/「这个我认识」共用），并让进行中的朗读链失效 */
+  const cancelSpeak = useCallback(() => {
+    speakSeqRef.current += 1;
+    stopSpeaking();
+    if (pauseTimerRef.current) {
+      clearTimeout(pauseTimerRef.current);
+      pauseTimerRef.current = null;
+    }
+  }, []);
+
   /* ---------- 核心：朗读一个词的英文 + 中文，读完再驱动下一步 ---------- */
-  const playOne = useCallback((word: VocabItem | undefined, onComplete: () => void) => {
+  const playOne = useCallback((word: VocabItem | undefined, onComplete: () => void, seq: number) => {
     if (!word) {
       onComplete();
       return;
@@ -58,19 +119,22 @@ export function AudioPlayer({ words, onExit }: Props) {
     stopSpeaking();
 
     const { mode: m, rate: r } = stateRef.current;
-    const zhText = word.definitions.map((d) => `${d.pos} ${d.zh}`).join("；") || "";
+    // 中文只读纯释义，不读「n. / vt.」这类词性缩写，否则语音里会蹦出英文缩写
+    const zhText = word.definitions.map((d) => d.zh).filter(Boolean).join("；") || "";
+
+    // 每一步前后都检查：不是当前代次、或已暂停，就立刻停手
+    const active = () => speakSeqRef.current === seq && stateRef.current.playState === "playing";
 
     void (async () => {
-      // 每一步前后都检查播放状态：中途暂停/切词时不再继续念
       if (m !== "zh") {
-        if (stateRef.current.playState !== "playing") return;
+        if (!active()) return;
         await speakText(word.word, "en", r);
       }
       if (m !== "en" && zhText) {
-        if (stateRef.current.playState !== "playing") return;
+        if (!active()) return;
         await speakText(zhText, "zh", r * 0.95);
       }
-      if (stateRef.current.playState !== "playing") return;
+      if (!active()) return;
       onComplete();
     })();
   }, []);
@@ -80,20 +144,25 @@ export function AudioPlayer({ words, onExit }: Props) {
     if (stateRef.current.playState !== "playing") return;
     const word = words[stateRef.current.index];
     if (!word) return;
+    const seq = ++speakSeqRef.current;
 
-    playOne(word, () => {
-      // 朗读完成，等回忆停顿后切下一个
-      if (stateRef.current.playState !== "playing") return;
-      pauseTimerRef.current = setTimeout(() => {
-        if (stateRef.current.playState !== "playing") return;
-        if (stateRef.current.index < stateRef.current.wordsLen - 1) {
-          setIndex((prev) => prev + 1);
-        } else {
-          // 播完了
-          setPlayState("idle");
-        }
-      }, stateRef.current.pauseSec * 1000);
-    });
+    playOne(
+      word,
+      () => {
+        // 朗读完成，等回忆停顿后切下一个（代次变了就作废，防陈旧定时器串台）
+        if (speakSeqRef.current !== seq || stateRef.current.playState !== "playing") return;
+        pauseTimerRef.current = setTimeout(() => {
+          if (speakSeqRef.current !== seq || stateRef.current.playState !== "playing") return;
+          if (stateRef.current.index < stateRef.current.wordsLen - 1) {
+            setIndex((prev) => prev + 1);
+          } else {
+            // 播完了
+            setPlayState("idle");
+          }
+        }, stateRef.current.pauseSec * 1000);
+      },
+      seq,
+    );
   }, [words, playOne]);
 
   /* ---------- index 变化时自动朗读 ---------- */
@@ -114,8 +183,7 @@ export function AudioPlayer({ words, onExit }: Props) {
   const togglePause = () => {
     if (playState === "playing") {
       setPlayState("paused");
-      stopSpeaking();
-      if (pauseTimerRef.current) clearTimeout(pauseTimerRef.current);
+      cancelSpeak();
     } else if (playState === "paused") {
       setPlayState("playing");
       setTimeout(() => playCurrent(), 50);
@@ -123,8 +191,7 @@ export function AudioPlayer({ words, onExit }: Props) {
   };
 
   const goPrev = () => {
-    stopSpeaking();
-    if (pauseTimerRef.current) clearTimeout(pauseTimerRef.current);
+    cancelSpeak();
     setIndex((prev) => Math.max(0, prev - 1));
     if (playState === "playing") {
       // 延迟一点让 index 更新后再播
@@ -133,45 +200,37 @@ export function AudioPlayer({ words, onExit }: Props) {
   };
 
   const goNext = () => {
-    stopSpeaking();
-    if (pauseTimerRef.current) clearTimeout(pauseTimerRef.current);
+    cancelSpeak();
     setIndex((prev) => Math.min(words.length - 1, prev + 1));
     if (playState === "playing") {
       setTimeout(() => playCurrent(), 100);
     }
   };
 
-  /* ---------- visibilitychange 暂停 ---------- */
-  useEffect(() => {
-    const onHide = () => {
-      if (document.hidden && playState === "playing") {
-        setPlayState("paused");
-        stopSpeaking();
-        if (pauseTimerRef.current) clearTimeout(pauseTimerRef.current);
-      }
-    };
-    document.addEventListener("visibilitychange", onHide);
-    return () => document.removeEventListener("visibilitychange", onHide);
-  }, [playState]);
-
   /* ---------- 清理 ---------- */
   useEffect(() => {
     return () => {
-      stopSpeaking();
-      if (pauseTimerRef.current) clearTimeout(pauseTimerRef.current);
+      cancelSpeak();
     };
-  }, []);
+  }, [cancelSpeak]);
 
   /* ---------- "这个我认识" ---------- */
   const markKnown = async () => {
     if (!currentWord) return;
+    // 先打断当前朗读再切下一个：否则「提交认识」的请求回来后，旧朗读链还在走，
+    // 会和下一张卡的新朗读叠成一片（听力很乱）。
+    cancelSpeak();
+    setKnownCount((prev) => prev + 1);
     try {
       await postJson(`/api/vocab/${currentWord.id}/review`, { result: "known" });
-      setKnownCount((prev) => prev + 1);
     } catch {
-      // 静默
+      // 静默：本地计数已经乐观 +1，服务端失败不打断体验
     }
-    goNext();
+    // 提交期间音频已经停住，这里直接前进，不再重复 cancel（幂等）
+    setIndex((prev) => Math.min(words.length - 1, prev + 1));
+    if (playState === "playing") {
+      setTimeout(() => playCurrent(), 100);
+    }
   };
 
   if (!supported) {

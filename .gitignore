@@ -16,6 +16,10 @@
 # next.js
 /.next/
 /out/
+# 本地排障时另开的构建目录（NEXT_DIST_DIR），绝不能随发布上传：
+# 平台按 .gitignore 过滤上传，漏掉这几条会把 Windows 构建产物带进 Linux 沙箱
+/.next-*/
+/build-out/
 
 # production
 /build
@@ -52,6 +56,10 @@ data/ecdict-raw/
 # 截图（验证产物，不进 git）
 /shots/
 verify-out.txt
+
+# 真题抓取缓存与写盘前备份（本地物料，几十 MB，不进 git）
+/_sources/
+/_backup/
 
 # npm pack 产物
 *.tgz

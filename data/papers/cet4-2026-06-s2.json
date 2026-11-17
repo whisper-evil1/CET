@@ -1,0 +1,2794 @@
+{
+  "id": "cet4-2026-06-s2",
+  "level": "CET4",
+  "year": 2026,
+  "month": 6,
+  "setNo": 2,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose your university newspaper is inviting submissions from the students for its coming edition on future applications of robots on campus. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but not more than 180 words.",
+              "analysis": "【参考范文】\nRobots are no longer figures from science fiction; in the near future, they are likely to become common helpers on university campuses. As the university newspaper invites students to imagine future applications of robots on campus, I believe intelligent machines will mainly reshape our campus life in three areas: library services, laboratory assistance, and daily guidance.\n\nFirst, in the library, robots could locate, fetch, and even deliver requested books to reading rooms, saving students valuable study time. Second, in science labs, robotic assistants might handle repetitive experiments or dangerous chemicals, allowing students to focus on analysis and innovation. Third, robots placed around the campus could provide real-time directions and campus information for visitors and freshmen, reducing confusion during busy periods.\n\nOf course, these technologies should serve people rather than replace human interaction. If universities introduce robots wisely, campus life will become more efficient, safe, and welcoming."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "听力为历年真题原文，题目与答案为官方标准答案；在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 6.9,
+              "text": "1 A 104-year-old woman is selling the house she has lived in since she was two years old."
+            },
+            {
+              "id": 2,
+              "start": 7.3,
+              "end": 18,
+              "text": "Nancy Gifford was born months after the end of the First World War, and spent 102 years living in her three-bedroom house in the Somerset Village of Street."
+            },
+            {
+              "id": 3,
+              "start": 18.4,
+              "end": 30.7,
+              "text": "She is now putting it on the market, having lived in it through the Second World War and the invention of television. 2 Her family bought the house for £200 in 1921."
+            },
+            {
+              "id": 4,
+              "start": 31.1,
+              "end": 34.1,
+              "text": "And it is now priced at some £170,000."
+            },
+            {
+              "id": 5,
+              "start": 34.5,
+              "end": 40.6,
+              "text": "According to the Bank of England's inflation calculator, £200 in 1921 would be worth £7,750 today."
+            },
+            {
+              "id": 6,
+              "start": 41,
+              "end": 48.6,
+              "text": "According to the estate agent, the house was built in 1882 and originally featured a well for the entire road."
+            },
+            {
+              "id": 7,
+              "start": 49,
+              "end": 55.5,
+              "text": "Except for some changes in the toilet and wash area, much of the house remains the same."
+            },
+            {
+              "id": 8,
+              "start": 55.9,
+              "end": 62.8,
+              "text": "Gifford is selling the house and moving to a nursing home in nearby Glastonbury because of her health."
+            }
+          ],
+          "audioDuration": 62.8,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What does the news report say about Nancy Gifford?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She was born months after the end of World War I."
+                },
+                {
+                  "key": "B",
+                  "text": "She has been living in her house throughout her life."
+                },
+                {
+                  "key": "C",
+                  "text": "She suffered a great deal during the Second World War."
+                },
+                {
+                  "key": "D",
+                  "text": "She is a 102-year-old woman living in Somerset Village."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：Nancy Gifford was born months after the end of the First World War, and spent 102 years living in her three-bedroom house in the Somerset Village of Street.信号：首段人物定义句 。新闻首段在抛出事件（104岁老妇卖房）后，用 Nancy Gifford was born months after the end of the First World War 给出人物关键身份信…",
+              "optionAnalysis": {
+                "B": "原词陷阱：原文说 the house she has lived in since she was two years old，并非一生都在此居住；She has been living in her house throughout her life. 把起点从两岁偷换为'一生'。 借用原文：having lived in it through the Second World War",
+                "C": "过度推断：原文仅说 having lived in it through the Second World War，表示她经历了二战，但并未说她 suffered a great deal；She suffered a great deal during the Second World War. 把'经历'强改为'遭受巨大痛苦'。 借用原文：A 104-year-old woman",
+                "D": "偷换概念：原文说 Nancy Gifford 是 A 104-year-old woman，且 spent 102 years living in her three-bedroom house in the Somerset Village of Street；She is a 102-year-old woman living in Somerset Village. 把居住时长误植为年龄，同时把 Somerset Village of Street 简化为 Somerset Village。",
+                "A": "正确项：与答案句同义替换（Nancy Gifford was born months after the end of the First World War ↔ She was born months after the end of World War I. 同义替换：the First World War = World War I）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Nancy Gifford was born months after the end of the First World War, and spent 102 years living in her three-bedroom house in the Somerset Village of Street.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "Why is Mrs. Gifford selling the house?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She has been persuaded by the estate agent."
+                },
+                {
+                  "key": "B",
+                  "text": "She needs the money badly for her health."
+                },
+                {
+                  "key": "C",
+                  "text": "She is leaving Glastonbury Village."
+                },
+                {
+                  "key": "D",
+                  "text": "She is moving to a nursing home."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：Mrs. Gifford is selling the house and moving to a nursing home in nearby Glastonbury because of her health.信号：because of 因果信号 。答案句以 because of her health 结尾，直接回答 Why；卖房与搬去养老院是并列结果，健康才是原因。",
+              "optionAnalysis": {
+                "A": "原词陷阱：原文 According to the estate agent, the house was built in 1882... 只说明中介提供了房屋信息，并未说 Mrs. Gifford 是被中介说服卖房；She has been persuaded by the estate agent. 把'中介存在'曲解为'被中介说服'。 借用原文：because of her health",
+                "B": "偷换概念：原文 because of her health 说明健康是原因，但并未说她 needs the money badly；She needs the money badly for her health. 把'因健康搬家'偷换成'因健康急需钱'。 借用原文：moving to a nursing home in nearby Glastonbury",
+                "C": "与原文相反：原文说 moving to a nursing home in nearby Glastonbury，即她要搬去格拉斯顿伯里；She is leaving Glastonbury Village. 把'搬入附近格拉斯顿伯里'说成'离开格拉斯顿伯里'，方向相反。",
+                "D": "正确项：与答案句同义替换（Mrs. Gifford is selling the house and moving to a nursing home in nearby Glastonbury because of her health ↔ She is moving to a nursing home. 因果同构：卖房是为搬去养老院）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Mrs. Gifford is selling the house and moving to a nursing home in nearby Glastonbury because of her health.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 9.2,
+              "text": "1 The navy rescued a man who survived 24 days floating in the sea on a boat by eating tomato sauce and vegetable powder."
+            },
+            {
+              "id": 2,
+              "start": 9.5,
+              "end": 25.7,
+              "text": "The man, 47, wrote the word \"HELP\" in English on the boat, which was key to his rescue. 2 The man told authorities that his experience began in December when currents swept the sailboat out to sea while he was making repairs."
+            },
+            {
+              "id": 3,
+              "start": 26.1,
+              "end": 29.5,
+              "text": "To survive, the man collected rainwater with a cloth."
+            },
+            {
+              "id": 4,
+              "start": 29.9,
+              "end": 35.2,
+              "text": "He had to constantly remove water from the boat to prevent it from sinking."
+            },
+            {
+              "id": 5,
+              "start": 35.6,
+              "end": 40.9,
+              "text": "He also tried to light a fire to send a distress signal without success."
+            },
+            {
+              "id": 6,
+              "start": 41.3,
+              "end": 45.5,
+              "text": "Finally, a plane passed by and he signaled with a mirror."
+            },
+            {
+              "id": 7,
+              "start": 45.9,
+              "end": 51.6,
+              "text": "He said the navy told him that he was spotted when the plane passed again."
+            },
+            {
+              "id": 8,
+              "start": 52,
+              "end": 58.5,
+              "text": "The sailboat was abandoned at sea when the man was picked up by a nearby merchant ship."
+            },
+            {
+              "id": 9,
+              "start": 58.9,
+              "end": 62.7,
+              "text": "He was found in good health but had lost weight."
+            }
+          ],
+          "audioDuration": 62.7,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What does the news report say was key to the man's rescue?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The navy's timely arrival."
+                },
+                {
+                  "key": "B",
+                  "text": "His rich sailing experience."
+                },
+                {
+                  "key": "C",
+                  "text": "The word HELP written on the boat."
+                },
+                {
+                  "key": "D",
+                  "text": "His use of a mirror to send a signal."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：The man, 47, wrote the word \"HELP\" in English on the boat, which was key to his rescue.信号：非限制性定语从句 'which was key to his rescue' 直接点题 。which was key to his rescue 把前文的 'wrote the word \"HELP\" in Engl…",
+              "optionAnalysis": {
+                "A": "原词陷阱：The navy's timely arrival 中的 navy 确实出现在录音中，但原文只说 The navy rescued a man，海军是执行救援的一方，而非 'key to his rescue' 所指的原因。 借用原文：he signaled with a mirror",
+                "B": "未提及：His rich sailing experience 中的 sailing experience 在整段录音中没有任何对应信息，属于无中生有。",
+                "D": "原词陷阱：His use of a mirror to send a signal 中的 mirror 确实在 he signaled with a mirror 中出现，但这是男子在飞机经过时的求救尝试；原文明确说 key 是 HELP，镜子只是另一条求生手段。",
+                "C": "正确项：与答案句同义替换（wrote the word \"HELP\" in English on the boat ↔ The word HELP written on the boat 动作名词化 + 核心信息保留）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The man, 47, wrote the word \"HELP\" in English on the boat, which was key to his rescue.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What do we learn about the man when he was rescued?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He lost all consciousness."
+                },
+                {
+                  "key": "B",
+                  "text": "He was in good condition."
+                },
+                {
+                  "key": "C",
+                  "text": "He was too distressed to pick himself up."
+                },
+                {
+                  "key": "D",
+                  "text": "He entirely abandoned himself to despair."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：He was found in good health but had lost weight.信号：新闻结尾总结人物状态的收束句 。He was found in good health 中的 was found 是被救后的总结性动词，in good health 直接回应题干 'when he was rescu…",
+              "optionAnalysis": {
+                "A": "偷换概念：He lost all consciousness 中的 lost 可能让考生联想到 had lost weight，但 weight 与 consciousness 是完全不同的概念，属于偷换概念。 借用原文：The sailboat was abandoned at sea",
+                "C": "未提及：He was too distressed to pick himself up 中的 distressed 与 pick himself up 在录音中均未出现，且与 'in good health' 的正面评价相反。",
+                "D": "原词陷阱：He entirely abandoned himself to despair 中的 abandoned 可能让考生联想到 The sailboat was abandoned at sea，但原文主语是 sailboat（船被遗弃），选项却把它改成 He abandoned himself（自暴自弃），且 despair 在录音中从未出现。",
+                "B": "正确项：与答案句同义替换（in good health ↔ He was in good condition 近义形容词替换）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "He was found in good health but had lost weight.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 10.4,
+              "text": "1 The board of Denver public schools is set to close several elementary and middle schools to make up for a decreased budget caused by declining enrollment."
+            },
+            {
+              "id": 2,
+              "start": 10.8,
+              "end": 27.3,
+              "text": "The specific schools will be announced in the coming days, a district spokesperson said. 2 The school board approved criteria to close schools with fewer than 215 students, as well as schools with fewer than 275 students and a projected decline in enrollment."
+            },
+            {
+              "id": 3,
+              "start": 27.7,
+              "end": 35,
+              "text": "In the next three years, the district expects to enroll 3,000 fewer elementary and middle school students, it said."
+            },
+            {
+              "id": 4,
+              "start": 35.4,
+              "end": 46.1,
+              "text": "\"3,000 students may not seem like that many students, but to a budget where you're receiving per-pupil funding, that's about 36 million dollars,\" district spokesperson Scott Pribble said."
+            },
+            {
+              "id": 5,
+              "start": 46.5,
+              "end": 51.1,
+              "text": "\"We know that there are impacts and it's heartbreaking and difficult work."
+            },
+            {
+              "id": 6,
+              "start": 51.5,
+              "end": 59.5,
+              "text": "But in order for the district to stay out of debt, it's a step that needs to be taken,\" he said."
+            },
+            {
+              "id": 7,
+              "start": 59.9,
+              "end": 70.2,
+              "text": "The district said the decreased budget means it cannot provide the same mental health supports, social and emotional services or specialized programming to schools with lower enrollment."
+            }
+          ],
+          "audioDuration": 70.2,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What do we learn about the elementary and middle schools to be closed in Denver?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their efforts to provide social services have been ignored."
+                },
+                {
+                  "key": "B",
+                  "text": "They have been criticized by the Denver school board."
+                },
+                {
+                  "key": "C",
+                  "text": "They have taken various steps to get more funding."
+                },
+                {
+                  "key": "D",
+                  "text": "Their enrollment has been on a noticeable decline."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：The board of Denver public schools is set to close several elementary and middle schools to make up for a decreased budget caused by declining enrollment.信号：因果信号 caused by 。答案句中 caused by declining enrollment 直接给出关闭学校的 causal chain：预算减少 ← 入学下降 ← 学校关闭。",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 A 说‘提供社会服务的努力被忽视’，但录音末句只说 cannot provide the same mental health supports, social and emotional services，是预算不足导致无法提供，并非努力被忽视；social services 这个词录音确实念到了，但语义与选项不符。",
+                "B": "未提及：选项 B 说学校被校董会批评，但录音中校董会是作出关闭决定的主体，并未出现 criticized 的语义，属于无中生有。",
+                "C": "选项 C 说学校采取各种措施争取资金，但录音讲的是‘因预算减少而关校’，没有提到学校主动 steps to get more funding，属于无中生有。",
+                "D": "正确项：与答案句同义替换（declining enrollment ↔ Their enrollment has been on a noticeable decline. 同义替换 declining = on a noticeable decline）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The board of Denver public schools is set to close several elementary and middle schools to make up for a decreased budget caused by declining enrollment.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What does the Denver district expect to do in the next three years?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Approve criteria for closing schools with decreased funding."
+                },
+                {
+                  "key": "B",
+                  "text": "Enroll 3,000 fewer elementary and middle school students."
+                },
+                {
+                  "key": "C",
+                  "text": "Decide which elementary and middle schools to close."
+                },
+                {
+                  "key": "D",
+                  "text": "Alter its per-pupil funding policy on a rational basis."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：In the next three years, the district expects to enroll 3,000 fewer elementary and middle school students, it said.信号：时间信号 + 数字信号 。答案句中 In the next three years 与 expects to enroll 3,000 fewer 形成时间与数字的双重信号，直接对应题干。",
+              "optionAnalysis": {
+                "A": "选项 A 说‘批准关闭标准’，但录音中 The school board approved criteria 用一般过去时，表示已经批准，不是 expect to do 的未来动作。 借用原文：The specific schools will be announced in the coming days",
+                "C": "答非所问：选项 C 说‘决定关闭哪些中小学’，但录音中 The specific schools will be announced in the coming days 指近期宣布，不是 in the next three years 的预期动作；属于答非所问。 借用原文：per-pupil funding",
+                "D": "偷换概念：选项 D 说‘改变 per-pupil funding 政策’，但录音只是用 per-pupil funding 解释预算计算方式，并未说要 alter policy，属于偷换概念。",
+                "B": "正确项：与答案句同义替换（enroll 3,000 fewer elementary and middle school students ↔ Enroll 3,000 fewer elementary and middle school students. 原词复现）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "In the next three years, the district expects to enroll 3,000 fewer elementary and middle school students, it said.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "Why are some schools in Denver to be closed according to the district spokesperson?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To enable the district to remain competitive."
+                },
+                {
+                  "key": "B",
+                  "text": "To avoid a negative impact on its economy."
+                },
+                {
+                  "key": "C",
+                  "text": "To keep the district free of debt."
+                },
+                {
+                  "key": "D",
+                  "text": "To obtain the expected funding."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：\"We know that there are impacts and it's heartbreaking and difficult work. But in order for the district to stay out of debt, it's a step that needs to be taken,\" he said.信号：目的信号 in order for... to stay out of debt 。发言人先用 But 转折，再用 in order for the district to stay out of debt 点明关闭…",
+              "optionAnalysis": {
+                "A": "未提及：选项 A 说‘让学区保持竞争力’，但录音全文未出现 competitive / competition 等词，属于无中生有。",
+                "B": "原词陷阱：选项 B 说‘避免对经济造成负面影响’，但录音中 there are impacts 是承认影响存在，并未说 avoid negative impact on its economy；impact 原词出现，但语义被扭曲。 借用原文：decreased budget",
+                "D": "原词陷阱：选项 D 说‘为了获得预期资金’，但录音讲的是预算减少、按 per-pupil funding 计算缺口，关闭学校是为了 stay out of debt（减少支出/避免负债），而不是 obtain funding（获得资金）；funding 原词出现，但目的被替换。",
+                "C": "正确项：与答案句同义替换（stay out of debt ↔ To keep the district free of debt. 同义替换 stay out of = keep... free of）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "\"We know that there are impacts and it's heartbreaking and difficult work. But in order for the district to stay out of debt, it's a step that needs to be taken,\" he said.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 5.8,
+              "text": "M: Good afternoon, Theatre Bookings International. My name's Philip. How may I help you today?",
+              "zh": "M: 下午好，这里是国际剧院订票中心。我叫菲利普。今天有什么可以帮您的吗？"
+            },
+            {
+              "id": 2,
+              "start": 6.1,
+              "end": 25,
+              "text": "W: Oh, good afternoon. My name's Helen. I've been trying to book tickets for the musical Cats in London on the evening of May the 28th, but I can't get the computer to accept my card payment. I've tried three times, but it just doesn't want to take it.",
+              "zh": "W: 哦，下午好。我叫海伦。我一直想预订5月28日晚上在伦敦观看音乐剧《猫》的票，但电脑就是不接受我的信用卡付款。我已经试了三次，可它就是不肯接受。"
+            },
+            {
+              "id": 3,
+              "start": 25.4,
+              "end": 33.8,
+              "text": "M: That's OK, madam. I can book it and take the payment over the phone if that's not a problem for you.",
+              "zh": "M: 没关系，女士。如果您不介意的话，我可以帮您预订，并通过电话收取票款。"
+            },
+            {
+              "id": 4,
+              "start": 34.1,
+              "end": 49.9,
+              "text": "W: That would be wonderful. I'm not very good with computers. My husband usually does all of these things, but he is in Italy on a business trip until next Thursday, and I know how quickly these things can sell out.",
+              "zh": "W: 那太好了。我不太会用电脑。这些事情通常都是我丈夫处理的，但他要到下周四才结束在意大利的出差，而我知道这些票很快就会售罄。"
+            },
+            {
+              "id": 5,
+              "start": 50.3,
+              "end": 61,
+              "text": "M: They do indeed, madam. Firstly, can you confirm that it's the performance of Cats on May the 28th at the Lion Theatre in London at 7:30 pm?",
+              "zh": "M: 确实如此，女士。首先，您能确认一下，是5月28日晚上7点30分在伦敦狮子剧院上演的《猫》吗？"
+            },
+            {
+              "id": 6,
+              "start": 61.4,
+              "end": 68.3,
+              "text": "W: Yes, that's the one, and I will need two tickets please, not too close to the front.",
+              "zh": "W: 是的，就是那场。我需要两张票，谢谢，位置不要离前排太近。"
+            },
+            {
+              "id": 7,
+              "start": 68.6,
+              "end": 81.7,
+              "text": "M: Actually, all the tickets at the front are already sold out anyway. But I can offer you two upstairs near the middle. I assume that you don't want to be too high up.",
+              "zh": "M: 实际上，前排的票已经全部售罄了。不过我可以给您安排楼上的两张票，位置靠近中间。我想您应该不想坐得太高吧。"
+            },
+            {
+              "id": 8,
+              "start": 82,
+              "end": 90.5,
+              "text": "W: Oh, my goodness, no. I'm scared of heights, and you can never see anything if you are too high up anyway.",
+              "zh": "W: 哦，天哪，当然不想。我恐高，而且坐得太高的话，反正什么也看不清。"
+            },
+            {
+              "id": 9,
+              "start": 90.8,
+              "end": 103.2,
+              "text": "M: No problem, madam. I'll reserve those for you now, and all we need after that is the details of your card number and your full name, and then we are done.",
+              "zh": "M: 没问题，女士。我现在就为您预留那两个座位，之后我们只需要您的卡号和全名，办完这些就可以了。"
+            }
+          ],
+          "audioDuration": 103.2,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "Why does the woman call the man?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To book tickets for a musical."
+                },
+                {
+                  "key": "B",
+                  "text": "To enquire about the price of cats."
+                },
+                {
+                  "key": "C",
+                  "text": "To pay for her afternoon flight to London."
+                },
+                {
+                  "key": "D",
+                  "text": "To have her personal computer repaired."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：I've been trying to book tickets for the musical Cats in London on the evening of May the 28th, but I can't get the computer to accept my card payment.信号：被问者直接说明来电目的 。女士在第二段直接说 I've been trying to book tickets for the musical Cats，这是对话开头最典型的“说明来意”句型，答案落在此处。",
+              "optionAnalysis": {
+                "B": "原词陷阱：选项 B 的 cats 盗用了录音原词 Cats，但录音中 Cats 是音乐剧名，不是宠物猫，更不存在“询问猫的价格”。 借用原文：in London",
+                "C": "张冠李戴：选项 C 的 London 和 afternoon 都是录音里出现的词（in London 与问候语 good afternoon），但录音说的是伦敦的演出，不是下午的航班，属于把地点词和时间词张冠李戴。 借用原文：I can't get the computer to accept my card payment",
+                "D": "原词陷阱：选项 D 的 computer 盗用了 the computer to accept my card payment，但女士说电脑只是不接受支付，并没有说要修电脑，核心目的仍是订票。",
+                "A": "正确项：与答案句同义替换（book tickets for the musical Cats ↔ To book tickets for a musical. 同义替换：具体剧名概括为 musical）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "I've been trying to book tickets for the musical Cats in London on the evening of May the 28th, but I can't get the computer to accept my card payment.",
+              "type": "细节题"
+            },
+            {
+              "number": 9,
+              "stem": "What do we learn about the woman's husband?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He frequents the Lion Theatre."
+                },
+                {
+                  "key": "B",
+                  "text": "He knows how to sell things well."
+                },
+                {
+                  "key": "C",
+                  "text": "He is a computer science expert."
+                },
+                {
+                  "key": "D",
+                  "text": "He is away on a business trip."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：My husband usually does all of these things, but he is in Italy on a business trip until next Thursday, and I know how quickly these things can sell out.信号：转折 but 后出关键信息 。女士说 My husband usually does all of these things, but...，转折词 but 之后 usually 所暗示的“常规情况”被颠覆，真正要考…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 A 的 Lion Theatre 盗用了 the Lion Theatre in London，但那是 Cats 演出的剧院，与丈夫是否常去无关。 借用原文：I'm not very good with computers",
+                "B": "未提及：选项 B 的 sell things well 在录音中没有对应表述，属于无中生有。",
+                "C": "张冠李戴：选项 C 的 computer 盗用了 the computer 与 I'm not very good with computers，但录音只说女士自己不擅长电脑，并未说丈夫是电脑专家。",
+                "D": "正确项：与答案句同义替换（he is in Italy on a business trip ↔ He is away on a business trip. 同义替换：具体地点概括为 away）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "My husband usually does all of these things, but he is in Italy on a business trip until next Thursday, and I know how quickly these things can sell out.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "What does the man say about the tickets at the front?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are sold at a discount."
+                },
+                {
+                  "key": "B",
+                  "text": "They are in low demand."
+                },
+                {
+                  "key": "C",
+                  "text": "They are no longer available."
+                },
+                {
+                  "key": "D",
+                  "text": "They are not too expensive."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P7）：Actually, all the tickets at the front are already sold out anyway.信号：Actually 引出事实修正 。男士先用 But I can offer you two upstairs near the middle 给出替代方案，随后用 actually 进一步说明原因——前排票已售罄，答…",
+              "optionAnalysis": {
+                "A": "未提及：选项 A 的 discount 在录音中没有对应信息，属于无中生有。",
+                "B": "与原文相反：选项 B 说“需求低”，但录音说 all the tickets at the front are already sold out，说明需求很高，选项与原文相反。",
+                "D": "未提及：选项 D 的 not too expensive 涉及价格评价，但录音中完全没有讨论票价高低。",
+                "C": "正确项：与答案句同义替换（all the tickets at the front are already sold out ↔ They are no longer available. 同义替换：sold out = no longer available）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "Actually, all the tickets at the front are already sold out anyway.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What does the woman say she is scared of?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Heights."
+                },
+                {
+                  "key": "B",
+                  "text": "Circus."
+                },
+                {
+                  "key": "C",
+                  "text": "Wild animals."
+                },
+                {
+                  "key": "D",
+                  "text": "Dark nights."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P8）：I'm scared of heights, and you can never see anything if you are too high up anyway.信号：直接陈述 scared of 。女士说 I'm scared of heights， scared of 是题目关键词的直接复现，答案紧随其后。",
+              "optionAnalysis": {
+                "B": "未提及：选项 B 的 Circus 与音乐剧主题相近，但录音中没有提到马戏团，属于利用话题场制造的无中生有干扰。",
+                "C": "偷换概念：选项 C 的 Wild animals 盗用了音乐剧名 Cats 给人的动物联想，但录音根本没有提到野生动物。",
+                "D": "未提及：选项 D 的 Dark nights 在录音中没有对应内容，属于常见恐惧意象的凭空设置。",
+                "A": "正确项：与答案句同义替换（I'm scared of heights ↔ Heights. 原词复现）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "I'm scared of heights, and you can never see anything if you are too high up anyway.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 4.2,
+              "text": "W: Hi, John, why haven't you answered my text messages lately?",
+              "zh": "W: 嗨，约翰，你最近怎么一直没回复我的短信？"
+            },
+            {
+              "id": 2,
+              "start": 4.5,
+              "end": 14.6,
+              "text": "M: Oh, I didn't know you had sent any. I turned off my phone almost a week ago and haven't turned it back on since then.",
+              "zh": "M: 哦，我不知道你发过短信。我差不多一周前就把手机关了，之后一直没再开机。"
+            },
+            {
+              "id": 3,
+              "start": 14.9,
+              "end": 21.9,
+              "text": "W: Why would you do something like that, when our phones make our lives so much more convenient?",
+              "zh": "W: 手机让我们的生活方便了这么多，你为什么要做这种事呢？"
+            },
+            {
+              "id": 4,
+              "start": 22.3,
+              "end": 39.6,
+              "text": "M: Well, I downloaded an APP that recorded how much time I spent on my phone. And I was shocked to realize I was using my phone an average of 8 hours a day, and on my worst day, I used it for 12 hours.",
+              "zh": "M: 嗯，我下载了一个应用程序，可以记录我花在手机上的时间。得知自己平均每天用手机8个小时，我感到很震惊；最严重的一天，我用了12个小时。"
+            },
+            {
+              "id": 5,
+              "start": 40,
+              "end": 49.6,
+              "text": "W: Were you addicted to mobile phone games? I had a friend who was, and he sometimes played them all day and into the night.",
+              "zh": "W: 你是不是沉迷于手机游戏？我有个朋友就是这样，他有时会从白天一直玩到深夜。"
+            },
+            {
+              "id": 6,
+              "start": 50,
+              "end": 58.4,
+              "text": "M: No, my problem was I was spending too much time on social media, messaging friends and commenting on other people's posts.",
+              "zh": "M: 不，我的问题是花太多时间在社交媒体上，给朋友发消息，还评论别人的帖子。"
+            },
+            {
+              "id": 7,
+              "start": 58.8,
+              "end": 75.7,
+              "text": "W: I do all of that too, as well as shopping online and paying for everything with my phone. That is really why I don't see how anyone could live without a mobile phone. How do you buy things or communicate with your friends?",
+              "zh": "W: 我也做这些事，还会网上购物，用手机支付所有东西。这正是我无法想象没有手机人们要怎么生活的原因。你怎么购物，怎么和朋友联系呢？"
+            },
+            {
+              "id": 8,
+              "start": 76,
+              "end": 86,
+              "text": "M: Since I stopped using my phone, I go to physical stores and pay in cash. I've actually met friends for meals at cafés and restaurants.",
+              "zh": "M: 自从我不再使用手机后，我会去实体店购物，用现金付款。实际上，我还和朋友在咖啡馆和餐馆见面吃饭。"
+            },
+            {
+              "id": 9,
+              "start": 86.3,
+              "end": 99.4,
+              "text": "W: That's great for you, but my friends and family don't live in this city, so we can't see each other often, and I don't have any choice but to chat with them online.",
+              "zh": "W: 这对你来说很好，但我的朋友和家人都不住在这座城市，所以我们不能经常见面，我只能和他们在网上聊天。"
+            }
+          ],
+          "audioDuration": 99.4,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "Why hasn't the man answered the woman's text messages lately?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He finds it bothersome to reply."
+                },
+                {
+                  "key": "B",
+                  "text": "He has switched off his phone."
+                },
+                {
+                  "key": "C",
+                  "text": "He hasn't got the time to text back."
+                },
+                {
+                  "key": "D",
+                  "text": "He doesn't know how to respond."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：Oh, I didn't know you had sent any. I turned off my phone almost a week ago and haven't turned it back on since then.信号：直接应答 + 关键动作 。女人一开口就问为何没回短信，男人用 I turned off my phone almost a week ago and haven't turned it back on since t…",
+              "optionAnalysis": {
+                "A": "未提及：男人从未表达回复短信令他厌烦，属于无中生有。",
+                "C": "未提及：录音中男人说的是『我不知道你发了短信』和『关机』，没有提到没时间回短信。",
+                "D": "原词陷阱：录音说 I didn't know you had sent any.，是『不知道你发了短信』，选项 He doesn't know how to respond. 把不知对象偷换成『不知如何回应』。",
+                "B": "正确项：与答案句同义替换（I turned off my phone almost a week ago and haven't turned it back on since then. ↔ He has switched off his phone. 同义词替换（turn off = switch off））"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Oh, I didn't know you had sent any. I turned off my phone almost a week ago and haven't turned it back on since then.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What was the man shocked to realize after he downloaded the APP?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "His lack of sufficient sleep at night."
+                },
+                {
+                  "key": "B",
+                  "text": "His addiction to mobile phone games."
+                },
+                {
+                  "key": "C",
+                  "text": "His excessive use of the mobile phone."
+                },
+                {
+                  "key": "D",
+                  "text": "His high frequency of surfing the net."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P4）：Well, I downloaded an APP that recorded how much time I spent on my phone. And I was shocked to realize I was using my phone an average of 8 hours a day, and on my worst day, I used it for 12 hours.信号：题干关键词原词复现 + 数据强调 。男人的话里出现 shocked to realize，与题干 shocked to realize 原词呼应，后面 8 hours a day、12 hours 用具体数字凸显『使…",
+              "optionAnalysis": {
+                "A": "张冠李戴：女人提到自己的朋友玩手机游戏『all day and into the night』，这说的是朋友，不是男人的情况。 借用原文：Were you addicted to mobile phone games?",
+                "B": "原词陷阱：女人问 Were you addicted to mobile phone games?，男人回答 No, my problem was I was spending too much time on social media...，选项 His addiction to mobile phone games. 直接盗用问句原词，却被明确否定。",
+                "D": "未提及：录音只提到 social media / messaging / commenting，没有说 surfing the net，属于用近义概念捏造。",
+                "C": "正确项：与答案句同义替换（I was using my phone an average of 8 hours a day, and on my worst day, I used it for 12 hours. ↔ His excessive use of the mobile phone. 数字概括为『过度使用』）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Well, I downloaded an APP that recorded how much time I spent on my phone. And I was shocked to realize I was using my phone an average of 8 hours a day, and on my worst day, I used it for 12 hours.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What did the man spend much time doing with his phone?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Shopping online and paying for his purchases."
+                },
+                {
+                  "key": "B",
+                  "text": "Communicating with friends on social media."
+                },
+                {
+                  "key": "C",
+                  "text": "Exploring whatever content to his liking."
+                },
+                {
+                  "key": "D",
+                  "text": "Sharing and posting pictures and videos."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P6）：No, my problem was I was spending too much time on social media, messaging friends and commenting on other people's posts.信号：否定后的真正落点 。女人先猜测是游戏，男人用 No, my problem was I was spending too much time on social media, messaging friends an…",
+              "optionAnalysis": {
+                "A": "张冠李戴：选项 Shopping online and paying for his purchases. 来自女人说的 shopping online and paying for everything with my phone，不是男人的行为。 借用原文：commenting on other people's posts.",
+                "C": "未提及：录音没有提到 exploring content / whatever to his liking。",
+                "D": "偷换概念：录音说 commenting on other people's posts，选项 Sharing and posting pictures and videos. 添加了 pictures and videos，并把 commenting 换成 sharing，属于偷换概念。",
+                "B": "正确项：与答案句同义替换（spending too much time on social media, messaging friends ↔ Communicating with friends on social media. 动名词短语同义替换）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "No, my problem was I was spending too much time on social media, messaging friends and commenting on other people's posts.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "Why does the woman say she has to use her mobile phone?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She prefers chatting with others online to meeting them."
+                },
+                {
+                  "key": "B",
+                  "text": "There are few physical stores near where she lives."
+                },
+                {
+                  "key": "C",
+                  "text": "Ordering meals online is a great convenience to her."
+                },
+                {
+                  "key": "D",
+                  "text": "She needs to talk with her friends and family far away."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P9）：That's great for you, but my friends and family don't live in this city, so we can't see each other often, and I don't have any choice but to chat with them online.信号：but 后的不得已理由 。女人先肯定男人的做法，随即用 but my friends and family don't live in this city... I don't have any choice but…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音说 I don't have any choice but to chat with them online，是客观无奈；选项 She prefers chatting with others online to meeting them. 却说她更喜欢线上聊天，改变了语义极性。 借用原文：I go to physical stores and pay in cash.",
+                "B": "张冠李戴：选项 There are few physical stores near where she lives. 借用了男人说的 I go to physical stores and pay in cash.，但说话人与话题都不属于女人。",
+                "C": "答非所问：录音中女人提到的是 shopping online / paying for everything，没有提到 ordering meals online，且这也不是她必须使用手机的核心理由。",
+                "D": "正确项：与答案句同义替换（my friends and family don't live in this city, so we can't see each other often ↔ She needs to talk with her friends and family far away. 『不住同城』替换为『far away』）"
+              },
+              "evidencePara": "P9",
+              "evidenceText": "That's great for you, but my friends and family don't live in this city, so we can't see each other often, and I don't have any choice but to chat with them online.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 5,
+              "text": "1 If U.S. workers want to switch jobs, they'd better do it now."
+            },
+            {
+              "id": 2,
+              "start": 5.3,
+              "end": 11.1,
+              "text": "Last year, job switchers earned far higher wage increases than those staying in their jobs."
+            },
+            {
+              "id": 3,
+              "start": 11.4,
+              "end": 13.8,
+              "text": "But the gap is now closing."
+            },
+            {
+              "id": 4,
+              "start": 14.2,
+              "end": 26.8,
+              "text": "A three-month moving average of annual wage increases from the Atlanta Federal Reserve Bank's Wage Tracker shows that U.S. job switchers got the highest wage increase last July, when the measure touched 8.5%."
+            },
+            {
+              "id": 5,
+              "start": 27.2,
+              "end": 33.3,
+              "text": "Since then, it has gone up and down, and has been going steadily down since November."
+            },
+            {
+              "id": 6,
+              "start": 33.6,
+              "end": 41.3,
+              "text": "The gap in wage gains between people who switched jobs and those who stayed in their jobs is now closing."
+            },
+            {
+              "id": 7,
+              "start": 41.6,
+              "end": 48.2,
+              "text": "On average, people who changed jobs have almost always gotten better pay raises than those who stayed."
+            },
+            {
+              "id": 8,
+              "start": 48.6,
+              "end": 53.2,
+              "text": "But in the past, the difference was usually around one percentage point."
+            },
+            {
+              "id": 9,
+              "start": 53.6,
+              "end": 65.9,
+              "text": "In July though, the gap widened to 2.6 percentage points. 2 But now wage growth is slowing down for everyone, and job switchers are getting smaller wage bumps in their new jobs."
+            },
+            {
+              "id": 10,
+              "start": 66.3,
+              "end": 74.7,
+              "text": "At the moment, those who change jobs get an average 7.3% raise every year, while those who stay get a 5.4% raise."
+            },
+            {
+              "id": 11,
+              "start": 75,
+              "end": 80.8,
+              "text": "That suggests the demand for workers has reached, or is at least nearing, its peak."
+            },
+            {
+              "id": 12,
+              "start": 81.1,
+              "end": 90.4,
+              "text": "The labor market is likely cooling, because even a shortage of workers isn't overcoming the historic imbalance between employers and employees in the U.S."
+            },
+            {
+              "id": 13,
+              "start": 90.8,
+              "end": 98.4,
+              "text": "The volume of income that workers take home as a proportion of what the U.S. economy produces is still falling."
+            }
+          ],
+          "audioDuration": 98.4,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What does the passage say about the gap in wage gains between job switchers and those who stay in their jobs?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is now narrowing."
+                },
+                {
+                  "key": "B",
+                  "text": "It keeps increasing."
+                },
+                {
+                  "key": "C",
+                  "text": "It has remained huge."
+                },
+                {
+                  "key": "D",
+                  "text": "It will soon disappear."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：But the gap is now closing.信号：转折 but 后直接给出结论 。But the gap is now closing. 中 But 承接前一句“跳槽者去年工资涨幅更高”，转折后才是当前真实趋势；后文又重复 The gap in wage gains…",
+              "optionAnalysis": {
+                "B": "与原文相反：录音说差距在 closing，而 It keeps increasing. 说持续扩大，正好相反。",
+                "C": "张冠李戴：录音提到过去差距通常约 one percentage point，七月扩大到 2.6 percentage points，但这些都是铺垫；It has remained huge. 把过去某一时刻的较大差距偷换成“一直很大”，与 now closing 矛盾。",
+                "D": "过度推断：closing 只表示“缩小”，不等于“完全消失”；It will soon disappear. 把趋势推向极端，录音未提。",
+                "A": "正确项：与答案句同义替换（the gap is now closing ↔ It is now narrowing. 同义替换 closing = narrowing）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "But the gap is now closing.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "What do we learn about wage growth now?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is fluctuating between 5-7%."
+                },
+                {
+                  "key": "B",
+                  "text": "It is slowing down for everyone."
+                },
+                {
+                  "key": "C",
+                  "text": "It is faster for those who stay in their jobs."
+                },
+                {
+                  "key": "D",
+                  "text": "It is inadequate for dealing with inflation."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：But now wage growth is slowing down for everyone, and job switchers are getting smaller wage bumps in their new jobs.信号：But now 时间转折 + for everyone 绝对化表述 。But now wage growth is slowing down for everyone 中 But now 把话题拉回当下，for ev…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音提到 7.3% 和 5.4%，而 It is fluctuating between 5-7%. 把这两个数字捏成一个“5%-7% 之间波动”的说法，但录音说的是两类人各自的平均涨幅，并非整体在 5-7% 之间波动。 借用原文：those who change jobs get an average 7.3% raise every year, while those who stay get a 5.4% raise.",
+                "C": "与原文相反：录音说跳槽者 7.3%、留任者 5.4%，即跳槽者更快；It is faster for those who stay in their jobs. 把比较对象的关系说反了。",
+                "D": "未提及：录音全文未出现 inflation 一词，It is inadequate for dealing with inflation. 是利用考生常识（工资增长跑不赢通胀）编造的无中生有选项。",
+                "B": "正确项：与答案句同义替换（wage growth is slowing down for everyone ↔ It is slowing down for everyone. 原句复现）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "But now wage growth is slowing down for everyone, and job switchers are getting smaller wage bumps in their new jobs.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What is the labor market likely doing according to the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Booming."
+                },
+                {
+                  "key": "B",
+                  "text": "Stabilizing."
+                },
+                {
+                  "key": "C",
+                  "text": "Struggling."
+                },
+                {
+                  "key": "D",
+                  "text": "Cooling."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：The labor market is likely cooling, because even a shortage of workers isn't overcoming the historic imbalance between employers and employees in the U.S.信号：结论句 + because 因果解释 。The labor market is likely cooling 位于段落中部，是作者给出的判断；后接 because 解释原因，进一步确认该句为结论落点。",
+              "optionAnalysis": {
+                "A": "与原文相反：录音说市场 likely cooling，Booming. 表示繁荣火热，方向完全相反；且录音提到 demand for workers has reached or is nearing its peak，暗示上升空间已尽。",
+                "B": "偷换概念：录音说 cooling（降温），Stabilizing. 说稳定，是两个不同的状态；降温意味着从高点回落，稳定则意味着保持不变。",
+                "C": "未提及：录音没有提到 labor market 在 struggling；文中说的是工资增长放缓、市场降温，这是周期性描述，并非“ struggling（挣扎）”这种带有困难色彩的评价。",
+                "D": "正确项：与答案句同义替换（The labor market is likely cooling ↔ Cooling. 原词复现）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The labor market is likely cooling, because even a shortage of workers isn't overcoming the historic imbalance between employers and employees in the U.S.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 8.8,
+              "text": "1 Highly processed foods—the kinds made with lots of sugar, fat and salt—make up as much as 60% of the average American diet."
+            },
+            {
+              "id": 2,
+              "start": 9.2,
+              "end": 15.7,
+              "text": "But a new study shows that their low price and convenience come at a cost to health."
+            },
+            {
+              "id": 3,
+              "start": 16.1,
+              "end": 27.2,
+              "text": "The study found that when people ate a highly processed diet, they consumed about 500 more calories per day than they did when they ate a less processed diet."
+            },
+            {
+              "id": 4,
+              "start": 27.6,
+              "end": 46.4,
+              "text": "They also gained two pounds over two weeks, even though both diets had the same amounts of nutrients, like sugar, fat, fiber and salt. 2 It wasn't a shock to find highly processed foods weren't healthy; other research has linked them to a higher risk of cancer and obesity."
+            },
+            {
+              "id": 5,
+              "start": 46.8,
+              "end": 53.7,
+              "text": "What was unexpected was that sugar, fat and salt didn't seem to be what caused people to overeat."
+            },
+            {
+              "id": 6,
+              "start": 54.1,
+              "end": 62.5,
+              "text": "This is the first trial that demonstrates that there is something about highly processed foods—independent of those nutrients—that causes people to overeat."
+            },
+            {
+              "id": 7,
+              "start": 62.9,
+              "end": 68.2,
+              "text": "The study also found that, when eating a highly processed diet, people ate faster."
+            },
+            {
+              "id": 8,
+              "start": 68.5,
+              "end": 72.4,
+              "text": "This could be one reason why they gained more weight."
+            },
+            {
+              "id": 9,
+              "start": 72.8,
+              "end": 78.5,
+              "text": "Highly processed food tends to be softer, which makes it easier to chew and swallow."
+            },
+            {
+              "id": 10,
+              "start": 78.8,
+              "end": 90.4,
+              "text": "One theory is that if you're eating more quickly, you're not giving your guts enough time to signal to your brain that you've had enough calories and that you're full."
+            },
+            {
+              "id": 11,
+              "start": 90.8,
+              "end": 95,
+              "text": "By the time the brain gets that signal, you've already overeaten."
+            }
+          ],
+          "audioDuration": 95,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What does a new study show about highly processed foods?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have smaller amounts of nutrients than unprocessed diets."
+                },
+                {
+                  "key": "B",
+                  "text": "Their contribution to calorie consumption is hard to determine."
+                },
+                {
+                  "key": "C",
+                  "text": "They account for nearly half of the average American diet."
+                },
+                {
+                  "key": "D",
+                  "text": "Their low price and convenience negatively impact health."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：But a new study shows that their low price and convenience come at a cost to health.信号：研究结论信号句 。录音用 a new study shows that 引出结论，其后 their low price and convenience come at a cost to health 直接对应选项 …",
+              "optionAnalysis": {
+                "A": "与原文相反：录音明确说 both diets had the same amounts of nutrients，即两种饮食营养成分相同；选项 A 却说 smaller amounts of nutrients，与原文相反。 借用原文：make up as much as 60% of the average American diet",
+                "B": "未提及：录音只提到 they consumed about 500 more calories per day，给出了具体数字，从未说 contribution to calorie consumption is hard to determine。",
+                "C": "偷换概念：录音说 make up as much as 60% of the average American diet，而 nearly half 约等于 50%，数字被偷换；同时它用了 average American diet 这一原词来增强诱惑力。",
+                "D": "正确项：与答案句同义替换（their low price and convenience come at a cost to health ↔ Their low price and convenience negatively impact health. 同义替换：以健康为代价=对健康有负面影响）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "But a new study shows that their low price and convenience come at a cost to health.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What are highly processed foods linked to, according to other research?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A strong desire to overeat."
+                },
+                {
+                  "key": "B",
+                  "text": "A lack of nutrients like fiber."
+                },
+                {
+                  "key": "C",
+                  "text": "A higher risk of cancer and obesity."
+                },
+                {
+                  "key": "D",
+                  "text": "A greater intake of sugar and salt."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：It wasn't a shock to find highly processed foods weren't healthy; other research has linked them to a higher risk of cancer and obesity.信号：其他研究关联句 。录音中 other research has linked them to 是明显的考点信号，后面的 a higher risk of cancer and obesity 即为问题所问的关联内容。",
+              "optionAnalysis": {
+                "A": "张冠李戴：录音先说 other research has linked them to a higher risk of cancer and obesity，随后才讲新试验发现 'causes people to overeat'；选项 A 把 'overeating' 这个结果张冠李戴到 other research 上。 借用原文：both diets had the same amounts of nutrients, like sugar, fat, fiber and salt",
+                "B": "与原文相反：录音 both diets had the same amounts of nutrients, like sugar, fat, fiber and salt 说明营养成分含量相同，选项 B 却说 A lack of nutrients like fiber，与原文相反。 借用原文：sugar, fat and salt didn't seem to be what caused people to overeat",
+                "D": "偷换概念：录音 sugar, fat and salt didn't seem to be what caused people to overeat 表明糖、脂肪、盐并非导致暴食的原因；选项 D 却说 'A greater intake of sugar and salt'，把原文的否定/排除偷换成了肯定的健康风险关联。",
+                "C": "正确项：与答案句同义替换（a higher risk of cancer and obesity ↔ A higher risk of cancer and obesity. 关键短语直接复现）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "It wasn't a shock to find highly processed foods weren't healthy; other research has linked them to a higher risk of cancer and obesity.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What do people tend to do when eating highly processed foods?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Eat more quickly."
+                },
+                {
+                  "key": "B",
+                  "text": "Feel full sooner."
+                },
+                {
+                  "key": "C",
+                  "text": "Chew thoroughly."
+                },
+                {
+                  "key": "D",
+                  "text": "Swallow bit by bit."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：The study also found that, when eating a highly processed diet, people ate faster.信号：研究发现的行为结果 。录音用 The study also found that 引出另一项发现，其后 people ate faster 直接回答题干所问的行为。",
+              "optionAnalysis": {
+                "B": "与原文相反：录音 you're not giving your guts enough time to signal to your brain that you've had enough calories and that you're full 说明大脑更晚收到饱腹信号；选项 B 说 Feel full sooner，与原文相反。 借用原文：Highly processed food tends to be softer, which makes it easier to chew and swallow",
+                "C": "偷换概念：录音 Highly processed food tends to be softer, which makes it easier to chew and swallow 只说更容易咀嚼吞咽，并未说人们会 chew thoroughly；恰恰相反，软食更可能减少咀嚼。 借用原文：easier to chew and swallow",
+                "D": "偷换概念：录音 easier to chew and swallow 表示吞咽更容易、更快，而选项 D 'Swallow bit by bit' 暗示慢、分小口吞，语义相反。",
+                "A": "正确项：与答案句同义替换（people ate faster ↔ Eat more quickly. 同义替换：ate faster = eat more quickly）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The study also found that, when eating a highly processed diet, people ate faster.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 7.3,
+              "text": "1 Women continue to spend more time than men taking care of children and doing chores around the house."
+            },
+            {
+              "id": 2,
+              "start": 7.6,
+              "end": 11.5,
+              "text": "This is generally attributed to backward thinking and conservative values."
+            },
+            {
+              "id": 3,
+              "start": 11.8,
+              "end": 27.6,
+              "text": "But new research shows that such differences could be linked to differences in the preferences of males and females. 2 The new study looked at how men and women were dividing work at home and why they divided it that way."
+            },
+            {
+              "id": 4,
+              "start": 28,
+              "end": 33,
+              "text": "In general, both men and women took more responsibility for tasks they liked."
+            },
+            {
+              "id": 5,
+              "start": 33.4,
+              "end": 38,
+              "text": "For example, men liked yard care and home maintenance more than women."
+            },
+            {
+              "id": 6,
+              "start": 38.4,
+              "end": 41.8,
+              "text": "They leaned toward wanting primary responsibility for such tasks."
+            },
+            {
+              "id": 7,
+              "start": 42.1,
+              "end": 50.2,
+              "text": "The researchers stated that differences in enjoyment of household and childcare tasks matched how men and women chose to split tasks."
+            },
+            {
+              "id": 8,
+              "start": 50.6,
+              "end": 57.1,
+              "text": "The researchers added that there was not a single childcare task that men liked more than women."
+            },
+            {
+              "id": 9,
+              "start": 57.5,
+              "end": 64,
+              "text": "Keep in mind, however, that, as with any research on group differences, there were large within-group differences."
+            },
+            {
+              "id": 10,
+              "start": 64.3,
+              "end": 72.4,
+              "text": "The study's authors concluded that differences in men's and women's time spent on childcare and household tasks do not mean dissatisfaction."
+            },
+            {
+              "id": 11,
+              "start": 72.8,
+              "end": 78.5,
+              "text": "The authors noted that previous research revealed gender differences in attitudes towards family and career."
+            },
+            {
+              "id": 12,
+              "start": 78.8,
+              "end": 82.3,
+              "text": "These differences appear as early as six years old."
+            },
+            {
+              "id": 13,
+              "start": 82.6,
+              "end": 93,
+              "text": "Girls that age already show more interest in helping and caring for others than boys do, and they already exhibit a greater orientation toward family versus career."
+            }
+          ],
+          "audioDuration": 93,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "How do people generally account for differences between men and women in the amount of time spent on housework?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By attributing them to current cultural influences."
+                },
+                {
+                  "key": "B",
+                  "text": "By attributing them to conservative thinking."
+                },
+                {
+                  "key": "C",
+                  "text": "In terms of new genetic findings."
+                },
+                {
+                  "key": "D",
+                  "text": "In terms of personal preferences."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：Women continue to spend more time than men taking care of children and doing chores around the house. This is generally attributed to backward thinking and conservative values. But new research shows that such differences could be linked to differences in the preferences of males and females.信号：观点对比结构 。答案句藏在转折之前：前一句 This is generally attributed to backward thinking and conservative values. 给出'通常看法'，Bu…",
+              "optionAnalysis": {
+                "A": "偷换概念：A 项 By attributing them to current cultural influences. 把录音里的 conservative values 改头换面成'当代文化影响'，原文说的是'保守'而非'当代文化'，方向相反。",
+                "C": "未提及：C 项 In terms of new genetic findings. 中的 genetic 在原文完全没有出现，录音只提到 preferences，属于凭空捏造。",
+                "D": "原词陷阱：D 项 In terms of personal preferences. 确实是录音原词 preferences of males and females，但它属于 but 之后的新研究发现，不是题干问的'人们通常'的看法。看到原词就想选是第一大陷阱。",
+                "B": "正确项：与答案句同义替换（backward thinking and conservative values ↔ conservative thinking. 同义概括）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Women continue to spend more time than men taking care of children and doing chores around the house. This is generally attributed to backward thinking and conservative values. But new research shows that such differences could be linked to differences in the preferences of males and females.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What did men lean toward doing according to the new study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Sharing with women the chores they see necessary."
+                },
+                {
+                  "key": "B",
+                  "text": "Dividing housework that is demanding for women."
+                },
+                {
+                  "key": "C",
+                  "text": "Performing household tasks that they enjoy."
+                },
+                {
+                  "key": "D",
+                  "text": "Doing tasks that are physically challenging."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：In general, both men and women took more responsibility for tasks they liked. For example, men liked yard care and home maintenance more than women. They leaned toward wanting primary responsibility for such tasks.信号：研究结论+例证 。答案信号是 In general, both men and women took more responsibility for tasks they liked. 这一研究总括句，随后用 men…",
+              "optionAnalysis": {
+                "A": "未提及：A 项 Sharing with women the chores they see necessary. 中的 see necessary 在原文中没有对应表述，属于无中生有。",
+                "B": "偷换概念：B 项 Dividing housework that is demanding for women. 把录音里'男女共同选择自己喜欢的任务'改成了'对女性来说繁重的家务'，demanding 在原文没有依据。",
+                "D": "未提及：D 项 Doing tasks that are physically challenging. 看似能解释 yard care / home maintenance，但原文从未用 physically challenging 描述这些任务，考生若凭常识推断就会掉坑。",
+                "C": "正确项：与答案句同义替换（tasks they liked ↔ Performing household tasks that they enjoy. 同义词替换）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "In general, both men and women took more responsibility for tasks they liked. For example, men liked yard care and home maintenance more than women. They leaned toward wanting primary responsibility for such tasks.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What should we keep in mind as regards any research on group differences?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The large within-group differences."
+                },
+                {
+                  "key": "B",
+                  "text": "The great similarities across groups."
+                },
+                {
+                  "key": "C",
+                  "text": "The researchers' subjective biases."
+                },
+                {
+                  "key": "D",
+                  "text": "The noticeable overgeneralizations."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：Keep in mind, however, that, as with any research on group differences, there were large within-group differences.信号：提醒信号词 keep in mind 。答案句以 Keep in mind, however, 开头，直接对应题干 keep in mind，后面跟的就是注意事项。",
+              "optionAnalysis": {
+                "B": "与原文相反：B 项 The great similarities across groups. 说'群体间高度相似'，而原文 large within-group differences 强调的是'群体内差异大'，方向相反。",
+                "C": "未提及：C 项 The researchers' subjective biases. 中的 subjective biases 在原文没有提到，原文强调的是群体内部差异，不是研究者偏见。",
+                "D": "过度推断：D 项 The noticeable overgeneralizations. 是对群体差异研究可能存在的问题的推断，但原文只说 within-group differences 大，并未说这是 overgeneralization。",
+                "A": "正确项：与答案句同义替换（large within-group differences ↔ The large within-group differences. 原词复现）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Keep in mind, however, that, as with any research on group differences, there were large within-group differences.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What did previous research reveal about gender differences in attitudes toward family and career?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They seem to be universal."
+                },
+                {
+                  "key": "B",
+                  "text": "They impact people's whole life."
+                },
+                {
+                  "key": "C",
+                  "text": "They shape one's role in society."
+                },
+                {
+                  "key": "D",
+                  "text": "They appear at an early age."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：The authors noted that previous research revealed gender differences in attitudes towards family and career. These differences appear as early as six years old.信号：研究结论句 。答案信号是 previous research revealed，直接对应题干 previous research reveal；后一句 These differences appear as earl…",
+              "optionAnalysis": {
+                "A": "过度推断：A 项 They seem to be universal. 把原文的性别差异推断为'普遍存在'，但原文只提到 six years old 就出现，并未说 universal。",
+                "B": "未提及：B 项 They impact people's whole life. 中的 whole life 在原文没有对应表述，原文只提到六岁出现，未说影响一生。",
+                "C": "偷换概念：C 项 They shape one's role in society. 把 attitudes towards family and career 偷换成 role in society，扩大了概念范围。",
+                "D": "正确项：与答案句同义替换（appear as early as six years old ↔ They appear at an early age. 概括改写）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The authors noted that previous research revealed gender differences in attitudes towards family and career. These differences appear as early as six years old.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "It may sound surprising, but people who are supersensitive to coffee's bitter taste actually drink more of it, a new study finds.\n\nThis sensitivity isn't 26______ a matter of taste, either, but rather is influenced by a person's genetic makeup, the researchers said in the study.\n\n\"You'd expect that people who are particularly sensitive to the bitter taste of caffeine would drink less coffee,\" said study senior researcher Marilyn Cornelis. \"The 27______ results of our study suggest coffee consumers acquire a taste for or an ability to detect the bitterness of caffeine due to the learned positive 28______ brought out by caffeine.\"\n\nPut another way, people who have a 29______ ability to taste the bitterness of coffee learn to associate \"good things with it,\" Cornelis said. This finding is surprising, given that bitterness often serves as a warning mechanism to 30______ people to spit out harmful substances, the scientists said.\n\nResearchers conducted the study to understand how genetics influences people's 31______ of tea, coffee and alcohol which tend to taste bitter, said lead researcher Jue Sheng Ong.\n\n\"While all bitter flavors may seem the same, we 32______ the bitterness of Brussels sprouts(抱子甘蓝), quinine(奎宁) and caffeine 33______ ,\" Ong told Live Science. \"The degree to which we find these flavors bitter is, in part, determined by your genes.\"\n\nPeople with the genes to taste the bitterness of green vegetables are more likely to prefer tea to coffee. In 34______ , people who were more sensitive to quinine's bitter flavors and those found in green vegetables tended to 35______ coffee."
+            },
+            {
+              "label": "词库",
+              "text": "A) addition\nB) approximately\nC) avoid\nD) consumption\nE) converted\nF) convince\nG) heightened\nH) omission\nI) opposite\nJ) perceive\nK) prospect\nL) reinforcement\nM) separately\nN) simply\nO) targeted"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "addition"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "consumption"
+                },
+                {
+                  "key": "E",
+                  "text": "converted"
+                },
+                {
+                  "key": "F",
+                  "text": "convince"
+                },
+                {
+                  "key": "G",
+                  "text": "heightened"
+                },
+                {
+                  "key": "H",
+                  "text": "omission"
+                },
+                {
+                  "key": "I",
+                  "text": "opposite"
+                },
+                {
+                  "key": "J",
+                  "text": "perceive"
+                },
+                {
+                  "key": "K",
+                  "text": "prospect"
+                },
+                {
+                  "key": "L",
+                  "text": "reinforcement"
+                },
+                {
+                  "key": "M",
+                  "text": "separately"
+                },
+                {
+                  "key": "N",
+                  "text": "simply"
+                },
+                {
+                  "key": "O",
+                  "text": "targeted"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) simply\n【原文】not simply...but rather...“不仅仅是……而是……”与后半句呼应\nB) approximately “不大约是”自相矛盾：approximately“大约”表模糊估计，与 isn't 的明确否定冲突，“不大约是一个味觉问题”语义别扭。\nM) separately 句中无可“分别”的多个对象：separately“分别地”需要至少两个并列对象（如 33 空的三种苦味），本句只谈“这种敏感”一件事，无处“分别”。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "addition"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "consumption"
+                },
+                {
+                  "key": "E",
+                  "text": "converted"
+                },
+                {
+                  "key": "F",
+                  "text": "convince"
+                },
+                {
+                  "key": "G",
+                  "text": "heightened"
+                },
+                {
+                  "key": "H",
+                  "text": "omission"
+                },
+                {
+                  "key": "I",
+                  "text": "opposite"
+                },
+                {
+                  "key": "J",
+                  "text": "perceive"
+                },
+                {
+                  "key": "K",
+                  "text": "prospect"
+                },
+                {
+                  "key": "L",
+                  "text": "reinforcement"
+                },
+                {
+                  "key": "M",
+                  "text": "separately"
+                },
+                {
+                  "key": "N",
+                  "text": "simply"
+                },
+                {
+                  "key": "O",
+                  "text": "targeted"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) opposite\n【原文】前一句刚给出预期 You'd expect that people who are particularly sensitive to the bitter taste of caffeine would drink less coffee（你以为敏感者会少喝），而首段事实是 actually drink more of it（实际多喝）——结果与预期正好相反，opposite results 精准收口。\nO) targeted “有针对性的结果”无中生有：targeted results 暗示研究“瞄准了”某个目标对象，上下文没有任何“靶向”信息，纯属看着高级就选的干扰。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "addition"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "consumption"
+                },
+                {
+                  "key": "E",
+                  "text": "converted"
+                },
+                {
+                  "key": "F",
+                  "text": "convince"
+                },
+                {
+                  "key": "G",
+                  "text": "heightened"
+                },
+                {
+                  "key": "H",
+                  "text": "omission"
+                },
+                {
+                  "key": "I",
+                  "text": "opposite"
+                },
+                {
+                  "key": "J",
+                  "text": "perceive"
+                },
+                {
+                  "key": "K",
+                  "text": "prospect"
+                },
+                {
+                  "key": "L",
+                  "text": "reinforcement"
+                },
+                {
+                  "key": "M",
+                  "text": "separately"
+                },
+                {
+                  "key": "N",
+                  "text": "simply"
+                },
+                {
+                  "key": "O",
+                  "text": "targeted"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) reinforcement\n【原文】positive reinforcement“积极强化”，解释“越敏感越爱喝”的心理机制\nH) omission “积极遗漏”语义自相矛盾：positive omission 既不是固定搭配也不合逻辑，咖啡因“带来遗漏”无法解释人们为何学会喜欢苦味。\nK) prospect positive prospect 看似通顺但接不上机制：“积极前景”语法上能站住，但 prospect 指对将来的预期，而这里解释的是“咖啡因让人上瘾般喜欢”的即时心理奖励机制，且 prospect 不会由咖啡因 brought out"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "addition"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "consumption"
+                },
+                {
+                  "key": "E",
+                  "text": "converted"
+                },
+                {
+                  "key": "F",
+                  "text": "convince"
+                },
+                {
+                  "key": "G",
+                  "text": "heightened"
+                },
+                {
+                  "key": "H",
+                  "text": "omission"
+                },
+                {
+                  "key": "I",
+                  "text": "opposite"
+                },
+                {
+                  "key": "J",
+                  "text": "perceive"
+                },
+                {
+                  "key": "K",
+                  "text": "prospect"
+                },
+                {
+                  "key": "L",
+                  "text": "reinforcement"
+                },
+                {
+                  "key": "M",
+                  "text": "separately"
+                },
+                {
+                  "key": "N",
+                  "text": "simply"
+                },
+                {
+                  "key": "O",
+                  "text": "targeted"
+                }
+              ],
+              "answer": "G",
+              "type": "选词填空",
+              "analysis": "【答案】G（官方答案）\n应填 G) heightened\n【原文】heightened ability“增强的味觉能力”＝首段 supersensitive 的同义改写\nI) opposite “相反的能力”无从谈起：opposite 需要一个明确的对立对象（如 27 空的 opposite results 对应“预期结果”），ability 没有“相反的能力”这种说法；它的归宿是 27 空。\nO) targeted targeted ability 搭配生硬且偏离“敏感度”主线：targeted“有针对性的”多修饰 attack/therapy 等带目标对象的动作，修饰 ability 既不生造也不呼应全文反复强调的 sensitive。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "addition"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "consumption"
+                },
+                {
+                  "key": "E",
+                  "text": "converted"
+                },
+                {
+                  "key": "F",
+                  "text": "convince"
+                },
+                {
+                  "key": "G",
+                  "text": "heightened"
+                },
+                {
+                  "key": "H",
+                  "text": "omission"
+                },
+                {
+                  "key": "I",
+                  "text": "opposite"
+                },
+                {
+                  "key": "J",
+                  "text": "perceive"
+                },
+                {
+                  "key": "K",
+                  "text": "prospect"
+                },
+                {
+                  "key": "L",
+                  "text": "reinforcement"
+                },
+                {
+                  "key": "M",
+                  "text": "separately"
+                },
+                {
+                  "key": "N",
+                  "text": "simply"
+                },
+                {
+                  "key": "O",
+                  "text": "targeted"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) convince\n【原文】convince sb to do sth：警告机制“促使”人吐出有害物质\nC) avoid 结构不接 sb to do，且逻辑相反：avoid 后只接名词或 doing，不能说 avoid people to spit out；若理解成“避免吐出有害物质”，与“警告机制保命”的语义恰好拧反。它真正的归宿是 35\nJ) perceive perceive 不带 sb to do，语义也不通：perceive“察觉”的宾语是事物不是“人 + to do”，“察觉人们吐出有害物质”不是警告机制的功能。它真正的归宿是 32 空。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "addition"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "consumption"
+                },
+                {
+                  "key": "E",
+                  "text": "converted"
+                },
+                {
+                  "key": "F",
+                  "text": "convince"
+                },
+                {
+                  "key": "G",
+                  "text": "heightened"
+                },
+                {
+                  "key": "H",
+                  "text": "omission"
+                },
+                {
+                  "key": "I",
+                  "text": "opposite"
+                },
+                {
+                  "key": "J",
+                  "text": "perceive"
+                },
+                {
+                  "key": "K",
+                  "text": "prospect"
+                },
+                {
+                  "key": "L",
+                  "text": "reinforcement"
+                },
+                {
+                  "key": "M",
+                  "text": "separately"
+                },
+                {
+                  "key": "N",
+                  "text": "simply"
+                },
+                {
+                  "key": "O",
+                  "text": "targeted"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) consumption\n【原文】consumption of tea, coffee and alcohol＝对三样饮品的“饮用/消费”\nH) omission “对饮品的遗漏”与主题无关：omission 意为“省略/遗漏”，研究的是基因如何影响人们喝什么、喝多少，与“遗漏”毫不沾边。\nK) prospect prospect of 指向未来，不指向饮用行为：prospect“前景、可能性”接 of 时表示“……的可能”，基因影响的是现实的饮用行为而非饮品的“前景”。\nL) reinforcement “对饮品的强化”语义不搭：reinforcement“强化”虽属本篇话题词（28 空用它），但“基因影响人们对茶咖酒的强化”说不通，强化的载体是咖啡因带来的心理效应，不是这三样饮品本身。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "addition"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "consumption"
+                },
+                {
+                  "key": "E",
+                  "text": "converted"
+                },
+                {
+                  "key": "F",
+                  "text": "convince"
+                },
+                {
+                  "key": "G",
+                  "text": "heightened"
+                },
+                {
+                  "key": "H",
+                  "text": "omission"
+                },
+                {
+                  "key": "I",
+                  "text": "opposite"
+                },
+                {
+                  "key": "J",
+                  "text": "perceive"
+                },
+                {
+                  "key": "K",
+                  "text": "prospect"
+                },
+                {
+                  "key": "L",
+                  "text": "reinforcement"
+                },
+                {
+                  "key": "M",
+                  "text": "separately"
+                },
+                {
+                  "key": "N",
+                  "text": "simply"
+                },
+                {
+                  "key": "O",
+                  "text": "targeted"
+                }
+              ],
+              "answer": "J",
+              "type": "选词填空",
+              "analysis": "【答案】J（官方答案）\n应填 J) perceive\n【原文】“我们分别感知三种苦味”，与 seem the same 构成让步转折\nE) converted 时态冲突且“转变苦味”语义不通：邻居动词 may seem 是现在时，we converted 突然跳过去式，时态打架；且“我们转变了三种物质的苦味”也不是这段在说的感知机制。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "addition"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "consumption"
+                },
+                {
+                  "key": "E",
+                  "text": "converted"
+                },
+                {
+                  "key": "F",
+                  "text": "convince"
+                },
+                {
+                  "key": "G",
+                  "text": "heightened"
+                },
+                {
+                  "key": "H",
+                  "text": "omission"
+                },
+                {
+                  "key": "I",
+                  "text": "opposite"
+                },
+                {
+                  "key": "J",
+                  "text": "perceive"
+                },
+                {
+                  "key": "K",
+                  "text": "prospect"
+                },
+                {
+                  "key": "L",
+                  "text": "reinforcement"
+                },
+                {
+                  "key": "M",
+                  "text": "separately"
+                },
+                {
+                  "key": "N",
+                  "text": "simply"
+                },
+                {
+                  "key": "O",
+                  "text": "targeted"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) separately\n【原文】对三种并列苦味“分别地”感知，与上下句严丝合缝\nB) approximately “大约”修饰列举不通：宾语是三种清清楚楚并列的物质，没有可供“大约”估计的数量或程度，代入后句子语义垮掉。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "addition"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "consumption"
+                },
+                {
+                  "key": "E",
+                  "text": "converted"
+                },
+                {
+                  "key": "F",
+                  "text": "convince"
+                },
+                {
+                  "key": "G",
+                  "text": "heightened"
+                },
+                {
+                  "key": "H",
+                  "text": "omission"
+                },
+                {
+                  "key": "I",
+                  "text": "opposite"
+                },
+                {
+                  "key": "J",
+                  "text": "perceive"
+                },
+                {
+                  "key": "K",
+                  "text": "prospect"
+                },
+                {
+                  "key": "L",
+                  "text": "reinforcement"
+                },
+                {
+                  "key": "M",
+                  "text": "separately"
+                },
+                {
+                  "key": "N",
+                  "text": "simply"
+                },
+                {
+                  "key": "O",
+                  "text": "targeted"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) addition\n【原文】固定搭配 in addition“此外”，承接上段并列递进\nD) consumption in consumption 不成衔接短语：consumption 意为“消费/饮用”，填进去是“在消费中”，与上下句的并列递进关系无关。\nH) omission omission 语义不搭：omission 是“遗漏”，“在遗漏中”既不是固定短语，也无法连接上下文。\nK) prospect in prospect 意为“在望”，逻辑不符：in prospect 虽存在但表“可能发生、在望”，本句是在补充另一组既成事实的人群，不是预测未来。\nL) reinforcement in reinforcement 不构成衔接：reinforcement“强化”填入后“在强化中”语义不通，且它真正的归宿是 28 空的 positive reinforcement。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "addition"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "consumption"
+                },
+                {
+                  "key": "E",
+                  "text": "converted"
+                },
+                {
+                  "key": "F",
+                  "text": "convince"
+                },
+                {
+                  "key": "G",
+                  "text": "heightened"
+                },
+                {
+                  "key": "H",
+                  "text": "omission"
+                },
+                {
+                  "key": "I",
+                  "text": "opposite"
+                },
+                {
+                  "key": "J",
+                  "text": "perceive"
+                },
+                {
+                  "key": "K",
+                  "text": "prospect"
+                },
+                {
+                  "key": "L",
+                  "text": "reinforcement"
+                },
+                {
+                  "key": "M",
+                  "text": "separately"
+                },
+                {
+                  "key": "N",
+                  "text": "simply"
+                },
+                {
+                  "key": "O",
+                  "text": "targeted"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) avoid\n【原文】对苦味更敏感的人倾向于“避开”咖啡，与 prefer tea to coffee 同向\nJ) perceive “倾向于感知咖啡”语义不通：perceive 的对象是味道、刺激等可感知物，coffee 作为饮品是“喝”的对象；“倾向于察觉咖啡”既不能与上句 prefer tea to coffee 构成同向对照，也不合\nA) addition 名词：添加；附加物；固定短语 in addition 意为“此外” 用于第 34 空\nB) approximately 副词：大约，近似地 干扰词 · 未选用\nC) avoid 动词：避免，避开 用于第 35 空"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "If this doesn't encourage you to squeeze in a workout today, nothing will: a new study from Sweden shows that women who were highly fit in mid-life were nearly 90% less likely to get dementia(失智) decades later."
+            },
+            {
+              "label": "B",
+              "text": "After initial exercise tests in middle age, researchers followed the women for 44 years. Both groups lived just as long, but those who could ride an exercise bike at a fast rate for 6 minutes in the initial test had a much lower risk of dementia later on than those who couldn't complete the workout."
+            },
+            {
+              "label": "C",
+              "text": "The study, published Wednesday in the journal Neurology, couldn't prove that exercise prevented dementia, and the findings aren't a surprise—it's long been known there's a correlation between exercise and decreased dementia risk—but the results were particularly dramatic. About 5% of the women with the highest peak workload—those who were able to bike the hardest over those 6 minutes—developed dementia, compared to 25% of those with medium fitness and 45% who weren't fit enough to finish the test, the study found. Overall, women who were highly fit compared to those who were moderately fit decreased their risk of dementia by 88%. The few highly fit women who did develop dementia became symptomatic at age 90 on average, 11 years later than the moderately fit."
+            },
+            {
+              "label": "D",
+              "text": "\"I'm very surprised that the finding was so strong,\" said Ingmar Skoog, the paper's senior author and a psychiatry(精神病学) professor at The University of Gothenburg in Sweden. \"It really shows the importance of exercise.\""
+            },
+            {
+              "label": "E",
+              "text": "Dementia, as defined in medical dictionaries, is a broad term that describes a loss of thinking ability, memory, attention, logical reasoning, and other mental abilities. These changes are severe enough to interfere with social or occupational functioning. Dementia isn't a disease. Instead, it's a group of symptoms caused by other conditions. It happens when the parts of your brain used for learning, memory, decision making, and language are damaged or diseased. About 5%-8% of adults over age 65 have some form of dementia. This percentage doubles every 5 years after 65. As many as half of people in their 80s have some form of dementia."
+            },
+            {
+              "label": "F",
+              "text": "Dementia is not temporary confusion or forgetfulness that might result from an infection that heals without treatment. It can also come from an underlying(潜在的) illness or side effects of medications. Dementia typically gets worse over time. People with dementia have problems with thinking and remembering that affect their ability to manage their daily life."
+            },
+            {
+              "label": "G",
+              "text": "Dementia is typically associated with declines in cognitive function. Yet researchers have found an association between dementia and declines in hearing and other basic sensory functions."
+            },
+            {
+              "label": "H",
+              "text": "Though the study mentioned above was fairly small (only 191 women took the initial fitness test, which means it's hard to maintain statistical significance while breaking the group down into sub-categories of more or less fit), it does give us hope that dementia can be prevented or delayed through exercise in one's middle age."
+            },
+            {
+              "label": "I",
+              "text": "Alzheimer's(阿尔茨海默症) and other dementias are believed to begin 15-20 years before symptoms even appear, so it makes sense that exercising in mid-life would affect the risk, Skoog said. Exercise alone is not likely to prevent Alzheimer's, but the study shows people are not helpless in the face of one of the most feared, costliest and common diseases of old age, he added. And the same activities that help prevent Alzheimer's—including avoiding smoking, getting adequate exercise and sleep and eating a healthy diet—also prevent heart disease, he said, making them even more worthwhile. \"You can do something yourself to decrease your odds,\" Skoog said."
+            },
+            {
+              "label": "J",
+              "text": "Maintaining a healthy lifestyle in mid-life, decades before disease sets in, makes sense, said David Knopman, a fellow of the American Academy of Neurology, who was not involved in the study. \"I suspect it's a dose,\" said Knopman, also associate director of the Alzheimer's Disease Research Center at Mayo Clinic in Rochester, Minnesota. \"Starting in late life is better than not starting at all, but starting in mid-life seems to offer a larger benefit.\""
+            },
+            {
+              "label": "K",
+              "text": "Although it is not entirely clear why exercise helps put off or prevent Alzheimer's, Knopman said it's likely that exercise maintains good blood flow to the brain. \"When the brain is healthier from a vascular(血管的) point of view, it can absorb more Alzheimer's pathogen(病原体) before people become symptomatic,\" he said."
+            },
+            {
+              "label": "L",
+              "text": "The message isn't that everyone needs to run marathons in middle age, Knopman said, but a healthy lifestyle pays off."
+            },
+            {
+              "label": "M",
+              "text": "This type of study can't say exactly what kind of exercise is best, or how much is needed—only a study that has a placebo(安慰剂) group and tracks people going forward can do that, said Keith Fargo, director of scientific programs and outreach at the non-profit Alzheimer's Association. \"The literature has not yet settled on an amount or type of exercise that is going to be key, although the bulk of literature has suggested that aerobic(有氧的) exercise is what you need to be doing,\" he said. That doesn't mean you have to compete in marathons but \"more than a 10-min dog walk\" would be a good idea, Fargo said."
+            },
+            {
+              "label": "N",
+              "text": "Several lifestyle studies are getting underway soon, including one backed by the Alzheimer's Association called the US POINTER study, which will offer at-risk adults, ages 60-79, a series of lifestyle interventions(干预) to see if they impact Alzheimer's risk. That and other Alzheimer's-related studies are always looking for volunteers to participate, he said."
+            },
+            {
+              "label": "O",
+              "text": "In the next three to five years, these studies should allow researchers to provide clearer recommendations for exercise and other lifestyle modifications that might reduce Alzheimer's risk, such as sleep, diet and social activities, Fargo said. But it's already quite clear that exercising at any point in life is better for your brain than not exercising at all, Fargo added."
+            },
+            {
+              "label": "P",
+              "text": "\"If you don't want to have dementia when you're 80, the time to start getting fit is now,\" he said. \"It may not necessarily give you a longer life, but there's a compelling body of work that it will give you more good years.\""
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "It is typical for dementia to worsen with the passage of time.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（弱锚点）\n【原文】Dementia typically gets worse over time.\nDementia, as defined in medical dictionaries, is a broad term that describes a loss of thinking ability, memory, attention, logical reasoning, and other mental abilities 谈的是痴呆定义，虽然话题相邻，但没有“随时间恶化”的信息。"
+            },
+            {
+              "number": 37,
+              "stem": "According to Knopman, the study gives the message that a healthy lifestyle is beneficial, but not that all the middle-aged need heavy exercise.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "L",
+                  "text": "Paragraph L"
+                }
+              ],
+              "answer": "L",
+              "type": "信息匹配",
+              "analysis": "【答案】L（强锚点）\n【原文】The message isn't that everyone needs to run marathons in middle age, Knopman said, but a healthy lifestyle pays off.\nMaintaining a healthy lifestyle in mid-life... starting in mid-life seems to offer a larger benefit 虽然也是 Knopman 谈健康生活方式，但没有题干中“不必进行 heavy exercise”这层意思。"
+            },
+            {
+              "number": 38,
+              "stem": "The results of a new study will encourage middle-aged women to find time exercising however busy they are.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（弱锚点）\n【原文】If this doesn't encourage you to squeeze in a workout today, nothing will: a new study from Sweden shows that women who were highly fit in mid-life were nearly 90% less likely to get dementia(失智) decades later.\nIf this doesn't encourage you to squeeze in a workout today, nothing will: a new study from Sweden shows that women who were highly fit in mid-life were nearly 90% less likely to get dementia(失智) decades later."
+            },
+            {
+              "number": 39,
+              "stem": "Hopefully, one can postpone or prevent dementia by exercising in their mid-life.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（弱锚点）\n【原文】it does give us hope that dementia can be prevented or delayed through exercise in one's middle age.\nwomen who were highly fit in mid-life were nearly 90% less likely to get dementia 只报告风险降低，未出现 hope / prevented or delayed 的表述。"
+            },
+            {
+              "number": 40,
+              "stem": "In a few years, researchers should be able to offer clearer advice on exercise and other lifestyle changes for reducing the incidence of Alzheimer's.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "O",
+                  "text": "Paragraph O"
+                }
+              ],
+              "answer": "O",
+              "type": "信息匹配",
+              "analysis": "【答案】O（弱锚点）\n【原文】In the next three to five years, these studies should allow researchers to provide clearer recommendations for exercise and other lifestyle modifications that might reduce Alzheimer's risk, such as sleep, diet and social activities, Fargo said.\nSeveral lifestyle studies are getting underway soon, including one backed by the Alzheimer's Association called the US POINTER study 只说明研究即将开始，没有“提供 clearer recommendations”的表述。"
+            },
+            {
+              "number": 41,
+              "stem": "Dementia refers to a loss of multiple mental abilities such as memory and logical reasoning.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】Dementia, as defined in medical dictionaries, is a broad term that describes a loss of thinking ability, memory, attention, logical reasoning, and other mental abilities.\nDementia is typically associated with declines in cognitive function 只提到 cognitive function，没有 memory / logical reasoning 等列举。"
+            },
+            {
+              "number": 42,
+              "stem": "One researcher believes that exercise may keep the brain well supplied with blood.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】it's likely that exercise maintains good blood flow to the brain.\ndementia can be prevented or delayed through exercise in one's middle age 谈的是运动效果，没有 blood flow 的机制内容。"
+            },
+            {
+              "number": 43,
+              "stem": "Medical literature has not concluded as to what exercise or how much exercise is crucial, although it generally agrees that people should do aerobic exercise.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "M",
+                  "text": "Paragraph M"
+                }
+              ],
+              "answer": "M",
+              "type": "信息匹配",
+              "analysis": "【答案】M（强锚点）\n【原文】The literature has not yet settled on an amount or type of exercise that is going to be key, although the bulk of literature has suggested that aerobic(有氧的) exercise is what you need to be doing,\nThe literature has not yet settled on an amount or type of exercise that is going to be key, although the bulk of literature has suggested that aerobic(有氧的) exercise is what you need to be doing,"
+            },
+            {
+              "number": 44,
+              "stem": "It has long been common knowledge that exercise correlates with reduced risk of dementia.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】the findings aren't a surprise—it's long been known there's a correlation between exercise and decreased dementia risk\nit does give us hope that dementia can be prevented or delayed through exercise in one's middle age 强调研究带来的 hope，不是 long been known。"
+            },
+            {
+              "number": 45,
+              "stem": "Activities helpful in the prevention of Alzheimer's also prevent heart disease.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（强锚点）\n【原文】And the same activities that help prevent Alzheimer's—including avoiding smoking, getting adequate exercise and sleep and eating a healthy diet—also prevent heart disease, he said, making them even more worthwhile.\n2026年6月英语四级真题第2套 长篇阅读（信息匹配） 第 1 篇 40. In a few years, researchers should be able to offer clearer advice on exercise and other lifestyle changes for reducing the incidence of Alzheimer's. 这句陈述的信息出自第几段？为什么？ 2026年6月英语四级真题第2套 长篇阅读（信息匹配） 第 1 篇 第 40 句的信息出自 O 段（弱锚点句）。O 段定位句为「In the next three to five years, these studies should allow researchers to provide clearer recommendations for exercise and other lifestyle modifications that might reduce Alzheimer's risk, such as sleep, diet and social activities, Fargo said.」（在未来三到五年内，这些研究应能让研究人员就运动及其他生活方式调整（如睡眠、饮食和社交活动）提供更为明确的建议，以降低阿尔茨海默风险。）。陈述句是对原文的同义改写（In a few years ↔ In the next three to five years；researchers should be able to offer clearer advice ↔ allow researchers to provide clearer recommendations；exercise and other lifestyle changes ↔ exercise and other lifestyle modifications；reducing the incidence of Alzheimer's ↔ reduce Alzheimer's risk）。与之话题相邻的 N 段、M 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "People who systematically underestimate themselves and their own performance suffer from the so-called Impostor Phenomenon. They think that any success is due to external circumstances or just luck and chance. Those people live in constant fear that their \"deception\" will be exposed."
+            },
+            {
+              "label": "B",
+              "text": "It is common for people to question their abilities now and again. A healthy amount of reflection and self-doubt can protect a person from acting impulsively. However, there are people who are permanently plagued by a massive amount of self-doubt despite delivering a good performance. They think that all of their successes are not a product of their skill or hard work, instead they attribute their own successes to external circumstances, for example, to luck and chance, or believe that their performance is massively overestimated by others. Failures, on the other hand, are always internalised as the result of their own shortcomings."
+            },
+            {
+              "label": "C",
+              "text": "Psychologists from Martin Luther University Halle-Wittenberg examined the topic for the first time under real-life conditions. Seventy-six participants completed a range of intelligence tests and received positive feedback on them, regardless of their actual performance. They were then asked why they think they did so well."
+            },
+            {
+              "label": "D",
+              "text": "The study showed two things: First, the self-reported degree of Impostor Phenomenon is not related to actual measured intelligence or performance. Secondly, the test supported the assumption that people with a tendency to exhibit the Impostor Phenomenon devalue their objectively measured performance and attribute positive results to external causes such as luck and chance, but not to their own abilities. These results are also completely unrelated to age and gender."
+            },
+            {
+              "label": "E",
+              "text": "A permanent underestimation of one's own abilities is often accompanied by the fear that this supposed intellectual deception will be exposed sooner or later and that they will pay the price for this. The Impostor Phenomenon was first described in 1978 by US psychologists Pauline Clance and Suzanne Imes. They observed that there is a particularly high number of successful women who do not think they are very intelligent. The Impostor Phenomenon is not defined as a mental illness. However, people who suffer from it show a higher vulnerability to depression."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What do we learn from the passage about people who suffer from the so-called Impostor Phenomenon?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They systematically underestimate their chances of success."
+                },
+                {
+                  "key": "B",
+                  "text": "They tend to attribute their achievements to good fortune."
+                },
+                {
+                  "key": "C",
+                  "text": "They seem to live in constant fear of being deceived."
+                },
+                {
+                  "key": "D",
+                  "text": "They generally rely on luck and chance for success."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（见正文）"
+            },
+            {
+              "number": 47,
+              "stem": "What do people with a healthy amount of reflection and self-doubt tend to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Credit all their successes to hard work."
+                },
+                {
+                  "key": "B",
+                  "text": "Strive hard to perfect their skills."
+                },
+                {
+                  "key": "C",
+                  "text": "Refrain from acting on impulse."
+                },
+                {
+                  "key": "D",
+                  "text": "Deliver a better performance."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（见正文）"
+            },
+            {
+              "number": 48,
+              "stem": "What do Impostor Phenomenon sufferers often do according to psychologists from Martin Luther University Halle-Wittenberg?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Attribute their accomplishments to others."
+                },
+                {
+                  "key": "B",
+                  "text": "Deny their actual measured intelligence."
+                },
+                {
+                  "key": "C",
+                  "text": "Claim to have confidence in their own abilities."
+                },
+                {
+                  "key": "D",
+                  "text": "Mark down their objectively rated performance."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（见正文）"
+            },
+            {
+              "number": 49,
+              "stem": "What happens when a person permanently underestimates their own abilities?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They will focus their attention on external factors."
+                },
+                {
+                  "key": "B",
+                  "text": "They will be fearful of potential consequences."
+                },
+                {
+                  "key": "C",
+                  "text": "They will count on good fortune for success."
+                },
+                {
+                  "key": "D",
+                  "text": "They will keep improving their own skills."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（见正文）"
+            },
+            {
+              "number": 50,
+              "stem": "What did US psychologists Pauline Clance and Suzanne Imes say about Impostor Phenomenon sufferers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are more liable to have depression."
+                },
+                {
+                  "key": "B",
+                  "text": "They seldom realise their potential fully."
+                },
+                {
+                  "key": "C",
+                  "text": "They will develop mental illnesses."
+                },
+                {
+                  "key": "D",
+                  "text": "They will pay higher prices one day."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（见正文）"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Music is a universal language. In every culture and country, you will find music. It is vitally important across the globe and has the potential to bring people together in peace and harmony. One of my favorite experiences in music is seeing musicians from different cultures come together and perform as a group. When each culture brings its own unique qualities to the group, an entirely new sound is achieved. This can create extraordinary results. People can communicate with each other using music as the common language."
+            },
+            {
+              "label": "B",
+              "text": "One common musical thread between cultures is known as the pentatonic scale. It is astonishing how many cultures share this tool in approaching music. The pentatonic scale consists of five notes; \"penta-\" meaning 5, and \"tonic\" meaning tone or note. This scale can be found in music everywhere including that of Native Americans, Africans, and Asians. It is also found in popular music, blues, jazz, and rock. Using this five-note scale, musicians from around the globe have a medium through which they can relate, communicate, perform, and ultimately understand each other."
+            },
+            {
+              "label": "C",
+              "text": "Music is tied to specific perceptual(感知的), mental, and emotional faculties, including language (all societies put words to their songs), motor control (people in all societies dance), sound analysis (all musical systems have a distinct pitch and quality), and aesthetics(美感) (their tunes and rhythms are balanced between repetitiveness and chaos)."
+            },
+            {
+              "label": "D",
+              "text": "There is no known society that existed without music. Although each culture has their own specific style and approach to music, you will find that the purposes behind music are very similar across the board. Music essentially serves to express or change emotions. It can cheer you up, sadden you, anger you or excite you. Music is often ceremonial: used in religion, ceremony, and celebration. Music can simply be recreational: entertaining, joyful and fun. Any way you have used music, it is almost certain that every other culture has used music in the very same way. And that is something that bonds all of us. We all share a deep love for music and it has the power to unite us."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "In what way is music important?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is able to create novel and extraordinary emotions."
+                },
+                {
+                  "key": "B",
+                  "text": "It has the power to unite people throughout the world."
+                },
+                {
+                  "key": "C",
+                  "text": "It allows different cultural groups to sing in harmony."
+                },
+                {
+                  "key": "D",
+                  "text": "It is the only language favored by all peoples of the world."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】It is vitally important across the globe and has the potential to bring people together in peace and harmony.\nA) 偷换概念：选项 It is able to create novel and extraordinary emotions 把原文 This can create extraordinary\nB) ✓ 正确：has the potential to bring people together ↔ has the power to unite people across the glob\nC) 过度推断：原文 bring people together in peace and harmony 中的 harmony 是比喻性的和平和谐，选项 It allows different \nD) 过度推断：原文 Music is a universal language 只说音乐是通用语言，并未说它是 the only language favored by all peoples "
+            },
+            {
+              "number": 52,
+              "stem": "Why does the author like to see musicians from different cultures perform together?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their musical experience can be compared."
+                },
+                {
+                  "key": "B",
+                  "text": "A novel language can be created."
+                },
+                {
+                  "key": "C",
+                  "text": "Their unique skills can be displayed."
+                },
+                {
+                  "key": "D",
+                  "text": "Fantastic results can be achieved."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】One of my favorite experiences in music is seeing musicians from different cultures come together and perform as a group. When each culture brings its own unique qualities to the group, an entirely new sound is achieved. This can create extraordinary results.\nA) 无中生有：选项 Their musical experience can be compared 提出 '比较经历'，但原文 P1 只描述作者喜欢观看这种表演，未涉及比较。\nB) 偷换概念：原文 an entirely new sound is achieved 说的是产生全新声音，选项 A novel language can be created 把 sound \nC) 偷换概念：原文 each culture brings its own unique qualities to the group 强调文化特质被带入团体以创造新声音，选项 Their un\nD) ✓ 正确：This can create extraordinary results. ↔ Fantastic results can be achieved. an entirely ne"
+            },
+            {
+              "number": 53,
+              "stem": "What does the passage say about the pentatonic scale?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is present in music all around the world."
+                },
+                {
+                  "key": "B",
+                  "text": "It is helpful to understanding music."
+                },
+                {
+                  "key": "C",
+                  "text": "It is the basis for musicians' creation."
+                },
+                {
+                  "key": "D",
+                  "text": "It is a medium for ordinary people to relate."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】This scale can be found in music everywhere including that of Native Americans, Africans, and Asians. It is also found in popular music, blues, jazz, and rock.\nA) ✓ 正确：This scale can be found in music everywhere ↔ It is present in music all around the world.\nB) 过度推断：原文 musicians from around the globe have a medium through which they can relate, communicat\nC) 过度推断：原文 a medium through which they can relate 说五声音阶是交流的媒介，选项 It is the basis for musicians' cr\nD) 偷换概念：原文 musicians from around the globe have a medium through which they can relate 的主体是 musici"
+            },
+            {
+              "number": 54,
+              "stem": "What is the fundamental role of music in people's life?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To bring them together."
+                },
+                {
+                  "key": "B",
+                  "text": "To show their identity."
+                },
+                {
+                  "key": "C",
+                  "text": "To express their emotions."
+                },
+                {
+                  "key": "D",
+                  "text": "To keep them entertained."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Music essentially serves to express or change emotions.\nA) 答非所问：原文 has the potential to bring people together 与 it has the power to unite us 确实是音乐的作用，但题干问\nB) 无中生有：选项 To show their identity 提出 '展示身份'，但原文从未提到 identity 或相关概念。\nC) ✓ 正确：Music essentially serves to express or change emotions ↔ To express their emotions. 原文 Mus\nD) 以偏概全：原文 Music can simply be recreational: entertaining, joyful and fun 提到娱乐是音乐的用途之一，但选项 To keep"
+            },
+            {
+              "number": 55,
+              "stem": "In what aspect is music similar throughout the world?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The way people respond to it."
+                },
+                {
+                  "key": "B",
+                  "text": "The role it plays in society."
+                },
+                {
+                  "key": "C",
+                  "text": "The joy it brings to people."
+                },
+                {
+                  "key": "D",
+                  "text": "The way it is made use of."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Although each culture has their own specific style and approach to music, you will find that the purposes behind music are very similar across the board. Any way you have used music, it is almost certain that every other culture has used music in the very same way.\nA) 偷换概念：原文 every other culture has used music in the very same way 说的是 '使用' 音乐的方式相同，选项 The way peo\nB) 以偏概全：原文 the purposes behind music are very similar across the board 强调使用目的/方式相似，选项 The role it \nC) 以偏概全：原文 Music can simply be recreational: entertaining, joyful and fun 提到 joy 是娱乐用途的一部分，选项 The \nD) ✓ 正确：the purposes behind music are very similar across the board ↔ The way it is made use of. e"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n餐桌礼仪 (dining etiquette) 是中华传统文化的重要组成部分，蕴含着热情有礼的待客之道。为了招待客人，主人会根据客人的口味和喜好准备丰富精致的菜肴。就餐座位的安排非常讲究，主人坐在正对大门的位置，在主人身边就座的是最重要的客人。进餐时，主人会不时地为客人添酒加菜。这种独特的餐桌礼仪已延续了数千年，对促进和谐的人际交往起到了重要的作用。",
+              "analysis": "【参考译文】\nDining etiquette is an important part of traditional Chinese culture, embodying the warm and courteous way of treating guests. To entertain guests, the host prepares rich and exquisite dishes according to their tastes and preferences. The seating arrangement is very particular: the host sits in the seat directly facing the gate, while the most important guest sits beside him. During the meal, he refills wine and adds more dishes for the guests from time to time. This unique dining etiquette has lasted for thousands of years and has played an important role in promoting harmonious interpersonal relationships."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2026-06-2/",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 79
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2026-06-2/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

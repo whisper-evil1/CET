@@ -1,17 +1,38 @@
 import Link from "next/link";
 import { auth } from "@/lib/auth";
+import { SignInCenter } from "./sign-in-center";
 
 /**
  * 全站顶部导航（服务端组件，直接读会话）。
  * 刻意做得很轻：一根细线 + 字距很松的小字母，不抢正文的注意力。
  */
-export async function SiteHeader({ active }: { active?: "home" | "vocab" | "favorites" | "profile" | "leaderboard" }) {
+export async function SiteHeader({
+  active,
+}: {
+  active?:
+    | "home"
+    | "arcade"
+    | "study"
+    | "create"
+    | "vocab"
+    | "favorites"
+    | "profile"
+    | "leaderboard"
+    | "mistakes";
+}) {
   const session = await auth();
   const user = session?.user;
 
-  const links: { href: string; label: string; key: "home" | "vocab" | "favorites" | "leaderboard" | "profile" }[] = [
-    { href: "/", label: "试卷", key: "home" },
+  type NavKey = NonNullable<Parameters<typeof SiteHeader>[0]["active"]>;
+
+  // 导航顺序 = 使用顺序：先读（闯关）再背（生词本）再写（创作），其余是个人数据。
+  // 背单词（词书/词本管理）已并入「生词本」，不再单独一个入口。
+  const links: { href: string; label: string; key: NavKey }[] = [
+    { href: "/", label: "首页", key: "home" },
+    { href: "/arcade", label: "闯关", key: "arcade" },
     { href: "/vocab", label: "生词本", key: "vocab" },
+    { href: "/create", label: "创作", key: "create" },
+    { href: "/mistakes", label: "错题", key: "mistakes" },
     { href: "/favorites", label: "收藏", key: "favorites" },
     { href: "/leaderboard", label: "排行", key: "leaderboard" },
     { href: "/profile", label: "我的", key: "profile" },
@@ -31,6 +52,7 @@ export async function SiteHeader({ active }: { active?: "home" | "vocab" | "favo
         </Link>
 
         <div className="order-2 ml-auto flex shrink-0 items-center gap-3 sm:order-3">
+          {user && <SignInCenter />}
           {user ? (
             <Link
               href="/profile"
@@ -51,12 +73,14 @@ export async function SiteHeader({ active }: { active?: "home" | "vocab" | "favo
           )}
         </div>
 
-        <nav className="order-3 flex w-full items-center gap-1 overflow-x-auto sm:order-2 sm:ml-2 sm:w-auto sm:shrink">
+        {/* 小屏：标签允许换行。之前是 overflow-x-auto，320px 宽（iPhone SE 一代）
+            下「我的」被裁在滚动区外，用户以为没有这个入口。换行宁可多占一行。 */}
+        <nav className="order-3 flex w-full flex-wrap items-center gap-1 sm:order-2 sm:ml-2 sm:w-auto sm:shrink sm:flex-nowrap sm:overflow-x-auto">
           {links.map((link) => (
             <Link
               key={link.href}
               href={link.href}
-              className={`shrink-0 whitespace-nowrap rounded px-2.5 py-1.5 text-[13px] transition-colors ${
+              className={`shrink-0 whitespace-nowrap rounded px-2 py-1.5 text-[12.5px] transition-colors sm:px-2.5 sm:text-[13px] ${
                 active === link.key
                   ? "bg-ink text-paper"
                   : "text-ink-soft hover:bg-paper-deep hover:text-ink"

@@ -1,0 +1,2694 @@
+{
+  "id": "cet4-2026-06-s3",
+  "level": "CET4",
+  "year": 2026,
+  "month": 6,
+  "setNo": 3,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose you are invited to put forward a proposal to the university on how to make students' campus life easier. You are now to write an essay to make your proposal. You will have 30 minutes to write the essay. You should write at least 120 words but not more than 180 words.",
+              "analysis": "【参考范文】\nI am honored to submit a proposal on how to make students' campus life easier. As daily routines grow more demanding, small improvements in campus services can save students considerable time and energy.\n\nFirst, the university could develop a one-stop mobile app that integrates course schedules, room bookings, and exam arrangements. This would spare students the trouble of switching between multiple platforms. Second, extending library opening hours and adding more self-study spaces during examination periods would reduce overcrowding. Third, improving shuttle-bus frequency between teaching buildings and dormitories would make commuting less stressful.\n\nThese practical measures, if implemented, would significantly ease students' daily pressures. I sincerely hope the university will consider this proposal and take steps toward a more convenient campus life."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "本场次听力只有一份音频，本套听力与同场第一套同卷；原文、题目与答案取自该套真题。考场多套卷的选项顺序可能不同，这里沿用第一套的顺序。在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 15.4,
+              "text": "A man was left with a $1,000 bill, after his 6-year-old son ordered a virtual buffet of food from several restaurants last weekend. This led to a string of unexpected deliveries, and maybe a starring role in an advertisement campaign.",
+              "zh": "上周末，一名男子的6岁儿子从多家餐厅订购了一顿“虚拟自助餐”，结果给他留下了一张1000美元的账单。这引发了一连串意外送餐，也可能让他在一场广告宣传活动中担任主角。"
+            },
+            {
+              "id": 2,
+              "start": 15.8,
+              "end": 48.4,
+              "text": "Keith Stonehouse said the food piled up quickly at his home Saturday night, after he let his son use his cell phone to play a game before bed. He said the youngster instead used his father's online food ordering account to order food from one restaurant after another. The boy's mother, Christine Stonehouse, said that the online food app has reached out to the family and offered them a $1,000 gift card. The company also is considering using the family in an online promotional campaign.",
+              "zh": "基思·斯通豪斯说，上周六晚上，他让儿子睡前用自己的手机玩游戏，之后食物很快就堆满了家里。他说，孩子没有玩游戏，而是使用父亲的在线点餐账户，一家接一家地订购食物。男孩的母亲克里斯蒂娜·斯通豪斯说，这款在线点餐应用已经联系了他们一家，并向他们提供了一张价值1000美元的礼品卡。该公司还在考虑让这一家人参与一场线上宣传活动。"
+            },
+            {
+              "id": 3,
+              "start": 48.8,
+              "end": 59.5,
+              "text": "Most of the food went into the family's refrigerators. They also invited some neighbors over to eat some of it. The father is planning to change his password.",
+              "zh": "大部分食物都放进了家里的冰箱。他们还邀请了一些邻居来吃掉其中一部分。孩子的父亲打算更改密码。"
+            }
+          ],
+          "audioDuration": 59.5,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "Why was Keith Stonehouse left with a $1,000 bill?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He had bought meals with his online food ordering account."
+                },
+                {
+                  "key": "B",
+                  "text": "His son had used his cell phone to pay for playing a game."
+                },
+                {
+                  "key": "C",
+                  "text": "His son had ordered food from several restaurants."
+                },
+                {
+                  "key": "D",
+                  "text": "He had dined out at a famous five-star restaurant."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：A man was left with a $1,000 bill, after his 6-year-old son ordered a virtual buffet of food from several restaurants last weekend.信号：after 因果链 。新闻首句用 after his 6-year-old son ordered... 直接交代了账单产生的原因：after 前面是结果（$1,000 bill），后面是原因（儿子点餐）。",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确实出现了 'online food ordering account'，但用该账户点餐的是儿子，不是父亲；A 把动作主体从 son 偷换成 He，属于典型的主体张冠李戴。 借用原文：let his son use his cell phone to play a game",
+                "B": "原词陷阱：录音提到父亲 'let his son use his cell phone to play a game'，但儿子实际上没玩游戏，而是去点餐了；B 把 'play a game' 偷换成 'pay for playing a game'，动作和目的都错了。",
+                "D": "未提及：录音从未提到 'five-star restaurant'，也未说父亲外出就餐；D 用高档餐厅制造生活常识诱惑，属于录音中找不到依据的干扰。",
+                "C": "正确项：与答案句同义替换（his 6-year-old son ordered a virtual buffet of food from several restaurants ↔ His son had ordered food from several restaurants. 概括式同义替换）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "A man was left with a $1,000 bill, after his 6-year-old son ordered a virtual buffet of food from several restaurants last weekend.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What does the news report say Keith Stonehouse is planning to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Teach his son a lesson."
+                },
+                {
+                  "key": "B",
+                  "text": "Change his password."
+                },
+                {
+                  "key": "C",
+                  "text": "Ask his neighbors for help."
+                },
+                {
+                  "key": "D",
+                  "text": "Buy a bigger refrigerator."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：The father is planning to change his password.信号：planning to 直接对应题干 。is planning to change his password 中的 'planning to' 与题干 'is planning to do' 完全同构，后面接的 'c…",
+              "optionAnalysis": {
+                "A": "未提及：录音中没有出现 'teach his son a lesson' 或任何惩罚、教育的表述；A 是利用家长的'常识反应'编造的合理但无依据选项。",
+                "C": "原词陷阱：录音确实提到 'invited some neighbors over to eat some of it'，但目的是分享食物，不是 'ask his neighbors for help'；C 盗用 'neighbors' 一词并改变了动作性质。 借用原文：refrigerators",
+                "D": "原词陷阱：录音提到 'Most of the food went into the family's refrigerators'，但完全没有 'buy a bigger refrigerator' 的计划；D 用 'refrigerator' 这个原词做诱饵，把'已有冰箱'偷换成'要买更大的冰箱'。",
+                "B": "正确项：与答案句同义替换（change his password ↔ Change his password. 原词复现 + 主语省略）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "The father is planning to change his password.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 4.2,
+              "text": "1 Animal behaviour experts looked at more than 100 research papers."
+            },
+            {
+              "id": 2,
+              "start": 4.5,
+              "end": 9.9,
+              "text": "They examined how visitors affected the behaviour of more than 250 species in zoos."
+            },
+            {
+              "id": 3,
+              "start": 10.3,
+              "end": 15.3,
+              "text": "They found that elephants socialised more with each other during public feeding times."
+            },
+            {
+              "id": 4,
+              "start": 15.7,
+              "end": 22.6,
+              "text": "After public feeding times, they were more likely to search for food and less likely to be inactive."
+            },
+            {
+              "id": 5,
+              "start": 23,
+              "end": 38,
+              "text": "In the presence of many visitors, elephants were less likely to use repetitive behaviours which often indicate boredom. 2 Visitors had a similar effect on some other species too, including polar bears, certain jungle cats and black-tailed plain dogs."
+            },
+            {
+              "id": 6,
+              "start": 38.4,
+              "end": 46.4,
+              "text": "Some animal species have been born and raised in zoos, and so have likely become used to the presence of humans."
+            },
+            {
+              "id": 7,
+              "start": 46.8,
+              "end": 59.8,
+              "text": "Zoo visitors are often aspects of a zoo animal's environment that animals cannot control, and as such can be stressful, although some species appear to show good adaptability to the changing conditions of visitors."
+            }
+          ],
+          "audioDuration": 59.8,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What did animal behaviour experts do according to the news report?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They examined how visitors affected animal behaviour in zoos."
+                },
+                {
+                  "key": "B",
+                  "text": "They studied when the best time to feed animals in public was."
+                },
+                {
+                  "key": "C",
+                  "text": "They studied how animals adapted themselves to life in zoos."
+                },
+                {
+                  "key": "D",
+                  "text": "They examined what behaviours indicated animal boredom."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：They examined how visitors affected the behaviour of more than 250 species in zoos.信号：直接陈述研究内容的动作句 。Paragraph 1 开头先说专家 looked at more than 100 research papers，紧接着 They examined how visitors affe…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音提到 during public feeding times 与 After public feeding times，但这是在说大象的行为变化，B 项把 public feeding times 改成 'the best time to feed animals'，既偷换概念又答非所问。 借用原文：good adaptability to the changing conditions of visitors",
+                "C": "偷换概念：some species appear to show good adaptability to the changing conditions of visitors 讲的是适应游客变化，C 项改成 'adapted themselves to life in zoos'，对象从 visitors 变成 zoos，属于偷换概念。 借用原文：repetitive behaviours which often indicate boredom",
+                "D": "原词陷阱：repetitive behaviours which often indicate boredom 只是研究中的一个发现细节，D 项把它上升为专家的研究主题 'what behaviours indicated animal boredom'。",
+                "A": "正确项：与答案句同义替换（They examined how visitors affected the behaviour of more than 250 species in zoos. ↔ They examined how visitors affected animal behaviour in zoos. 具体数量概括为 animal，研究对象一致）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "They examined how visitors affected the behaviour of more than 250 species in zoos.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "Why have some animal species likely become used to the presence of humans?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They socialise with zookeepers as well as with each other."
+                },
+                {
+                  "key": "B",
+                  "text": "They show good adaptability to living with humans."
+                },
+                {
+                  "key": "C",
+                  "text": "They have been kept as pets by humans."
+                },
+                {
+                  "key": "D",
+                  "text": "They have been born and raised in zoos."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：Some animal species have been born and raised in zoos, and so have likely become used to the presence of humans.信号：因果连词 and so 把原因和结果钉在一起 。题干中的 'become used to the presence of humans' 与答案句后半句完全对应，前半句 'have been born and rai…",
+              "optionAnalysis": {
+                "A": "张冠李戴：elephants socialised more with each other 是 Paragraph 1 中关于大象的发现，与题干问的 'some animal species' 习惯人类无关，且 zookeepers 在录音中从未出现。 借用原文：good adaptability to the changing conditions of visitors",
+                "B": "答非所问：录音确实提到 some species appear to show good adaptability to the changing conditions of visitors，但这是习惯人类之后表现出的能力，是结果；题干问 why，B 项答非所问。",
+                "C": "未提及：录音只说 born and raised in zoos 导致习惯人类存在，从未提到 as pets。",
+                "D": "正确项：与答案句同义替换（have been born and raised in zoos ↔ They have been born and raised in zoos. 原因部分被原样截取，主语由 Some animal species 换成 They）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Some animal species have been born and raised in zoos, and so have likely become used to the presence of humans.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 3.8,
+              "text": "1 Denver is suspending its popular electric bike incentive program."
+            },
+            {
+              "id": 2,
+              "start": 4.1,
+              "end": 6.5,
+              "text": "The program was launched in April."
+            },
+            {
+              "id": 3,
+              "start": 6.8,
+              "end": 14.5,
+              "text": "It allowed Denver residents to apply for $400 in government funds before buying an electric bike from a participating shop."
+            },
+            {
+              "id": 4,
+              "start": 14.8,
+              "end": 18.7,
+              "text": "Residents who met certain income qualifications could qualify for $1,200."
+            },
+            {
+              "id": 5,
+              "start": 19.1,
+              "end": 29.8,
+              "text": "More than 3,000 Denver residents applied for incentives within the first 3 weeks. 2 The city then changed the program to limit the number of applications each month."
+            },
+            {
+              "id": 6,
+              "start": 30.2,
+              "end": 32.8,
+              "text": "On Monday, the city announced the pause."
+            },
+            {
+              "id": 7,
+              "start": 33.1,
+              "end": 41.6,
+              "text": "\"We're honored to be a part of transforming the way Denver wants to move around,\" said Grace Rink, Denver's chief climate officer."
+            },
+            {
+              "id": 8,
+              "start": 42,
+              "end": 54.6,
+              "text": "\"We exhausted three years' worth of funding in six months.\" The city said the program has put 4,400 electric bikes on the streets of Denver and invested $8.6 million into the local economy."
+            },
+            {
+              "id": 9,
+              "start": 55,
+              "end": 61.1,
+              "text": "The city has provided 2,200 incentives to lower-income residents that represent 68% of the program funding."
+            },
+            {
+              "id": 10,
+              "start": 61.5,
+              "end": 65.3,
+              "text": "The city expects to resume the program early next year."
+            },
+            {
+              "id": 11,
+              "start": 65.6,
+              "end": 71.4,
+              "text": "It also plans design changes to make participation easier and increase access to the program."
+            }
+          ],
+          "audioDuration": 71.4,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What is Denver doing with its popular electric bike incentive program?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Adjusting it."
+                },
+                {
+                  "key": "B",
+                  "text": "Suspending it."
+                },
+                {
+                  "key": "C",
+                  "text": "Reevaluating it."
+                },
+                {
+                  "key": "D",
+                  "text": "Expanding it."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：Denver is suspending its popular electric bike incentive program.信号：新闻首句直接点题 。Denver is suspending its popular electric bike incentive program 位于新闻首句，直接回答了 What is Denver doing…",
+              "optionAnalysis": {
+                "A": "答非所问：选项 A 的 Adjusting 看似与原文 plans design changes 沾边，但 design changes 是 plan（计划），不是当前正在做的动作，且题干问的是 doing（现在进行）。 借用原文：increase access to the program",
+                "C": "未提及：选项 C 的 Reevaluating 在录音中没有对应表述，属于凭空捏造。",
+                "D": "偷换概念：选项 D 的 Expanding it 容易被 increase access to the program 诱惑，但 increase access 是 plans（未来设计目标），且项目当前是暂停而非扩张。",
+                "B": "正确项：与答案句同义替换（is suspending ↔ Suspending it 现在进行时动作直接对应）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Denver is suspending its popular electric bike incentive program.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "How did the electric bike incentive program benefit residents?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They could buy an electric bike for $400 in April."
+                },
+                {
+                  "key": "B",
+                  "text": "They could buy their first electric bike at a discount."
+                },
+                {
+                  "key": "C",
+                  "text": "They could enjoy free after-sale service for their purchase."
+                },
+                {
+                  "key": "D",
+                  "text": "They could get $1,200 from government funds if they qualified."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：It allowed Denver residents to apply for $400 in government funds before buying an electric bike from a participating shop. Residents who met certain income qualifications could qualify for $1,200.信号：居民获益的具体说明 。题干 benefit residents 问居民如何受益，原文 allowed Denver residents to apply for $400 和 Residents who met ce…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 A 把 $400 in government funds 和 launched in April 两个原词拼凑成 buy an electric bike for $400 in April，但原文说的是申请 $400 资金，不是花 $400 买车；April 是项目启动时间，不是买车时间。 借用原文：buying an electric bike from a participating shop",
+                "B": "原词陷阱：选项 B 盗用原文 buying an electric bike，但原文说的是申请政府补贴，不是直接打折；discount 在录音中并未出现。",
+                "C": "未提及：选项 C 的 after-sale service 在原文中没有对应内容，属于无中生有。",
+                "D": "正确项：与答案句同义替换（Residents who met certain income qualifications could qualify for $1,200 ↔ They could get $1,200 from government funds if they qualified 同义替换：资格条件与获得资助的改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "It allowed Denver residents to apply for $400 in government funds before buying an electric bike from a participating shop. Residents who met certain income qualifications could qualify for $1,200.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What does the city of Denver expect to do early next year?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Put 400 more electric bikes on its streets."
+                },
+                {
+                  "key": "B",
+                  "text": "Increase the program funding by 8 percent."
+                },
+                {
+                  "key": "C",
+                  "text": "Resume its electric bike incentive program."
+                },
+                {
+                  "key": "D",
+                  "text": "Invest millions of dollars into the local economy."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：The city expects to resume the program early next year.信号：题干关键词直接复现 。原文 expects to resume the program early next year 与题干 expect to do early next year 的关键词 expects / …",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 A 把 $400 和 put 4,400 electric bikes on the streets 拼凑成 Put 400 more electric bikes on its streets，数字和时态都错了。 借用原文：68% of the program funding",
+                "B": "偷换概念：选项 B 的 8 percent 在原文中没有依据，可能是把 68% of the program funding 误听或篡改而来。 借用原文：invested $8.6 million into the local economy",
+                "D": "与原文相反：选项 D 盗用原文 invested $8.6 million into the local economy，但原文用的是 invested（已完成），而题干问的是 expect to do early next year（未来计划），时态不符。",
+                "C": "正确项：与答案句同义替换（expects to resume the program early next year ↔ Resume its electric bike incentive program 同义替换：resume the program = Resume its electric bike incentive program）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The city expects to resume the program early next year.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 5,
+              "text": "W: Hey, Mike, what do you think of the museum you visited today?",
+              "zh": "W: 嘿，迈克，你觉得今天参观的博物馆怎么样？"
+            },
+            {
+              "id": 2,
+              "start": 5.3,
+              "end": 23,
+              "text": "M: Hey, Sue. The museum is great, very interesting. They have loads of stuff there on display. The primitive tools early humans used tell a lot about their life, but my favorite is the coin collection. They have some coins that are over 2,000 years old.",
+              "zh": "M: 嘿，苏。这个博物馆很棒，非常有意思。那里展出了很多东西。早期人类使用的原始工具能让我们了解到很多他们的生活情况，不过我最喜欢的是钱币收藏。他们有些钱币已经有两千多年的历史了。"
+            },
+            {
+              "id": 3,
+              "start": 23.4,
+              "end": 24.9,
+              "text": "W: That sounds cool.",
+              "zh": "W: 听起来很酷。"
+            },
+            {
+              "id": 4,
+              "start": 25.3,
+              "end": 27.9,
+              "text": "M: Yeah, what did you do today?",
+              "zh": "M: 是啊，你今天做了什么？"
+            },
+            {
+              "id": 5,
+              "start": 28.3,
+              "end": 40.6,
+              "text": "W: Kathy and I just wandered through the old city centre. The streets are narrow but beautiful with plenty of charm. We saw the Trevi Fountain, which is in all the guidebooks.",
+              "zh": "W: 我和凯西只是逛了逛老城区。街道虽然狭窄，却很漂亮，充满了魅力。我们看了特莱维喷泉，所有旅游指南上都有介绍。"
+            },
+            {
+              "id": 6,
+              "start": 41,
+              "end": 43.3,
+              "text": "M: How do you like it?",
+              "zh": "M: 你觉得怎么样？"
+            },
+            {
+              "id": 7,
+              "start": 43.6,
+              "end": 47.5,
+              "text": "W: It's very pretty, but it was overcrowded with tourists.",
+              "zh": "W: 非常漂亮，不过游客太多了，挤得水泄不通。"
+            },
+            {
+              "id": 8,
+              "start": 47.9,
+              "end": 54.4,
+              "text": "M: Yeah, well, it's crowded everywhere. It is August after all, the busiest month of the year.",
+              "zh": "M: 是啊，到处都很拥挤。毕竟现在是八月，一年中最繁忙的月份。"
+            },
+            {
+              "id": 9,
+              "start": 54.8,
+              "end": 61.7,
+              "text": "W: Yes, it's like the whole world is here on holiday, including us. What will you do tomorrow?",
+              "zh": "W: 是啊，感觉全世界的人都来这里度假了，包括我们。你明天打算做什么？"
+            },
+            {
+              "id": 10,
+              "start": 62.1,
+              "end": 74.4,
+              "text": "M: I haven't decided yet. I was thinking of doing what you did today—wandering the old streets and taking pictures. I was also thinking of visiting the square with the Spanish steps.",
+              "zh": "M: 我还没决定。我在考虑做你今天做的事，逛逛老街，拍拍照。我还在考虑去看看有西班牙阶梯的那个广场。"
+            },
+            {
+              "id": 11,
+              "start": 74.8,
+              "end": 78.2,
+              "text": "W: What is that? I haven't heard of it.",
+              "zh": "W: 那是什么地方？我没听说过。"
+            },
+            {
+              "id": 12,
+              "start": 78.5,
+              "end": 94.7,
+              "text": "M: It's a square where on one side, there are some very wide steps with flowers that go up to a church. It's also in all the tourist guidebooks. It's very famous and pretty. I was also thinking of seeing that tomorrow.",
+              "zh": "M: 那是一个广场，广场一侧有一段很宽的台阶，台阶上摆满了鲜花，一直通向一座教堂。旅游指南上也都有介绍。那里非常有名，也很漂亮。我也在考虑明天去看看。"
+            },
+            {
+              "id": 13,
+              "start": 95,
+              "end": 100.8,
+              "text": "W: It sounds very nice. Do you mind if Kathy and I join you tomorrow?",
+              "zh": "W: 听起来很不错。你介意明天我和凯西跟你一起去吗？"
+            },
+            {
+              "id": 14,
+              "start": 101.1,
+              "end": 110,
+              "text": "M: Not at all. I spent the whole day today pretty much alone. Doing tourist stuff with others would be a welcome change.",
+              "zh": "M: 当然不介意。我今天基本上独自待了一整天。和别人一起做些游客会做的事，换换方式也挺不错的。"
+            },
+            {
+              "id": 15,
+              "start": 110.3,
+              "end": 115.7,
+              "text": "W: Let me ask her first, but I'm sure she'll be up for it.",
+              "zh": "W: 我先问问她，不过我相信她会愿意去的。"
+            }
+          ],
+          "audioDuration": 115.7,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "What exhibits does the man like best in the museum he visited?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The coin collection."
+                },
+                {
+                  "key": "B",
+                  "text": "The primitive tools."
+                },
+                {
+                  "key": "C",
+                  "text": "The ancient ornaments."
+                },
+                {
+                  "key": "D",
+                  "text": "The 2,000-year-old clothes."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：The primitive tools early humans used tell a lot about their life, but my favorite is the coin collection.信号：转折 but + favorite 点出最爱 。男士先提 The primitive tools，随即用 but my favorite is 把重点转向 coin collection，favorite 与题干 l…",
+              "optionAnalysis": {
+                "B": "原词陷阱：The primitive tools. 确实出现在 The primitive tools early humans used...，但它是 but 之前的铺垫，与 like best 无关。 借用原文：some coins that are over 2,000 years old",
+                "C": "未提及：录音中只提到 tools 与 coin collection，完全没有 ornaments 这一展品。",
+                "D": "偷换概念：The 2,000-year-old clothes. 盗用了 over 2,000 years old 这一数字，但原文说的是 coins，不是 clothes。",
+                "A": "正确项：与答案句同义替换（my favorite is the coin collection ↔ The coin collection. favorite = like best）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The primitive tools early humans used tell a lot about their life, but my favorite is the coin collection.",
+              "type": "细节题"
+            },
+            {
+              "number": 9,
+              "stem": "What does the woman say about the old city centre?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is charming with narrow but beautiful streets."
+                },
+                {
+                  "key": "B",
+                  "text": "It attracts visitors from every corner of the world."
+                },
+                {
+                  "key": "C",
+                  "text": "It has flowers displayed around the Trevi Fountain."
+                },
+                {
+                  "key": "D",
+                  "text": "It is more attractive than the pictures in guidebooks."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P5）：The streets are narrow but beautiful with plenty of charm.信号：直接描述 + but 强调 beautiful/charm 。女士用 narrow but beautiful with plenty of charm 直接描述 old city centre 的街道，but 后的…",
+              "optionAnalysis": {
+                "B": "张冠李戴：It attracts visitors from every corner of the world. 盗用 it's like the whole world is here on holiday，但这是对整个城市旺季的感受，不是 old city centre 本身。 借用原文：with flowers that go up to a church",
+                "C": "原词陷阱：It has flowers displayed around the Trevi Fountain. 盗用 with flowers，但 flowers 是在 Spanish steps 的台阶上，不是 Trevi Fountain 周围。 借用原文：in all the guidebooks",
+                "D": "过度推断：It is more attractive than the pictures in guidebooks. 中的 guidebooks 出现在 in all the guidebooks，但女士只说 Trevi Fountain 上了 guidebooks，并未比较吸引力。",
+                "A": "正确项：与答案句同义替换（The streets are narrow but beautiful with plenty of charm ↔ It is charming with narrow but beautiful streets. charm→charming，同词保留 narrow but beautiful）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "The streets are narrow but beautiful with plenty of charm.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "What does the man say about the square with the Spanish steps?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is covered with wild grass."
+                },
+                {
+                  "key": "B",
+                  "text": "It is very famous and pretty."
+                },
+                {
+                  "key": "C",
+                  "text": "It is located away from an old church."
+                },
+                {
+                  "key": "D",
+                  "text": "It is surrounded by Spanish-style houses."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P12）：It's a square where on one side, there are some very wide steps with flowers that go up to a church. It's also in all the tourist guidebooks. It's very famous and pretty.信号：连续介绍后 famous/pretty 给出评价 。男士先说明 square 的物理特征，再用 It's very famous and pretty. 给出总体评价，这是问题的直接回答。",
+              "optionAnalysis": {
+                "A": "未提及：录音提到 wide steps with flowers，完全没有 wild grass。",
+                "C": "与原文相反：It is located away from an old church. 与 steps with flowers that go up to a church 相反。 借用原文：visiting the square with the Spanish steps",
+                "D": "原词陷阱：It is surrounded by Spanish-style houses. 盗用 Spanish 一词，但原文只说 square with the Spanish steps，未提 surrounding houses。",
+                "B": "正确项：与答案句同义替换（It's very famous and pretty. ↔ It is very famous and pretty. It's → It is 缩写展开，形容词原词保留）"
+              },
+              "evidencePara": "P12",
+              "evidenceText": "It's a square where on one side, there are some very wide steps with flowers that go up to a church. It's also in all the tourist guidebooks. It's very famous and pretty.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What does the woman say she is going to do first?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ask Kathy what her plan is."
+                },
+                {
+                  "key": "B",
+                  "text": "Tell Kathy Mike will join them."
+                },
+                {
+                  "key": "C",
+                  "text": "Ask Kathy if she'd like to see the square."
+                },
+                {
+                  "key": "D",
+                  "text": "Tell Kathy Mike would like to have a change."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P15）：Let me ask her first, but I'm sure she'll be up for it.信号：first 直接对应题干 first 。女士用 Let me ask her first 明确动作的先后顺序，first 与题干 first 同词对应。",
+              "optionAnalysis": {
+                "A": "答非所问：Ask Kathy what her plan is. 把 ask her 曲解为询问计划，但前文已计划去看 square，实际问的是愿不愿意加入。",
+                "B": "偷换概念：Tell Kathy Mike will join them. 把 ask 偷换成 tell，且 Kathy 是否加入尚未确定，不能提前告知。",
+                "D": "张冠李戴：Tell Kathy Mike would like to have a change. 盗用 Doing tourist stuff with others would be a welcome change，但这是 Mike 的想法，不是女士要 first 做的事。",
+                "C": "正确项：与答案句同义替换（Let me ask her first ↔ Ask Kathy if she'd like to see the square. ask her → Ask Kathy；语境指约她看 square）"
+              },
+              "evidencePara": "P15",
+              "evidenceText": "Let me ask her first, but I'm sure she'll be up for it.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 6.9,
+              "text": "M: Can you give me advice about being successful at a new job? I start mine next week.",
+              "zh": "M: 你能给我一些关于如何在新工作中取得成功的建议吗？我下周就要开始工作了。"
+            },
+            {
+              "id": 2,
+              "start": 7.3,
+              "end": 18.4,
+              "text": "W: Sure. It's important not to undermine the significance of the first few days of your job, since this is the best time to create a solid first impression.",
+              "zh": "W: 当然。千万不要低估入职头几天的重要性，因为这段时间最适合树立良好的第一印象。"
+            },
+            {
+              "id": 3,
+              "start": 18.8,
+              "end": 29.1,
+              "text": "M: That's a good point. I'll need to collaborate with my coworkers and I'm very aware of just how important others are for my success at work.",
+              "zh": "M: 你说得有道理。我需要和同事合作，而且我非常清楚别人对我在工作中的成功有多么重要。"
+            },
+            {
+              "id": 4,
+              "start": 29.5,
+              "end": 42.9,
+              "text": "W: It's also important to understand your role thoroughly to gain a comprehensive picture of your job. The most important thing for you to do at first is to understand your role from multiple perspectives.",
+              "zh": "W: 彻底了解自己的职责也很重要，这样才能全面了解你的工作。你一开始最重要的事情，就是从多个角度了解自己的职责。"
+            },
+            {
+              "id": 5,
+              "start": 43.3,
+              "end": 44.8,
+              "text": "M: Why is that?",
+              "zh": "M: 为什么呢？"
+            },
+            {
+              "id": 6,
+              "start": 45.1,
+              "end": 56.3,
+              "text": "W: Well, what you do at work is not just limited to your job description. You need to consider how your work relates to other people within the organization.",
+              "zh": "W: 这个嘛，你在工作中做的事情并不只是局限于职位描述。你需要考虑自己的工作与组织内部其他人的工作有什么联系。"
+            },
+            {
+              "id": 7,
+              "start": 56.6,
+              "end": 66.7,
+              "text": "M: Oh, right. So, for example, certain reports that I create at the end of the month may be used by a team in another department.",
+              "zh": "M: 哦，对。比如说，我在月底制作的某些报告可能会被另一个部门的团队使用。"
+            },
+            {
+              "id": 8,
+              "start": 67,
+              "end": 74.7,
+              "text": "W: That's right. And in that respect, it's also important to learn about the business to see the big picture.",
+              "zh": "W: 没错。从这个角度来说，了解公司业务、掌握全局也很重要。"
+            },
+            {
+              "id": 9,
+              "start": 75,
+              "end": 79.3,
+              "text": "M: You mean like knowing about the history of the company.",
+              "zh": "M: 你的意思是要了解公司的历史之类的吗？"
+            },
+            {
+              "id": 10,
+              "start": 79.6,
+              "end": 94.6,
+              "text": "W: Kind of, but more like knowing the details of the products and services that the company exists to deliver. Learning about the business will give you a chance to understand how your role fits into the bigger picture.",
+              "zh": "W: 算是吧，不过更重要的是了解公司赖以存在的那些产品和服务的具体情况。了解公司业务能让你明白自己的职责是如何融入更大的整体的。"
+            },
+            {
+              "id": 11,
+              "start": 94.9,
+              "end": 99.9,
+              "text": "M: Okay. I'm feeling a bit uneasy about meeting my boss as well.",
+              "zh": "M: 好的。不过，想到要见我的老板，我还是有点不安。"
+            },
+            {
+              "id": 12,
+              "start": 100.3,
+              "end": 112.6,
+              "text": "W: That's to be expected. However, it's crucial that you get to know the people who have decision-making authority to gain insight regarding how the business is run and decisions are made.",
+              "zh": "W: 这是可以理解的。不过，了解那些拥有决策权的人至关重要，这样你才能深入了解公司是如何运营的，以及决策是如何做出的。"
+            },
+            {
+              "id": 13,
+              "start": 112.9,
+              "end": 114.5,
+              "text": "M: Great advice. Thanks.",
+              "zh": "M: 这个建议太好了。谢谢。"
+            }
+          ],
+          "audioDuration": 114.5,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What advice does the man want to get from the woman?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "How to fit into the bigger picture."
+                },
+                {
+                  "key": "B",
+                  "text": "How to get on with colleagues."
+                },
+                {
+                  "key": "C",
+                  "text": "How to create a solid first impression."
+                },
+                {
+                  "key": "D",
+                  "text": "How to succeed in a new job."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：Can you give me advice about being successful at a new job? I start mine next week.信号：开门见山的请求句 。对话首句即以 Can you give me advice about… 直接提出求助，后接 I start mine next week 点明新工作背景，是整段对话的总起与问题来源。",
+              "optionAnalysis": {
+                "A": "原词陷阱：How to fit into the bigger picture. 中的 bigger picture 确实在 P10 出现，但它是女士后续建议的内容，不是男士最初想获得的建议。 借用原文：collaborate with my coworkers",
+                "B": "原词陷阱：How to get on with colleagues. 中的 colleagues 相关概念在 P3 出现，但那是男士表示意识到同事重要性，并非他向女士寻求的核心建议。 借用原文：create a solid first impression",
+                "C": "张冠李戴：How to create a solid first impression. 几乎原样出现在 P2，但那是女士给的第一条建议，不是男士主动求的建议。",
+                "D": "正确项：与答案句同义替换（being successful at a new job ↔ How to succeed in a new job. 同义转写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Can you give me advice about being successful at a new job? I start mine next week.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What does the woman say is the most important thing for the man to do at first?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Get familiar with all the details of his job description."
+                },
+                {
+                  "key": "B",
+                  "text": "Learn about the relations within the organization."
+                },
+                {
+                  "key": "C",
+                  "text": "Recognize his own limitations and weaknesses."
+                },
+                {
+                  "key": "D",
+                  "text": "Understand his role from various perspectives."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：The most important thing for you to do at first is to understand your role from multiple perspectives.信号：最高级 + 建议句 。The most important thing…is to… 是典型的答案信号，直接给出女士认为的最优先行动。",
+              "optionAnalysis": {
+                "A": "原词陷阱：Get familiar with all the details of his job description. 中的 job description 在 P6 原词出现，但录音说的是 what you do is not just limited to your job description，即「不只限于岗位描述」，恰恰否定了此项。 借用原文：how your work relates to other people within the organization",
+                "B": "偷换概念：Learn about the relations within the organization. 对应 how your work relates to other people within the organization，但那是解释「为什么要多角度理解角色」的原因，不是 the most important thing 本身。",
+                "C": "未提及：录音中没有任何地方提到 limitations and weaknesses 或让男士认识自身弱点。",
+                "D": "正确项：与答案句同义替换（understand your role from multiple perspectives ↔ Understand his role from various perspectives. 同义词替换）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "The most important thing for you to do at first is to understand your role from multiple perspectives.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What does the man say he is feeling a bit uneasy about?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Learning history."
+                },
+                {
+                  "key": "B",
+                  "text": "Meeting his boss."
+                },
+                {
+                  "key": "C",
+                  "text": "Creating reports for other departments to use."
+                },
+                {
+                  "key": "D",
+                  "text": "Leaving his coworkers in the present company."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P11）：I'm feeling a bit uneasy about meeting my boss as well.信号：情感表达 + about 对象 。feeling a bit uneasy about meeting my boss 直接陈述男士的情绪及其对象。",
+              "optionAnalysis": {
+                "A": "原词陷阱：Learning history. 中的 history 在 P9 出现，但那是男士举例「了解公司历史」，并非他感到不安的对象。 借用原文：reports that I create at the end of the month may be used by a team in another department",
+                "C": "原词陷阱：Creating reports for other departments to use. 中的 reports 和 department 在 P7 出现，但那是男士用来举例说明工作关联性，与不安情绪无关。 借用原文：collaborate with my coworkers",
+                "D": "与原文相反：Leaving his coworkers in the present company. 中的 leaving 与录音中 collaborate with my coworkers 的「合作」态度相反，且录音未提及任何离职/离开含义。",
+                "B": "正确项：与答案句同义替换（meeting my boss ↔ Meeting his boss. 原词复现，人称转换）"
+              },
+              "evidencePara": "P11",
+              "evidenceText": "I'm feeling a bit uneasy about meeting my boss as well.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "What does the woman suggest the man do to gain insight about the running of the business?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Get to know the decision-makers."
+                },
+                {
+                  "key": "B",
+                  "text": "Acquire decision-making authority."
+                },
+                {
+                  "key": "C",
+                  "text": "Promote its products and services."
+                },
+                {
+                  "key": "D",
+                  "text": "Observe its overall management."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P12）：However, it's crucial that you get to know the people who have decision-making authority to gain insight regarding how the business is run and decisions are made.信号：建议句 + 目的状语 。it's crucial that you get to know…to gain insight regarding… 中，主句给出建议动作，不定式给出目的，正好对应题干 to gain i…",
+              "optionAnalysis": {
+                "B": "偷换概念：Acquire decision-making authority. 盗用 decision-making authority 原词，但原文说的是「认识拥有决策权的人」，而非男士自己去「获取」决策权。 借用原文：products and services that the company exists to deliver",
+                "C": "原词陷阱：Promote its products and services. 中的 products and services 在 P10 出现，但那是「了解公司业务」的内容，不是「了解企业运作与决策」的建议。 借用原文：how the business is run and decisions are made",
+                "D": "过度推断：Observe its overall management. 看似与 how the business is run 相关，但原文具体建议是「认识决策者」，而非泛泛地「观察整体管理」。",
+                "A": "正确项：与答案句同义替换（get to know the people who have decision-making authority ↔ Get to know the decision-makers. 名词化同义替换）"
+              },
+              "evidencePara": "P12",
+              "evidenceText": "However, it's crucial that you get to know the people who have decision-making authority to gain insight regarding how the business is run and decisions are made.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 24.6,
+              "text": "Contrary to popular belief, consumers aren't as smart as they like to believe. Many consumers report comparing multiple competing brands and prices when evaluating a purchase. However, research indicates that this is not actually the case. What consumers really think or feel often contradicts what they say. A big reason is that they are driven by unconscious urges, the biggest of which is emotion.",
+              "zh": "与普遍看法相反，消费者并没有他们自认为的那么聪明。许多消费者表示，在评估一项购买时，他们会比较多个相互竞争的品牌及其价格。然而，研究表明，实际情况并非如此。消费者真正的想法或感受往往与他们所说的相矛盾。一个重要原因是，他们受到无意识冲动的驱使，其中最主要的就是情感。"
+            },
+            {
+              "id": 2,
+              "start": 25,
+              "end": 59.2,
+              "text": "Emotion is what really drives the purchasing behaviors, and also, decision making in general. Good marketers keep in mind this important fact all the time, and examples of emotion-based campaigns are everywhere. Think for a moment, what is actually being sold in most marketing campaigns? Luxury goods target our feelings of self-worth, acceptance, and status in the world. Communication devices excite us by offering a connection to friends, family and a broader network of people. And many other products, such as rings, target emotions related to love and relationships.",
+              "zh": "真正驱动购买行为的，是情感；一般而言，决策也是如此。优秀的营销人员始终牢记这一重要事实，而以情感为基础的营销活动随处可见。请想一想，大多数营销活动实际上销售的是什么？奢侈品瞄准的是我们关于自我价值、认同感以及社会地位的感受。通信设备通过提供与朋友、家人以及更广泛人际网络的联系，使我们感到兴奋。许多其他产品，例如戒指，则瞄准与爱情和人际关系相关的情感。"
+            },
+            {
+              "id": 3,
+              "start": 59.6,
+              "end": 89.6,
+              "text": "As marketers, we should focus on the features of the product, but we must also sell the lifestyle and the feeling. The key is to highlight the emotional response a consumer will have by using the product. To achieve the highest emotional response, we should target our consumer through many different senses. A lot of what drives consumers is subconscious behavior. But this isn't a bad thing. There's nothing manipulative about helping consumers achieve desired states of emotion.",
+              "zh": "作为营销人员，我们应当关注产品的功能，但也必须销售一种生活方式和一种感受。关键在于突出消费者使用产品后将产生的情感反应。为了达到最强烈的情感反应，我们应当通过许多不同的感官来触达消费者。驱动消费者行为的诸多因素都属于潜意识行为。但这并不是一件坏事。帮助消费者获得期望的情感状态，并没有任何操纵性。"
+            }
+          ],
+          "audioDuration": 89.6,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What does research indicate about many consumers when they evaluate a purchase?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They do not tell marketers their feeling about a product."
+                },
+                {
+                  "key": "B",
+                  "text": "They do not compare competing brands and prices."
+                },
+                {
+                  "key": "C",
+                  "text": "They are not hesitant to contradict themselves."
+                },
+                {
+                  "key": "D",
+                  "text": "They are not sure what they really like to buy."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：Many consumers report comparing multiple competing brands and prices when evaluating a purchase. However, research indicates that this is not actually the case.信号：转折 however 否定前文自我报告 。However, research indicates that this is not actually the case. 中的 however 把前一句消费者自我报告的…",
+              "optionAnalysis": {
+                "A": "偷换概念：原文讨论的是消费者真实想法与所说之间的矛盾，并非'是否告诉营销人员感受'，选项把话题偷换成 marketers。",
+                "C": "原词陷阱：They are not hesitant to contradict themselves. 盗用了原文 What consumers really think or feel often contradicts what they say. 中的 contradict，但原文是'所想/所感与所说矛盾'，并非'毫不犹豫地自相矛盾'。",
+                "D": "未提及：原文只说消费者被 unconscious urges / emotion 驱动，并未说他们'不确定自己喜欢买什么'，属于根据常识编造的选项。",
+                "B": "正确项：与答案句同义替换（research indicates that this is not actually the case ↔ They do not compare competing brands and prices. 否定前文的同义改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Many consumers report comparing multiple competing brands and prices when evaluating a purchase. However, research indicates that this is not actually the case.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "What do good marketers keep in mind all the time?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Consumers are often attracted by new products."
+                },
+                {
+                  "key": "B",
+                  "text": "Consumers tend to make decisions on the spot."
+                },
+                {
+                  "key": "C",
+                  "text": "Consumers find it hard to resist temptation."
+                },
+                {
+                  "key": "D",
+                  "text": "Consumers are actually driven by emotion."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：Emotion is what really drives the purchasing behaviors, and also, decision making in general. Good marketers keep in mind this important fact all the time, and examples of emotion-based campaigns are everywhere.信号：指代 this important fact 回指前句主旨 。Good marketers keep in mind this important fact all the time 中的 this importan…",
+              "optionAnalysis": {
+                "A": "未提及：原文提到 marketing campaigns 和各类产品，但从未说消费者'被新产品吸引'，属于无中生有。",
+                "B": "原词陷阱：Consumers tend to make decisions on the spot. 盗用了原文 decision making in general 中的 decision，但原文讲的是'决策一般被情感驱动'，不是'当场做决定'。",
+                "C": "未提及：原文讲 emotion / unconscious urges 驱动消费者，但并未出现 temptation 或'难以抗拒诱惑'的表述。",
+                "D": "正确项：与答案句同义替换（Emotion is what really drives the purchasing behaviors, and also, decision making in general. ↔ Consumers are actually driven by emotion. 主动变被动，drive 同根转换）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Emotion is what really drives the purchasing behaviors, and also, decision making in general. Good marketers keep in mind this important fact all the time, and examples of emotion-based campaigns are everywhere.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What should marketers do besides stressing the features of a product?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Draw consumers' attention to the luxury goods symbolizing quality life."
+                },
+                {
+                  "key": "B",
+                  "text": "Leave consumers the impression they are doing nothing manipulative."
+                },
+                {
+                  "key": "C",
+                  "text": "Highlight the emotional response it will trigger in the consumer."
+                },
+                {
+                  "key": "D",
+                  "text": "Remind consumers of the wide connections it can help to build."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：As marketers, we should focus on the features of the product, but we must also sell the lifestyle and the feeling. The key is to highlight the emotional response a consumer will have by using the product.信号：but / also 补充 + The key is to 强调 。but we must also sell the lifestyle and the feeling 先补充应做之事，随后 The key is …",
+              "optionAnalysis": {
+                "A": "Draw consumers' attention to the luxury goods symbolizing quality life. 盗用原文 Luxury goods target our feelings of self-worth, acceptance, and status in the world. 中的 luxury goods，但该句只是论证情感营销的例子，不是题干问的'除了 features 还应该做什么'。 借用原文：There's nothing manipulative about helping consumers achieve desired states of emotion.",
+                "B": "原词陷阱：Leave consumers the impression they are doing nothing manipulative. 盗用原文 There's nothing manipulative about helping consumers achieve desired states of emotion. 中的 manipulative，但原文是在为情感营销辩护，不是把它作为营销人员'应该做的事'。 借用原文：Communication devices excite us by offering a connection to friends, family and a broader network of people.",
+                "D": "Remind consumers of the wide connections it can help to build. 盗用原文 Communication devices excite us by offering a connection to friends, family and a broader network of people. 中的 connection / broader network，但这只是 communication devices 的例子，不是营销人员的总体做法。",
+                "C": "正确项：与答案句同义替换（highlight the emotional response a consumer will have by using the product ↔ Highlight the emotional response it will trigger in the consumer. 同义替换：have by using → trigger in）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "As marketers, we should focus on the features of the product, but we must also sell the lifestyle and the feeling. The key is to highlight the emotional response a consumer will have by using the product.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 15,
+              "text": "Plastics have for years been used to make nearly everything that surrounds us. But along the way, they escaped the confines of packaging and objects and settled in the environment, the food we eat and the air we breathe.",
+              "zh": "多年来，塑料一直被用于制造我们周围几乎所有的东西。但在这一过程中，它们逃离了包装和物品的束缚，进入了环境、我们所吃的食物以及所呼吸的空气中。"
+            },
+            {
+              "id": 2,
+              "start": 15.3,
+              "end": 34.2,
+              "text": "Americans are consuming and breathing in a lot of plastic. Based on available data, Americans take in an estimated 74,000 to 121,000 microplastic particles every year. However, scientists believe the true number is probably much higher, because for some likely sources of microplastics, there were no strong data available.",
+              "zh": "美国人正在摄入并吸入大量塑料。根据现有数据估算，美国人每年摄入的微塑料颗粒数量在7.4万至12.1万之间。然而，科学家认为真实数量可能高得多，因为对于一些很可能的微塑料来源，目前没有可靠的数据。"
+            },
+            {
+              "id": 3,
+              "start": 34.6,
+              "end": 61.5,
+              "text": "Microplastics get into food and air in several ways. Many start off as part of larger plastic objects, which over time fragment into smaller and smaller pieces until they become tiny: 5 millimeters or less in diameter. They are breathed in or consumed by animals, and then become our food. The particles float through the air until people breathe them in. They also settle on the food that people eat.",
+              "zh": "微塑料通过多种方式进入食物和空气。许多微塑料最初是较大塑料物品的一部分，随着时间的推移逐渐碎裂成越来越小的碎片，最终变得十分微小，直径仅为5毫米或更小。它们会被动物吸入或摄入，随后成为我们的食物。这些颗粒漂浮在空气中，直到人们将其吸入。它们也会沉积在供人们食用的食物上。"
+            },
+            {
+              "id": 4,
+              "start": 61.9,
+              "end": 87.6,
+              "text": "Data shows that for Americans, air, bottled water and seafood were the biggest sources for breathed-in or consumed microplastics. Added sugars accounted for less, and salts, tap water and beer contributed minimal amounts. These estimates are conservative. The included foods only make up about 15% of the average American diet. It's not yet known how much plastic is contained in the remaining 85% of the typical diet.",
+              "zh": "数据显示，对于美国人来说，空气、瓶装水和海鲜是吸入或摄入微塑料的最大来源。添加糖所占比例较小，而盐、自来水和啤酒所贡献的数量极少。这些估算是保守的。所纳入的食物仅约占美国人平均饮食的15%。典型饮食中剩余的85%含有多少塑料，目前尚不清楚。"
+            }
+          ],
+          "audioDuration": 87.6,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What does the passage say about Americans?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are taking in a lot of plastic."
+                },
+                {
+                  "key": "B",
+                  "text": "They are polluting the environment."
+                },
+                {
+                  "key": "C",
+                  "text": "They consume much processed food."
+                },
+                {
+                  "key": "D",
+                  "text": "They make everything with plastics."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：Americans are consuming and breathing in a lot of plastic.信号：段首总领句 。Americans are consuming and breathing in a lot of plastic. 是第二段首句，开门见山给出美国人摄入塑料的结论。",
+              "optionAnalysis": {
+                "B": "原词陷阱：原文 they escaped the confines of packaging and objects and settled in the environment 说的是塑料 escape 到环境中，而不是美国人正在污染环境。 借用原文：Plastics have for years been used to make nearly everything that surrounds us",
+                "C": "未提及：短文只提到 food we eat、the average American diet，没有说美国人 consume much processed food。",
+                "D": "原词陷阱：原文 Plastics have for years been used to make nearly everything that surrounds us 的主语是 plastics，而不是 Americans。",
+                "A": "正确项：与答案句同义替换（Americans are consuming and breathing in a lot of plastic ↔ taking in a lot of plastic 同义概括）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Americans are consuming and breathing in a lot of plastic.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What counted as the biggest sources for Americans breathing in or consuming microplastics?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Beer, salts and added sugars."
+                },
+                {
+                  "key": "B",
+                  "text": "Tap water and take-away food."
+                },
+                {
+                  "key": "C",
+                  "text": "Food packages and plastic bags."
+                },
+                {
+                  "key": "D",
+                  "text": "Air, bottled water and seafood."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：Data shows that for Americans, air, bottled water and seafood were the biggest sources for breathed-in or consumed microplastics.信号：Data shows＋最高级 biggest 。Data shows that for Americans, air, bottled water and seafood were the biggest sourc…",
+              "optionAnalysis": {
+                "A": "答非所问：原文 Added sugars accounted for less, and salts, tap water and beer contributed minimal amounts 说明啤酒、盐、添加糖所占比例更少或极小，不是 biggest sources。 借用原文：salts, tap water and beer contributed minimal amounts",
+                "B": "偷换概念：原文 salts, tap water and beer contributed minimal amounts 说明 tap water 是极小量，不是最大来源；take-away food 则根本没出现。",
+                "C": "未提及：Food packages and plastic bags 听起来像塑料来源，但原文说的是 larger plastic objects fragment into smaller pieces，并未把它们列为最大来源。",
+                "D": "正确项：与答案句同义替换（air, bottled water and seafood were the biggest sources for breathed-in or consumed microplastics ↔ Air, bottled water and seafood 原词复现）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Data shows that for Americans, air, bottled water and seafood were the biggest sources for breathed-in or consumed microplastics.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What does the passage say is still unknown?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "How much plastic there is in the remaining 85% of Americans' typical diet."
+                },
+                {
+                  "key": "B",
+                  "text": "What measures can be taken to prevent plastic objects from fragmenting."
+                },
+                {
+                  "key": "C",
+                  "text": "What harm microplastics may actually do to the average Americans."
+                },
+                {
+                  "key": "D",
+                  "text": "How many ways there are for microplastics to get into food and air."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P4）：It's not yet known how much plastic is contained in the remaining 85% of the typical diet.信号：not yet known 直接对应 unknown 。It's not yet known how much plastic is contained in the remaining 85% of the typ…",
+              "optionAnalysis": {
+                "B": "未提及：原文 Many start off as part of larger plastic objects, which over time fragment into smaller and smaller pieces until they become tiny 只讲碎片化过程，没有讲如何 prevent。 借用原文：Microplastics get into food and air in several ways",
+                "C": "未提及：短文只谈了微塑料的摄入量和来源，没有讲 harm 或实际危害。",
+                "D": "答非所问：原文 Microplastics get into food and air in several ways 已经说明有几种途径，因此“有多少种方式”不是 still unknown。",
+                "A": "正确项：与答案句同义替换（how much plastic is contained in the remaining 85% of the typical diet ↔ How much plastic there is in the remaining 85% of Americans' typical diet 同义改写）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "It's not yet known how much plastic is contained in the remaining 85% of the typical diet.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 30.8,
+              "text": "People looking to stay well as they age may want to adopt a pet animal, according to new data from the University of Michigan National Poll on Healthy Aging. For the survey, researchers polled about 2,000 U.S. adults from ages 50 to 80. 55% said they owned at least one pet. Dogs were the most common pet, followed by cats. But whatever the type of animal, the vast majority of owners said their pets boosted their mental and physical health.",
+              "zh": "密歇根大学健康老龄化全国民意调查的最新数据显示，希望随着年龄增长保持健康的人或许可以考虑养一只宠物。调查中，研究人员询问了约2,000名年龄在50至80岁之间的美国成年人。55%的人表示自己至少养有一只宠物。狗是最常见的宠物，其次是猫。但无论饲养何种动物，绝大多数宠物主人都表示，宠物改善了他们的心理和身体健康。"
+            },
+            {
+              "id": 2,
+              "start": 31.2,
+              "end": 57.3,
+              "text": "Nearly 90% of older pet owners said their animals helped them enjoy life and feel loved; roughly 80% said their pets reduced stress; and almost three-quarters said their pets provided a sense of purpose. However, people did report a few disadvantages to pet ownership. This included difficulty traveling and financial strains. 6% of pet owners said they'd fallen or injured themselves as a result of having a pet.",
+              "zh": "近90%的老年宠物主人表示，宠物帮助他们享受生活并感受到关爱；约80%的人表示，宠物减轻了他们的压力；近四分之三的人表示，宠物让他们感到生活有目标。不过，人们确实也报告了养宠物带来的一些不利之处，包括出行困难和经济压力。6%的宠物主人表示，他们曾因养宠物而跌倒或受伤。"
+            },
+            {
+              "id": 3,
+              "start": 57.6,
+              "end": 91.1,
+              "text": "Still, plenty of research has shown that just about anyone can benefit from their pet, since animals can lower stress, reduce symptoms of depression and anxiety and encourage physical activity. The new poll suggests that pet ownership may be especially beneficial for older adults, given how common loneliness and social isolation are within this age group. Human social support comes with a host of health benefits—less stress, lower rates of long-term disease and more—and research shows that interacting with pets can bring many of the same benefits.",
+              "zh": "尽管如此，大量研究表明，几乎所有人都能从宠物身上受益，因为动物能够减轻压力，缓解抑郁和焦虑症状，并促进身体活动。这项新的民意调查表明，养宠物对老年人可能尤其有益，因为孤独和社会隔离在这一年龄群体中十分普遍。人类的社会支持能够带来一系列健康益处，包括减轻压力、降低长期疾病的发生率等；研究表明，与宠物互动也能带来许多相同的益处。"
+            }
+          ],
+          "audioDuration": 91.1,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What did over half of the respondents say in the survey?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They planned to adopt a pet animal."
+                },
+                {
+                  "key": "B",
+                  "text": "They kept not only a dog but a cat."
+                },
+                {
+                  "key": "C",
+                  "text": "They had at least one pet."
+                },
+                {
+                  "key": "D",
+                  "text": "They liked cats more than dogs."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：55% said they owned at least one pet.信号：数字比例直接作答 。题干问『超过半数受访者说了什么』，而55% said they owned at least one pet中55%正好对应over half，数字句就是答案句。",
+              "optionAnalysis": {
+                "A": "原词陷阱：They planned to adopt a pet animal盗用了adopt a pet animal原词，但原文主语是People looking to stay well as they age（希望保持健康的老年人），且说的是may want to（可能想），并非调查中过半受访者的实际行为。 借用原文：Dogs were the most common pet, followed by cats",
+                "B": "偷换概念：They kept not only a dog but a cat把原文Dogs were the most common pet, followed by cats曲解为『同时养狗和猫』，但原文只说明狗最常见、猫次之，并未说同一人同时养两种。 借用原文：Dogs were the most common pet, followed by cats",
+                "D": "与原文相反：They liked cats more than dogs与原文Dogs were the most common pet, followed by cats相反，原文表明狗比猫更常见，即人们更常养狗而非更喜欢猫。",
+                "C": "正确项：与答案句同义替换（55% ↔ over half 数字同义替换）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "55% said they owned at least one pet.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What did most older pet owners in the survey say their pets provided?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A sense of pride."
+                },
+                {
+                  "key": "B",
+                  "text": "A sense of duty."
+                },
+                {
+                  "key": "C",
+                  "text": "A sense of purpose."
+                },
+                {
+                  "key": "D",
+                  "text": "A sense of security."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：Nearly 90% of older pet owners said their animals helped them enjoy life and feel loved; roughly 80% said their pets reduced stress; and almost three-quarters said their pets provided a sense of purpose.信号：排比列举中的第三项 。原文Nearly 90%...; roughly 80%...; and almost three-quarters said their pets provided a sense of pu…",
+              "optionAnalysis": {
+                "A": "未提及：A sense of pride中的pride在原文P2的排比列举中并未出现，原文只提到enjoy life、feel loved、reduced stress和a sense of purpose。",
+                "B": "未提及：A sense of duty中的duty在原文P2中未出现；虽然照顾宠物可能隐含责任，但原文并未把它作为宠物『提供』给主人的感受。",
+                "D": "未提及：A sense of security中的security在原文P2中未出现，原文只提到feel loved（感到被爱）和reduced stress（减轻压力），并未涉及安全感。",
+                "C": "正确项：与答案句同义替换（almost three-quarters ↔ most 比例同义替换）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Nearly 90% of older pet owners said their animals helped them enjoy life and feel loved; roughly 80% said their pets reduced stress; and almost three-quarters said their pets provided a sense of purpose.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What does the passage say people did report in the survey?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A few problems with keeping big animals."
+                },
+                {
+                  "key": "B",
+                  "text": "Some disadvantages related to pet ownership."
+                },
+                {
+                  "key": "C",
+                  "text": "A few cases of getting attacked by pet animals."
+                },
+                {
+                  "key": "D",
+                  "text": "Some conflicts with neighbors due to pet keeping."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：However, people did report a few disadvantages to pet ownership.信号：转折词however引出负面信息 。前文P2讲宠物带来的种种好处，随后用However一转，引出people did report a few disadvantages to pet ownership，正好对应题…",
+              "optionAnalysis": {
+                "A": "未提及：A few problems with keeping big animals中的big animals在原文P2中并未出现，原文只泛泛讨论pet ownership，未限定动物体型。",
+                "C": "偷换概念：A few cases of getting attacked by pet animals把原文6% of pet owners said they'd fallen or injured themselves as a result of having a pet中的injured偷换为attacked by pet animals，受伤不等于被动物攻击。",
+                "D": "未提及：Some conflicts with neighbors due to pet keeping中的neighbors和conflicts在原文P2中均未提及，原文提到的缺点是difficulty traveling和financial strains。",
+                "B": "正确项：与答案句同义替换（a few disadvantages to pet ownership ↔ Some disadvantages related to pet ownership 同义替换+限定词替换）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "However, people did report a few disadvantages to pet ownership.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What does research show interacting with pets can do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Reduce as many symptoms of depression as medical help."
+                },
+                {
+                  "key": "B",
+                  "text": "Improve people's health as much as physical activities."
+                },
+                {
+                  "key": "C",
+                  "text": "Lower older people's stress as effectively as exercising."
+                },
+                {
+                  "key": "D",
+                  "text": "Bring many of the same benefits as human social support."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Human social support comes with a host of health benefits—less stress, lower rates of long-term disease and more—and research shows that interacting with pets can bring many of the same benefits.信号：研究结论句直接作答 。题干问research show interacting with pets can do，原文research shows that interacting with pets can bri…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Reduce as many symptoms of depression as medical help盗用了原文reduce symptoms of depression原词，但额外添加了as...as medical help这一原文没有的医疗帮助比较，属于强加了不存在的关系。 借用原文：animals can lower stress, reduce symptoms of depression and anxiety and encourage physical activity",
+                "B": "偷换概念：Improve people's health as much as physical activities把原文encourage physical activity（鼓励身体活动）偷换成『与身体活动效果一样好』，并添加了as much as比较，原文并未将养宠物与physical activities作效果比较。 借用原文：animals can lower stress, reduce symptoms of depression and anxiety and encourage physical activity",
+                "C": "偷换概念：Lower older people's stress as effectively as exercising把原文animals can lower stress和encourage physical activity两个独立好处拼接成『降低压力的效果与锻炼一样好』，但原文并未将lower stress与exercising进行效果比较。",
+                "D": "正确项：与答案句同义替换（interacting with pets can bring many of the same benefits ↔ Bring many of the same benefits as human social support 原句概括+比较对象补全）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Human social support comes with a host of health benefits—less stress, lower rates of long-term disease and more—and research shows that interacting with pets can bring many of the same benefits.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Junk-food lovers who try to cut back on fries or chocolate may experience symptoms similar to drug withdrawal, a new study suggests.\n\nResearchers found that people attempting to cut down on eating highly processed foods experience some of the same 26______ and psychological symptoms—such as mood swings, anxiety, headaches and poor sleep—as those 27______ smoking cigarettes or using drugs, according to the study.\n\nThe new study 28______ the first evidence that these withdrawal-like symptoms can occur when people cut down on highly processed foods, said lead study author Erica Schulte.\n\nBased on the participants' self-reported symptoms, withdrawal symptoms were 29______ more intense between the second and fifth days after attempting to reduce junk-food consumption, which 30______ the time span people live through during drug withdrawal.\n\nThe idea that food may be addictive after \"heavy\" use by some individuals is a 31______ subject, Schulte said. Although prior studies in animals and humans have shown some biological and behavioral similarities between substance-use disorders and addictive-like consumption of highly processed foods, no studies have looked at whether reducing junk food can 32______ withdrawal symptoms in people, she noted. Raising 33______ that people may experience irritability(烦躁) or headaches when cutting down on junk food can help individuals 34______ coping strategies in advance, Schulte noted. The findings may also 35______ light on the barriers people face when changing eating habits—barriers that may play a role in people dropping out of treatments, she said."
+            },
+            {
+              "label": "词库",
+              "text": "A) awareness\nB) canceling\nC) controversial\nD) emptiness\nE) monstrous\nF) offers\nG) parallels\nH) permanently\nI) physical\nJ) prepare\nK) prospects\nL) quitting\nM) shed\nN) significantly\nO) trigger"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "awareness"
+                },
+                {
+                  "key": "B",
+                  "text": "canceling"
+                },
+                {
+                  "key": "C",
+                  "text": "controversial"
+                },
+                {
+                  "key": "D",
+                  "text": "emptiness"
+                },
+                {
+                  "key": "E",
+                  "text": "monstrous"
+                },
+                {
+                  "key": "F",
+                  "text": "offers"
+                },
+                {
+                  "key": "G",
+                  "text": "parallels"
+                },
+                {
+                  "key": "H",
+                  "text": "permanently"
+                },
+                {
+                  "key": "I",
+                  "text": "physical"
+                },
+                {
+                  "key": "J",
+                  "text": "prepare"
+                },
+                {
+                  "key": "K",
+                  "text": "prospects"
+                },
+                {
+                  "key": "L",
+                  "text": "quitting"
+                },
+                {
+                  "key": "M",
+                  "text": "shed"
+                },
+                {
+                  "key": "N",
+                  "text": "significantly"
+                },
+                {
+                  "key": "O",
+                  "text": "trigger"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) physical\n【原文】physical 与 psychological 构成「身与心」对举\nC) controversial 评价性形容词与 psychological 不在同一维度：controversial（有争议的）是对事物的评价，与 psychological 不在同一分类维度，无法并列修饰 symptoms；它真正对应的是 __(31)__ 的 a _\nE) monstrous 「骇人的」色彩过强、原文无依据：monstrous（巨大的/骇人的）程度与感情色彩都过重，原文只是客观描述症状，没有任何「骇人」的依据。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "awareness"
+                },
+                {
+                  "key": "B",
+                  "text": "canceling"
+                },
+                {
+                  "key": "C",
+                  "text": "controversial"
+                },
+                {
+                  "key": "D",
+                  "text": "emptiness"
+                },
+                {
+                  "key": "E",
+                  "text": "monstrous"
+                },
+                {
+                  "key": "F",
+                  "text": "offers"
+                },
+                {
+                  "key": "G",
+                  "text": "parallels"
+                },
+                {
+                  "key": "H",
+                  "text": "permanently"
+                },
+                {
+                  "key": "I",
+                  "text": "physical"
+                },
+                {
+                  "key": "J",
+                  "text": "prepare"
+                },
+                {
+                  "key": "K",
+                  "text": "prospects"
+                },
+                {
+                  "key": "L",
+                  "text": "quitting"
+                },
+                {
+                  "key": "M",
+                  "text": "shed"
+                },
+                {
+                  "key": "N",
+                  "text": "significantly"
+                },
+                {
+                  "key": "O",
+                  "text": "trigger"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) quitting\n【原文】quitting 与空后 smoking cigarettes 构成 quit smoking（戒烟）这一近乎绑死的搭配：those __(27)__ smoking cigarettes or using drugs 指「戒烟或戒毒的人」，正好对应全文「戒断」主题。\nB) canceling cancel 接「安排」不接「习惯」：canceling 意为「取消」，宾语是会议、订单、计划等安排好的事；烟瘾是「戒掉」不是「取消」，cancel smoking 不是搭配。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "awareness"
+                },
+                {
+                  "key": "B",
+                  "text": "canceling"
+                },
+                {
+                  "key": "C",
+                  "text": "controversial"
+                },
+                {
+                  "key": "D",
+                  "text": "emptiness"
+                },
+                {
+                  "key": "E",
+                  "text": "monstrous"
+                },
+                {
+                  "key": "F",
+                  "text": "offers"
+                },
+                {
+                  "key": "G",
+                  "text": "parallels"
+                },
+                {
+                  "key": "H",
+                  "text": "permanently"
+                },
+                {
+                  "key": "I",
+                  "text": "physical"
+                },
+                {
+                  "key": "J",
+                  "text": "prepare"
+                },
+                {
+                  "key": "K",
+                  "text": "prospects"
+                },
+                {
+                  "key": "L",
+                  "text": "quitting"
+                },
+                {
+                  "key": "M",
+                  "text": "shed"
+                },
+                {
+                  "key": "N",
+                  "text": "significantly"
+                },
+                {
+                  "key": "O",
+                  "text": "trigger"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) offers\n【原文】offer evidence 提供证据，研究报道标配\nG) parallels 「研究平行于证据」主宾逻辑不成立：parallels 作动词意为「与……相似/平行」，其主语和宾语应是两个可比较的事物；study parallels the evidence（研究相似于证据）逻辑不通。它真正的归"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "awareness"
+                },
+                {
+                  "key": "B",
+                  "text": "canceling"
+                },
+                {
+                  "key": "C",
+                  "text": "controversial"
+                },
+                {
+                  "key": "D",
+                  "text": "emptiness"
+                },
+                {
+                  "key": "E",
+                  "text": "monstrous"
+                },
+                {
+                  "key": "F",
+                  "text": "offers"
+                },
+                {
+                  "key": "G",
+                  "text": "parallels"
+                },
+                {
+                  "key": "H",
+                  "text": "permanently"
+                },
+                {
+                  "key": "I",
+                  "text": "physical"
+                },
+                {
+                  "key": "J",
+                  "text": "prepare"
+                },
+                {
+                  "key": "K",
+                  "text": "prospects"
+                },
+                {
+                  "key": "L",
+                  "text": "quitting"
+                },
+                {
+                  "key": "M",
+                  "text": "shed"
+                },
+                {
+                  "key": "N",
+                  "text": "significantly"
+                },
+                {
+                  "key": "O",
+                  "text": "trigger"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) significantly\n【原文】significantly more 表「显著更」，研究报告程度的标准语气\nH) permanently 「永久地」与有限时间段自相矛盾：permanently 意为「永久地」，表时间长度而不表程度强弱；原文 between the second and fifth days 明确给出一个有限的时间段，「永久地更强烈"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "awareness"
+                },
+                {
+                  "key": "B",
+                  "text": "canceling"
+                },
+                {
+                  "key": "C",
+                  "text": "controversial"
+                },
+                {
+                  "key": "D",
+                  "text": "emptiness"
+                },
+                {
+                  "key": "E",
+                  "text": "monstrous"
+                },
+                {
+                  "key": "F",
+                  "text": "offers"
+                },
+                {
+                  "key": "G",
+                  "text": "parallels"
+                },
+                {
+                  "key": "H",
+                  "text": "permanently"
+                },
+                {
+                  "key": "I",
+                  "text": "physical"
+                },
+                {
+                  "key": "J",
+                  "text": "prepare"
+                },
+                {
+                  "key": "K",
+                  "text": "prospects"
+                },
+                {
+                  "key": "L",
+                  "text": "quitting"
+                },
+                {
+                  "key": "M",
+                  "text": "shed"
+                },
+                {
+                  "key": "N",
+                  "text": "significantly"
+                },
+                {
+                  "key": "O",
+                  "text": "trigger"
+                }
+              ],
+              "answer": "G",
+              "type": "选词填空",
+              "analysis": "【答案】G（官方答案）\n应填 G) parallels\n【原文】parallels 表「与……相平行/对应」，是 similar to 的动词版\nparallels 句意「（第 2~5 天最强）这与人们戒毒时熬过来的时间跨度相平行/对应」，呼应首段 symptoms similar to drug withdrawal 的「相似于戒毒」主线——parallels 正是 similar to 的动词说法。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "awareness"
+                },
+                {
+                  "key": "B",
+                  "text": "canceling"
+                },
+                {
+                  "key": "C",
+                  "text": "controversial"
+                },
+                {
+                  "key": "D",
+                  "text": "emptiness"
+                },
+                {
+                  "key": "E",
+                  "text": "monstrous"
+                },
+                {
+                  "key": "F",
+                  "text": "offers"
+                },
+                {
+                  "key": "G",
+                  "text": "parallels"
+                },
+                {
+                  "key": "H",
+                  "text": "permanently"
+                },
+                {
+                  "key": "I",
+                  "text": "physical"
+                },
+                {
+                  "key": "J",
+                  "text": "prepare"
+                },
+                {
+                  "key": "K",
+                  "text": "prospects"
+                },
+                {
+                  "key": "L",
+                  "text": "quitting"
+                },
+                {
+                  "key": "M",
+                  "text": "shed"
+                },
+                {
+                  "key": "N",
+                  "text": "significantly"
+                },
+                {
+                  "key": "O",
+                  "text": "trigger"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) controversial\n【原文】「有争议的话题」，与 Although 让步转折呼应\nE) monstrous 「骇人的话题」色彩与学术语气不符：monstrous 意为「骇人的/巨大的」，学术报道里不会说一个 subject「骇人」；全文语气客观，monster 的强烈色彩无处安放。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "awareness"
+                },
+                {
+                  "key": "B",
+                  "text": "canceling"
+                },
+                {
+                  "key": "C",
+                  "text": "controversial"
+                },
+                {
+                  "key": "D",
+                  "text": "emptiness"
+                },
+                {
+                  "key": "E",
+                  "text": "monstrous"
+                },
+                {
+                  "key": "F",
+                  "text": "offers"
+                },
+                {
+                  "key": "G",
+                  "text": "parallels"
+                },
+                {
+                  "key": "H",
+                  "text": "permanently"
+                },
+                {
+                  "key": "I",
+                  "text": "physical"
+                },
+                {
+                  "key": "J",
+                  "text": "prepare"
+                },
+                {
+                  "key": "K",
+                  "text": "prospects"
+                },
+                {
+                  "key": "L",
+                  "text": "quitting"
+                },
+                {
+                  "key": "M",
+                  "text": "shed"
+                },
+                {
+                  "key": "N",
+                  "text": "significantly"
+                },
+                {
+                  "key": "O",
+                  "text": "trigger"
+                }
+              ],
+              "answer": "O",
+              "type": "选词填空",
+              "analysis": "【答案】O（官方答案）\n应填 O) trigger\n【原文】trigger withdrawal symptoms 引发戒断症状\nJ) prepare 「准备症状」语义荒谬：prepare 是「准备」，其宾语应是计划、策略、餐食等人可支配之物；prepare withdrawal symptoms（准备戒断症状）逻辑不通——没有人去「准备」症状。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "awareness"
+                },
+                {
+                  "key": "B",
+                  "text": "canceling"
+                },
+                {
+                  "key": "C",
+                  "text": "controversial"
+                },
+                {
+                  "key": "D",
+                  "text": "emptiness"
+                },
+                {
+                  "key": "E",
+                  "text": "monstrous"
+                },
+                {
+                  "key": "F",
+                  "text": "offers"
+                },
+                {
+                  "key": "G",
+                  "text": "parallels"
+                },
+                {
+                  "key": "H",
+                  "text": "permanently"
+                },
+                {
+                  "key": "I",
+                  "text": "physical"
+                },
+                {
+                  "key": "J",
+                  "text": "prepare"
+                },
+                {
+                  "key": "K",
+                  "text": "prospects"
+                },
+                {
+                  "key": "L",
+                  "text": "quitting"
+                },
+                {
+                  "key": "M",
+                  "text": "shed"
+                },
+                {
+                  "key": "N",
+                  "text": "significantly"
+                },
+                {
+                  "key": "O",
+                  "text": "trigger"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) awareness\n【原文】raise awareness 提高认识，固定搭配\nD) emptiness 「提高空虚」语义荒谬：emptiness（空虚）作 raise 的宾语不成语义——「提高空虚感」既不是搭配，也与「帮助人们提前准备应对策略」的积极目的相悖。\nK) prospects prospects 接不了 that 同位语从句：prospects（前景）虽能勉强接 raise，但 prospects 后接 that 同位语从句很别扭——that 从句的内容（人会烦躁头痛）无法说明「前景」；而 awaren"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "awareness"
+                },
+                {
+                  "key": "B",
+                  "text": "canceling"
+                },
+                {
+                  "key": "C",
+                  "text": "controversial"
+                },
+                {
+                  "key": "D",
+                  "text": "emptiness"
+                },
+                {
+                  "key": "E",
+                  "text": "monstrous"
+                },
+                {
+                  "key": "F",
+                  "text": "offers"
+                },
+                {
+                  "key": "G",
+                  "text": "parallels"
+                },
+                {
+                  "key": "H",
+                  "text": "permanently"
+                },
+                {
+                  "key": "I",
+                  "text": "physical"
+                },
+                {
+                  "key": "J",
+                  "text": "prepare"
+                },
+                {
+                  "key": "K",
+                  "text": "prospects"
+                },
+                {
+                  "key": "L",
+                  "text": "quitting"
+                },
+                {
+                  "key": "M",
+                  "text": "shed"
+                },
+                {
+                  "key": "N",
+                  "text": "significantly"
+                },
+                {
+                  "key": "O",
+                  "text": "trigger"
+                }
+              ],
+              "answer": "J",
+              "type": "选词填空",
+              "analysis": "【答案】J（官方答案）\n应填 J) prepare\n【原文】prepare coping strategies 提前准备应对策略\nprepare 与宾语 coping strategies 搭配自然：help individuals __(34)__ coping strategies in advance 句意「帮助人们提前准备好应对策略」，句末的 in advance 与 prepare 的「提前」语义恰好呼应。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "awareness"
+                },
+                {
+                  "key": "B",
+                  "text": "canceling"
+                },
+                {
+                  "key": "C",
+                  "text": "controversial"
+                },
+                {
+                  "key": "D",
+                  "text": "emptiness"
+                },
+                {
+                  "key": "E",
+                  "text": "monstrous"
+                },
+                {
+                  "key": "F",
+                  "text": "offers"
+                },
+                {
+                  "key": "G",
+                  "text": "parallels"
+                },
+                {
+                  "key": "H",
+                  "text": "permanently"
+                },
+                {
+                  "key": "I",
+                  "text": "physical"
+                },
+                {
+                  "key": "J",
+                  "text": "prepare"
+                },
+                {
+                  "key": "K",
+                  "text": "prospects"
+                },
+                {
+                  "key": "L",
+                  "text": "quitting"
+                },
+                {
+                  "key": "M",
+                  "text": "shed"
+                },
+                {
+                  "key": "N",
+                  "text": "significantly"
+                },
+                {
+                  "key": "O",
+                  "text": "trigger"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) shed\n【原文】shed light on 是固定搭配「阐明」\nJ) prepare prepare light on 搭配不成立：prepare 后接名词表「准备某物」，prepare light on the barriers 既不成语义、也不是任何固定搭配。\nO) trigger trigger 接后果类宾语，不接 light on：trigger 意为「引发」，宾语多为症状、反应、危机等后果类名词；trigger light 不是搭配，「引发光」语义不通。它真正的归宿是 __(32)__ 的 trigger \nA) awareness 名词：意识；认识（raise awareness 提高认识） 用于第 33 空\nB) canceling 动词：取消；撤销（cancel 的现在分词/动名词） 干扰词 · 未选用"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "These days, phone interviews are an unavoidable part of the job interview process, and for good reason: They save time and effort. But that doesn't mean that phone calls require zero energy on the part of the candidate. Many companies treat phone screening as the official first round of the hiring process. That means candidates are expected to go into them prepared with as much information as possible about the company, position, and their own skills and strengths."
+            },
+            {
+              "label": "B",
+              "text": "A big mistake people often make is talking about their personal lives. Don't talk about your personal life unless you're directly asked a question about what you like to do in your off-hours. \"The point of a phone interview is to focus on getting to know a candidate's professional experience and goals,\" says Mckenzie Roark, campus talent specialist at Lithko Contracting. \"A recruiter is trying to see if they are the best fit for a role, and learning about their personal life doesn't help. For example, when asked where you see yourself in five years, we don't want to know that you hope to be married or that you want to buy a new house. That is nice, but that isn't relative to anything professional.\""
+            },
+            {
+              "label": "C",
+              "text": "It might be tempting to cross something off your to-do list while on a phone interview, but recruiters and hiring managers can easily tell if your attention is elsewhere. Many interviewers are annoyed to see people who decide to multitask while on the phone interview. There are candidates who wash dishes, go for walks, or do grocery shopping during the interview. Needless to say, this doesn't reflect well on your level of interest in the position you're interviewing for."
+            },
+            {
+              "label": "D",
+              "text": "The question regarding pay is also best avoided. To be frank, it's simply too early in the process for you to be the one who brings up salary expectations. \"Chances are if a candidate is participating in a phone interview, this is the first time they have talked with the company, and the first call isn't the appropriate time to talk about 'what's in it for you,'\" says Justina Strnad, the Talent Acquisition Manager for Shiftgig. \"Trust me, if you are a great candidate and make it to the next step, the hiring team is going to be very transparent about what's in it for you later on.\""
+            },
+            {
+              "label": "E",
+              "text": "\"After wrapping up a phone interview, it is typical that the interviewer will ask the candidate if they have any questions. I can't stress this enough: ALWAYS ask questions,\" says Roark. \"If we have had a great phone interview and then we wrap up and they don't have any questions for me, it pretty much ruins the whole interview. It tells me that the candidate is uninterested in the role, which in reality might not be the case at all,\" she notes. But surely, if you're interested in a job, you can think of something to ask your interviewer."
+            },
+            {
+              "label": "F",
+              "text": "It seems basic, but surprisingly, a lot of people are late to phone interviews. \"About a quarter of the people with whom I schedule phone interviews aren't on time,\" says Sophie Cikovsky, who handles U.S. recruiting for Infinite Global. \"While this bothers me personally, it's also indicative of someone who isn't very detail-oriented,\" she explains. \"In order to identify this early in the hiring process, I started asking all candidates a few years ago to call me as opposed to calling them at an agreed-upon time. That way, if I hear from them at 1:13 p.m. or 12:49 p.m. instead of our planned 1:00 p.m. interview time, I have an early indicator that they might not be a great fit.\""
+            },
+            {
+              "label": "G",
+              "text": "\"Make sure you test your headset and connection before dialing in,\" recommends Roark. \"There is nothing more frustrating for a recruiter who has a structured interview guide in place having to repeatedly ask the same question over and over because they could not understand your answer due to dropped signals.\" Test-call a friend beforehand, or even call yourself from a landline if necessary; it will take less than a minute."
+            },
+            {
+              "label": "H",
+              "text": "You might be eager to get your point across or talk about your experience, but interrupting the interviewer is awkward and rude. \"Interviewing can be stressful, and sometimes that stress manifests itself in speaking too fast, speaking too loud, talking over the interviewer, or attempting to answer the interviewer's question before they have actually finished asking the question,\" says Chris Dardis, a recruiting expert. \"Don't do this.\" There's a big difference between being assertive(自信的) and being aggressive, and interviewers can always recognize it."
+            },
+            {
+              "label": "I",
+              "text": "It's tough not to say things like \"um,\" \"uh,\" and \"like\" in everyday speech, but these verbal habits become much more pronounced when speaking on the phone, says Dardis. \"In face-to-face interviews, they're not as noticeable, because there are other things like your hair, suit, or body language to distract people.\" But in a phone interview, the only thing you have to go on is what you say and how you say it. \"That's why it's so important to eliminate these words from your speech when doing a phone interview.\""
+            },
+            {
+              "label": "J",
+              "text": "Not knowing anything about the company or job you're interviewing for is way more obvious than you'd think. \"Many people think that they don't have to put as much effort into researching the role or the company,\" says Steve Pritchard, an HR consultant. And if you have your laptop in front of you during the interview to do a few quick searches, they won't know the difference, right? Not exactly. \"Seasoned interviewers will know whether an interviewee is researching while on the phone. The interviewer can often even hear the typing as they ask the question,\" he adds."
+            },
+            {
+              "label": "K",
+              "text": "\"The key to success during a phone interview is clear and concise answers,\" says Dardis. \"People's attention spans tend to be shorter over the phone. You don't want your future employer to lose interest in the conversation.\" He recommends practicing answers to questions you know will be asked ahead of time in order to be clear on what you're going to say. That way, you can prevent talking in an aimless manner."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Interviewees are advised not to ask questions about pay during a phone interview.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】The question regarding pay is also best avoided. To be frank, it's simply too early in the process for you to be the one who brings up salary expectations. \"Chances are if a candidate is participating in a phone interview, this is the first time they have talked with the company, and the first call isn't the appropriate time to talk about 'what's in it for you,'\" says Justina Strnad, the Talent Acquisition Manager for Shiftgig.\n关于薪资的问题也最好避开。坦率地说，现在就让求职者主动提出薪资期望还为时过早。'如果候选人正在参加电话面试，这很可能是他们第一次与公司交谈，第一次通话并不是讨论'这对你有什么好处'的合适时机，'Shiftgig的人才招聘经理Justina Strnad说。"
+            },
+            {
+              "number": 37,
+              "stem": "Experienced interviewers will know if an applicant is searching for information online while talking on the phone.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】\"Seasoned interviewers will know whether an interviewee is researching while on the phone. The interviewer can often even hear the typing as they ask the question,\" he adds.\nprepared with as much information as possible 强调面试前要主动搜集信息；而题干说的是'通话中在线搜索'，这是 researching while on the phone，两段时间点不同。"
+            },
+            {
+              "number": 38,
+              "stem": "Many employers regard the phone interview as the first step of the official recruiting process.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】Many companies treat phone screening as the official first round of the hiring process.\n同义改写：step→round, recruiting→hiring"
+            },
+            {
+              "number": 39,
+              "stem": "Applicants who don't ask questions at the end of an interview most probably ruin their chance of getting the position.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（弱锚点）\n【原文】\"If we have had a great phone interview and then we wrap up and they don't have any questions for me, it pretty much ruins the whole interview. It tells me that the candidate is uninterested in the role, which in reality might not be the case at all,\" she notes.\nmost probably ruin their chance of getting the position ↔ it pretty much ruins the whole interview 与 the candidate is uninterested in the role"
+            },
+            {
+              "number": 40,
+              "stem": "The interviewee should test their phone connection before they call the interviewer.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】\"Make sure you test your headset and connection before dialing in,\" recommends Roark. \"There is nothing more frustrating for a recruiter who has a structured interview guide in place having to repeatedly ask the same question over and over because they could not understand your answer due to dropped signals.\" Test-call a friend beforehand, or even call yourself from a landline if necessary; it will take less than a minute.\n罗克建议：'务必在拨入前测试你的耳机和连接。对于已经准备好结构化面试指南的招聘人员来说，没有什么比因为信号中断而反复问同一个问题更令人沮丧的了。'提前给朋友打个测试电话，必要时甚至用座机给自己打；这花不到一分钟。"
+            },
+            {
+              "number": 41,
+              "stem": "It is annoying to the interviewer to find the applicant doing other tasks while being interviewed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（弱锚点）\n【原文】It might be tempting to cross something off your to-do list while on a phone interview, but recruiters and hiring managers can easily tell if your attention is elsewhere. Many interviewers are annoyed to see people who decide to multitask while on the phone interview. There are candidates who wash dishes, go for walks, or do grocery shopping during the interview.\ndoing other tasks while being interviewed ↔ multitask while on the phone interview 与 wash dishes, go for walks, or do grocery shopping during the interview"
+            },
+            {
+              "number": 42,
+              "stem": "To pass a phone interview, the most important thing is to answer questions clearly and concisely.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】\"The key to success during a phone interview is clear and concise answers,\" says Dardis. \"People's attention spans tend to be shorter over the phone. You don't want your future employer to lose interest in the conversation.\" He recommends practicing answers to questions you know will be asked ahead of time in order to be clear on what you're going to say. That way, you can prevent talking in an aimless manner.\ninterrupting the interviewer is awkward and rude 与 speaking too fast, speaking too loud 都涉及电话中的口头表现，但讲的是礼貌与语速音量；题干问的是回答要'清晰简洁'，这是 clear and concise answers 的内容。"
+            },
+            {
+              "number": 43,
+              "stem": "If you fail to call the interviewer on time, they might not see you as a suitable candidate.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（强锚点）\n【原文】\"About a quarter of the people with whom I schedule phone interviews aren't on time,\" says Sophie Cikovsky, who handles U.S. recruiting for Infinite Global. \"While this bothers me personally, it's also indicative of someone who isn't very detail-oriented,\" she explains. \"In order to identify this early in the hiring process, I started asking all candidates a few years ago to call me as opposed to calling them at an agreed-upon time. That way, if I hear from them at 1:13 p.m. or 12:49 p.m. instead of our planned 1:00 p.m. interview time, I have an early indicator that they might not be a great fit.\"\n无限环球美国招聘负责人索菲·西科夫斯基说：'我安排电话面试的人中大约有四分之一不准时。虽然这让我个人很烦，但也说明这个人不太注重细节。为了在招聘早期识别这一点，几年前我开始让所有候选人给我打电话，而不是我在约定时间给他们打。这样，如果他们在下午1:13或12:49联系我，而不是我们约定的下午1:00，我就有一个早期指标表明他们可能不太合适。'"
+            },
+            {
+              "number": 44,
+              "stem": "Applicants should avoid talking about their personal lives if the interviewer has only asked about their professional background and goals.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（强锚点）\n【原文】\"The point of a phone interview is to focus on getting to know a candidate's professional experience and goals,\" says Mckenzie Roark, campus talent specialist at Lithko Contracting. \"A recruiter is trying to see if they are the best fit for a role, and learning about their personal life doesn't help. For example, when asked where you see yourself in five years, we don't want to know that you hope to be married or that you want to buy a new house. That is nice, but that isn't relative to anything professional.\"\nLithko Contracting校园人才专家麦肯齐·罗克说：'电话面试的重点是了解候选人的职业经历和目标。招聘人员想判断他们是否最适合该职位，而了解个人生活没有帮助。例如，当被问到五年后你看到自己在哪里时，我们不想知道你想结婚或想买新房。这很好，但与任何职业内容无关。'"
+            },
+            {
+              "number": 45,
+              "stem": "It is impolite for an interviewee to interrupt the interviewer in the phone conversation.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（强锚点）\n【原文】You might be eager to get your point across or talk about your experience, but interrupting the interviewer is awkward and rude. \"Interviewing can be stressful, and sometimes that stress manifests itself in speaking too fast, speaking too loud, talking over the interviewer, or attempting to answer the interviewer's question before they have actually finished asking the question,\" says Chris Dardis, a recruiting expert. \"Don't do this.\" There's a big difference between being assertive(自信的) and being aggressive, and interviewers can always recognize it.\n2026年6月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 44. Applicants should avoid talking about their personal lives if the interviewer has only asked about their professional background and goals. 这句陈述的信息出自第几段？为什么？ 2026年6月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 第 44 句的信息出自 B 段（强锚点句）。B 段定位句为「\"The point of a phone interview is to focus on getting to know a candidate's professional experience and goals,\" says Mckenzie Roark, campus talent specialist at Lithko Contracting. \"A recruiter is trying to see if they are the best fit for a role, and learning about their personal life doesn't help. For example, when asked where you see yourself in five years, we don't want to know that you hope to be married or that you want to buy a new house. That is nice, but that isn't relative to anything professional.\"」（Lithko Contracting校园人才专家麦肯齐·罗克说：'电话面试的重点是了解候选人的职业经历和目标。招聘人员想判断他们是否最适合该职位，而了解个人生活没有帮助。例如，当被问到五年后你看到自己在哪里时，我们不想知道你想结婚或想买新房。这很好，但与任何职业内容无关。'）。陈述句是对原文的同义改写（avoid talking about their personal lives ↔ Don't talk about your personal life 与 learning about their personal life doesn't help；if the interviewer has only asked about their professional background and goals ↔ focus on getting to know a candidate's professional experience and goals）。该句锚点唯一、直达对应段，文中无易混的相邻段。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Disgust is a universal human emotion. One type of disgust is called physical disgust, which protects us from eating or touching things that could be dangerous for us, such as raw meat or insects. Children experience physical disgust from a very early age, but do not achieve an understanding of the concept until they are around four years old."
+            },
+            {
+              "label": "B",
+              "text": "Some researchers maintain that there is another type of disgust, called moral disgust, that protects us from engaging in activities that can be perceived as morally wrong. Examples of moral disgust are stealing, lying or cheating."
+            },
+            {
+              "label": "C",
+              "text": "However, not all academics think that moral disgust really exists. Some say that when we refer to disgust in relation to moral issues, we are using disgust as a metaphor(隐喻), and what we are feeling is in reality anger."
+            },
+            {
+              "label": "D",
+              "text": "If moral disgust appears quite late in development, it makes sense to think that there is actually a social component to it. Children learn about emotions in many different ways. Of special relevance are parents-children conversations about emotions. Indeed, children whose parents talk about emotions often have a better emotional understanding than children whose parents do not discuss emotions often."
+            },
+            {
+              "label": "E",
+              "text": "However, there are no studies that have examined how parents and children talk about disgust. This is what we set up to examine in our study."
+            },
+            {
+              "label": "F",
+              "text": "We asked 68 English-speaking mothers and their four-, six- or eight-year-old children to discuss some stories about moral and physical disgust. Our preliminary findings show mothers and children do talk about disgust, but mainly about physical disgust and not so much about moral disgust."
+            },
+            {
+              "label": "G",
+              "text": "When we asked mothers and children to discuss moral issues, such as whether it is OK to play with a child who has stolen someone else's snack, they linked this type of moral wrongdoing with the emotion of anger and not disgust."
+            },
+            {
+              "label": "H",
+              "text": "Does this mean that moral disgust does not exist? Some researchers suggest moral disgust exists in adults. Our findings suggest that moral disgust is either understood at a later age or is only used metaphorically, if at all, in children as old as eight years."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the passage tell us about physical disgust?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is an emotion as contrasted with thoughts."
+                },
+                {
+                  "key": "B",
+                  "text": "It is a concept beyond children's understanding."
+                },
+                {
+                  "key": "C",
+                  "text": "It is a mechanism to keep us from being harmed."
+                },
+                {
+                  "key": "D",
+                  "text": "It is an experience gained from any form of danger."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】One type of disgust is called physical disgust, which protects us from eating or touching things that could be dangerous for us, such as raw meat or insects.\nA) 偷换概念：It is an emotion as contrasted with thoughts.在原文Disgust is a universal human emotion.基础上添加\nB) 与原文相反：It is a concept beyond children's understanding.截取了do not achieve an understanding of the \nC) ✓ 正确：physical disgust, which protects us from eating or touching things that could be dangerous\nD) 偷换概念：It is an experience gained from any form of danger.将定位句中的\"protects us from eating or touch"
+            },
+            {
+              "number": 47,
+              "stem": "How do some researchers perceive moral disgust?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It tends to appear in various forms of wrongdoing."
+                },
+                {
+                  "key": "B",
+                  "text": "It is just as annoying to people as physical disgust."
+                },
+                {
+                  "key": "C",
+                  "text": "It is a term used by common folk to describe anger."
+                },
+                {
+                  "key": "D",
+                  "text": "It stops people from doing anything morally wrong."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Some researchers maintain that there is another type of disgust, called moral disgust, that protects us from engaging in activities that can be perceived as morally wrong.\nA) 以偏概全：It tends to appear in various forms of wrongdoing.把Examples of moral disgust are stealing,\nB) 无中生有：It is just as annoying to people as physical disgust.使用just as...as结构，但原文从未比较两种厌恶的annoying\nC) 张冠李戴：It is a term used by common folk to describe anger.源于Some say that when we refer to disgus\nD) ✓ 正确：protects us from engaging in activities that can be perceived as morally wrong ↔ It stops "
+            },
+            {
+              "number": 48,
+              "stem": "Why does moral disgust appear quite late in children's development?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It needs to be learnt through social interactions."
+                },
+                {
+                  "key": "B",
+                  "text": "They have little control over its learning process."
+                },
+                {
+                  "key": "C",
+                  "text": "It is too complex for them to acquire."
+                },
+                {
+                  "key": "D",
+                  "text": "Their parents seldom talk about emotions."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（推断题）\n【原文】If moral disgust appears quite late in development, it makes sense to think that there is actually a social component to it. Children learn about emotions in many different ways.\nA) ✓ 正确：social component to it. Children learn about emotions in many different ways ↔ It needs to\nB) 无中生有：They have little control over its learning process.引入control概念，但原文Children learn about emo\nC) 过度推断：It is too complex for them to acquire.用too...to结构把原文的\"late\"和\"social component\"臆断为复杂度问题，原文未\nD) 与原文相反：Their parents seldom talk about emotions.与children whose parents talk about emotions often"
+            },
+            {
+              "number": 49,
+              "stem": "What did the author and his colleagues want to examine in their experiment?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "What parents tell children against moral wrongdoing."
+                },
+                {
+                  "key": "B",
+                  "text": "What parents and children link moral wrongdoing to."
+                },
+                {
+                  "key": "C",
+                  "text": "How moral disgust is seen by children aged 4, 6 and 8."
+                },
+                {
+                  "key": "D",
+                  "text": "How disgust is discussed between parents and children."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】However, there are no studies that have examined how parents and children talk about disgust. This is what we set up to examine in our study.\nA) 偷换概念：What parents tell children against moral wrongdoing.把how parents and children talk about d\nB) 答非所问：What parents and children link moral wrongdoing to.对应的是they linked this type of moral wron\nC) 偷换概念：How moral disgust is seen by children aged 4, 6 and 8.把four-, six- or eight-year-old child\nD) ✓ 正确：how parents and children talk about disgust ↔ How disgust is discussed between parents and"
+            },
+            {
+              "number": 50,
+              "stem": "What can we infer about moral disgust from the author and his colleagues' findings?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is a notion hardly comprehensible to children."
+                },
+                {
+                  "key": "B",
+                  "text": "It rarely exists in children younger than eight."
+                },
+                {
+                  "key": "C",
+                  "text": "It is a term most parents use when talking to children."
+                },
+                {
+                  "key": "D",
+                  "text": "It exists in adults with a strong sense of justice."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（推断题）\n【原文】Our findings suggest that moral disgust is either understood at a later age or is only used metaphorically, if at all, in children as old as eight years.\nA) ✓ 正确：either understood at a later age or is only used metaphorically, if at all, in children as\nB) 偷换概念：It rarely exists in children younger than eight.把only used metaphorically, if at all中的使用方式\nC) 与原文相反：It is a term most parents use when talking to children.与do talk about disgust, but mainly \nD) 无中生有：It exists in adults with a strong sense of justice.虽然提到Some researchers suggest moral disg"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "After finding out details about a stranger, we mistakenly think that they also know about us. As a result, we act more honestly around them, according to a recent study in Nature."
+            },
+            {
+              "label": "B",
+              "text": "Past research has found that we tend to assume social relationships are reciprocal(相互的). Most of the time, this assumption is accurate: someone you think of as a friend will usually consider you a friend too. But sometimes our social ties are more one-sided: for example, you might learn something about a stranger who doesn't know you at all. Researchers Anuj Shah and Michael LaForest wondered whether our tendency to believe that social ties are reciprocal could lead us to mistakenly feel that a stranger does actually know us."
+            },
+            {
+              "label": "C",
+              "text": "In a series of lab-based studies, this is exactly what the researchers found. When we know about strangers, we erroneously think they also know about us. But the really interesting finding came when the researchers stepped out of the lab, to conduct a field experiment. The team developed leaflets(传单) containing fairly ordinary information about local community police officers, such as their favourite food, hobbies, or reasons for joining the police force. They then sent out these leaflets to every apartment in a number of housing developments in disadvantaged areas. The officers themselves also dropped off cards to local residents containing similar information."
+            },
+            {
+              "label": "D",
+              "text": "Two months later, the researchers surveyed residents at these housing developments as well as control areas that did not receive leaflets or outreach cards. Residents were asked to imagine that they had committed a crime and how likely it would be that local officers would find out about it. They also rated how well the officers in the area knew them."
+            },
+            {
+              "label": "E",
+              "text": "The team found that residents of the developments that had received the leaflets believed it more likely that local officers would find out about illegal activity than residents of the control areas. Even more strikingly, the team found that immediately after the leaflet distribution, there were fewer criminal complaints and arrests in the areas around the developments that had received the leaflets than around the control developments."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What is the finding of a recent study in Nature?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "People are more honest with those who know them than with total strangers."
+                },
+                {
+                  "key": "B",
+                  "text": "People we want to have detailed information about are keen to know about us."
+                },
+                {
+                  "key": "C",
+                  "text": "People who get to know about a person wrongly assume the person knows them too."
+                },
+                {
+                  "key": "D",
+                  "text": "People who are familiar with each other tend to behave honestly in their everyday dealings."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】After finding out details about a stranger, we mistakenly think that they also know about us.\nA) 比较结构警惕对象与方向：People are more honest with those who know them than with total strangers. 把原文的诚实对象从陌生人偷换成\nB) 无中生有：People we want to have detailed information about are keen to know about us. 中的 want 与 kee\nC) ✓ 正确：After finding out details about a stranger ↔ People who get to know about a person we mist\nD) 偷换概念：People who are familiar with each other tend to behave honestly in their everyday dealings"
+            },
+            {
+              "number": 52,
+              "stem": "What does the passage say about the assumption that social relationships are reciprocal?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is more the exception than the rule."
+                },
+                {
+                  "key": "B",
+                  "text": "It does not hold true in every situation."
+                },
+                {
+                  "key": "C",
+                  "text": "It does not apply to complex relationships."
+                },
+                {
+                  "key": "D",
+                  "text": "It is more accurate in one-sided social ties."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Past research has found that we tend to assume social relationships are reciprocal. Most of the time, this assumption is accurate: someone you think of as a friend will usually consider you a friend too. But sometimes our social ties are more one-sided: for example, you might learn something about a stranger who doesn't know you at all.\nA) 与原文相反：It is more the exception than the rule. 表示互惠假设多为例外，但原文说 Most of the time 是准确的，因此该选项与原文相反。\nB) ✓ 正确：Most of the time, this assumption is accurate: someone you think of as a friend will usual\nC) 无中生有：It does not apply to complex relationships. 提到复杂关系，但原文只讨论 one-sided ties，并未对关系复杂程度分类。\nD) 与原文相反：It is more accurate in one-sided social ties. 与原文相反，原文指出 one-sided ties 正是假设不准确的例外情况。"
+            },
+            {
+              "number": 53,
+              "stem": "What did Anuj Shah and Michael LaForest want to find out about the belief that social relationships are reciprocal?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Whether it may resolve misunderstandings about social ties."
+                },
+                {
+                  "key": "B",
+                  "text": "Whether it could help develop one's relationships with strangers."
+                },
+                {
+                  "key": "C",
+                  "text": "Whether it could help strengthen interpersonal relationships."
+                },
+                {
+                  "key": "D",
+                  "text": "Whether it may lead to false assumptions about a stranger."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Researchers Anuj Shah and Michael LaForest wondered whether our tendency to believe that social relationships are reciprocal could lead us to mistakenly feel that a stranger does actually know us.\nA) 与原文相反：Whether it may resolve misunderstandings about social ties. 用 resolve misunderstandings 替换\nB) 无中生有：Whether it could help develop one's relationships with strangers. 中的 develop relationships\nC) 偷换概念：Whether it could help strengthen interpersonal relationships. 同样引入 strengthen interpersona\nD) ✓ 正确：our tendency to believe that social relationships are reciprocal could lead us to mistaken"
+            },
+            {
+              "number": 54,
+              "stem": "When did Anuj Shah and Michael LaForest find something really interesting in their research?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "During lab-based studies."
+                },
+                {
+                  "key": "B",
+                  "text": "During a field experiment."
+                },
+                {
+                  "key": "C",
+                  "text": "While investigating local residents' crime."
+                },
+                {
+                  "key": "D",
+                  "text": "While talking to police officers nearby."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】But the really interesting finding came when the researchers stepped out of the lab, to conduct a field experiment.\nA) 转折后的内容权重高于转折前：During lab-based studies. 对应的是前文提到的实验室研究，而原文用 But 转折指出真正有趣的发现来自 field experiment。\nB) ✓ 正确：when the researchers stepped out of the lab, to conduct a field experiment ↔ During a fiel\nC) 张冠李戴：While investigating local residents' crime. 对应的是第4段中居民被问及犯罪的调查环节，而非第3段中 really interesting\nD) 偷换概念：While talking to police officers nearby. 中的 talking 是原文未描述的行为，警察只是发放传单和卡片，并未与居民交谈。"
+            },
+            {
+              "number": 55,
+              "stem": "What happened in the areas around the housing developments subjected to the studies?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They saw fewer crimes than the control developments."
+                },
+                {
+                  "key": "B",
+                  "text": "They witnessed a swifter elimination of illegal activities."
+                },
+                {
+                  "key": "C",
+                  "text": "Local police responded more quickly to criminal complaints than before."
+                },
+                {
+                  "key": "D",
+                  "text": "Local police related better to residents there than to those in other areas."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Even more strikingly, the team found that immediately after the leaflet distribution, there were fewer criminal complaints and arrests in the areas around the developments that had received the leaflets than around the control developments.\nA) ✓ 正确：there were fewer criminal complaints and arrests in the areas around the developments that\nB) 过度推断：They witnessed a swifter elimination of illegal activities. 中的 swifter 是原文没有的速度含义，属于过度推断。\nC) 偷换概念：Local police responded more quickly to criminal complaints than before. 把 fewer criminal c\nD) 过度推断：Local police related better to residents there than to those in other areas. 把犯罪投诉和逮捕减少归结为"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n在中国传统文化中，亲朋好友之间互赠礼物是人际交往的一种重要礼节 (etiquette) 。赠送礼物不仅是物质的馈赠，更是情感的表达，是维系人际关系的重要纽带。一份精心挑选、符合接受者喜好的礼物，往往能加深彼此的感情。中国人遵循\"礼尚往来\" (mutually exchanging courtesies)的传统，接受礼物时会表达谢意，并适时回赠礼物，以增进彼此的融洽关系。",
+              "analysis": "【参考译文】\nIn traditional Chinese culture, exchanging gifts among relatives and close friends is an important form of etiquette in interpersonal communication. Giving gifts is not only a material offering, but also an expression of affection, and an important bond that maintains interpersonal relationships. Such a carefully chosen gift that suits the recipient's preferences can often deepen mutual affection. Chinese people follow the tradition of reciprocity (mutually exchanging courtesies): when receiving gifts, they express their gratitude and return gifts at an appropriate time, so as to enhance their harmonious relationship."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2026-06-1/",
+    "sharedWith": "cet4-2026-06-s1",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 59
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2026-06-3/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

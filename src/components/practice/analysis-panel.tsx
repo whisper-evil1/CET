@@ -5,20 +5,24 @@ import type { AnswerResult } from "@/lib/types";
 type Props = {
   result: AnswerResult;
   onJumpPara: (label: string) => void;
+  /** 答案的展示形式：选词填空是「L) empty」，匹配题是「第 B 段」 */
+  answerLabel?: string;
 };
 
 /**
  * 答案与解析面板（默认折叠，展开才渲染内容）。
  * 展开动作由 shell 记账：只有真展开才会调用 /analysis 把 viewedAnalysis 置为 true。
  */
-export function AnalysisPanel({ result, onJumpPara }: Props) {
+export function AnalysisPanel({ result, onJumpPara, answerLabel }: Props) {
   const { optionAnalysis } = result;
 
   return (
     <div className="card-in mt-4 rounded-[8px] border border-line bg-surface">
       <div className="flex items-center gap-3 border-b border-line-soft px-4 py-2.5">
         <span className="text-[11px] tracking-[0.18em] text-ink-mute uppercase">Answer</span>
-        <span className="font-serif text-[16px] text-correct">正确答案 {result.answer}</span>
+        <span className="font-serif text-[16px] text-correct">
+          正确答案 {answerLabel ?? result.answer}
+        </span>
         {result.type && (
           <span className="ml-auto rounded-full border border-line px-2 py-0.5 text-[11px] text-ink-mute">
             {result.type}

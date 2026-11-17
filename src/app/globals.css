@@ -35,6 +35,23 @@
 
   --radius-card: 10px;
   --ease-out-soft: cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* v2.3 学习台 / 闯关 / 创作平台用色。
+     仍是纸感底 + 朱砂主色，只加了五个低饱和「页签色」区分功能区，
+     不做蓝紫渐变那一套——那是把参考图硬搬过来，和正文的衬线排版打架。 */
+  --color-tint-jade: #e9f2ec; /* 背单词 */
+  --color-tint-amber: #faf0dd; /* 阅读 */
+  --color-tint-indigo: #ebedf9; /* 写作翻译 */
+  --color-tint-rose: #fbece7; /* 小说英译 */
+  --color-tint-sky: #e7eff5; /* 短视频出海 */
+  --color-jade-ink: #2f6b51;
+  --color-amber-ink: #8a6420;
+  --color-indigo-ink: #43457f;
+  --color-rose-ink: #8f4a38;
+  --color-sky-ink: #3a5f78;
+
+  --radius-soft: 16px;
+  --shadow-soft: 0 1px 2px rgba(40, 32, 20, 0.04), 0 8px 24px -16px rgba(40, 32, 20, 0.18);
 }
 
 :root {
@@ -49,6 +66,53 @@
 html,
 body {
   height: 100%;
+}
+
+/* iOS 横屏/放大手势下会自动放大字号，锁住，避免版式跳动 */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+/* 手机端输入框一律 16px：iOS Safari 在字号 < 16px 时会强制放大整页，
+   登录、答题、AI 提问、写笔记全都点一次跳一次，体验很差。
+   这里只能 !important —— Tailwind 的 text-[13.5px] 是类选择器，元素选择器压不住。 */
+@media (max-width: 640px) {
+  input,
+  textarea,
+  select {
+    font-size: 16px !important;
+  }
+}
+
+/* 刘海屏/Home 条：抽屉底部是输入框和发送按钮，不加安全区会被指示条盖住。
+   env() 不认的内核会直接丢弃这条声明，不需要写降级。 */
+aside {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+/* 练习页整屏容器：手机浏览器地址栏伸缩时 100vh 会比可见区域高，
+   底部提交按钮会被挤到屏幕外（容器 overflow:hidden，滚不到）。
+   dvh 不认的内核直接忽略第二行，退回 100vh，与改动前一致。 */
+.app-shell {
+  height: 100vh;
+  height: 100dvh;
+}
+
+/* Tailwind v4 的半透明底色靠 color-mix() 生成，而 color-mix 要 Chrome 111 / Safari 16.2。
+   Chrome 99–110 这类「认得 @layer、也认得可选链，但不认得 color-mix」的内核，
+   会把整条 background 声明丢掉 —— 顶栏和底部工具条直接变透明，滚动时文字互相压。
+   这里只在真的不支持时补成不透明底色，现代浏览器完全不受影响。 */
+@supports not (background-color: color-mix(in oklab, #ffffff, #000000)) {
+  header.sticky {
+    background-color: #faf8f3;
+  }
+  [class*="bg-surface/"] {
+    background-color: #ffffff;
+  }
+  [class*="bg-paper/"] {
+    background-color: #faf8f3;
+  }
 }
 
 body {
@@ -266,4 +330,1056 @@ body {
   font-weight: 600;
   color: var(--color-ink);
   font-size: 1em;
+}
+
+/* ================= v2.3 学习台 / 闯关 / 创作平台 =================
+   参考图借的是「卡片节奏 + 游戏化信息层级」，不是它的蓝紫渐变。
+   这里的卡片仍然是纸底 + 1px 细线 + 极浅投影，只是圆角放大到 16px，
+   和正文区的直角答题卡区分开：功能区柔和，阅读区仍像印刷品。 */
+
+.card-soft {
+  background: var(--color-surface);
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-soft);
+  box-shadow: var(--shadow-soft);
+}
+
+/* 功能色块：底是低饱和 tint，字用对应的深色，白底上也不会糊成一片 */
+.tile-jade {
+  background: var(--color-tint-jade);
+  border: 1px solid rgba(47, 107, 81, 0.16);
+  color: var(--color-jade-ink);
+}
+.tile-amber {
+  background: var(--color-tint-amber);
+  border: 1px solid rgba(138, 100, 32, 0.16);
+  color: var(--color-amber-ink);
+}
+.tile-indigo {
+  background: var(--color-tint-indigo);
+  border: 1px solid rgba(67, 69, 127, 0.16);
+  color: var(--color-indigo-ink);
+}
+.tile-rose {
+  background: var(--color-tint-rose);
+  border: 1px solid rgba(143, 74, 56, 0.16);
+  color: var(--color-rose-ink);
+}
+.tile-sky {
+  background: var(--color-tint-sky);
+  border: 1px solid rgba(58, 95, 120, 0.16);
+  color: var(--color-sky-ink);
+}
+
+/* Hero 的极淡纸纹叠色：两层 radial，比图片省一个请求，也不会被阻断 */
+.hero-paper {
+  background-image:
+    radial-gradient(120% 90% at 8% 0%, rgba(166, 57, 43, 0.07) 0%, transparent 55%),
+    radial-gradient(90% 80% at 100% 10%, rgba(58, 95, 120, 0.08) 0%, transparent 60%);
+}
+
+/* 连击/得分数字跳动：只在数值变化时加这个类，动画一次性 */
+.pop {
+  animation: popIn 260ms var(--ease-out-soft);
+}
+@keyframes popIn {
+  0% {
+    transform: scale(0.86);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* 连击彩蛋：答对 3 连起，中心炸出一圈星火 + 一句鼓励。
+   纯 CSS 动画，不引第三方动效库；父级要 relative 才能定位。 */
+.combo-burst {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+  z-index: 30;
+  overflow: hidden;
+}
+.combo-burst-text {
+  font-family: var(--font-serif, Georgia, serif);
+  font-size: 26px;
+  font-weight: 600;
+  color: #b3261e;
+  text-shadow: 0 2px 12px rgba(255, 255, 255, 0.9);
+  animation: comboText 1100ms var(--ease-out-soft, ease-out) forwards;
+}
+.combo-spark {
+  position: absolute;
+  font-size: 18px;
+  color: #c8873f;
+  opacity: 0;
+  animation: comboSpark 900ms ease-out forwards;
+}
+@keyframes comboText {
+  0% {
+    transform: scale(0.6) translateY(6px);
+    opacity: 0;
+  }
+  30% {
+    transform: scale(1.06) translateY(0);
+    opacity: 1;
+  }
+  70% {
+    transform: scale(1) translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1) translateY(-14px);
+    opacity: 0;
+  }
+}
+@keyframes comboSpark {
+  0% {
+    transform: rotate(var(--angle, 0deg)) translateY(0) scale(0.6);
+    opacity: 0;
+  }
+  25% {
+    opacity: 1;
+  }
+  100% {
+    transform: rotate(var(--angle, 0deg)) translateY(-86px) scale(1.2);
+    opacity: 0;
+  }
+}
+
+/* 进度环：SVG 描边动画在旧内核也能跑，不用 conic-gradient */
+.ring-track {
+  stroke: var(--color-line);
+}
+.ring-value {
+  stroke: var(--color-accent);
+  transition: stroke-dashoffset 420ms var(--ease-out-soft);
+}
+
+/* 横滑卡片条（小屏下「更多作品」），隐去滚动条，保留可滚动 */
+.rail {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.rail::-webkit-scrollbar {
+  display: none;
+}
+
+/* ================= v2.7 趣味闯关页皮肤：柔和淡彩 =================
+   v2.5 那版是照着稿子做的亮蓝 + 彩块，用户看过之后明确要求：
+   不要扁平蓝，改淡粉 / 淡蓝 / 淡紫，别太突出；卡片按关卡分开摆。
+   所以这里把变量整体换低饱和的暖灰 + 淡彩，强调色只留暗玫瑰一档。
+
+   范围仍然只到 .arcade-skin 里面：其它页面的纸感与朱砂一个字都不动。 */
+.arcade-skin {
+  --game-blue: #9a7268; /* 强调色：暗玫瑰，只给链接、进度条、数据用 */
+  --game-blue-deep: #7f5a52;
+  --game-blue-soft: #f9f2f0;
+  --game-green: #7f9e88;
+  --game-green-soft: #eef5f0;
+  --game-amber: #b9945f;
+  --game-amber-soft: #fbf4e7;
+  --game-violet: #8d82a3;
+  --game-violet-soft: #f4f1fa;
+  --game-line: #eee8de;
+  --game-heart: #c07b72;
+  --game-ink: #24211d;
+  --game-mute: #7c7468;
+  --game-shadow: 0 1px 2px rgba(60, 48, 40, 0.03), 0 18px 36px -30px rgba(60, 48, 40, 0.4);
+}
+
+.card-game {
+  background: #fffdfa;
+  border: 1px solid var(--game-line);
+  border-radius: 18px;
+  box-shadow: var(--game-shadow);
+}
+
+/* 主按钮：淡紫底 + 深墨字，不跳出来但仍能被一眼找到 */
+.btn-game {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  border-radius: 999px;
+  padding: 10px 18px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.2;
+  background: #f3eef8;
+  color: #4a3f52;
+  border: 1px solid #e7dcf0;
+  transition: background-color 150ms ease;
+}
+.btn-game:hover {
+  background: #ece4f4;
+}
+
+.btn-game-ghost {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  border-radius: 999px;
+  padding: 10px 18px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.2;
+  background: #fffdfa;
+  color: var(--game-ink);
+  border: 1px solid var(--game-line);
+  transition: border-color 150ms ease, background-color 150ms ease;
+}
+.btn-game-ghost:hover {
+  border-color: #ddd2c4;
+  background: #fdfaf4;
+}
+
+/* 大号版按钮：背单词板块整体放大一档用 */
+.btn-game-lg {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border-radius: 999px;
+  padding: 15px 28px;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--game-blue-deep);
+  background: var(--game-blue-soft);
+  transition: background 160ms ease;
+}
+
+.btn-game-lg:hover {
+  background: #ece4f4;
+}
+
+.btn-game-ghost-lg {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border-radius: 999px;
+  padding: 15px 28px;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--game-mute);
+  border: 1px solid var(--game-line);
+  background: transparent;
+  transition: border-color 160ms ease, background 160ms ease;
+}
+
+.btn-game-ghost-lg:hover {
+  border-color: #ddd2c4;
+  background: #fdfaf4;
+}
+
+/* 功能入口卡：hover 只变边框与投影，不做 scale ——
+   手机没有 hover，且 transform 会在旧内核上把子元素文字糊掉 */
+.tile-game {
+  transition: box-shadow 180ms ease, border-color 180ms ease;
+}
+.tile-game:hover {
+  border-color: #e4d8c8;
+  box-shadow: 0 2px 4px rgba(60, 48, 40, 0.04), 0 18px 34px -24px rgba(60, 48, 40, 0.35);
+}
+
+/* 进度条：暖灰轨道 + 暗玫瑰填充，纯 div 宽度，不用 conic-gradient */
+.bar-game {
+  height: 8px;
+  border-radius: 99px;
+  background: #f1ece4;
+  overflow: hidden;
+}
+.bar-game > span {
+  display: block;
+  height: 100%;
+  border-radius: 99px;
+  background: var(--game-blue);
+  transition: width 420ms var(--ease-out-soft);
+}
+
+/* 插画块底色：三关各一档，都是极浅的 tint，和稿子里彩色头图同构 */
+.art-game {
+  border-radius: 14px;
+  border: 1px solid transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.art-jade {
+  background: var(--game-green-soft);
+  border-color: #cdeee1;
+}
+.art-amber {
+  background: var(--game-amber-soft);
+  border-color: #f6e2c0;
+}
+.art-violet {
+  background: var(--game-violet-soft);
+  border-color: #dcdefb;
+}
+.art-rose {
+  background: #fdecea;
+  border-color: #f7d2cd;
+}
+.art-teal {
+  background: #e9f7ef;
+  border-color: #c9ebda;
+}
+
+/* 语义色类。
+   不写 text-[var(--game-mute)] 这类任意值：Tailwind 对「只是一个 var()」的取值
+   无法判断该生成 font-size 还是 color，会静默生成错的那条。写成具名类最稳。 */
+.g-ink {
+  color: var(--game-ink);
+}
+.g-mute {
+  color: var(--game-mute);
+}
+.g-blue {
+  color: var(--game-blue);
+}
+.g-blue-deep {
+  color: var(--game-blue-deep);
+}
+.g-line {
+  border-color: var(--game-line);
+}
+.g-green-bg {
+  background: var(--game-green);
+  border-color: var(--game-green);
+}
+.g-blue-soft-bg {
+  background: var(--game-blue-soft);
+}
+
+/* 三关页面（背单词/阅读/写作）里用的是通用的 .card-soft。
+   与其把组件的类名一个个换掉，不如在闯关作用域里给 .card-soft 换个皮 ——
+   组件内部一个字不用改，其它页面也不受影响。
+   注意这条必须写在 .card-soft 之后：两条都是无层级规则，靠顺序决出胜负。 */
+.arcade-skin .card-soft {
+  background: #fffdfa;
+  border: 1px solid var(--game-line);
+  border-radius: 18px;
+  box-shadow: var(--game-shadow);
+}
+
+/* 阅读原文在小屏整段展开，交给页面滚动。
+   手机上「页面里再套一层内部滚动」非常难用：手指滑到文章区就被吃掉，
+   滑不出去也翻不到下一段。桌面仍是独立的可滚动栏（左文右题）。 */
+@media (max-width: 1023px) {
+  .scroll-pane.scroll-open {
+    max-height: none;
+    overflow-y: visible;
+  }
+}
+
+
+
+
+/* ================= v2.7 闯关页：柔和淡彩 + 分区卡片 =================
+ * 这版按用户的四条要求改：
+ *   1. 分板块 —— 每个关卡一张独立卡片，不再把一整区塞进一个大白框；
+ *   2. 图标改 emoji 色块，和参考稿一致；
+ *   3. 去掉扁平亮蓝，换成低饱和的淡粉 / 淡蓝 / 淡紫 / 淡杏；
+ *   4. 不用星级，卡片底部只留一行「时长 / 命数 / 判定」说明。
+ *
+ * 仍然只作用于 .arcade-skin：其它页面的纸感与朱砂强调色一个字都不动。
+ * ------------------------------------------------------------------ */
+
+/* ---------- 关卡卡片：一关一块 ---------- */
+.arcade-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background: #fffdfa;
+  border: 1px solid #f0e9df;
+  border-radius: 20px;
+  padding: 22px 18px 16px;
+  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+.arcade-card:hover,
+.arcade-card:focus-visible {
+  border-color: #e4d8c8;
+  box-shadow: 0 2px 4px rgba(60, 48, 40, 0.04), 0 18px 34px -24px rgba(60, 48, 40, 0.35);
+  transform: translateY(-2px);
+}
+.arcade-card:focus-visible {
+  outline: 2px solid #c8a99f;
+  outline-offset: 2px;
+}
+
+.arcade-emoji {
+  width: 56px;
+  height: 56px;
+  border-radius: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 26px;
+  line-height: 1;
+  border: 1px solid transparent;
+}
+.tint-rose {
+  background: #fbeef0;
+  border-color: #f6dfe3;
+}
+.tint-sky {
+  background: #edf3fa;
+  border-color: #dee8f4;
+}
+.tint-lilac {
+  background: #f4effa;
+  border-color: #e8ddf3;
+}
+.tint-peach {
+  background: #fdf1e6;
+  border-color: #f6e2cf;
+}
+.tint-mint {
+  background: #eef5ef;
+  border-color: #dcebe0;
+}
+
+.arcade-card-title {
+  margin-top: 14px;
+  font-size: 14.5px;
+  font-weight: 600;
+  color: var(--game-ink);
+  text-wrap: balance;
+}
+.arcade-card-desc {
+  margin-top: 7px;
+  flex: 1;
+  max-width: 30ch;
+  font-size: 11.5px;
+  line-height: 1.75;
+  color: var(--game-mute);
+}
+.arcade-card-meta {
+  margin-top: 14px;
+  width: 100%;
+  padding-top: 11px;
+  border-top: 1px dashed #f0e8dc;
+  font-size: 10.5px;
+  letter-spacing: 0.02em;
+  color: #a38d79;
+}
+
+.arcade-kicker {
+  font-family: ui-monospace, monospace;
+  font-size: 10px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #b5a795;
+}
+
+.arcade-mini-link {
+  border: 1px solid var(--game-line);
+  border-radius: 12px;
+  padding: 10px 12px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--game-ink);
+  transition: border-color 150ms ease, background-color 150ms ease;
+}
+.arcade-mini-link:hover {
+  border-color: #ddd2c4;
+  background: #fdfaf4;
+}
+
+/* ---------- 每日签到：导航入口 ---------- */
+.signin-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+  white-space: nowrap;
+  border: 1px solid #e8e0d4;
+  background: #fffdfa;
+  border-radius: 999px;
+  padding: 3px 10px;
+  font-size: 12px;
+  color: #6f675c;
+  transition: border-color 150ms ease, color 150ms ease;
+}
+.signin-chip:hover {
+  border-color: #d8cbba;
+  color: #24211d;
+}
+.signin-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 999px;
+  background: #cfa49a;
+  box-shadow: 0 0 0 3px #f9eeec;
+}
+.signin-dot.is-done {
+  background: #a9bfae;
+  box-shadow: 0 0 0 3px #eef5f0;
+}
+
+/* ---------- 每日签到：弹窗 ---------- */
+.signin-mask {
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background: rgba(36, 33, 29, 0.34);
+  animation: signin-fade 180ms ease-out;
+}
+.signin-panel {
+  position: relative;
+  width: 100%;
+  max-width: 384px;
+  background: #fffdfa;
+  border: 1px solid #efe7db;
+  border-radius: 26px;
+  box-shadow: 0 40px 80px -40px rgba(36, 33, 29, 0.55);
+  overflow: hidden;
+  animation: signin-pop 280ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+.signin-close {
+  position: absolute;
+  right: 12px;
+  top: 10px;
+  width: 30px;
+  height: 30px;
+  display: grid;
+  place-items: center;
+  border-radius: 999px;
+  color: #a2947f;
+  font-size: 18px;
+  line-height: 1;
+  z-index: 2;
+}
+.signin-close:hover {
+  background: #f6f1e8;
+  color: #5b5348;
+}
+.signin-body,
+.signin-celebrate {
+  position: relative;
+  padding: 26px 24px 22px;
+}
+.signin-kicker {
+  font-family: ui-monospace, monospace;
+  font-size: 9.5px;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: #b9a894;
+}
+.signin-title {
+  margin-top: 8px;
+  font-family: var(--font-serif);
+  font-size: 23px;
+  line-height: 1.3;
+  color: #24211d;
+}
+.signin-sub {
+  margin-top: 6px;
+  font-size: 12px;
+  color: #8b8174;
+}
+.signin-week {
+  margin-top: 18px;
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 4px;
+}
+.signin-week-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+.signin-week-label {
+  font-size: 10px;
+  color: #a89b89;
+}
+.signin-week-dot {
+  width: 32px;
+  height: 32px;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  font-family: ui-monospace, monospace;
+  font-size: 10.5px;
+  background: #f8f4ec;
+  color: #a2957f;
+  border: 1px solid transparent;
+}
+.signin-week-dot.is-signed {
+  background: #eef5f0;
+  border-color: #dcebe0;
+  color: #5f7d69;
+}
+.signin-week-dot.is-today {
+  box-shadow: 0 0 0 2px #fbf1ef;
+  border-color: #e2c9c2;
+}
+.signin-stats {
+  margin-top: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  padding: 13px 0;
+  border-top: 1px solid #f3ece2;
+  border-bottom: 1px solid #f3ece2;
+  text-align: center;
+}
+.signin-stat-value {
+  font-family: ui-monospace, monospace;
+  font-size: 20px;
+  line-height: 1;
+  font-weight: 600;
+  color: #24211d;
+}
+.signin-stat-label {
+  margin-top: 5px;
+  font-size: 10.5px;
+  color: #a2947f;
+}
+.signin-stat-line {
+  width: 1px;
+  height: 26px;
+  background: #f0e8dc;
+}
+.signin-primary,
+.signin-ghost {
+  margin-top: 18px;
+  width: 100%;
+  border-radius: 999px;
+  padding: 11px 16px;
+  font-size: 13.5px;
+  font-weight: 600;
+  transition: background-color 150ms ease, transform 120ms ease;
+}
+.signin-primary {
+  background: #f7ece9;
+  border: 1px solid #efd9d3;
+  color: #8a5f56;
+}
+.signin-primary:hover {
+  background: #f2e2de;
+}
+.signin-primary:active,
+.signin-ghost:active {
+  transform: translateY(1px);
+}
+.signin-primary:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+.signin-ghost {
+  background: #fffdfa;
+  border: 1px solid #e8e0d4;
+  color: #6f675c;
+}
+.signin-ghost:hover {
+  background: #fdfaf4;
+}
+.signin-note {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 10.5px;
+  line-height: 1.7;
+  color: #a89b89;
+}
+.signin-error {
+  margin-top: 8px;
+  text-align: center;
+  font-size: 11px;
+  color: #b4553f;
+}
+.signin-egg {
+  margin-top: 16px;
+  border-radius: 16px;
+  background: #faf5ec;
+  border: 1px dashed #ecdfc9;
+  padding: 14px 16px;
+  text-align: center;
+}
+.signin-egg-title {
+  font-size: 9.5px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #b79a6e;
+}
+.signin-egg-en {
+  margin-top: 7px;
+  font-family: var(--font-serif);
+  font-size: 15px;
+  line-height: 1.55;
+  color: #3c3529;
+}
+.signin-egg-zh {
+  margin-top: 5px;
+  font-size: 11.5px;
+  color: #8b8174;
+}
+.signin-confetti-field {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+.signin-confetti {
+  position: absolute;
+  top: -12px;
+  border-radius: 2px;
+  opacity: 0;
+  animation: signin-fall 2200ms cubic-bezier(0.2, 0.7, 0.3, 1) forwards;
+}
+
+@keyframes signin-fall {
+  0% {
+    transform: translateY(-12px) rotate(0deg);
+    opacity: 0;
+  }
+  12% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(300px) rotate(460deg);
+    opacity: 0;
+  }
+}
+@keyframes signin-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes signin-pop {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .signin-confetti {
+    display: none;
+  }
+  .signin-mask,
+  .signin-panel {
+    animation: none;
+  }
+  .arcade-card {
+    transition: none;
+  }
+  .arcade-card:hover {
+    transform: none;
+  }
+}
+
+/* 喇叭按钮在发音时轻微呼吸，给「正在读」一个不打扰的提示 */
+.speaking-pulse {
+  animation: speakPulse 900ms ease-in-out infinite;
+}
+@keyframes speakPulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(154, 114, 104, 0.24);
+  }
+  50% {
+    box-shadow: 0 0 0 7px rgba(154, 114, 104, 0);
+  }
+}
+
+/* ===== 创作中心（CreateHub）作品网格 ===== */
+.hub-section-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  justify-content: space-between;
+  gap: 12px;
+}
+.hub-new-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border-radius: 999px;
+  background: var(--color-accent);
+  padding: 9px 17px;
+  font-size: 11.5px;
+  color: #fff;
+  transition: opacity 0.2s;
+}
+.hub-new-btn:hover { opacity: 0.88; }
+
+.hub-tabs {
+  display: flex;
+  gap: 6px;
+  margin-top: 16px;
+  border-bottom: 1px solid var(--color-line);
+  overflow-x: auto;
+}
+.hub-tab {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  white-space: nowrap;
+  border: 0;
+  background: transparent;
+  padding: 10px 14px 12px;
+  font-size: 12.5px;
+  color: var(--color-ink-mute);
+  transition: color 0.2s;
+}
+.hub-tab:hover { color: var(--color-ink); }
+.hub-tab-active { color: var(--color-ink); font-weight: 500; }
+.hub-tab-active::after {
+  content: "";
+  position: absolute;
+  bottom: -1px;
+  left: 12px;
+  right: 12px;
+  height: 2px;
+  border-radius: 2px;
+  background: var(--color-accent);
+}
+.hub-tab-count {
+  border-radius: 999px;
+  background: var(--color-paper-deep);
+  padding: 1px 7px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--color-ink-mute);
+}
+
+.hub-grid {
+  display: grid;
+  gap: 14px;
+  margin-top: 18px;
+  grid-template-columns: 1fr;
+  animation: hubFade 0.35s var(--ease-out-soft);
+}
+@media (min-width: 520px) { .hub-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (min-width: 900px) { .hub-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (min-width: 1120px) { .hub-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+@keyframes hubFade {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.hub-work-card {
+  overflow: hidden;
+  border: 1px solid var(--color-line);
+  border-radius: 13px;
+  background: var(--color-surface);
+  box-shadow: var(--shadow-soft);
+  transition: transform 0.3s var(--ease-out-soft), border-color 0.3s;
+}
+.hub-work-card:hover { transform: translateY(-2px); border-color: var(--color-accent); }
+.hub-cover {
+  position: relative;
+  display: flex;
+  aspect-ratio: 16 / 10;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.hub-cover-novel {
+  background: linear-gradient(150deg, var(--color-tint-rose), #f6ded4);
+}
+.hub-cover-video {
+  background: linear-gradient(150deg, var(--color-tint-sky), #d7e7f0);
+}
+.hub-cover-glyph {
+  font-family: var(--font-serif);
+  font-size: 46px;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.92);
+  text-shadow: 0 2px 12px rgba(40, 32, 20, 0.12);
+}
+.hub-cover-kind {
+  position: absolute;
+  right: 10px;
+  bottom: 9px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+  padding: 2px 8px;
+  font-family: var(--font-mono);
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  color: var(--color-ink-soft);
+}
+.hub-work-body { padding: 12px 13px 11px; }
+.hub-kind-tag {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 2px 8px;
+  font-size: 10px;
+}
+.hub-kind-novel { background: var(--color-tint-rose); color: var(--color-rose-ink); }
+.hub-kind-video { background: var(--color-tint-sky); color: var(--color-sky-ink); }
+
+.hub-empty {
+  margin-top: 18px;
+  border: 1px dashed var(--color-line);
+  border-radius: 13px;
+  background: var(--color-surface);
+  padding: 34px 20px;
+  text-align: center;
+}
+.hub-empty-btn {
+  display: inline-block;
+  margin-top: 12px;
+  border-radius: 999px;
+  background: var(--color-ink);
+  padding: 8px 18px;
+  font-size: 11.5px;
+  color: var(--color-paper);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hub-entry, .hub-work-card, .hub-grid { transition: none; animation: none; }
+}
+
+/* ==========================================================================
+   创作中心 · 卡片入口与作品网格（v2.1，对齐参考图 11/13/14 的结构语言）
+   只用 @theme 里已有的纸感色与页签色；不引入高饱和渐变。
+   ========================================================================== */
+
+.hub-entry {
+  position: relative;
+  display: flex;
+  min-height: 210px;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-soft);
+  padding: 22px 24px;
+  box-shadow: var(--shadow-soft);
+  transition: transform 0.35s var(--ease-out-soft), box-shadow 0.35s var(--ease-out-soft);
+}
+.hub-entry:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 34px -18px rgba(40, 32, 20, 0.32);
+}
+.hub-entry:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+}
+.hub-entry-novel {
+  background: linear-gradient(135deg, #fbece7 0%, #f7e2da 55%, #f2d8cd 100%);
+}
+.hub-entry-video {
+  background: linear-gradient(135deg, #e7eff5 0%, #dceaf0 55%, #d4e5ee 100%);
+}
+.hub-entry-top,
+.hub-entry-foot {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.hub-entry-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  color: var(--color-rose-ink);
+}
+.hub-entry-video .hub-entry-eyebrow { color: var(--color-sky-ink); }
+.hub-entry-mark {
+  display: grid;
+  width: 38px;
+  height: 38px;
+  place-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.55);
+  font-family: var(--font-serif);
+  font-size: 18px;
+  color: var(--color-rose-ink);
+}
+.hub-entry-video .hub-entry-mark { color: var(--color-sky-ink); }
+.hub-entry-main {
+  position: relative;
+  z-index: 1;
+  margin-top: 18px;
+}
+.hub-entry-title {
+  font-family: var(--font-serif);
+  font-size: clamp(21px, 2.4vw, 27px);
+  line-height: 1.3;
+  color: var(--color-ink);
+}
+.hub-entry-lead {
+  margin-top: 8px;
+  font-size: 12.5px;
+  line-height: 1.8;
+  color: var(--color-ink-soft);
+  text-wrap: pretty;
+}
+.hub-entry-foot { margin-top: 20px; }
+.hub-entry-cta {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  background: var(--color-accent);
+  padding: 8px 18px;
+  font-size: 11.5px;
+  font-weight: 500;
+  color: #fff;
+  transition: opacity 0.2s;
+}
+.hub-entry:hover .hub-entry-cta { opacity: 0.88; }
+.hub-entry-deco {
+  font-family: var(--font-serif);
+  font-size: 46px;
+  line-height: 1;
+  color: rgba(143, 74, 56, 0.13);
+}
+.hub-entry-video .hub-entry-deco { color: rgba(58, 95, 120, 0.13); }
+
+.hub-solve-strip {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 12px;
+  border: 1px solid var(--color-line);
+  border-radius: 12px;
+  background: var(--color-surface);
+  padding: 11px 16px;
+  transition: border-color 0.2s;
+}
+.hub-solve-strip:hover { border-color: var(--color-accent); }
+.hub-solve-badge {
+  display: grid;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  place-items: center;
+  border-radius: 9px;
+  background: var(--color-tint-amber);
+  font-family: var(--font-serif);
+  font-size: 15px;
+  color: var(--color-amber-ink);
 }

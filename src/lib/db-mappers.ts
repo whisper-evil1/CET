@@ -108,6 +108,8 @@ export function parseTranscript(raw: string | null): TranscriptLine[] {
         start: typeof line.start === "number" ? line.start : 0,
         end: typeof line.end === "number" ? line.end : 0,
         text: line.text as string,
+        // 真题原文自带逐句中译，有就带上，前端「中译」开关用它
+        ...(typeof line.zh === "string" && line.zh.trim() ? { zh: line.zh.trim() } : {}),
       });
     }
   }

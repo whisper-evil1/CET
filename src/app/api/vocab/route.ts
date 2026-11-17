@@ -2,15 +2,23 @@ import { prisma } from "@/lib/prisma";
 import { Errors, ok, parseBody, withApi } from "@/lib/api-helpers";
 import { currentUserId } from "@/lib/auth";
 import { vocabCreateSchema } from "@/lib/validators";
-import { parseDefinitions, toJsonText } from "@/lib/db-mappers";
-import type { VocabItem } from "@/lib/types";
+import { toJsonText } from "@/lib/db-mappers";
+import { toVocabItem } from "@/lib/vocab-view";
+import { lookupOffline } from "@/lib/offline-dict";
+import { findInWordbooks } from "@/lib/wordbook";
 
-/** GET /api/vocab?status=learning|mastered */
+/**
+ * GET /api/vocab?status=learning|mastered&sort=recent|priority
+ * 返回词表；每条都现算优先级与到期状态。
+ */
 export const GET = withApi(async (request: Request) => {
   const meId = await currentUserId();
   if (!meId) return Errors.unauthorized();
 
-  const status = new URL(request.url).searchParams.get("status");
+  const params = new URL(request.url).searchParams;
+  const status = params.get("status");
+  const sort = params.get("sort");
+
   const rows = await prisma.vocabWord.findMany({
     where: {
       userId: meId,
@@ -19,18 +27,15 @@ export const GET = withApi(async (request: Request) => {
     orderBy: { updatedAt: "desc" },
   });
 
-  const data: VocabItem[] = rows.map((row) => ({
-    id: row.id,
-    word: row.word,
-    phonetic: row.phonetic,
-    definitions: parseDefinitions(row.definitions),
-    example: row.example,
-    exampleZh: row.exampleZh,
-    sourceContext: row.sourceContext,
-    reviewCount: row.reviewCount,
-    status: row.status === "mastered" ? "mastered" : "learning",
-    createdAt: row.createdAt.toISOString(),
-  }));
+  const now = Date.now();
+  const data = rows.map((row) => toVocabItem(row, now));
+  if (sort === "priority") {
+    // 同分时按到期先后：逾期更久的排前面
+    data.sort((a, b) => {
+      if (b.priority !== a.priority) return b.priority - a.priority;
+      return (a.dueAt ?? "").localeCompare(b.dueAt ?? "");
+    });
+  }
 
   return ok(data);
 });
@@ -79,6 +84,10 @@ export const POST = withApi(async (request: Request) => {
   const exampleZh = clampTo(body.exampleZh, LIMIT.exampleZh);
   const sourceContext = clampTo(body.sourceContext, LIMIT.sourceContext);
 
+  // 优先级算法的两个输入：考纲标签（离线词库）+ 词频排名（词书索引）
+  const offline = lookupOffline(word);
+  const inBook = findInWordbooks(word);
+
   const row = await prisma.vocabWord.upsert({
     where: { userId_word: { userId: meId, word } },
     create: {
@@ -92,6 +101,10 @@ export const POST = withApi(async (request: Request) => {
       sourcePassageId: body.sourcePassageId ?? null,
       reviewCount: 0,
       status: "learning",
+      examTags: offline && offline.tags && offline.tags.length > 0 ? offline.tags.join(",") : null,
+      examRank: inBook ? inBook.rank : null,
+      wordbookId: inBook ? inBook.bookId : null,
+      source: inBook ? "wordbook" : "lookup",
     },
     update: {
       // 只在新释义非空时才覆盖，避免重复加入（这次没查到释义）把旧释义清空
@@ -100,23 +113,15 @@ export const POST = withApi(async (request: Request) => {
       ...(example ? { example } : {}),
       ...(exampleZh ? { exampleZh } : {}),
       ...(sourceContext ? { sourceContext } : {}),
+      // 元信息只补不清：老数据可能是 null，补上后优先级才准
+      ...(inBook ? { examRank: inBook.rank, wordbookId: inBook.bookId } : {}),
+      ...(offline && offline.tags && offline.tags.length > 0
+        ? { examTags: offline.tags.join(",") }
+        : {}),
     },
   });
 
-  const data: VocabItem = {
-    id: row.id,
-    word: row.word,
-    phonetic: row.phonetic,
-    definitions: parseDefinitions(row.definitions),
-    example: row.example,
-    exampleZh: row.exampleZh,
-    sourceContext: row.sourceContext,
-    reviewCount: row.reviewCount,
-    status: row.status === "mastered" ? "mastered" : "learning",
-    createdAt: row.createdAt.toISOString(),
-  };
-
-  return ok(data);
+  return ok(toVocabItem(row));
 });
 
 /**

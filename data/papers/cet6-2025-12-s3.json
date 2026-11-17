@@ -1,0 +1,2788 @@
+{
+  "id": "cet6-2025-12-s3",
+  "level": "CET6",
+  "year": 2025,
+  "month": 12,
+  "setNo": 3,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \" Living in an increasingly competitive world, college students should better prepare themselves to confront various challenges. \" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+              "analysis": "【参考范文】\nLiving in an increasingly competitive world, college students should better prepare themselves to confront various challenges. This preparation is no longer optional but essential, for those who wait passively will inevitably be left behind.\n\nTo begin with, students ought to equip themselves with solid knowledge and practical skills rather than merely chasing high marks. For instance, in today's fierce job market, employers value candidates who can communicate, cooperate and solve real problems. What is more, developing a resilient mindset matters just as much. I still remember failing my first internship interview; instead of giving up, I reflected on my weaknesses, practised repeatedly, and finally secured a position the next semester. That experience taught me that challenges are conquered by those who keep improving.\n\nTherefore, it is high time that college students stopped drifting and started planning ahead. By strengthening both our abilities and our willpower, we can turn the pressure of competition into a driving force and stride confidently into the future."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "本场次听力只有一份音频，本套听力与同场第一套同卷；原文、题目与答案取自该套真题。考场多套卷的选项顺序可能不同，这里沿用第一套的顺序。在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 6.9,
+              "text": "W: Today's special guest is Lord Blackwell, one of our country's most experienced and distinguished career diplomats. Welcome!",
+              "zh": "W: 今天的特别嘉宾是布莱克威尔勋爵，他是我国最具经验、最杰出的职业外交官之一。欢迎您！"
+            },
+            {
+              "id": 2,
+              "start": 7.3,
+              "end": 8.8,
+              "text": "M: It's my pleasure.",
+              "zh": "M: 我很荣幸。"
+            },
+            {
+              "id": 3,
+              "start": 9.2,
+              "end": 26.5,
+              "text": "W: Our audience will be most interested in learning about a career in the foreign service. However, before we talk about that, I'd like to ask you about the current developments hitting the news today regarding the Republic of Winopia. What can you tell us?",
+              "zh": "W: 我们的听众一定会非常想了解外交部门的职业生涯。不过，在谈这个之前，我想问问您今天新闻中有关Winopia共和国的最新事态发展。您能告诉我们些什么吗？"
+            },
+            {
+              "id": 4,
+              "start": 26.9,
+              "end": 63,
+              "text": "M: I'm afraid I don't know much beyond what we've all seen on the news. It looks like the government of Winopia seems to be undergoing some sort of crisis of legitimacy, and an interim administration has been transitionally established until a head of state is agreed on. But my career work has mostly focused around the continental spheres of Europe and the Americas, and thus I've never been involved with Winopian relations. It's for this reason that I don't know anything on this matter beyond what we can all read in the newspapers.",
+              "zh": "M: 恐怕除了我们都在新闻中看到的内容之外，我也不太了解。看起来，Winopia政府似乎正经历某种合法性危机，目前已经临时成立了一个过渡政府，直到各方就国家元首人选达成一致。不过，我的职业生涯主要集中在欧洲和美洲大陆地区，因此从未参与过与Winopia有关的外交事务。正因为如此，关于这件事，除了我们都能在报纸上读到的内容之外，我一无所知。"
+            },
+            {
+              "id": 5,
+              "start": 63.4,
+              "end": 64.9,
+              "text": "W: Oh, I see.",
+              "zh": "W: 哦，我明白了。"
+            },
+            {
+              "id": 6,
+              "start": 65.3,
+              "end": 77.6,
+              "text": "M: Nevertheless, be rest assured that our expert envoys at our consulate there will be closely monitoring the situation, and I expect our bilateral relations with that country will not be affected.",
+              "zh": "M: 不过请放心，我们驻那里的领事馆中的专家特使会密切关注事态发展，我预计我们与该国的双边关系不会受到影响。"
+            },
+            {
+              "id": 7,
+              "start": 77.9,
+              "end": 82.2,
+              "text": "W: So how does one get a career in foreign relations?",
+              "zh": "W: 那么，一个人要怎样才能从事外交事务呢？"
+            },
+            {
+              "id": 8,
+              "start": 82.5,
+              "end": 106,
+              "text": "M: There are many different paths one can take. All diplomats have their own story. But in my case, I got a degree in electrical engineering followed by six years' service in the air force. Then I went to law school, and upon obtaining a degree in international law, I joined the diplomatic corps where I have been for 22 years.",
+              "zh": "M: 可以选择的道路有很多。每位外交官都有自己的经历。不过就我而言，我先取得了电气工程学位，随后在空军服役了六年。之后我进入法学院学习，取得国际法学位后加入了外交使团，到现在已经22年了。"
+            },
+            {
+              "id": 9,
+              "start": 106.3,
+              "end": 111.7,
+              "text": "W: What would you say are the key skills one needs for the job?",
+              "zh": "W: 您认为从事这份工作需要哪些关键技能？"
+            },
+            {
+              "id": 10,
+              "start": 112,
+              "end": 130.1,
+              "text": "M: There are so many. Being a hard worker and a good student is important. You never stop learning. In addition, a diplomat needs to be very articulate in their discourse and rhetoric. Whether it is defusing attention or enacting policy, people and communication skills are vital.",
+              "zh": "M: 需要的技能很多。勤奋工作、成绩优秀都很重要。学习永无止境。此外，外交官在表达和修辞方面必须非常清晰、善于表达。无论是化解紧张局势还是落实政策，人际交往能力和沟通能力都至关重要。"
+            }
+          ],
+          "audioDuration": 130.1,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What do we learn about the man from the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He has distinguished himself in foreign service."
+                },
+                {
+                  "key": "B",
+                  "text": "He is his country's ambassador to Winopia."
+                },
+                {
+                  "key": "C",
+                  "text": "He is currently an electrical engineer."
+                },
+                {
+                  "key": "D",
+                  "text": "He craves attention from the media."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：Today's special guest is Lord Blackwell, one of our country's most experienced and distinguished career diplomats.信号：主持人开场介绍嘉宾的那一句 。答案信号是\"访谈开场主持人对嘉宾的定性介绍\"——one of our country's most experienced and distinguished career diplom…",
+              "optionAnalysis": {
+                "B": "未提及：录音里 Winopia 只是被问及的新闻话题，男方明确说自己 never been involved with Winopian relations（从未涉足对 Winopia 的事务），根本不是该国大使。选项借\"Winopia\"这个反复出现的地名诱你误选。 借用原文：I got a degree in electrical engineering",
+                "C": "原词陷阱：男方说自己 I got a degree in electrical engineering，那只是早年学历，他随后转空军、读法律、入外交界已 22 年。选项用 currently（目前）把旧学历说成现职，是典型\"听到 electrical engineer 就想选\"的原词陷阱。",
+                "D": "未提及：通篇是主持人邀他来谈外交，男方对热点新闻还谦称只知道新闻上看到的，没有任何\"爱出风头\"的迹象。He craves attention from the media. 在录音里毫无依据。",
+                "A": "正确项：与答案句同义替换（distinguished career diplomats ↔ distinguished himself in foreign service diplomats（外交官）= foreign service（外交事务）的同义改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Today's special guest is Lord Blackwell, one of our country's most experienced and distinguished career diplomats.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What does the man say the government of Winopia is probably undergoing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A government reshuffle."
+                },
+                {
+                  "key": "B",
+                  "text": "A fundamental reform."
+                },
+                {
+                  "key": "C",
+                  "text": "Some sort of political reorientation."
+                },
+                {
+                  "key": "D",
+                  "text": "Some sort of crisis of legitimacy."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：It looks like the government of Winopia seems to be undergoing some sort of crisis of legitimacy, and an interim administration has been transitionally established until a head of state is agreed on.信号：被问方对局势直接下定性结论的应答 。答案信号是\"被问者的直接应答\"：主持人问 Winopia 现状，男方应答里直接给出定性 undergoing some sort of crisis of legitimacy，对…",
+              "optionAnalysis": {
+                "A": "未提及：A government reshuffle 指内阁人事调整，远轻于录音所述的 crisis of legitimacy。录音根本没提改组，是用一个程度更轻的政治术语来稀释正解。",
+                "B": "未提及：A fundamental reform\"根本性改革\"带积极色彩，而录音说的是危机加临时政府的被动局面，色彩相反且录音从未提\"改革\"。",
+                "C": "原词陷阱：Some sort of political reorientation 故意复制录音的 some sort of 句式来制造耳熟，但录音里 some sort of 后接的是 crisis of legitimacy，不是 political reorientation。盗的是句式不是内容。",
+                "D": "正确项：与答案句同义替换（some sort of crisis of legitimacy ↔ Some sort of crisis of legitimacy 答案句与选项几乎原句对应）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "It looks like the government of Winopia seems to be undergoing some sort of crisis of legitimacy, and an interim administration has been transitionally established until a head of state is agreed on.",
+              "type": "细节题"
+            },
+            {
+              "number": 3,
+              "stem": "According to the man, how does one get a career in foreign relations?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "All diplomats have more or less similar stories to tell."
+                },
+                {
+                  "key": "B",
+                  "text": "It is a prerequisite to get some practice in diplomacy."
+                },
+                {
+                  "key": "C",
+                  "text": "Different people can take different paths."
+                },
+                {
+                  "key": "D",
+                  "text": "It is a must to first obtain a law degree."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P8）：There are many different paths one can take. All diplomats have their own story.信号：应答开头的总括句，先于个人举例 。答案信号是\"被问方应答的第一句总括\"——There are many different paths one can take。它出现在男方随后讲自己经历（电气—空军—法律）之前，总…",
+              "optionAnalysis": {
+                "A": "与原文相反：录音 All diplomats have their own story 强调\"各有各的\"，选项 All diplomats have more or less similar stories to tell 借 All diplomats…story 的外壳，把 own（各自的）偷换成 similar（相似的），意思正好反了。 借用原文：upon obtaining a degree in international law",
+                "B": "与原文相反：It is a prerequisite to get some practice in diplomacy. 把\"实习\"说成 prerequisite（必要前提），但男方主张路径多样、从未说存在任何\"必备前提\"，绝对化表述与\"因人而异\"相悖。",
+                "D": "原词陷阱：男方确实提到自己 obtaining a degree in international law，那只是他个人路径的一环。选项 It is a must to first obtain a law degree. 把个人经历拔高成对所有人的\"必须\"，是听到 law degree 就想选的原词陷阱。",
+                "C": "正确项：与答案句同义替换（There are many different paths one can take ↔ Different people can take different paths many different paths = different people take different paths，多样性同义）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "There are many different paths one can take. All diplomats have their own story.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What do the speakers mainly discuss by the end of the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Key skills required of a diplomat."
+                },
+                {
+                  "key": "B",
+                  "text": "The making of an expert diplomat."
+                },
+                {
+                  "key": "C",
+                  "text": "Diplomatic discourse and rhetoric."
+                },
+                {
+                  "key": "D",
+                  "text": "Contributions by diplomatic envoys."
+                }
+              ],
+              "answer": "A",
+              "analysis": "主旨题。答案句（P9）：W: What would you say are the key skills one needs for the job? M: There are so many. Being a hard worker and a good student is important... a diplomat needs to be very articulate in their discourse and rhetoric...people and communication skills are vital.信号：结尾一问一答围着\"关键技能\"展开 。答案信号是\"结尾这轮问答的共同焦点\"：主持人问 the key skills one needs for the job，男方随后整段都在列举各种 skills，问与答合起来锁定主…",
+              "optionAnalysis": {
+                "B": "过度推断：The making of an expert diplomat 谈的是\"怎样成长为专家\"的全过程，而结尾只在列举工作所需技能，没讲成长路径。它把话题撑得比实际更大。",
+                "C": "原词陷阱：录音确说 articulate in their discourse and rhetoric，但那只是男方列举的众多技能中的一项，Diplomatic discourse and rhetoric 拿一个细节当整段主题，以偏概全。 借用原文：our expert envoys at our consulate",
+                "D": "未提及：结尾谈的是技能，没有讨论外交官做出了什么贡献。Contributions by diplomatic envoys. 在结尾内容里没有依据（envoys 一词虽前文出现过，但话题不是贡献）。",
+                "A": "正确项：与答案句同义替换（the key skills one needs for the job ↔ Key skills required of a diplomat key skills…for the job = Key skills required of a diplomat，几乎逐词对应）"
+              },
+              "evidencePara": "P9",
+              "evidenceText": "W: What would you say are the key skills one needs for the job? M: There are so many. Being a hard worker and a good student is important... a diplomat needs to be very articulate in their discourse and rhetoric...people and communication skills are vital.",
+              "type": "主旨题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 9.2,
+              "text": "M: It's getting late and we're both displaying signs of weariness. I think we should call it a day and meet again tomorrow morning.",
+              "zh": "M：天不早了，而且我们俩都显出疲态了。我觉得我们今天就到这里，明天早上再见吧。"
+            },
+            {
+              "id": 2,
+              "start": 9.5,
+              "end": 18,
+              "text": "W: Oh, come on, Jeff. We are so close! Don't you think we are almost done? Let's do two more hours, please.",
+              "zh": "W：哦，别这样，Jeff。我们就快完成了！你不觉得我们已经接近尾声了吗？再做两个小时吧，求你了。"
+            },
+            {
+              "id": 3,
+              "start": 18.4,
+              "end": 21,
+              "text": "M: One hour, then I'm going home.",
+              "zh": "M：那就一小时，之后我就回家。"
+            },
+            {
+              "id": 4,
+              "start": 21.4,
+              "end": 29.8,
+              "text": "W: OK, fine. I think we are making good progress, and that with a few more amendments, we will be all done.",
+              "zh": "W：好吧，行。我觉得我们进展不错，再修改几处就全部完成了。"
+            },
+            {
+              "id": 5,
+              "start": 30.2,
+              "end": 44,
+              "text": "M: I'm sure looking forward to it. I'm so tired of this project. Don't get me wrong. It's a great professional opportunity for me and a milestone for the company, but it's just been so long.",
+              "zh": "M：我真盼着那一刻。我已经厌倦这个项目了。别误会，这对我来说是一次很好的职业机会，对公司来说也是一个里程碑，但这项目实在拖得太久了。"
+            },
+            {
+              "id": 6,
+              "start": 44.4,
+              "end": 55.9,
+              "text": "W: Yeah. Two months working on nothing but the same contract is a little tough. Nevertheless, I think that with a bit of luck, we'll be done by next week.",
+              "zh": "W：是啊。连续两个月只处理同一份合同，确实有点难熬。不过，我觉得如果运气好，我们下周就能完成。"
+            },
+            {
+              "id": 7,
+              "start": 56.3,
+              "end": 58.6,
+              "text": "M: Ha, you must be delusional.",
+              "zh": "M：哈，你一定是妄想了。"
+            },
+            {
+              "id": 8,
+              "start": 59,
+              "end": 60.9,
+              "text": "W: You don't think so?",
+              "zh": "W：你不这么认为吗？"
+            },
+            {
+              "id": 9,
+              "start": 61.3,
+              "end": 74.3,
+              "text": "M: No chance. Sections 4, 5, 8 and 9 still have to be aligned to the new framework. Then we need to proofread the whole thing and make sure all selling points are watertight.",
+              "zh": "M：没可能。第4、5、8和9部分还得按照新的框架进行统一调整。然后我们还要通读全文，确保所有卖点都无懈可击。"
+            },
+            {
+              "id": 10,
+              "start": 74.6,
+              "end": 79.6,
+              "text": "W: But that will all take no more than a couple of days.",
+              "zh": "W：但这些加起来最多也就需要几天。"
+            },
+            {
+              "id": 11,
+              "start": 79.9,
+              "end": 87.6,
+              "text": "M: I wasn't finished. When we are done with it and send it upstairs, what do you think will happen?",
+              "zh": "M：我还没说完。等我们完成后把它提交上去，你觉得会发生什么？"
+            },
+            {
+              "id": 12,
+              "start": 87.9,
+              "end": 89.3,
+              "text": "W: What?",
+              "zh": "W：什么？"
+            },
+            {
+              "id": 13,
+              "start": 89.6,
+              "end": 105,
+              "text": "M: They'll argue about it for like a month. There's always going to be the odd board member who intervenes and demands rectifications be made. They might think they're being helpful, but in reality they're being obstructive and hampering progress.",
+              "zh": "M：他们会为这事争论大概一个月。总会有个别董事插手，要求进行修改。他们可能以为自己是在帮忙，但实际上他们是在阻挠，拖慢进度。"
+            },
+            {
+              "id": 14,
+              "start": 105.3,
+              "end": 126.5,
+              "text": "W: Oh, Jeff, you're too preoccupied and cynical. It won't be anywhere as bad as that. You'll see, the entire managerial hierarchy wants to see this project implemented as soon as possible, and the board, too, is virtually unanimous in its support. Go on then, let's stop there and meet up again same time tomorrow.",
+              "zh": "W：哦，Jeff，你太忧心忡忡，也太愤世嫉俗了。事情不会糟到那个地步的。你等着看吧，整个管理层都希望这个项目尽快实施，董事会也几乎一致支持。那就这样吧，我们今天先到这里，明天同一时间再见。"
+            }
+          ],
+          "audioDuration": 126.5,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "Why does the man suggest they call it a day?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have got their work done."
+                },
+                {
+                  "key": "B",
+                  "text": "They both look tired"
+                },
+                {
+                  "key": "C",
+                  "text": "They can meet again tomorrow anyway."
+                },
+                {
+                  "key": "D",
+                  "text": "They are both anxious to go home."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：It's getting late and we're both displaying signs of weariness. I think we should call it a day and meet again tomorrow morning.信号：提议收工那句里紧贴的理由状语 。男方说 I think we should call it a day（提议收工）之前紧跟着 we're both displaying signs of weariness（我俩都显…",
+              "optionAnalysis": {
+                "A": "原词陷阱：They have got their work done. 借了原文反复出现的 done（如 we are almost done、we will be all done）来诱选，但那些 done 都带 almost / will be，是『快完了 / 将会完成』，并非已经干完；男方收工理由是累，不是完工。 借用原文：meet again tomorrow morning",
+                "C": "答非所问：They can meet again tomorrow anyway. 取自男方 meet again tomorrow morning，但那是收工之后的安排，不是他『为什么要收工』的理由，与 Why 的问法错位。",
+                "D": "未提及：They are both anxious to go home. 里 anxious to go home（急切回家）原文没有对应表述；男方只说 call it a day（今天到此），是因为累，并未表现出急切回家的情绪。",
+                "B": "正确项：与答案句同义替换（we're both displaying signs of weariness ↔ They both look tired weariness 改写成 tired，displaying signs 改写成 look）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "It's getting late and we're both displaying signs of weariness. I think we should call it a day and meet again tomorrow morning.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What does the woman say is a little tough?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The board members' insufficient support."
+                },
+                {
+                  "key": "B",
+                  "text": "Two months devoted to the same contract."
+                },
+                {
+                  "key": "C",
+                  "text": "Working two months without any progress."
+                },
+                {
+                  "key": "D",
+                  "text": "The man's long concentration on the project."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P6）：Two months working on nothing but the same contract is a little tough.信号：题干同词 tough 在原文的复现处即落点 。女方原话 Two months working on nothing but the same contract is a little tough 里出现了与题干完全一…",
+              "optionAnalysis": {
+                "A": "张冠李戴：The board members' insufficient support. 里 board members 确在录音出现，但谈董事会的是男方在 P13 段的牢骚，且女方在 the board, too, is virtually unanimous in its support 反而说董事会几乎一致支持；把这话安到女方说 tough 头上，是张冠李戴。 借用原文：I think we are making good progress",
+                "C": "与原文相反：Working two months without any progress. 多出的 without any progress 与原文相反：女方明说 I think we are making good progress（进展不错），可见难的是『两个月只干一件事』的枯燥，而非没进展。B、C 一字之差，差就差在这里。 借用原文：it's just been so long",
+                "D": "张冠李戴：The man's long concentration on the project. 说的是男方对项目投入太久（呼应 it's just been so long），但题目问的是女方说哪件事 tough；把男方的体验安给女方所评价的难事，主体错位。",
+                "B": "正确项：与答案句同义替换（Two months working on nothing but the same contract ↔ Two months devoted to the same contract. working on nothing but 改写成 devoted to）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "Two months working on nothing but the same contract is a little tough.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What does the man say the woman must be in thinking they'll finish by next week?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Unprofessional."
+                },
+                {
+                  "key": "B",
+                  "text": "Inspirational."
+                },
+                {
+                  "key": "C",
+                  "text": "Exceptional."
+                },
+                {
+                  "key": "D",
+                  "text": "Delusional."
+                }
+              ],
+              "answer": "D",
+              "analysis": "态度观点题。答案句（P7）：Ha, you must be delusional.信号：男方对女方乐观预期的直接回怼 。女方在 we'll be done by next week 表达乐观，男方紧接着 you must be delusional 直接回应——这句被问者 / 回应方给出的评价就是答案信…",
+              "optionAnalysis": {
+                "A": "偷换概念：Unprofessional. 与 delusional 同为贬义，易混；但 delusional 指『脱离现实、妄想』，针对的是女方对工期的乐观判断，并非批评她职业水准。色彩对了，落点错了。",
+                "B": "与原文相反：Inspirational.（鼓舞人心）是褒义，与男方 Ha, you must be delusional 的讥讽否定语气完全相反，听出语气是贬即可排除。 借用原文：you must be delusional",
+                "C": "与原文相反：Exceptional.（出色的）同为褒义，男方并未夸女方，而是讥讽她想法不现实，褒贬方向就不对。",
+                "D": "正确项：与答案句同义替换（you must be delusional ↔ Delusional. 原句评价词直接成选项）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "Ha, you must be delusional.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 8,
+              "stem": "What does the entire managerial hierarchy want to see according to the woman?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Fewer rectifications of the contract."
+                },
+                {
+                  "key": "B",
+                  "text": "More support from the board members."
+                },
+                {
+                  "key": "C",
+                  "text": "The early implementation of the project."
+                },
+                {
+                  "key": "D",
+                  "text": "The alignment of all sections of the contract."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P14）：the entire managerial hierarchy wants to see this project implemented as soon as possible信号：愿望词 wants to see 直接领出答案 。女方 the entire managerial hierarchy wants to see this project implemented as soon as…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Fewer rectifications of the contract. 借了男方 demands rectifications be made 里的 rectifications，但那是男方预测董事会会要求修改的牢骚，不是管理层『想看到』的，且主体是男方说的不是女方说的管理层愿望。 借用原文：the board, too, is virtually unanimous in its support",
+                "B": "偷换概念：More support from the board members. 盗用 the board, too, is virtually unanimous in its support 里的 support，但女方说的是董事会已经几乎一致支持，并非管理层『想要更多支持』，把现状偷换成了诉求。 借用原文：Sections 4, 5, 8 and 9 still have to be aligned to the new framework",
+                "D": "张冠李戴：The alignment of all sections of the contract. 盗用男方 Sections 4, 5, 8 and 9 still have to be aligned to the new framework 里的 aligned / sections，那是男方列举的剩余工作，不是女方所说管理层想看到的结果。",
+                "C": "正确项：与答案句同义替换（this project implemented as soon as possible ↔ The early implementation of the project. 动词 implemented + as soon as possible 改写成名词 early implementation）"
+              },
+              "evidencePara": "P14",
+              "evidenceText": "the entire managerial hierarchy wants to see this project implemented as soon as possible",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 12.7,
+              "text": "1 One thing I've learned in a quarter-century of management is that there are ample gray areas in human behavior, and that there may not always be clear right-or-wrong solutions to employee disputes."
+            },
+            {
+              "id": 2,
+              "start": 13,
+              "end": 20.4,
+              "text": "When two people have different versions of the same event, it can be hard to know whom to believe."
+            },
+            {
+              "id": 3,
+              "start": 20.8,
+              "end": 23.8,
+              "text": "One such circumstance always comes back to me."
+            },
+            {
+              "id": 4,
+              "start": 24.2,
+              "end": 36.5,
+              "text": "It happened years ago, and it's a measure of the forgettable nature of the conflict that I no longer even recall what the dispute was about, but I definitely recall the resolution."
+            },
+            {
+              "id": 5,
+              "start": 36.9,
+              "end": 47.6,
+              "text": "Two talented young executives, one of whom I was managing, had vastly different accounts of the same event, and it seemed likely we'd never get to the truth."
+            },
+            {
+              "id": 6,
+              "start": 48,
+              "end": 57.2,
+              "text": "We reached the deadlock, and the manager of the other individual said, \"Here's something I learned from an excellent manager I once worked for."
+            },
+            {
+              "id": 7,
+              "start": 57.6,
+              "end": 64.9,
+              "text": "He used to say, 'When in doubt, assume positive intent.'\" And just like that, we had a path forward."
+            },
+            {
+              "id": 8,
+              "start": 65.3,
+              "end": 75.3,
+              "text": "My counterpart and I agreed we might never ascertain the actual facts of the matter; quite likely there were elements of truth in both employees' stories."
+            },
+            {
+              "id": 9,
+              "start": 75.6,
+              "end": 81.4,
+              "text": "We agreed to monitor their actions and relationship going forward, but to intervene no further."
+            },
+            {
+              "id": 10,
+              "start": 81.8,
+              "end": 86,
+              "text": "We assumed the best about both of them and moved on."
+            },
+            {
+              "id": 11,
+              "start": 86.3,
+              "end": 91.3,
+              "text": "The result was that we were able to put the conflict behind us."
+            },
+            {
+              "id": 12,
+              "start": 91.6,
+              "end": 94,
+              "text": "In fact, their problems didn't recur."
+            },
+            {
+              "id": 13,
+              "start": 94.3,
+              "end": 97.8,
+              "text": "Over the years, this general approach has proved useful."
+            },
+            {
+              "id": 14,
+              "start": 98.1,
+              "end": 105.1,
+              "text": "Whenever the truth is obscure, assuming positive intent and agreeing to move on can be a constructive decision."
+            }
+          ],
+          "audioDuration": 105.1,
+          "questions": [
+            {
+              "number": 9,
+              "stem": "When can it be hard to know whom to believe?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "When two employees propose contrary solutions to their dispute."
+                },
+                {
+                  "key": "B",
+                  "text": "When two employees are directed by their respective manager."
+                },
+                {
+                  "key": "C",
+                  "text": "When two people behave in an apparently clashing manner."
+                },
+                {
+                  "key": "D",
+                  "text": "When two people tell different stories of the same event."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：When two people have different versions of the same event, it can be hard to know whom to believe.信号：题干原句几乎照搬 。原文 When two people have different versions of the same event, it can be hard to know whom to belie…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 用了原文出现的 dispute 一词，但把情形偷换成 propose contrary solutions to their dispute（提出相反的解决方案），而原文说的是对同一事件有不同版本，根本没提双方提解决方案，属听到原词就想选的陷阱。 借用原文：different versions of the same event",
+                "B": "未提及：B 说情形是 two employees are directed by their respective manager（两员工被各自经理指派），原文只提到管理者后来介入处理，从未说难辨真假是因为被经理指派，是未提及的捏造。",
+                "C": "偷换概念：C 把情形说成 behave in an apparently clashing manner（行为上看起来冲突），但原文界定的是对同一事件说法不同，是认知/陈述层面的分歧，不是行为冲突，偷换了情形的性质。",
+                "D": "正确项：与答案句同义替换（different versions of the same event ↔ different stories of the same event versions 改写成 stories）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "When two people have different versions of the same event, it can be hard to know whom to believe.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "What does the speaker definitely recall about the dispute mentioned as an example?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "How it got resolved."
+                },
+                {
+                  "key": "B",
+                  "text": "How it happened."
+                },
+                {
+                  "key": "C",
+                  "text": "What it was about."
+                },
+                {
+                  "key": "D",
+                  "text": "When it was settled."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：It happened years ago, and it's a measure of the forgettable nature of the conflict that I no longer even recall what the dispute was about, but I definitely recall the resolution.信号：but 转折后才是落点 。句中 I no longer even recall what the dispute was about, but I definitely recall the resolution 用…",
+              "optionAnalysis": {
+                "B": "原词陷阱：B 用了原文出现的 happened（It happened years ago），但那只是交代时间久远，说话人记得的是解决方式不是经过；听到 happened 就选 B 正中圈套。 借用原文：I no longer even recall what the dispute was about",
+                "C": "与原文相反：C 问 What it was about（关于什么），但原文恰恰说 I no longer even recall what the dispute was about——这正是说话人不记得的那一面，与题干 definitely recall 正好相反。",
+                "D": "偷换概念：D 问 When it was settled（何时解决），与 A 都涉及解决，但原文记得的是 the resolution（怎么解决）而非解决的时间点，原文只用 years ago 泛指年代，并未交代具体何时 settled，属把方式偷换成时间。",
+                "A": "正确项：与答案句同义替换（I definitely recall the resolution ↔ How it got resolved 名词 resolution 化为问句方式）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "It happened years ago, and it's a measure of the forgettable nature of the conflict that I no longer even recall what the dispute was about, but I definitely recall the resolution.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What did the speaker and his counterpart do when the two employees gave different accounts of the same event?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They intervened promptly lest their dispute escalate."
+                },
+                {
+                  "key": "B",
+                  "text": "They tried to ascertain the actual facts of the matter."
+                },
+                {
+                  "key": "C",
+                  "text": "They assumed the best about them and moved on."
+                },
+                {
+                  "key": "D",
+                  "text": "They persuaded them to put their conflict aside."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：We agreed to monitor their actions and relationship going forward, but to intervene no further. We assumed the best about both of them and moved on.信号：结论句直陈所做 。原文 We assumed the best about both of them and moved on 是对他们行动的直接陈述句，紧接在 to intervene no further 之后收…",
+              "optionAnalysis": {
+                "A": "与原文相反：A 说他们 intervened promptly lest their dispute escalate（及时介入防升级），但原文明说 to intervene no further——决定不再介入，A 的方向与原文正好相反。 借用原文：we might never ascertain the actual facts of the matter",
+                "B": "原词陷阱：B 用了原文原话 ascertain the actual facts of the matter，但原文是 we might never ascertain the actual facts of the matter——他们认定查不出真相、放弃了查，B 把这句截头去尾说成他们努力查清，恰好弄反。 借用原文：we were able to put the conflict behind us",
+                "D": "未提及：D 说他们 persuaded them to put their conflict aside（劝员工搁置冲突），但原文是两位管理者自己决定 moved on，并未去劝说员工放下，是未提及的动作；原文只说 put the conflict behind us，主语是管理者而非劝员工。",
+                "C": "正确项：与答案句同义替换（We assumed the best about both of them and moved on ↔ They assumed the best about them and moved on 几乎原句保留只换主语）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "We agreed to monitor their actions and relationship going forward, but to intervene no further. We assumed the best about both of them and moved on.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 5.8,
+              "text": "1 For some Americans, going out to dinner is a treat, planned and budgeted for."
+            },
+            {
+              "id": 2,
+              "start": 6.1,
+              "end": 8.8,
+              "text": "For others, it's just a daily occurrence."
+            },
+            {
+              "id": 3,
+              "start": 9.2,
+              "end": 16.8,
+              "text": "And that second group of people is becoming the majority as the number of Americans who enjoy cooking is declining."
+            },
+            {
+              "id": 4,
+              "start": 17.2,
+              "end": 23.3,
+              "text": "In the early 2000s, researcher Eddie Yoon conducted a survey to ascertain Americans' attitudes to cooking."
+            },
+            {
+              "id": 5,
+              "start": 23.7,
+              "end": 31.7,
+              "text": "The survey found that 15% of Americans loved to cook, 50% said they hated to cook and 35% reported mixed feelings."
+            },
+            {
+              "id": 6,
+              "start": 32,
+              "end": 42.8,
+              "text": "When Yoon conducted the same survey 15 years later, only 10% of respondents reported a love of cooking, 45% said they hated it and 45% had mixed feelings."
+            },
+            {
+              "id": 7,
+              "start": 43.1,
+              "end": 45.8,
+              "text": "Yoon asserts cooking is akin to sewing."
+            },
+            {
+              "id": 8,
+              "start": 46.1,
+              "end": 51.1,
+              "text": "As recently as the early 20th century, many Americans sewed their own clothing."
+            },
+            {
+              "id": 9,
+              "start": 51.5,
+              "end": 59.9,
+              "text": "Today, the vast majority of Americans buy clothing; only a tiny minority still sew, and they do it mainly as a hobby."
+            },
+            {
+              "id": 10,
+              "start": 60.3,
+              "end": 65.3,
+              "text": "Yoon believes the number of home cooks will diminish in a similar fashion."
+            },
+            {
+              "id": 11,
+              "start": 65.6,
+              "end": 70.6,
+              "text": "Currently, the average American household spends over $3,000 per year on dining out."
+            },
+            {
+              "id": 12,
+              "start": 70.9,
+              "end": 74.8,
+              "text": "However, what people save in convenience, they lose in cash."
+            },
+            {
+              "id": 13,
+              "start": 75.1,
+              "end": 77.8,
+              "text": "Take buying lunch on workdays for example."
+            },
+            {
+              "id": 14,
+              "start": 78.1,
+              "end": 82.4,
+              "text": "People spend, on average, $10 per meal when they buy lunch."
+            },
+            {
+              "id": 15,
+              "start": 82.8,
+              "end": 85.8,
+              "text": "Making your own lunch, meanwhile, will cost less."
+            },
+            {
+              "id": 16,
+              "start": 86.1,
+              "end": 92.3,
+              "text": "One survey found people only spend on average $6.30 when they bring lunch prepared at home."
+            },
+            {
+              "id": 17,
+              "start": 92.6,
+              "end": 99.6,
+              "text": "Americans' growing aversion to spending time in the kitchen signifies a host of challenges for the grocery industry."
+            },
+            {
+              "id": 18,
+              "start": 99.9,
+              "end": 103.4,
+              "text": "It's likely to detrimentally impact family finances as well."
+            }
+          ],
+          "audioDuration": 103.4,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What do an increasing number of Americans do according to the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Dine out daily."
+                },
+                {
+                  "key": "B",
+                  "text": "Budget sensibly."
+                },
+                {
+                  "key": "C",
+                  "text": "Enjoy cooking."
+                },
+                {
+                  "key": "D",
+                  "text": "Shop at groceries."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：For others, it's just a daily occurrence. And that second group of people is becoming the majority as the number of Americans who enjoy cooking is declining.信号：becoming the majority锁定增多的群体 。答案信号是 becoming the majority（正在成为多数），它紧接 that second group of people；而\"第二类人\"指的正…",
+              "optionAnalysis": {
+                "B": "原词陷阱：原文开头说第一类人把外食当作 planned and budgeted for 的款待，选项 Budget sensibly. 盗用了 budget 一词，但\"做预算\"是第一类（少数人）的做法，不是题干问的\"越来越多的人\"，属原词陷阱。 借用原文：the number of Americans who enjoy cooking is declining",
+                "C": "与原文相反：选项 Enjoy cooking. 抓住了原文的 cooking 和 enjoy，但原文是 the number of Americans who enjoy cooking is declining——喜欢做饭的人在\"减少\"，正与题干\"increasing\"相反，方向反了。 借用原文：challenges for the grocery industry",
+                "D": "原词陷阱：选项 Shop at groceries. 的 grocery 一词原文后段确实出现于 challenges for the grocery industry，但那是讲对杂货业的挑战，不是说\"越来越多人去杂货店买菜\"，原文从未把\"逛杂货店\"列为增多的行为，属原词陷阱。",
+                "A": "正确项：与答案句同义替换（it's just a daily occurrence ↔ Dine out daily. 外出就餐+每天的同义改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "For others, it's just a daily occurrence. And that second group of people is becoming the majority as the number of Americans who enjoy cooking is declining.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What does Eddie Yoon think cooking is akin to?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Shopping."
+                },
+                {
+                  "key": "B",
+                  "text": "Sewing."
+                },
+                {
+                  "key": "C",
+                  "text": "Entertaining oneself."
+                },
+                {
+                  "key": "D",
+                  "text": "Fashion designing."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：Yoon asserts cooking is akin to sewing. As recently as the early 20th century, many Americans sewed their own clothing.信号：akin to后面紧接的名词 。答案信号就是类比词 akin to，它在原文里直接说出 cooking is akin to sewing，紧跟其后的 sewing 即被类比的对象，定位干净利落。",
+              "optionAnalysis": {
+                "A": "未提及：选项 Shopping. 与原文谈的\"买衣服\"概念沾边（buy clothing），但原文把做饭类比的是\"缝纫\"这一动作，从未说做饭类似\"购物\"，属未提及的张冠李戴。",
+                "C": "张冠李戴：选项 Entertaining oneself.（自娱自乐）与原文 they do it mainly as a hobby 里的 hobby 略有联想，但 hobby 是说\"今天少数人把缝纫当爱好\"，并非把做饭类比成\"娱乐\"，属张冠李戴。 借用原文：many Americans sewed their own clothing",
+                "D": "偷换概念：选项 Fashion designing.（服装设计）与原文反复出现的 clothing / sewed their own clothing 同属\"衣服\"话题，最易因联想而误选，但原文类比的是\"缝纫\"这个动作本身，不是\"服装设计\"，是话题相近的偷换。",
+                "B": "正确项：与答案句同义替换（cooking is akin to sewing ↔ Sewing. 原词直接对应）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Yoon asserts cooking is akin to sewing. As recently as the early 20th century, many Americans sewed their own clothing.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What will Americans be able to do by making their own lunch?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Satisfy their taste."
+                },
+                {
+                  "key": "B",
+                  "text": "Cut down expenses."
+                },
+                {
+                  "key": "C",
+                  "text": "Eat more healthily."
+                },
+                {
+                  "key": "D",
+                  "text": "Cultivate new hobbies."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：People spend, on average, $10 per meal when they buy lunch. Making your own lunch, meanwhile, will cost less. One survey found people only spend on average $6.30 when they bring lunch prepared at home.信号：cost less加$10对$6.30的数字对比 。答案信号有两层：一是明示的 Making your own lunch, meanwhile, will cost less（更便宜），二是 \\$10 per me…",
+              "optionAnalysis": {
+                "A": "未提及：选项 Satisfy their taste.（满足口味）听上去是自己做饭的常见好处，但原文这段只谈钱（cost less、\\$6.30），完全没提味道好不好，属未提及。",
+                "C": "未提及：选项 Eat more healthily.（吃得更健康）是\"自己做饭\"最容易让人联想到的好处，迷惑性强，但原文论证的全是花钱多少，没有任何关于\"健康/营养\"的表述，属未提及。",
+                "D": "张冠李戴：选项 Cultivate new hobbies.（培养新爱好）里的 hobby 概念来自前文讲缝纫的 they do it mainly as a hobby，与\"自己做午餐\"这一段无关，是把别处的 hobby 嫁接过来，属张冠李戴。",
+                "B": "正确项：与答案句同义替换（Making your own lunch, meanwhile, will cost less ↔ Cut down expenses. cost less与cut down expenses同义）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "People spend, on average, $10 per meal when they buy lunch. Making your own lunch, meanwhile, will cost less. One survey found people only spend on average $6.30 when they bring lunch prepared at home.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "What does the passage say signifies a host of challenges for America's grocery industry?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "People's intense focus on convenience."
+                },
+                {
+                  "key": "B",
+                  "text": "People's deteriorating family finances."
+                },
+                {
+                  "key": "C",
+                  "text": "People's strong aversion to junk foods."
+                },
+                {
+                  "key": "D",
+                  "text": "People's increasing dislike of cooking."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：Americans' growing aversion to spending time in the kitchen signifies a host of challenges for the grocery industry.信号：signifies连接现象与挑战 。答案信号是因果动词 signifies a host of challenges，它把后果\"诸多挑战\"与紧挨在它前面的现象 Americans\\' growing aversion…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 People's intense focus on convenience. 借用了原文 what people save in convenience 的 convenience，但原文 convenience 是讲\"省下的便利\"，并非\"对便利的强烈追求带来挑战\"，signifies 前挂的现象不是它，属原词陷阱。 借用原文：detrimentally impact family finances",
+                "B": "张冠李戴：选项 People's deteriorating family finances. 里的 family finances 来自原文最后一句 detrimentally impact family finances，但那是说\"不爱下厨\"也会\"损害家庭财务\"——家庭财务是被影响的后果之一，不是给杂货业带来挑战的原因，张冠李戴。 借用原文：growing aversion to spending time in the kitchen",
+                "C": "原词陷阱：选项 People's strong aversion to junk foods. 盗用了原文 growing aversion 的 aversion 一词，但原文 aversion 的对象是\"在厨房花时间\"，不是\"垃圾食品\"，原文通篇未提 junk food，属原词陷阱叠加无中生有。",
+                "D": "正确项：与答案句同义替换（Americans\\' growing aversion to spending time in the kitchen ↔ People's increasing dislike of cooking. 厌恶下厨=越来越不爱做饭的同义改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Americans' growing aversion to spending time in the kitchen signifies a host of challenges for the grocery industry.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Recording One",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 31.9,
+              "text": "Every year, of the more than 2.5 billion bags checked onto flights worldwide, 26 million go missing — and of that 26 million, 1 million never make it back to their original owner. Bad weather and flight delays, miscoded destination tags and some people simply forgetting to pick up one of their bags are a few of the reasons. But the number-one reason a bag ends up lost is that it has no ID tag, and airlines don't know to whom it belongs.",
+              "zh": "每年，在全球航班上办理托运的超过25亿件行李中，有2600万件会丢失；而在这2600万件中，有100万件永远无法回到原主人的手中。恶劣天气和航班延误、目的地标签编码错误，以及有人单纯忘记取走自己的某件行李，都是造成这种情况的部分原因。但行李最终丢失的首要原因是没有身份标签，航空公司不知道它属于谁。"
+            },
+            {
+              "id": 2,
+              "start": 32.3,
+              "end": 81.1,
+              "text": "Transferring baggage from check-in to departure gates to arrival gates to baggage claim is a delicate piece of timing. If the system moves too slowly, the bags won't make connecting flights. If it's too fast, the bags may make the connection but the passengers might miss the flight. Each airport has its own way of allotting how much time a bag needs to move in transit. Some airports have sophisticated automated systems, including scanners that read baggage labels, destination-coded vehicles that load and unload the bags without stopping, and sorting machines that route baggage to the appropriate gate. Even so, all that technology may not save your baggage tag from being torn off on the conveyor belt, making you the owner of a bag with no name.",
+              "zh": "将行李从值机柜台转运到出发登机口，再转运到到达登机口，最后送至行李提取处，需要精确掌握时间。如果整个系统运行得太慢，行李就赶不上联程航班；如果运行得太快，行李可能赶上了联程航班，但乘客却可能误机。每座机场都有自己的方式来分配行李在转运过程中所需的时间。有些机场拥有先进的自动化系统，包括能够读取行李标签的扫描仪、无需停下就能装卸行李的目的地编码车辆，以及将行李分拣至相应登机口的分拣机。即便如此，所有这些技术也未必能防止你的行李标签在传送带上被撕掉，使你成为一件无名行李的主人。"
+            },
+            {
+              "id": 3,
+              "start": 81.4,
+              "end": 122.2,
+              "text": "Once a bag goes missing and the passenger files a claim, the bag is declared \"mishandled\" by the carrier. Mishandled refers to bags that have been delayed, lost, stolen or damaged. Most delayed bags are only one flight behind their owners and can be delivered within 24 hours. The other bags are examined by airline employees for clues to their ownership and destination. If the mystery is solved, those bags are returned to their owners within four or five days. Bags with no destination code or identification tag are shipped to a central warehouse, and undergo a comprehensive baggage tracing process over the next 90 days.",
+              "zh": "行李一旦丢失，乘客提交索赔后，承运方就会将其认定为“处置不当”。“处置不当”是指行李延误、丢失、被盗或受损。大多数延误的行李只比主人晚一个航班，能够在24小时内送达。其他行李则由航空公司员工检查，以寻找有关其所有者和目的地的线索。如果谜团得以解开，这些行李会在四五天内归还给主人。没有目的地编码或身份标签的行李会被运往一个中央仓库，并在接下来的90天内接受全面的行李追踪调查。"
+            },
+            {
+              "id": 4,
+              "start": 122.5,
+              "end": 143.3,
+              "text": "Airlines inventory their mishandled baggage, and many use a database to match the contents with owners' descriptions. It takes about three months to go from \"missing in action\" to \"irretrievably lost\". Once that happens, the bags are donated to charity, sold at auction, or purchased by a company which sells them to the public.",
+              "zh": "航空公司会对处置不当的行李进行登记，许多航空公司还会使用数据库，将行李内容与所有者的描述进行匹配。从“失联”到“无法追回的遗失”，大约需要三个月。一旦被认定为无法追回，这些行李就会捐给慈善机构、被拍卖，或由一家将其出售给公众的公司买走。"
+            },
+            {
+              "id": 5,
+              "start": 143.7,
+              "end": 155.6,
+              "text": "So never pack anything of real value in your checked baggage. And make sure your name is on the bag, along with your phone number, so an agent can contact you.",
+              "zh": "所以，千万不要把任何真正有价值的东西放在托运行李中。同时要确保行李上写有你的姓名和电话号码，这样工作人员就能联系到你。"
+            }
+          ],
+          "audioDuration": 155.6,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What is the number-one reason a bag ends up lost according to this talk?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Its owner's flight is delayed because of bad weather."
+                },
+                {
+                  "key": "B",
+                  "text": "Airlines cannot find its owner without an ID tag on it."
+                },
+                {
+                  "key": "C",
+                  "text": "Airline staff have not correctly coded its destination tag."
+                },
+                {
+                  "key": "D",
+                  "text": "Its owner has forgot to pick it up from the baggage claim."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：But the number-one reason a bag ends up lost is that it has no ID tag, and airlines don't know to whom it belongs.信号：转折词 But 加最高级 number-one 双重锁定 。前文用 Bad weather and flight delays, miscoded destination tags and some people s…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 项的 flight is delayed because of bad weather 直接盗用了录音 Bad weather and flight delays 的原词，但这只是 But 之前罗列的众多次要原因之一，不是 number-one，听到 bad weather 就选正中陷阱。 借用原文：miscoded destination tags",
+                "C": "原词陷阱：C 项 correctly coded its destination tag 对应录音里的 miscoded destination tags，原词照搬，但它同样属于 But 之前的次要原因罗列，并非 number-one，是和 A 同类的原词陷阱。 借用原文：some people simply forgetting to pick up one of their bags",
+                "D": "原词陷阱：D 项 forgot to pick it up from the baggage claim 来自录音 some people simply forgetting to pick up one of their bags，又是罗列区原词，属次要原因，不符合 number-one，依旧是原词陷阱。",
+                "B": "正确项：与答案句同义替换（it has no ID tag ↔ without an ID tag on it has no = without 否定同义改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "But the number-one reason a bag ends up lost is that it has no ID tag, and airlines don't know to whom it belongs.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "What may happen to your baggage even when there are sophisticated automated systems?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Its tag may get torn off on the conveyor belt."
+                },
+                {
+                  "key": "B",
+                  "text": "Its tag may get stuck in the sorting machine."
+                },
+                {
+                  "key": "C",
+                  "text": "It may be sent to a wrong destination."
+                },
+                {
+                  "key": "D",
+                  "text": "It may be picked up by someone else."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：Even so, all that technology may not save your baggage tag from being torn off on the conveyor belt, making you the owner of a bag with no name.信号：让步转折 Even so 引出真正后果 。前文 Some airports have sophisticated automated systems 大谈各种先进系统(对应题干 sophisticated autom…",
+              "optionAnalysis": {
+                "B": "原词陷阱：B 项 stuck in the sorting machine 盗用了录音 sorting machines that route baggage to the appropriate gate 里的 sorting machine 一词，但录音说分拣机是\"把行李送到正确登机口\"，根本没说标签会卡在里面，属答非所问的原词陷阱。 借用原文：miscoded destination tags",
+                "C": "张冠李戴：C 项 sent to a wrong destination 让人联想到第一段 miscoded destination tags，但那是讲\"丢失原因\"、且不在 Even so 转折后；本题问的是即便技术先进仍会发生的事，录音对应的是标签被扯掉，不是送错地，属张冠李戴。",
+                "D": "未提及：D 项 picked up by someone else 在第二段 Even so 这句里根本没出现，录音说的是标签被扯掉、行李变得无名，没说被别人取走，属未提及。",
+                "A": "正确项：与答案句同义替换（your baggage tag from being torn off on the conveyor belt ↔ Its tag may get torn off on the conveyor belt 几乎原句对应稍作改写）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Even so, all that technology may not save your baggage tag from being torn off on the conveyor belt, making you the owner of a bag with no name.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What does the speaker advise us to do at the end of the talk?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Purchase irretrievably lost things at auction."
+                },
+                {
+                  "key": "B",
+                  "text": "Contact the airport staff to find our missing bag."
+                },
+                {
+                  "key": "C",
+                  "text": "Get the airline agent's phone number before boarding."
+                },
+                {
+                  "key": "D",
+                  "text": "Avoid packing valuable items in our checked baggage."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P5）：So never pack anything of real value in your checked baggage.信号：结尾祈使句 never 直发忠告 。末段以 So never pack anything of real value in your checked baggage 起头，So 表收束、never 领出强忠告，正是题…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 项 Purchase irretrievably lost things at auction 盗用了第四段 sold at auction 与 irretrievably lost 的原词，但那是在讲无主行李最终的处置去向，不是讲者给\"我们\"的忠告，属答非所问的原词陷阱。 借用原文：so an agent can contact you",
+                "B": "与原文相反：B 项 Contact the airport staff to find our missing bag 与结尾 so an agent can contact you 方向相反：录音说\"留下电话以便客服能联系你\"，B 却说\"我们去联系工作人员找包\"，主被动颠倒，属与原文相反/张冠李戴。 借用原文：along with your phone number",
+                "C": "偷换概念：C 项 Get the airline agent's phone number before boarding 盗用了结尾 along with your phone number 的 phone number，但录音说的是\"把你自己的电话写在行李上\"，不是\"登机前去拿客服电话\"，偷换了 phone number 的归属与做法，属偷换概念的原词陷阱。",
+                "D": "正确项：与答案句同义替换（never pack anything of real value ↔ Avoid packing valuable items never=Avoid 否定建议同义改写）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "So never pack anything of real value in your checked baggage.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Recording Two",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 34.2,
+              "text": "You've probably been with someone who ignored you while interacting with his or her smartphone. And you've probably engaged in this behavior yourself. In a recent survey, nine out of ten respondents said they'd used their smartphone during their most recent social activity. There's also evidence that this behavior is socially harmful. It can leave people less satisfied with their face-to-face interactions. And it can generate feelings of resentment and jealousy. Now, the Journal of Applied Social Psychology has published a new study exploring the reasons for these effects.",
+              "zh": "你可能曾和这样的人在一起：他或她在与你互动时却忽视你，只顾摆弄智能手机。你自己可能也有过这种行为。最近的一项调查显示，十名受访者中有九人表示，他们在最近一次社交活动中使用过智能手机。也有证据表明，这种行为会损害社交关系。它可能使人们对面对面的互动感到不那么满意，还可能引发怨恨和嫉妒情绪。如今，《应用社会心理学杂志》发表了一项新研究，探讨了这些影响产生的原因。"
+            },
+            {
+              "id": 2,
+              "start": 34.6,
+              "end": 59.2,
+              "text": "The study included 128 mostly female student participants. The participants watched a three-minute animation in which two cartoon figures interacted and engaged in a conversation. The conversation couldn't be heard but could be detected through mouth movements. Participants had to imagine themselves as the closest figure in the video and then make judgments about the conversations and how they felt about their conversation partners.",
+              "zh": "这项研究包括128名学生参与者，其中大多数为女性。参与者观看了一段三分钟的动画，动画中两个卡通人物进行互动并交谈。对话内容听不见，但可以通过嘴部动作辨别出来。参与者必须设想自己就是视频中距离观众较近的那个人物，然后对对话作出判断，并评价自己对交谈对象的感受。"
+            },
+            {
+              "id": 3,
+              "start": 59.6,
+              "end": 92.6,
+              "text": "In one version of the experiment, the phone of the participants' conversation partner remained unused on the table throughout the conversation. In another version, their partner's attention was quickly drawn to something on their phone and they spent the rest of the time interacting with their phone. A third version involved the participants' partner alternating between periods of interaction with their phone and periods where they ignored their phone. If you've experienced a similar situation, you probably won't be surprised by the results of the experiments.",
+              "zh": "在实验的一种情境中，参与者的交谈对象始终没有使用放在桌上的手机。另一种情境中，交谈对象很快被手机上的某件事吸引，剩下的时间一直与手机互动。第三种情境中，参与者的交谈对象在使用手机互动和不理会手机之间交替进行。如果你曾经历过类似情况，实验结果大概不会让你感到意外。"
+            },
+            {
+              "id": 4,
+              "start": 92.9,
+              "end": 105.6,
+              "text": "The participants had a negative view of phone use during social interactions. The more it was present, the worse they considered both the quality of the interaction and the quality of the relationship.",
+              "zh": "参与者对社交互动中的手机使用持负面看法。手机使用出现得越多，他们认为互动质量和关系质量就越差。"
+            },
+            {
+              "id": 5,
+              "start": 105.9,
+              "end": 137.5,
+              "text": "The researchers believed that focusing on one's phone instead of the person one is with has this effect because it's seen as a form of social exclusion. They assert that the behavior is analogous to when people have no choice but to eat alone in the school cafeteria. The twist is that this exclusion occurs while sharing a physical encounter and having a conversation. Researchers found that the behavior had adverse effects on participants' sense of belonging, need for meaning and self-esteem.",
+              "zh": "研究人员认为，把注意力放在手机上而不是身边的人身上之所以会产生这种影响，是因为这种行为被视为一种社会排斥形式。他们断言，这种行为类似于人们别无选择、只能独自在学校食堂吃饭的情形。不同之处在于，这种排斥发生在双方共享同一场面对面接触并进行交谈的过程中。研究人员发现，这种行为对参与者的归属感、意义需求和自尊都产生了不利影响。"
+            },
+            {
+              "id": 6,
+              "start": 137.8,
+              "end": 157.5,
+              "text": "These negative effects are similar to those caused by traditional forms of social exclusion. The new findings are important because they elaborate our understanding of a subtle but common aspect of our daily experience. This common behavior can create vicious cycles of detachment even as we try to connect with others.",
+              "zh": "这些负面影响与传统社会排斥形式所造成的影响相似。这些新发现十分重要，因为它们加深了我们对日常体验中一种微妙却普遍存在的现象的理解。即使我们努力与他人建立联系，这种常见行为也可能造成疏离感不断加剧的恶性循环。"
+            }
+          ],
+          "audioDuration": 157.5,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What does the speaker say about using one's smartphone during a face-to-face conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It can be behaviorally hazardous."
+                },
+                {
+                  "key": "B",
+                  "text": "It can be especially disappointing."
+                },
+                {
+                  "key": "C",
+                  "text": "It can be socially harmful."
+                },
+                {
+                  "key": "D",
+                  "text": "It can be really embarrassing."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：There's also evidence that this behavior is socially harmful.信号：提示证据的 evidence that 之后即结论 。There's also evidence that this behavior is socially harmful. 用 evidence that 引出对…",
+              "optionAnalysis": {
+                "A": "偷换概念：It can be behaviorally hazardous. 借录音反复出现的 behavior 一词（如 this behavior）造误导，但录音说的是'对社交有害'，并未说该行为本身'危险'，属偷换概念。 借用原文：less satisfied with their face-to-face interactions",
+                "B": "答非所问：It can be especially disappointing. 像是从 less satisfied with their face-to-face interactions 联想出的'失望'，但录音把它定性为 socially harmful，'让人不太满意'只是表现之一，不是本题要的总定性。",
+                "D": "未提及：It can be really embarrassing. 的'尴尬'在录音里完全没有出现，是凭'玩手机让人尴尬'的生活常识硬补的，属未提及。",
+                "C": "正确项：与答案句同义替换（this behavior is socially harmful ↔ It can be socially harmful. 几乎原句，只把 behavior 换成 It）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "There's also evidence that this behavior is socially harmful.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "How did the participants in the new study respond regarding phone use during social interactions?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They considered it inevitable."
+                },
+                {
+                  "key": "B",
+                  "text": "They held a negative view towards it."
+                },
+                {
+                  "key": "C",
+                  "text": "They were concerned with its effects."
+                },
+                {
+                  "key": "D",
+                  "text": "They saw it as a sign of social evolution."
+                }
+              ],
+              "answer": "B",
+              "analysis": "态度观点题。答案句（P4）：The participants had a negative view of phone use during social interactions.信号：主体 participants + 态度词 negative view 。The participants had a negative view of phone use during social interac…",
+              "optionAnalysis": {
+                "A": "未提及：They considered it inevitable. 说参与者认为玩手机'不可避免'，录音只说他们持负面看法，从未谈'是否不可避免'，属未提及。",
+                "C": "原词陷阱：They were concerned with its effects. 借录音里反复出现的 effects（如 adverse effects）造干扰，但那是研究者发现的客观影响，本题问的是参与者的态度，参与者是'持负面看法'而非'担忧其影响'。 借用原文：The participants had a negative view",
+                "D": "与原文相反：They saw it as a sign of social evolution. 把玩手机说成'社会进化的标志'（正面），与录音 negative view 极性完全相反，属与原文相反。",
+                "B": "正确项：与答案句同义替换（The participants had a negative view ↔ They held a negative view towards it 近乎原句，had→held、of→towards、加代词 They/it）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "The participants had a negative view of phone use during social interactions.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 21,
+              "stem": "What does the speaker say can result from the common behavior of using phones during face-to-face conversations?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Elaborate forms of social contact."
+                },
+                {
+                  "key": "B",
+                  "text": "Ill effects on one's sense of pride."
+                },
+                {
+                  "key": "C",
+                  "text": "Poor relationships with others."
+                },
+                {
+                  "key": "D",
+                  "text": "Vicious cycles of detachment."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P6）：This common behavior can create vicious cycles of detachment even as we try to connect with others.信号：篇末 can create 引出最终后果 。This common behavior can create vicious cycles of detachment 出现在全篇最后一句，用 can create 直接…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Elaborate forms of social contact. 借录音 they elaborate our understanding 里的 elaborate 造干扰，但那里 elaborate 是动词'使更丰富（我们的理解）'，与'精致的社交形式'毫无关系，且方向上录音讲的是坏后果，A 听着像好事。 借用原文：adverse effects on participants' sense of belonging, need for meaning and self-esteem",
+                "B": "答非所问：Ill effects on one's sense of pride. 借 self-esteem（自尊）改写成 pride，录音确实说过对自尊有不良影响，但那是中段提到的影响，本题问 result from 的最终后果（末句的 vicious cycles），B 答非所问。 借用原文：the worse they considered both the quality of the interaction and the quality of the relationship",
+                "C": "答非所问：Poor relationships with others. 像是从 the quality of the relationship 来的'人际变差'，意思虽与 D 相近，但本题答案信号句末句用的是 vicious cycles of detachment，C 既非该后果句的措辞、又是参与者对关系质量的评判而非最终后果，故不选。",
+                "D": "正确项：与答案句同义替换（vicious cycles of detachment ↔ Vicious cycles of detachment. 原词短语整体复现，仅首字母大写）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "This common behavior can create vicious cycles of detachment even as we try to connect with others.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Recording Three",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 36.5,
+              "text": "More and more people travel for a variety of reasons. Many are tourists, but many venture forth on personal or professional business. Whatever the reason for traveling, a common complaint of travelers is the impersonal accommodations they find. After spending five consecutive nights in five similar hotels, the business traveler may find it difficult to remember what happened from day to day, or even what towns were visited, and the tourist may get the mistaken impression that all cities are pretty much the same, at least as far as decoration, food and service are concerned.",
+              "zh": "越来越多的人出于各种原因旅行。许多人是游客，但也有许多人因个人事务或公务外出。不论出于何种旅行原因，旅行者普遍抱怨的一点是，他们所住的住宿场所缺乏个性。商务旅行者连续五晚住在五家相似的酒店后，可能会难以记清每天发生了什么，甚至记不住去过哪些城镇；而游客则可能产生一种错误印象，认为所有城市都大同小异，至少在装潢、食物和服务方面是如此。"
+            },
+            {
+              "id": 2,
+              "start": 36.9,
+              "end": 79.9,
+              "text": "To combat this sense of impersonal sameness, travelers are taking advantage of in-home hospitality or Bed and Breakfast arrangements. B&Bs, I mean, Bed and Breakfast arrangements are private homes which offer lodging and breakfast in a very personalized, friendly setting. For decades, B&Bs have been the classic way to visit Europe, especially the British Isles. And in fact, they are not really a new idea in America. The tradition dates back to colonial times when inns were few and far between, and the weary traveler had to depend on the kindness of strangers for a meal and a bed. But the revival of B&Bs as desirable accommodations is a fairly recent phenomenon.",
+              "zh": "为了消除这种千篇一律、缺乏个性的感受，旅行者开始利用家庭式接待或提供住宿加早餐的安排。我所说的B&B，就是住宿加早餐安排，指的是私人住宅在十分个性化且友好的环境中提供住宿和早餐。几十年来，B&B一直是游览欧洲，尤其是英伦群岛的经典方式。事实上，这在美国也并不是什么新鲜事。这一传统可以追溯到殖民时期，那时旅店十分稀少，疲惫的旅行者不得不依靠陌生人的善意来获得一顿饭和一张床。不过，B&B作为理想住宿方式的复兴，是相当近期的现象。"
+            },
+            {
+              "id": 3,
+              "start": 80.3,
+              "end": 157.2,
+              "text": "If the idea of operating a B&B arouses your interest, there are several factors to consider before plunging into this business. The first consideration is your property, not only the building itself, but the location. If you live near a famous historical site or in a popular destination, such as New York City or Washington, D.C., your home can be fairly simple, yet still do well as a B&B. On the other hand, if your home is architecturally unique or has facilities for the traveler, such as a private entrance, private bath or swimming pool, people may be willing to go some distance to reach you. Another important factor is the lifestyle of you and your family. You must take into account whether all members of the family truly enjoy visitors, want to repeatedly discuss local sites and activities, and have the time and energy to handle the additional cooking, cleaning, laundry and the bookkeeping involved. The final consideration is a financial one, potential B&B hosts must be realistic about opportunities for income. While B&Bs usually have low initial costs, experts estimate it would take at least five rooms rented regularly for the host to earn a living from B&B.",
+              "zh": "如果经营B&B的想法引起了你的兴趣，那么在贸然投入这项业务之前，有几个因素需要考虑。首先要考虑的是你的房产，不仅包括建筑物本身，还包括其位置。如果你住在著名历史遗址附近，或住在纽约市、华盛顿特区等热门目的地，你的房子即使相当普通，也仍然可以很好地经营成B&B。另一方面，如果你的房屋在建筑风格上独具特色，或拥有方便旅行者使用的设施，例如私人入口、私人浴室或游泳池，人们可能愿意走相当远的路来投宿。另一个重要因素是你和家人的生活方式。你必须考虑家庭的每一位成员是否真的喜欢接待客人，是否愿意反复谈论当地的景点和活动，以及是否有时间和精力承担由此增加的烹饪、清洁、洗衣和记账工作。最后还要考虑财务因素。潜在的B&B经营者必须现实地看待收入机会。虽然B&B通常前期成本较低，但专家估计，经营者至少需要定期出租五间客房，才能靠B&B维持生计。"
+            }
+          ],
+          "audioDuration": 157.2,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What does the speaker say travelers commonly complain about?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The ill treatment they get as tourists."
+                },
+                {
+                  "key": "B",
+                  "text": "The nonprofessional business they see."
+                },
+                {
+                  "key": "C",
+                  "text": "The impersonal accommodations."
+                },
+                {
+                  "key": "D",
+                  "text": "The many adventures on their way."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：Whatever the reason for traveling, a common complaint of travelers is the impersonal accommodations they find.信号：complaint 信号词直接引出 。答案句里 a common complaint of travelers is 与题干 commonly complain about 的抱怨信号严丝合缝，complaint 之…",
+              "optionAnalysis": {
+                "A": "未提及：The ill treatment they get as tourists. 把抱怨说成受差待遇，但原文从头到尾说的是住宿缺人情味、千篇一律，并没提任何被恶待、被歧视的内容，属于无中生有的升级。",
+                "B": "原词陷阱：The nonprofessional business they see. 借用了原文 personal or professional business 里的 professional 一词，但原文那句是说人们因私事或公务出行，根本没说他们抱怨不专业的生意，是听到 professional 就想选的原词陷阱。",
+                "D": "与原文相反：The many adventures on their way. 说一路有许多奇遇，是正面体验，而题目问的是抱怨（负面）；原文也无奇遇之说，方向与抱怨正相反，自然不选。",
+                "C": "正确项：与答案句同义替换（a common complaint of travelers is the impersonal accommodations ↔ The impersonal accommodations. 近乎原句压缩）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Whatever the reason for traveling, a common complaint of travelers is the impersonal accommodations they find.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What is said about Bed and Breakfast arrangements?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have been the classic way to visit Europe."
+                },
+                {
+                  "key": "B",
+                  "text": "They attract tourists with location and decoration."
+                },
+                {
+                  "key": "C",
+                  "text": "They have long been competing with chain hotels."
+                },
+                {
+                  "key": "D",
+                  "text": "They are in fact a completely new idea in America."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：For decades, B&Bs have been the classic way to visit Europe, especially the British Isles. And in fact, they are not really a new idea in America.信号：For decades 强调由来已久 。For decades, B&Bs have been the classic way to visit Europe 用 For decades（几十年来）加现在完成时强调长…",
+              "optionAnalysis": {
+                "B": "张冠李戴：They attract tourists with location and decoration. 说靠地段和装潢吸引游客，location 一词确在原文第三段 not only the building itself, but the location 出现过，但那是讲房主开店要考虑的因素，不是说 B&B 整体靠地段装潢揽客，把后文的考量错安成对 B&B 的定性。 借用原文：they are not really a new idea in America",
+                "C": "未提及：They have long been competing with chain hotels. 提到与连锁酒店长期竞争，但原文只说 B&B 提供个性化、友好的住宿来对抗千篇一律的感觉，从未提到 chain hotels 或彼此竞争，属凭常识脑补出的内容。",
+                "D": "与原文相反：They are in fact a completely new idea in America. 说在美国是全新事物，恰与原文 they are not really a new idea in America 相反——原文明确用 not 否定了新事物，选项却去掉否定取了反义，是漏听否定词导致的正话反说。",
+                "A": "正确项：与答案句同义替换（B&Bs have been the classic way to visit Europe ↔ They have been the classic way to visit Europe. 几乎原句搬运）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "For decades, B&Bs have been the classic way to visit Europe, especially the British Isles. And in fact, they are not really a new idea in America.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What is the first thing you have to consider if you want to start a B&B business?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Your financial status."
+                },
+                {
+                  "key": "B",
+                  "text": "Your family's consent."
+                },
+                {
+                  "key": "C",
+                  "text": "Your property."
+                },
+                {
+                  "key": "D",
+                  "text": "Your personality."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：The first consideration is your property, not only the building itself, but the location.信号：The first consideration 排序信号 。The first consideration is your property 用 The first consideration 明示第一项考虑，与题干…",
+              "optionAnalysis": {
+                "A": "答非所问：Your financial status. 财务状况听上去像开店头等大事，极易凭常识选中，但原文把财务排在 The final consideration is a financial one——是最后一项而非第一项，错在排序。 借用原文：the lifestyle of you and your family",
+                "B": "偷换概念：Your family's consent. 说要家人同意，原文只说要考虑 the lifestyle of you and your family——家人是否真心喜欢接待客人，谈的是生活方式契合度，并非要谁点头同意，是把原文意思偷换成了同意。 借用原文：truly enjoy visitors",
+                "D": "答非所问：Your personality. 性格虽与原文 truly enjoy visitors（是否真心喜欢客人）沾边，但那属于第二项生活方式考量，且原文用的是 lifestyle 而非 personality；它既非第一项、也不是原文对首项的说法。",
+                "C": "正确项：与答案句同义替换（The first consideration is your property ↔ Your property. 原词直接对应）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "The first consideration is your property, not only the building itself, but the location.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What does the speaker say potential B&B hosts must be realistic about?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Costs for starting the business."
+                },
+                {
+                  "key": "B",
+                  "text": "The number of guests to receive."
+                },
+                {
+                  "key": "C",
+                  "text": "The facilities to provide."
+                },
+                {
+                  "key": "D",
+                  "text": "Opportunities for income."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：The final consideration is a financial one, potential B&B hosts must be realistic about opportunities for income.信号：realistic about 原词搭桥 。答案句 must be realistic about opportunities for income 与题干 must be realistic about 用词几乎一…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Costs for starting the business. 借了原文 low initial costs 里的 costs，但原文是说启动成本通常很低，并不是说要对成本抱现实预期；要现实看待的明明是收入，这里用真念过的 costs 设了反向陷阱。 借用原文：at least five rooms rented regularly",
+                "B": "答非所问：The number of guests to receive. 说要现实看待接待客人的数量，原文确提到 at least five rooms rented regularly（至少五间房常租出），但那是用来说明靠 B&B 谋生不易的例子，落点仍是收入机会，不是叫房主对客人数量本身抱现实预期。 借用原文：facilities for the traveler",
+                "C": "张冠李戴：The facilities to provide. 说设施，facilities 一词出现在原文第三段讲房产的部分 facilities for the traveler，那是第一项房产的考量，与本题问的财务上要现实看待什么不在一处，被跨段挪来当答案。",
+                "D": "正确项：与答案句同义替换（must be realistic about opportunities for income ↔ Opportunities for income. 原句截取核心宾语）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "The final consideration is a financial one, potential B&B hosts must be realistic about opportunities for income.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "It's best to think of an accent as a distinct, systematic and rule-governed way of speaking. Accent is not a 26______ for dialect, but it's related. Dialect is an umbrella term for the way a community pronounces words, creates words, and orders words; accent refers to that first part only.\n\nMany 27______ presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is 28______ the best form of speech, but linguists(语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a 29______ . In other words, no one speaks \"standard English\"; rather, it is an imagined way of using language that exists only in grammar and style books.\n\nOne reason linguists agree there is no one true standard is that, through the years, there have been 30______ supposed standards, depending on time and place. The standard for English in British newsreels(新闻片) from the 1950s, for example, differs greatly from the standard found on American national news broadcasts today. In fact, there has never been a single standard that's been fully agreed upon — and broadcast outlets across the 31______ have never consistently held to those standards anyway.\n\nEven so, this idea of a standard accent is 32______ and many workplace and educational environments perpetuate the idea that accents that 33______ from the current standard are less appropriate, or even inappropriate. Scholars have found that southern US accent features are more accepted in 34______ such as government, law and service-oriented workplaces, but less accepted in the technology sector. The acceptability of nonstandard accents may 35______ with differences in class and culture, with newer or higher prestige industries expecting more standard speech in the workplace."
+            },
+            {
+              "label": "词库",
+              "text": "A) affix\nB) correlate\nC) deviate\nD) domains\nE) influential\nF) inherently\nG) laymen\nH) multiple\nI) properties\nJ) reality\nK) reciprocally\nL) specimen\nM) spectrum\nN) synonym\nO) unanimous"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affix"
+                },
+                {
+                  "key": "B",
+                  "text": "correlate"
+                },
+                {
+                  "key": "C",
+                  "text": "deviate"
+                },
+                {
+                  "key": "D",
+                  "text": "domains"
+                },
+                {
+                  "key": "E",
+                  "text": "influential"
+                },
+                {
+                  "key": "F",
+                  "text": "inherently"
+                },
+                {
+                  "key": "G",
+                  "text": "laymen"
+                },
+                {
+                  "key": "H",
+                  "text": "multiple"
+                },
+                {
+                  "key": "I",
+                  "text": "properties"
+                },
+                {
+                  "key": "J",
+                  "text": "reality"
+                },
+                {
+                  "key": "K",
+                  "text": "reciprocally"
+                },
+                {
+                  "key": "L",
+                  "text": "specimen"
+                },
+                {
+                  "key": "M",
+                  "text": "spectrum"
+                },
+                {
+                  "key": "N",
+                  "text": "synonym"
+                },
+                {
+                  "key": "O",
+                  "text": "unanimous"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) synonym\n【原文】原文 Accent is not a __(26)__ for dialect, but it's related. Dialect is an umbrella term...; accent refers to that first part only. 说\"accent 不是 dialect 的 ___，但相关\"，紧接着解释 dialect 是包含 accent 的更大范畴——也就是两者不是同义词。a synonym for X 即\"X 的同义词\"，是英语中固定搭配，语义与逻辑双合。\nL) specimen 样品义不合语境：specimen 指\"标本、样品\"，说\"accent 不是 dialect 的样品\"逻辑不通，且无 a specimen for 这一搭配。\nJ) reality 现实义与对比关系不符：reality 指\"现实\"，原文是在做术语对比（accent 与 dialect），并非讨论虚实，且 a reality for 在此搭配生硬。\nM) spectrum 范围义无法对应同义对比：spectrum 指\"范围、谱系\"，与下文\"二者相关但不重合\"的同义/上下位对比不匹配。\nD) domains 复数形式不匹配冠词 a：domains 为复数，与不定冠词 a 不兼容；语义\"领域\"也不构成 accent 与 dialect 的术语对照。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affix"
+                },
+                {
+                  "key": "B",
+                  "text": "correlate"
+                },
+                {
+                  "key": "C",
+                  "text": "deviate"
+                },
+                {
+                  "key": "D",
+                  "text": "domains"
+                },
+                {
+                  "key": "E",
+                  "text": "influential"
+                },
+                {
+                  "key": "F",
+                  "text": "inherently"
+                },
+                {
+                  "key": "G",
+                  "text": "laymen"
+                },
+                {
+                  "key": "H",
+                  "text": "multiple"
+                },
+                {
+                  "key": "I",
+                  "text": "properties"
+                },
+                {
+                  "key": "J",
+                  "text": "reality"
+                },
+                {
+                  "key": "K",
+                  "text": "reciprocally"
+                },
+                {
+                  "key": "L",
+                  "text": "specimen"
+                },
+                {
+                  "key": "M",
+                  "text": "spectrum"
+                },
+                {
+                  "key": "N",
+                  "text": "synonym"
+                },
+                {
+                  "key": "O",
+                  "text": "unanimous"
+                }
+              ],
+              "answer": "G",
+              "type": "选词填空",
+              "analysis": "【答案】G（官方答案）\n应填 G) laymen\n【原文】Many laymen presume… 即\"许多外行人想当然以为……\"，恰好与下半句 but linguists(语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a __(29)__ 中的 linguists 构成\"外行 vs 专家\"对照，逻辑严丝合缝。\nD) domains 领域无法做\"以为\"的主体：domains 指\"领域\"，是抽象范畴，不能作 presume 的逻辑主语；且与下句 linguists 的对照对象不符。\nI) properties 属性无法做\"以为\"的主体：properties 指\"属性、财产\"，同样是抽象概念，无法 presume；与对照结构不匹配。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affix"
+                },
+                {
+                  "key": "B",
+                  "text": "correlate"
+                },
+                {
+                  "key": "C",
+                  "text": "deviate"
+                },
+                {
+                  "key": "D",
+                  "text": "domains"
+                },
+                {
+                  "key": "E",
+                  "text": "influential"
+                },
+                {
+                  "key": "F",
+                  "text": "inherently"
+                },
+                {
+                  "key": "G",
+                  "text": "laymen"
+                },
+                {
+                  "key": "H",
+                  "text": "multiple"
+                },
+                {
+                  "key": "I",
+                  "text": "properties"
+                },
+                {
+                  "key": "J",
+                  "text": "reality"
+                },
+                {
+                  "key": "K",
+                  "text": "reciprocally"
+                },
+                {
+                  "key": "L",
+                  "text": "specimen"
+                },
+                {
+                  "key": "M",
+                  "text": "spectrum"
+                },
+                {
+                  "key": "N",
+                  "text": "synonym"
+                },
+                {
+                  "key": "O",
+                  "text": "unanimous"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) inherently\n【原文】原文 Many __(27)__ presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is __(28)__ the best form of speech 描述\"外行人以为感知到的标准在本质上就是最佳说话方式\"，inherently 表\"本质上、生来就是\"，正好对应这种被想当然的本体论断言。\nK) reciprocally 相互义与单向断言不符：reciprocally 表\"相互地\"，需双向主体；句中只是单方面\"被认为是最佳\"，无相互关系可言。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affix"
+                },
+                {
+                  "key": "B",
+                  "text": "correlate"
+                },
+                {
+                  "key": "C",
+                  "text": "deviate"
+                },
+                {
+                  "key": "D",
+                  "text": "domains"
+                },
+                {
+                  "key": "E",
+                  "text": "influential"
+                },
+                {
+                  "key": "F",
+                  "text": "inherently"
+                },
+                {
+                  "key": "G",
+                  "text": "laymen"
+                },
+                {
+                  "key": "H",
+                  "text": "multiple"
+                },
+                {
+                  "key": "I",
+                  "text": "properties"
+                },
+                {
+                  "key": "J",
+                  "text": "reality"
+                },
+                {
+                  "key": "K",
+                  "text": "reciprocally"
+                },
+                {
+                  "key": "L",
+                  "text": "specimen"
+                },
+                {
+                  "key": "M",
+                  "text": "spectrum"
+                },
+                {
+                  "key": "N",
+                  "text": "synonym"
+                },
+                {
+                  "key": "O",
+                  "text": "unanimous"
+                }
+              ],
+              "answer": "J",
+              "type": "选词填空",
+              "analysis": "【答案】J（官方答案）\n应填 J) reality\n【原文】an ideal rather than a reality\nL) specimen 样品义与理想无反义对应：specimen 指\"样本、标本\"，与 ideal 不构成对照，且语义上说\"标准口音是样本\"不通。\nM) spectrum 范围义与理想不对仗：spectrum 指\"频谱、范围\"，与 ideal 既无反义、也不切下句\"想象的语言用法\"语境。\nI) properties 复数与 a 不兼容：properties 复数，违背 a + 单数名词 的语法约束；语义\"属性\"也不构成与 ideal 的对照。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affix"
+                },
+                {
+                  "key": "B",
+                  "text": "correlate"
+                },
+                {
+                  "key": "C",
+                  "text": "deviate"
+                },
+                {
+                  "key": "D",
+                  "text": "domains"
+                },
+                {
+                  "key": "E",
+                  "text": "influential"
+                },
+                {
+                  "key": "F",
+                  "text": "inherently"
+                },
+                {
+                  "key": "G",
+                  "text": "laymen"
+                },
+                {
+                  "key": "H",
+                  "text": "multiple"
+                },
+                {
+                  "key": "I",
+                  "text": "properties"
+                },
+                {
+                  "key": "J",
+                  "text": "reality"
+                },
+                {
+                  "key": "K",
+                  "text": "reciprocally"
+                },
+                {
+                  "key": "L",
+                  "text": "specimen"
+                },
+                {
+                  "key": "M",
+                  "text": "spectrum"
+                },
+                {
+                  "key": "N",
+                  "text": "synonym"
+                },
+                {
+                  "key": "O",
+                  "text": "unanimous"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) multiple\n【原文】本段中心是\"语言学家认为没有唯一真标准\"，紧跟的例子 The standard for English in British newsreels(新闻片) from the 1950s, for example, differs greatly from the standard found on American national news broadcasts today. 用\"50 年代英国 vs 当下美国\"佐证存在多个标准，multiple supposed standards 切中要害。\nO) unanimous 一致同意与无统一标准矛盾：unanimous 表\"一致同意的\"，若说\"存在一致同意的标准\"，与下文 there has never been a single standard that's been fu"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affix"
+                },
+                {
+                  "key": "B",
+                  "text": "correlate"
+                },
+                {
+                  "key": "C",
+                  "text": "deviate"
+                },
+                {
+                  "key": "D",
+                  "text": "domains"
+                },
+                {
+                  "key": "E",
+                  "text": "influential"
+                },
+                {
+                  "key": "F",
+                  "text": "inherently"
+                },
+                {
+                  "key": "G",
+                  "text": "laymen"
+                },
+                {
+                  "key": "H",
+                  "text": "multiple"
+                },
+                {
+                  "key": "I",
+                  "text": "properties"
+                },
+                {
+                  "key": "J",
+                  "text": "reality"
+                },
+                {
+                  "key": "K",
+                  "text": "reciprocally"
+                },
+                {
+                  "key": "L",
+                  "text": "specimen"
+                },
+                {
+                  "key": "M",
+                  "text": "spectrum"
+                },
+                {
+                  "key": "N",
+                  "text": "synonym"
+                },
+                {
+                  "key": "O",
+                  "text": "unanimous"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) spectrum\n【原文】across the spectrum 全谱系\nL) specimen 标本义无范围义：specimen 指\"标本、样品\"，不能表\"涵盖范围\"，across the specimen 不成立搭配。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affix"
+                },
+                {
+                  "key": "B",
+                  "text": "correlate"
+                },
+                {
+                  "key": "C",
+                  "text": "deviate"
+                },
+                {
+                  "key": "D",
+                  "text": "domains"
+                },
+                {
+                  "key": "E",
+                  "text": "influential"
+                },
+                {
+                  "key": "F",
+                  "text": "inherently"
+                },
+                {
+                  "key": "G",
+                  "text": "laymen"
+                },
+                {
+                  "key": "H",
+                  "text": "multiple"
+                },
+                {
+                  "key": "I",
+                  "text": "properties"
+                },
+                {
+                  "key": "J",
+                  "text": "reality"
+                },
+                {
+                  "key": "K",
+                  "text": "reciprocally"
+                },
+                {
+                  "key": "L",
+                  "text": "specimen"
+                },
+                {
+                  "key": "M",
+                  "text": "spectrum"
+                },
+                {
+                  "key": "N",
+                  "text": "synonym"
+                },
+                {
+                  "key": "O",
+                  "text": "unanimous"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) influential\n【原文】下文 and many workplace and educational environments perpetuate the idea that accents that __(33)__ from the current standard are less appropriate 说许多职场和教育环境仍在延续这一观念——也就是这一观念\"颇有影响力\"，influential 正好统摄后文这一果。\nO) unanimous 一致同意与全文论点冲突：全文反复强调没有统一公认的标准（there has never been a single standard that's been fully agreed upon），若说\"标\nH) multiple 多个无法搭配单数主语属性：multiple 表\"多种的\"，用于修饰可数复数或集合概念；说\"this idea is multiple\"语义不通。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affix"
+                },
+                {
+                  "key": "B",
+                  "text": "correlate"
+                },
+                {
+                  "key": "C",
+                  "text": "deviate"
+                },
+                {
+                  "key": "D",
+                  "text": "domains"
+                },
+                {
+                  "key": "E",
+                  "text": "influential"
+                },
+                {
+                  "key": "F",
+                  "text": "inherently"
+                },
+                {
+                  "key": "G",
+                  "text": "laymen"
+                },
+                {
+                  "key": "H",
+                  "text": "multiple"
+                },
+                {
+                  "key": "I",
+                  "text": "properties"
+                },
+                {
+                  "key": "J",
+                  "text": "reality"
+                },
+                {
+                  "key": "K",
+                  "text": "reciprocally"
+                },
+                {
+                  "key": "L",
+                  "text": "specimen"
+                },
+                {
+                  "key": "M",
+                  "text": "spectrum"
+                },
+                {
+                  "key": "N",
+                  "text": "synonym"
+                },
+                {
+                  "key": "O",
+                  "text": "unanimous"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) deviate\n【原文】原文整段在讨论\"偏离当下标准的口音被视为不合适\"，deviate from the current standard 即\"偏离当前标准\"，词义、搭配、逻辑三处合一。\n原文整段在讨论\"偏离当下标准的口音被视为不合适\"，deviate from the current standard 即\"偏离当前标准\"，词义、搭配、逻辑三处合一。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affix"
+                },
+                {
+                  "key": "B",
+                  "text": "correlate"
+                },
+                {
+                  "key": "C",
+                  "text": "deviate"
+                },
+                {
+                  "key": "D",
+                  "text": "domains"
+                },
+                {
+                  "key": "E",
+                  "text": "influential"
+                },
+                {
+                  "key": "F",
+                  "text": "inherently"
+                },
+                {
+                  "key": "G",
+                  "text": "laymen"
+                },
+                {
+                  "key": "H",
+                  "text": "multiple"
+                },
+                {
+                  "key": "I",
+                  "text": "properties"
+                },
+                {
+                  "key": "J",
+                  "text": "reality"
+                },
+                {
+                  "key": "K",
+                  "text": "reciprocally"
+                },
+                {
+                  "key": "L",
+                  "text": "specimen"
+                },
+                {
+                  "key": "M",
+                  "text": "spectrum"
+                },
+                {
+                  "key": "N",
+                  "text": "synonym"
+                },
+                {
+                  "key": "O",
+                  "text": "unanimous"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) domains\n【原文】government、law、service-oriented workplaces 都是社会职业\"领域\"，domains 表\"领域、范围\"正是这些行业的自然上位范畴，搭配 in domains such as ___ 在学术英语里极为常见。\nI) properties 属性义无法囊括行业举例：properties 表\"属性、财产\"，government 等并非\"属性\"，无法做其上位范畴；搭配 in properties such as government 语义不通。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affix"
+                },
+                {
+                  "key": "B",
+                  "text": "correlate"
+                },
+                {
+                  "key": "C",
+                  "text": "deviate"
+                },
+                {
+                  "key": "D",
+                  "text": "domains"
+                },
+                {
+                  "key": "E",
+                  "text": "influential"
+                },
+                {
+                  "key": "F",
+                  "text": "inherently"
+                },
+                {
+                  "key": "G",
+                  "text": "laymen"
+                },
+                {
+                  "key": "H",
+                  "text": "multiple"
+                },
+                {
+                  "key": "I",
+                  "text": "properties"
+                },
+                {
+                  "key": "J",
+                  "text": "reality"
+                },
+                {
+                  "key": "K",
+                  "text": "reciprocally"
+                },
+                {
+                  "key": "L",
+                  "text": "specimen"
+                },
+                {
+                  "key": "M",
+                  "text": "spectrum"
+                },
+                {
+                  "key": "N",
+                  "text": "synonym"
+                },
+                {
+                  "key": "O",
+                  "text": "unanimous"
+                }
+              ],
+              "answer": "B",
+              "type": "选词填空",
+              "analysis": "【答案】B（官方答案）\n应填 B) correlate\n【原文】correlate with 与……相关联\n2025年12月英语六级真题第3套 完形填空（选词填空）的词库里有哪 15 个候选词、哪 5 个是干扰词？ 2025年12月英语六级真题第3套 完形填空（选词填空）的词库共 15 个词（A–O）：A) affix（动词/名词，动词：贴上、附加）；B) correlate（动词/名词，动词：相互关联、与……有关）；C) deviate（动词，动词：偏离、背离（常与 from 搭配））；D) domains（名词，名词：领域、范围（复数））；E) influential（形容词，形容词：有影响力的、有势力的）；F) inherently（副词，副词：本质上、内在地）；G) laymen（名词，名词：外行、门外汉（复数））；H) multiple（形容词，形容词：多种的、多个的）；I) properties（名词，名词：财产、性质、属性（复数））；J) reality（名词，名词：现实、实际存在的事物）；K) reciprocally（副词，副词：相互地、彼此地）；L) specimen（名词，名词：样品、标本）；M) spectrum（名词，名词：范围、波段、频谱）；N) synonym（名词，名词：同义词）；O) unanimous（形容词，形容词：一致同意的、无异议的）。其中始终未被任何空选用的 5 个干扰词是：A) affix、I) properties、K) reciprocally、L) specimen、O) unanimous。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Timed traffic lights are set according to schedules that are supposed to coordinate with peak traffic hours. Cities need to monitor and update signal light time schedules at least every two years to keep these systems effective. In Los Angeles, California, an ambitious project to go a step further and synchronize(使同步) every red light in Los Angeles cost over 400 million dollars. Ask a resident of the city and they are likely to agree that saving time on the road is well worth it. If implemented nationwide, synchronization could shave 10% off traffic congestion(堵塞) and 20% off air pollution. Congestion costs time, money, and lives. Big data can help improve how millions of people safely share the road. However, none of this would be possible without the traffic light!"
+            },
+            {
+              "label": "B",
+              "text": "The first traffic light was invented in London in the 1860's, but it was hardly recognizable — or effective. It had been adapted from the railroad signal system by a railway manager, John Peak Knight, in 1868. The railroads used red gas lights at night to signal stops and green gas lights during the daytime. Knight installed a similar gas light, semaphore(臂板信号) system near London's Westminster Bridge in December of 1868."
+            },
+            {
+              "label": "C",
+              "text": "The life of the first traffic light signal was short-lived. A gas leak caused one of the signal lights to explode on its police officer operator within a month of being installed."
+            },
+            {
+              "label": "D",
+              "text": "Automating traffic signals stalled after the London incident. Forty years passed before cars crowding city streets urged the development of traffic lights in the United States. London would not see another traffic light until 1929."
+            },
+            {
+              "label": "E",
+              "text": "The United States is a car culture like no other country. Unlike most European cities that started urban planning when horses were high-tech, many cities in the United States were designed around urban sprawl, suburban tracts, and motor cars."
+            },
+            {
+              "label": "F",
+              "text": "As traffic and cities grew, so did the race to solve growing traffic problems. The first traffic signals were semaphores. Semaphores are towers with moving arms signaling for traffic to stop or go. They could be manual or automatic. There was no consistent design. Various models were invented and put into place in cities as the need arose."
+            },
+            {
+              "label": "G",
+              "text": "In 1912, Lester Wire was a police officer exhausted by traffic at Main Street and 200 South. He developed a manually switched stop light. The four-sided box, raised on a ten-foot pole, looked like a birdhouse and was operated manually by an officer. The officer would flip a switch to change between the dipped red and green lights."
+            },
+            {
+              "label": "H",
+              "text": "Like the 1910 semaphore, the first electric signal used words. However, the words were no longer written on arms that raised and fell. The words \"stop\" or \"move\" were on lights. The posts lit up on each of four corner-posts around an intersection(十字路口). It was not automated, though. A booth with an operator was required to flip the switches."
+            },
+            {
+              "label": "I",
+              "text": "The system allowed police officers to move from the middle of the street to a corner. From that vantage(有利地位), an officer could oversee the crowd. If an emergency vehicle came, the officer could flip a switch and clear the intersection by triggering all red lights. The emergency vehicle could now pass effortlessly. Finally, in San Francisco the first red and green electric light system that could be operated automatically (or manually) was introduced in 1917."
+            },
+            {
+              "label": "J",
+              "text": "In 1920, the first three-color light system was introduced in Detroit — also known as Motor City, USA. The evolution of traffic light signals could not have a more appropriate context than Motor City. Ford Motor Company was founded in Detroit in 1903 (and other motor companies followed). Ford made cars affordable for more common people, rather than the wealthy, by creating larger scale factory production."
+            },
+            {
+              "label": "K",
+              "text": "Stop and go were insufficient for the new volumes of cars zooming through intersections. Streets were full of new numbers of cars in addition to delivery wagons, bustling crowds, bicycles, horse-drawn carriages, and street cars. The introduction of the cautionary yellow light helped increase driver safety, decreasing accidents that come from running red lights."
+            },
+            {
+              "label": "L",
+              "text": "Stop lights were incredibly important in chaotic city streets. Crosswalks weren't even introduced until 1951. The first pedestrian fatality in the United States was in 1899."
+            },
+            {
+              "label": "M",
+              "text": "The development of the modern traffic light may have started in London, but it grew up in the United States. In Cleveland, an African-American inventor named Garrett Morgan came up with an affordable, patented traffic signal. The yellow light made intersections safer than the old stop and go system. The new design was inexpensive enough that it allowed the installation of a lot more lights."
+            },
+            {
+              "label": "N",
+              "text": "Morgan sold the patent to General Electric — and the spread of the traffic light was green lighted. Green means go. It is that simple, but it's still best to check both ways for oncoming traffic that may not be paying attention or is running the light. Yellow means slow down and prepare to stop. It does not mean full-throttle(全速) ahead. While you may get away with gunning it into the intersection, running a yellow can lead to tickets and dangerous accidents. Red lights are a clear and consistent warning to stop. Even where right turns are allowed on red lights, you must come to a complete stop before turning right. You must also yield to any through traffic, which has the right of way. In most states and cities, you can take a right on red unless otherwise indicated. New York City does not allow a right on red."
+            },
+            {
+              "label": "O",
+              "text": "Red arrows mean you cannot turn right on a red in most states. The green arrow, in these cases, is the only time you can make the turn. However, you can take a right on a red arrow after a full stop in the states of Illinois, Kansas, Louisiana, Maryland, Michigan, New Hampshire, North Dakota, Oregon, South Carolina, Utah, Washington State and Wyoming."
+            },
+            {
+              "label": "P",
+              "text": "Flashing Red is the same as a stop sign, generally used at four-way intersections where there is minimal traffic. When arriving at a flashing red light, make a full and complete stop. Flashing Red Arrows similarly mean to stop and then proceed to take the turn. Flashing Yellow lights mean yield or signal caution, like outside of a fire station. There are no all-direction flashing yellow lights, since it is prohibited in the United States. If you have a flashing yellow light, you are to yield to oncoming traffic."
+            },
+            {
+              "label": "Q",
+              "text": "Flashing Yellow Arrows are part of a four-signal traffic light. These are used in some states after a protected green turn signal, or arrow, but before a steady yellow arrow. When a flashing yellow arrow is shown, you can take the turn after yielding to pedestrians and traffic. Steady Yellow Arrows maintain the normal yellow light caution in three-light signals, meaning to stop or prepare to stop. In a four-signal system that has a flashing yellow arrow, the steady yellow arrow is a signal that the yield period is ending. The red arrow is about to start. Vehicles should stop if safely possible. Traffic tickets are possible for running a steady yellow arrow."
+            },
+            {
+              "label": "R",
+              "text": "Traffic light meaning is fairly consistent across the board with various deviations. Green means it's safe to proceed (though you should still exercise caution). Yellow means caution and yield. Red means danger and stop. Always drive defensively and obey traffic signals."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Upon seeing a flashing yellow arrow, a driver should let pedestrians and traffic pass first before taking the turn.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "Q",
+                  "text": "Paragraph Q"
+                }
+              ],
+              "answer": "Q",
+              "type": "信息匹配",
+              "analysis": "【答案】Q（强锚点）\n【原文】When a flashing yellow arrow is shown, you can take the turn after yielding to pedestrians and traffic.\nP 段同样出现 flashing yellow 等词，但讨论的是 Flashing Yellow lights mean yield or signal caution 这类整盏闪黄灯，没有提“先让行后转弯”这一动作链条，所以不是题 36 的源头段。"
+            },
+            {
+              "number": 37,
+              "stem": "The red and green automatic traffic light system originated in an American city.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（强锚点）\n【原文】Finally, in San Francisco the first red and green electric light system that could be operated automatically (or manually) was introduced in 1917.\nJ 段同样讲美国城市 Detroit 与首次出现，但所述是 the first three-color light system 而非题干的 “red and green automatic”，少了“两色 + 自动”这关键限定，覆盖不全。"
+            },
+            {
+              "number": 38,
+              "stem": "Residents of an American city tend to share the opinion that time saved on the road justifies the cost of upgrading its traffic light system.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】Ask a resident of the city and they are likely to agree that saving time on the road is well worth it.\n一个美国城市的居民倾向于认为在道路上节省的时间证明升级其交通信号系统的成本是合理的。"
+            },
+            {
+              "number": 39,
+              "stem": "Mass production of cars made it possible for ordinary people to buy them.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】Ford made cars affordable for more common people, rather than the wealthy, by creating larger scale factory production.\nE 段虽提及 The United States is a car culture like no other country 等汽车扩张背景，但并未陈述“大规模生产让普通人买得起汽车”这一具体机制。"
+            },
+            {
+              "number": 40,
+              "stem": "What a traffic light means is almost the same everywhere despite some variations.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "R",
+                  "text": "Paragraph R"
+                }
+              ],
+              "answer": "R",
+              "type": "信息匹配",
+              "analysis": "【答案】R（强锚点）\n【原文】Traffic light meaning is fairly consistent across the board with various deviations."
+            },
+            {
+              "number": 41,
+              "stem": "Pedestrian crossings came into being only in the mid-twentieth century.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "L",
+                  "text": "Paragraph L"
+                }
+              ],
+              "answer": "L",
+              "type": "信息匹配",
+              "analysis": "【答案】L（强锚点）\n【原文】Crosswalks weren't even introduced until 1951."
+            },
+            {
+              "number": 42,
+              "stem": "People raced to address increasing traffic problems along with the expansion of cities and traffic.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（强锚点）\n【原文】As traffic and cities grew, so did the race to solve growing traffic problems.\n随着交通和城市的扩张，解决日益严重的交通问题的竞赛也愈演愈烈。"
+            },
+            {
+              "number": 43,
+              "stem": "When the warning yellow light was introduced, driving became safer and traffic accidents reduced.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】The introduction of the cautionary yellow light helped increase driver safety, decreasing accidents that come from running red lights.\nincrease driver safety = 驾驶变安全；decreasing = reduced"
+            },
+            {
+              "number": 44,
+              "stem": "The signal system on the railroad served as the basis for the first traffic light.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（强锚点）\n【原文】It had been adapted from the railroad signal system by a railway manager, John Peak Knight, in 1868.\nF 段把最早信号灯描述为 The first traffic signals were semaphores，并没有提到 “railroad signal system” 作为基础，故不是题 44 源头段。"
+            },
+            {
+              "number": 45,
+              "stem": "Even though a green light signals \"go\", attention should be paid to traffic on either side in case some driver is being careless or ignoring a red light.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "N",
+                  "text": "Paragraph N"
+                }
+              ],
+              "answer": "N",
+              "type": "信息匹配",
+              "analysis": "【答案】N（强锚点）\n【原文】Green means go. It is that simple, but it's still best to check both ways for oncoming traffic that may not be paying attention or is running the light.\n2025年12月英语六级真题第3套 长篇阅读（信息匹配） 第 1 篇 45. Even though a green light signals \"go\", attention should be paid to traffic on either side in case some driver is being careless or ignoring a red light. 这句陈述的信息出自第几段？为什么？ 2025年12月英语六级真题第3套 长篇阅读（信息匹配） 第 1 篇 第 45 句的信息出自 N 段（强锚点句）。N 段定位句为「Green means go. It is that simple, but it's still best to check both ways for oncoming traffic that may not be paying attention or is running the light.」（绿灯表示通行。就这么简单，但最好还是双向都看一下，留意那些可能心不在焉、或者正在闯灯的对向车辆。）。陈述句是对原文的同义改写（Even though a green light signals \"go\" ↔ Green means go. It is that simple；attention should be paid to traffic on either side ↔ it's still best to check both ways for oncoming traffic；in case some driver is being careless or ignoring a red light ↔ may not be paying attention or is running the light）。与之话题相邻的 R 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Mindfulness has been shown to have a number of meaningful health benefits — it can help reduce anxiety and promote healing in those suffering from chronic illness."
+            },
+            {
+              "label": "B",
+              "text": "The practice is based on an insight first described in ancient Buddhist texts that human beings have the capacity to observe experience without being caught up in it. This means simply that it is possible to observe ourselves having a craving, or a happy thought, or even a scary emotion, without reacting in the moment in a way that amplifies the feeling or sends the mind spiraling off into thinking about old memories or anticipating events."
+            },
+            {
+              "label": "C",
+              "text": "This practice of mindfulness can help calm the mind and the body as we learn not to react to experience with likes and dislikes or judgments of good and bad. It does not make us cold or indifferent but more fully present."
+            },
+            {
+              "label": "D",
+              "text": "One of the challenges of practicing mindfulness in our contemporary world is that there has been a profound transformation in human attention. The artist Jenny Odell argues that in our \"attention economy\" human attention has been transformed into a commodity that big corporations buy and sell. This economy rests on a technological revolution of mobile phones and social media that makes it possible for corporations to target our attention with their content at every moment."
+            },
+            {
+              "label": "E",
+              "text": "The devices most people use are a perpetual diversion from the present moment. The result is that it can feel as though our ability to focus, and be fully present, has been stolen. But mindfulness can help us resist the attention economy and relish the things that make life special, like being together with those we love."
+            },
+            {
+              "label": "F",
+              "text": "Most mindfulness research focuses on the individual benefits of the practice, but some scholars assert that we can not only practice mindfulness for ourselves but also practice it for others. It can help us build stronger, healthier relationships."
+            },
+            {
+              "label": "G",
+              "text": "The sad truth is that living in the attention economy, most of us have become bad listeners. However, just as it is possible to watch ourselves having an experience without reacting, it's possible to watch another person have an experience without getting tied up in reactivity and judgment."
+            },
+            {
+              "label": "H",
+              "text": "The gift of mindfulness is a practice of listening with compassion to others describe their experiences. To give this gift means putting away your phone, turning off social media, and setting aside other common distractions. It means practicing being fully present in another person's presence and listening to them with complete attention without judgment, while resisting the urge to make the interaction about you."
+            },
+            {
+              "label": "I",
+              "text": "If we judge the value of gifts based on their price, this gift may seem worthless, but in a distracted world, it is a precious one."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What do we learn from the passage about practicing mindfulness?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It triggers our mind to reflect on past experiences or anticipate future events."
+                },
+                {
+                  "key": "B",
+                  "text": "It focuses our attention on the present moment without making judgments."
+                },
+                {
+                  "key": "C",
+                  "text": "It concentrates our mind on our personal feelings, happy or scary."
+                },
+                {
+                  "key": "D",
+                  "text": "It helps our mind to stay calm when facing judgments from others."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（见正文）"
+            },
+            {
+              "number": 47,
+              "stem": "What do we see in today's \"attention economy\" according to Jenny Odell?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Focus on technological advances continuously updates products and services."
+                },
+                {
+                  "key": "B",
+                  "text": "People's attention is turned into something that can be bought and sold."
+                },
+                {
+                  "key": "C",
+                  "text": "Businesses profit from selling mobile phones and revolutionizing social media."
+                },
+                {
+                  "key": "D",
+                  "text": "People tend to purchase products and services without careful thinking."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（见正文）"
+            },
+            {
+              "number": 48,
+              "stem": "What happens with the prevalent use of mobile phones or social media?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They keep distracting users from the here and now."
+                },
+                {
+                  "key": "B",
+                  "text": "They render users incapable of resisting temptation."
+                },
+                {
+                  "key": "C",
+                  "text": "They rob users of their ability to observe experience."
+                },
+                {
+                  "key": "D",
+                  "text": "They tempt users to endorse the attention economy."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（见正文）"
+            },
+            {
+              "number": 49,
+              "stem": "What benefit can practicing mindfulness bring to us according to some scholars?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It prevents us from making arbitrary judgments about others."
+                },
+                {
+                  "key": "B",
+                  "text": "It shifts our attention from material things to spiritual pursuits."
+                },
+                {
+                  "key": "C",
+                  "text": "It is conducive to our forging better interpersonal relationships."
+                },
+                {
+                  "key": "D",
+                  "text": "It is helpful in regaining our ability to enjoy what we have in life."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（见正文）"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author suggest we do in another person's presence?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Share each other's experience frankly and compassionately."
+                },
+                {
+                  "key": "B",
+                  "text": "Pay full attention to establishing close relationships with them."
+                },
+                {
+                  "key": "C",
+                  "text": "Be attentive listeners while refraining from making judgments."
+                },
+                {
+                  "key": "D",
+                  "text": "Remind them of the distraction from mobile phones and social media."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（见正文）"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The other day I had to log into a service I hadn't used before. Since I was a new user, the website decided that it needed to check I wasn't a robot and so set me a Captcha test to determine whether the user is a person or a machine."
+            },
+            {
+              "label": "B",
+              "text": "I was presented with an image of a roadside scene over which was laid a grid. My \"challenge\" was to click on each cell in the grid that contained a traffic sign. I did so, a bit irritated. Then I was presented with another image and another grid — also with a request to identify road signs. Like a lamb, I complied, after which the website accepted my input."
+            },
+            {
+              "label": "C",
+              "text": "And then I realised what I had been doing was adding to a dataset for training the machine-learning software that guides self-driving cars. So, to gain access to an automated service that will benefit financially from my input, I first have to do some unpaid labor to help improve the performance of autonomous vehicles."
+            },
+            {
+              "label": "D",
+              "text": "Neat, eh? But note also the delicious additional irony that the Captcha is described as an \"automated Turing test\". The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn't tell whether it was a human or a robot. So we have wandered into a world in which machines make us do tricks to prove that we are humans!"
+            },
+            {
+              "label": "E",
+              "text": "The strangest aspect of this unparalleled shift is how under-discussed it has been. The metaphor of the boiling frog comes to mind. Have we become so subtly conditioned by digital technology that we don't see what's been happening to us? Have we been conditioned to accept a world governed by \"smart\" tech, trading convenience to the point where we become a bit like machines ourselves?"
+            },
+            {
+              "label": "F",
+              "text": "In a recent startling and thoughtful book, two scholars — Brett Frischmann, a law professor, and Evan Selinger, a philosopher — argue that the answer to that question is \"yes\"."
+            },
+            {
+              "label": "G",
+              "text": "And they're right. There's nothing technophobic(技术恐惧的) about that. We shape our tools and then our tools shape us. Technology is supposed to provide tools that serve human ends. But, as the machine-learning Captcha demonstrates, a significant proportion of digital tech now sees (and uses) humans as means to ends that are not ours. In the process, they reduce us to the status of cheery rats running on treadmills(踏车) designed by people who do not have our interests at heart. So back to the frog metaphor. Are we smart enough to jump out before it's too late? You don't even have to Google it to know the answer."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "How did the author respond to the Captcha test?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He clicked on the cells randomly."
+                },
+                {
+                  "key": "B",
+                  "text": "He accepted the challenge readily."
+                },
+                {
+                  "key": "C",
+                  "text": "He completed it confidently."
+                },
+                {
+                  "key": "D",
+                  "text": "He worked on it submissively."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Like a lamb, I complied, after which the website accepted my input.\nA) 偷换概念：clicked on the cells randomly 说作者随机点，但原文 My \"challenge\" was to click on each cell in the g\nB) 与原文相反：accepted the challenge readily 说\"欣然接受\"，但原文 I did so, a bit irritated 明示作者是带着不快接受的，二者情绪极性相反\nC) 无中生有：completed it confidently 说\"自信地完成\"，但原文从未描写作者的信心，只说他不情愿地照办；自信纯属添加。\nD) ✓ 正确：Like a lamb, I complied ↔ submissively 预判要的就是\"顺从地照做\"，He worked on it submissively. 是唯一把这层顺"
+            },
+            {
+              "number": 52,
+              "stem": "What is ironic about the Captcha test?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A machine can respond to the test as well as humans do."
+                },
+                {
+                  "key": "B",
+                  "text": "A machine can outperform humans in object identification."
+                },
+                {
+                  "key": "C",
+                  "text": "A test designed to test machines is now used by machines to test humans."
+                },
+                {
+                  "key": "D",
+                  "text": "A test conceived to tell a human from a robot can now do tricks humans can't."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】But note also the delicious additional irony that the Captcha is described as an \"automated Turing test\". The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn't tell whether it was a human or a robot. So we have wandered into a world in which machines make us do tricks to prove that we are humans!\nA) 答非所问：A machine can respond to the test as well as humans do 是\"机器答得和人一样好\"，但原文讽刺的是\"角色反转\"，不是机器表现优秀\nB) 无中生有：A machine can outperform humans in object identification 说\"机器在物体识别上胜过人类\"，但原文没做这种性能比较，纯属添加。\nC) ✓ 正确：The Turing test was conceived, you may recall, as a way of enabling humans to determine wh\nD) 张冠李戴：A test conceived to tell a human from a robot can now do tricks humans can't 说\"测试现在能耍出人耍不出"
+            },
+            {
+              "number": 53,
+              "stem": "Why does the author use the metaphor of the boiling frog?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To show that humans are unwilling to trade convenience for control by smart tech."
+                },
+                {
+                  "key": "B",
+                  "text": "To show that humans are unaware of the potential danger brought by smart tech."
+                },
+                {
+                  "key": "C",
+                  "text": "To question whether humans are conditioned to accept digital tech."
+                },
+                {
+                  "key": "D",
+                  "text": "To question whether humans are as vulnerable as the boiling frog."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（推断题）\n【原文】The metaphor of the boiling frog comes to mind. Have we become so subtly conditioned by digital technology that we don't see what's been happening to us?\nA) 与原文相反：humans are unwilling to trade convenience for control by smart tech 说人\"不愿\"用便利换控制，但原文 tradi\nB) ✓ 正确：Have we become so subtly conditioned by digital technology that we don't see what's been h\nC) 偷换概念：To question whether humans are conditioned to accept digital tech 说作者\"质疑\"人是否被驯化，但原文虽用反问，立场\nD) 偷换概念：To question whether humans are as vulnerable as the boiling frog 把比喻意图框成\"人是否像青蛙一样脆弱\"，但温水煮青"
+            },
+            {
+              "number": 54,
+              "stem": "Why does the author think that Brett Frischmann and Evan Selinger are right?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A large part of digital tech is now making use of humans to meet its own ends."
+                },
+                {
+                  "key": "B",
+                  "text": "Humans are now fast locked in a race against digital tech to control the world."
+                },
+                {
+                  "key": "C",
+                  "text": "Digital tech can serve human needs in ways previously thought impossible."
+                },
+                {
+                  "key": "D",
+                  "text": "Digital tech is now doing thinking while humans are doing repetitive work."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】And they're right. There's nothing technophobic about that. We shape our tools and then our tools shape us. Technology is supposed to provide tools that serve human ends. But, as the machine-learning Captcha demonstrates, a significant proportion of digital tech now sees (and uses) humans as means to ends that are not ours.\nA) ✓ 正确：a significant proportion of digital tech ↔ A large part of digital tech now sees (and uses\nB) 无中生有：Humans are now fast locked in a race against digital tech to control the world 说\"人在与数字技术赛跑\nC) 与原文相反：Digital tech can serve human needs in ways previously thought impossible 在赞美技术服务人类的能力，但作者 \nD) 过度推断：Digital tech is now doing thinking while humans are doing repetitive work 把人机的工作分工说成\"技术思考、"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author imply by asking \"Are we smart enough to jump out before it's too late?\" at the end of the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is not sensible to expect digital tech to take humans' interest to heart."
+                },
+                {
+                  "key": "B",
+                  "text": "It is hard to say whether technology or humans will get the upper hand."
+                },
+                {
+                  "key": "C",
+                  "text": "We may have to search the web to get the answer to the question."
+                },
+                {
+                  "key": "D",
+                  "text": "We may not awake in time to the danger digital tech poses to us."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（推断题）\n【原文】So back to the frog metaphor. Are we smart enough to jump out before it's too late? You don't even have to Google it to know the answer.\nA) 答非所问：It is not sensible to expect digital tech to take humans' interest to heart 在评判\"指望技术为人着想是否\nB) 偷换概念：It is hard to say whether technology or humans will get the upper hand 把作者立场说成\"难说人机谁占上风\"，但\nC) 与原文相反：We may have to search the web to get the answer to the question 字面理解了 You don't even have \nD) ✓ 正确：Are we smart enough to jump out before it's too late? ↔ We may not awake in time to the da"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n节俭 (frugality) 是中华民族的传统美德。在中国古代，生产力低下，先人们深知劳动成果来之不易，因而秉持节俭的理念。到了物质极大丰富的今天，中国人民依然坚持节俭的生活方式，体现了理性消费的生活理念和对劳动的尊重。近年来，中国政府持续加强节约型社会的建设，倡导\"光盘行动\"，减少食物浪费，提倡简约低碳的生活方式，推进资源循环利用，反对过度消费。节约型社会的建设有力地推动了中国经济的高质量发展。",
+              "analysis": "【参考译文】\nFrugality is a traditional virtue of the Chinese nation. In ancient China, productivity was low, and our ancestors knew well that the fruits of labor did not come easily, so they upheld the idea of frugality. Today, when material wealth is abundant, the Chinese people still maintain a frugal lifestyle, reflecting their concept of rational consumption and their respect for labor. In recent years, the Chinese government has been strengthening the building of a resource-conserving society by advocating the \"Clear Your Plate\" campaign to reduce food waste, promoting a simple and low-carbon lifestyle, advancing the recycling of resources, and opposing excessive consumption. This building of a resource-conserving society has strongly promoted the high-quality development of China's economy."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/",
+    "sharedWith": "cet6-2025-12-s1",
+    "fetchedAt": "2026-11-15",
+    "passages": 7,
+    "sentences": 70
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2025-12-3/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

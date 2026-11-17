@@ -1,0 +1,2622 @@
+{
+  "id": "cet6-2022-12-s1",
+  "level": "CET6",
+  "year": 2022,
+  "month": 12,
+  "setNo": 1,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “With the application of information technology in education, college students can now learn in more diverse and efficient ways.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words.",
+              "analysis": "【参考范文】\nWith the application of information technology in education, college students can now learn in more diverse and efficient ways. Not long ago, learning was confined to a fixed classroom and a single textbook, but technology has broken these limits and reshaped how we acquire knowledge.\n\nOn the one hand, learning has become far more diverse. Through massive open online courses, a student in a small town can now attend lectures delivered by professors at top universities, which was once unthinkable, and digital libraries offer millions of books and papers at the click of a button. On the other hand, learning is remarkably efficient. Thanks to AI-powered tutors, questions that once took days to solve can be answered in seconds, and search engines help us locate exactly the material we need. As a result, we save time and study with greater focus.\n\nIn conclusion, information technology has enriched both the variety and the speed of learning. Yet we should use these tools wisely, treating them as aids to independent thinking rather than substitutes for it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "听力为历年真题原文，题目与答案为官方标准答案；在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 6.9,
+              "text": "M: How's your dissertation going? I'm proofreading my first draft and will submit it to my professor tomorrow.",
+              "zh": "M: 你的学位论文写得怎么样了？我正在校对初稿，明天准备提交给教授。"
+            },
+            {
+              "id": 2,
+              "start": 7.3,
+              "end": 15.3,
+              "text": "W: Oh, I haven't even started writing mine yet, so I'm really worried about finishing by the end of next semester.",
+              "zh": "W: 哦，我连写都还没开始写呢，所以我真的很担心下学期末能不能写完。"
+            },
+            {
+              "id": 3,
+              "start": 15.7,
+              "end": 22.2,
+              "text": "M: You mean you haven't even begun yours yet? The final draft is due in five months.",
+              "zh": "M: 你是说你连动笔都还没动？终稿还有五个月就要交了。"
+            },
+            {
+              "id": 4,
+              "start": 22.6,
+              "end": 33.3,
+              "text": "W: Of course I've started it, but I can't get to the writing yet as I haven't found enough resources to use, so I'm still researching the topic.",
+              "zh": "W: 我当然已经开始了，但我还没找到足够的资料可用，所以还没法开始写，目前还在研究这个课题。"
+            },
+            {
+              "id": 5,
+              "start": 33.6,
+              "end": 50.6,
+              "text": "M: Maybe the problem is the way you're doing your research. I started by talking to my professor about where to look for information, and based on that, I found books in the library and a lot of reputable journal articles on the Internet.",
+              "zh": "M: 也许问题出在你做研究的方式上。我是先找教授聊了聊去哪里查找资料，然后根据建议在图书馆找到了书，还在网上找到了许多权威期刊的文章。"
+            },
+            {
+              "id": 6,
+              "start": 51,
+              "end": 76.7,
+              "text": "W: I've tried all that, but don't have enough to write the dissertation as my department's minimum length is 70 pages. I think the problem is that my topic isn't viable. And honestly, my professor did warn me at the beginning that I might not be able to find enough material. But I was so interested in the topic that I didn't let his advice turn me.",
+              "zh": "W: 这些我都试过了，但资料还是不够写论文，因为我们系要求的最低篇幅是70页。我觉得问题在于我的选题不可行。说实话，我教授刚开始确实警告过我可能找不到足够的材料，但当时我对这个课题太感兴趣了，所以没听他的劝告。"
+            },
+            {
+              "id": 7,
+              "start": 77,
+              "end": 86.7,
+              "text": "M: Well, I suggest you find a new topic. After all, our professors are here to guide us, so it's best to listen to them.",
+              "zh": "M: 嗯，我建议你换个新选题。毕竟教授是来指导我们的，最好还是听他们的建议。"
+            },
+            {
+              "id": 8,
+              "start": 87,
+              "end": 99.4,
+              "text": "W: In retrospect, I wish I had listened to him, but I didn't. And now I don't want to give up my topic as I've already invested so much time and energy.",
+              "zh": "W: 回想起来，我真希望当时听了他的话，但我没听。而且现在我已经投入了这么多时间和精力，不想放弃我的选题。"
+            },
+            {
+              "id": 9,
+              "start": 99.8,
+              "end": 108.6,
+              "text": "M: If you're committed to your current topic, maybe you could make some adjustments rather than abandon it completely. What is your topic?",
+              "zh": "M: 如果你坚持用现在的选题，也许你可以做些调整，而不是彻底放弃它。你的课题是什么？"
+            },
+            {
+              "id": 10,
+              "start": 108.9,
+              "end": 113.9,
+              "text": "W: It's \"Depictions of Femininity in Folklore from the South of the Country\".",
+              "zh": "W: 是《国内南方民间传说中对女性形象的刻画》。"
+            },
+            {
+              "id": 11,
+              "start": 114.3,
+              "end": 122.7,
+              "text": "M: That's pretty narrow. You could find more material if you made the topic broader, maybe by including other kinds of depictions.",
+              "zh": "M: 那范围确实挺窄的。如果你把选题范围放宽一点，比如把其他类型的刻画也包含进来，应该能找到更多资料。"
+            },
+            {
+              "id": 12,
+              "start": 123,
+              "end": 130.4,
+              "text": "W: Broadening the topic is a great idea, I'll start by including folklore from other regions of the country.",
+              "zh": "W: 放宽选题范围是个好主意，我就从纳入国内其他地区的民间传说开始吧。"
+            }
+          ],
+          "audioDuration": 130.4,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What does the woman say about her dissertation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She hasn't started writing it."
+                },
+                {
+                  "key": "B",
+                  "text": "She hasn't decided on a topic."
+                },
+                {
+                  "key": "C",
+                  "text": "She is proofreading the first draft."
+                },
+                {
+                  "key": "D",
+                  "text": "She is working on the references."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：W: Oh, I haven't even started writing mine yet, so I'm really worried about finishing by the end of next semester.信号：被问者的直接应答 。男生先问 How's your dissertation going，女生张口第一句 I haven't even started writing mine yet 就是对提问的直接应答，对话题的…",
+              "optionAnalysis": {
+                "B": "偷换概念：She hasn't decided on a topic. 听着也像『没进展』，但女生说的是还没开始写，topic 在后文 I'm still researching the topic 里指『还在查资料』，并非『没定下题目』，属偷换概念。 借用原文：I'm proofreading my first draft",
+                "C": "张冠李戴：She is proofreading the first draft. 里 proofreading the first draft 确在录音中出现，但说这话的是男生 I'm proofreading my first draft，不是女生，张冠李戴。",
+                "D": "未提及：She is working on the references. 说她在弄参考文献，意味着正文已近完成，与她『还没动笔』完全矛盾，录音里也没说她在做文献，属未提及。",
+                "A": "正确项：与答案句同义替换（I haven't even started writing mine yet ↔ She hasn't started writing it. 去掉 even 的同义压缩）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "W: Oh, I haven't even started writing mine yet, so I'm really worried about finishing by the end of next semester.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What does the man say about his professor?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He lent many books to the man for reference."
+                },
+                {
+                  "key": "B",
+                  "text": "He offered the man advice on resource hunting"
+                },
+                {
+                  "key": "C",
+                  "text": "He published a lot in a number of reputable journals."
+                },
+                {
+                  "key": "D",
+                  "text": "He told the man to be selective when using e-resources."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P5）：M: I started by talking to my professor about where to look for information, and based on that, I found books in the library and a lot of reputable journal articles on the Internet.信号：经过句里的求助动作 。男生回顾自己怎么做研究，关键在 I started by talking to my professor about where to look for information——他教授给的正是…",
+              "optionAnalysis": {
+                "A": "原词陷阱：He lent many books to the man for reference. 里 books 确在录音出现，但 I found books in the library 是男生自己在图书馆找到的书，不是教授借给他的，原词陷阱。 借用原文：a lot of reputable journal articles on the Internet",
+                "C": "原词陷阱：He published a lot in a number of reputable journals. 用了原词 reputable journal，但 a lot of reputable journal articles on the Internet 说的是男生在网上找到这些文章来读，而非教授在期刊上发表论文，原词陷阱兼无中生有。",
+                "D": "未提及：He told the man to be selective when using e-resources. 说教授叮嘱『用电子资源要有选择』，但录音里教授只指点了去哪找，从未提『要挑着用』，selective 是未提及。",
+                "B": "正确项：与答案句同义替换（talking to my professor about where to look for information ↔ He offered the man advice on resource hunting 把『聊去哪找资料』概括为『给找资料建议』）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "M: I started by talking to my professor about where to look for information, and based on that, I found books in the library and a lot of reputable journal articles on the Internet.",
+              "type": "细节题"
+            },
+            {
+              "number": 3,
+              "stem": "What does the woman say about her professor?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He didn't think her dissertation topic viable."
+                },
+                {
+                  "key": "B",
+                  "text": "He wasn't interested in her dissertation topic."
+                },
+                {
+                  "key": "C",
+                  "text": "He didn't want her to rush through her dissertation."
+                },
+                {
+                  "key": "D",
+                  "text": "He wasn't specific about the length of her dissertation."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P6）：W: And honestly, my professor did warn me at the beginning that I might not be able to find enough material.信号：引述动词 warn 引出原话 。女生用 my professor did warn me at the beginning that I might not be able to find enough materi…",
+              "optionAnalysis": {
+                "B": "张冠李戴：He wasn't interested in her dissertation topic. 把 interested 安在教授身上，但录音里 I was so interested in the topic 说有兴趣的是女生自己，教授只是警告找不到料，张冠李戴又偷换。 借用原文：my department's minimum length is 70 pages",
+                "C": "未提及：He didn't want her to rush through her dissertation. 说教授不想她赶工，但教授只警告材料不够，从没说过快慢、赶不赶的事，未提及。",
+                "D": "原词陷阱：He wasn't specific about the length of her dissertation. 提到 length，录音里 length 出现在 my department's minimum length is 70 pages，那是系里的规定，与教授说没说清篇幅无关，原词陷阱。",
+                "A": "正确项：与答案句同义替换（warn me at the beginning that I might not be able to find enough material ↔ He didn't think her dissertation topic viable. 『找不到材料』即『选题不可行』）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "W: And honestly, my professor did warn me at the beginning that I might not be able to find enough material.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What do we learn the woman will do to complete her dissertation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Change her research methodology."
+                },
+                {
+                  "key": "B",
+                  "text": "Narrow down her dissertation topic."
+                },
+                {
+                  "key": "C",
+                  "text": "Consult her professor more."
+                },
+                {
+                  "key": "D",
+                  "text": "Follow the man's advice."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P12）：W: Broadening the topic is a great idea, I'll start by including folklore from other regions of the country.信号：结尾采纳建议的应答 。男生上一句建议 You could find more material if you made the topic broader，女生末句 Broadening the topic is a…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Change her research methodology. 沾了男生那句 Maybe the problem is the way you're doing your research，但女生最终决定的是扩大题目，并没说要换研究方法，原词陷阱。 借用原文：That's pretty narrow",
+                "B": "与原文相反：Narrow down her dissertation topic. 与女生的决定正好相反——男生说题目 That's pretty narrow，建议 made the topic broader，女生要做的是 broaden（扩大）而非 narrow（缩小），与原文相反。 借用原文：our professors are here to guide us",
+                "C": "原词陷阱：Consult her professor more. 里 professor 全程反复出现，诱人选；但女生采纳的是男生当下的建议，并未表示要再去多问教授，原词陷阱。",
+                "D": "正确项：与答案句同义替换（Broadening the topic is a great idea ↔ Follow the man's advice. 采纳男生提议=照他建议办）"
+              },
+              "evidencePara": "P12",
+              "evidenceText": "W: Broadening the topic is a great idea, I'll start by including folklore from other regions of the country.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 17.7,
+              "text": "W: Today, on Book Talk, we are lucky enough to host John Robbins and discuss his new book, Why Americans Are Fat and How We Can Lose Weight. John isn't just a respected writer; he's also one of the rare celebrity authors writing about science today.",
+              "zh": "W: 今天，在《图书访谈》节目中，我们非常荣幸地邀请到约翰·罗宾斯，和我们一起讨论他的新书《为什么美国人肥胖以及我们如何减肥》。约翰不仅是一位受人尊敬的作家，也是如今少数几位撰写科学类书籍的知名作家之一。"
+            },
+            {
+              "id": 2,
+              "start": 18.1,
+              "end": 22.3,
+              "text": "M: Thanks for having me, Rebecca, but I'm hardly a celebrity.",
+              "zh": "M: 谢谢你的邀请，丽贝卡，不过我实在算不上什么名人。"
+            },
+            {
+              "id": 3,
+              "start": 22.7,
+              "end": 37.3,
+              "text": "W: That's very modest of you to say, considering that your four books have sold a total of seven million copies worldwide, and they've been translated into 12 different languages. What makes people so fascinated with your work?",
+              "zh": "W: 考虑到你的四本书在全球总共售出了七百万册，而且被翻译成了十二种不同的语言，你这么说可真谦虚。是什么让人们对你的作品如此着迷呢？"
+            },
+            {
+              "id": 4,
+              "start": 37.6,
+              "end": 50.3,
+              "text": "M: Well, people read my books because more than 60% of Americans are overweight, or obese. And other countries are facing similar problems. Basically, we all want to know how to fix things.",
+              "zh": "M: 嗯，人们读我的书，是因为超过百分之六十的美国人超重或肥胖。其他国家也面临着类似的问题。基本上，我们都想知道该如何解决这些问题。"
+            },
+            {
+              "id": 5,
+              "start": 50.6,
+              "end": 63,
+              "text": "W: We certainly do. I've read your new book, and it's fabulous, especially when it comes to the way you make difficult science easy for laymen to understand. That's no small achievement.",
+              "zh": "W: 我们当然想知道。我读过你的新书，觉得非常精彩，尤其是你把艰深的科学知识讲得通俗易懂这一点。这可不是一件容易做到的事。"
+            },
+            {
+              "id": 6,
+              "start": 63.4,
+              "end": 84.9,
+              "text": "M: I'm glad to hear you find my work accessible, because I was worried when I wrote it that discussing the science might make the book more suited for a specialist audience. My last book was written primarily for the medical community. But this time, I want to help ordinary people take control of their weight.",
+              "zh": "M: 听到你觉得我的作品通俗易懂，我很高兴，因为写这本书时，我担心讨论科学内容会让它更适合专业读者阅读。我的上一本书主要是写给医学界人士看的。但这一次，我想帮助普通人掌控自己的体重。"
+            },
+            {
+              "id": 7,
+              "start": 85.3,
+              "end": 94.9,
+              "text": "W: And how do you suggest they do that? Can you give us the basics of your advice for people who want to lose weight?",
+              "zh": "W: 那你建议他们怎么做呢？能不能简单介绍一下你对想减肥的人所提出的建议？"
+            },
+            {
+              "id": 8,
+              "start": 95.3,
+              "end": 111.8,
+              "text": "M: Briefly, I argue that every person needs to consider their metabolism and eat what suits their body's needs. I don't advocate one single diet. Some people should eat more carbohydrates than others. And different people need different amounts of protein and fat.",
+              "zh": "M: 简单地说，我认为每个人都需要考虑自己的新陈代谢，吃适合自己身体需要的食物。我不主张所有人都采用同一种饮食方式。有些人应该比其他人摄入更多碳水化合物。而且，不同的人对蛋白质和脂肪的需求量也各不相同。"
+            },
+            {
+              "id": 9,
+              "start": 112.1,
+              "end": 128.3,
+              "text": "W: But you do have some recommendations for everyone, including eating ten servings of vegetables and three of fruit a day. We'll talk about those recommendations next, but now we need to take a short break for a message from our sponsor.",
+              "zh": "W: 不过，你确实也给所有人提出了一些建议，包括每天吃十份蔬菜和三份水果。接下来我们会谈谈这些建议，不过现在我们要暂时休息一下，听一段赞助商提供的信息。"
+            }
+          ],
+          "audioDuration": 128.3,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What does the woman say about the man in her introduction?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He has translated 12 books."
+                },
+                {
+                  "key": "B",
+                  "text": "He is a well-known nutritionist."
+                },
+                {
+                  "key": "C",
+                  "text": "His books sell well worldwide."
+                },
+                {
+                  "key": "D",
+                  "text": "His latest book sold a million copies."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：That's very modest of you to say, considering that your four books have sold a total of seven million copies worldwide, and they've been translated into 12 different languages.信号：主持人介绍嘉宾的成就陈述句 。答案信号是主持人介绍环节里铺陈嘉宾业绩的那句 your four books have sold a total of seven million copies worldwide——访…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音说 translated into 12 different languages(译成 12 种语言)，A 却说 He has translated 12 books.(翻译了 12 本书)——盗用了原文数字 12，却把对象从 \"语言\" 换成 \"书\"，且作者是 \"被翻译\" 不是 \"去翻译\"，听到 12 就选必中招。 借用原文：your four books have sold a total of seven million copies",
+                "B": "未提及：录音介绍他是 a respected writer 和写科学的 celebrity authors，从没说他是 a well-known nutritionist.(知名营养师)。营养师是顺着 \"减肥饮食\" 话题脑补出来的，原文未提及。",
+                "D": "原词陷阱：录音是 your four books have sold a total of seven million copies(四本书合计七百万册)，D 说 His latest book sold a million copies.(最新一本卖了一百万册)——盗用 \"百万册级销量\" 的语感，却把 \"四本合计七百万\" 偷换成 \"单本一百万\"，数字与范围全错。",
+                "C": "正确项：与答案句同义替换（sold a total of seven million copies worldwide ↔ His books sell well worldwide \"全球卖出七百万册\" 概括为 \"全球畅销\"）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "That's very modest of you to say, considering that your four books have sold a total of seven million copies worldwide, and they've been translated into 12 different languages.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What has motivated the man to write his books?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The desire of Americans to try exotic cuisines."
+                },
+                {
+                  "key": "B",
+                  "text": "The demand for information about food safety."
+                },
+                {
+                  "key": "C",
+                  "text": "The fact that over half of Americans are overweight."
+                },
+                {
+                  "key": "D",
+                  "text": "The fact that science books are difficult to read."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P4）：Well, people read my books because more than 60% of Americans are overweight, or obese.信号：因果连接词 because 引出原因 。答案信号是显性因果词 because：people read my books because more than 60% of Americans are overweigh…",
+              "optionAnalysis": {
+                "A": "未提及：The desire of Americans to try exotic cuisines.(想尝异国菜)在整段对话里没有任何对应，纯属话题跑偏的捏造，与减肥饮食主线无关。",
+                "B": "未提及：The demand for information about food safety.(对食品安全信息的需求)听上去与饮食沾边，但录音给的动机是 \"超重\"，从未谈 food safety，属顺着话题脑补的未提及项。",
+                "D": "与原文相反：录音里 \"科学难懂\" 是被作者 make difficult science easy for laymen to understand 克服的难点、是卖点，而非写书动机；D 却把 science books are difficult to read. 说成动机，盗用了 \"difficult science\" 的字眼却把作用讲反了。",
+                "C": "正确项：与答案句同义替换（more than 60% of Americans are overweight, or obese ↔ The fact that over half of Americans are overweight \"超 60%\" 等价于 \"过半\"）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Well, people read my books because more than 60% of Americans are overweight, or obese.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "Who does the man say his last book was mainly written for?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The general public."
+                },
+                {
+                  "key": "B",
+                  "text": "Those who are overweight."
+                },
+                {
+                  "key": "C",
+                  "text": "Those who want to lose weight."
+                },
+                {
+                  "key": "D",
+                  "text": "The medical community."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P6）：My last book was written primarily for the medical community. But this time, I want to help ordinary people take control of their weight.信号：限定词 last + 受众句，并与 \"this time\" 对照 。答案信号是 My last book was written primarily for the medical community 这句明确的 \"…",
+              "optionAnalysis": {
+                "A": "张冠李戴：The general public. 对应的是 this time, I want to help ordinary people——那是 \"这一本(新书)\" 的受众。把 this time 的受众安到 last book 头上，正是没分清两本书的张冠李戴。 借用原文：more than 60% of Americans are overweight",
+                "B": "原词陷阱：Those who are overweight. 借了通篇出现的 overweight 一词，但录音从没说哪本书是 \"为超重者\" 而写；它只是话题词，不是 last book 的受众。",
+                "C": "答非所问：Those who want to lose weight. 贴合全场减肥主题、最顺耳，但录音说 last book 是写给 medical community 的；\"想减肥的人\" 从未被点名为某本书的受众，是借主题诱选。",
+                "D": "正确项：与答案句同义替换（My last book was written primarily for the medical community ↔ The medical community 受众原词直接对应）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "My last book was written primarily for the medical community. But this time, I want to help ordinary people take control of their weight.",
+              "type": "细节题"
+            },
+            {
+              "number": 8,
+              "stem": "What does the man recommend people do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Switch to a vegetarian diet."
+                },
+                {
+                  "key": "B",
+                  "text": "Follow a personalized diet."
+                },
+                {
+                  "key": "C",
+                  "text": "Adhere to doctors' advice."
+                },
+                {
+                  "key": "D",
+                  "text": "Cut carbohydrate intake."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P8）：Briefly, I argue that every person needs to consider their metabolism and eat what suits their body's needs. I don't advocate one single diet.信号：主张句 I argue + 否定 I don't advocate 立反差 。答案信号是主张句 I argue that every person needs to consider their metabolism…",
+              "optionAnalysis": {
+                "A": "未提及：Switch to a vegetarian diet.(改吃素)在对话里没有依据；录音末尾虽提到多吃蔬果，但那是补充建议，从没让人 \"改成素食\"，属未提及的绝对化主张。",
+                "C": "原词陷阱：Adhere to doctors' advice. 借了前文 the medical community 留下的 \"医学\" 印象，但作者建议的是按自身代谢来，从没让普通人 \"遵医嘱\"，是盗用医学语感的诱选。 借用原文：Some people should eat more carbohydrates than others",
+                "D": "与原文相反：录音说 Some people should eat more carbohydrates than others(有些人该比别人多吃碳水)，是 \"碳水因人而异\"；D 却笼统说 Cut carbohydrate intake.(减少碳水)，盗用 carbohydrate 一词，却把 \"看人而定\" 讲成了 \"一律削减\"，方向相反。",
+                "B": "正确项：与答案句同义替换（every person needs to consider their metabolism and eat what suits their body's needs ↔ Follow a personalized diet \"按各自身体需求吃\" 概括为 \"个性化饮食\"）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "Briefly, I argue that every person needs to consider their metabolism and eat what suits their body's needs. I don't advocate one single diet.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 8.8,
+              "text": "Stress is often depicted as negative, but research shows that moderate amounts of it can be beneficial for your brain and your body.",
+              "zh": "压力通常被描绘成负面的事物，但研究表明，适度的压力有益于大脑和身体。"
+            },
+            {
+              "id": 2,
+              "start": 9.2,
+              "end": 58.4,
+              "text": "First, the benefits for the brain. Studies have shown that short periods of stress can actually bolster cognitive functioning. Researchers discovered that placing rats in a stressful situation for just a few hours doubled the growth of new brain cells. The rats also did better on a memory test later on. Scientists think the same thing happens in humans. But how does stress improve memory? It's simple. When your brain cells multiply, your memory can improve. Viewed from a biological perspective, this makes sense, because animals that are better at remembering dangerous situations can avoid them in the future. If an animal encounters a predator and escapes, for example, it's important to remember where and when that encounter happened. Experts assert that the same principle applies to humans.",
+              "zh": "首先来看压力对大脑的益处。研究表明，短时间的压力实际上能够增强认知功能。研究人员发现，让大鼠处于有压力的环境中仅几个小时，就能使新脑细胞的增长速度提高一倍。之后，这些大鼠在记忆测试中的表现也更好。科学家认为，人类身上也会发生同样的情况。但是，压力是如何改善记忆力的呢？原因很简单。当你的脑细胞增多时，你的记忆力可能会得到改善。从生物学角度来看，这是合理的，因为更善于记住危险情境的动物能够在未来避开这些情境。例如，如果一只动物遇到捕食者并成功逃脱，那么记住这次遭遇发生的地点和时间就十分重要。专家断言，同样的原理也适用于人类。"
+            },
+            {
+              "id": 3,
+              "start": 58.8,
+              "end": 99.1,
+              "text": "Now, let's turn to how stress benefits the body. This may come as a surprise to laymen. But experts say that stress can keep you from getting sick. Scientists concede that chronic stress can make you more prone to illness. But research shows that short periods of stress can actually provide some protection against getting sick, because it increases your immune functioning. One study shows that rats that experienced brief stress had a surge of immune cell response, which makes the immune system better prepared to fight illness. For humans, there's even evidence that experiencing stress before getting vaccinated could help make vaccines more effective.",
+              "zh": "现在，我们来看看压力如何有益于身体。这对普通人来说可能令人意外。但专家表示，压力可以使你不易生病。科学家承认，长期压力会使人更容易患病。但研究表明，短时间的压力实际上能够提供一定的防病保护，因为它会增强免疫功能。一项研究显示，经历短暂压力的大鼠，其免疫细胞反应会激增，从而使免疫系统更好地准备对抗疾病。对于人类，甚至有证据表明，在接种疫苗前经历压力可能有助于提高疫苗的有效性。"
+            }
+          ],
+          "audioDuration": 99.1,
+          "questions": [
+            {
+              "number": 9,
+              "stem": "What did researchers discover about rats placed briefly in a stressful situation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The rate of their growth increased dramatically."
+                },
+                {
+                  "key": "B",
+                  "text": "The growth of their new brain cells doubled."
+                },
+                {
+                  "key": "C",
+                  "text": "They began to show signs of depression."
+                },
+                {
+                  "key": "D",
+                  "text": "They began to get irritated and restless."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：Researchers discovered that placing rats in a stressful situation for just a few hours doubled the growth of new brain cells.信号：discovered 后接发现内容 。答案句由 Researchers discovered that 引出，研究动词 discovered 后面紧跟的就是题干要的发现，是天然的答案信号；同时 doubled the…",
+              "optionAnalysis": {
+                "A": "偷换概念：A 说 rate of their growth increased dramatically（成长速率剧增），但录音说的是生长翻倍（数量翻番），讲的是结果量而非速率；它盗用了原文 growth 一词，却把翻倍偷换成速率剧增，答非所问。",
+                "C": "未提及：C 说大鼠出现 signs of depression（抑郁迹象），但录音通篇讲的是适度压力的好处，从未提大鼠抑郁，属于无中生有。",
+                "D": "未提及：D 说大鼠变得 irritated and restless（烦躁不安），录音只说短暂压力让脑细胞翻倍、记忆变好，没说大鼠情绪烦躁，是凭压力等于负面的常识硬加的，未提及。",
+                "B": "正确项：与答案句同义替换（doubled the growth of new brain cells ↔ The growth of their new brain cells doubled. 主被动语序调换）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Researchers discovered that placing rats in a stressful situation for just a few hours doubled the growth of new brain cells.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "Why do people tend to have clear memories of dangerous situations they have encountered?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To avoid them in the future."
+                },
+                {
+                  "key": "B",
+                  "text": "To warn others against them."
+                },
+                {
+                  "key": "C",
+                  "text": "To make good sense of them."
+                },
+                {
+                  "key": "D",
+                  "text": "To reflect on their causes."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：Viewed from a biological perspective, this makes sense, because animals that are better at remembering dangerous situations can avoid them in the future.信号：because 引出真原因 。答案句的核心信号是 because，题干问 Why，录音里紧跟 because 后的 can avoid them in the future 正是要的原因——因果连词后面就是答案落点。",
+              "optionAnalysis": {
+                "B": "未提及：B 说为了 warn others against them（警告别人提防），录音只说记住是为了自己将来躲开，从未提及把危险告诉他人，属未提及。",
+                "C": "未提及：C 说为了 make good sense of them（弄懂它们），录音讲的目的是 avoid（躲开）而非理解其含义，方向不符，原文无此说法。",
+                "D": "未提及：D 说为了 reflect on their causes（反思其成因），录音从没提反思危险的起因，只说记住以便将来躲开，是凭常识硬推的目的，未提及。",
+                "A": "正确项：与答案句同义替换（can avoid them in the future ↔ To avoid them in the future. 几乎原义照搬）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Viewed from a biological perspective, this makes sense, because animals that are better at remembering dangerous situations can avoid them in the future.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What do scientists believe chronic stress can do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Produce a surprising healing effect."
+                },
+                {
+                  "key": "B",
+                  "text": "Weaken one's immunity in the long run."
+                },
+                {
+                  "key": "C",
+                  "text": "Make people more susceptible to illness."
+                },
+                {
+                  "key": "D",
+                  "text": "Provide protection against mental illnesses."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：Scientists concede that chronic stress can make you more prone to illness.信号：concede 后的让步内容 。答案句出现题干关键词 chronic stress，并由 Scientists concede that 引出科学家的让步看法；问 chronic 就只认带 chronic 的这句，其…",
+              "optionAnalysis": {
+                "A": "张冠李戴：A 说产生 surprising healing effect（惊人疗愈效果），录音里令人意外的好处是说短期压力 provide some protection against getting sick，而题干问的是 chronic（长期）；A 张冠李戴，把短期压力的好处安到了长期压力头上。 借用原文：increases your immune functioning",
+                "B": "与原文相反：B 说 Weaken one's immunity in the long run（长期削弱免疫力），录音讲免疫只说短期压力 increases your immune functioning（增强免疫），从没说长期压力削弱免疫；B 反了方向又借用 long run 来唬人。 借用原文：provide some protection against getting sick",
+                "D": "偷换概念：D 说 protection against mental illnesses（防护精神疾病），录音说的是短期压力 provide some protection against getting sick（防普通生病），既错把长期当短期，又把笼统的生病偷换成 mental illnesses（精神疾病）。",
+                "C": "正确项：与答案句同义替换（make you more prone to illness ↔ Make people more susceptible to illness. 近义词替换）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Scientists concede that chronic stress can make you more prone to illness.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 17.3,
+              "text": "For many managers and people who work in leadership positions, dealing with emails is a dilemma. It's likely the \"unpredictable, uncontrollable and ongoing nature of day-to-day email in terms of volume, importance and urgency\" contributes to their levels of anxiety and to diminished leadership skills.",
+              "zh": "对于许多管理者和担任领导职务的人来说，处理电子邮件是一个两难困境。日常电子邮件在数量、重要性和紧迫性方面“不可预测、不可控制且持续不断”的特性，很可能会加剧他们的焦虑程度并削弱其领导能力。"
+            },
+            {
+              "id": 2,
+              "start": 17.7,
+              "end": 40,
+              "text": "That's because it's not unusual for many leaders to prioritize email management over people management. An obsession with managing their inbox prevents them from dealing with their employees. As a result, they ignore the issues that might only be mild problems at first, until unfortunately, they inevitably transform into a major problem or crisis by virtue of neglect.",
+              "zh": "这是因为许多领导者将电子邮件管理置于人员管理之上并不罕见。对管理收件箱的痴迷使他们无法顾及员工。结果，他们忽视了最初可能只是轻微的问题，直到不幸的是，由于疏忽，这些问题不可避免地演变成了重大问题或危机。"
+            },
+            {
+              "id": 3,
+              "start": 40.4,
+              "end": 55,
+              "text": "As leaders, they are expected to motivate and inspire their team in pursuit of longer-term strategic goals and also, less ambitiously but more practically, to monitor their daily output, to set clear expectations and to give regular feedback.",
+              "zh": "作为领导者，人们期望他们能够激励和鼓舞团队去追求更长期的战略目标；同时，虽然抱负没那么远大但更为实际的是，监督团队的日常工作产出、设定明确的期望并提供定期反馈。"
+            },
+            {
+              "id": 4,
+              "start": 55.4,
+              "end": 73.8,
+              "text": "When presented with a choice between the appeal of their inbox and other more important activities, many sacrifice the latter. Daily email demands have a negative impact on their goal progress. This is because leaders must divert resources from other tasks to check, filter and respond to emails.",
+              "zh": "当面临收件箱的吸引力与其他更为重要的活动之间的选择时，许多人牺牲了后者。日常电子邮件需求对他们的目标推进产生了负面影响。这是因为领导者必须从其他任务中抽调资源来检查、过滤和回复电子邮件。"
+            },
+            {
+              "id": 5,
+              "start": 74.1,
+              "end": 98.4,
+              "text": "The solution is cultivating self-control which is like a muscle—it can be strengthened or improved over time through exercise. Some suggestions include making space in your diary for the only periods during which you'll be checking emails, setting a timer for yourself so you don't become distracted by your inbox for too long, turning off email alerts so you're not interrupted by them.",
+              "zh": "解决方案是培养自控力，自控力就像肌肉一样——随着时间的推移，可以通过锻炼得到加强或改善。一些建议包括：在日程表中预留出专门用于检查电子邮件的时间段；给自己设置定时器，以免长时间被收件箱分散注意力；关闭电子邮件提醒，以免被其打扰。"
+            }
+          ],
+          "audioDuration": 98.4,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What does the speaker say is a common problem with managers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Placing their own interests over their staff's."
+                },
+                {
+                  "key": "B",
+                  "text": "Being overwhelmed by their daily routines."
+                },
+                {
+                  "key": "C",
+                  "text": "Lacking the ability to relate to their staff."
+                },
+                {
+                  "key": "D",
+                  "text": "Spending too much time handling email."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：When presented with a choice between the appeal of their inbox and other more important activities, many sacrifice the latter. Daily email demands have a negative impact on their goal progress.信号：概括管理者通病的陈述句 。这句不是靠某个转折词跳出来，而是全篇反复落到同一点：管理者把精力压在邮箱上而牺牲更重要的事。many sacrifice the latter 与 prioritize email mana…",
+              "optionAnalysis": {
+                "A": "偷换概念：录音说的是管理者把邮件管理置于人员管理之上 prioritize email management over people management，置于上面的是\"邮件\"而非\"自身利益\"；A 把 over...staff 的句式留下，却换成 own interests，是偷换。 借用原文：day-to-day email",
+                "B": "原词陷阱：录音强调的是被\"邮件\"困住，未说被泛泛的\"日常事务（daily routines）\"压垮；B 借了 day-to-day 的感觉 day-to-day email，却把焦点从\"邮件\"扩大成\"日常琐事\"，范围被放大。 借用原文：prevents them from dealing with their employees",
+                "C": "过度推断：录音只说管理者沉迷邮箱、忽视员工 prevents them from dealing with their employees，是\"没空管\"，并未说他们\"缺乏与员工共情的能力（relate to staff）\"；从\"没空管\"推到\"没能力\"是多走了一步。",
+                "D": "正确项：与答案句同义替换（Daily email demands have a negative impact on their goal progress ↔ Spending too much time handling email \"邮件占用精力\"换说成\"花太多时间处理邮件\"）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "When presented with a choice between the appeal of their inbox and other more important activities, many sacrifice the latter. Daily email demands have a negative impact on their goal progress.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What may happen when managers ignore minor problems?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their leadership may be challenged."
+                },
+                {
+                  "key": "B",
+                  "text": "Their companies may go bankrupt."
+                },
+                {
+                  "key": "C",
+                  "text": "Unexpected events may occur."
+                },
+                {
+                  "key": "D",
+                  "text": "Major problems may result."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：As a result, they ignore the issues that might only be mild problems at first, until unfortunately, they inevitably transform into a major problem or crisis by virtue of neglect.信号：until 之后才是结果落点 。因果信号在 until unfortunately, they inevitably transform into a major problem or crisis：起初只是 mil…",
+              "optionAnalysis": {
+                "A": "张冠李戴：录音前文确实提到 leadership skills 会下降 diminished leadership skills，但那是讲邮件焦虑的背景，不是\"忽视小问题\"这一动作的后果；A 把别处出现的 leadership 搬来当本题结果，张冠李戴。 借用原文：they inevitably transform",
+                "B": "过度推断：录音最重只说到 major problem or crisis（重大问题或危机），并未说严重到\"公司破产\"；B 把\"危机\"夸大为\"破产\"，超出录音程度。",
+                "C": "与原文相反：录音用 inevitably transform（不可避免地演变）强调这是必然结果，而 C 说\"unexpected events（意外事件）\"，恰与\"不可避免\"相反。",
+                "D": "正确项：与答案句同义替换（transform into a major problem or crisis ↔ Major problems may result \"演变成重大问题\"=\"重大问题随之产生\"）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "As a result, they ignore the issues that might only be mild problems at first, until unfortunately, they inevitably transform into a major problem or crisis by virtue of neglect.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What are leaders expected to do in pursuing their strategic goals?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Keep an eye on their employees."
+                },
+                {
+                  "key": "B",
+                  "text": "Motivate and inspire their team."
+                },
+                {
+                  "key": "C",
+                  "text": "Sacrifice some of the immediate goals."
+                },
+                {
+                  "key": "D",
+                  "text": "Have greater ambition in overall planning."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：As leaders, they are expected to motivate and inspire their team in pursuit of longer-term strategic goals and also, less ambitiously but more practically, to monitor their daily output, to set clear expectations and to give regular feedback.信号：are expected to + 限定语 in pursuit of strategic goals 。信号是 expected to motivate and inspire their team in purs…",
+              "optionAnalysis": {
+                "A": "答非所问：录音里\"监督\"出现在 to monitor their daily output，这属于后半句\"志向稍低、更务实\"的日常事务，而非题干所问的\"追求战略目标\"那部分；A 借 monitor 的意思，却挂错了半句。 借用原文：many sacrifice the latter",
+                "C": "原词陷阱：录音 P4 说的是管理者\"牺牲更重要的事\" many sacrifice the latter，并不是\"牺牲眼前目标\"，且那是讲管理者的毛病、不是\"被期望做的事\"；C 把 sacrifice 一词搬来制造熟悉感。 借用原文：longer-term strategic goals",
+                "D": "过度推断：录音只说战略目标是 longer-term（更长远）longer-term strategic goals，并未要求领导\"在整体规划上更有野心\"；D 把\"长远\"擅自升级成\"更大野心的规划\"。",
+                "B": "正确项：与答案句同义替换（motivate and inspire their team in pursuit of longer-term strategic goals ↔ Motivate and inspire their team 原句动作原样保留）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "As leaders, they are expected to motivate and inspire their team in pursuit of longer-term strategic goals and also, less ambitiously but more practically, to monitor their daily output, to set clear expectations and to give regular feedback.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "How can a manager best avoid being distracted by email?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Cultivate self-control."
+                },
+                {
+                  "key": "B",
+                  "text": "Filter their email boxes."
+                },
+                {
+                  "key": "C",
+                  "text": "Respond only after work."
+                },
+                {
+                  "key": "D",
+                  "text": "Check only when necessary."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P5）：The solution is cultivating self-control which is like a muscle—it can be strengthened or improved over time through exercise.信号：The solution is 给总方案 。信号是 The solution is cultivating self-control：The solution is 直接抛出总的解决办法。题干带 best，要的正是这…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音确实念到 check, filter and respond to emails 里有 filter，但那是描述邮件耗费精力，不是给的解决建议；filter 一词制造了熟悉感，却答非\"best 的总办法\"。 借用原文：making space in your diary for the only periods during which you'll be checking emails",
+                "C": "未提及：录音的具体建议是\"在日程里划出专门查邮件的时段\" making space in your diary for the only periods during which you'll be checking emails，并没有说\"只在下班后回复\"；C 是凭常识臆造的做法。",
+                "D": "答非所问：录音建议是\"划定专门时段查\"与\"设定时器\" setting a timer for yourself so you don't become distracted，更接近 D 的味道，但 D 仍只是 self-control 名下的具体操作；题干带 best，要的是总方案 A 而非这条小招。",
+                "A": "正确项：与答案句同义替换（The solution is cultivating self-control ↔ Cultivate self-control 总方案原样对应）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "The solution is cultivating self-control which is like a muscle—it can be strengthened or improved over time through exercise.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Recording One",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 15,
+              "text": "In last week's lecture, we talked about the problems caused by poor eating habits, focusing on how medical professionals are trying to solve these problems. Today, we'll continue with the topic, but focus on research from a different field—marketing.",
+              "zh": "在上周的讲座中，我们讨论了不良饮食习惯所造成的问题，重点关注医疗专业人员如何努力解决这些问题。今天，我们将继续这一主题，但把重点放在另一个领域的研究上——市场营销。"
+            },
+            {
+              "id": 2,
+              "start": 15.3,
+              "end": 27.3,
+              "text": "Now, what can marketing tell us about improving nutrition? Well, a team of marketing professors has studied the importance of the visual aspect of food and how that influences food choices.",
+              "zh": "那么，关于改善营养状况，市场营销能告诉我们什么呢？一组市场营销学教授研究了食物视觉形象的重要性，以及这种视觉形象如何影响人们对食物的选择。"
+            },
+            {
+              "id": 3,
+              "start": 27.7,
+              "end": 41.1,
+              "text": "Those marketing experts assert that the impact of the appearance of food is greater than we might presume, and might hold the key to encouraging better eating. So how important is the appearance of food?",
+              "zh": "这些市场营销专家断言，食物外观的影响比我们可能设想的更大，而且可能是鼓励人们改善饮食的关键。那么，食物的外观究竟有多重要呢？"
+            },
+            {
+              "id": 4,
+              "start": 41.5,
+              "end": 61.5,
+              "text": "Research shows that just seeing an appealing photograph of a hamburger in an advertisement, for example, can cause individuals to imagine the taste or smell of that hamburger. This can make them more likely to purchase and consume it. Of course, that's the point of advertisements. So isn't that a good thing?",
+              "zh": "研究表明，例如，仅仅看到广告中一张诱人的汉堡包照片，就可能使人们联想到汉堡包的味道或气味。这会让他们更有可能购买并食用它。当然，这正是广告的目的。那么，这难道不是一件好事吗？"
+            },
+            {
+              "id": 5,
+              "start": 61.9,
+              "end": 83.8,
+              "text": "Well, the marketing professors argue that this is actually a problem, because the combination of pleasing aesthetics of and easy access to unhealthy foods, such as hamburgers and pizza, may be contributing to a worldwide health crisis. In fact, statistics show that 39% of all adults in the world weigh too much and another 13% are obese.",
+              "zh": "市场营销学教授们认为，实际上这恰恰是一个问题，因为汉堡包和披萨等不健康食品令人愉悦的外观与其易于获得相结合，可能正在助长一场全球性的健康危机。事实上，统计数据显示，全世界有39%的成年人超重，另有13%的人肥胖。"
+            },
+            {
+              "id": 6,
+              "start": 84.1,
+              "end": 98.8,
+              "text": "Now, as we discussed last time, medical professionals have tried to fight the obesity epidemic by focusing on the nutrients found in different foods, emphasizing things like carbohydrate, fat, sugar and calorie content. But they've had limited success.",
+              "zh": "正如我们上次讨论的那样，医疗专业人员曾试图通过关注不同食物所含的营养成分来应对肥胖症流行，强调碳水化合物、脂肪、糖和卡路里含量等因素。但他们取得的成效有限。"
+            },
+            {
+              "id": 7,
+              "start": 99.1,
+              "end": 134.1,
+              "text": "The marketing professors believe that the real solution to obesity is making food look appealing and focusing on the pleasure of both looking at and eating that food. That pleasure can be used as a tool to promote healthy food choices. In fact, the research done by the team showed that associating healthy food with pleasant images, experiences and emotions led to greater interest in purchasing or eating it. \"This is a better strategy,\" they claim, than reminding consumers that a certain food is good for them. But are they right?",
+              "zh": "市场营销学教授们认为，解决肥胖问题的真正办法，是让食物看起来更有吸引力，并关注人们观看和食用这些食物时所获得的愉悦感。这种愉悦感可以被用作促进健康食品选择的工具。事实上，该团队开展的研究表明，将健康食品与令人愉悦的图像、体验和情感联系起来，会使人们对购买或食用这种食品产生更大的兴趣。他们声称，与提醒消费者某种食物对身体有益相比，“这是一种更好的策略”。但他们说得对吗？"
+            },
+            {
+              "id": 8,
+              "start": 134.4,
+              "end": 169.1,
+              "text": "Well, the researchers cited a marketing campaign designed to reverse the sales decline of carrots. The campaign didn't emphasize the carrots' healthy qualities, but embraced their beauty and the pleasure derived from eating them. For example, the ads focused on the bright, beautiful orange color and crisp texture of the carrots. The campaign led to an impressive increase in product sales of more than 10%. The researchers believe that other companies could bolster sales of healthy foods with similar ads, depicting their products as attractive and a source of pleasure.",
+              "zh": "研究人员举例介绍了一项旨在扭转胡萝卜销量下滑的市场营销活动。该活动没有强调胡萝卜的健康特性，而是展现了它们的美感以及食用它们所带来的愉悦感。例如，广告重点突出胡萝卜明亮美丽的橙色和爽脆的口感。这项活动使产品销量大幅增加了10%以上。研究人员认为，其他公司也可以通过类似的广告来促进健康食品的销售，将其产品描绘成具有吸引力且能带来愉悦的食品。"
+            }
+          ],
+          "audioDuration": 169.1,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What does the speaker say a team of marketing professors has studied?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The key to increasing healthy food supply."
+                },
+                {
+                  "key": "B",
+                  "text": "The best way to improve marketing research."
+                },
+                {
+                  "key": "C",
+                  "text": "The impact of advertisements on consumption."
+                },
+                {
+                  "key": "D",
+                  "text": "The importance of the appearance of food."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：Well, a team of marketing professors has studied the importance of the visual aspect of food and how that influences food choices.信号：题干原词 studied 在原文直接出现 。录音 a team of marketing professors has studied the importance of the visual aspect of f…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项把录音多次提到的 healthy 拼成 increasing healthy food supply，但录音研究的是外观对选择的影响，从未谈增加健康食品的供给量，属听到 healthy 就想选的原词陷阱。 借用原文：a team of marketing professors",
+                "B": "原词陷阱：选项借用录音里的 marketing 拼成 improve marketing research，但讲者说的是营销学者拿来研究外观，而非研究如何改进市场调研本身，属答非所问。 借用原文：an appealing photograph of a hamburger in an advertisement",
+                "C": "原词陷阱：录音确实在 seeing an appealing photograph of a hamburger in an advertisement 提到广告，但那是用来举例说明外观如何起作用，不是这组学者研究的对象；选项把举例细节当成研究主题，属原词陷阱。",
+                "D": "正确项：与答案句同义替换（the importance of the visual aspect of food ↔ The importance of the appearance of food. visual aspect 同义改写为 appearance）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Well, a team of marketing professors has studied the importance of the visual aspect of food and how that influences food choices.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "How have medical professionals tried to fight obesity?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By focusing on the nutrients in different foods."
+                },
+                {
+                  "key": "B",
+                  "text": "By emphasizing the diversity of food."
+                },
+                {
+                  "key": "C",
+                  "text": "By stressing pleasing aesthetics of food."
+                },
+                {
+                  "key": "D",
+                  "text": "By winning the support of marketing professors."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P6）：medical professionals have tried to fight the obesity epidemic by focusing on the nutrients found in different foods, emphasizing things like carbohydrate, fat, sugar and calorie content.信号：主体词 medical professionals 领出做法句 。录音 medical professionals have tried to fight the obesity epidemic by focusi…",
+              "optionAnalysis": {
+                "B": "未提及：选项 By emphasizing the diversity of food. 的 diversity 在录音里从未出现，医学专家强调的是营养成分而非食物多样性，属无中生有。",
+                "C": "张冠李戴：强调美感 By stressing pleasing aesthetics of food. 确是录音里的做法，但那是营销学者的主张，不是医学专家的做法；选项把营销学者的招安到医学专家头上，属张冠李戴。 借用原文：a team of marketing professors",
+                "D": "原词陷阱：选项 By winning the support of marketing professors. 借用录音里的 marketing professors，但录音从没说医学专家去争取营销教授的支持，二者只是讲座中并列对比的两方，属原词陷阱。",
+                "A": "正确项：与答案句同义替换（by focusing on the nutrients found in different foods ↔ By focusing on the nutrients in different foods. 几乎原句对应仅省略 found）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "medical professionals have tried to fight the obesity epidemic by focusing on the nutrients found in different foods, emphasizing things like carbohydrate, fat, sugar and calorie content.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What can other companies learn from the example of the carrot promotion campaign?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They can attract customers with the healthy qualities of their products."
+                },
+                {
+                  "key": "B",
+                  "text": "They can boost sales of healthy foods by making them visually appealing."
+                },
+                {
+                  "key": "C",
+                  "text": "They can turn to marketing professors for advice."
+                },
+                {
+                  "key": "D",
+                  "text": "They can rely on advertising for sales promotion."
+                }
+              ],
+              "answer": "B",
+              "analysis": "推断题。答案句（P8）：The researchers believe that other companies could bolster sales of healthy foods with similar ads, depicting their products as attractive and a source of pleasure.信号：结尾外推句 could+similar 给出启示 。录音结尾 other companies could bolster sales of healthy foods with similar ads 用 could…",
+              "optionAnalysis": {
+                "A": "与原文相反：选项 They can attract customers with the healthy qualities of their products. 借用录音 didn't emphasize the carrots' healthy qualities 的原词，但录音明说该案例恰恰没强调健康属性，选项把否定说成肯定，属与原文相反。 借用原文：a team of marketing professors",
+                "C": "原词陷阱：选项 They can turn to marketing professors for advice. 借用录音里的 marketing professors，但讲者说的是公司可用类似广告，从没说让公司去求助营销教授，属原词陷阱。 借用原文：bolster sales of healthy foods with similar ads, depicting their products as attractive and a source of pleasure",
+                "D": "偷换概念：选项 They can rely on advertising for sales promotion. 借用录音的 ads，但录音强调的是靠把产品拍得有吸引力、令人愉悦的广告，而非泛泛依赖广告；选项丢掉视觉吸引这一关键限定，属偷换概念。",
+                "B": "正确项：与答案句同义替换（bolster sales of healthy foods with similar ads, depicting their products as attractive ↔ They can boost sales of healthy foods by making them visually appealing. bolster=boost、attractive=visually appealing）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "The researchers believe that other companies could bolster sales of healthy foods with similar ads, depicting their products as attractive and a source of pleasure.",
+              "type": "推断题"
+            }
+          ]
+        },
+        {
+          "title": "Recording Two",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 16.5,
+              "text": "The household cleaning products industry really began to take off in the 1950s. Prior to that, resourceful housewives who had grown up in a less prosperous era relied on substances that they used in their kitchens such as vinegar used to clean windows.",
+              "zh": "家居清洁用品行业真正开始蓬勃发展是在20世纪50年代。在此之前，那些成长于经济不太繁荣时代、富有创造力的家庭主妇，依靠厨房里使用的物质，例如用醋清洁窗户。"
+            },
+            {
+              "id": 2,
+              "start": 16.9,
+              "end": 35.7,
+              "text": "Today, the household cleaning products industry is worth billions of dollars a year and is dominated by large global companies. In recent years, however, many countries have witnessed a surge in the number of small businesses and companies offering more environment-friendly cleaning products, and they're doing good business too.",
+              "zh": "如今，家居清洁用品行业每年的产值达数十亿美元，并由大型跨国公司主导。然而，近年来，许多国家都见证了提供更环保清洁产品的小型企业和公司的数量激增，而且它们的生意也做得很好。"
+            },
+            {
+              "id": 3,
+              "start": 36.1,
+              "end": 67.2,
+              "text": "One reason for this is that consumers are becoming more aware of environment and sustainability issues. They also want to make their home a safe place, free from toxic chemicals. The third reason is people's awareness of and knowledge about technology has never been greater. In the past, people might have been skeptical of a new product claimed to be able to achieve amazing cleaning results, but they now have faith in technology's ability to do what was once thought impossible.",
+              "zh": "其中一个原因是消费者越来越意识到环境和可持续性问题。他们还希望把家变成一个没有有毒化学物质的安全场所。第三个原因是，人们对技术的认识和了解从未像现在这样深入。过去，人们可能会对一种声称能够取得惊人清洁效果的新产品持怀疑态度，但如今，他们相信技术有能力做到那些曾经被认为不可能的事情。"
+            },
+            {
+              "id": 4,
+              "start": 67.5,
+              "end": 91.8,
+              "text": "There is perhaps no better example of this than a patented cloth sold by one company, which remarkably uses only water rather than traditional cleaning products. The company claims its cloth lifts, traps and removes dirt and bacteria. And considering that people don't see these products in shops, or advertised on TV or in the press, it has been a pretty steep rise.",
+              "zh": "或许没有什么比某家公司销售的一种获得专利的抹布更能说明这一点了。这种抹布非常特别，只使用水，而不是传统的清洁产品。该公司声称，这种抹布能够提起、吸附并清除污垢和细菌。考虑到人们既不会在商店里看到这些产品，也不会在电视、报刊或杂志上看到它们的广告，它们的增长速度着实非常快。"
+            },
+            {
+              "id": 5,
+              "start": 92.1,
+              "end": 117.1,
+              "text": "Many of the people behind these companies began testing the viability of their products by selling them at local markets. Then, in many cases, customers are doing the marketing for these products by leaving threads of comments on social media, praising their virtues. There are also TV shows and books dedicated to maintaining home tidiness and cleanliness and the benefits of having a clean home.",
+              "zh": "这些公司背后的许多人都是通过在当地市场销售产品，开始测试产品是否具有可行性的。随后，在许多情况下，顾客通过在社交媒体上留下大量评论、称赞这些产品的优点，为它们进行营销。此外，还有专门介绍保持家庭整洁、清洁以及拥有一个干净家庭的益处的电视节目和书籍。"
+            },
+            {
+              "id": 6,
+              "start": 117.4,
+              "end": 135.5,
+              "text": "Having a safe and clean home might be one thing people feel they can control in an increasingly out-of-control world. And there are social media celebrities. One woman in Britain has become a social media sensation with more than two million followers for her cleaning tips page.",
+              "zh": "在一个越来越失控的世界里，拥有一个安全而干净的家，可能是人们觉得自己能够掌控的一件事。而且，还有社交媒体名人。英国有一名女性凭借她的清洁技巧页面成为社交媒体红人，粉丝数量超过两百万。"
+            }
+          ],
+          "audioDuration": 135.5,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What does the speaker say about the cleaning products industry in recent years?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has witnessed a spectacular surge in demand."
+                },
+                {
+                  "key": "B",
+                  "text": "It has met much criticism from environmentalists."
+                },
+                {
+                  "key": "C",
+                  "text": "It has seen more small businesses offering environment-friendly products."
+                },
+                {
+                  "key": "D",
+                  "text": "It has experienced increasingly fierce competition among global companies."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：In recent years, however, many countries have witnessed a surge in the number of small businesses and companies offering more environment-friendly cleaning products, and they're doing good business too.信号：时间标志 in recent years + 转折 however 。In recent years, however 同时给出题干要的时间窗和一个转折信号——however 把话锋从前句\"大公司主导\"转向\"小企业崛…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确实念了 surge，但原文是 a surge in the number of small businesses（企业数量激增），选项 a spectacular surge in demand 把它偷换成\"需求激增\"，听到 surge 就选会中招。 借用原文：dominated by large global companies",
+                "B": "未提及：选项 much criticism from environmentalists 在录音里找不到任何对应——原文讲的是环保产品走红、生意红火，从无\"被批评\"之说，属凭空捏造。",
+                "D": "原词陷阱：录音第2段确有 large global companies，选项 fierce competition among global companies 借这个词造出\"全球公司竞争加剧\"，可原文只说大公司\"主导\"行业，没说它们之间竞争更激烈。",
+                "C": "正确项：与答案句同义替换（a surge in the number of small businesses and companies offering more environment-friendly cleaning products ↔ more small businesses offering environment-friendly products a surge in the number of = more 的同义概括）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "In recent years, however, many countries have witnessed a surge in the number of small businesses and companies offering more environment-friendly cleaning products, and they're doing good business too.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "Why are newly developed cleaning products selling well?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Consumers now know much more about technology."
+                },
+                {
+                  "key": "B",
+                  "text": "Their mass production has sharply reduced the price"
+                },
+                {
+                  "key": "C",
+                  "text": "Consumers tend to favor all that is novel."
+                },
+                {
+                  "key": "D",
+                  "text": "Their quality has been greatly improved."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：The third reason is people's awareness of and knowledge about technology has never been greater. In the past, people might have been skeptical of a new product claimed to be able to achieve amazing cleaning results, but they now have faith in technology's ability to do what was once thought impossible.信号：明示标志 The third reason + 对应题干\"new products\" 。The third reason is people's awareness of and knowledge about te…",
+              "optionAnalysis": {
+                "B": "未提及：选项 mass production has sharply reduced the price 听上去顺理成章，但录音讲好卖的原因是环保意识、安全、懂技术，从头到尾没提\"量产降价\"，是用生活常识替代原文。",
+                "C": "过度推断：选项 favor all that is novel（偏爱一切新奇）看似贴近\"新产品\"，但录音说的是人们 have faith in technology（信任技术能力），不是\"凡新必爱\"，把\"信任技术\"推成\"盲目追新\"推过了头。",
+                "D": "偷换概念：选项 quality has been greatly improved 录音并未提及——原文讲的是消费者对技术的\"认知与信任\"，而非产品\"质量本身\"提高了，二者不能混为一谈。",
+                "A": "正确项：与答案句同义替换（people's awareness of and knowledge about technology has never been greater ↔ Consumers now know much more about technology knowledge…never been greater = know much more 的同义改写）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "The third reason is people's awareness of and knowledge about technology has never been greater. In the past, people might have been skeptical of a new product claimed to be able to achieve amazing cleaning results, but they now have faith in technology's ability to do what was once thought impossible.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What are some customers doing to help promote non-traditional cleaning products?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Purchasing only this kind of products for home cleaning."
+                },
+                {
+                  "key": "B",
+                  "text": "Writing positive comments about them on social media."
+                },
+                {
+                  "key": "C",
+                  "text": "Demonstrating on TV how effective these products are."
+                },
+                {
+                  "key": "D",
+                  "text": "Telling one another about their incomparable virtues."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P5）：Then, in many cases, customers are doing the marketing for these products by leaving threads of comments on social media, praising their virtues.信号：主语对应 customers + 动作 doing the marketing 。customers are doing the marketing for these products 的主语正是题干的 custo…",
+              "optionAnalysis": {
+                "A": "未提及：选项 Purchasing only this kind of products 里的 only（只买这一种）录音没有任何依据——原文讲顾客帮做营销、写评论，从没说他们\"只\"用这类产品。",
+                "C": "原词陷阱：录音第4段提过 TV（advertised on TV）、第5段提过 TV shows，选项 Demonstrating on TV 借这些 TV 造\"上电视演示\"，可原文恰恰说这类产品没在电视宣传、且\"上电视演示\"是节目而非顾客所为，听到 TV 就选会中招。 借用原文：leaving threads of comments on social media, praising their virtues",
+                "D": "原词陷阱：选项 Telling one another about their incomparable virtues 用了录音的 virtues，但原文顾客是\"在社交媒体写评论\"称赞，而非 Telling one another（互相口头转告）；盗了对的词、错在渠道。",
+                "B": "正确项：与答案句同义替换（leaving threads of comments on social media, praising their virtues ↔ Writing positive comments about them on social media leaving…comments, praising = writing positive comments 的同义改写）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "Then, in many cases, customers are doing the marketing for these products by leaving threads of comments on social media, praising their virtues.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Recording Three",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 21.5,
+              "text": "Throwing spare change into a fountain is a time-honored ritual: throw a penny into the water, and your wish might come true. But all that money has to go somewhere. Otherwise, the growing piles of pennies, quarters and euros could clog up the fountains' works. Today, I'm going to talk about where all the coins go.",
+              "zh": "把多余的零钱扔进喷泉是一种历史悠久的仪式：把一枚硬币扔进水里，你的愿望就可能实现。但所有这些钱都必须有去处。否则，越积越多的便士、25美分硬币和欧元硬币可能会堵塞喷泉的内部装置。今天，我要讲讲这些硬币最终都去了哪里。"
+            },
+            {
+              "id": 2,
+              "start": 21.9,
+              "end": 60.3,
+              "text": "Well, the coins collected can go to all sorts of different places—from fountain maintenance to charity or public service. In New York City, for example, coins collected from fountains in public parks often go towards the fountains' maintenance itself, though entrepreneurs who don't mind getting their hands wet often get to it first. There are over 50 beautiful decorative display fountains in New York City parks. They are cleaned by the parks' staff every few weeks. But most of the coins have already been removed by entrepreneurial New Yorkers and there is not a significant amount left to be collected.",
+              "zh": "收集到的硬币可以被用于各种不同的地方，例如喷泉维护、慈善事业或公共服务。以纽约市为例，从公共公园喷泉中收集的硬币通常会用于喷泉本身的维护，不过那些不介意把手弄湿的投机者往往会先下手。纽约市的公园里有50多座漂亮的装饰性展示喷泉。公园工作人员每隔几周会对它们进行清洁。但大多数硬币早已被纽约的投机者取走，剩下可收集的数量并不多。"
+            },
+            {
+              "id": 3,
+              "start": 60.6,
+              "end": 122.2,
+              "text": "Other cities, though, can pull in a much more serious haul. Take for example, Rome's famous Trevi fountain: for hundreds of years, visitors have thrown coins over their shoulder into the fountain to ensure that they will return. So many tourists toss in coins that Roman officials have the fountain cleaned every night, reportedly getting as much as $4,000 in loose change from around the world each day. Most of the money collected each night goes towards running a supermarket for the needy. And collecting that cash is serious business. Roman officials have been known to be tough on anyone caught skimming coins from the fountain. In one case in 2005, police arrested four fountain cleaners after they were spotted slipping coins into their own pockets after collecting them. Authorities finally caught one notorious thief named Thomas Morgan and banned him from the fountain after he fished out thousands of dollars in change over 34 years using a magnetic stick.",
+              "zh": "不过，其他城市的喷泉可能会带来多得多的收入。以罗马著名的特莱维喷泉为例：数百年来，游客一直将硬币从肩后抛入喷泉，以确保自己将来还会回来。如此多的游客往里投硬币，以至于罗马官员每天晚上都会安排清理喷泉，据报道，每天能从中获得多达4,000美元的世界各地零钱。每晚收集到的大部分钱都用于运营一家为贫困者服务的超市。而收集这些现金是一项严肃的工作。众所周知，罗马官员会严厉对待任何被发现从喷泉中偷取硬币的人。2005年就发生过一起案件：警方发现四名喷泉清洁工在收集硬币后把硬币偷偷塞进自己的口袋，随后将他们逮捕。最终，当局抓住了一名臭名昭著的小偷Thomas Morgan，并禁止他进入喷泉区域；在34年间，他曾用一根磁力棒从喷泉中捞出数千美元的零钱。"
+            },
+            {
+              "id": 4,
+              "start": 122.5,
+              "end": 163.3,
+              "text": "For the most part, money collected from privately-owned fountains in the United States also goes to charity. The fountain in New York City's Bryant Park is owned and operated by a not-for-profit corporation, which puts the cash collected by cleaners towards the fountain's own maintenance. Tens of thousands of dollars in coins removed from wishing wells, fountains and ponds in Florida's Walt Disney World are donated each year to support foster children living in the state. Whether or not your wish comes true after tossing a coin into a fountain, you can rest assured knowing that the change is likely going to someone who needs it.",
+              "zh": "在美国，从私人拥有的喷泉中收集到的钱大多也会捐给慈善机构。纽约市布莱恩特公园的喷泉由一家非营利公司所有并运营，清洁工收集到的现金会被用于喷泉本身的维护。佛罗里达州华特迪士尼世界的许愿井、喷泉和池塘中每年取出的数万美元硬币，都会被捐出，用于帮助生活在该州的寄养儿童。无论你把硬币扔进喷泉后愿望是否实现，你都可以放心，因为这些零钱很可能会流向需要帮助的人。"
+            }
+          ],
+          "audioDuration": 163.3,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What problem might be caused by the growing piles of coins in fountains?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Increasing cleaners' workload."
+                },
+                {
+                  "key": "B",
+                  "text": "Blocking the fountains' works."
+                },
+                {
+                  "key": "C",
+                  "text": "Breaking a time-honored ritual."
+                },
+                {
+                  "key": "D",
+                  "text": "Polluting the fountains' water."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：Otherwise, the growing piles of pennies, quarters and euros could clog up the fountains' works.信号：Otherwise 引出假设后果 。信号是 Otherwise（否则）——它引出\"如果钱不被运走会怎样\"的假设性后果，正对题干问的\"会造成什么问题\"，紧跟其后的 could clog up the fountains…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 Increasing cleaners' workload 里的 cleaners 在后文确实反复出现（喷泉由 staff 清理），但录音从没说\"硬币堆积会加重清洁工负担\"，是借后文的\"清洁\"话题诱你听到 cleaners 就选。 借用原文：Throwing spare change into a fountain is a time-honored ritual",
+                "C": "原词陷阱：选项 Breaking a time-honored ritual 直接搬了录音第一句的 time-honored ritual，但那句是说\"投币许愿是个老传统\"，是引入话题，根本不是在讲\"硬币堆积造成的问题\"——典型的把开头原词拿来骗。",
+                "D": "未提及：选项 Polluting the fountains' water 听起来\"硬币泡水里好像会污染\"很合常识，但录音通篇没提水质污染，是用生活常识替文本作答的典型坑。",
+                "B": "正确项：与答案句同义替换（clog up the fountains' works ↔ Blocking the fountains' works clog up = Blocking 同义替换）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Otherwise, the growing piles of pennies, quarters and euros could clog up the fountains' works.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What does the speaker say about the coins collected from New York City's park fountains?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are occasionally retrieved by curious tourists."
+                },
+                {
+                  "key": "B",
+                  "text": "They are regularly donated to charity organizations."
+                },
+                {
+                  "key": "C",
+                  "text": "They are mostly used for the fountains' maintenance."
+                },
+                {
+                  "key": "D",
+                  "text": "They are usually used as wages for fountain cleaners."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：But most of the coins have already been removed by entrepreneurial New Yorkers and there is not a significant amount left to be collected.信号：转折 But 后才是真意 。信号是 But——前半句说\"市政人员每几周清理一次\"是表面信息，转折 But 之后的 most of the coins have already been removed by entr…",
+              "optionAnalysis": {
+                "A": "张冠李戴：选项 occasionally retrieved by curious tourists 看似对上\"硬币被人提前取走\"，但录音说取走硬币的是 entrepreneurial New Yorkers（有生意头脑的纽约人），不是 curious tourists（好奇游客）——把取走者的身份偷换了，属张冠李戴。 借用原文：Tens of thousands of dollars in coins removed from wishing wells, fountains and ponds in Florida's Walt Disney World are donated each year to support foster children",
+                "B": "张冠李戴：选项 donated to charity organizations 里的 charity 录音确有（罗马的钱办惠民超市、迪士尼捐寄养儿童），但那是罗马和迪士尼喷泉的事，不是本题问的纽约公园喷泉——张冠李戴。 借用原文：They are cleaned by the parks' staff every few weeks.",
+                "D": "未提及：选项 used as wages for fountain cleaners 里 cleaners / staff 录音确有（喷泉由公园 staff 清理），但录音从没说硬币被\"当作清洁工的工资\"，是借\"清洁\"话题拼出的无中生有。",
+                "C": "正确项：与答案句同义替换（go towards the fountains' maintenance itself ↔ used for the fountains' maintenance go towards=used for 同指用途）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "But most of the coins have already been removed by entrepreneurial New Yorkers and there is not a significant amount left to be collected.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What do we learn about the money collected from Rome's Trevi Fountain?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is invested in a series of businesses."
+                },
+                {
+                  "key": "B",
+                  "text": "It is used exclusively for its maintenance."
+                },
+                {
+                  "key": "C",
+                  "text": "It is used to run a supermarket for the needy."
+                },
+                {
+                  "key": "D",
+                  "text": "It is estimated to be about $40,000 a month."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：Most of the money collected each night goes towards running a supermarket for the needy.信号：goes towards 点明用途 。信号是表用途的 goes towards（用于……）——它直接交代这笔钱的去向，紧跟其后的 running a supermarket for the needy 就是答案。听到…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 invested in a series of businesses 里 business(es) 一词录音确有（serious business 指\"收钱是件正经事\"），但那是形容\"这事很严肃\"，根本不是说钱拿去\"投资做生意\"——盗用 business 一词制造误会。 借用原文：which puts the cash collected by cleaners towards the fountain's own maintenance",
+                "B": "张冠李戴：选项 used exclusively for its maintenance 描述的\"专门用于喷泉维护\"是录音里纽约公园喷泉和 Bryant Park 喷泉的处置，不是罗马许愿池的，张冠李戴；且 exclusively（专门、唯一）程度过死，罗马的钱是\"大部分\"办超市。 借用原文：getting as much as $4,000 in loose change from around the world each day",
+                "D": "与原文相反：选项 about $40,000 a month 把数字改了：录音说的是 as much as $4,000 in loose change from around the world each day（每天约 4000 美元），选项改成\"每月 4 万\"——金额和时间单位都被动了手脚，是典型数字陷阱。",
+                "C": "正确项：与答案句同义替换（running a supermarket for the needy ↔ run a supermarket for the needy running→run 仅词形微调）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Most of the money collected each night goes towards running a supermarket for the needy.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What does the speaker say about Thomas Morgan?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He was arrested for stealing money from four fountain cleaners."
+                },
+                {
+                  "key": "B",
+                  "text": "He was sentenced to 34 years' imprisonment."
+                },
+                {
+                  "key": "C",
+                  "text": "He collected rare coins from around the world."
+                },
+                {
+                  "key": "D",
+                  "text": "He stole a lot of money from a fountain with a magnetic stick."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Authorities finally caught one notorious thief named Thomas Morgan and banned him from the fountain after he fished out thousands of dollars in change over 34 years using a magnetic stick.信号：人名 + 其后动作链 。信号是人名 named Thomas Morgan 一出现就锁定本句，重点在它后面的动作链 fished out thousands of dollars in change over 34 …",
+              "optionAnalysis": {
+                "A": "张冠李戴：选项 arrested for stealing money from four fountain cleaners 里的 four fountain cleaners 录音确有，但那是 2005 年警方抓的\"四名监守自盗的清洁工\"，是另一桩案子，跟 Thomas Morgan 无关——把别人的事安到他头上，还把\"四名清洁工\"从\"被抓的人\"偷换成\"被偷的对象\"。 借用原文：banned him from the fountain after he fished out thousands of dollars in change over 34 years",
+                "B": "原词陷阱：选项 sentenced to 34 years' imprisonment 盗用录音的数字 34 years，但录音说的是他 over 34 years 间一直作案，结果只是被 banned from the fountain（禁入喷泉），并没有\"判刑 34 年\"——把\"作案时长\"偷换成\"刑期\"。 借用原文：as much as $4,000 in loose change from around the world each day",
+                "C": "原词陷阱：选项 collected rare coins from around the world 里 from around the world 录音确有（罗马许愿池收来自世界各地的零钱），但那是说硬币来源广，不是说 Morgan\"收藏稀有硬币\"——他是偷钱不是藏币，纯属拼凑别处原词造的无中生有。",
+                "D": "正确项：与答案句同义替换（fished out thousands of dollars in change ↔ stole a lot of money from a fountain fished out=stole 概括偷取）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Authorities finally caught one notorious thief named Thomas Morgan and banned him from the fountain after he fished out thousands of dollars in change over 34 years using a magnetic stick.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "During the summer, when I was a visiting poet at a residency out of state, an angry, confused woman wandered into my class and said: \"I have three guns and I want to use them.\" We all 26______ . It wasn't clear if she had the guns, but we each know that, when we teach in America, we are already in danger.\n\nI was dizzy with fear. The woman, who later turned out to be a schizophrenic(精神分裂症患者) without 27______ to her medications, was, by some force, wrestled out and 28______ away, then put in a hospital for observation, in a step that was actually safer for everyone than any one of us pressing charges. My class went on; we talked about poems. But despite the fact that the rest of our days on campus passed 29______ , I was rattled. I couldn't shake the sense that in this country we always live at 30______ risk.\n\nA few months later, crisis 31______ again. While my husband was locking his bike to drop off our 3-year-old daughter for her preschool-aged day camp, a different woman approached. Swiftly and for no 32______ reason, she bent down, picked up our daughter, and began to carry her down the street. It was so fast and confusing that my daughter 33______ cried. My husband, in a burst of speed, chased the woman and reclaimed our daughter. The woman, clearly confused, retreated into the public library. A 34______ of homeless people who generally know the other homeless in the area said they did not recognize the woman. The woman was so clearly unwell that when she was taken into custody she was incoherent. Heartbreakingly, she called our daughter by the name of someone else's child. Each part of the episode was as haunting as it was 35______ ."
+            },
+            {
+              "label": "词库",
+              "text": "A) access\nB) apparent\nC) barely\nD) dedication\nE) escorted\nF) froze\nG) incredible\nH) indignant\nI) network\nJ) overriding\nK) peacefully\nL) presumably\nM) stifled\nN) struck\nO) terrifying"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "apparent"
+                },
+                {
+                  "key": "C",
+                  "text": "barely"
+                },
+                {
+                  "key": "D",
+                  "text": "dedication"
+                },
+                {
+                  "key": "E",
+                  "text": "escorted"
+                },
+                {
+                  "key": "F",
+                  "text": "froze"
+                },
+                {
+                  "key": "G",
+                  "text": "incredible"
+                },
+                {
+                  "key": "H",
+                  "text": "indignant"
+                },
+                {
+                  "key": "I",
+                  "text": "network"
+                },
+                {
+                  "key": "J",
+                  "text": "overriding"
+                },
+                {
+                  "key": "K",
+                  "text": "peacefully"
+                },
+                {
+                  "key": "L",
+                  "text": "presumably"
+                },
+                {
+                  "key": "M",
+                  "text": "stifled"
+                },
+                {
+                  "key": "N",
+                  "text": "struck"
+                },
+                {
+                  "key": "O",
+                  "text": "terrifying"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) froze\n【原文】上文 I have three guns and I want to use them. 是极端威胁，紧接 We all 的反应只能是吓得僵住——freeze 正是英语里表达『因恐惧而瞬间不动』的高频动词，与下文 I was dizzy with fear. 形成连贯的恐惧反应链。\nE) escorted 及物动词，缺宾语：escort 意为『护送某人』，必须带宾语，而句子是 We all __(26)__. 后面直接句号，无宾语；且『我们护送了』也对不上听到威胁后的第一反应。\nM) stifled 及物且语义不符：stifle 通常作及物动词（压抑哭声/笑声），后面缺宾语；语义上『我们都压抑了』也无对象，语境不通。\nN) struck 强搭配指向第 31 题：strike 在此语境里更常以 crisis struck（危机突然发生）这一固定搭配出现，后文 crisis __(31)__ again 才是它的归宿；用在 26 空只能解作『"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "apparent"
+                },
+                {
+                  "key": "C",
+                  "text": "barely"
+                },
+                {
+                  "key": "D",
+                  "text": "dedication"
+                },
+                {
+                  "key": "E",
+                  "text": "escorted"
+                },
+                {
+                  "key": "F",
+                  "text": "froze"
+                },
+                {
+                  "key": "G",
+                  "text": "incredible"
+                },
+                {
+                  "key": "H",
+                  "text": "indignant"
+                },
+                {
+                  "key": "I",
+                  "text": "network"
+                },
+                {
+                  "key": "J",
+                  "text": "overriding"
+                },
+                {
+                  "key": "K",
+                  "text": "peacefully"
+                },
+                {
+                  "key": "L",
+                  "text": "presumably"
+                },
+                {
+                  "key": "M",
+                  "text": "stifled"
+                },
+                {
+                  "key": "N",
+                  "text": "struck"
+                },
+                {
+                  "key": "O",
+                  "text": "terrifying"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) access\n【原文】access to 是固定搭配，意为『使用权』\nD) dedication 语义荒诞：dedication 指『奉献、专注』，dedication to her medications 字面是『对药物的奉献』，对精神患者而言荒诞；语义与上下文医疗背景脱节。\nI) network 搭配指向第 34 题：network of people / network of homeless 是更经典的搭配，将在第 34 空发挥作用；用在 27 空 network to her medica"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "apparent"
+                },
+                {
+                  "key": "C",
+                  "text": "barely"
+                },
+                {
+                  "key": "D",
+                  "text": "dedication"
+                },
+                {
+                  "key": "E",
+                  "text": "escorted"
+                },
+                {
+                  "key": "F",
+                  "text": "froze"
+                },
+                {
+                  "key": "G",
+                  "text": "incredible"
+                },
+                {
+                  "key": "H",
+                  "text": "indignant"
+                },
+                {
+                  "key": "I",
+                  "text": "network"
+                },
+                {
+                  "key": "J",
+                  "text": "overriding"
+                },
+                {
+                  "key": "K",
+                  "text": "peacefully"
+                },
+                {
+                  "key": "L",
+                  "text": "presumably"
+                },
+                {
+                  "key": "M",
+                  "text": "stifled"
+                },
+                {
+                  "key": "N",
+                  "text": "struck"
+                },
+                {
+                  "key": "O",
+                  "text": "terrifying"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) escorted\n【原文】escorted away 表『被护送/押送离开』\nM) stifled 搭配与语义都不对：stifled away 不是英语固定搭配；stifle 表『压抑哭声/欲望』，与『从课堂带走精神患者』这一物理动作毫不相干。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "apparent"
+                },
+                {
+                  "key": "C",
+                  "text": "barely"
+                },
+                {
+                  "key": "D",
+                  "text": "dedication"
+                },
+                {
+                  "key": "E",
+                  "text": "escorted"
+                },
+                {
+                  "key": "F",
+                  "text": "froze"
+                },
+                {
+                  "key": "G",
+                  "text": "incredible"
+                },
+                {
+                  "key": "H",
+                  "text": "indignant"
+                },
+                {
+                  "key": "I",
+                  "text": "network"
+                },
+                {
+                  "key": "J",
+                  "text": "overriding"
+                },
+                {
+                  "key": "K",
+                  "text": "peacefully"
+                },
+                {
+                  "key": "L",
+                  "text": "presumably"
+                },
+                {
+                  "key": "M",
+                  "text": "stifled"
+                },
+                {
+                  "key": "N",
+                  "text": "struck"
+                },
+                {
+                  "key": "O",
+                  "text": "terrifying"
+                }
+              ],
+              "answer": "K",
+              "type": "选词填空",
+              "analysis": "【答案】K（官方答案）\n应填 K) peacefully\n【原文】与『despite + I was rattled』形成让步对比\nC) barely 语义反向，破坏让步逻辑：barely 意为『几乎不』，『日子几乎没过去』不成话；且与 despite 之后『虽然…平稳，但我仍受惊』的逻辑反向。\nL) presumably 推测语气与亲历叙述冲突：presumably 表『大概、想必』，用于推测；作者亲身在校园，对自己后续的日子是亲历不是推测，语气不匹配。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "apparent"
+                },
+                {
+                  "key": "C",
+                  "text": "barely"
+                },
+                {
+                  "key": "D",
+                  "text": "dedication"
+                },
+                {
+                  "key": "E",
+                  "text": "escorted"
+                },
+                {
+                  "key": "F",
+                  "text": "froze"
+                },
+                {
+                  "key": "G",
+                  "text": "incredible"
+                },
+                {
+                  "key": "H",
+                  "text": "indignant"
+                },
+                {
+                  "key": "I",
+                  "text": "network"
+                },
+                {
+                  "key": "J",
+                  "text": "overriding"
+                },
+                {
+                  "key": "K",
+                  "text": "peacefully"
+                },
+                {
+                  "key": "L",
+                  "text": "presumably"
+                },
+                {
+                  "key": "M",
+                  "text": "stifled"
+                },
+                {
+                  "key": "N",
+                  "text": "struck"
+                },
+                {
+                  "key": "O",
+                  "text": "terrifying"
+                }
+              ],
+              "answer": "G",
+              "type": "选词填空",
+              "analysis": "【答案】G（官方答案）\n应填 G) incredible\n【原文】at incredible risk 强调难以置信的高风险\nH) indignant 对象错配：indignant 修饰人或情绪，an indignant risk 不成习惯搭配，语法上虽通但语义荒诞。\nJ) overriding 色彩偏向中性『首要』：overriding risk 偏向 commercial/legal 等正式语体里『首要风险』，多用于风险评估；与本句日常生活的弥散性恐惧的语感不符，更不如 incredible"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "apparent"
+                },
+                {
+                  "key": "C",
+                  "text": "barely"
+                },
+                {
+                  "key": "D",
+                  "text": "dedication"
+                },
+                {
+                  "key": "E",
+                  "text": "escorted"
+                },
+                {
+                  "key": "F",
+                  "text": "froze"
+                },
+                {
+                  "key": "G",
+                  "text": "incredible"
+                },
+                {
+                  "key": "H",
+                  "text": "indignant"
+                },
+                {
+                  "key": "I",
+                  "text": "network"
+                },
+                {
+                  "key": "J",
+                  "text": "overriding"
+                },
+                {
+                  "key": "K",
+                  "text": "peacefully"
+                },
+                {
+                  "key": "L",
+                  "text": "presumably"
+                },
+                {
+                  "key": "M",
+                  "text": "stifled"
+                },
+                {
+                  "key": "N",
+                  "text": "struck"
+                },
+                {
+                  "key": "O",
+                  "text": "terrifying"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) struck\n【原文】crisis struck again 是地道高频搭配\nE) escorted 及物且语义反向：escort 必须带人作宾语；且 crisis escorted 字面是『危机护送』，毫无意义。\nM) stifled 主语错位：stifle 是『压抑、扼制』，主语通常是人或机构（压抑某种东西），crisis stifled 反过来了，且 stifle 也需要宾语，本句缺。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "apparent"
+                },
+                {
+                  "key": "C",
+                  "text": "barely"
+                },
+                {
+                  "key": "D",
+                  "text": "dedication"
+                },
+                {
+                  "key": "E",
+                  "text": "escorted"
+                },
+                {
+                  "key": "F",
+                  "text": "froze"
+                },
+                {
+                  "key": "G",
+                  "text": "incredible"
+                },
+                {
+                  "key": "H",
+                  "text": "indignant"
+                },
+                {
+                  "key": "I",
+                  "text": "network"
+                },
+                {
+                  "key": "J",
+                  "text": "overriding"
+                },
+                {
+                  "key": "K",
+                  "text": "peacefully"
+                },
+                {
+                  "key": "L",
+                  "text": "presumably"
+                },
+                {
+                  "key": "M",
+                  "text": "stifled"
+                },
+                {
+                  "key": "N",
+                  "text": "struck"
+                },
+                {
+                  "key": "O",
+                  "text": "terrifying"
+                }
+              ],
+              "answer": "B",
+              "type": "选词填空",
+              "analysis": "【答案】B（官方答案）\n应填 B) apparent\n【原文】for no apparent reason 是固定搭配\nH) indignant 感情色彩错位：indignant 形容『义愤填膺的』，用于描述人或情绪，而非 reason；an indignant reason 不成搭配，逻辑上女子也并非出于义愤。\nJ) overriding 搭配相反：overriding reason 意为『压倒一切的理由』，是『有强烈理由』；与本句 no（没有）连用语义自相矛盾——无『压倒一切』的理由是把强调有理由的词放到了否定语境，明显别扭"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "apparent"
+                },
+                {
+                  "key": "C",
+                  "text": "barely"
+                },
+                {
+                  "key": "D",
+                  "text": "dedication"
+                },
+                {
+                  "key": "E",
+                  "text": "escorted"
+                },
+                {
+                  "key": "F",
+                  "text": "froze"
+                },
+                {
+                  "key": "G",
+                  "text": "incredible"
+                },
+                {
+                  "key": "H",
+                  "text": "indignant"
+                },
+                {
+                  "key": "I",
+                  "text": "network"
+                },
+                {
+                  "key": "J",
+                  "text": "overriding"
+                },
+                {
+                  "key": "K",
+                  "text": "peacefully"
+                },
+                {
+                  "key": "L",
+                  "text": "presumably"
+                },
+                {
+                  "key": "M",
+                  "text": "stifled"
+                },
+                {
+                  "key": "N",
+                  "text": "struck"
+                },
+                {
+                  "key": "O",
+                  "text": "terrifying"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) barely\n【原文】上文 It was so fast and confusing 已经为此空铺垫——动作迅猛、孩子来不及反应。barely cried 即『几乎没哭出声』，与『fast and confusing』因果连贯：还没反应过来，父亲就追上抢回了孩子。\nL) presumably 推测语气与亲历叙述冲突：presumably 表『大概』，是写作者对未亲见之事的推测；但作者一家亲历整段，包括孩子的反应，无须推测，语气错位。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "apparent"
+                },
+                {
+                  "key": "C",
+                  "text": "barely"
+                },
+                {
+                  "key": "D",
+                  "text": "dedication"
+                },
+                {
+                  "key": "E",
+                  "text": "escorted"
+                },
+                {
+                  "key": "F",
+                  "text": "froze"
+                },
+                {
+                  "key": "G",
+                  "text": "incredible"
+                },
+                {
+                  "key": "H",
+                  "text": "indignant"
+                },
+                {
+                  "key": "I",
+                  "text": "network"
+                },
+                {
+                  "key": "J",
+                  "text": "overriding"
+                },
+                {
+                  "key": "K",
+                  "text": "peacefully"
+                },
+                {
+                  "key": "L",
+                  "text": "presumably"
+                },
+                {
+                  "key": "M",
+                  "text": "stifled"
+                },
+                {
+                  "key": "N",
+                  "text": "struck"
+                },
+                {
+                  "key": "O",
+                  "text": "terrifying"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) network\n【原文】a network of homeless people 表『流浪者之间的人际网』\nD) dedication 搭配与单复数都不对：dedication of homeless people 不构成英语习惯搭配；且 dedication 表抽象品质，与定语从句『相互认识』的群体属性无关。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "access"
+                },
+                {
+                  "key": "B",
+                  "text": "apparent"
+                },
+                {
+                  "key": "C",
+                  "text": "barely"
+                },
+                {
+                  "key": "D",
+                  "text": "dedication"
+                },
+                {
+                  "key": "E",
+                  "text": "escorted"
+                },
+                {
+                  "key": "F",
+                  "text": "froze"
+                },
+                {
+                  "key": "G",
+                  "text": "incredible"
+                },
+                {
+                  "key": "H",
+                  "text": "indignant"
+                },
+                {
+                  "key": "I",
+                  "text": "network"
+                },
+                {
+                  "key": "J",
+                  "text": "overriding"
+                },
+                {
+                  "key": "K",
+                  "text": "peacefully"
+                },
+                {
+                  "key": "L",
+                  "text": "presumably"
+                },
+                {
+                  "key": "M",
+                  "text": "stifled"
+                },
+                {
+                  "key": "N",
+                  "text": "struck"
+                },
+                {
+                  "key": "O",
+                  "text": "terrifying"
+                }
+              ],
+              "answer": "O",
+              "type": "选词填空",
+              "analysis": "【答案】O（官方答案）\n应填 O) terrifying\n【原文】与 haunting 同色调、共同收束恐怖基调\nG) incredible 词义模糊，色彩不齐：incredible 表『难以置信』，可褒可贬；与 haunting 的负面色调虽不冲突但不够对位，而 incredible 已在 30 题作为更精准的『难以估量的风险』所需。\nH) indignant 对象错配：indignant 是『义愤的』，形容人或情绪，不修饰 episode（事件）。\nJ) overriding 语义不搭：overriding 是『压倒一切的、最重要的』，an overriding episode 不成英语；与 haunting 也不构成同色调对应。 WORD BANK · 词库分类\nA) access 名词 动词：（名）使用权、获取途径；（动）进入、访问 用于第 27 空"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Michael Wardian pushed forward into the penetrating arctic(北极的) wind, fighting the urge to speed up. Too much effort and he'd begin to sweat, which, he was told, would only increase the risk of hypothermia(体温过低)."
+            },
+            {
+              "label": "B",
+              "text": "At the 2014 North Pole Marathon, the temperature dipped to minus-22 degrees F, with a wind chill that made it feel even colder. Along the route, armed guards wandered the large sheets of floating ice to minimize the risk of polar bear attacks."
+            },
+            {
+              "label": "C",
+              "text": "\"I like to do stuff that scares me,\" Wardian said. With ice frozen to his beard, Wardian crossed the finish line that April afternoon in a winning time of 4 hours 7 minutes and 40 seconds, almost two hours slower than his personal best over 26.2 miles. The race for Wardian, however, was less about the result than overcoming his aversion to the cold."
+            },
+            {
+              "label": "D",
+              "text": "In a few days, Wardian will once again compete in an unfamiliar territory and below-freezing temperatures. He will line up Monday in Antarctica(南极) for the first leg of the World Marathon Challenge—joining 32 other adventure seekers on an unusual journey where participants travel through different time zones and climates to run seven marathons on seven continents in seven days."
+            },
+            {
+              "label": "E",
+              "text": "An elite ultra-runner, Wardian has his sights on breaking the event's record average marathon time of 3:32:25 set last January by U.S. Marine Corps captain Daniel Cartica. Wardian, a 42-year-old Arlington resident, is a record-breaking racer, known in the ultra-running community for seeking tough courses and setting world records. Last year, he ran 1,254.65 miles in 47 races. The World Marathon Challenge, like most of Wardian's running goals, will be about pushing his limits. \"I love diverse and unique challenges,\" he said. \"I'm definitely interested in seeing what I can handle and what my body can accept. That drives me.\""
+            },
+            {
+              "label": "F",
+              "text": "Something about the way Richard Donovan carried himself appealed to Wardian. Perhaps it was the sense of adventure Donovan displayed when they first met at the 2010 50K Championships in Galway, Ireland, where Donovan was the race director. The two hit it off, and soon Wardian was participating in Donovan's events. It was at the North Pole Marathon, a race that Donovan organizes, that Wardian first heard about the Irishman's plan for the World Marathon Challenge—a challenge that Donovan himself completed in 2009 and 2012. \"I knew that many people had a goal of running seven marathons on seven continents during any time period,\" Donovan, 50, said. \"I felt the natural extension to this idea would be to try to achieve it within a seven-day period.\""
+            },
+            {
+              "label": "G",
+              "text": "Wardian started saving for the trip in 2014, connecting with sponsors and getting approval from his wife, Jennifer, before committing. Registration for the event costs 36,000 euros, which covers international charter flights to each of the seven marathon locations: Union Glacier (Antarctica), Punta Arenas, Chile (South America), Miami (North America), Madrid (Europe), Marrakesh, Morocco (Africa), Dubai (Asia) and Sydney (Australia). The challenge is a test of both physical strength and mental fitness. Sleeping on a crammed plane, adjusting to different time zones and finding food to eat (Wardian is a vegetarian) would make it an exhausting trip over a month, let alone a week. \"The key to a race like this is getting comfortable being uncomfortable,\" said Becca Pizzi, last year's women's champion. \"The highs of the race are incredibly high, and the lows incredibly low.\""
+            },
+            {
+              "label": "H",
+              "text": "Since turning it into an organized event in 2015, Donovan has attracted a variety of runners. This year's challenge will feature a far more elite field, which includes Ryan Hall, America's fastest marathon runner. Despite his proven track record, Hall said he has no time goals and that he still suffers from the same fatigue issues that forced him to leave the professional ranks in 2015. Hall plans to run with his friend, Pastor Matthew Barnett of The Dream Center in Los Angeles—one of the six American men who will be competing. \"I don't expect to run a step with Mike, but I will be excited to see how he does,\" said the 34-year-old Hall, who began weight-lifting after retiring. \"If I finish within an hour of him in each marathon, I'd be surprised.\""
+            },
+            {
+              "label": "I",
+              "text": "Instead, 43-year-old Petr Vabrousek, an elite Czech Ironman champion, is expected to be Wardian's closest challenger. To others on the trip, simply finishing will be its own reward. Sinead Kane of Ireland is aiming to become the first blind person to complete the challenge. And Beth Ann Telford, a 47-year-old federal government worker from Fairfax and the only American female in this year's mix, is using the event as a platform to raise money for cancer research. It's a cause with a personal connection to Telford, who was diagnosed with brain cancer in 2004. \"Doing something like this is definitely the hardest challenge that I've ever done except for the chemotherapy and brain surgery,\" she said. \"It's going to raise awareness. …I just wanted to do something that is epic and this certainly is right up there.\" Wardian, too, hopes his involvement will give him a platform to promote a cause. He recently became an ambassador for the United Nations Women's HeForShe initiative to fight inequalities faced by women and girls worldwide."
+            },
+            {
+              "label": "J",
+              "text": "On a chilly December afternoon, Wardian wove through Washington's crowded sidewalks on the way home from his full-time job as an international ship broker. His elastic, 6-foot frame bounced gently and efficiently off the ground with each step of the hilly six-mile trip back to Arlington. This is a daily routine during the week for Wardian, who started racing professionally in 2003 and runs seven days a week, often multiple times a day. When he travels, he prefers to explore new places on his feet."
+            },
+            {
+              "label": "K",
+              "text": "But in some ways, Wardian still has trouble thinking of himself as a runner. For the majority of his childhood, Wardian devoted his energy to becoming a Division I lacrosse(长曲棍球) player-a dream he realized when he was recruited to play at Michigan State University. \"Once he decides to do something, he just works at it until he does it,\" Michael's younger sister, Mariele, said. \"Once he decides to do it, it's usually something that's going to happen. He's always been like that. He's a very motivated individual.\""
+            },
+            {
+              "label": "L",
+              "text": "It was only a year or so ago that Wardian realized that he had been a runner longer than a lacrosse player. It was not until he ran in the 2004 U.S. Olympic Marathon Trials-the first of three for Wardian-that he felt that he was a legitimate runner. Now more than 10 years and numerous ultra-marathon national titles and world records later, he embraces that identity. Wardian wants to see how far his legs can take him, one epic challenge at a time. \"I want to always keep doing things that are exciting, adventurous, different and most importantly, probably things I'm not the best at,\" Wardian said, \"because if you're not seeking things out that are challenging and difficult for you, then you're not growing … So I hope maybe people see what I do, and say, 'Okay, I want to do something different or try something new. … I'm going to do something that scares me.' That's what I'm hoping people will take from it.\""
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Wardian regards the various extraordinary challenges as a test of his physical endurance",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（弱锚点）\n【原文】I love diverse and unique challenges, he said. I'm definitely interested in seeing what I can handle and what my body can accept. That drives me.\nL段的核心是if you're not seeking things out that are challenging and difficult for you, then you're not growing——是「成长论」而非「身体耐力测试论」，话题相邻但命题方向不同。"
+            },
+            {
+              "number": 37,
+              "stem": "Wardian hopes his participation in the seven-day marathon series will contribute to a worthy cause.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（弱锚点）\n【原文】Wardian, too, hopes his involvement will give him a platform to promote a cause. He recently became an ambassador for the United Nations Women's HeForShe initiative to fight inequalities faced by women and girls worldwide.\nL段焦点是I hope maybe people see what I do, and say, Okay, I want to do something different or try something new——是个体激励层面，与陈述句要的「contribute to a worthy cause」（推动公益事业）不在同一命题上。"
+            },
+            {
+              "number": 38,
+              "stem": "Wardian is going to join over thirty other runners in a week-long marathon series.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】He will line up Monday in Antarctica for the first leg of the World Marathon Challenge—joining 32 other adventure seekers on an unusual journey where participants travel through different time zones and climates to run seven marathons on seven continents in seven days.\n他将于周一在南极站上世界马拉松挑战赛的第一段起点——与另外32位冒险者一同踏上这趟非凡之旅：参赛者们穿越不同时区与气候，在七天里跑完七大洲的七场马拉松。"
+            },
+            {
+              "number": 39,
+              "stem": "Over-exertion in extreme cold can lower one's body temperature to a dangerous point.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】Too much effort and he'd begin to sweat, which, he was told, would only increase the risk of hypothermia.\nC段关注的是Wardian通过比赛战胜his aversion to the cold，是心理层面，与陈述句的生理机理（用力—出汗—失温）不在同一维度。"
+            },
+            {
+              "number": 40,
+              "stem": "Wardian was very much impressed by a race director's sense of adventure.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（强锚点）\n【原文】Something about the way Richard Donovan carried himself appealed to Wardian. Perhaps it was the sense of adventure Donovan displayed when they first met at the 2010 50K Championships in Galway, Ireland, where Donovan was the race director.\nRichard Donovan的某种气质打动了Wardian。也许就是2010年爱尔兰Galway的50K锦标赛上、Donovan作为赛事总监出场时所展现的那种冒险精神。"
+            },
+            {
+              "number": 41,
+              "stem": "Once Wardian sets his mind on something, he is determined to make it happen.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】Once he decides to do something, he just works at it until he does it, Michael's younger sister, Mariele, said. Once he decides to do it, it's usually something that's going to happen.\nL段焦点是if you're not seeking things out that are challenging and difficult for you, then you're not growing——是成长哲学，与陈述句要的「下定决心就一定做成」是不同命题。"
+            },
+            {
+              "number": 42,
+              "stem": "One top American marathoner quit his running career because of his physical condition.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（强锚点）\n【原文】Despite his proven track record, Hall said he has no time goals and that he still suffers from the same fatigue issues that forced him to leave the professional ranks in 2015.\n尽管成绩斐然，Hall表示自己不设时间目标，并且仍在承受当年迫使他在2015年退出职业赛场的那种疲劳问题。"
+            },
+            {
+              "number": 43,
+              "stem": "To many of the week-long marathon participants, completing the race will be a success in itself.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（弱锚点）\n【原文】To others on the trip, simply finishing will be its own reward.\nG段焦点在getting comfortable being uncomfortable——讲完赛过程中要承受不适，而非「完赛本身就是成功」。"
+            },
+            {
+              "number": 44,
+              "stem": "For Wardian, the marathon in the Arctic was more about how to triumph over the extreme cold.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】The race for Wardian, however, was less about the result than overcoming his aversion to the cold.\nB段焦点在外部环境（温度、风寒、北极熊），不涉Wardian的赛事意义；陈述句的how to triumph over the extreme cold需要主体（Wardian）和对抗动作，B段没有。"
+            },
+            {
+              "number": 45,
+              "stem": "To participate in the seven-day marathon series, Wardian had to raise a lot of money and have his wife's support.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】Wardian started saving for the trip in 2014, connecting with sponsors and getting approval from his wife, Jennifer, before committing.\n2022年12月英语六级真题第1套 长篇阅读（信息匹配） 第 1 篇 40. Wardian was very much impressed by a race director's sense of adventure. 这句陈述的信息出自第几段？为什么？ 2022年12月英语六级真题第1套 长篇阅读（信息匹配） 第 1 篇 第 40 句的信息出自 F 段（强锚点句）。F 段定位句为「Something about the way Richard Donovan carried himself appealed to Wardian. Perhaps it was the sense of adventure Donovan displayed when they first met at the 2010 50K Championships in Galway, Ireland, where Donovan was the race director.」（Richard Donovan的某种气质打动了Wardian。也许就是2010年爱尔兰Galway的50K锦标赛上、Donovan作为赛事总监出场时所展现的那种冒险精神。）。陈述句是对原文的同义改写（was very much impressed by ↔ Something about the way Richard Donovan carried himself appealed to Wardian；a race director's sense of adventure ↔ the sense of adventure Donovan displayed when they first met at the 2010 50K Championships in Galway, Ireland, where Donovan was the race director）。与之话题相邻的 K 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Many people associate their self-worth with their work. The more successful their career, the better they feel about themselves. Work-related self-esteem is therefore a worthy ideal to pursue with vigor, right? Well, not always. According to recent research, in which psychologists interviewed 370 full-time workers over a period of three weeks, the reality is a little more complicated. And it involves negative as well as positive consequences."
+            },
+            {
+              "label": "B",
+              "text": "It's natural to be drawn towards pleasure and to step away from pain. In the workplace, if that pleasure comes from a triumph which swells our self-respect, people will try to repeat the accomplishment. But repeating that accomplishment is often not realistic, which can lead to severe negative emotional consequences when it doesn't reoccur. This form of motivation is widely regarded as a negative type of motivation. It can hinder other more positive motivation types, such as completing a task purely because it's fulfilling or enjoyable."
+            },
+            {
+              "label": "C",
+              "text": "What consumes the employee instead is a pressing need to feel mighty and sure of themselves. They then take on only tasks and objectives which serve that ego-driven need. As a result, to avoid feelings of shame and worthlessness associated with failure, they extend themselves to such a degree that there's a subsequent adverse effect on their well-being. This internal pressure to succeed at all costs demands a lot of effort. It depletes their energy, culminating in disproportionate levels of damaging sentiment."
+            },
+            {
+              "label": "D",
+              "text": "Those negative emotions mount into heightened anxiety, impacting their ability to make the most of their personal life. Their desire to avoid feeling inferior ends up making them feel inferior when it comes to their diminished capacity for friendship and leisure. They end up dissatisfied both at work and outside of it."
+            },
+            {
+              "label": "E",
+              "text": "But thankfully, for those people compelled almost entirely by this specific form of motivation, the news isn't all bad, or bad at all. The study also discovered several positive outcomes that can actually outweigh the harmful ones. Though these types of employees are motivated by the desire to avoid negative consequences, they are also motivated by the excitement of pursuing emotional rewards. This excitement makes pursuing goals enjoyable and stimulates pleasure and pride that would result from success. An effect of the positive motivation is that it neutralizes the existence of negative motivation."
+            },
+            {
+              "label": "F",
+              "text": "Sure, it affects people's personal lives to what could be deemed an unhealthy extent, because leisure activities are often seen as a part of life that must be sacrificed to manage work and family demands. However, the way people feel about their work has less to do with whether they're motivated by the preservation of self-esteem but more with the fact that they're simply motivated."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author say about the pursuit of work-related self-esteem?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It may result in negative motivation."
+                },
+                {
+                  "key": "B",
+                  "text": "It contributes to one's accomplishments."
+                },
+                {
+                  "key": "C",
+                  "text": "It can increase one's vigor as one keeps trying."
+                },
+                {
+                  "key": "D",
+                  "text": "It costs too much emotionally and psychologically."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Work-related self-esteem is therefore a worthy ideal to pursue with vigor, right? Well, not always. According to recent research, in which psychologists interviewed 370 full-time workers over a period of three weeks, the reality is a little more complicated. And it involves negative as well as positive consequences.\nA) ✓ 正确：involves negative as well as positive consequences ↔ It may result in negative motivation \nB) 与原文相反：It contributes to one's accomplishments 把 a worthy ideal to pursue with vigor 当成作者真实观点，但作者\nC) 偷换概念：It can increase one's vigor as one keeps trying 把原文中描述追求方式的 with vigor 改造成追求会增加 vigor，混淆 v\nD) 过度推断：It costs too much emotionally and psychologically 给出 too much 的程度判断，但首段仅说 involves negativ"
+            },
+            {
+              "number": 47,
+              "stem": "What do employees tend to do in pursuing work-related self-esteem?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Take on tasks well beyond their actual capabilities."
+                },
+                {
+                  "key": "B",
+                  "text": "Strive to succeed at the expense of their well-being."
+                },
+                {
+                  "key": "C",
+                  "text": "Resort to all means regardless of the consequences."
+                },
+                {
+                  "key": "D",
+                  "text": "Exaggerate their sense of shame and worthlessness."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】As a result, to avoid feelings of shame and worthlessness associated with failure, they extend themselves to such a degree that there's a subsequent adverse effect on their well-being.\nA) 过度推断：Take on tasks well beyond their actual capabilities 把 to such a degree that there's a subs\nB) ✓ 正确：they extend themselves to such a degree that there's a subsequent adverse effect on their \nC) 与原文相反：Resort to all means regardless of the consequences 说他们不顾后果，但原文 to avoid feelings of shame \nD) 与原文相反：Exaggerate their sense of shame and worthlessness 把 to avoid feelings of shame and worthle"
+            },
+            {
+              "number": 48,
+              "stem": "What do we learn about people over-concerned with work-related self-esteem?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They may often feel inferior to their colleagues."
+                },
+                {
+                  "key": "B",
+                  "text": "They cannot enjoy their personal life to the full."
+                },
+                {
+                  "key": "C",
+                  "text": "They are never satisfied with their achievements."
+                },
+                {
+                  "key": "D",
+                  "text": "They have their own view of friendship and leisure."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Those negative emotions mount into heightened anxiety, impacting their ability to make the most of their personal life. Their desire to avoid feeling inferior ends up making them feel inferior when it comes to their diminished capacity for friendship and leisure.\nA) 偷换概念：They may often feel inferior to their colleagues 把原文 feel inferior 的对照对象改成 colleagues，但原文比\nB) ✓ 正确：impacting their ability to make the most of their personal life ↔ They cannot enjoy their \nC) 过度推断：They are never satisfied with their achievements 用 never 加 with their achievements 描述成就维度的\nD) 无中生有：They have their own view of friendship and leisure 借 friendship and leisure 词面做诱饵，但原文只说他们对"
+            },
+            {
+              "number": 49,
+              "stem": "What is the good news we learn from the recent research?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The pursuit of goals may turn out to be enjoyable and pleasant."
+                },
+                {
+                  "key": "B",
+                  "text": "The emotional rewards from goal pursuit are worth the pains taken."
+                },
+                {
+                  "key": "C",
+                  "text": "The negative consequences of goal pursuit can mostly be avoided."
+                },
+                {
+                  "key": "D",
+                  "text": "The goal of swelling self-esteem can be achieved if one keeps trying."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Though these types of employees are motivated by the desire to avoid negative consequences, they are also motivated by the excitement of pursuing emotional rewards. This excitement makes pursuing goals enjoyable and stimulates pleasure and pride that would result from success.\nA) ✓ 正确：This excitement makes pursuing goals enjoyable and stimulates pleasure and pride ↔ The pur\nB) 无中生有：The emotional rewards from goal pursuit are worth the pains taken 引入代价对价值的权衡关系，但原文 An effe\nC) 过度推断：The negative consequences of goal pursuit can mostly be avoided 把 neutralizes the existenc\nD) 与原文相反：The goal of swelling self-esteem can be achieved if one keeps trying 与 repeating that acco"
+            },
+            {
+              "number": 50,
+              "stem": "What can we infer from the last paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Workers have to make sacrifices to preserve self-esteem."
+                },
+                {
+                  "key": "B",
+                  "text": "Self-esteem swells when workers are strongly motivated."
+                },
+                {
+                  "key": "C",
+                  "text": "Pursuit of goals affects people's personal lives to an unhealthy extent."
+                },
+                {
+                  "key": "D",
+                  "text": "People feel positive about their work as long as they are motivated."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（推断题）\n【原文】However, the way people feel about their work has less to do with whether they're motivated by the preservation of self-esteem but more with the fact that they're simply motivated.\nA) 偷换概念：Workers have to make sacrifices to preserve self-esteem 把 leisure activities are often see\nB) 与原文相反：Self-esteem swells when workers are strongly motivated 把因果说成动机强则自尊膨胀，但原文 has less to do wi\nC) 以偏概全：Pursuit of goals affects people's personal lives to an unhealthy extent 把 Sure, it affects\nD) ✓ 正确：the way people feel about their work has less to do with whether they're motivated by the "
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Degradation of the world's natural resources by humans is rapidly outpacing the planet's ability to absorb the damage, a recent UN environmental study has found. The study concludes that without radical action the level of prosperity that millions of people in the developed world count on will be impossible to maintain or extend to poorer countries."
+            },
+            {
+              "label": "B",
+              "text": "Water scarcity is the curse of some of the poorest regions on Earth, leaving developing countries increasingly unable to feed themselves, and causing hardship for millions of people. There appears little prospect of this desperate situation being remedied without radical action being taken. Water resources are under increasing threat from population growth, climate change, rapid urbanization, rising levels of consumption, and the degradation of lands that previously provided a natural replenishment(补充) of water resources."
+            },
+            {
+              "label": "C",
+              "text": "The rate of damage to the natural environment was found to increase globally, despite concerted efforts to persuade government to take measures to improve the condition. \"If current trends continue, and the world fails to improve patterns of production and consumption, then the state of the world's environment will continue to decline,\" warned UN executive director Achim Steiner."
+            },
+            {
+              "label": "D",
+              "text": "He said the tools for improving the environment for millions of people existed in developed countries, but were in danger of not being used."
+            },
+            {
+              "label": "E",
+              "text": "The study found that basic measures to tackle some of the key causes of environmental damage were still not being taken. These included measures to reduce air pollution; to control the damage to marine ecosystems, which can have a huge effect on fish stocks on which hundreds of millions of people depend; and to curb the degradation of land where modern agricultural methods were pursued without regard to the longer-term consequences."
+            },
+            {
+              "label": "F",
+              "text": "Despite the recent global agreement on cutting greenhouse gas emissions, global carbon output continues to rise. This will put a long-term strain on the ability of developing economies to feed their own people. Climate change is aggravated by the emissions of greenhouse gases from chemical and natural fertilisers used in agriculture which increased by more than a quarter between 2000 and 2010. Other problem areas identified in the report included glaciers, which provide vital water resources for millions of people, but which are shrinking as the climate warms."
+            },
+            {
+              "label": "G",
+              "text": "In rich countries, these problems have built up over decades and centuries while economic growth was pursued at the expense of the environment. Subsequent efforts to remedy the environment have met with partial success. But in developing countries, the path of future development has more potential to change, which has encouraged international institutions to devise more sustainable growth pathways that are supposed both to alleviate poverty and preserve the environment."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What is the major finding of the UN environmental study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Human activity has rendered Mother Earth almost uninhabitable."
+                },
+                {
+                  "key": "B",
+                  "text": "Humans are doing more damage to the earth than it can cope with."
+                },
+                {
+                  "key": "C",
+                  "text": "Environmental problems have considerably weakened human prosperity."
+                },
+                {
+                  "key": "D",
+                  "text": "Environmental damage is more serious in developed countries these days."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（主旨题）\nA) 无中生有：Mother Earth almost uninhabitable 说地球\"几乎不宜居住\"，原文只说破坏速度超过吸收能力，并未提到地球已濒临不宜居住的程度。\nB) ✓ 正确：Degradation of the world's natural resources by humans is rapidly outpacing the planet's a\nC) 偷换概念：原文意思是\"破坏超过吸收能力会使富国当前繁荣不可维持\"——是\"环境破坏会损害繁荣\"的预言；Environmental problems have considerably weak\nD) 无中生有：Environmental damage is more serious in developed countries these days 断言发达国家环境破坏更严重，原文从未做"
+            },
+            {
+              "number": 52,
+              "stem": "What is said about water scarcity in some of the poorest regions?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is getting so serious that there is little hope of solution."
+                },
+                {
+                  "key": "B",
+                  "text": "It largely accounts for their slow economic development."
+                },
+                {
+                  "key": "C",
+                  "text": "It can hardly be relieved if no drastic measures are taken."
+                },
+                {
+                  "key": "D",
+                  "text": "It is primarily caused by the acceleration of climate change."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】There appears little prospect of this desperate situation being remedied without radical action being taken.\nA) 过度推断：原文是\"不激进行动则无望\"——前提是\"如果不采取\"，there is little hope of solution 把条件去掉、直接断言\"几乎无解\"，把有条件的判断推为无条件结论\nB) 张冠李戴：原文只说水资源短缺让发展中国家 increasingly unable to feed themselves, and causing hardship for millions \nC) ✓ 正确：There appears little prospect of this desperate situation being remedied without radical a\nD) 以偏概全：原文罗列了 population growth, climate change, rapid urbanization, rising levels of consumption,"
+            },
+            {
+              "number": 53,
+              "stem": "What does Achim Steiner say about the environmental condition?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It will deteriorate worldwide."
+                },
+                {
+                  "key": "B",
+                  "text": "It is attracting global attention."
+                },
+                {
+                  "key": "C",
+                  "text": "It is being slowly remedied globally."
+                },
+                {
+                  "key": "D",
+                  "text": "It will shrink the world's population."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】If current trends continue, and the world fails to improve patterns of production and consumption, then the state of the world's environment will continue to decline.\nA) ✓ 正确：the state of the world's environment will continue to decline ↔ It will deteriorate worldw\nB) 无中生有：It is attracting global attention 说环境正吸引全球关注，原文 Steiner 引语只谈\"将继续恶化\"，未提全球对它的关注度。\nC) 与原文相反：It is being slowly remedied globally 说环境正在被缓慢修复，与原文 the rate of damage to the natural envi\nD) 无中生有：It will shrink the world's population 说环境状况会缩减世界人口，原文 Steiner 引语只字未提人口收缩。"
+            },
+            {
+              "number": 54,
+              "stem": "What is the dilemma developing countries face?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They cannot modernise farming without causing land degradation."
+                },
+                {
+                  "key": "B",
+                  "text": "They cannot promote industrialisation without polluting waterways."
+                },
+                {
+                  "key": "C",
+                  "text": "They cannot boost crop yields without causing greenhouse gas emissions."
+                },
+                {
+                  "key": "D",
+                  "text": "They cannot catch up with rich countries without sacrificing the environment."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】This will put a long-term strain on the ability of developing economies to feed their own people. Climate change is aggravated by the emissions of greenhouse gases from chemical and natural fertilisers used in agriculture which increased by more than a quarter between 2000 and 2010.\nA) 张冠李戴：cannot modernise farming without causing land degradation 是\"现代化农业导致土地退化\"，原文第 5 段才提 curb th\nB) 无中生有：cannot promote industrialisation without polluting waterways 说\"工业化必然污染水道\"，原文未谈发展中国家工业化的两难，\nC) ✓ 正确：This will put a long-term strain on the ability of developing economies to feed their own \nD) 偷换概念：cannot catch up with rich countries without sacrificing the environment 说\"追赶富国必牺牲环境\"，这是 P7"
+            },
+            {
+              "number": 55,
+              "stem": "What should developing countries do in their future development according to the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They turn to developed countries for the assistance they need."
+                },
+                {
+                  "key": "B",
+                  "text": "They remedy environmental damage by slowing economic growth."
+                },
+                {
+                  "key": "C",
+                  "text": "They avoid damaging interference from international institutions."
+                },
+                {
+                  "key": "D",
+                  "text": "They improve people's livelihood without harming the environment."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】But in developing countries, the path of future development has more potential to change, which has encouraged international institutions to devise more sustainable growth pathways that are supposed both to alleviate poverty and preserve the environment.\nA) 无中生有：turn to developed countries for the assistance they need 说\"向发达国家求援\"，原文 P7 只说国际机构\"设计了可持续路径\"\nB) 与原文相反：remedy environmental damage by slowing economic growth 说\"靠放缓经济增长来修补环境\"，但原文 P7 提的 sustainab\nC) 与原文相反：avoid damaging interference from international institutions 说\"避开国际机构的破坏性干预\"，但原文 P7 has enc\nD) ✓ 正确：alleviate poverty ↔ improve people's livelihood preserve the environment ↔ without harming"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n青藏高原(the Qinghai-Tibet Plateau)位于中国西南部，面积约230万平方公里，平均海拔4000米以上，被称为\"世界屋脊\"。青藏高原自然资源丰富，风景秀丽，拥有多种珍稀野生动物。 青藏高原气温很低，形成了大面积高山冰川。这里是亚洲许多著名河流的源头，是中国和东南亚的主要淡水供应源。青藏高原对全球生态系统至关重要。 由于气候变化的影响，青藏高原的冰川正在加速融化。中国一直在努力保护青藏高原的生态系统，草地覆盖率不断增加，许多濒危物种得到更为有效的保护。",
+              "analysis": "【参考译文】\nLocated in the southwest of China, the Qinghai-Tibet Plateau, with an area of about 2.3 million square kilometers and an average altitude of over 4,000 meters, is known as \"the Roof of the World\". It is rich in natural resources, boasts beautiful scenery, and is home to various rare wild animals. Due to its low temperatures, the plateau has formed large areas of alpine glaciers. It is the source of many famous rivers in Asia and a major freshwater supply for China and Southeast Asia. It is vital to the global ecosystem. Due to climate change, the glaciers on the plateau are melting at an accelerating rate. China has been making efforts to protect the ecosystem of the plateau, with grassland coverage steadily increasing and many endangered species being more effectively protected."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/",
+    "fetchedAt": "2026-11-15",
+    "passages": 7,
+    "sentences": 47
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2022-12-1/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

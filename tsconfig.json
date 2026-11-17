@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
     "target": "ES2017",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -19,9 +23,34 @@
       }
     ],
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": [
+        "./src/*"
+      ]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
-  "exclude": ["node_modules", "prisma"]
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".next-build-mwhu0yw0/types/**/*.ts",
+    ".next-build-mwhucgjo/types/**/*.ts",
+    ".next-build-mwhugbfm/types/**/*.ts",
+    ".next-build-mwhurw60/types/**/*.ts",
+    ".next-build-mwhv3bm2/types/**/*.ts",
+    ".next-build-mwhvaybp/types/**/*.ts",
+    ".next-build-mwhveta0/types/**/*.ts",
+    ".next-build-mwhvklo7/types/**/*.ts",
+    ".next-build-mwhvwf5k/types/**/*.ts",
+    ".next-build-mwhw05ct/types/**/*.ts",
+    ".next-build-mwhw22r8/types/**/*.ts",
+    ".next-build-mwhw408e/types/**/*.ts",
+    ".next-build-mwhx8isl/types/**/*.ts",
+    ".next-build-mwhxcdlf/types/**/*.ts",
+    ".next/types/**/*.ts",
+    "next-env.d.ts",
+    ".next-build-mwhxw2mw/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "prisma"
+  ]
 }

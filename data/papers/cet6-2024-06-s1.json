@@ -1,0 +1,2633 @@
+{
+  "id": "cet6-2024-06-s1",
+  "level": "CET6",
+  "year": 2024,
+  "month": 6,
+  "setNo": 1,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “ Nowadays, cultivating independent learning ability is becoming increasingly crucial for personal development. ” You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. ( You should copy the sentence given in quotes at the beginning of your essay. )",
+              "analysis": "【参考范文】\nNowadays, cultivating independent learning ability is becoming increasingly crucial for personal development. As knowledge updates at an unprecedented pace, the skills we master at school can no longer carry us through an entire career, which makes the capacity to learn on our own a decisive advantage.\n\nTo begin with, self-directed learning keeps us competitive. Those who can teach themselves new tools quickly adapt to changing workplaces, while those who wait to be taught inevitably fall behind. Take my own experience: when our university suddenly shifted to online courses, I taught myself data analysis through free tutorials, and that skill later helped me stand out in an internship. Moreover, lifelong learning nurtures independent thinking, enabling us to judge information critically rather than swallow it blindly.\n\nIn conclusion, independent learning is far more than an academic skill; it is a lifelong engine that drives personal growth. Therefore, we should consciously develop this ability and treat every day as a chance to learn."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "听力为历年真题原文，题目与答案为官方标准答案；在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 4.6,
+              "text": "W: Thank you for meeting with me, Stephen, at such short notice.",
+              "zh": "W: 谢谢你在这么短的时间内抽空见我，Stephen。"
+            },
+            {
+              "id": 2,
+              "start": 4.9,
+              "end": 12.3,
+              "text": "M: Not a problem, Margaret. Now, please give me some good news. Have you agreed to my last proposal?",
+              "zh": "M: 没问题，Margaret。现在，请告诉我一些好消息。你同意我上次的提议了吗？"
+            },
+            {
+              "id": 3,
+              "start": 12.7,
+              "end": 20.7,
+              "text": "W: I have, indeed. And I wish to sign the agreement pending one small change to be made to the contract.",
+              "zh": "W: 确实同意了。我希望签署协议，前提是对合同做一处小改动。"
+            },
+            {
+              "id": 4,
+              "start": 21.1,
+              "end": 38.7,
+              "text": "M: Margaret, we've been through this for almost a year now, back and forth, making alterations. Are you sure you want to make a sponsorship deal for your clients, or not? I ask this, because, frankly, some people at my end are running out of patience.",
+              "zh": "M: Margaret，我们为这件事来回磋商、不断修改，已经快一年了。你到底确定要为你的客户达成一项赞助协议，还是不想？我之所以这样问，是因为坦率地说，我这边有些人已经快失去耐心了。"
+            },
+            {
+              "id": 5,
+              "start": 39.1,
+              "end": 54.8,
+              "text": "W: I understand your concerns. But as I'm sure you understand, we hold our clients' best interests to be of the utmost concern. We therefore comb through the fine details of all contracts, rest assured, we all appreciate your firm's patience.",
+              "zh": "W: 我理解你的担忧。不过，我相信你也明白，我们最关心的是客户的最大利益。因此，我们会仔细审阅所有合同的细节，请放心，我们都很感谢贵公司的耐心。"
+            },
+            {
+              "id": 6,
+              "start": 55.1,
+              "end": 59.4,
+              "text": "M: OK, fine. So what change do you wish to make?",
+              "zh": "M: 好吧，没问题。那么你想做什么改动？"
+            },
+            {
+              "id": 7,
+              "start": 59.8,
+              "end": 65.5,
+              "text": "W: Essentially, we would like the new deal to exclude the Middle East. That's all.",
+              "zh": "W: 基本上，我们希望新协议不包括中东地区。就这些。"
+            },
+            {
+              "id": 8,
+              "start": 65.8,
+              "end": 67.8,
+              "text": "M: The Middle East? Why?",
+              "zh": "M: 中东地区？为什么？"
+            },
+            {
+              "id": 9,
+              "start": 68.1,
+              "end": 88.5,
+              "text": "W: My client has a couple of other prospective marketing deals from companies in the Middle East. Those offers, should they materialize, would exclusively employ my client's image in the Middle East only. Therefore, in order to avoid any conflict, we would need to ensure that both marketing campaigns do not overlap geographically.",
+              "zh": "W: 我的客户还收到几家中东公司的其他潜在营销合作邀约。如果这些邀约最终落实，对方将只在中东地区使用我客户的形象。因此，为了避免任何冲突，我们需要确保这两项营销活动在地域上不会重叠。"
+            },
+            {
+              "id": 10,
+              "start": 88.8,
+              "end": 93.8,
+              "text": "M: What business sector in the Middle East are we talking about here?",
+              "zh": "M: 你说的中东业务具体属于哪个行业？"
+            },
+            {
+              "id": 11,
+              "start": 94.1,
+              "end": 95.5,
+              "text": "W: Real estate.",
+              "zh": "W: 房地产。"
+            },
+            {
+              "id": 12,
+              "start": 95.8,
+              "end": 120.8,
+              "text": "M: Well, that should be okay then. So long as the product is very different from our food and beverage market, there should be no conflict of interest. Nevertheless, I will have to run this through my people. I don't foresee any problem, though. The Middle East is a negligible market for us, but I still need to check this with a couple of departments.",
+              "zh": "M: 那应该没问题。只要产品与我们的食品和饮料市场有很大不同，就不应存在利益冲突。不过，我还是得把这件事拿去和我的团队确认一下。但我预计不会有什么问题。中东对我们来说是个微不足道的市场，不过我仍然需要和几个部门核实一下。"
+            }
+          ],
+          "audioDuration": 120.8,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What does the woman say she will do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Reply to the man's last proposal within a short time."
+                },
+                {
+                  "key": "B",
+                  "text": "Sign the agreement if one small change is made to it."
+                },
+                {
+                  "key": "C",
+                  "text": "Make a sponsorship deal for her client at the meeting."
+                },
+                {
+                  "key": "D",
+                  "text": "Give the man some good news regarding the contract."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：W: I have, indeed. And I wish to sign the agreement pending one small change to be made to the contract.信号：被问者的直接应答 + I wish to 表态 。上一句男方问 Have you agreed to my last proposal?，女方紧接着应答 I have, indeed. And I wish to s…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 借了男方话里的 my last proposal 拼成 Reply to the man's last proposal within a short time.，可她在 I have, indeed 里已经回复并表态要签，根本没说 \"短时间内回复\"，within a short time 是凭空加的。 借用原文：Are you sure you want to make a sponsorship deal for your clients",
+                "C": "张冠李戴：C 的 Make a sponsorship deal for her client at the meeting. 用了录音里的 make a sponsorship deal for your clients，但那是男方反问 \"你到底要不要做这笔交易\"，并非女方此刻 \"我要做什么\" 的回答；本题问的是她当下表态，答案是签约。 借用原文：please give me some good news",
+                "D": "原词陷阱：D 的 Give the man some good news regarding the contract. 盗了男方那句 please give me some good news，那是男方的请求 / 期待，女方并没说 \"我要给你好消息\"，她说的是愿意签约。",
+                "B": "正确项：与答案句同义替换（I wish to sign the agreement ↔ Sign the agreement I wish to do = 表示要做该动作）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "W: I have, indeed. And I wish to sign the agreement pending one small change to be made to the contract.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What does the man say about some people he represents?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are becoming impatient."
+                },
+                {
+                  "key": "B",
+                  "text": "They are afraid time is running out."
+                },
+                {
+                  "key": "C",
+                  "text": "They are used to making alterations."
+                },
+                {
+                  "key": "D",
+                  "text": "They are concerned about the details."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P4）：M: I ask this, because, frankly, some people at my end are running out of patience.信号：因果 because 后给出他对己方人员的真实描述 。他用 because, frankly, some people at my end are running out of patience，because 引出…",
+              "optionAnalysis": {
+                "B": "原词陷阱：B 的 time is running out 盗用了录音 running out of patience 里的 running out，却把宾语偷换成 time。录音里耗尽的是耐心，不是时间，B 在 running out 后面动了手脚。 借用原文：we've been through this for almost a year now, back and forth, making alterations",
+                "C": "答非所问：C 的 used to making alterations 取自录音 making alterations，但那是男方说双方 \"这一年来回改来改去\" 的背景，不是在描述 \"我方那些人现在什么状态\"，答非所问。 借用原文：We therefore comb through the fine details of all contracts",
+                "D": "张冠李戴：D 的 concerned about the details 实际对应女方后面说的 We therefore comb through the fine details of all contracts，那是女方一边推敲细节，与男方所说 \"我那边的人没耐心\" 是两拨人、两回事。",
+                "A": "正确项：与答案句同义替换（running out of patience ↔ becoming impatient running out of patience = impatient，同义改写）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "M: I ask this, because, frankly, some people at my end are running out of patience.",
+              "type": "细节题"
+            },
+            {
+              "number": 3,
+              "stem": "What reason does the woman give for the new deal to exclude the Middle East?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To prevent geographical discrimination."
+                },
+                {
+                  "key": "B",
+                  "text": "To tap the food and beverage market."
+                },
+                {
+                  "key": "C",
+                  "text": "To avoid any conflict of interest."
+                },
+                {
+                  "key": "D",
+                  "text": "To reduce unfair competition."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P9）：W: Therefore, in order to avoid any conflict, we would need to ensure that both marketing campaigns do not overlap geographically.信号：in order to / therefore 双因果信号引出真目的 。她先讲客户在中东另有营销意向，再用 Therefore, in order to avoid any conflict, we would ne…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 的 To prevent geographical discrimination. 蹭了录音 overlap geographically 里的 geographically，造出 \"地域歧视\"。原文讲的是两个营销活动地域别重叠，与 \"歧视\" 毫不相干，是借词造假。 借用原文：So long as the product is very different from our food and beverage market",
+                "B": "答非所问：B 的 To tap the food and beverage market. 用了录音 our food and beverage market，但那是男方在第12段说自家所属行业，与女方排除中东的理由无关；她的理由是避免冲突，不是去开发某市场。",
+                "D": "未提及：D 的 To reduce unfair competition. 听着像商务套话，但录音通篇没说要减少不公平竞争，她讲的是避免客户形象在同一地域撞车的利益冲突，competition 一词原文压根没出现。",
+                "C": "正确项：与答案句同义替换（in order to avoid any conflict ↔ To avoid any conflict of interest. avoid any conflict 与选项几乎原义对应）"
+              },
+              "evidencePara": "P9",
+              "evidenceText": "W: Therefore, in order to avoid any conflict, we would need to ensure that both marketing campaigns do not overlap geographically.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What does the man say about the Middle East?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is a potential market for food and beverage."
+                },
+                {
+                  "key": "B",
+                  "text": "It is very attractive for real estate developers."
+                },
+                {
+                  "key": "C",
+                  "text": "It is a negligible market for his company."
+                },
+                {
+                  "key": "D",
+                  "text": "It is very different from other markets."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P12）：M: The Middle East is a negligible market for us, but I still need to check this with a couple of departments.信号：他对中东的直接评价句 + 形容词 negligible 。他直说 The Middle East is a negligible market for us，主系表结构直接给出评价形容词 negligible，是对中…",
+              "optionAnalysis": {
+                "A": "与原文相反：A 的 It is a potential market for food and beverage. 把中东说成 \"有潜力\"，与他原话 a negligible market（可忽略）正好相反；food and beverage 又是蹭了他讲己方行业的熟词，双重误导。 借用原文：Real estate",
+                "B": "张冠李戴：B 的 It is very attractive for real estate developers. 借了女方说的中东 Real estate，但那是女方客户在中东另有房地产营销意向，并非男方对中东市场的评价，张冠李戴。 借用原文：So long as the product is very different from our food and beverage market",
+                "D": "偷换概念：D 的 It is very different from other markets. 盗用了 the product is very different from our food and beverage market 里的 very different，但原文说的是 \"产品\" 与食饮市场不同，不是说 \"中东市场\" 与别的市场不同，主语被偷换。",
+                "C": "正确项：与答案句同义替换（a negligible market for us ↔ a negligible market for his company for us = for his company，几乎原义）"
+              },
+              "evidencePara": "P12",
+              "evidenceText": "M: The Middle East is a negligible market for us, but I still need to check this with a couple of departments.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 8.8,
+              "text": "M: Next, we have a special science-related news story. Paula Hancocks at the Denver Observatory. Paula, what is the big story over there?",
+              "zh": "M：接下来是一则特别的科学新闻报道。丹佛天文台的 Paula Hancocks，Paula，那边有什么重大新闻？"
+            },
+            {
+              "id": 2,
+              "start": 9.2,
+              "end": 24.5,
+              "text": "W: Hi, John. Yes, all the astronomers on site here are very excited. In fact, space enthusiasts all across North America and the rest of the Northern Hemisphere will be congregating on mountain tops tonight to watch the night's sky.",
+              "zh": "W：你好，John。是的，这里的所有天文学家都非常兴奋。事实上，整个北美以及北半球其他地区的太空爱好者今晚都会聚集到山顶，观看夜空。"
+            },
+            {
+              "id": 3,
+              "start": 24.9,
+              "end": 29.5,
+              "text": "M: Why? What's the big event? Is there an eclipse happening soon?",
+              "zh": "M：为什么？有什么重大事件？很快要发生日食了吗？"
+            },
+            {
+              "id": 4,
+              "start": 29.9,
+              "end": 50.2,
+              "text": "W: Tonight, the Earth will come into close proximity with the Oppenheimer comet. It is the closest our planet has been to such a phenomenon in over 100 years. For this reason, it is expected that thousands of people will gaze up at the sky tonight in order to see this formidable object.",
+              "zh": "W：今晚，地球将与 Oppenheimer 彗星近距离接近。这是100多年来我们的星球距离此类现象最近的一次。因此，预计今晚会有数千人仰望天空，观看这个令人震撼的天体。"
+            },
+            {
+              "id": 5,
+              "start": 50.6,
+              "end": 57.5,
+              "text": "M: How far away is this comet? Will people be able to see it with the naked eye?",
+              "zh": "M：这颗彗星距离我们有多远？人们用肉眼能看到它吗？"
+            },
+            {
+              "id": 6,
+              "start": 57.9,
+              "end": 85.9,
+              "text": "W: The Oppenheimer comet will still be millions of miles away, on the edge of our galaxy. But nevertheless, this is a relatively close distance, close enough for people to observe in good detail through a telescope. People will only see a blur without one. However, that does not mean one needs professional equipment. Even the most ordinary of telescopes should be conducive for people to observe and wonder at this flying object.",
+              "zh": "W：Oppenheimer 彗星仍会位于数百万英里之外，在我们银河系的边缘。不过，这仍然算是相对较近的距离，近到人们可以通过望远镜清楚地观测它。没有望远镜的话，人们只能看到一团模糊的影像。不过，这并不意味着必须使用专业设备。即使是最普通的望远镜，也足以让人们观测并惊叹于这个飞行中的天体。"
+            },
+            {
+              "id": 7,
+              "start": 86.3,
+              "end": 98.2,
+              "text": "M: Many of our viewers will be wondering how they too can take part in this once-in-a-lifetime event. Where will this comet be in the sky? How can people find it?",
+              "zh": "M：我们的许多观众都会想知道，他们怎样才能参与这场一生难遇的活动。这颗彗星会出现在天空的什么位置？人们该如何找到它？"
+            },
+            {
+              "id": 8,
+              "start": 98.5,
+              "end": 113.5,
+              "text": "W: The comet will be almost exactly due north, at 60 degrees above the equator. However, finding the comet is indeed very tricky. And scientists here have told me there are plenty of phone apps that will facilitate this.",
+              "zh": "W：这颗彗星几乎正好位于正北方，在赤道上方60度的位置。不过，找到这颗彗星确实非常困难。这里的科学家告诉我，有很多手机应用可以帮助大家定位。"
+            },
+            {
+              "id": 9,
+              "start": 113.8,
+              "end": 117.3,
+              "text": "M: How fantastic! Thank you, Paula, for the information.",
+              "zh": "M：太棒了！Paula，感谢你提供这些信息。"
+            }
+          ],
+          "audioDuration": 117.3,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What does the woman say about all the astronomers at the Denver Observatory?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are thrilled by a rare astronomic phenomenon."
+                },
+                {
+                  "key": "B",
+                  "text": "They are celebrating a big event on mountain tops."
+                },
+                {
+                  "key": "C",
+                  "text": "They are enthusiastic about big science-related stories."
+                },
+                {
+                  "key": "D",
+                  "text": "They are joined by astronomers all across North America."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：Yes, all the astronomers on site here are very excited.信号：被问者的直接应答 。男士在 what is the big story over there? 抛出问题，女士开口第一句 all the astronomers on site here are very excit…",
+              "optionAnalysis": {
+                "B": "张冠李戴：录音 congregating on mountain tops 确实念到\"山顶\"，但那是\"聚集去观星\"，不是 celebrating a big event on mountain tops 的\"在山顶庆祝\"，且主语是北美各地爱好者，非天文台的天文学家。 借用原文：a special science-related news story",
+                "C": "原词陷阱：开头 a special science-related news story 念到\"科学相关\"，C 项 enthusiastic about big science-related stories 直接搬这串词，但录音说的是天文学家\"为这次天象兴奋\"，不是\"热衷各种科学新闻故事\"，把对一次具体天象的兴奋偷换成对科学故事的泛泛热衷。 借用原文：space enthusiasts all across North America and the rest of the Northern Hemisphere will be congregating",
+                "D": "张冠李戴：录音 space enthusiasts all across North America 说的是\"北美各地的爱好者要聚集\"，D 项 joined by astronomers all across North America 把它改成\"天文台的天文学家被北美各地天文学家加入\"，主语和事件都被偷换，原文没有这层意思。",
+                "A": "正确项：与答案句同义替换（all the astronomers on site here are very excited ↔ They are thrilled by a rare astronomic phenomenon. excited 同义改写为 thrilled）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Yes, all the astronomers on site here are very excited.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What do we learn from the conversation about the Oppenheimer comet?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It will be the most formidable of its kind in over a century."
+                },
+                {
+                  "key": "B",
+                  "text": "It will come closest to Earth in more than one hundred years."
+                },
+                {
+                  "key": "C",
+                  "text": "It will eclipse many other such events in human history."
+                },
+                {
+                  "key": "D",
+                  "text": "It will be seen most clearly from Denver's mountain tops."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：Tonight, the Earth will come into close proximity with the Oppenheimer comet. It is the closest our planet has been to such a phenomenon in over 100 years.信号：正面定性句 + 时间数字 。女士直接给彗星定性 It is the closest our planet has been to such a phenomenon in over 100 years，\"closes…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音后文 this formidable object 确有 \"formidable\"，A 项 the most formidable of its kind in over a century 便把\"百年\"嫁接到\"最厉害\"上；但原文里\"百年\"修饰的是\"距离最近\"，从没说它是百年来\"最厉害\"的，是把数字按到了错的形容词上。 借用原文：Is there an eclipse happening soon?",
+                "C": "过度推断：eclipse many other such events in human history 借\"eclipse\"（此处作动词\"使相形见绌\"）和前文 Is there an eclipse happening soon? 的\"日食\"玩文字游戏，原文从没说这颗彗星\"使人类历史上其他天象相形见绌\"，属凭空拔高。 借用原文：congregating on mountain tops tonight to watch the night's sky",
+                "D": "原词陷阱：seen most clearly from Denver's mountain tops 把前文 the Denver Observatory 的\"丹佛\"和 mountain tops 的\"山顶\"拼到一起，但原文只说爱好者会聚到山顶观星，从没说\"从丹佛的山顶看得最清楚\"，是把零散原词攒成一句没说过的话。",
+                "B": "正确项：与答案句同义替换（the closest our planet has been to such a phenomenon in over 100 years ↔ It will come closest to Earth in more than one hundred years. 主被动对调 + 数字同义）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Tonight, the Earth will come into close proximity with the Oppenheimer comet. It is the closest our planet has been to such a phenomenon in over 100 years.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What does the woman say people will only see in the sky without a telescope?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "blur."
+                },
+                {
+                  "key": "B",
+                  "text": "Stars."
+                },
+                {
+                  "key": "C",
+                  "text": "The edge of our galaxy."
+                },
+                {
+                  "key": "D",
+                  "text": "An ordinary flying object."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P6）：People will only see a blur without one.信号：条件 without one + only 直陈 。这句用 without one（one 指代上文 telescope）锁定\"不用望远镜\"的前提，再用 only see a blur 直说看到什么，前提和结果都摆明…",
+              "optionAnalysis": {
+                "B": "未提及：录音通篇没说不用望远镜会看到\"星星\"，Stars. 是凭\"看星空\"的常识脑补出来的，原文只说看到\"一团模糊\"。",
+                "C": "原词陷阱：on the edge of our galaxy 念到\"星系边缘\"，但那是说彗星\"所在的位置\"，不是\"不用望远镜看到的东西\"，C 项 The edge of our galaxy. 把\"它在哪\"偷换成\"看到什么\"。 借用原文：Even the most ordinary of telescopes should be conducive for people to observe and wonder at this flying object",
+                "D": "与原文相反：wonder at this flying object 念到 \"flying object\"，但那是\"用普通望远镜能观赏到的彗星\"，D 项 An ordinary flying object. 把它挪到\"不用望远镜\"的前提下——条件正好反了，不用望远镜只见模糊团，看不清是个\"飞行物\"。",
+                "A": "正确项：与答案句同义替换（People will only see a blur without one ↔ blur. 原句直取，前提一致）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "People will only see a blur without one.",
+              "type": "细节题"
+            },
+            {
+              "number": 8,
+              "stem": "What do scientists at the Denver Observatory advise amateurs do to facilitate their observation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Use professional equipment."
+                },
+                {
+                  "key": "B",
+                  "text": "Climb to the nearby heights."
+                },
+                {
+                  "key": "C",
+                  "text": "Fix their eyes due north."
+                },
+                {
+                  "key": "D",
+                  "text": "Make use of phone apps."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P8）：And scientists here have told me there are plenty of phone apps that will facilitate this.信号：建议句 + 与题干同词 facilitate 。女士转述科学家的建议 there are plenty of phone apps that will facilitate this，\"scientists…told…",
+              "optionAnalysis": {
+                "A": "与原文相反：录音 that does not mean one needs professional equipment 明确说\"并不需要专业设备\"，A 项 Use professional equipment. 直接搬这串原词却把否定改成肯定，意思正好反了。 借用原文：will be congregating on mountain tops tonight to watch the night's sky",
+                "B": "原词陷阱：录音 congregating on mountain tops 念到\"山顶\"，B 项 Climb to the nearby heights.（爬到附近高处）借此设套，但那是说爱好者去哪儿聚集，不是科学家\"为方便观测给的建议\"，问的根本不是同一件事。 借用原文：The comet will be almost exactly due north, at 60 degrees above the equator",
+                "C": "原词陷阱：录音 The comet will be almost exactly due north 念到\"正北\"，那是在说彗星\"在天上的位置\"，C 项 Fix their eyes due north. 把\"它在正北方\"偷换成\"建议人们眼睛盯着正北\"，而科学家给的方便观测的办法是用 app，不是\"盯着北方\"。",
+                "D": "正确项：与答案句同义替换（there are plenty of phone apps that will facilitate this ↔ Make use of phone apps. 存在句 → 祈使建议）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "And scientists here have told me there are plenty of phone apps that will facilitate this.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 14.2,
+              "text": "Dietary guidelines form the basis for nutrition advice and regulations around the world. While there is strong scientific consensus around most existing guidelines, one question has recently stirred debate: should consumers be warned to avoid ultra-processed foods?",
+              "zh": "膳食指南构成了世界各地营养建议和相关法规的基础。尽管现有大多数指南背后都有强有力的科学共识，但最近有一个问题引发了争议：是否应当提醒消费者避免食用超加工食品？"
+            },
+            {
+              "id": 2,
+              "start": 14.5,
+              "end": 39.9,
+              "text": "Two papers published today in the American Journal of Clinical Nutrition outline the case for and against using the concept of ultra-processed foods to help inform dietary guidelines beyond conventional food classification systems. The authors, Carlos Monteiro of the University of São Paulo and Arne Astrup of Novo Nordisk Foundation, will discuss the issue in a live virtual debate August 14th during NUTRITION 2024 LIVE ONLINE.",
+              "zh": "今天发表在《美国临床营养学杂志》上的两篇论文，分别阐述了支持和反对使用“超加工食品”这一概念的理由，以帮助在传统食品分类体系之外进一步制定膳食指南。论文作者、圣保罗大学的Carlos Monteiro和Novo Nordisk Foundation的Arne Astrup，将于8月14日在NUTRITION 2024 LIVE ONLINE期间举行的线上直播辩论中讨论这一问题。"
+            },
+            {
+              "id": 3,
+              "start": 40.3,
+              "end": 71.4,
+              "text": "The debate centers around a system developed by Monteiro and colleagues that classifies foods by their degree of industrial processing, ranging from unprocessed to ultra-processed. The system defines ultra-processed foods as those made using sequences of processes that extract substances from foods and alter them with chemicals in order to formulate the final product. Ultra-processed foods are characteristically designed to be cheap, tasty, and convenient; examples include soft drinks and candy, packaged snacks and pastries, ready-to-heat products, and reconstituted meat products.",
+              "zh": "这场辩论围绕Monteiro及其同事制定的一套体系展开，该体系根据食品的工业加工程度对其进行分类，范围从未加工食品到超加工食品。该体系将超加工食品定义为：通过一系列加工步骤制成的食品，在这些步骤中，先从食品中提取物质，再使用化学品对其进行改变，以配制出最终产品。超加工食品通常被设计成价格低廉、美味可口且方便食用；其中包括软饮料和糖果、包装零食和糕点、即热食品以及再制肉制品等。"
+            },
+            {
+              "id": 4,
+              "start": 71.8,
+              "end": 98.3,
+              "text": "Studies have linked consumption of ultra-processed foods—which are packed high in salt, sugar, and fat—with weight gain and an increased risk of chronic diseases, even after adjusting for the amount of salt, sugar, and fat in the diet. While the mechanisms behind these associations are not fully understood, Monteiro argues that the existing evidence is sufficient to justify discouraging consumption of ultra-processed foods in dietary recommendations and government policies.",
+              "zh": "研究表明，食用超加工食品会导致体重增加并提高患慢性疾病的风险；这类食品含有大量盐、糖和脂肪，即使在对膳食中盐、糖和脂肪的含量进行调整后，这些关联仍然存在。尽管这些关联背后的机制尚未被完全理解，Monteiro认为，现有证据已经足以支持在膳食建议和政府政策中劝阻人们食用超加工食品。"
+            }
+          ],
+          "audioDuration": 98.3,
+          "questions": [
+            {
+              "number": 9,
+              "stem": "What question is said to have recently stirred debate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Whether consumers should be warned against ultra-processed foods."
+                },
+                {
+                  "key": "B",
+                  "text": "Whether there is sufficient scientific consensus on dietary guidelines."
+                },
+                {
+                  "key": "C",
+                  "text": "Whether guidelines can form the basis for nutrition advice to consumers."
+                },
+                {
+                  "key": "D",
+                  "text": "Whether food scientists will agree on the concept of ultra-processed foods."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：While there is strong scientific consensus around most existing guidelines, one question has recently stirred debate: should consumers be warned to avoid ultra-processed foods?信号：冒号后正面点出争论问题 。信号是 one question has recently stirred debate: 这一句——它直接照应题干 stirred debate，而冒号之后的 should consume…",
+              "optionAnalysis": {
+                "B": "原词陷阱：B Whether there is sufficient scientific consensus on dietary guidelines. 借用了录音里 strong scientific consensus 这个原词，但原文说的是「围绕大多数指南已存在强共识」，共识是既定背景、不是争论的问题；真正起争论的是冒号后那句，B 答非所问。 借用原文：Dietary guidelines form the basis for nutrition advice and regulations around the world.",
+                "C": "原词陷阱：C Whether guidelines can form the basis for nutrition advice to consumers. 几乎照搬开篇 Dietary guidelines form the basis for nutrition advice，但原文这句是肯定的陈述（指南本就是营养建议的基础），并非被拿来争论的疑问，C 把陈述句伪装成争论点。",
+                "D": "未提及：D Whether food scientists will agree on the concept of ultra-processed foods. 用了话题词 ultra-processed foods，但「食品科学家是否会就这一概念达成一致」原文根本没说——录音争论的是「要不要警告消费者」，不是「科学家认不认这个概念」，属无中生有。",
+                "A": "正确项：与答案句同义替换（should consumers be warned to avoid ultra-processed foods? ↔ Whether consumers should be warned against ultra-processed foods. 疑问句→Whether名词从句，warned against=warned to avoid）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "While there is strong scientific consensus around most existing guidelines, one question has recently stirred debate: should consumers be warned to avoid ultra-processed foods?",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "How does the system developed by Monteiro and colleagues classify foods?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By the labor cost for the final products."
+                },
+                {
+                  "key": "B",
+                  "text": "By the degree of industrial processing."
+                },
+                {
+                  "key": "C",
+                  "text": "By the extent of chemical alteration."
+                },
+                {
+                  "key": "D",
+                  "text": "By the convention of classification."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：The debate centers around a system developed by Monteiro and colleagues that classifies foods by their degree of industrial processing, ranging from unprocessed to ultra-processed.信号：专名+classifies…by 直接给出分类标准 。信号是题干专名 Monteiro 在录音里复现，紧跟的 classifies foods by their degree of industrial proces…",
+              "optionAnalysis": {
+                "C": "原词陷阱：C By the extent of chemical alteration. 来自后一句 alter them with chemicals——但那句是在「定义什么叫超加工食品」，分类的标准是「工业加工程度」，化学改变只是超加工这一端的特征描述，不是整套系统的分类轴，C 答非所问。 借用原文：beyond conventional food classification systems",
+                "A": "未提及：A By the labor cost for the final products. 里 final products 蹭了原文 formulate the final product 的字眼，但「按人工成本分类」录音从没说过；原文提到的是 cheap（便宜），与「人工成本」不是一回事，属无中生有。",
+                "D": "与原文相反：D By the convention of classification. 借了 food classification 里的 classification 一词，但原文恰恰强调这套系统是「超越」传统分类的——第2段说要 beyond conventional food classification systems，方向正好相反，D 取了被否定的那一端。",
+                "B": "正确项：与答案句同义替换（by their degree of industrial processing ↔ By the degree of industrial processing. 近乎原话对应，仅去掉物主代词）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "The debate centers around a system developed by Monteiro and colleagues that classifies foods by their degree of industrial processing, ranging from unprocessed to ultra-processed.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What is consumption of ultra-processed foods linked with, according to studies?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Increased consumers' expenses."
+                },
+                {
+                  "key": "B",
+                  "text": "Greater risk of chronic diseases."
+                },
+                {
+                  "key": "C",
+                  "text": "People's misunderstanding of nutrition."
+                },
+                {
+                  "key": "D",
+                  "text": "Children's dislike for unprocessed foods."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：Studies have linked consumption of ultra-processed foods—which are packed high in salt, sugar, and fat—with weight gain and an increased risk of chronic diseases, even after adjusting for the amount of salt, sugar, and fat in the diet.信号：Studies have linked…with 正面给出关联后果 。信号是 Studies have linked consumption of ultra-processed foods…with weight …",
+              "optionAnalysis": {
+                "A": "未提及：A Increased consumers' expenses. 蹭了第3段超加工食品 designed to be cheap 的语境联想，但原文说这类食品「便宜」，恰恰不是「让消费者花费增加」；研究关联的是健康后果，不是花钱，A 属无中生有。",
+                "C": "未提及：C People's misunderstanding of nutrition. 借了全文反复出现的 nutrition 话题词，但「人们对营养的误解」录音从没说过；研究关联的是体重和疾病，不是认知误解，C 无中生有。",
+                "D": "未提及：D Children's dislike for unprocessed foods. 用了第3段 unprocessed 一词，但「孩子不喜欢未加工食品」录音完全没提，且把话题从「健康后果」偷换成「儿童口味偏好」，属无中生有。",
+                "B": "正确项：与答案句同义替换（an increased risk of chronic diseases ↔ Greater risk of chronic diseases. increased=greater，risk of chronic diseases 同义保留）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Studies have linked consumption of ultra-processed foods—which are packed high in salt, sugar, and fat—with weight gain and an increased risk of chronic diseases, even after adjusting for the amount of salt, sugar, and fat in the diet.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 18.5,
+              "text": "Believe it or not, human creativity benefits from constraints. According to psychologists, when you have less to work with, you actually begin to see the world differently. With constraints, you dedicate your mental energy to acting more resourcefully. When challenged, you figure out new ways to be better.",
+              "zh": "信不信由你，限制有益于人类的创造力。心理学家认为，当你可利用的资源较少时，你实际上会开始以不同的方式看待世界。有了限制，你会将 mental energy 投入到更具资源性地采取行动上。面对挑战时，你会想出新的方法，让自己做得更好。"
+            },
+            {
+              "id": 2,
+              "start": 18.9,
+              "end": 46.2,
+              "text": "The most successful creative people know that constraints give their minds the impetus to leap higher. People who invent new products are not limited by what they don't have or can't do. They leverage their limitations to push themselves even further. Many products and services are created because the founders saw a limitation in what they use. They created innovation based on what was not working for them at the moment.",
+              "zh": "最成功的创意人士知道，限制会促使他们的思维跃得更高。发明新产品的人不会受到自己没有什么或不能做什么的限制。他们利用自身的局限，推动自己更进一步。许多产品和服务之所以诞生，是因为创始人发现自己所使用的产品或服务存在局限。他们根据当时对自己不起作用的地方创造了创新。"
+            },
+            {
+              "id": 3,
+              "start": 46.6,
+              "end": 84.6,
+              "text": "Innovation is a creative person's response to limitation. In a 2015 study which examined how thinking about scarcity or abundance influences how creatively people use their resources, Ravi Mehta at the University of Illinois and Meng Zhu at Johns Hopkins University found that people simply have no incentive to use what's available to them in novel ways. When people face scarcity, they give themselves the freedom to use resources in less conventional ways because they have to. Obstacles can broaden your perception and open up your thinking processes. Consistent constraints help you improve at connecting unrelated ideas and concepts.",
+              "zh": "创新是创意人士对局限的回应。在一项于2015年开展的研究中，伊利诺伊大学的Ravi Mehta和约翰斯·霍普金斯大学的Meng Zhu考察了对稀缺或富足的思考如何影响人们创造性地使用资源，并发现人们根本没有动力以新颖的方式利用手头的资源。当人们面临资源稀缺时，他们会迫使自己以不那么传统的方式使用资源，因为他们不得不这样做。障碍可以拓宽你的认知，并开启你的思维过程。持续存在的限制有助于你提高将不相关的想法和概念联系起来的能力。"
+            },
+            {
+              "id": 4,
+              "start": 84.9,
+              "end": 98.8,
+              "text": "Marissa Mayer, former vice president for search products and user experience at Google, once wrote in a publication on Bloomberg, \"Constraints shape and focus problems and provide clear challenges to overcome; Creativity thrives best when constrained.\"",
+              "zh": "谷歌前搜索产品和用户体验副总裁Marissa Mayer曾在彭博社的一篇刊物中写道：“限制能够塑造问题、聚焦问题，并提供有待克服的明确挑战；创造力在受到限制时最能蓬勃发展。”"
+            }
+          ],
+          "audioDuration": 98.8,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What do psychologists say people do when they are short of resources?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They begin to think of the benefits of constraints."
+                },
+                {
+                  "key": "B",
+                  "text": "They try to seek solutions from creative people."
+                },
+                {
+                  "key": "C",
+                  "text": "They try hard to maximize their mental energy."
+                },
+                {
+                  "key": "D",
+                  "text": "They begin to see the world in a different way."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：According to psychologists, when you have less to work with, you actually begin to see the world differently.信号：题干信号词 psychologists 顺听定位 。题干问的是 psychologists（心理学家）的说法，录音里恰有 According to psychologists 这一引述信号，紧跟其后的 you act…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 用了全文话题词 constraints，但 think of the benefits of constraints（想到约束的好处）是录音从未说过的动作，录音说的是人开始换个方式看世界，A 只是借 constraints 这个耳熟的词诱你误选。 借用原文：you dedicate your mental energy to acting more resourcefully",
+                "B": "未提及：B 说人去 seek solutions from creative people（向有创造力的人求解），录音通篇讲的是人自己换方式看世界、自己更灵活地用资源，从没说去向别人求助，属无中生有。",
+                "C": "原词陷阱：C 出现 maximize their mental energy，录音确有 dedicate your mental energy（投入心智能量）这个词，但原文说的是把心智能量投入到更灵活地行动，不是 maximize（最大化）能量本身，C 盗用 mental energy 这个原词却篡改了它的动作。",
+                "D": "正确项：与答案句同义替换（begin to see the world differently ↔ begin to see the world in a different way 副词换介词短语）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "According to psychologists, when you have less to work with, you actually begin to see the world differently.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What does the passage say about innovation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is characteristic of all creative people."
+                },
+                {
+                  "key": "B",
+                  "text": "It is essential to pushing society forward."
+                },
+                {
+                  "key": "C",
+                  "text": "It is a creative person's response to limitation."
+                },
+                {
+                  "key": "D",
+                  "text": "It is an impetus to socio-economic development."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：Innovation is a creative person's response to limitation.信号：段首定性句直接定义 。第三段开头 Innovation is a creative person's response to limitation. 是一句标准的 X is Y 定性句，主语正是题干的 innovat…",
+              "optionAnalysis": {
+                "A": "偷换概念：A 说创新 characteristic of all creative people（所有有创造力的人的特征），录音说的是创新是有创造力者对限制的回应，并没有断言它是所有这类人都具备的特征，all 把范围说死，属偷换概念。 借用原文：constraints give their minds the impetus to leap higher",
+                "B": "过度推断：B 说创新 essential to pushing society forward（对推动社会前进至关重要），录音有 impetus（推动力）一词，但说的是约束给人的头脑以跃升的推动力，并非创新对推动社会前进必不可少，B 把对象偷偷拔高到社会层面，过度推断。 借用原文：constraints give their minds the impetus to leap higher",
+                "D": "原词陷阱：D 说创新是 impetus to socio-economic development（社会经济发展的推动力），impetus 虽是原词，但 socio-economic development（社会经济发展）录音从头到尾没提，纯属拿原词拼接出一个原文没有的结论。",
+                "C": "正确项：与答案句同义替换（a creative person's response to limitation ↔ a creative person's response to limitation 罕见的近乎原句对应）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Innovation is a creative person's response to limitation.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What did a 2015 study by Ravi Mehta and Meng Zhu find?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Scarcity or abundance of resources has little impact on people's creativity."
+                },
+                {
+                  "key": "B",
+                  "text": "Innovative people are not constrained in connecting unrelated concepts."
+                },
+                {
+                  "key": "C",
+                  "text": "People have no incentive to use available resources in new ways."
+                },
+                {
+                  "key": "D",
+                  "text": "Creative people tend to consume more available resources."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：Ravi Mehta at the University of Illinois and Meng Zhu at Johns Hopkins University found that people simply have no incentive to use what's available to them in novel ways.信号：人名加 found that 引出发现 。录音里 Ravi Mehta 与 Meng Zhu 两个人名后紧跟 found that，这是研究发现的标志信号，that 引导的从句就是答案内容；听到人名加 found t…",
+              "optionAnalysis": {
+                "A": "与原文相反：A 说 Scarcity or abundance of resources has little impact on people's creativity（资源稀缺或充裕对创造力影响不大），录音确实研究了 scarcity or abundance 如何影响创造性用资源，但结论恰恰是影响很大、稀缺反而激发创造，A 把研究的对象词盗来却得出与原文相反的结论。 借用原文：Consistent constraints help you improve at connecting unrelated ideas and concepts.",
+                "B": "答非所问：B 说 Innovative people are not constrained in connecting unrelated concepts（创新者在联结不相关概念时不受约束），录音末句确有 connecting unrelated ideas and concepts 这个搭配，但那是说持续的约束帮助人更善于联结不相关概念，并非这项 2015 研究的发现，B 把别处的原词搬到研究结论上，答非所问。 借用原文：use what's available to them in novel ways",
+                "D": "原词陷阱：D 说 Creative people tend to consume more available resources（有创造力的人倾向消耗更多现有资源），available resources 蹭了原文的词，但 consume more（消耗更多）录音从未提及，录音讲的是以新方式使用资源，不是消耗更多，纯属编造。",
+                "C": "正确项：与答案句同义替换（no incentive to use what's available to them in novel ways ↔ no incentive to use available resources in new ways 近义词逐处替换）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Ravi Mehta at the University of Illinois and Meng Zhu at Johns Hopkins University found that people simply have no incentive to use what's available to them in novel ways.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "What did Marissa Mayer once write concerning creativity?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is key to a company's survival."
+                },
+                {
+                  "key": "B",
+                  "text": "It shapes and focuses problems."
+                },
+                {
+                  "key": "C",
+                  "text": "It is essential to meeting challenges"
+                },
+                {
+                  "key": "D",
+                  "text": "It thrives best when constrained."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：Constraints shape and focus problems and provide clear challenges to overcome; Creativity thrives best when constrained.信号：题干限定词 creativity 锁后半句 。Mayer 的引述有前后两句，前半 Constraints shape and focus problems 主语是约束，后半 Creativity thrives be…",
+              "optionAnalysis": {
+                "A": "未提及：A 说创造力 key to a company's survival（对公司生存至关重要），虽然录音提到 Mayer 曾是 Google 的副总裁，但她写的话里根本没提公司生存，A 凭 Google 这一职务背景臆造出公司话题，属未提及。",
+                "B": "张冠李戴：B 说 It shapes and focuses problems.，这句确实摘自 Mayer 的话 Constraints shape and focus problems，但原文该动作的主语是 Constraints（约束）不是 creativity，题干问的是关于 creativity 的内容，B 把约束做的事安到了创造力头上，主语张冠李戴。 借用原文：provide clear challenges to overcome",
+                "C": "原词陷阱：C 说创造力 essential to meeting challenges（对应对挑战至关重要），录音里 challenges 一词出自 provide clear challenges to overcome，说的是约束提供需克服的挑战，而非创造力对应对挑战必不可少，C 盗用 challenges 偷换了逻辑关系。",
+                "D": "正确项：与答案句同义替换（Creativity thrives best when constrained ↔ It thrives best when constrained. 代词 It 回指 creativity）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Constraints shape and focus problems and provide clear challenges to overcome; Creativity thrives best when constrained.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Recording One",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 48.1,
+              "text": "Different people use different strategies for managing conflicts. These strategies are learned in childhood. Usually, we are not aware of how we act in conflict situations. We just do whatever seems to come naturally. But we do have a personal strategy, and because it is learned, we can always change it by learning new and more effective ways of managing conflicts. When you get involved in a conflict, there are two major concerns you have to take into account: achieving your personal goals and keeping a good relationship with the other person. How important your personal goals are and how important the relationship is to you affect how you act in a conflict. Given these two concerns, five styles of managing conflicts can be identified.",
+              "zh": "不同的人会采用不同的冲突处理策略。这些策略是在童年时期学会的。通常，我们并没有意识到自己在冲突情境中是如何行动的，只是按照看似自然而然的方式去做。但我们确实都有自己的策略，而且由于这种策略是后天习得的，所以我们始终可以通过学习新的、更有效的冲突处理方式来改变它。当你卷入冲突时，有两个主要方面需要考虑：实现个人目标，以及与对方保持良好关系。个人目标对你的重要程度，以及这段关系对你的重要程度，都会影响你在冲突中的行为。根据这两个方面，可以确定五种冲突处理风格。"
+            },
+            {
+              "id": 2,
+              "start": 48.5,
+              "end": 60.8,
+              "text": "The turtle. Turtles withdraw into their shells to avoid conflicts. They give up their personal goals and relationships. They believe it is easier to withdraw from a conflict than to face it.",
+              "zh": "龟型。乌龟会缩进壳里以避免冲突。它们放弃个人目标和人际关系。它们认为，与其面对冲突，不如退出冲突更容易。"
+            },
+            {
+              "id": 3,
+              "start": 61.1,
+              "end": 83.8,
+              "text": "The shark. Sharks try to overpower opponents by forcing them to accept their solution to the conflict. They seek to achieve their goals at all costs. Sharks assume that conflicts are settled by one person winning and one person losing. Winning gives sharks a sense of pride and achievement. Losing gives them a sense of weakness, inadequacy, and failure.",
+              "zh": "鲨鱼型。鲨鱼试图迫使对方接受自己提出的冲突解决方案，从而压倒对方。它们不惜一切代价追求实现自己的目标。鲨鱼认为，冲突的解决方式是一方获胜、另一方失败。获胜会让鲨鱼产生自豪感和成就感；失败则会让它们感到软弱、无能和挫败。"
+            },
+            {
+              "id": 4,
+              "start": 84.1,
+              "end": 101.1,
+              "text": "The teddy bear. Teddy bears want to be accepted and liked by other people. They think that conflict should be avoided in favor of harmony, and believe that conflicts cannot be discussed without damaging relationships. They give up their goals to preserve the relationship.",
+              "zh": "泰迪熊型。泰迪熊希望得到他人的接纳和喜爱。它们认为，为了保持和谐，应当避免冲突，并相信讨论冲突会损害人际关系。它们放弃自己的目标，以维护这段关系。"
+            },
+            {
+              "id": 5,
+              "start": 101.4,
+              "end": 120.7,
+              "text": "The fox. Foxes are moderately concerned with their own goals and about their relationships with other people. They give up part of their goals and persuade the other person in a conflict to give up part of his goals. They seek a solution to conflicts where both sides gain something.",
+              "zh": "狐狸型。狐狸对自身目标以及与他人的关系都抱有适度的关注。它们放弃一部分自己的目标，并说服冲突中的对方也放弃一部分目标。它们寻求一种能让双方都获得一些利益的冲突解决方案。"
+            },
+            {
+              "id": 6,
+              "start": 121,
+              "end": 153.4,
+              "text": "The owl. Owls view conflicts as problems to be solved. They see conflicts as improving relationships by reducing tension between two people. They try to begin a discussion that identifies the conflict as a problem. By seeking solutions that satisfy both themselves and the other person, owls maintain the relationship. Owls are not satisfied until a solution is found that achieves their own goals and the other person's goals, and they are not satisfied until the tensions and negative feelings have been fully resolved.",
+              "zh": "猫头鹰型。猫头鹰把冲突视为需要解决的问题。它们认为，冲突能够通过减少两个人之间的紧张关系来改善人际关系。它们试图展开讨论，将冲突界定为一个问题。通过寻求既能满足自己又能满足对方的解决方案，猫头鹰得以维持这段关系。在找到既能实现自己的目标、又能实现对方目标的解决方案之前，猫头鹰不会感到满意；在紧张情绪和负面感受得到彻底解决之前，它们也不会感到满意。"
+            }
+          ],
+          "audioDuration": 153.4,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "Why does the speaker say strategies for managing conflicts can always be changed?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because they are learned."
+                },
+                {
+                  "key": "B",
+                  "text": "Because they come naturally."
+                },
+                {
+                  "key": "C",
+                  "text": "Because they have to be properly personalized."
+                },
+                {
+                  "key": "D",
+                  "text": "Because there can be more effective strategies."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：But we do have a personal strategy, and because it is learned, we can always change it by learning new and more effective ways of managing conflicts.信号：because 直接交代原因 。这句里 because it is learned, we can always change it 是赤裸裸的因果结构：\"because + 原因\"紧跟着\"can always ch…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音确实说过 We just do whatever seems to come naturally，但那是讲\"我们平时不自觉、顺其自然地行事\"，并非\"策略能被改变的原因\"。B 把这个原词搬来当原因，恰恰用反了——天生自然反而是难改的那一面。 借用原文：a personal strategy",
+                "C": "偷换概念：录音提到策略是 a personal strategy（个人的），C 顺势造出 they have to be properly personalized（必须妥善个性化）。但录音从没说\"必须被个性化\"是它能改变的原因，这是把\"个人的\"偷换成\"必须个性化\"的无中生有。 借用原文：more effective ways of managing conflicts",
+                "D": "答非所问：录音末尾确有 more effective ways，D 据此说 there can be more effective strategies。但\"有更有效的策略\"在录音里是\"改变之后能达到的效果/途径\"，不是\"能改变\"的原因；真正的原因是它习得（learned）。D 把结果当成了原因。",
+                "A": "正确项：与答案句同义替换（because it is learned ↔ Because they are learned. 几乎原句搬到选项）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "But we do have a personal strategy, and because it is learned, we can always change it by learning new and more effective ways of managing conflicts.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "What is said to affect the way one acts in a conflict?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The extent of difference and of similarity between the two sides."
+                },
+                {
+                  "key": "B",
+                  "text": "The knowledge of the specific expectation the other side holds."
+                },
+                {
+                  "key": "C",
+                  "text": "The importance of one's goals and of the relationship."
+                },
+                {
+                  "key": "D",
+                  "text": "The approaches one adopts to conflict management."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：How important your personal goals are and how important the relationship is to you affect how you act in a conflict.信号：原句直接出现 affect 。这句的主干就是 How important your personal goals are and how important the relationship is to you af…",
+              "optionAnalysis": {
+                "A": "未提及：A 说 The extent of difference and of similarity between the two sides.（双方差异与相似的程度）听上去很学术，但录音通篇没说\"差异/相似程度\"会影响行为。这是凭\"冲突=双方有分歧\"的常识脑补出来的，原文无据。",
+                "B": "原词陷阱：B 说 The knowledge of the specific expectation the other side holds.（了解对方的具体期待）。录音确实反复说到\"the other person\"，但从没说\"知道对方期待什么\"会影响你的行为，影响行为的是你自己目标和关系的重要性。B 借了\"对方\"这个原词，却安了个录音没说的内容。 借用原文：strategies for managing conflicts",
+                "D": "原词陷阱：D 说 The approaches one adopts to conflict management.（处理冲突所采取的方法）。这正是整篇的大主题词 managing conflicts，但题目问的是\"什么影响你的做法\"，而\"做法本身\"不能影响\"做法\"，逻辑上自指。D 盗用了贯穿全文的话题词来冒充答案。",
+                "C": "正确项：与答案句同义替换（How important your personal goals are and how important the relationship is to you ↔ The importance of one's goals and of the relationship. 句子改名词化）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "How important your personal goals are and how important the relationship is to you affect how you act in a conflict.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "Of the five styles the speaker discusses, which views conflicts as problems to be solved?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The fox."
+                },
+                {
+                  "key": "B",
+                  "text": "The owl."
+                },
+                {
+                  "key": "C",
+                  "text": "The shark."
+                },
+                {
+                  "key": "D",
+                  "text": "The turtle."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P6）：The owl. Owls view conflicts as problems to be solved.信号：原句逐字复述特征 。第 6 段开头先报名字 The owl，紧接着 Owls view conflicts as problems to be solved 与题干 views conflicts as proble…",
+              "optionAnalysis": {
+                "A": "答非所问：A 是 The fox.。狐狸的特征是 both sides gain something（双方各让一步、各得一点），属于折中妥协，录音没说狐狸\"把冲突看作待解决的问题\"。它和 owl 都偏正面，最易混，但定性不同。 借用原文：Sharks try to overpower opponents by forcing them to accept their solution",
+                "C": "与原文相反：C 是 The shark.。鲨鱼的特征是 overpower opponents by forcing them to accept their solution（强压对方、逼其接受），与\"把冲突当问题来解决\"正相反。鲨鱼追求一方赢一方输，绝非协商解决。 借用原文：Turtles withdraw into their shells to avoid conflicts.",
+                "D": "与原文相反：D 是 The turtle.。乌龟的特征是 withdraw into their shells to avoid conflicts（缩进壳里逃避冲突），它连面对都不愿意，更谈不上\"把冲突当问题来解决\"，与题干特征截然相反。",
+                "B": "正确项：与答案句同义替换（Owls view conflicts as problems to be solved ↔ The owl. 特征绑定到名字）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "The owl. Owls view conflicts as problems to be solved.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Recording Two",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 22.3,
+              "text": "The genetic code of all 1.5 million known species of animals and plants living on earth will be mapped to help save species from extinction and boost human health. Scientists hope that cracking the genetic code of plants and animals could help uncover new treatments for infectious diseases, slow aging, improve crops in agriculture, and create new bio-materials.",
+              "zh": "地球上现存的全部150万种已知动植物的遗传密码将被测序，以帮助拯救濒临灭绝的物种并促进人类健康。科学家希望，破解动植物的遗传密码能够帮助发现传染病的新疗法、延缓衰老、改良农业作物，并创造新的生物材料。"
+            },
+            {
+              "id": 2,
+              "start": 22.7,
+              "end": 45.7,
+              "text": "In Britain, organizations including the Natural History Museum, the Royal Botanic Gardens at Kew and the Wellcome Sanger Institute have joined forces to sequence Britain's 66,000 species of animals and plants. Dubbed the Darwin Tree of Life Project, it is expected to take 10 years and cost £100 million. Once completed, all the information will be publicly available to researchers.",
+              "zh": "在英国，包括自然历史博物馆、邱园皇家植物园和Wellcome Sanger研究所在内的多个组织已经联合起来，为英国的6.6万种动植物进行基因测序。该项目被称为“达尔文生命之树项目”，预计将耗时10年，耗资1亿英镑。项目完成后，所有信息都将向研究人员公开。"
+            },
+            {
+              "id": 3,
+              "start": 46.1,
+              "end": 79.9,
+              "text": "Many scientists believe that earth has now entered the sixth mass extinction, with humans creating a toxic mix of habitat loss, pollution and climate change, which has already led to the loss of at least 77 species of mammals and 140 types of birds since 1500. It is the biggest loss of species since the dinosaurs were wiped out 66 million years ago. Scientists say that sequencing every species will revolutionise the understanding of biology and evolution, bolster efforts to conserve as well as protect and restore biodiversity.",
+              "zh": "许多科学家认为，地球如今已经进入第六次大灭绝时期，人类造成的栖息地丧失、污染和气候变化的有害结合，已经导致自1500年以来至少77种哺乳动物和140种鸟类灭绝。这是自6600万年前恐龙灭绝以来最大规模的物种损失。科学家表示，对每一个物种进行测序将彻底改变人们对生物学和进化的认识，加强保护以及维护和恢复生物多样性的努力。"
+            },
+            {
+              "id": 4,
+              "start": 80.3,
+              "end": 114.5,
+              "text": "Dr. Tim Littlewood, head of Life Sciences Department at the Natural History Museum, said, \"Whether you are interested in food or disease, the history of how every organism on the planet has adapted to its environment is recorded in its genetic makeup. How you then harness that is dependent on your ability to understand it. We will be using modern methods to get a really good window on the present and the past. And of course, a window on the past gives you a prospective model on the future.\"",
+              "zh": "自然历史博物馆生命科学部负责人蒂姆·利特尔伍德博士说：“无论你对食物还是疾病感兴趣，地球上每一种生物如何适应其环境的历史，都记录在它的遗传构成中。你如何利用这些信息，取决于你理解它的能力。我们将运用现代方法，真正清晰地了解现在和过去。当然，了解过去也能为未来提供一个预测模型。”"
+            },
+            {
+              "id": 5,
+              "start": 114.8,
+              "end": 152.9,
+              "text": "Sir Jim Smith, Director of Science at Wellcome, said, \"Try as I might, I can't think of a more exciting, more relevant, more timely or more internationally inspirational project. Since 1970, humanity has wiped out 60 percent of animal populations. About 23,000 of 80,000 species surveyed are approaching extinction. We are in the midst of the sixth great extinction event of life on our planet, which not only threatens wildlife species, but also imperils the global food supply. As scientists, we all realise we desperately need to catalogue life on our fragile planet now. I think we're making history.\"",
+              "zh": "Wellcome科学部主任吉姆·史密斯爵士说：“尽管我努力思考，也想不出还有哪个项目比这更加令人兴奋、更加贴近现实、更加及时，或更能激发国际社会的灵感。自1970年以来，人类已经使动物种群数量减少了60%。在接受调查的8万种物种中，约有2.3万种正走向灭绝。我们正处于地球生命第六次大灭绝事件之中，这不仅威胁野生动物物种，也危及全球粮食供应。作为科学家，我们都意识到，现在迫切需要为我们这个脆弱星球上的生命编制目录。我认为，我们正在创造历史。”"
+            }
+          ],
+          "audioDuration": 152.9,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What do scientists hope to do by cracking the genetic code of plants and animals?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Help save species from extinction and boost human health."
+                },
+                {
+                  "key": "B",
+                  "text": "Understand how plants and animals perished over the past."
+                },
+                {
+                  "key": "C",
+                  "text": "Help gather information publicly available to researchers."
+                },
+                {
+                  "key": "D",
+                  "text": "Find out the cause of extinction of Britain's 66, 000 species."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：The genetic code of all 1.5 million known species of animals and plants living on earth will be mapped to help save species from extinction and boost human health.信号：目的信号 to help 后面接落点 。答案句靠目的状语 to help save species from extinction and boost human health 中的 to help 锁定——\"做基因…",
+              "optionAnalysis": {
+                "B": "答非所问：本项 Understand how plants and animals perished over the past. 借了\"动植物消亡\"的料（呼应录音第 3 段大量物种灭绝的描述），但说的是\"理解过去它们如何消亡\"，而录音目的是\"拯救现在的物种\"，把\"救（未来）\"偷换成\"懂（过去）\"，答非所问。 借用原文：all the information will be publicly available to researchers",
+                "C": "原词陷阱：Help gather information publicly available to researchers. 直接搬了录音 all the information will be publicly available to researchers，但那是说\"项目完成后信息将公开给研究者\"，是项目的副产品，不是\"破解基因码\"这一动作的目的，典型原词陷阱。 借用原文：Britain's 66,000 species of animals and plants",
+                "D": "原词陷阱：Find out the cause of extinction of Britain's 66, 000 species. 搬了录音 Britain's 66,000 species 这个醒目数字，又拼上\"找灭绝原因\"，但录音从没说目的是\"查灭绝原因\"，且 66,000 是英国测序的物种数、与\"破解基因码的目的\"是两码事，原词＋无中生有。",
+                "A": "正确项：与答案句同义替换（save species from extinction and boost human health ↔ Help save species from extinction and boost human health. 选项几乎原句搬来，只在前面加 Help）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The genetic code of all 1.5 million known species of animals and plants living on earth will be mapped to help save species from extinction and boost human health.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What do many scientists believe with regard to earth?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was once dominated by dinosaurs."
+                },
+                {
+                  "key": "B",
+                  "text": "It has entered the sixth mass extinction."
+                },
+                {
+                  "key": "C",
+                  "text": "Its prospects depend on future human behaviour."
+                },
+                {
+                  "key": "D",
+                  "text": "Its climate change is aggravated by humans."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：Many scientists believe that earth has now entered the sixth mass extinction, with humans creating a toxic mix of habitat loss, pollution and climate change.信号：观点信号 Many scientists believe 直接引出 。答案句由 Many scientists believe that earth has now entered the sixth mass ex…",
+              "optionAnalysis": {
+                "A": "原词陷阱：It was once dominated by dinosaurs. 蹭录音里的 dinosaurs，但原文说的是 the biggest loss of species since the dinosaurs were wiped out 66 million years ago——恐龙是被灭绝来做\"损失之大\"的参照，录音从没说\"地球曾被恐龙统治\"，纯属听到 dinosaurs 就想选的陷阱。 借用原文：a window on the past gives you a prospective model on the future",
+                "C": "偷换概念：Its prospects depend on future human behaviour. 说\"地球前景取决于未来人类行为\"，录音第 4 段虽提到 a window on the future，但那是讲项目能模型化未来，并非\"许多科学家相信地球前景取决于人类未来行为\"，把别处的零碎拼成新断言，无中生有。 借用原文：a toxic mix of habitat loss, pollution and climate change",
+                "D": "原词陷阱：Its climate change is aggravated by humans. 抓住录音 habitat loss, pollution and climate change 里的 climate change 单独放大，但原文是\"栖息地丧失、污染、气候变化\"三者并列、共同构成有毒组合，单拎一项当作\"科学家相信地球如何\"，以偏概全。",
+                "B": "正确项：与答案句同义替换（earth has now entered the sixth mass extinction ↔ It has entered the sixth mass extinction. earth→It，其余原句保留）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Many scientists believe that earth has now entered the sixth mass extinction, with humans creating a toxic mix of habitat loss, pollution and climate change.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "How does Sir Jim Smith, Director of Science at Wellcome, describe the Darwin Tree of Life Project?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It dwarfs all other efforts to conserve, protect and restore biodiversity on earth."
+                },
+                {
+                  "key": "B",
+                  "text": "It is costly to get started and requires the joint efforts of thousands of scientists."
+                },
+                {
+                  "key": "C",
+                  "text": "It can help to bring back the large numbers of plants and animals that have gone extinct."
+                },
+                {
+                  "key": "D",
+                  "text": "It is the most exciting, most relevant, most timely and most internationally inspirational."
+                }
+              ],
+              "answer": "D",
+              "analysis": "态度观点题。答案句（P5）：Sir Jim Smith, Director of Science at Wellcome, said, \"Try as I might, I can't think of a more exciting, more relevant, more timely or more internationally inspirational project.\"信号：评价语气：I can't think of a more… 是变相最高级 。答案句靠 I can't think of a more exciting, more relevant, more timely or m…",
+              "optionAnalysis": {
+                "A": "原词陷阱：It dwarfs all other efforts to conserve, protect and restore biodiversity on earth. 蹭了录音 conserve as well as protect and restore biodiversity 的原词，但说\"它使其它一切保护努力相形见绌\"是录音没有的比较，且这是 Jim Smith 的评价题，A 拼的是别处第 3 段的料，张冠李戴。 借用原文：it is expected to take 10 years and cost £100 million",
+                "B": "答非所问：It is costly to get started and requires the joint efforts of thousands of scientists. 蹭了录音 cost £100 million 与众多科学家协作的料，但这是讲项目的成本与规模，是客观事实，不是 Jim Smith\"如何形容/评价\"项目，答非所问。 借用原文：we desperately need to catalogue life on our fragile planet now",
+                "C": "过度推断：It can help to bring back the large numbers of plants and animals that have gone extinct. 用了录音常出现的\"动植物灭绝\"原词，但录音只说项目能助保护、记录生命，从没说能\"把已灭绝物种带回来\"，明显过度推断。",
+                "D": "正确项：与答案句同义替换（I can't think of a more exciting, more relevant, more timely or more internationally inspirational project ↔ It is the most exciting, most relevant, most timely and most internationally inspirational. \"想不出更…的\"=\"最…的\"，比较级转最高级）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "Sir Jim Smith, Director of Science at Wellcome, said, \"Try as I might, I can't think of a more exciting, more relevant, more timely or more internationally inspirational project.\"",
+              "type": "态度观点题"
+            }
+          ]
+        },
+        {
+          "title": "Recording Three",
+          "kind": "recording",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 38.5,
+              "text": "John Donne, the English poet, wrote in the 17th century, \"No man is an island, entire of itself; every man is a piece of the continent, a part of the main.\" Now, a British academic has claimed that human individuality is indeed just an illusion, because societies are far more interconnected at a mental, physical, and cultural level than people realise. In his new book, The Self Delusion, Professor Tom Oliver, a researcher in the Ecology and Evolution group at the University of Reading, argues there is no such thing as \"self\", and not even our bodies are truly \"us\".",
+              "zh": "英国诗人约翰·多恩在17世纪写道：“没有人是一座孤岛，自成一体；每个人都是大陆的一部分，是陆地的一部分。”如今，一位英国学者声称，人的个体性确实只是一种幻觉，因为社会在心理、身体和文化层面的相互联系，远比人们意识到的更加紧密。在他的新书《The Self Delusion》中，雷丁大学生态学与进化研究组的研究员汤姆·奥利弗教授认为，根本不存在所谓的“自我”，甚至连我们的身体也并不真正是“我们”。"
+            },
+            {
+              "id": 2,
+              "start": 38.9,
+              "end": 93.8,
+              "text": "Just as Copernicus realised the Earth is not the centre of the universe, Professor Oliver said society urgently needs a Copernican-like revolution to understand people are not detached beings but rather part of one connected identity. \"A significant milestone in the cultural evolution of human minds was the acceptance that the Earth is not the centre of the universe, the so-called Copernican Revolution,\" he writes. \"However, we have one more big myth to dispose of: that we exist as independent selves at the centre of a subjective universe. You may feel as if you are an independent individual, acting autonomously in the world; that you have an unchanging inner self that persists throughout your lifetime, acting as a central anchor-point with the world changing around you. This is the illusion I seek to tackle. We are intimately connected to the world around us.\"",
+              "zh": "正如哥白尼意识到地球并不是宇宙的中心一样，奥利弗教授说，社会迫切需要一场类似哥白尼革命的变革，以理解人并非彼此孤立的存在，而是同一个相互联系的身份的一部分。他写道：“人类心智文化演化中的一个重要里程碑，是人们接受地球并不是宇宙的中心，这就是所谓的哥白尼革命。然而，我们还需要摒弃另一个重大的神话：我们以独立自我的身份存在于主观宇宙的中心。你可能会觉得自己是一个独立的个体，在世界上自主行动；觉得自己拥有一个终生持续不变的内在自我，作为一个中心锚点，而世界则在你周围不断变化。这正是我试图应对的幻觉。我们与周围的世界有着密切的联系。”"
+            },
+            {
+              "id": 3,
+              "start": 94.1,
+              "end": 122.6,
+              "text": "Professor Oliver argues there are around 37 trillion cells in the body but most have a lifespan of just a few days or weeks, so the material \"us\" is constantly changing. In fact, there is no part of your body that has existed for more than 10 years. \"Since our bodies are essentially made anew every few weeks, the material in them alone is clearly insufficient to explain the persistent thread of an identity.\"",
+              "zh": "奥利弗教授认为，人体内大约有37万亿个细胞，但其中大多数的寿命只有几天或几周，因此构成“我们”的物质一直在变化。事实上，你身体的任何部分都没有存在超过10年。“由于我们的身体本质上每隔几周就会重新形成，仅凭其中的物质显然不足以解释身份持续存在的脉络。”"
+            },
+            {
+              "id": 4,
+              "start": 122.9,
+              "end": 155.3,
+              "text": "Professor Oliver claims that individualism is actually bad for society, and only by realising we are part of a bigger entity can we solve pressing environmental and societal problems. Through selfish over-consumption we are destroying the natural world and using non-renewable resources at an accelerating rate. \"We are at a critical crossroads as a species where we must rapidly reform our mindsets and behaviour to act in less selfish ways,\" he said. \"So let's open our eyes to the hidden connections all around us.\"",
+              "zh": "奥利弗教授声称，个人主义实际上不利于社会，只有意识到我们是更大实体的一部分，才能解决紧迫的环境和社会问题。我们通过自私的过度消费正在摧毁自然世界，并以越来越快的速度消耗不可再生资源。他说：“作为一个物种，我们正处于关键的十字路口，必须迅速改变我们的思维方式和行为，以更加不自私的方式行事。因此，让我们睁开双眼，看清周围隐藏的各种联系。”"
+            }
+          ],
+          "audioDuration": 155.3,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What is indeed just an illusion according to Professor Tom Oliver?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Cultural identity."
+                },
+                {
+                  "key": "B",
+                  "text": "Social evolution."
+                },
+                {
+                  "key": "C",
+                  "text": "The Copernican revolution."
+                },
+                {
+                  "key": "D",
+                  "text": "Human individuality."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：Now, a British academic has claimed that human individuality is indeed just an illusion, because societies are far more interconnected at a mental, physical, and cultural level than people realise.信号：原句直陈定性 。答案句直接用 human individuality is indeed just an illusion 把某概念点定为\"幻觉\"，is just an illusion 这种判定句就是信号，听到\"X…",
+              "optionAnalysis": {
+                "C": "原词陷阱：The Copernican revolution. 盗用了录音第二段反复出现的 Copernican，但哥白尼革命是讲者用来作类比的\"参照\"，不是被称为幻觉的对象，属听到 Copernican 就想选的原词陷阱。 借用原文：A significant milestone in the cultural evolution of human minds",
+                "B": "原词陷阱：Social evolution. 借了录音 the cultural evolution of human minds 里的 evolution 一词，但\"社会／文化演化\"是讲者描述心智发展的背景，并未被定性为幻觉。 借用原文：at a mental, physical, and cultural level",
+                "A": "偷换概念：Cultural identity. 与录音 cultural level 的 cultural 沾边，但讲者说的是\"文化层面的联系\"，从未把\"文化身份\"称为幻觉，属偷换概念。",
+                "D": "正确项：与答案句同义替换（human individuality ↔ Human individuality. 原词直接对应）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Now, a British academic has claimed that human individuality is indeed just an illusion, because societies are far more interconnected at a mental, physical, and cultural level than people realise.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What does Professor Tom Oliver think of the idea that we exist as independent selves at the centre of a subjective universe?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is a delusion to be disposed of."
+                },
+                {
+                  "key": "B",
+                  "text": "It is prevalent even among academics."
+                },
+                {
+                  "key": "C",
+                  "text": "It is a myth spread by John Donne's poem."
+                },
+                {
+                  "key": "D",
+                  "text": "It is rooted in the mindset of the 17th century."
+                }
+              ],
+              "answer": "A",
+              "analysis": "态度观点题。答案句（P2）：However, we have one more big myth to dispose of: that we exist as independent selves at the centre of a subjective universe.信号：转折However后是真意 。句首 However 转折之后才是讲者真正要表达的态度，他把那个想法称为 one more big myth to dispose of（又一个要破除的迷思），处置动词 dispose …",
+              "optionAnalysis": {
+                "D": "原词陷阱：rooted in the mindset of the 17th century 盗用了录音开头 wrote in the 17th century 的时间词，但 17 世纪说的是 John Donne 写诗的年代，讲者从未说那个\"独立自我\"的想法植根于 17 世纪心态，属原词陷阱。 借用原文：every man is a piece of the continent, a part of the main",
+                "C": "张冠李戴：a myth spread by John Donne's poem 把\"迷思\"归因到 John Donne 的诗，盗用了开头出现的 John Donne，但讲者引 Donne 的诗恰恰是支持\"人互相连接\"，并非说这首诗散布了迷思，属张冠李戴。",
+                "B": "未提及：prevalent even among academics（连学者中都很普遍）原文从未提及，讲者只说这是普遍的 illusion，没有专门强调\"在学者中尤其普遍\"，属未提及。",
+                "A": "正确项：与答案句同义替换（one more big myth to dispose of ↔ a delusion to be disposed of myth=delusion同义替换）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "However, we have one more big myth to dispose of: that we exist as independent selves at the centre of a subjective universe.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 24,
+              "stem": "Why does Professor Tom Oliver claim that the material \"us\" is constantly changing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He believes in Copernican philosophical doctrines about the universe."
+                },
+                {
+                  "key": "B",
+                  "text": "He has gained ample scientific evidence at the University of Reading."
+                },
+                {
+                  "key": "C",
+                  "text": "He has found that our inner self and material self are interconnected."
+                },
+                {
+                  "key": "D",
+                  "text": "He contends most of our body cells can only live a few days or weeks."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Professor Oliver argues there are around 37 trillion cells in the body but most have a lifespan of just a few days or weeks, so the material \"us\" is constantly changing.信号：因果so前是原因 。句中 so the material \"us\" is constantly changing 的 so 是结果标志，so 之前的 most have a lifespan of just a fe…",
+              "optionAnalysis": {
+                "B": "原词陷阱：ample scientific evidence at the University of Reading 盗用了录音第一段介绍学者时的 the University of Reading，但那只是说明他的任职单位，原文从未说他在该校获得了大量科学证据，属原词陷阱。 借用原文：Just as Copernicus realised the Earth is not the centre of the universe",
+                "A": "答非所问：He believes in Copernican philosophical doctrines about the universe. 又借 Copernican 一词，但本题问的是\"物质之我为何在变\"，答案是细胞寿命，与哥白尼无关，属答非所问。 借用原文：We are intimately connected to the world around us.",
+                "C": "偷换概念：He has found that our inner self and material self are interconnected. 听上去与全篇\"互相连接\"主旨呼应，但原文并未以\"内在自我与物质自我相连\"来解释物质之我为何变化，是偷换概念、答非所问。",
+                "D": "正确项：与答案句同义替换（most have a lifespan of just a few days or weeks ↔ most of our body cells can only live a few days or weeks lifespan改写为can only live）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Professor Oliver argues there are around 37 trillion cells in the body but most have a lifespan of just a few days or weeks, so the material \"us\" is constantly changing.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "How can we solve pressing environmental and societal problems according to Professor Tom Oliver?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By coming to see how disruptive such problems have got to be."
+                },
+                {
+                  "key": "B",
+                  "text": "By realising that we all can do our own bit in such endeavours."
+                },
+                {
+                  "key": "C",
+                  "text": "By becoming aware that we are part of a bigger world."
+                },
+                {
+                  "key": "D",
+                  "text": "By making joint efforts resolutely and persistently."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P4）：Professor Oliver claims that individualism is actually bad for society, and only by realising we are part of a bigger entity can we solve pressing environmental and societal problems.信号：only by引出唯一途径 。句中 only by realising we are part of a bigger entity 用 only by 引出唯一解决途径，only by 这种限定条件结构是答案信号，…",
+              "optionAnalysis": {
+                "D": "未提及：By making joint efforts resolutely and persistently（坚定持久地共同努力）听上去正确且积极，但原文给的办法是\"意识到自己属于更大整体\"，并未说靠\"坚定持久的共同努力\"，属未提及的正确话陷阱。",
+                "B": "偷换概念：By realising that we all can do our own bit in such endeavours（意识到人人能尽一份力）借了 realising 一词，但原文 realising 后接的是\"我们是更大整体的一部分\"，不是\"人人能尽一份力\"，属偷换概念。",
+                "A": "未提及：By coming to see how disruptive such problems have got to be（认清这些问题有多具破坏性）原文并未把\"看清问题严重\"作为解决之道，讲者给的解法是意识到自己属于更大整体，属未提及。",
+                "C": "正确项：与答案句同义替换（realising we are part of a bigger entity ↔ becoming aware that we are part of a bigger world entity改写为world）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Professor Oliver claims that individualism is actually bad for society, and only by realising we are part of a bigger entity can we solve pressing environmental and societal problems.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "It's quite remarkable how different genres of music can spark unique feelings, emotions, and memories. Studies have shown that music can reduce stress and anxiety before surgeries and we are all attracted toward our own unique life soundtrack.\n\nIf you're looking to 26______ stress, you might want to give classical music a try.\n\nThe sounds of classical music produce a calming effect letting 27______ pleasure-inducing dopamine(多巴胺) in the brain that helps control attention, learning and emotional responses. It can also turn down the body's stress response, resulting in an overall happier mood. It turns out a pleasant mood can lead to 28______ in a person's thinking.\n\nAlthough there are many great 29______ of classical music like Bach, Beethoven and Handel, none of these artists' music seems to have the same health effects as Mozart's does. According to researchers, listening to Mozart can increase brain wave activity and improve 30______ function. Another study found that the distinctive features of Mozart's music trigger parts of the brain that are responsible for high-level mental functions. Even maternity 31______ use Mozart to help newborn babies adapt to life outside of the mother's belly.\n\nIt has been found that listening to classical music 32______ reduces a person's blood pressure. Researchers believe that the calming sounds of classical music may help your heart 33______ from stress. Classical music can also be a great tool to help people who have trouble sleeping. One study found that students who had trouble sleeping slept better while they were listening to classical music.\n\nWhether classical music is something that you listen to on a regular basis or not, it wouldn't 34______ to take time out of your day to listen to music that you find 35______ . You will be surprised at how good it makes you feel and the potentially positive change in your health."
+            },
+            {
+              "label": "词库",
+              "text": "A) alleviate\nB) clarity\nC) cognitive\nD) composers\nE) hurt\nF) inhibiting\nG) interrogation\nH) intrinsically\nI) loose\nJ) majestic\nK) mandatory\nL) recover\nM) significantly\nN) soothing\nO) wards"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "alleviate"
+                },
+                {
+                  "key": "B",
+                  "text": "clarity"
+                },
+                {
+                  "key": "C",
+                  "text": "cognitive"
+                },
+                {
+                  "key": "D",
+                  "text": "composers"
+                },
+                {
+                  "key": "E",
+                  "text": "hurt"
+                },
+                {
+                  "key": "F",
+                  "text": "inhibiting"
+                },
+                {
+                  "key": "G",
+                  "text": "interrogation"
+                },
+                {
+                  "key": "H",
+                  "text": "intrinsically"
+                },
+                {
+                  "key": "I",
+                  "text": "loose"
+                },
+                {
+                  "key": "J",
+                  "text": "majestic"
+                },
+                {
+                  "key": "K",
+                  "text": "mandatory"
+                },
+                {
+                  "key": "L",
+                  "text": "recover"
+                },
+                {
+                  "key": "M",
+                  "text": "significantly"
+                },
+                {
+                  "key": "N",
+                  "text": "soothing"
+                },
+                {
+                  "key": "O",
+                  "text": "wards"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) alleviate\n【原文】alleviate stress=缓解压力，是固定搭配\nL) recover 搭配错位：通常 recover from stress，不直接 recover stress：recover 表「从……恢复」时几乎都用 recover from sth，直接接 stress 不合英语习惯；且本句要表达的是「减轻」而非「恢复」压力。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "alleviate"
+                },
+                {
+                  "key": "B",
+                  "text": "clarity"
+                },
+                {
+                  "key": "C",
+                  "text": "cognitive"
+                },
+                {
+                  "key": "D",
+                  "text": "composers"
+                },
+                {
+                  "key": "E",
+                  "text": "hurt"
+                },
+                {
+                  "key": "F",
+                  "text": "inhibiting"
+                },
+                {
+                  "key": "G",
+                  "text": "interrogation"
+                },
+                {
+                  "key": "H",
+                  "text": "intrinsically"
+                },
+                {
+                  "key": "I",
+                  "text": "loose"
+                },
+                {
+                  "key": "J",
+                  "text": "majestic"
+                },
+                {
+                  "key": "K",
+                  "text": "mandatory"
+                },
+                {
+                  "key": "L",
+                  "text": "recover"
+                },
+                {
+                  "key": "M",
+                  "text": "significantly"
+                },
+                {
+                  "key": "N",
+                  "text": "soothing"
+                },
+                {
+                  "key": "O",
+                  "text": "wards"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) loose\n【原文】letting __(27)__ pleasure-inducing dopamine(多巴胺) in the brain，loose 这里作动词意为「释放」，与「大脑释放令人愉悦的多巴胺」语义完美对应，也呼应 produce a calming effect 的因果链。\n最具迷惑性的错误词是 F) —— 看到 letting 容易误以为后跟 -ing 并列 。考生可能把 letting __(27)__ pleasure-inducing dopamine(多巴胺) in the brain 误读成两个 -ing 并列，从而填 inhibiting；但 let + 宾语 + 动词原形才是正解，且 inhibiting 与「释放多巴胺」语义相反，是典型反向干扰。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "alleviate"
+                },
+                {
+                  "key": "B",
+                  "text": "clarity"
+                },
+                {
+                  "key": "C",
+                  "text": "cognitive"
+                },
+                {
+                  "key": "D",
+                  "text": "composers"
+                },
+                {
+                  "key": "E",
+                  "text": "hurt"
+                },
+                {
+                  "key": "F",
+                  "text": "inhibiting"
+                },
+                {
+                  "key": "G",
+                  "text": "interrogation"
+                },
+                {
+                  "key": "H",
+                  "text": "intrinsically"
+                },
+                {
+                  "key": "I",
+                  "text": "loose"
+                },
+                {
+                  "key": "J",
+                  "text": "majestic"
+                },
+                {
+                  "key": "K",
+                  "text": "mandatory"
+                },
+                {
+                  "key": "L",
+                  "text": "recover"
+                },
+                {
+                  "key": "M",
+                  "text": "significantly"
+                },
+                {
+                  "key": "N",
+                  "text": "soothing"
+                },
+                {
+                  "key": "O",
+                  "text": "wards"
+                }
+              ],
+              "answer": "B",
+              "type": "选词填空",
+              "analysis": "【答案】B（官方答案）\n应填 B) clarity\n【原文】clarity in thinking=思维清晰\nIt turns out a pleasant mood can lead to __(28)__ in a person's thinking. 中 clarity in (one's) thinking 是英语固定表达，意思是「思路清晰」，与「愉悦情绪带来思维清晰」的因果链贴合，也承接前文古典音乐的认知促进作用。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "alleviate"
+                },
+                {
+                  "key": "B",
+                  "text": "clarity"
+                },
+                {
+                  "key": "C",
+                  "text": "cognitive"
+                },
+                {
+                  "key": "D",
+                  "text": "composers"
+                },
+                {
+                  "key": "E",
+                  "text": "hurt"
+                },
+                {
+                  "key": "F",
+                  "text": "inhibiting"
+                },
+                {
+                  "key": "G",
+                  "text": "interrogation"
+                },
+                {
+                  "key": "H",
+                  "text": "intrinsically"
+                },
+                {
+                  "key": "I",
+                  "text": "loose"
+                },
+                {
+                  "key": "J",
+                  "text": "majestic"
+                },
+                {
+                  "key": "K",
+                  "text": "mandatory"
+                },
+                {
+                  "key": "L",
+                  "text": "recover"
+                },
+                {
+                  "key": "M",
+                  "text": "significantly"
+                },
+                {
+                  "key": "N",
+                  "text": "soothing"
+                },
+                {
+                  "key": "O",
+                  "text": "wards"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) composers\n【原文】like Bach, Beethoven and Handel 是教科书级的古典作曲家清单，composers 与之构成「上义词—举例」的关系，语义和复数形态都完美对上。\nlike Bach, Beethoven and Handel 是教科书级的古典作曲家清单，composers 与之构成「上义词—举例」的关系，语义和复数形态都完美对上。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "alleviate"
+                },
+                {
+                  "key": "B",
+                  "text": "clarity"
+                },
+                {
+                  "key": "C",
+                  "text": "cognitive"
+                },
+                {
+                  "key": "D",
+                  "text": "composers"
+                },
+                {
+                  "key": "E",
+                  "text": "hurt"
+                },
+                {
+                  "key": "F",
+                  "text": "inhibiting"
+                },
+                {
+                  "key": "G",
+                  "text": "interrogation"
+                },
+                {
+                  "key": "H",
+                  "text": "intrinsically"
+                },
+                {
+                  "key": "I",
+                  "text": "loose"
+                },
+                {
+                  "key": "J",
+                  "text": "majestic"
+                },
+                {
+                  "key": "K",
+                  "text": "mandatory"
+                },
+                {
+                  "key": "L",
+                  "text": "recover"
+                },
+                {
+                  "key": "M",
+                  "text": "significantly"
+                },
+                {
+                  "key": "N",
+                  "text": "soothing"
+                },
+                {
+                  "key": "O",
+                  "text": "wards"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) cognitive\n【原文】cognitive function=认知功能，脑科学固定搭配\nJ) majestic 义为「雄伟壮丽」，与脑功能不搭：majestic 用来修饰山川宫殿等宏伟事物，与 function 搭配语义不通，且本段讨论的是大脑健康，不存在审美维度。\nK) mandatory 义为「强制的」，与「improve」宾语逻辑冲突：mandatory function 意思变成「强制功能」，与「听莫扎特改善大脑功能」的因果链完全错位。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "alleviate"
+                },
+                {
+                  "key": "B",
+                  "text": "clarity"
+                },
+                {
+                  "key": "C",
+                  "text": "cognitive"
+                },
+                {
+                  "key": "D",
+                  "text": "composers"
+                },
+                {
+                  "key": "E",
+                  "text": "hurt"
+                },
+                {
+                  "key": "F",
+                  "text": "inhibiting"
+                },
+                {
+                  "key": "G",
+                  "text": "interrogation"
+                },
+                {
+                  "key": "H",
+                  "text": "intrinsically"
+                },
+                {
+                  "key": "I",
+                  "text": "loose"
+                },
+                {
+                  "key": "J",
+                  "text": "majestic"
+                },
+                {
+                  "key": "K",
+                  "text": "mandatory"
+                },
+                {
+                  "key": "L",
+                  "text": "recover"
+                },
+                {
+                  "key": "M",
+                  "text": "significantly"
+                },
+                {
+                  "key": "N",
+                  "text": "soothing"
+                },
+                {
+                  "key": "O",
+                  "text": "wards"
+                }
+              ],
+              "answer": "O",
+              "type": "选词填空",
+              "analysis": "【答案】O（官方答案）\n应填 O) wards\n【原文】maternity wards 固定搭配=产科病房\nEven maternity __(31)__ use Mozart to help newborn babies 中「产科病房放莫扎特给新生儿听」是常识场景，wards 与 maternity 形成医院科室专名，语义、形态、搭配三对齐。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "alleviate"
+                },
+                {
+                  "key": "B",
+                  "text": "clarity"
+                },
+                {
+                  "key": "C",
+                  "text": "cognitive"
+                },
+                {
+                  "key": "D",
+                  "text": "composers"
+                },
+                {
+                  "key": "E",
+                  "text": "hurt"
+                },
+                {
+                  "key": "F",
+                  "text": "inhibiting"
+                },
+                {
+                  "key": "G",
+                  "text": "interrogation"
+                },
+                {
+                  "key": "H",
+                  "text": "intrinsically"
+                },
+                {
+                  "key": "I",
+                  "text": "loose"
+                },
+                {
+                  "key": "J",
+                  "text": "majestic"
+                },
+                {
+                  "key": "K",
+                  "text": "mandatory"
+                },
+                {
+                  "key": "L",
+                  "text": "recover"
+                },
+                {
+                  "key": "M",
+                  "text": "significantly"
+                },
+                {
+                  "key": "N",
+                  "text": "soothing"
+                },
+                {
+                  "key": "O",
+                  "text": "wards"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) significantly\n【原文】It has been found that listening to classical music __(32)__ reduces a person's blood pressure. 是科研结论句，常用 significantly 表达「显著降低血压」——这是研究类英语的高频搭配。\nH) intrinsically 义为「本质上」，与外在效果不搭：intrinsically 强调「内在属性」，但 reduces a person's blood pressure 描述的是可观测的外部效果，逻辑指向不一致；研究语境惯用 sig"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "alleviate"
+                },
+                {
+                  "key": "B",
+                  "text": "clarity"
+                },
+                {
+                  "key": "C",
+                  "text": "cognitive"
+                },
+                {
+                  "key": "D",
+                  "text": "composers"
+                },
+                {
+                  "key": "E",
+                  "text": "hurt"
+                },
+                {
+                  "key": "F",
+                  "text": "inhibiting"
+                },
+                {
+                  "key": "G",
+                  "text": "interrogation"
+                },
+                {
+                  "key": "H",
+                  "text": "intrinsically"
+                },
+                {
+                  "key": "I",
+                  "text": "loose"
+                },
+                {
+                  "key": "J",
+                  "text": "majestic"
+                },
+                {
+                  "key": "K",
+                  "text": "mandatory"
+                },
+                {
+                  "key": "L",
+                  "text": "recover"
+                },
+                {
+                  "key": "M",
+                  "text": "significantly"
+                },
+                {
+                  "key": "N",
+                  "text": "soothing"
+                },
+                {
+                  "key": "O",
+                  "text": "wards"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) recover\n【原文】recover from stress=从压力中恢复\nthe calming sounds of classical music may help your heart __(33)__ from stress. 是医学/心理类英语固定表达，与本段「古典音乐降血压、护心」的主题完全契合。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "alleviate"
+                },
+                {
+                  "key": "B",
+                  "text": "clarity"
+                },
+                {
+                  "key": "C",
+                  "text": "cognitive"
+                },
+                {
+                  "key": "D",
+                  "text": "composers"
+                },
+                {
+                  "key": "E",
+                  "text": "hurt"
+                },
+                {
+                  "key": "F",
+                  "text": "inhibiting"
+                },
+                {
+                  "key": "G",
+                  "text": "interrogation"
+                },
+                {
+                  "key": "H",
+                  "text": "intrinsically"
+                },
+                {
+                  "key": "I",
+                  "text": "loose"
+                },
+                {
+                  "key": "J",
+                  "text": "majestic"
+                },
+                {
+                  "key": "K",
+                  "text": "mandatory"
+                },
+                {
+                  "key": "L",
+                  "text": "recover"
+                },
+                {
+                  "key": "M",
+                  "text": "significantly"
+                },
+                {
+                  "key": "N",
+                  "text": "soothing"
+                },
+                {
+                  "key": "O",
+                  "text": "wards"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) hurt\n【原文】it wouldn't hurt to do = 做……不会有坏处\nA) alleviate 及物动词，需要直接宾语，与 to do 不配：alleviate 后必须接被缓解的对象（如 alleviate stress），而本句结构是 it wouldn't ___ to take…，空后没有宾语而是不定式短语，与 a\nL) recover 义为「恢复」，与「做某事不会有坏处」语义错位：it wouldn't recover to do 不构成英语习惯表达，recover 通常接 from / sth，且与作者「建议你抽空听听音乐」的语气也对不上；且 33 题已用"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "alleviate"
+                },
+                {
+                  "key": "B",
+                  "text": "clarity"
+                },
+                {
+                  "key": "C",
+                  "text": "cognitive"
+                },
+                {
+                  "key": "D",
+                  "text": "composers"
+                },
+                {
+                  "key": "E",
+                  "text": "hurt"
+                },
+                {
+                  "key": "F",
+                  "text": "inhibiting"
+                },
+                {
+                  "key": "G",
+                  "text": "interrogation"
+                },
+                {
+                  "key": "H",
+                  "text": "intrinsically"
+                },
+                {
+                  "key": "I",
+                  "text": "loose"
+                },
+                {
+                  "key": "J",
+                  "text": "majestic"
+                },
+                {
+                  "key": "K",
+                  "text": "mandatory"
+                },
+                {
+                  "key": "L",
+                  "text": "recover"
+                },
+                {
+                  "key": "M",
+                  "text": "significantly"
+                },
+                {
+                  "key": "N",
+                  "text": "soothing"
+                },
+                {
+                  "key": "O",
+                  "text": "wards"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) soothing\n【原文】music + soothing=令人舒缓的音乐\nF) inhibiting 义为「抑制的」，感情色彩与劝勉语气冲突：inhibiting 带消极色彩，意为「让人放不开/受抑制」，与作者鼓励读者享受音乐、放松身心的结尾语气完全相反；命题人故意把它放进来当陷阱。\nA) alleviate 动词：减轻、缓解（不适、痛苦、压力等） 用于第 26 空\nB) clarity 名词：清晰、清楚、清晰度 用于第 28 空\nC) cognitive 形容词：认知的、与认知有关的 用于第 30 空"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In the city of Athens, Georgia, there exists a rather curious local landmark—a large white oak that is almost universally stated to own itself. Because of this, it is considered one of the most famous trees in the world. So how did this tree come to own itself and the land around it?"
+            },
+            {
+              "label": "B",
+              "text": "Sometime in the 19th century a Georgian called Colonel William Jackson reportedly took a liking to the said tree and endeavored to protect it from any danger. As to why he loved it so, the earliest documented account of this story is an anonymously written front page article in the Athens Weekly Banner published on August 12, 1890. It states, \"Col. Jackson had watched the tree grow from his childhood, and grew to love it almost as he would a human. Its luxuriant leaves and sturdy limbs had often protected him from the heavy rains, and out of its highest branches he had many a time gotten the eggs of the feathered singers. He watched its growth, and when reaching a ripe old age he saw the tree standing in its magnificent proportions, he was pained to think that after his death it would fall into the hands of those who might destroy it.\""
+            },
+            {
+              "label": "C",
+              "text": "Towards this end, Jackson transferred by means of a deed ownership of the tree and a little land around it to the tree itself. The deed read, \"W. H. Jackson for and in consideration of the great affection which he bears the said tree, and his great desire to see it protected has conveyed unto the said oak tree entire possession of itself and of all land within eight feet of it on all sides.\""
+            },
+            {
+              "label": "D",
+              "text": "In time, the tree came to be something of a tourist attraction, known as The Tree That Owns Itself. However, in the early 20th century, the tree started showing signs of its slow death, with little that could be done about it. Father time comes for us all eventually, even our often long lived, tall and leafy fellow custodians(看管者) of Earth. Finally, on October 9, 1942, the over 30 meter tall and 200-400 year old tree fell, rumor has it, as a result of a severe windstorm and/or via having previously died and its roots rotted."
+            },
+            {
+              "label": "E",
+              "text": "About four years later, members of the Junior Ladies Garden Club (who'd tended to the tree before its unfortunate death) tracked down a small tree grown from a nut taken from the original tree. And so it was that on October 9, 1946, under the direction of Professor Roy Bowden of the College of Agriculture at the University of Georgia, this little tree was transplanted to the location of its ancestor. A couple of months later, an official ceremony was held featuring none other than the Mayor of Athens, Robert L McWhorter, to commemorate the occasion."
+            },
+            {
+              "label": "F",
+              "text": "This new tree became known as The Son of the Tree That Owns Itself and it was assumed that, as the original tree's heir, it naturally inherited the land it stood on. Of course, there are many dozens of other trees known to exist descending from the original, as people taking a nut from it to grow elsewhere was a certainty. That said, to date, none of the original tree's other children have petitioned the courts for their share of the land, so it seems all good. In any event, The Son of the Tree That Owns Itself still stands today, though often referred to simply as The Tree That Owns Itself."
+            },
+            {
+              "label": "G",
+              "text": "This all brings us around to whether Jackson ever actually gave legal ownership of the tree to itself in the first place and whether such a deed is legally binding."
+            },
+            {
+              "label": "H",
+              "text": "Well, to begin with, it turns out Jackson only spent about three years of his life in Athens, starting at the age of 43 from 1829 to 1832, sort of dismissing the idea that he loved the tree from spending time under it as a child and watching it grow, and then worrying about what would happen to it after he died. Further, an extensive search of land ownership records in Athens does not seem to indicate Jackson ever owned the land the tree sits on."
+            },
+            {
+              "label": "I",
+              "text": "He did live on a lot of land directly next to it for those three years, but whether he owned that land or not isn't clear. Whatever the case, in 1832 a four acre parcel, which included the land the tree was on and the neighboring land Jackson lived on, among others, was sold to University professor Malthus A Ward. In the transaction, Ward was required to pay Jackson a sum of $1,200 (about $31, 000 today), either for the property itself or simply in compensation for improvements Jackson had made on the lot. In the end, whether he ever owned the neighboring lot or was simply allowed to use it while he allegedly worked at the University, he definitely never owned the lot the tree grew on, which is the most important bit for the topic at hand."
+            },
+            {
+              "label": "J",
+              "text": "After Professor Ward purchased the land, Jackson and his family purchased a 655 acre parcel a few miles away and moved there. Ten years later, in 1844, Jackson seemed to have come into financial difficulties and had his little plantation seized by the Clarke County Sheriff's office and auctioned off to settle the mortgage. Thus, had he owned some land in Athens itself, including the land the tree sat on, presumably he would have sold it to raise funds or otherwise had it taken as well."
+            },
+            {
+              "label": "K",
+              "text": "And whatever the case there, Jackson would have known property taxes needed to be paid on the deeded land for the tree to be truly secure in its future. Yet no account or record indicates any trust or the like was set up to facilitate this."
+            },
+            {
+              "label": "L",
+              "text": "On top of all this, there is no hard evidence such a deed ever existed, despite the fact that deed records in Athens go back many decades before Jackson's death in 1876 and that it was supposed to have existed in 1890 in the archives according to the original anonymous news reporter who claims to have seen it."
+            },
+            {
+              "label": "M",
+              "text": "As you might imagine from all of this, few give credit to this side of the story. So how did all of this come about then?"
+            },
+            {
+              "label": "N",
+              "text": "It is speculated to have been invented by the imagination of the said anonymous author at the Athens Weekly Banner in the aforementioned 1890 front page article titled \"Deeded to Itself\", which by the way contained several elements that are much more easily proved to be false. As to why the author would do this, it's speculated perhaps it was a 19th century version of a click-bait thought exercise on whether it would be legal for someone to deed such a non-conscious living thing to itself or not."
+            },
+            {
+              "label": "O",
+              "text": "Whatever the case, the next known instance of the Tree That Owns Itself being mentioned wasn't until 1901 in the Centennial Edition of that same paper, the Athens Weekly Banner. This featured another account very clearly just copying the original article published about a decade before, only slightly reworded. The next account was in 1906, again in the Athens Weekly Banner, again very clearly copying the original account, only slightly reworded, the 19th century equivalent of re-posts when the audience has forgotten about the original."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Jackson was said to have transferred his ownership of the oak tree to itself in order to protect it from being destroyed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】Towards this end, Jackson transferred by means of a deed ownership of the tree and a little land around it to the tree itself.\nCol. Jackson had watched the tree grow from his childhood, and grew to love it almost as he would a human 解释他为何爱树，是 C 段动作的情感铺垫，但本段并未出现『转让所有权』这一关键动作，因而不是源头段。"
+            },
+            {
+              "number": 37,
+              "stem": "No proof has been found from an extensive search that Jackson had ever owned the land where the oak tree grew.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（强锚点）\n【原文】Further, an extensive search of land ownership records in Athens does not seem to indicate Jackson ever owned the land the tree sits on.\nthere is no hard evidence such a deed ever existed 否定的是『契约存在过』，与题干 Jackson had ever owned the land 否定的是『他曾拥有土地』，否定的宾语完全不同，因而不是源头段。"
+            },
+            {
+              "number": 38,
+              "stem": "When it was raining heavily, Jackson often took shelter under a big tree that is said to own itself.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（强锚点）\n【原文】Its luxuriant leaves and sturdy limbs had often protected him from the heavy rains, and out of its highest branches he had many a time gotten the eggs of the feathered singers.\nJackson transferred by means of a deed ownership of the tree 与下雨场景毫不相干，C 段只共享专名 Jackson 与同一棵树，不承载题干的雨中避雨细节。"
+            },
+            {
+              "number": 39,
+              "stem": "There is no evidence that Jackson had made arrangements to pay property taxes for the land on which the oak tree sat.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】Yet no account or record indicates any trust or the like was set up to facilitate this.\nthere is no hard evidence such a deed ever existed 否定的是契约本身的存在，与题干 to pay property taxes 这一税务安排无关，不是源头段。"
+            },
+            {
+              "number": 40,
+              "stem": "Professor Ward paid Jackson over one thousand dollars when purchasing a piece of land from him.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（强锚点）\n【原文】In the transaction, Ward was required to pay Jackson a sum of $1,200 (about $31,000 today), either for the property itself or simply in compensation for improvements Jackson had made on the lot.\nhad his little plantation seized by the Clarke County Sheriff's office and auctioned off to settle the mortgage 讲的是杰克逊家庄园被法警拍卖偿债，没有出现 Ward 也没有具体金额，与题干 Professor Ward paid Jackson 的人物方向相反，属于话题相邻但人物方向不符。"
+            },
+            {
+              "number": 41,
+              "stem": "It is said the tree that owned itself fell in a heavy windstorm.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】Finally, on October 9, 1942, the over 30 meter tall and 200-400 year old tree fell, rumor has it, as a result of a severe windstorm and/or via having previously died and its roots rotted.\n最终在 1942 年 10 月 9 日，这棵超过 30 米高、树龄 200 至 400 年的大树倒下了；传言说是由于一场强风暴，又或是因为它早已死去、树根烂掉所致。"
+            },
+            {
+              "number": 42,
+              "stem": "The story of the oak tree is suspected to have been invented as a thought exercise.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "N",
+                  "text": "Paragraph N"
+                }
+              ],
+              "answer": "N",
+              "type": "信息匹配",
+              "analysis": "【答案】N（强锚点）\n【原文】As to why the author would do this, it's speculated perhaps it was a 19th century version of a click-bait thought exercise on whether it would be legal for someone to deed such a non-conscious living thing to itself or not.\nSo how did all of this come about then? 只是过渡反问，没有提到 thought exercise，未承载题干的核心断言，因而不是源头段。"
+            },
+            {
+              "number": 43,
+              "stem": "Jackson's little plantation was auctioned off to settle his debt in the mid-19th century.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】Ten years later, in 1844, Jackson seemed to have come into financial difficulties and had his little plantation seized by the Clarke County Sheriff's office and auctioned off to settle the mortgage.\na four acre parcel ... was sold to University professor Malthus A Ward 是 1832 年的正常出售，既不是『auctioned off』，年份也偏早（19 世纪上半叶早期，并非中叶），与题干 auctioned off to settle his debt in the mid-19th century 不符。"
+            },
+            {
+              "number": 44,
+              "stem": "An official ceremony was held to celebrate the transplanting of a small tree to where its ancestor had stood.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】A couple of months later, an official ceremony was held featuring none other than the Mayor of Athens, Robert L McWhorter, to commemorate the occasion.\nThis new tree became known as The Son of the Tree That Owns Itself and it was assumed that, as the original tree's heir, it naturally inherited the land it stood on 讲的是新树继承土地的故事，与题干 An official ceremony 的官方仪式不在同一事件，属于话题相邻而非源头段。"
+            },
+            {
+              "number": 45,
+              "stem": "The story of the Tree That Owns Itself appeared in the local paper several times, with slight alterations in wording.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "O",
+                  "text": "Paragraph O"
+                }
+              ],
+              "answer": "O",
+              "type": "信息匹配",
+              "analysis": "【答案】O（强锚点）\n【原文】This featured another account very clearly just copying the original article published about a decade before, only slightly reworded. The next account was in 1906, again in the Athens Weekly Banner, again very clearly copying the original account, only slightly reworded, the 19th century equivalent of re-posts when the audience has forgotten about the original.\n2024年6月英语六级真题第1套 长篇阅读（信息匹配） 第 1 篇 45. The story of the Tree That Owns Itself appeared in the local paper several times, with slight alterations in wording. 这句陈述的信息出自第几段？为什么？ 2024年6月英语六级真题第1套 长篇阅读（信息匹配） 第 1 篇 第 45 句的信息出自 O 段（强锚点句）。O 段定位句为「This featured another account very clearly just copying the original article published about a decade before, only slightly reworded. The next account was in 1906, again in the Athens Weekly Banner, again very clearly copying the original account, only slightly reworded, the 19th century equivalent of re-posts when the audience has forgotten about the original.」（这（1901 年那一期）刊登了另一篇报道，明显只是抄录大约十年前的那篇原始报道，只是稍作改写。下一次出现在 1906 年，又是登在 Athens Weekly Banner 上，又是明显抄录原文，只是稍作改写；这相当于 19 世纪版的『读者忘了原帖后再发一遍』。）。陈述句是对原文的同义改写（appeared in the local paper several times ↔ the next known instance of the Tree That Owns Itself being mentioned wasn't until 1901 ... The next account was in 1906, again in the Athens Weekly Banner；with slight alterations in wording ↔ only slightly reworded）。与之话题相邻的 N 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "It is irrefutable that employees know the difference between right and wrong. So why don't more employees intervene when they see someone exhibiting at-risk behavior in the workplace?"
+            },
+            {
+              "label": "B",
+              "text": "There are a number of factors that influence whether people intervene. First, they need to be able to see a risky situation beginning to unfold. Second, the company's culture needs to make them feel safe to speak up. And third, they need to have the communication skills to say something effectively."
+            },
+            {
+              "label": "C",
+              "text": "This is not strictly a workplace problem; it's a growing problem off the job too. Every day people witness things on the street and choose to stand idly by. This is known as the bystander effect—the more people who witness an event, the less likely anyone in that group is to help the victim. The psychology behind this is called diffusion of responsibility. Basically, the larger the crowd, the more people assume that someone else will take care of it—meaning no one effectively intervenes or acts in a moment of need."
+            },
+            {
+              "label": "D",
+              "text": "This crowd mentality is strong enough for people to evade their known responsibilities. But it's not only frontline workers who don't make safety interventions in the workplace. There are also instances where supervisors do not intervene either."
+            },
+            {
+              "label": "E",
+              "text": "When a group of employees sees unsafe behavior not being addressed at a leadership level it creates the precedent that this is how these situations should be addressed, thus defining the safety culture for everyone."
+            },
+            {
+              "label": "F",
+              "text": "Despite the fact that workers are encouraged to intervene when they observe unsafe operations, this happens less than half of the time. Fear is the ultimate factor in not intervening. There is a fear of penalty, a fear that they'll have to do more work if they intervene. Unsuccessful attempts in the past are another strong contributing factor to why people don't intervene—they tend to prefer to defer that action to someone else for all future situations."
+            },
+            {
+              "label": "G",
+              "text": "On many worksites, competent workers must be appointed. Part of their job is to intervene when workers perform a task without the proper equipment or if the conditions are unsafe. Competent workers are also required to stop work from continuing when there's a danger."
+            },
+            {
+              "label": "H",
+              "text": "Supervisors also play a critical role. Even if a competent person isn't required, supervisors need a broad set of skills to not only identify and alleviate workplace hazards but also build a safety climate within their team that supports intervening and open communication among them."
+            },
+            {
+              "label": "I",
+              "text": "Beyond competent workers and supervisors, it's important to educate everyone within the organization that they are obliged to intervene if they witness a possible unsafe act, whether you're a designated competent person, a supervisor or a frontline worker."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What is one of the factors contributing to failure of intervention in face of risky behavior in the workplace?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Slack supervision style."
+                },
+                {
+                  "key": "B",
+                  "text": "Unfavorable workplace culture."
+                },
+                {
+                  "key": "C",
+                  "text": "Unforeseeable risk."
+                },
+                {
+                  "key": "D",
+                  "text": "Blocked communication."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Second, the company's culture needs to make them feel safe to speak up.\nA) 无中生有：P2 列举的三个因素中并无 Slack supervision style（监管松懈）。supervisors 在 P4 P8 才出现，且讨论的是是否亲自干预，与「监管风格松懈」无\nB) ✓ 正确：the company's culture needs to make them feel safe to speak up ↔ Unfavorable workplace cul\nC) 与原文相反：they need to be able to see a risky situation beginning to unfold 说的是「员工要能预见风险」，而 Unforese\nD) 偷换概念：they need to have the communication skills to say something effectively 说的是「需要具备沟通技能」，强调的是"
+            },
+            {
+              "number": 47,
+              "stem": "What does the author mean by \"diffusion of responsibility\" (Para. 3)?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The more people are around, the more they need to worry about their personal safety."
+                },
+                {
+                  "key": "B",
+                  "text": "The more people who witness an event, the less likely anyone will venture to"
+                },
+                {
+                  "key": "C",
+                  "text": "The more people idling around on the street, the more likely they need taking care of."
+                },
+                {
+                  "key": "D",
+                  "text": "The more people are around, the less chance someone will step forward to intervene."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（词义句意题）\n【原文】Basically, the larger the crowd, the more people assume that someone else will take care of it—meaning no one effectively intervenes or acts in a moment of need.\nA) 偷换概念：they need to worry about their personal safety 把原文「无人干预他人」的话题偷换成「担心自身安全」，自身安全在 P3 里根本未提及。\nB) 答非所问：The more people who witness an event, the less likely anyone will venture to 后半句 venture t\nC) 偷换概念：people idling around on the street 把原文 stand idly by 的「袖手旁观者」读成「街上闲逛的人」，并称他们「需要被照顾」，与 diff\nD) ✓ 正确：the larger the crowd, the more people assume that someone else will take care of it ↔ The "
+            },
+            {
+              "number": 48,
+              "stem": "What happens when unsafe behavior at the workplace is not addressed by the leaders?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "No one will intervene when they see similar behaviors."
+                },
+                {
+                  "key": "B",
+                  "text": "Everyone will see it as the easiest way to deal with crisis."
+                },
+                {
+                  "key": "C",
+                  "text": "Workers have to take extra caution executing their duties."
+                },
+                {
+                  "key": "D",
+                  "text": "Workers are left to take care of the emergency themselves."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】When a group of employees sees unsafe behavior not being addressed at a leadership level it creates the precedent that this is how these situations should be addressed, thus defining the safety culture for everyone.\nA) ✓ 正确：it creates the precedent that this is how these situations should be addressed ↔ No one wi\nB) 过度推断：原文只说形成「该这样处理」的先例，并未评价它是 the easiest way；且「危机处理」角度也是 crisis 强加的描述。\nC) 无中生有：Workers have to take extra caution 在原文中找不到根据，原文是说大家集体不干预，并非「工人变得更小心」。\nD) 与原文相反：Workers are left to take care of the emergency themselves 说工人会自己去处理紧急情况，而 P5 的逻辑是「没人去处理」，方"
+            },
+            {
+              "number": 49,
+              "stem": "What is the ultimate reason workers won't act when they see unsafe operations?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Preference of deferring the action to others."
+                },
+                {
+                  "key": "B",
+                  "text": "Anticipation of leadership intervention."
+                },
+                {
+                  "key": "C",
+                  "text": "Fear of being isolated by coworkers."
+                },
+                {
+                  "key": "D",
+                  "text": "Fear of having to do more work."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Fear is the ultimate factor in not intervening. There is a fear of penalty, a fear that they'll have to do more work if they intervene.\nA) 答非所问：Preference of deferring the action to others 对应 they tend to prefer to defer that action t\nB) 无中生有：Anticipation of leadership intervention 在 P6 没有依据。文中 P4 P5 提到 leadership 不干预，但谈的是「领导自己不出手」\nC) 无中生有：Fear of being isolated by coworkers 中「被同事孤立」在 P6 罗列的几种 fear（penalty / do more work / unsuc\nD) ✓ 正确：a fear that they'll have to do more work if they intervene ↔ Fear of having to do more wor"
+            },
+            {
+              "number": 50,
+              "stem": "What is critical to ensuring workplace safety?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Workers be trained to operate their equipment properly."
+                },
+                {
+                  "key": "B",
+                  "text": "Workers exhibiting at-risk behavior be strictly disciplined."
+                },
+                {
+                  "key": "C",
+                  "text": "Supervisors create a safety environment for timely intervention."
+                },
+                {
+                  "key": "D",
+                  "text": "Supervisors conduct effective communication with frontline workers."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Supervisors also play a critical role. Even if a competent person isn't required, supervisors need a broad set of skills to not only identify and alleviate workplace hazards but also build a safety climate within their team that supports intervening and open communication among them.\nA) 无中生有：Workers be trained to operate their equipment properly 中「培训工人正确操作设备」在原文中无对应；without the pr\nB) 过度推断：Workers exhibiting at-risk behavior be strictly disciplined 中「对有风险行为的工人进行严厉惩戒」，P6 只是说工人怕 p\nC) ✓ 正确：build a safety climate within their team that supports intervening ↔ Supervisors create a \nD) 以偏概全：Supervisors conduct effective communication with frontline workers 抓住了 open communication，"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The term \"environmentalist\" can mean different things. It used to refer to people trying to protect wildlife and natural ecosystems. In the 21st century, the term has evolved to capture the need to combat human-made climate change."
+            },
+            {
+              "label": "B",
+              "text": "The distinction between these two strands of environmentalism is the cause of a split within the scientific community about nuclear energy."
+            },
+            {
+              "label": "C",
+              "text": "On one side are purists who believe nuclear power isn't worth the risk and the exclusive solution to the climate crisis is renewable energy. The opposing side agrees that renewables are crucial, but says society needs an amount of power available to meet consumers' basic demands when the sun isn't shining and the wind isn't blowing. Nuclear energy, being far cleaner than oil, gas and coal, is a natural option, especially where hydroelectric capacity is limited."
+            },
+            {
+              "label": "D",
+              "text": "Leon Clarke, who helped author reports for the UN's Intergovernmental Panel on Climate Change, isn't an uncritical supporter of nuclear energy, but says it's a valuable option to have if we're serious about reaching carbon neutrality."
+            },
+            {
+              "label": "E",
+              "text": "\"Core to all of this is the degree to which you think we can actually meet climate goals with 100% renewables,\" he said. \"If you don't believe we can do it, and you care about the climate, you are forced to think about something like nuclear.\""
+            },
+            {
+              "label": "F",
+              "text": "The achievability of universal 100% renewability is similarly contentious. Cities such as Burlington, Vermont, have been \"100% renewable\" for years. But these cities often have small populations, occasionally still rely on fossil fuel energy and have significant renewable resources at their immediate disposal. Meanwhile, countries that manage to run off renewables typically do so thanks to extraordinary hydroelectric capabilities."
+            },
+            {
+              "label": "G",
+              "text": "Germany stands as the best case study for a large, industrialized country pushing into green energy. Chancellor Angela Merkel in 2011 announced Energiewende, an energy transition that would phase out nuclear and coal while phasing in renewables. Wind and solar power generation has increased over 400% since 2010, and renewables provided 46% of the country's electricity in 2019."
+            },
+            {
+              "label": "H",
+              "text": "But progress has halted in recent years. The instability of renewables doesn't just mean energy is often not produced at night, but also that solar and wind can overwhelm the grid during the day, forcing utilities to pay customers to use their electricity. Lagging grid infrastructure struggles to transport this overabundance of green energy from Germany's north to its industrial south, meaning many factories still run on coal and gas. The political limit has also been reached in some places, with citizens meeting the construction of new wind turbines with loud protests."
+            },
+            {
+              "label": "I",
+              "text": "The result is that Germany's greenhouse gas emissions have fallen by around 11.5% since 2010—slower than the EU average of 13.5%."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What accounts for the divide within the scientific community about nuclear energy?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Attention to combating human-made climate change."
+                },
+                {
+                  "key": "B",
+                  "text": "Emphasis on protecting wildlife and natural ecosystems."
+                },
+                {
+                  "key": "C",
+                  "text": "Evolution of the term \"green energy\" over the last century."
+                },
+                {
+                  "key": "D",
+                  "text": "Adherence to different interpretations of environmentalism."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】The distinction between these two strands of environmentalism is the cause of a split within the scientific community about nuclear energy.\nA) 以偏概全：Attention to combating human-made climate change 只对应 P1 里 environmentalist 的\"第二种含义\"，不是\"两种含\nB) 以偏概全：Emphasis on protecting wildlife and natural ecosystems 只对应 P1 里 environmentalist 的\"第一种含义\"，\nC) 偷换概念：原文谈的是 The term \"environmentalist\" 在 21 世纪的演变，Evolution of the term \"green energy\" over the\nD) ✓ 正确：The distinction between these two strands of environmentalism ↔ Adherence to different int"
+            },
+            {
+              "number": 52,
+              "stem": "What is the solution to energy shortage proposed by purists' opponents?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Relying on renewables firmly and exclusively."
+                },
+                {
+                  "key": "B",
+                  "text": "Using fossil fuel and green energy alternately."
+                },
+                {
+                  "key": "C",
+                  "text": "Opting for nuclear energy when necessary."
+                },
+                {
+                  "key": "D",
+                  "text": "Limiting people's non-basic consumption."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】The opposing side agrees that renewables are crucial, but says society needs an amount of power available to meet consumers' basic demands when the sun isn't shining and the wind isn't blowing. Nuclear energy, being far cleaner than oil, gas and coal, is a natural option, especially where hydroelectric capacity is limited.\nA) 与原文相反：Relying on renewables firmly and exclusively 描述的恰恰是 purists 的立场，而非对立方——对立方主张的是核能补缺，绝不\"独占\"可\nB) 无中生有：Using fossil fuel and green energy alternately 谈\"化石燃料和绿色能源交替使用\"，原文从未提出过\"交替使用\"这一方案，且对立方明确说核\nC) ✓ 正确：Nuclear energy, being far cleaner than oil, gas and coal, is a natural option, especially \nD) 无中生有：Limiting people\\'s non-basic consumption 谈\"限制非基本消费\"，原文只提 consumers\\' basic demands——\"满足基本需"
+            },
+            {
+              "number": 53,
+              "stem": "What point does the author want to make with cities like Burlington as an example?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is controversial whether the goal of the whole world's exclusive dependence on renewables is attainable."
+                },
+                {
+                  "key": "B",
+                  "text": "It is contentious whether cities with large populations have renewable resources at their immediate disposal."
+                },
+                {
+                  "key": "C",
+                  "text": "It is arguable whether cities that manage to run off renewables have sustainable hydroelectric capabilities."
+                },
+                {
+                  "key": "D",
+                  "text": "It is debatable whether traditional fossil fuel energy can be done away with entirely throughout the world."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（例证目的题）\n【原文】The achievability of universal 100% renewability is similarly contentious. Cities such as Burlington, Vermont, have been \"100% renewable\" for years.\nA) ✓ 正确：The achievability of universal 100% renewability is similarly contentious ↔ It is controve\nB) 偷换概念：cities with large populations have renewable resources at their immediate disposal 谈\"大人口城市\nC) 偷换概念：原文 countries that manage to run off renewables typically do so thanks to extraordinary hyd\nD) 过度推断：traditional fossil fuel energy can be done away with entirely throughout the world 谈\"是否能在全"
+            },
+            {
+              "number": 54,
+              "stem": "What do we learn about Germany regarding renewable energy?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has increased its wind and solar power generation four times over the last two decades."
+                },
+                {
+                  "key": "B",
+                  "text": "It represents a good example of a major industrialized country promoting green energy."
+                },
+                {
+                  "key": "C",
+                  "text": "It relies on renewable energy to generate more than half of its electricity."
+                },
+                {
+                  "key": "D",
+                  "text": "It has succeeded in reaching the goal of energy transition set by Merkel."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Germany stands as the best case study for a large, industrialized country pushing into green energy.\nA) 偷换概念：原文 Wind and solar power generation has increased over 400% since 2010 是\"自 2010 年以来\"约 10 年，\nB) ✓ 正确：Germany stands as the best case study for a large, industrialized country pushing into gre\nC) 偷换概念：原文 renewables provided 46% of the country\\'s electricity in 2019 是 46%，more than half 是\">5\nD) 与原文相反：原文只说默克尔 2011 年宣布 Energiewende，未说德国\"已成功达成\"该目标；事实上 But progress has halted in recent years 直"
+            },
+            {
+              "number": 55,
+              "stem": "What may be one of the reasons for Germany's progress having halted in recent years?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Its grid infrastructure's capacity has fallen behind its development of green energy."
+                },
+                {
+                  "key": "B",
+                  "text": "Its overabundance of green energy has forced power plants to suspend operation during daytime."
+                },
+                {
+                  "key": "C",
+                  "text": "Its industrial south is used to running factories on conventional energy supplies."
+                },
+                {
+                  "key": "D",
+                  "text": "Its renewable energy supplies are unstable both at night and during the day."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Lagging grid infrastructure struggles to transport this overabundance of green energy from Germany's north to its industrial south, meaning many factories still run on coal and gas.\nA) ✓ 正确：Lagging grid infrastructure struggles to transport this overabundance of green energy ↔ It\nB) 偷换概念：原文 solar and wind can overwhelm the grid during the day, forcing utilities to pay customer\nC) 偷换概念：原文 many factories still run on coal and gas 是\"由于电网无法把北部绿电输到南部\"这一被动结果；Its industrial south \nD) 偷换概念：原文 The instability of renewables doesn\\'t just mean energy is often not produced at night,"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n中国的传统婚礼习俗历史悠久，从周朝开始就逐渐形成了一套完整的婚礼仪式，有些一直沿用至今。如今的中式婚礼习俗已有很大变化，但婚礼庆典仍然十分隆重。婚礼场地经过精心装饰，以象征喜庆 (jubilance) 的红色为主色调，摆放着许多祝愿新人幸福的物件。在婚礼上，新人要拜天地 (bow to Heaven and Earth)、拜父母和相互对拜，然后设宴招待宾客，并向宾客敬酒致谢。今天，许多年轻人依然钟情于传统的中式婚礼，体验独特而美好的中国式浪漫。",
+              "analysis": "【参考译文】\nChina's traditional wedding customs have a long history. A complete set of wedding ceremonies gradually took shape as early as the Zhou Dynasty, some of which have been followed to this day. Today's Chinese wedding customs have changed greatly, but the wedding celebration remains very grand. The wedding venue is elaborately decorated, with red—the color symbolizing jubilance—as the main tone, and many objects wishing the couple happiness are placed around it. At the wedding, the couple bow to Heaven and Earth, to their parents and to each other, then hold a banquet to entertain the guests and propose a toast to thank them. Today, many young people are still fond of traditional Chinese weddings, experiencing the unique and wonderful Chinese-style romance."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/",
+    "fetchedAt": "2026-11-15",
+    "passages": 7,
+    "sentences": 44
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2024-06-1/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

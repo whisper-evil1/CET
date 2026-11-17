@@ -1,0 +1,2696 @@
+{
+  "id": "cet4-2021-12-s2",
+  "level": "CET4",
+  "year": 2021,
+  "month": 12,
+  "setNo": 2,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose your university student union is planning to hold a speech contest. You are now to write a proposal for organizing the contest. The proposal may include the topic, aim , procedure and selection of contestants. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nA Proposal for a Speech Contest\n\nOn behalf of the Student Union, I am writing to propose that our university hold a campus speech contest next month, and the details are outlined below for your approval.\n\nThe contest will focus on the theme \"My Chinese Dream.\" Our aim is to sharpen students' public-speaking skills, build their confidence, and enrich campus cultural life.\n\nAs for the procedure, we will first post a notice to call for entries. Then a preliminary round will be held in each college. Finally, twelve finalists will deliver their speeches on stage, scored by a panel of teachers and students.\n\nThe selection of contestants will be fair and open: applicants must submit a written draft, and those with clear ideas and fluent expression will be shortlisted through a short interview. We sincerely hope you will approve this proposal, and any suggestions would be warmly welcomed.\n\nThe Student Union"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "听力为历年真题原文，题目与答案为官方标准答案；在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 10,
+              "text": "A 22-year-old Chinese woman who suffered from a persistent cough was shocked to learn that she had a piece of chicken bone lodged in her lung.",
+              "zh": "一名22岁的中国女性因持续咳嗽而震惊地得知,她的肺部卡着一块鸡骨头。"
+            },
+            {
+              "id": 2,
+              "start": 10.3,
+              "end": 26.5,
+              "text": "The unnamed woman, from the province of Shandong, started to have coughing problems when she was 7 or 8 years old. For 14 years, she made numerous hospital visits. However, no doctor could identify any problem. Her uncontrollable coughing was a mystery.",
+              "zh": "这名来自山东省的未透露姓名的女性,在7岁或8岁时开始出现咳嗽问题。14年来,她多次前往医院就诊。然而,没有一位医生能够发现任何问题。她无法控制的咳嗽一直是个谜。"
+            },
+            {
+              "id": 3,
+              "start": 26.9,
+              "end": 53.8,
+              "text": "Finally, the woman got a full body scan at a hospital in the city of Qingdao. This special medical procedure revealed she had a chicken bone stuck in her lung. Doctors performed surgery and removed the bone. The simple procedure went smoothly and the woman has recovered fully. With the bone finally removed from her lung, the woman is very happy that she no longer suffers from that annoying cough.",
+              "zh": "最终,这名女性在青岛市的一家医院进行了全身扫描。这项特殊的医疗检查显示她的肺部卡着一块鸡骨头。医生进行了手术并取出了骨头。这个简单的手术进行得很顺利,女性已完全康复。随着骨头最终从肺部取出,这名女性非常高兴,因为她不再遭受那恼人的咳嗽困扰。"
+            }
+          ],
+          "audioDuration": 53.8,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What was the woman's problem?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She was pierced by a chicken bone."
+                },
+                {
+                  "key": "B",
+                  "text": "She was coughing all the time."
+                },
+                {
+                  "key": "C",
+                  "text": "She suffered from lung cancer."
+                },
+                {
+                  "key": "D",
+                  "text": "She suffered from shock."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：The unnamed woman, from the province of Shandong, started to have coughing problems when she was 7 or 8 years old. For 14 years, she made numerous hospital visits. However, no doctor could identify any problem. Her uncontrollable coughing was a mystery.信号：反复强调的核心症状即答案句 。判定她问题是什么，要抓原文反复落在同一件事上的那句。第 2 段 started to have coughing problems、Her uncontrollable coughing…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 She was pierced by a chicken bone. 借用了原文确实念到的 a piece of chicken bone，听到 chicken bone 很容易手一抖就选。但原文说的是鸡骨头卡在肺里，是导致咳嗽的原因，而且并非 pierced（刺穿）；题问的是她表现出的问题——咳嗽，不是病因，故 A 答非所问。 借用原文：lodged in her lung",
+                "C": "原词陷阱：选项 She suffered from lung cancer. 蹭了原文反复出现的 lung（肺），把肺里有东西夸大成肺癌。原文通篇只说咳嗽和鸡骨头，根本没出现 cancer 一词，这是把听到的 lung 顺手脑补成重病的陷阱。 借用原文：was shocked to learn",
+                "D": "原词陷阱：选项 She suffered from shock. 借了原文 was shocked to learn（得知时大为震惊）里的 shock。但原文的 shocked 指她得知真相时很吃惊这一情绪反应，不是她患的疾病；题问她的问题（毛病），故 D 张冠李戴、答非所问。",
+                "B": "正确项：与答案句同义替换（coughing problems ↔ coughing all the time 同义改写：咳嗽的毛病等于一直在咳）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The unnamed woman, from the province of Shandong, started to have coughing problems when she was 7 or 8 years old. For 14 years, she made numerous hospital visits. However, no doctor could identify any problem. Her uncontrollable coughing was a mystery.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "How was the woman's problem eventually solved?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By eating chicken soup daily."
+                },
+                {
+                  "key": "B",
+                  "text": "Through regular exercising."
+                },
+                {
+                  "key": "C",
+                  "text": "Through a surgical operation."
+                },
+                {
+                  "key": "D",
+                  "text": "By using traditional Chinese medicine."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：Doctors performed surgery and removed the bone.信号：结尾处交代最终处置的动作句 。问最终怎么解决，答案信号是叙事收束段里那句表最后做了什么的动作句。第 3 段先靠扫描查出病因，紧接 Doctors performed surgery and removed the b…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 By eating chicken soup daily. 蹭了原文反复出现的 chicken（来自 a piece of chicken bone），把鸡骨头致病偷换成天天喝鸡汤治病。原文根本没提任何喝汤、食疗，这是靠 chicken 撞词制造的听到鸡就选陷阱。 借用原文：A 22-year-old Chinese woman",
+                "B": "未提及：选项 Through regular exercising. 说靠规律锻炼解决，但原文从开头到结尾只字未提运动锻炼。它利用的是考生生病要多锻炼的生活常识，诱你用常识替代原文，属于原文未提及。",
+                "D": "原词陷阱：选项 By using traditional Chinese medicine. 里的 Chinese 和原文 A 22-year-old Chinese woman 的 Chinese 撞词，让人以为中国人就用中医。但原文交代的解决手段明明是 performed surgery（手术），全篇没提任何中医草药，这是借 Chinese 撞词加常识联想的双重陷阱。",
+                "C": "正确项：与答案句同义替换（Doctors performed surgery ↔ Through a surgical operation 同根改写：做手术等于通过外科手术）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Doctors performed surgery and removed the bone.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 13.5,
+              "text": "1 A white sheep named Prickles that ran away from an Australian farm during the 2013 bushfires, recently returned home. 2 According to farmer Alice Gray, Prickles was only a lamb when she ran away."
+            },
+            {
+              "id": 2,
+              "start": 13.8,
+              "end": 20.4,
+              "text": "The bushfires that hit the area back then destroyed a large part of her family's massive property."
+            },
+            {
+              "id": 3,
+              "start": 20.8,
+              "end": 23.8,
+              "text": "They thought Prickles had died in the fire."
+            },
+            {
+              "id": 4,
+              "start": 24.2,
+              "end": 29.2,
+              "text": "But instead, the young sheep escaped into a 200-acre forest near the farm."
+            },
+            {
+              "id": 5,
+              "start": 29.6,
+              "end": 38.4,
+              "text": "Once the fires were over, the family had to fix the damage done to the farm, as it was such a large property."
+            },
+            {
+              "id": 6,
+              "start": 38.8,
+              "end": 41.8,
+              "text": "This included rebuilding about 50 kilometers of fencing."
+            },
+            {
+              "id": 7,
+              "start": 42.1,
+              "end": 47.1,
+              "text": "It was this huge fencing that prevented Prickles from finding her way back."
+            },
+            {
+              "id": 8,
+              "start": 47.5,
+              "end": 51.3,
+              "text": "Over the years, the family spotted her a few times."
+            },
+            {
+              "id": 9,
+              "start": 51.6,
+              "end": 55.9,
+              "text": "They even recorded her with cameras installed to monitor deer activity."
+            },
+            {
+              "id": 10,
+              "start": 56.3,
+              "end": 63.6,
+              "text": "But while they knew Prickles was alive, they couldn't find her and never expected her to return by herself."
+            },
+            {
+              "id": 11,
+              "start": 64,
+              "end": 66.6,
+              "text": "Seven years later, they were proven wrong."
+            }
+          ],
+          "audioDuration": 66.6,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What does the news report say about the white sheep Prickles?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was born 13 years ago."
+                },
+                {
+                  "key": "B",
+                  "text": "It was Alice Gray's lovely pet."
+                },
+                {
+                  "key": "C",
+                  "text": "It got injured in a big bushfire."
+                },
+                {
+                  "key": "D",
+                  "text": "It ran away into a nearby forest."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：A white sheep named Prickles that ran away from an Australian farm during the 2013 bushfires, recently returned home.信号：新闻首句即核心事实 。新闻短消息的第一句通常就把最关键的事实交代清楚。这里开篇 A white sheep named Prickles that ran away from an Australian farm d…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项说羊 It was born 13 years ago.，但录音只提到 \"2013 bushfires\" 这个火灾年份，从没说羊出生于 13 年前——它把年份信息张冠李戴到 \"出生\" 上，专骗听到年数就对号入座的人。 借用原文：According to farmer Alice Gray",
+                "B": "原词陷阱：选项称羊是 It was Alice Gray's lovely pet.，录音里 According to farmer Alice Gray 确实出现了 Alice Gray，但她是农场主、是消息来源，录音从没说这羊是她的 \"宠物\"——这是借真实人名编造的关系。 借用原文：escaped into a 200-acre forest near the farm",
+                "C": "原词陷阱：选项说羊 It got injured in a big bushfire.，\"bushfire\" 是录音反复出现的原词，听到就想选；但录音说的是羊 escaped into a 200-acre forest 逃走并活了下来，从没说它在火中受伤，\"injured\" 是无中生有。",
+                "D": "正确项：与答案句同义替换（ran away from an Australian farm ↔ ran away into a nearby forest 同一逃走动作的去向补全）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "A white sheep named Prickles that ran away from an Australian farm during the 2013 bushfires, recently returned home.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What did the family do after the bushfires?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They rebuilt the fencing around their farm."
+                },
+                {
+                  "key": "B",
+                  "text": "They spent seven years replanting their farm."
+                },
+                {
+                  "key": "C",
+                  "text": "They claimed damages for their heavy losses."
+                },
+                {
+                  "key": "D",
+                  "text": "They installed a camera to monitor sheep activity."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：Once the fires were over, the family had to fix the damage done to the farm, as it was such a large property. This included rebuilding about 50 kilometers of fencing.信号：时间信号词 Once the fires were over 。答案句由时间信号 Once the fires were over（大火一过）引出，正好对上题干的 \"after the bushfires\"。这个时间…",
+              "optionAnalysis": {
+                "B": "原词陷阱：选项说 They spent seven years replanting their farm.，\"seven years\" 是录音原词，但录音里 Seven years later, they were proven wrong 的七年指的是 \"羊七年后回来\"，不是 \"花七年补种农场\"，\"replanting\" 录音根本没提，是张冠李戴加无中生有。 借用原文：destroyed a large part of her family's massive property",
+                "C": "未提及：选项称 They claimed damages for their heavy losses.，录音确实说山火 destroyed a large part of her family's massive property 造成了损失，听到 \"损失\" 容易顺势联想到 \"索赔\"，但录音从头到尾没说他们去索赔，\"claimed damages\" 是凭损失情节脑补出来的。 借用原文：cameras installed to monitor deer activity",
+                "D": "偷换概念：选项说 They installed a camera to monitor sheep activity.，录音里 cameras installed to monitor deer activity 确实有装摄像头，但监控的是 \"deer（鹿）\" 不是 \"sheep（羊）\"，选项只改了一个名词就把意思偷换了，专骗听到 \"camera/monitor\" 就选的人。",
+                "A": "正确项：与答案句同义替换（rebuilding about 50 kilometers of fencing ↔ rebuilt the fencing around their farm 同一重建围栏动作的概括）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Once the fires were over, the family had to fix the damage done to the farm, as it was such a large property. This included rebuilding about 50 kilometers of fencing.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 7.7,
+              "text": "Tons of gold have fallen out of the sky in Russia after a cargo plane malfunctioned in midair this morning.",
+              "zh": "今天上午，一架货机在空中发生故障后，数吨黄金从俄罗斯天空坠落。"
+            },
+            {
+              "id": 2,
+              "start": 8.1,
+              "end": 16.9,
+              "text": "The aircraft was carrying 265 million pounds worth of gold and diamonds, when the door flew open—sending the precious metal back to earth.",
+              "zh": "这架飞机载有价值2.65亿英镑的黄金和钻石，当舱门突然打开时，贵重金属被抛回地面。"
+            },
+            {
+              "id": 3,
+              "start": 17.3,
+              "end": 31.5,
+              "text": "According to the official news agency, Russian authorities have recovered more than 170 gold bars weighing 20 kilograms each. The plane was traveling from Yakutsk Airport in a major diamond-producing region to the city Krasnoyarsk in Siberia.",
+              "zh": "据官方通讯社报道，俄罗斯当局已经回收了超过170根金条，每根重20公斤。该飞机从主要钻石产区的Yakutsk机场飞往西伯利亚的Krasnoyarsk市。"
+            },
+            {
+              "id": 4,
+              "start": 31.9,
+              "end": 38.8,
+              "text": "However, the aircraft made an emergency landing in Magan after it began losing some of its valuable cargo.",
+              "zh": "然而，这架飞机在开始丢失部分贵重货物后，在Magan紧急降落。"
+            },
+            {
+              "id": 5,
+              "start": 39.1,
+              "end": 49.9,
+              "text": "Reports suggest some bars of gold were scattered up to 15 miles away from the airport. Nine tons of gold on plane AN-12 belonged to a goldmine company.",
+              "zh": "报道称，一些金条散落在距离机场15英里远的地方。AN-12飞机上的9吨黄金属于一家金矿公司。"
+            },
+            {
+              "id": 6,
+              "start": 50.3,
+              "end": 65.3,
+              "text": "Police have sealed off the runway, and say it is unclear if it was an accident or an attempted robbery. Technical engineers who worked on the plane prior to take-off are reportedly going to be questioned by the police.",
+              "zh": "警方已经封锁了跑道，并表示尚不清楚这是一起事故还是抢劫未遂。据报道，起飞前在飞机上工作的技术工程师将接受警方问询。"
+            }
+          ],
+          "audioDuration": 65.3,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What is the news report mainly about?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The disappearance of some gold and diamonds."
+                },
+                {
+                  "key": "B",
+                  "text": "The transfer of tons of precious metal by air."
+                },
+                {
+                  "key": "C",
+                  "text": "The crash of a Russian cargo airplane."
+                },
+                {
+                  "key": "D",
+                  "text": "The loss of gold from an airplane."
+                }
+              ],
+              "answer": "D",
+              "analysis": "主旨题。答案句（P1）：Tons of gold have fallen out of the sky in Russia after a cargo plane malfunctioned in midair this morning.信号：新闻首句即点题 。新闻短消息的核心动作往往压在开头第一句，本则的首句 Tons of gold have fallen out of the sky in Russia after a cargo plane mal…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 盗用了录音里的 gold 和 diamonds 两个原词，听着很耳熟，但它说的是 The disappearance of some gold and diamonds.（金子钻石的消失），\"消失\"指不知去向，而录音明确是\"从飞机上掉落\"且大部分已被寻回，方向不符，也漏掉了\"飞机\"这个关键。 借用原文：265 million pounds worth of gold and diamonds",
+                "B": "答非所问：B 的 The transfer of tons of precious metal by air.（用飞机空运大量贵金属）确实是事情的背景，precious metal、by air 也都能在录音里找到影子，但它只描述了\"正在空运\"这个前提，完全没提\"出故障、金子掉落\"这个真正的新闻点，以偏概全。 借用原文：the aircraft made an emergency landing in Magan",
+                "C": "过度推断：C 说 The crash of a Russian cargo airplane.（俄罗斯货机坠毁），Russian、cargo airplane 都是原词，但录音里飞机是 made an emergency landing（紧急迫降）而非坠毁，crash 把事故程度夸大了，与事实相反。",
+                "D": "正确项：与答案句同义替换（Tons of gold have fallen out of the sky ↔ The loss of gold from an airplane. 金子掉落=金子丢失）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Tons of gold have fallen out of the sky in Russia after a cargo plane malfunctioned in midair this morning.",
+              "type": "主旨题"
+            },
+            {
+              "number": 6,
+              "stem": "What did the aircraft do when the incident happened?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It made an emergency landing."
+                },
+                {
+                  "key": "B",
+                  "text": "It informed the local police at once."
+                },
+                {
+                  "key": "C",
+                  "text": "It contacted the goldmine company."
+                },
+                {
+                  "key": "D",
+                  "text": "It had a crew member fix the problem."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P4）：However, the aircraft made an emergency landing in Magan after it began losing some of its valuable cargo.信号：转折 However 后是落点 。本句以转折词 However 起头——前文一直在讲金子掉了、被寻回多少，转折之后才交代飞机本身的应对动作 made an emergency landing，转折后的句子正是本题答案句。",
+              "optionAnalysis": {
+                "B": "张冠李戴：B 说 It informed the local police at once.（飞机立刻通知了当地警方），police 一词录音确实念到了，但录音是 Police have sealed off the runway（警方封锁跑道），是警方主动介入，并没有\"飞机通知警方\"这回事，张冠李戴。 借用原文：belonged to a goldmine company",
+                "C": "原词陷阱：C 说 It contacted the goldmine company.（飞机联系了金矿公司），goldmine company 是原词，但录音只说 Nine tons of gold on plane AN-12 belonged to a goldmine company（飞机上九吨金子归一家金矿公司所有），金矿公司只是货物的主人，根本没说飞机去联系它。",
+                "D": "未提及：D 说 It had a crew member fix the problem.（飞机让机组人员修好了故障），录音确实提到 malfunctioned（故障）和后文的 technical engineers（技术工程师），听着像\"有人修\"，但录音里飞机是迫降处理，从没说让机组成员在空中把问题修好了，纯属无中生有。",
+                "A": "正确项：与答案句同义替换（the aircraft made an emergency landing ↔ It made an emergency landing. 几乎原句对应）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "However, the aircraft made an emergency landing in Magan after it began losing some of its valuable cargo.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What does the news report say about the technical engineers who worked on the plane before take-off?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They will cooperate with the police."
+                },
+                {
+                  "key": "B",
+                  "text": "They had checked the plane carefully."
+                },
+                {
+                  "key": "C",
+                  "text": "They will be questioned by the police."
+                },
+                {
+                  "key": "D",
+                  "text": "They took some gold bars and diamonds."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P6）：Technical engineers who worked on the plane prior to take-off are reportedly going to be questioned by the police.信号：末段交代相关人员后续 。新闻把对涉事人员的后续处置放在结尾，末段 Technical engineers... are reportedly going to be questioned by the police …",
+              "optionAnalysis": {
+                "A": "与原文相反：A 说 They will cooperate with the police.（他们将配合警方），police 是原词且\"将来 + 警方\"的框架很像，但录音是 be questioned by the police（被警方问询，被动），工程师是被调查的对象，并非主动配合，主被动方向被偷换。 借用原文：it is unclear if it was an accident or an attempted robbery",
+                "B": "未提及：B 说 They had checked the plane carefully.（他们已仔细检查过飞机），借工程师 worked on the plane 联想出\"检查\"，但录音只说工程师\"起飞前做过工作\"且\"将被问询\"，从没说他们\"仔细检查过\"，更没说检查得是否仔细，无中生有。",
+                "D": "过度推断：D 说 They took some gold bars and diamonds.（他们拿走了金条和钻石），gold bars、diamonds 全是原词，又借录音 it is unclear if it was an accident or an attempted robbery（尚不清楚是事故还是抢劫未遂）的联想，把工程师直接坐实成偷窃者，但录音只说\"将被问询\"、尚未定性，是过度推断。",
+                "C": "正确项：与答案句同义替换（are reportedly going to be questioned by the police ↔ They will be questioned by the police. 将被警方问询，几乎同句）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "Technical engineers who worked on the plane prior to take-off are reportedly going to be questioned by the police.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 16.9,
+              "text": "M: Hello, you're through to customer service. This is Michael speaking. Before we continue, I just want to make you aware that this call is being recorded and may be used in the future for training purposes. What can I help you with today?",
+              "zh": "M: 您好,您已接通客户服务部。我是Michael。在我们继续之前,我想提醒您,本通话正在录音,未来可能用于培训目的。请问有什么可以帮您的?"
+            },
+            {
+              "id": 2,
+              "start": 17.3,
+              "end": 45.3,
+              "text": "W: Hi, my name is Jean Seimon. I recently bought an office chair from your company, but I returned it about a week ago. I'm just calling to inquire when I will be able to get my money back. It says on your website that your company will pay back the money within three working days of you receiving the returned item. But it's been five working days and I haven't received anything.",
+              "zh": "W: 您好,我叫Jean Seimon。我最近从贵公司买了一把办公椅,但大约一周前退了货。我打电话是想询问什么时候能拿到退款。贵公司网站上说,在收到退货后三个工作日内会退款。但已经过了五个工作日了,我还没收到任何款项。"
+            },
+            {
+              "id": 3,
+              "start": 45.6,
+              "end": 51,
+              "text": "M: I'm sorry to hear that, Miss Seimon. What's your customer reference number, please?",
+              "zh": "M: 很抱歉听到这个情况, Seimon女士。请问您的客户编号是多少?"
+            },
+            {
+              "id": 4,
+              "start": 51.4,
+              "end": 52.8,
+              "text": "W: It's 389460.",
+              "zh": "W: 是389460。"
+            },
+            {
+              "id": 5,
+              "start": 53.1,
+              "end": 70.1,
+              "text": "M: Okay, 389460. I'm just looking on the system here. And according to our records, the chair you returned was received by our warehouse on Friday morning. The payment was made on Wednesday. But this seems to be a problem with your card number.",
+              "zh": "M: 好的,389460。我这就在系统里查一下。根据我们的记录,您退回的椅子是周五上午被我们仓库收到的。退款是在周三处理的。但您的卡号似乎有问题。"
+            },
+            {
+              "id": 6,
+              "start": 70.4,
+              "end": 83.5,
+              "text": "W: My card number? Oh, maybe it has something to do with my new card. It was sent to me on Tuesday. Maybe the bank canceled my old one before you've made the payment.",
+              "zh": "W: 我的卡号?哦,可能跟我的新卡有关。周二才寄给我的。也许银行在你们付款之前把我的旧卡注销了。"
+            },
+            {
+              "id": 7,
+              "start": 83.8,
+              "end": 98.1,
+              "text": "M: Well, you'll need to update your card details directly on our website. Just make sure you're logged in. And then under the description of your personal information, you should see an option for updating payment methods.",
+              "zh": "M: 那您需要直接在我们网站上更新您的银行卡信息。确保您已经登录,然后在个人信息栏下面,应该能看到更新付款方式的选项。"
+            },
+            {
+              "id": 8,
+              "start": 98.4,
+              "end": 102.7,
+              "text": "W: I am logged in, and I'll give that a go.",
+              "zh": "W: 我已经登录了,我试试看。"
+            },
+            {
+              "id": 9,
+              "start": 103,
+              "end": 110.7,
+              "text": "M: I'll make a note here on the system for you, so that the payment will be made tomorrow morning.",
+              "zh": "M: 我会在系统里给您做个备注,这样明天上午就能给您退款。"
+            },
+            {
+              "id": 10,
+              "start": 111,
+              "end": 113,
+              "text": "W: Thank you very much.",
+              "zh": "W: 非常感谢。"
+            }
+          ],
+          "audioDuration": 113,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "Why does the man have his conversation with the woman recorded?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "For the company's records."
+                },
+                {
+                  "key": "B",
+                  "text": "For future training purposes."
+                },
+                {
+                  "key": "C",
+                  "text": "To follow the company's rule."
+                },
+                {
+                  "key": "D",
+                  "text": "To ensure information security."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：I just want to make you aware that this call is being recorded and may be used in the future for training purposes.信号：目的状语 for...purposes 。答案信号是表目的的短语 used in the future for training purposes——\"录音\"这一动作后面紧跟的\"for... purposes\"就是它…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 For the company's records. 里的 records，借自客服后面查单时说的 according to our records——那是\"按我们的记录\"，与\"为什么录音\"毫不相干，是听到 records 就想选的原词陷阱。",
+                "C": "未提及：选项 To follow the company's rule. 说\"为遵守公司规定\"，录音里客服只说录音用于培训目的，从没提\"规定/rule\"这回事，属原文未提及。",
+                "D": "未提及：选项 To ensure information security. 说\"为保障信息安全\"，虽与客服场景的常识联想很近，但录音讲录音原因时只字未提\"信息安全\"，是按常识脑补出来的理由，原文无依据。",
+                "B": "正确项：与答案句同义替换（used in the future for training purposes ↔ For future training purposes. 几乎原句压缩）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "I just want to make you aware that this call is being recorded and may be used in the future for training purposes.",
+              "type": "细节题"
+            },
+            {
+              "number": 9,
+              "stem": "What is the woman's purpose of calling the furniture company?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To check her customer reference number."
+                },
+                {
+                  "key": "B",
+                  "text": "To inquire about the price of office chairs."
+                },
+                {
+                  "key": "C",
+                  "text": "To get her money back for the returned chair."
+                },
+                {
+                  "key": "D",
+                  "text": "To make complaints about its customer service."
+                }
+              ],
+              "answer": "C",
+              "analysis": "目的题。答案句（P2）：I recently bought an office chair from your company, but I returned it about a week ago. I'm just calling to inquire when I will be able to get my money back.信号：自报来意 I'm just calling to 。答案信号是女方自报来意的句式 I'm just calling to inquire when I will be able to get my money bac…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 To check her customer reference number. 搬来客服后面要的 customer reference number——那是客服为查单向她索取编号，不是她打电话的目的，属听到原词就选的原词陷阱。 借用原文：I recently bought an office chair",
+                "B": "未提及：选项 To inquire about the price of office chairs. 借了 office chair 的熟悉感（录音确有 office chair），但她从没问价格，全程围绕退款，属未提及。 借用原文：it's been five working days and I haven't received anything",
+                "D": "过度推断：选项 To make complaints about its customer service. 说\"投诉客服\"，她确实抱怨了退款超时 it's been five working days and I haven't received anything，但语气是查询而非投诉，且本题问\"来电目的\"是退款，把抱怨语气推成\"投诉\"是过度推断。",
+                "C": "正确项：与答案句同义替换（get my money back ↔ get her money back for the returned chair 人称改写+补宾语）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "I recently bought an office chair from your company, but I returned it about a week ago. I'm just calling to inquire when I will be able to get my money back.",
+              "type": "目的题"
+            },
+            {
+              "number": 10,
+              "stem": "What does the woman say about her bank card?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She had to update its information."
+                },
+                {
+                  "key": "B",
+                  "text": "She forgot where she had left it."
+                },
+                {
+                  "key": "C",
+                  "text": "She lost it about three days ago."
+                },
+                {
+                  "key": "D",
+                  "text": "She was issued a new card."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P6）：Oh, maybe it has something to do with my new card. It was sent to me on Tuesday. Maybe the bank canceled my old one before you've made the payment.信号：她主动提及 my new card 。答案信号是女方自己抛出的新信息 my new card——客服说卡号有问题后，她解释\"可能跟我的新卡有关，新卡周二寄到\"，这句关于卡的主动陈述就是答案句。",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 She had to update its information. 里的 update，搬自客服随后的建议 update your card details——那是客服让她去更新，不是她\"说关于卡\"的内容，且发生在后面，属张冠李戴式原词陷阱。 借用原文：within three working days",
+                "B": "未提及：选项 She forgot where she had left it. 说她忘了卡放哪，录音里她对卡的陈述只有\"换了新卡、旧卡可能被注销\"，从没说\"忘了放哪\"，属未提及。",
+                "C": "原词陷阱：选项 She lost it about three days ago. 拼了两处熟悉感：卡的话题里没说\"丢\"，three days 则盗自网站规则 within three working days（退款时限），把\"三个工作日\"嫁接成\"三天前丢卡\"，属原词陷阱。",
+                "D": "正确项：与答案句同义替换（my new card ↔ She was issued a new card. 主被动转换）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "Oh, maybe it has something to do with my new card. It was sent to me on Tuesday. Maybe the bank canceled my old one before you've made the payment.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What does the man advise the woman to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Reconsider her options for payment methods."
+                },
+                {
+                  "key": "B",
+                  "text": "Make a specific note on the company's system."
+                },
+                {
+                  "key": "C",
+                  "text": "Update her bank card details on the company's website."
+                },
+                {
+                  "key": "D",
+                  "text": "Upload her personal information to the company's website."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P7）：Well, you'll need to update your card details directly on our website. Just make sure you're logged in. And then under the description of your personal information, you should see an option for updating payment methods.信号：建议句 you'll need to 。答案信号是建议句式 you'll need to update your card details directly on our website——\"you'll need …",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 Reconsider her options for payment methods. 盗用原文 an option for updating payment methods 里的 option、payment methods，但原文是\"看到一个更新支付方式的选项\"，不是\"重新考虑支付方式\"，reconsider 是凭空换上的动作，属原词陷阱。 借用原文：I'll make a note here on the system for you",
+                "B": "张冠李戴：选项 Make a specific note on the company's system. 盗自客服自己说的 I'll make a note here on the system for you——那是客服\"我来做个备注\"，不是建议\"她\"做的，主语张冠李戴，属原词陷阱。 借用原文：under the description of your personal information",
+                "D": "原词陷阱：选项 Upload her personal information to the company's website. 把原文 under the description of your personal information 的 personal information 搬来，又把 update 偷换成 upload（更新≠上传），原文只让她更新卡信息、没让她上传个人信息，属原词陷阱兼偷换概念。",
+                "C": "正确项：与答案句同义替换（update your card details directly on our website ↔ Update her bank card details on the company's website 人称改写+近义等值）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "Well, you'll need to update your card details directly on our website. Just make sure you're logged in. And then under the description of your personal information, you should see an option for updating payment methods.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 2.3,
+              "text": "M: I'm getting a bit hungry.",
+              "zh": "M: 我有点饿了。"
+            },
+            {
+              "id": 2,
+              "start": 2.6,
+              "end": 8.4,
+              "text": "W: Yes, me too. I'm starving. Are you going to prepare a meal for us?",
+              "zh": "W: 是啊,我也是。我快饿死了。你要给我们做饭吗?"
+            },
+            {
+              "id": 3,
+              "start": 8.8,
+              "end": 14.9,
+              "text": "M: No, sorry, I'm actually pretty worn out. Let's just go out somewhere close to eat.",
+              "zh": "M: 不,抱歉,我实在太累了。我们还是出去找个近点的地方吃吧。"
+            },
+            {
+              "id": 4,
+              "start": 15.3,
+              "end": 22.2,
+              "text": "W: Well, I think we should stay in and save some cash. Can we get a meal delivered?",
+              "zh": "W: 嗯,我觉得我们应该待在家里省点钱。我们可以叫外卖吗?"
+            },
+            {
+              "id": 5,
+              "start": 22.6,
+              "end": 31.4,
+              "text": "M: Yeah, great. I'll use that food delivery app on my phone. What do you want, fried chicken, hamburgers, or fish and chips?",
+              "zh": "M: 好啊,太好了。我用手机上的外卖app点。你想吃什么,炸鸡、汉堡还是炸鱼薯条?"
+            },
+            {
+              "id": 6,
+              "start": 31.8,
+              "end": 37.1,
+              "text": "W: Oh, can we stay away from the junk food? How about something healthy?",
+              "zh": "W: 哦,我们能不能别吃垃圾食品?来点健康的怎么样?"
+            },
+            {
+              "id": 7,
+              "start": 37.5,
+              "end": 40.9,
+              "text": "M: Okay, well, there's a place that does salads.",
+              "zh": "M: 好吧,有家店做沙拉的。"
+            },
+            {
+              "id": 8,
+              "start": 41.3,
+              "end": 49.7,
+              "text": "W: Let me have a look at that. Yeah, that looks delicious. But to be honest, I'd prefer something hot, not cold.",
+              "zh": "W: 让我看看。嗯,看起来挺好吃的。但说实话,我更想吃点热的,不要凉的。"
+            },
+            {
+              "id": 9,
+              "start": 50.1,
+              "end": 52,
+              "text": "M: How about Indian food?",
+              "zh": "M: 印度菜怎么样?"
+            },
+            {
+              "id": 10,
+              "start": 52.4,
+              "end": 62.4,
+              "text": "W: That's not the kind of hot I mean. I'm just not a fan of sauces. That made me sweat and cry. I need something mild.",
+              "zh": "W: 我说的热不是那种辣。我就是不喜欢那种酱料,会让我出汗流泪。我要清淡点的。"
+            },
+            {
+              "id": 11,
+              "start": 62.8,
+              "end": 77.4,
+              "text": "M: Okay. So would you consider Mexican? Oh no, sorry. There's also very hot pepper in that. Would you like some Italian food, perhaps? It's a bit heavy, but it's great food for a cold night like this.",
+              "zh": "M: 好的。那你会考虑墨西哥菜吗?哦不,抱歉。那里面也有很辣的辣椒。那意大利菜怎么样?有点油腻,但在这么冷的晚上吃很不错。"
+            },
+            {
+              "id": 12,
+              "start": 77.8,
+              "end": 89.3,
+              "text": "W: Pizza? Spaghetti with creamy sauce? I know it's really tasty and great comfort food, but it's too fattening for me. I'm trying to keep a slim figure, you know.",
+              "zh": "W: 披萨?奶油酱意大利面?我知道真的很好吃,是很棒的comfort food,但对我来说太容易发胖了。你知道的,我想保持苗条身材。"
+            },
+            {
+              "id": 13,
+              "start": 89.6,
+              "end": 95.4,
+              "text": "M: Oh, you're really difficult to please. Well, there's a nice Chinese restaurant that delivers.",
+              "zh": "M: 哦,你真是太难伺候了。嗯,有家不错的中餐馆可以送外卖。"
+            },
+            {
+              "id": 14,
+              "start": 95.8,
+              "end": 101.1,
+              "text": "W: Yes, I love Chinese food. Let me see. Oh, it's 15 kilometers away.",
+              "zh": "W: 好啊,我喜欢中国菜。让我看看。哦,有15公里远。"
+            },
+            {
+              "id": 15,
+              "start": 101.4,
+              "end": 106.8,
+              "text": "M: That's a bit too far away. Do you feel like Vietnamese food then?",
+              "zh": "M: 那有点太远了。那越南菜你觉得怎么样?"
+            },
+            {
+              "id": 16,
+              "start": 107.1,
+              "end": 111,
+              "text": "W: Yeah, awesome. It's healthy, and we can afford it.",
+              "zh": "W: 好啊,太棒了。健康,而且我们也吃得起。"
+            },
+            {
+              "id": 17,
+              "start": 111.3,
+              "end": 114,
+              "text": "M: Great. Let's order Vietnamese right away.",
+              "zh": "M: 太好了。我们马上点越南菜吧。"
+            }
+          ],
+          "audioDuration": 114,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "Why isn't the man going to cook?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He is feeling exhausted."
+                },
+                {
+                  "key": "B",
+                  "text": "He is tired of cooking."
+                },
+                {
+                  "key": "C",
+                  "text": "He has to work late."
+                },
+                {
+                  "key": "D",
+                  "text": "He wants to try Asian foods."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：M: No, sorry, I'm actually pretty worn out. Let's just go out somewhere close to eat.信号：被问者对做饭请求的直接应答 。上一句女方问 Are you going to prepare a meal for us?，男方紧接着应答 I'm actually pretty worn out，这句被问者的直接回…",
+              "optionAnalysis": {
+                "B": "未提及：男士只说累，从没说讨厌做饭这件事，He is tired of cooking. 属凭空添加，录音无对应。",
+                "C": "未提及：现实里累常因为加班，但录音从头到尾没提工作，He has to work late. 是拿常识替文本，属未提及。",
+                "D": "答非所问：录音后面确实聊到印度、越南等亚洲菜，He wants to try Asian foods. 盗用了这层话题，但那是点什么外卖，不是他不做饭的原因，答非所问。",
+                "A": "正确项：与答案句同义替换（worn out ↔ exhausted worn out 与 exhausted 是同义替换）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "M: No, sorry, I'm actually pretty worn out. Let's just go out somewhere close to eat.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What does the man say he'll do on his phone?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Book a table."
+                },
+                {
+                  "key": "B",
+                  "text": "Order a delivery."
+                },
+                {
+                  "key": "C",
+                  "text": "Download a menu."
+                },
+                {
+                  "key": "D",
+                  "text": "Locate a restaurant."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P5）：M: Yeah, great. I'll use that food delivery app on my phone.信号：说话人用 I'll 直接表态要做的动作 。紧承上句女方问 Can we get a meal delivered?，男方应答 I'll use that food delivery app on my phone，I…",
+              "optionAnalysis": {
+                "A": "Book a table. 对应出去吃饭订桌，但女方说 I think we should stay in，两人改成在家叫外卖，订位的方案被放弃，与原文相反。 借用原文：it's 15 kilometers away",
+                "C": "选项 Download a menu. 蹭了用手机 app 的场景，听上去和外卖相关，但录音说的是用 app 下单，从没说下载菜单，属未提及的脑补。",
+                "D": "答非所问：后文女方查中餐馆说 it's 15 kilometers away，Locate a restaurant. 盗用了查距离这层，但那是后面挑菜时顺带看位置，不是男士在手机上表态要做的事，答非所问。",
+                "B": "正确项：与答案句同义替换（use that food delivery app ↔ Order a delivery 用外卖 app 等于点外卖配送）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "M: Yeah, great. I'll use that food delivery app on my phone.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What does the woman think of Indian food?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is not tasty."
+                },
+                {
+                  "key": "B",
+                  "text": "It is not healthy."
+                },
+                {
+                  "key": "C",
+                  "text": "It is too oily."
+                },
+                {
+                  "key": "D",
+                  "text": "It is too spicy."
+                }
+              ],
+              "answer": "D",
+              "analysis": "态度观点题。答案句（P10）：W: That's not the kind of hot I mean. I'm just not a fan of sauces. That made me sweat and cry. I need something mild.信号：评价对象后跟出的负面理由与感受 。男方提 How about Indian food?，女方应答 made me sweat and cry，这句对印度菜的具体负面感受就是答案信号——辣得出汗流泪，正是她嫌它的点。",
+              "optionAnalysis": {
+                "A": "It is not tasty. 听上去像负面评价，但女方嫌的是辣，从没说印度菜难吃，属未提及。",
+                "B": "原词陷阱：录音里 healthy 出现在女方说 How about something healthy?，It is not healthy. 盗用了这个词，但她对印度菜的嫌弃是辣，不是不健康，张冠李戴。 借用原文：It's a bit heavy",
+                "C": "张冠李戴：录音里油腻感对应的是意大利菜 It's a bit heavy 和后文 too fattening，It is too oily. 把对别道菜的印象安到印度菜上，张冠李戴。",
+                "D": "正确项：与答案句同义替换（That made me sweat and cry ↔ It is too spicy 辣得出汗流泪即太辣）"
+              },
+              "evidencePara": "P10",
+              "evidenceText": "W: That's not the kind of hot I mean. I'm just not a fan of sauces. That made me sweat and cry. I need something mild.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 15,
+              "stem": "What does the man think of the woman?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She is too concerned about money."
+                },
+                {
+                  "key": "B",
+                  "text": "She is too weight-conscious."
+                },
+                {
+                  "key": "C",
+                  "text": "She is too picky about food."
+                },
+                {
+                  "key": "D",
+                  "text": "She is too eager to please."
+                }
+              ],
+              "answer": "C",
+              "analysis": "态度观点题。答案句（P13）：M: Oh, you're really difficult to please.信号：评价者忍不住说出的直接总评 。在女方一路否掉沙拉、印度菜、墨西哥菜、意大利菜之后，男方脱口而出 you're really difficult to please，这句直接总评就是答案信号——他嫌她样样不满意、太难伺候。",
+              "optionAnalysis": {
+                "A": "录音里钱对应女方说 save some cash，She is too concerned about money. 盗用了省钱这层，但那是她的想法，男方对她的评价是难伺候，张冠李戴。 借用原文：I'm trying to keep a slim figure",
+                "B": "录音里身材对应女方说 I'm trying to keep a slim figure，She is too weight-conscious. 盗用了这层，但那是她自己的理由，男方的总评是难伺候，张冠李戴。 借用原文：you're really difficult to please",
+                "D": "原词陷阱：She is too eager to please. 借用了答案句里的 please，却把方向反了：男方说的是她 difficult to please（难被讨好），不是她急着讨好别人，与原文相反。",
+                "C": "正确项：与答案句同义替换（you're really difficult to please ↔ She is too picky about food 难伺候即对吃太挑剔）"
+              },
+              "evidencePara": "P13",
+              "evidenceText": "M: Oh, you're really difficult to please.",
+              "type": "态度观点题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 20.8,
+              "text": "A new study carried out by the University of Lincoln has found a link between the personalities of cat owners and the behaviour and wellbeing of their cats. The findings suggest that, just as a parent's personality can affect the personality of a child, the same is true for a cat and its owner.",
+              "zh": "林肯大学开展的一项新研究发现,猫主人的性格与其猫的行为和健康状况之间存在联系。研究结果表明,正如父母的性格会影响孩子的性格一样,猫和其主人之间也是如此。"
+            },
+            {
+              "id": 2,
+              "start": 21.2,
+              "end": 29.2,
+              "text": "Owners—defined as individuals with high levels of anxiety, fear, anger, depression and loneliness—were more likely to have cats with behavioural issues.",
+              "zh": "那些被定义为具有高度焦虑、恐惧、愤怒、抑郁和孤独感的主人,更有可能养出有行为问题的猫。"
+            },
+            {
+              "id": 3,
+              "start": 29.6,
+              "end": 40.7,
+              "text": "Such cats displayed more aggressive and anxious behavioural styles as well as more stress-related sickness. They were also more likely to have an ongoing medical condition and be overweight.",
+              "zh": "这些猫表现出更具攻击性和焦虑的行为方式,以及更多与压力相关的疾病。它们也更有可能患有持续性疾病和超重。"
+            },
+            {
+              "id": 4,
+              "start": 41.1,
+              "end": 46.4,
+              "text": "The research also found that mentally well-adjusted owners had calmer, happier and healthier cats.",
+              "zh": "研究还发现,心理健康状况良好的主人养的猫更平静、更快乐、更健康。"
+            },
+            {
+              "id": 5,
+              "start": 46.8,
+              "end": 82.9,
+              "text": "The researchers explained that \"Many owners regard their pets as a family member, and form close social bonds with them.\" The majority of owners want to provide the best care for their pets and it's therefore possible that pets could be affected by the way their owners interact with and manage them. The study highlights an important relationship between our personalities and the wellbeing of our pets. Further research is needed to investigate the causal nature of this relationship and to look at how owners' personalities are directly influencing their pets' behaviour and wellbeing.",
+              "zh": "研究人员解释说,\"许多主人将他们的宠物视为家庭成员,并与它们建立了紧密的社会联系。\"大多数主人希望为他们的宠物提供最好的照顾,因此宠物可能会受到主人与它们互动和管理方式的影响。这项研究强调了我们的性格与宠物健康之间的重要关系。需要进一步研究来探讨这种关系的因果性质,以及主人的性格如何直接影响宠物的行为和健康状况。"
+            },
+            {
+              "id": 6,
+              "start": 83.3,
+              "end": 92.9,
+              "text": "It is possible that the wellbeing of pets is driven by the underlying nature of the owner, not simply by their conscious decisions and behaviours.",
+              "zh": "宠物的健康状况可能是由主人的内在本质驱动的,而不仅仅是由他们有意识的决定和行为驱动的。"
+            }
+          ],
+          "audioDuration": 92.9,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What do we learn from the new study by the University of Lincoln?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Owners' personalities affect their cats' behaviour and wellbeing."
+                },
+                {
+                  "key": "B",
+                  "text": "Parents' personalities can affect the personalities of their children."
+                },
+                {
+                  "key": "C",
+                  "text": "Parents and cat owners alike experience high levels of anxiety."
+                },
+                {
+                  "key": "D",
+                  "text": "More and more people are treating pet cats like their children."
+                }
+              ],
+              "answer": "A",
+              "analysis": "主旨题。答案句（P1）：A new study carried out by the University of Lincoln has found a link between the personalities of cat owners and the behaviour and wellbeing of their cats.信号：开头点题句即结论 。篇章独白的主结论几乎都在第一句，has found a link between the personalities of cat owners and the behaviour and wel…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音里确实念到 a parent's personality can affect the personality of a child，但那只是用来打比方说明\"猫和主人也一样\"，研究本身讲的是猫不是孩子；B 把这个比方当成研究发现，是典型\"听到原词就选\"。 借用原文：individuals with high levels of anxiety, fear, anger, depression and loneliness",
+                "C": "原词陷阱：录音第 2 段确实念到 high levels of anxiety，C 把\"焦虑\"这个词捡来，硬说\"父母和猫主人都有高焦虑\"，但原文只说某些主人焦虑会影响猫，从没说父母也焦虑，是把原词拼成了一句没说过的话。 借用原文：Many owners regard their pets as a family member",
+                "D": "偷换概念：录音第 5 段念到 Many owners regard their pets as a family member（很多主人把宠物当家人），D 偷换成\"越来越多人把猫当孩子养\"，既加了\"越来越多\"的趋势，又把\"家人\"换成\"孩子\"，原文并未讲这是个增长趋势。",
+                "A": "正确项：与答案句同义替换（a link between the personalities of cat owners and the behaviour and wellbeing of their cats ↔ Owners' personalities affect their cats' behaviour and wellbeing. \"关联\"被改写成\"影响\"）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "A new study carried out by the University of Lincoln has found a link between the personalities of cat owners and the behaviour and wellbeing of their cats.",
+              "type": "主旨题"
+            },
+            {
+              "number": 17,
+              "stem": "What does the passage say most pet owners want to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Give their pets behavioural training."
+                },
+                {
+                  "key": "B",
+                  "text": "Provide their pets with the best care."
+                },
+                {
+                  "key": "C",
+                  "text": "Know their pets' feelings and desires."
+                },
+                {
+                  "key": "D",
+                  "text": "Interact with their pets in novel ways."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P5）：The majority of owners want to provide the best care for their pets and it's therefore possible that pets could be affected by the way their owners interact with and manage them.信号：意愿动词 want to 直接应答 。信号是题干钩子词 want to 在原文原样出现：The majority of owners want to provide the best care for their p…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音反复出现 behavioural styles、behaviours 这类\"行为\"词，A 把它捡成\"behavioural training（行为训练）\"，但原文从没说主人想给猫做训练，是听到 behavioural 就想选的陷阱。 借用原文：the underlying nature of the owner",
+                "C": "答非所问：原文 the underlying nature of the owner 讲的是主人内在性格驱动宠物状态，C 把它扭成\"主人想了解宠物的感受和愿望\"，可原文说的是主人想\"照料\"宠物，不是想\"了解其感受\"，方向被换了。 借用原文：the way their owners interact with and manage them",
+                "D": "原词陷阱：录音第 5 段确有 interact with and manage them，D 借走 interact 拼成\"用新颖方式互动\"，但原文只说主人会以某种方式对待宠物，从没提\"novel（新颖）\"方式，多加了限定词。",
+                "B": "正确项：与答案句同义替换（The majority of owners want to provide the best care for their pets ↔ Provide their pets with the best care. 几乎原句保留）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "The majority of owners want to provide the best care for their pets and it's therefore possible that pets could be affected by the way their owners interact with and manage them.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What does the passage say is still needed to understand the effects of owners' personalities on their pets?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "More convincing explanation."
+                },
+                {
+                  "key": "B",
+                  "text": "More extensive sampling."
+                },
+                {
+                  "key": "C",
+                  "text": "Collection of more data."
+                },
+                {
+                  "key": "D",
+                  "text": "Further investigation."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P5）：Further research is needed to investigate the causal nature of this relationship and to look at how owners' personalities are directly influencing their pets' behaviour and wellbeing.信号：篇末展望句 is needed 。信号是篇末的研究展望句式 Further research is needed to investigate，is needed 与题干 still needed 直接对应，这种\"还…",
+              "optionAnalysis": {
+                "A": "未提及：原文说的是还需\"进一步研究去探究因果\"，并没说现有解释不够可信、需要\"更有说服力的解释\"；A 凭\"研究、解释\"的话题氛围编出一个原文没提的需求。",
+                "B": "未提及：原文从未提样本大小，B 的 More extensive sampling.（更大范围取样）是借科普研究的专业气味硬造的，篇末展望句里根本没有\"样本/取样\"这层意思。",
+                "C": "偷换概念：原文需要的是宽泛的 Further research（进一步研究），C 的 Collection of more data.（收集更多数据）只是研究的一个具体环节，原文并没单指\"收数据\"，C 以偏概全、缩小了范围。",
+                "D": "正确项：与答案句同义替换（Further research is needed to investigate the causal nature of this relationship ↔ Further investigation. research 与 investigate 同义）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "Further research is needed to investigate the causal nature of this relationship and to look at how owners' personalities are directly influencing their pets' behaviour and wellbeing.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 44.2,
+              "text": "\"One 60-minute run can add seven hours to your life.\" This was a claim made by The Times last week. The claim was based on a new review of studies about the effects of running. The review concluded that on average runners live three years longer than non-runners and that running does more to extend life than any other form of exercise. But there's more to running than its health benefits. Research published in recent years has shown that running changes your brain and mind in some fascinating ways, from increasing your brain function to regulating your emotions. However, the precise effects vary according to whether you engage in short, fast running or long-distance running.",
+              "zh": "\"一次60分钟的跑步可以为你的生命增加7小时。\"这是《泰晤士报》上周提出的一项声明。该声明基于一项关于跑步效果的新研究综述。该综述得出结论,跑步者平均比不跑步者多活3年,并且跑步比任何其他形式的运动都更能延长寿命。但跑步的意义不仅仅在于其健康益处。近年来发表的研究表明,跑步以一些引人入胜的方式改变你的大脑和思维,从提高大脑功能到调节情绪。然而,具体效果因你从事短距离快速跑步还是长距离跑步而异。"
+            },
+            {
+              "id": 2,
+              "start": 44.6,
+              "end": 63.8,
+              "text": "For example, in one study, researchers compared participants' ability to learn new words after several minutes of intense running and after 40 minutes of gentle running. Participants were able to learn 20 percent faster after the intense running and they showed a superior memory when tested again a week later.",
+              "zh": "例如,在一项研究中,研究人员比较了参与者在几分钟高强度跑步后和40分钟温和跑步后学习新单词的能力。参与者在高强度跑步后学习速度提高了20%,并且在一周后再次测试时表现出更优异的记忆力。"
+            },
+            {
+              "id": 3,
+              "start": 64.1,
+              "end": 93,
+              "text": "In another study, researchers asked volunteers to jog for 30 minutes and then showed them clips from a sad movie. Participants who usually struggled to handle negative emotions were more intensely affected by the sad clips, just as you'd expect. But crucially, this was less so if they had completed the 30-minute jog. The researchers said moderate exercise appears to have helped those participants to be less vulnerable to the impact of the sad movie.",
+              "zh": "在另一项研究中,研究人员要求志愿者慢跑30分钟,然后向他们播放悲伤电影的片段。通常难以处理负面情绪的参与者受到悲伤片段的影响更为强烈,正如你所预期的那样。但关键的是,如果他们完成了30分钟的慢跑,这种影响会有所减轻。研究人员表示,适度运动似乎帮助这些参与者减少了对悲伤电影影响的脆弱性。"
+            }
+          ],
+          "audioDuration": 93,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What did the new review of studies claim?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "People should do more running than mere walking."
+                },
+                {
+                  "key": "B",
+                  "text": "Running is the best exercise for extending one's life."
+                },
+                {
+                  "key": "C",
+                  "text": "People should exercise at least 60 minutes every day."
+                },
+                {
+                  "key": "D",
+                  "text": "Running is the easiest form of exercise for most people."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：The review concluded that on average runners live three years longer than non-runners and that running does more to extend life than any other form of exercise.信号：结论动词 concluded 领出的那句就是答案句 。录音里 The review concluded that 用 concluded（总结道）这个结论信号词领出综述的正式说法，结论信号后面跟的就是该研究 clai…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 项 People should do more running than mere walking. 借了录音反复出现的 running 来诱选，但综述说的是跑步比其他运动更延寿，从没让人多跑少走，是听到 running 就想勾的原词陷阱。 借用原文：One 60-minute run can add seven hours to your life",
+                "C": "原词陷阱：C 项 People should exercise at least 60 minutes every day. 偷了开头 One 60-minute run 里的 60 分钟，但原文只是举例说一次 60 分钟的跑步，从没说每天至少运动 60 分钟，是把听到的数字硬塞进一个原文没有的主张。",
+                "D": "未提及：D 项 Running is the easiest form of exercise for most people. 听上去像常识，但综述比的是延寿效果（哪个更长寿），根本没比哪种运动最容易；easiest 是凭印象脑补出来的，原文未提。",
+                "B": "正确项：与答案句同义替换（running does more to extend life than any other form of exercise ↔ Running is the best exercise for extending one's life 比任何其他都强=最好，比较级升级为最高级）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The review concluded that on average runners live three years longer than non-runners and that running does more to extend life than any other form of exercise.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What is one effect that running has on people according to recent research?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Improving their brain function."
+                },
+                {
+                  "key": "B",
+                  "text": "Regulating their breathing rate."
+                },
+                {
+                  "key": "C",
+                  "text": "Slowing down their ageing process."
+                },
+                {
+                  "key": "D",
+                  "text": "Accelerating their blood circulation."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：Research published in recent years has shown that running changes your brain and mind in some fascinating ways, from increasing your brain function to regulating your emotions.信号：shown that 引出近期研究结论，且与题干recent research对应 。录音 Research published in recent years has shown that 正对应题干里的 acco…",
+              "optionAnalysis": {
+                "B": "原词陷阱：B 项 Regulating their breathing rate. 偷了录音里 regulating your emotions 的 regulating，但原文 regulating 后面跟的是 emotions（情绪），不是 breathing rate（呼吸频率）；它把对的动词配上错的对象，是张冠李戴式的原词陷阱。",
+                "C": "未提及：C 项 Slowing down their ageing process. 蹭了前文延长寿命的话题让人误以为有关衰老，但讲近期研究效果这句只提了脑功能和情绪，没说延缓衰老；属把别处话题挪过来的混淆。",
+                "D": "未提及：D 项 Accelerating their blood circulation. 是大家凭常识觉得跑步必然会有的效果，但录音讲的是改变大脑和心智（脑功能、情绪），完全没提血液循环，属常识代替原文。",
+                "A": "正确项：与答案句同义替换（increasing your brain function ↔ Improving their brain function increasing≈improving，brain function原义保留）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Research published in recent years has shown that running changes your brain and mind in some fascinating ways, from increasing your brain function to regulating your emotions.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What did another study find about the participants after they had a 30-minute jog?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They found it easy to control their emotions."
+                },
+                {
+                  "key": "B",
+                  "text": "They struggled to handle negative emotions."
+                },
+                {
+                  "key": "C",
+                  "text": "They were more eager to enjoy a movie."
+                },
+                {
+                  "key": "D",
+                  "text": "They were less affected by sad movies."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Participants who usually struggled to handle negative emotions were more intensely affected by the sad clips, just as you'd expect. But crucially, this was less so if they had completed the 30-minute jog.信号：转折But crucially之后才是真结论 。录音前半 were more intensely affected by the sad clips 是铺垫常态，真正的研究发现在转折词后：But crucially,…",
+              "optionAnalysis": {
+                "B": "原词陷阱：B 项 They struggled to handle negative emotions. 几乎照搬录音 struggled to handle negative emotions 的原话，但那是描述被试平时（usually）的状态，不是慢跑后的发现；题干问的是慢跑之后，它答的是慢跑之前，是最毒的原词陷阱。 借用原文：less vulnerable to the impact of the sad movie",
+                "A": "过度推断：A 项 They found it easy to control their emotions. 把原文的受影响变小（less affected）夸成了能轻松控制情绪（easy to control），原文只说影响减弱，没说他们就能掌控情绪，是把程度推过了头。 借用原文：showed them clips from a sad movie",
+                "C": "原词陷阱：C 项 They were more eager to enjoy a movie. 借了录音里 movie 这个词，但原文讲的是被试被悲伤片段影响的程度，从没说他们更想看电影（eager to enjoy）；是借 movie 一词编出原文没有的内容。",
+                "D": "正确项：与答案句同义替换（this was less so if they had completed the 30-minute jog ↔ They were less affected by sad movies less so指回less affected，sad clips=sad movies）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Participants who usually struggled to handle negative emotions were more intensely affected by the sad clips, just as you'd expect. But crucially, this was less so if they had completed the 30-minute jog.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 21.5,
+              "text": "Welcome to the tour of the Hill House. This house built in 1904 is one of the most well-known works of Charles Hill, the famous architect. It was designed and built for a local entrepreneur and his family. Before starting the tour, let me give you a brief introduction about the design of this amazing building.",
+              "zh": "欢迎参观Hill House。这座建于1904年的房子是著名建筑师Charles Hill最知名的作品之一。它是为一位当地企业家及其家人设计和建造的。在开始参观之前,让我简要介绍一下这座令人惊叹的建筑的设计。"
+            },
+            {
+              "id": 2,
+              "start": 21.9,
+              "end": 36.1,
+              "text": "Prior to beginning his design, the architect spent some time in the client's old home, observing their life and studying their habits. This meant that he could design the house according to the needs of the family.",
+              "zh": "在开始设计之前,建筑师在客户的老房子里待了一段时间,观察他们的生活并研究他们的习惯。这意味着他可以根据这个家庭的需求来设计房子。"
+            },
+            {
+              "id": 3,
+              "start": 36.5,
+              "end": 88.8,
+              "text": "The client's main desire was to have a home with the unique design, so the architect was given complete freedom. The building style is radically different from what was the fashion of the period. At the time, most large homes were constructed of timber and brick. This one, however, is made of concrete, a novel construction material in those days. The interior of the house, including fittings and furniture, was also designed by the same person. Most of the furniture you will see is original and in good condition. However, those pieces in the children's bedrooms are copies built to the designs of the architect. Fortunately, all the blueprints for both the building and its contents have been preserved, so we've been able to replace badly damaged furniture. Let's begin our tour, starting from the rooms.",
+              "zh": "客户的主要愿望是拥有一座设计独特的房子,因此建筑师获得了完全的自由。这座建筑的风格与当时的流行风格截然不同。那时,大多数大型住宅都是用木材和砖块建造的。然而,这座房子是用混凝土建造的,这在当时是一种新颖的建筑材料。房子的内部,包括装置和家具,也是由同一个人设计的。你将看到的大部分家具都是原件且保存完好。然而,儿童卧室里的那些家具是按照建筑师的设计建造的复制品。幸运的是,建筑及其内部陈设的所有蓝图都被保存了下来,所以我们能够更换严重损坏的家具。让我们开始参观吧,从这些房间开始。"
+            }
+          ],
+          "audioDuration": 88.8,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What do we learn about the speaker?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He is a tour guide."
+                },
+                {
+                  "key": "B",
+                  "text": "He is a famous architect."
+                },
+                {
+                  "key": "C",
+                  "text": "He is a local entrepreneur."
+                },
+                {
+                  "key": "D",
+                  "text": "He is the owner of the Hill House."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：Welcome to the tour of the Hill House.信号：开场欢迎语暴露讲解员身份 。答案信号是录音第一句的开场套话 Welcome to the tour of the Hill House.——『欢迎来参观』这种带 tour 的欢迎词，只有带队讲解的人才会说，等于自报家…",
+              "optionAnalysis": {
+                "B": "张冠李戴：录音确实念到 Charles Hill, the famous architect，但 famous architect 说的是设计这栋房子的查尔斯·希尔，不是正在讲解的说话人。选项 He is a famous architect. 把建筑师的身份安到了说话人头上，是典型的张冠李戴。 借用原文：a local entrepreneur and his family",
+                "C": "原词陷阱：It was designed and built for a local entrepreneur and his family. 里的 local entrepreneur（本地企业家）指的是当年请人盖房的客户，与说话人无关。选项 He is a local entrepreneur. 同样把客户的身份扣到说话人头上。",
+                "D": "未提及：录音只说房子是为 a local entrepreneur and his family 建的，从头到尾没说说话人是房主；带队做 tour 的讲解员通常也不是产权所有者。选项 He is the owner of the Hill House. 属未提及的臆测，原文无对应依据。",
+                "A": "正确项：与答案句同义替换（Welcome to the tour of the Hill House. ↔ He is a tour guide. 由动作反推身份）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Welcome to the tour of the Hill House.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What did the architect do before beginning his design?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He studied the blueprints of other famous buildings."
+                },
+                {
+                  "key": "B",
+                  "text": "He inquired about his client's family background."
+                },
+                {
+                  "key": "C",
+                  "text": "He observed his client's life and habits."
+                },
+                {
+                  "key": "D",
+                  "text": "He took a tour of his client's old home."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：Prior to beginning his design, the architect spent some time in the client's old home, observing their life and studying their habits.信号：时间状语 Prior to 对上题干 before 。答案信号是时间状语 Prior to beginning his design——它和题干里的 before beginning his design 几乎一字不…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音后文确实出现 all the blueprints for both the building and its contents have been preserved，blueprints（图纸）这个词被念到了，但那是说『这栋房子自己的图纸被保存下来』，并非建筑师设计前去研究『别家名建筑的图纸』。选项 He studied the blueprints of other famous buildings. 盗用 blueprints 一词，却凭空加了 other famous buildings，答非所问。 借用原文：a local entrepreneur and his family",
+                "B": "未提及：录音提到 client 和 family（a local entrepreneur and his family），让 family background 看着眼熟，但建筑师做的是『观察生活、研究习惯』，从没『inquired about family background（打听家世背景）』。inquire 这个动作录音根本没说，属未提及。 借用原文：spent some time in the client's old home",
+                "D": "原词陷阱：录音说建筑师 spent some time in the client's old home（在旧居里待了一段时间，目的是观察生活），并不是去 took a tour of his client's old home（参观一下旧居）。选项盗用 old home 一词，把『常驻观察』偷换成『参观一趟』，重点完全跑偏。",
+                "C": "正确项：与答案句同义替换（observing their life and studying their habits ↔ He observed his client's life and habits. 两个并列动作概括为一句）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Prior to beginning his design, the architect spent some time in the client's old home, observing their life and studying their habits.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What did the architect's client mainly want?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A house made of timber and brick."
+                },
+                {
+                  "key": "B",
+                  "text": "A house with a lot of free space."
+                },
+                {
+                  "key": "C",
+                  "text": "A house of the current fashion."
+                },
+                {
+                  "key": "D",
+                  "text": "A house of a unique design."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：The client's main desire was to have a home with the unique design, so the architect was given complete freedom.信号：desire 直接点出客户愿望 。答案信号是表愿望的词 The client's main desire was——desire（愿望）与题干的 want 同义，直接领出客户到底想要什么。听到 desire / wa…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确实念到 most large homes were constructed of timber and brick，但这是在说『当时大多数大房子』的普遍做法，紧接着用 however 转折说这栋房子是用混凝土造的。选项 A house made of timber and brick. 盗用 timber and brick，描述的却是别家房子，不是客户想要的这栋。 借用原文：the architect was given complete freedom",
+                "B": "未提及：录音说 the architect was given complete freedom（建筑师获得完全的设计自由），freedom 与选项里的 free space 长得像、听起来也像，但 free space 指『大量空闲空间』，录音从没说客户想要宽敞空间。选项 A house with a lot of free space. 是利用 freedom / free 的相似制造混淆，属未提及。 借用原文：The building style is radically different from what was the fashion of the period",
+                "C": "与原文相反：录音明说 The building style is radically different from what was the fashion of the period（这栋房子的风格与当时的流行式样截然不同）。选项 A house of the current fashion. 盗用 fashion 一词，却把意思反了过来——客户要的恰恰是不随流行、独一无二，与原文意思相反。",
+                "D": "正确项：与答案句同义替换（a home with the unique design ↔ A house of a unique design. home 与 house 近义、措辞几乎照搬）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "The client's main desire was to have a home with the unique design, so the architect was given complete freedom.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What do we learn about the pieces of furniture in the children's bedrooms?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are well preserved and in pretty good shape."
+                },
+                {
+                  "key": "B",
+                  "text": "They are copies built to the architect's designs."
+                },
+                {
+                  "key": "C",
+                  "text": "They were designed by another architect."
+                },
+                {
+                  "key": "D",
+                  "text": "They were badly damaged but restored."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：However, those pieces in the children's bedrooms are copies built to the designs of the architect.信号：However 转折锁定儿童房家具真相 。答案信号是转折词 However——前一句刚说大多数家具是原件、状况好，However 一转，专门交代『儿童房那批是复制品』。转折后正是题目问的那个对象的真相，这类题答案常落…",
+              "optionAnalysis": {
+                "A": "张冠李戴：录音说 Most of the furniture you will see is original and in good condition——『状况好、是原件』讲的是『大多数家具』，紧接着 However 才转到儿童房那批是复制品。选项 They are well preserved and in pretty good shape. 把『大多数家具』的状态安到了题目问的『儿童房家具』头上，张冠李戴。 借用原文：copies built to the designs of the architect",
+                "C": "与原文相反：录音说儿童房家具是 copies built to the designs of the architect（按『这位建筑师』的图纸做的复制品），设计者就是本建筑师本人。选项 They were designed by another architect. 却说是『另一位建筑师』设计的，与原文意思相反。 借用原文：we've been able to replace badly damaged furniture",
+                "D": "原词陷阱：录音确实念到 we've been able to replace badly damaged furniture，badly damaged 这个词被说到了，但那是讲『靠保存下来的图纸去更换严重损坏的家具』，并不是说儿童房的家具被严重损坏后又修复了。选项 They were badly damaged but restored. 盗用 badly damaged，把它扣到儿童房家具上，对象与意思都错了。",
+                "B": "正确项：与答案句同义替换（those pieces in the children's bedrooms are copies built to the designs of the architect ↔ They are copies built to the architect's designs. 措辞几乎照搬，仅语序微调）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "However, those pieces in the children's bedrooms are copies built to the designs of the architect.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "It is commonly believed that the great English dramatist and poet William Shakespeare was born in Stratford-on-Avon on April 23, 1564. But it is impossible to know the 26______ day on which he was born.\n\nChurch records show he was baptized(施洗礼) on April 26, and three days was a customary amount of time to wait before baptizing a newly born baby. Shakespeare's date of death is 27______ known, however: it was April 23, 1616. He was 52 and had retired to Stratford three years before.\n\nAlthough few plays have been performed or analyzed as extensively as the 38 plays Shakespeare wrote, there are few surviving details about his life. This 28______ of biographical information is due primarily to his social 29______ ; he was not a noble, but the son of a leather trader.\n\nShakespeare 30______ attended the grammar school in Stratford, where he would have studied Latin and read 31______ literature. He did not go to university and at age 18 married Anne Hathaway, who was eight years his 32______ . They had four children, including the twins, Hamnet and Judith. Nothing is known of the period between the birth of the twins and Shakespeare's 33______ as a dramatist in London in the early 1590s.\n\nIn a million words written over 20 years, he 34______ the full range of human emotions and conflicts with a 35______ that remains sharp today. As his great contemporary the poet and dramatist Ben Jonson said, \"He was not of an age, but for all time.\""
+            },
+            {
+              "label": "词库",
+              "text": "A) captured\nB) classical\nC) conclusively\nD) emergence\nE) exact\nF) generated\nG) particular\nH) position\nI) precision\nJ) probably\nK) quality\nL) scarcity\nM) senior\nN) separated\nO) systematically"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "captured"
+                },
+                {
+                  "key": "B",
+                  "text": "classical"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusively"
+                },
+                {
+                  "key": "D",
+                  "text": "emergence"
+                },
+                {
+                  "key": "E",
+                  "text": "exact"
+                },
+                {
+                  "key": "F",
+                  "text": "generated"
+                },
+                {
+                  "key": "G",
+                  "text": "particular"
+                },
+                {
+                  "key": "H",
+                  "text": "position"
+                },
+                {
+                  "key": "I",
+                  "text": "precision"
+                },
+                {
+                  "key": "J",
+                  "text": "probably"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "scarcity"
+                },
+                {
+                  "key": "M",
+                  "text": "senior"
+                },
+                {
+                  "key": "N",
+                  "text": "separated"
+                },
+                {
+                  "key": "O",
+                  "text": "systematically"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) exact\n【原文】exact day = 确切的那一天，呼应“无法确知”\nG) particular 义近但不及 exact 精准：particular（特定的）虽也修饰 day，但本句强调的是“确切与否”（与下段靠受洗日推算呼应），exact 才精准击中“无法确知确切日期”的语义；particular 偏“某"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "captured"
+                },
+                {
+                  "key": "B",
+                  "text": "classical"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusively"
+                },
+                {
+                  "key": "D",
+                  "text": "emergence"
+                },
+                {
+                  "key": "E",
+                  "text": "exact"
+                },
+                {
+                  "key": "F",
+                  "text": "generated"
+                },
+                {
+                  "key": "G",
+                  "text": "particular"
+                },
+                {
+                  "key": "H",
+                  "text": "position"
+                },
+                {
+                  "key": "I",
+                  "text": "precision"
+                },
+                {
+                  "key": "J",
+                  "text": "probably"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "scarcity"
+                },
+                {
+                  "key": "M",
+                  "text": "senior"
+                },
+                {
+                  "key": "N",
+                  "text": "separated"
+                },
+                {
+                  "key": "O",
+                  "text": "systematically"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) conclusively\n【原文】conclusively known = 确凿可考，与上文“生日不可考”形成对照\nO) systematically “系统地被知道”不通，且无转折对照义：systematically（系统地）修饰 known 读作“系统地被知道”，语义生硬；本句靠 however 与上文“无法确知生日”作对照，需要的是表“确凿”的词，systema"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "captured"
+                },
+                {
+                  "key": "B",
+                  "text": "classical"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusively"
+                },
+                {
+                  "key": "D",
+                  "text": "emergence"
+                },
+                {
+                  "key": "E",
+                  "text": "exact"
+                },
+                {
+                  "key": "F",
+                  "text": "generated"
+                },
+                {
+                  "key": "G",
+                  "text": "particular"
+                },
+                {
+                  "key": "H",
+                  "text": "position"
+                },
+                {
+                  "key": "I",
+                  "text": "precision"
+                },
+                {
+                  "key": "J",
+                  "text": "probably"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "scarcity"
+                },
+                {
+                  "key": "M",
+                  "text": "senior"
+                },
+                {
+                  "key": "N",
+                  "text": "separated"
+                },
+                {
+                  "key": "O",
+                  "text": "systematically"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) scarcity\n【原文】scarcity of information 呼应“few details”\nK) quality “质量”不呼应“数量少”：quality（品质）指好坏，而上文说的是资料“少”（数量问题），quality 方向错位。\nD) emergence “出现”与“资料缺乏”逻辑相反：emergence（出现）放进“传记信息的出现”与下文“due to 出身低、记载少”的因果不通，且它另有归宿（第 33 空）。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "captured"
+                },
+                {
+                  "key": "B",
+                  "text": "classical"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusively"
+                },
+                {
+                  "key": "D",
+                  "text": "emergence"
+                },
+                {
+                  "key": "E",
+                  "text": "exact"
+                },
+                {
+                  "key": "F",
+                  "text": "generated"
+                },
+                {
+                  "key": "G",
+                  "text": "particular"
+                },
+                {
+                  "key": "H",
+                  "text": "position"
+                },
+                {
+                  "key": "I",
+                  "text": "precision"
+                },
+                {
+                  "key": "J",
+                  "text": "probably"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "scarcity"
+                },
+                {
+                  "key": "M",
+                  "text": "senior"
+                },
+                {
+                  "key": "N",
+                  "text": "separated"
+                },
+                {
+                  "key": "O",
+                  "text": "systematically"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) position\n【原文】social position = 社会地位\nK) quality social quality 不指“出身地位”：quality（品质）与 social 搭出的意思偏“社交素质”，无法解释下文“非贵族、皮匠之子”的出身落差，方向不对。\nD) emergence “出现”与 social 不搭、另有归宿：emergence（出现）放进 social ___ 不成短语，且它真正的位置在第 33 空 his emergence as a dramatist。\nL) scarcity 已优先归属第 28 空：scarcity（匮乏）与 social 搭不出意义，且与第 28 空 “___ of biographical information”（资料的稀少）天然对应，应留给那个空。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "captured"
+                },
+                {
+                  "key": "B",
+                  "text": "classical"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusively"
+                },
+                {
+                  "key": "D",
+                  "text": "emergence"
+                },
+                {
+                  "key": "E",
+                  "text": "exact"
+                },
+                {
+                  "key": "F",
+                  "text": "generated"
+                },
+                {
+                  "key": "G",
+                  "text": "particular"
+                },
+                {
+                  "key": "H",
+                  "text": "position"
+                },
+                {
+                  "key": "I",
+                  "text": "precision"
+                },
+                {
+                  "key": "J",
+                  "text": "probably"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "scarcity"
+                },
+                {
+                  "key": "M",
+                  "text": "senior"
+                },
+                {
+                  "key": "N",
+                  "text": "separated"
+                },
+                {
+                  "key": "O",
+                  "text": "systematically"
+                }
+              ],
+              "answer": "J",
+              "type": "选词填空",
+              "analysis": "【答案】J（官方答案）\n应填 J) probably\n【原文】probably 呼应全文“资料缺乏、只能推测”的基调\nC) conclusively “确凿地”与“资料缺乏只能推测”矛盾：conclusively（确凿无疑地）表肯定无疑，与上下文“记载稀少、多靠推断”及 would have studied 的推测语气直接冲突，且它另有更贴的归宿（第 27 空 co\nO) systematically “系统地上学”不合逻辑：systematically（系统地）修饰 attended（上学）读作“系统地上过文法学校”，语义生硬、不合常理，与句意无关。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "captured"
+                },
+                {
+                  "key": "B",
+                  "text": "classical"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusively"
+                },
+                {
+                  "key": "D",
+                  "text": "emergence"
+                },
+                {
+                  "key": "E",
+                  "text": "exact"
+                },
+                {
+                  "key": "F",
+                  "text": "generated"
+                },
+                {
+                  "key": "G",
+                  "text": "particular"
+                },
+                {
+                  "key": "H",
+                  "text": "position"
+                },
+                {
+                  "key": "I",
+                  "text": "precision"
+                },
+                {
+                  "key": "J",
+                  "text": "probably"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "scarcity"
+                },
+                {
+                  "key": "M",
+                  "text": "senior"
+                },
+                {
+                  "key": "N",
+                  "text": "separated"
+                },
+                {
+                  "key": "O",
+                  "text": "systematically"
+                }
+              ],
+              "answer": "B",
+              "type": "选词填空",
+              "analysis": "【答案】B（官方答案）\n应填 B) classical\n【原文】classical literature 是固定搭配“古典文学”\nE) exact exact literature 搭配不成立：exact 意为“确切的”，没有“确切的文学”这种说法，且它另有更贴的归宿（第 26 空 exact day）。\nG) particular 语义空泛、与学拉丁语无呼应：particular（特定的）虽语法可修饰 literature，但上下文并未限定“某一种”文学，与 Latin 也无逻辑呼应，远不如 classical 精准。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "captured"
+                },
+                {
+                  "key": "B",
+                  "text": "classical"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusively"
+                },
+                {
+                  "key": "D",
+                  "text": "emergence"
+                },
+                {
+                  "key": "E",
+                  "text": "exact"
+                },
+                {
+                  "key": "F",
+                  "text": "generated"
+                },
+                {
+                  "key": "G",
+                  "text": "particular"
+                },
+                {
+                  "key": "H",
+                  "text": "position"
+                },
+                {
+                  "key": "I",
+                  "text": "precision"
+                },
+                {
+                  "key": "J",
+                  "text": "probably"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "scarcity"
+                },
+                {
+                  "key": "M",
+                  "text": "senior"
+                },
+                {
+                  "key": "N",
+                  "text": "separated"
+                },
+                {
+                  "key": "O",
+                  "text": "systematically"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) senior\n【原文】eight years his senior = 比他大八岁\nE) exact 不能与 years 构成年龄比较：exact（确切的）无法说“比他确切八岁”，不构成比较关系，语义不通。\nG) particular 无“年长”义，框架对不上：particular（特定的）同样无法填进 “eight years his ___” 表达年龄差，逻辑指向不对。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "captured"
+                },
+                {
+                  "key": "B",
+                  "text": "classical"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusively"
+                },
+                {
+                  "key": "D",
+                  "text": "emergence"
+                },
+                {
+                  "key": "E",
+                  "text": "exact"
+                },
+                {
+                  "key": "F",
+                  "text": "generated"
+                },
+                {
+                  "key": "G",
+                  "text": "particular"
+                },
+                {
+                  "key": "H",
+                  "text": "position"
+                },
+                {
+                  "key": "I",
+                  "text": "precision"
+                },
+                {
+                  "key": "J",
+                  "text": "probably"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "scarcity"
+                },
+                {
+                  "key": "M",
+                  "text": "senior"
+                },
+                {
+                  "key": "N",
+                  "text": "separated"
+                },
+                {
+                  "key": "O",
+                  "text": "systematically"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) emergence\n【原文】emergence as a dramatist = 作为剧作家的崭露头角\nK) quality “品质 as a dramatist”逻辑不通：quality（品质）说 “Shakespeare's quality as a dramatist in the early 1590s” 与“Nothing is known "
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "captured"
+                },
+                {
+                  "key": "B",
+                  "text": "classical"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusively"
+                },
+                {
+                  "key": "D",
+                  "text": "emergence"
+                },
+                {
+                  "key": "E",
+                  "text": "exact"
+                },
+                {
+                  "key": "F",
+                  "text": "generated"
+                },
+                {
+                  "key": "G",
+                  "text": "particular"
+                },
+                {
+                  "key": "H",
+                  "text": "position"
+                },
+                {
+                  "key": "I",
+                  "text": "precision"
+                },
+                {
+                  "key": "J",
+                  "text": "probably"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "scarcity"
+                },
+                {
+                  "key": "M",
+                  "text": "senior"
+                },
+                {
+                  "key": "N",
+                  "text": "separated"
+                },
+                {
+                  "key": "O",
+                  "text": "systematically"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) captured\n【原文】capture emotions = （用文字）捕捉、刻画情感\nF) generated “生成情感”搭配与语义都不当：generated（产生、生成）说 “generated human emotions” 意为“制造出情感”，但莎翁是“描绘、捕捉”既有的人类情感而非“凭空生成”，与 precis"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "captured"
+                },
+                {
+                  "key": "B",
+                  "text": "classical"
+                },
+                {
+                  "key": "C",
+                  "text": "conclusively"
+                },
+                {
+                  "key": "D",
+                  "text": "emergence"
+                },
+                {
+                  "key": "E",
+                  "text": "exact"
+                },
+                {
+                  "key": "F",
+                  "text": "generated"
+                },
+                {
+                  "key": "G",
+                  "text": "particular"
+                },
+                {
+                  "key": "H",
+                  "text": "position"
+                },
+                {
+                  "key": "I",
+                  "text": "precision"
+                },
+                {
+                  "key": "J",
+                  "text": "probably"
+                },
+                {
+                  "key": "K",
+                  "text": "quality"
+                },
+                {
+                  "key": "L",
+                  "text": "scarcity"
+                },
+                {
+                  "key": "M",
+                  "text": "senior"
+                },
+                {
+                  "key": "N",
+                  "text": "separated"
+                },
+                {
+                  "key": "O",
+                  "text": "systematically"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) precision\n【原文】he __(34)__ the full range of human emotions and conflicts with a __(35)__ that remains sharp today，说他以一种“至今依然锐利的 ___”刻画人类情感，precision（精准）正好与 sharp（敏锐、犀利）语义共振，指莎翁文字的精准笔力。\nK) quality 义太泛，与 sharp 不直接呼应：quality（品质）过于笼统，说 “a quality that remains sharp” 远不如 precision 与 sharp 贴合，缺少“精准锐利”的指向性，是最大\nD) emergence “出现”无法被 sharp 修饰：emergence（出现）说 “a emergence that remains sharp” 既不搭也不通，且它另有归宿（第 33 空 emergence as a dramat\nH) position “地位”与 sharp 不搭：position（地位）说“依然锐利的地位”讲不通，本词的真正归宿是第 29 空 social position。\nL) scarcity “稀少”与赞美语气相反：scarcity（匮乏）是贬义、表少，本句在称赞莎翁笔力，感情色彩相反，且它另有归宿（第 28 空 scarcity of information）。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Humans are creatures of habit. We love to establish a routine and stick with it. Then we often put ourselves on auto-pilot. Routines can be incredibly useful in helping you get things done. However, too much of a routine can also make you incredibly boring. Nevertheless, many people live lives that are boringly predictable, or live a life where everything is outlined or planned."
+            },
+            {
+              "label": "B",
+              "text": "To tell the truth, interesting people are more popular among their friends. If you don't arouse someone's curiosity or brighten someone's day, you probably come across as being a little bit dull. But that doesn't mean your life has ended and you can't do anything to change it. If you find yourself searching for something to say beyond small talk, try these tactics to find more interesting approaches to conversation."
+            },
+            {
+              "label": "C",
+              "text": "Recently, I was at a gathering of colleagues when someone turned to me and asked, \"So, what's new with you?\" Ordinarily, I think I'm a good conversationalist. After all, it's literally my job to talk to people and tell their stories or share their advice. And that's not exactly an unexpected question. Still, the only \"new-to-me\" topics that came to mind were my daughter's basketball tournament(锦标赛) and my feelings about that morning's political headlines—neither amusing nor appropriate topics at that moment."
+            },
+            {
+              "label": "D",
+              "text": "Oh, no, I thought. Have I become boring? But sharing our experiences in an authentic way to connect with other people is what makes us interesting, says associate professor Michael Pirson. The hesitation I felt in not sharing the ordinary things that were happening in my life, and the wild mental search for something more interesting, may have backfired and made me seem less interesting."
+            },
+            {
+              "label": "E",
+              "text": "\"If someone is making up some conversation that might be interesting, it's probably not going to land well,\" says Pirson, whose expertise includes trust and well-being, mindfulness, and humanistic management. \"It's going to feel like a made-up conversation that people don't necessarily want to tune in to.\""
+            },
+            {
+              "label": "F",
+              "text": "The most interesting people aren't those who've gone on some Eat, Pray, Love journey to find themselves. Instead, Pirson says, they're those who examine the ordinary. \"Often, the 'boring things' may not be boring at all. Maybe they are actually little miracles,\" he says. Share your observations about the world around you—interesting stories you heard or things you noticed—and you may be surprised by the universal connection they inspire."
+            },
+            {
+              "label": "G",
+              "text": "This is essentially how Jessica Hagy starts her day. The author of How to Be Interesting: An Instruction Manual, Hagy spends a lot of time thinking about what's interesting to her. People who are interesting are persistently curious, she says."
+            },
+            {
+              "label": "H",
+              "text": "Think about the everyday things around you and ask questions about them. What is that roadside monument I see on my way to work every day? Who built that interesting building in my city? What nearby attractions haven't I visited? Why do people do things that way? Use what you find to ask more questions and learn more about the world around you. \"Having that sort of curiosity is almost like a protective gear from getting into boredom,\" she says. And when you find things that are truly interesting to you, share them."
+            },
+            {
+              "label": "I",
+              "text": "Television veteran Audrey Morrissey, executive producer of NBC's The Voice, is always looking for what will make a person or story interesting to viewers: It's usually a matter of individuality. \"Having a strong point of view, signature style, or being a super-enthusiast in a particular field makes someone interesting,\" she says. That means embracing what is truly interesting or unique about yourself. \"Many people are 'not boring' in the way that they can carry a conversation or can be good at a social gathering, etc. To be interesting means that you have lived life, taken risks, traveled, sought out experience to learn for yourself and share with others,\" she says."
+            },
+            {
+              "label": "J",
+              "text": "Of course, it's possible to be a fountain of knowledge and a boring person, says public relations consultant Andrea Pass. Paying attention to the listener is an important part of having a conversation that's interesting to both parties. Talking on and on about what's interesting to you isn't going to make you an interesting person, she says."
+            },
+            {
+              "label": "K",
+              "text": "\"If the listener is not paying attention, it's your sign to shorten the story or change direction. Make sure to bring the audience into the conversation so that it is not one-sided,\" Pass says. Be a better listener yourself, and give others opportunities to participate in the conversation by inviting them with questions or requests to share their own experiences or thoughts. (e.g., \"Now, tell me about your favorite book,\" or \"Have you ever been to that attraction?\") Questions are a powerful tool, especially when they encourage others to disclose information about themselves. A 2012 study from the University of California, Santa Barbara, found that roughly 40% of the time we are talking, we're disclosing subjective information about our experience. And when we're doing so, our brains are more engaged. So one strategy to leave others with the impression that you're a sparkling conversation partner is to get others to talk about themselves."
+            },
+            {
+              "label": "L",
+              "text": "Being relatable is also essential, Morrissey says. \"The best entertainment and storytelling comes from people who are relatable-those who don't shy away from opening up but freely share who they are and what they care about. These are the people viewers most relate to and find interesting. Being authentic, honest, and vulnerable is always interesting.\""
+            },
+            {
+              "label": "M",
+              "text": "I have now come to realize that being boring, in actuality, is not only about who you are as a person, but also how you present yourself. No matter what, make sure you are having fun in life. Because when you are enjoying, people around you will begin to enjoy as well. Show some interest in them and they will definitely show some in you. If you are a very reserved person, this could be a little difficult at first. But with a little effort, you can definitely improve."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Pirson claims that some ordinary things may often prove to be miraculously interesting.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（强锚点）\n【原文】\"Often, the 'boring things' may not be boring at all. Maybe they are actually little miracles,\" he says.\n本段虽出现 what makes us interesting，但落点是 sharing our experiences in an authentic way——「真实分享」，并未出现题干所要的「平凡事 ≈ 奇迹」这一断言。"
+            },
+            {
+              "number": 37,
+              "stem": "To make a conversation interesting, it is important that you listen to the other party attentively.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】Paying attention to the listener is an important part of having a conversation that's interesting to both parties.\nIf the listener is not paying attention, it's your sign to shorten the story 是「if 怎样就怎么做」的策略指导；题干 it is important that you listen… 强调的是重要性论断，正出自 J 段而非 K 段。"
+            },
+            {
+              "number": 38,
+              "stem": "A person who is unable to stimulate others' curiosity or make their life enjoyable may appear somewhat boring.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（强锚点）\n【原文】If you don't arouse someone's curiosity or brighten someone's day, you probably come across as being a little bit dull.\ntoo much of a routine can also make you incredibly boring 的原因是 routine，而非「无法激起好奇」；题干必备的 curiosity 一词在 A 段未出现。"
+            },
+            {
+              "number": 39,
+              "stem": "Interesting people usually possess certain unique qualities, according to a TV program producer.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（强锚点）\n【原文】\"Having a strong point of view, signature style, or being a super-enthusiast in a particular field makes someone interesting,\" she says.\nBeing relatable is also essential、Being authentic, honest, and vulnerable is always interesting 强调「可亲近 / 真实 / 示弱」，这些都是「共性」而非「独特性」；与题干 unique qualities 的方向相反。"
+            },
+            {
+              "number": 40,
+              "stem": "Be interested in others and they are sure to be interested in you.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "M",
+                  "text": "Paragraph M"
+                }
+              ],
+              "answer": "M",
+              "type": "信息匹配",
+              "analysis": "【答案】M（强锚点）\n【原文】Show some interest in them and they will definitely show some in you.\nget others to talk about themselves 落点是「让我自己显得是 sparkling conversation partner」的单向收益，并不主张「他们也会对你 interested」这种对等回报。"
+            },
+            {
+              "number": 41,
+              "stem": "The author considers himself usually good at conducting conversations.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】Ordinarily, I think I'm a good conversationalist.\nHave I become boring? 是质疑而非肯定；本段甚至承接 C 的失语经历，与题干「自认为擅长」相反。"
+            },
+            {
+              "number": 42,
+              "stem": "Interesting people are always full of curiosity.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】People who are interesting are persistently curious, she says.\nHaving that sort of curiosity is almost like a protective gear from getting into boredom 是「保持好奇能防无聊」的功能性论述，而非「有趣的人 = 持续好奇」的直接定义。"
+            },
+            {
+              "number": 43,
+              "stem": "Falling into a routine can turn a person into an utter bore.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】However, too much of a routine can also make you incredibly boring.\nIf you don't arouse someone's curiosity or brighten someone's day, you probably come across as being a little bit dull 论的是好奇心维度而非 routine 维度，题干必备的 routine 一词在 B 段不存在。"
+            },
+            {
+              "number": 44,
+              "stem": "One strategy to be a good conversationalist is to motivate your partner to tell their own stories.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】So one strategy to leave others with the impression that you're a sparkling conversation partner is to get others to talk about themselves.\nPaying attention to the listener is an important part of having a conversation that's interesting to both parties 是原则陈述，未触及题干所要的「motivate your partner to tell their own stories」这一具体行为。"
+            },
+            {
+              "number": 45,
+              "stem": "Interesting as it might appear, a made-up conversation will probably turn out to be dull.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】\"If someone is making up some conversation that might be interesting, it's probably not going to land well,\" says Pirson.\n2021年12月英语四级真题第2套 长篇阅读（信息匹配） 第 1 篇 44. One strategy to be a good conversationalist is to motivate your partner to tell their own stories. 这句陈述的信息出自第几段？为什么？ 2021年12月英语四级真题第2套 长篇阅读（信息匹配） 第 1 篇 第 44 句的信息出自 K 段（强锚点句）。K 段定位句为「So one strategy to leave others with the impression that you're a sparkling conversation partner is to get others to talk about themselves.」（因此，让别人觉得你是个出色的对话伙伴的一种策略，就是让别人去谈他们自己。）。陈述句是对原文的同义改写（motivate your partner to tell their own stories ↔ get others to talk about themselves；to be a good conversationalist ↔ to leave others with the impression that you're a sparkling conversation partner）。与之话题相邻的 J 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "With obesity now affecting 29% of the population in England, and expected to rise to 35% by 2030, should we now recognise it as a disease? Obesity, in which excess body fat has accumulated to such an extent that health may be adversely affected, meets the dictionary definition of disease, argues Professor John Wilding. He points out that more than 200 genes influence weight. \"Thus body weight is strongly influenced by biology—it is not an individual's fault if they develop obesity.\" Yet the widespread view is that obesity is self-induced and that it is entirely the individual's responsibility to do something about it. Recognising obesity as a chronic disease with severe complications rather than a lifestyle choice \"should help reduce the stigma(耻辱) and discrimination experienced by many people with obesity,\" he adds."
+            },
+            {
+              "label": "B",
+              "text": "Professor Wilding disagrees that labelling a high proportion of the population as having a disease removes personal responsibility or may overwhelm health services, pointing out that other common diseases, such as high blood pressure and diabetes, require people to take action to manage their condition. He suggests that most people with obesity will eventually develop complications. \"But unless we accept that obesity is a disease, we are not going to be able to tackle it,\" he concludes."
+            },
+            {
+              "label": "C",
+              "text": "But Dr. Richard Pile, a physician with a special interest in diabetes, argues that adopting this approach \"could actually result in worse outcomes for individuals and society.\" He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end."
+            },
+            {
+              "label": "D",
+              "text": "If labelling obesity as a disease was harmless then it wouldn't really matter, he writes. But labelling obesity as a disease \"risks reducing autonomy, disempowering and robbing people of the intrinsic(内在的) motivation that is such an important enabler of change.\" What's more, making obesity a disease \"may not benefit patients, but it will benefit healthcare providers and the pharmaceutical(制药的) industry when health insurance and clinical guidelines promote treatment with drugs and surgery,\" he warns."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does Professor John Wilding argue about obesity?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Its impact on society is expected to rise."
+                },
+                {
+                  "key": "B",
+                  "text": "It is now too widespread to be neglected."
+                },
+                {
+                  "key": "C",
+                  "text": "It should be regarded as a genetic disease."
+                },
+                {
+                  "key": "D",
+                  "text": "Its dictionary definition should be updated."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】He points out that more than 200 genes influence weight. \"Thus body weight is strongly influenced by biology—it is not an individual's fault if they develop obesity.\"\nA) 张冠李戴：把背景数据安到具名人物头上：Its impact on society is expected to rise. 实际上是文章开头那句 obesity now affecting 29% of the pop\nB) 无中生有：常识合理但原文未支撑：It is now too widespread to be neglected. 是个看似合理的概括，但 Wilding 全文论证的是「肥胖应被视为疾病」「不是个人过错」，从未以\nC) ✓ 正确：more than 200 genes influence weight ↔ a genetic disease not an individual's fault if they\nD) 偷换概念：动词替换改变命题：Its dictionary definition should be updated. 偷换了原文的「meets the dictionary definition」——Wild"
+            },
+            {
+              "number": 47,
+              "stem": "What is the popular view of obesity?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is difficult to define."
+                },
+                {
+                  "key": "B",
+                  "text": "It is a modern disease."
+                },
+                {
+                  "key": "C",
+                  "text": "It has much to do with one's genes."
+                },
+                {
+                  "key": "D",
+                  "text": "It results from a lack of self-control."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Yet the widespread view is that obesity is self-induced and that it is entirely the individual's responsibility to do something about it.\nA) 无中生有：抓住选项与原文方向相反的反例：It is difficult to define. 关于「肥胖难以定义」的说法在原文找不到任何依据；原文 P1 明确给出了肥胖的定义（excess body fat …），反而是\nB) 答非所问：与题干所问对象不对齐：It is a modern disease. 想说「肥胖是一种现代疾病」，但原文 the widespread view 描述的大众观点是「自找的、个人责任」，从未把大众观点概括\nC) 张冠李戴：用对立方观点冒充本方观点：It has much to do with one's genes. 实际上是 Wilding 教授的主张（more than 200 genes influence weigh\nD) ✓ 正确：obesity is self-induced ↔ results from a lack of self-control it is entirely the individua"
+            },
+            {
+              "number": 48,
+              "stem": "Why are some people opposed to labelling obesity as a disease?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Obese people would not feel responsible to take any action."
+                },
+                {
+                  "key": "B",
+                  "text": "Obese people would not be able to afford the medical costs."
+                },
+                {
+                  "key": "C",
+                  "text": "Obese people would be overwhelmed with anxiety."
+                },
+                {
+                  "key": "D",
+                  "text": "Obese people would be discriminated against."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】But labelling obesity as a disease \"risks reducing autonomy, disempowering and robbing people of the intrinsic motivation that is such an important enabler of change.\"\nA) ✓ 正确：reducing autonomy, disempowering and robbing people of the intrinsic motivation ↔ not feel\nB) 无中生有：把次相关话题拉来当依据：Obese people would not be able to afford the medical costs. 关于「肥胖者支付不起医疗费用」在原文找不到任何对应；原文末段\nC) 偷换概念：把动力问题偷换为情绪问题：Obese people would be overwhelmed with anxiety. 把原文「失去 intrinsic motivation」（失去改变的内在动力）偷换为\nD) 张冠李戴：把正方支持理由当反方反对理由：Obese people would be discriminated against. 实际上是 Wilding 在 should help reduce the stigma "
+            },
+            {
+              "number": 49,
+              "stem": "What does Dr. Richard Pile think of the dictionary definition of disease?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is of no use in understanding obesity."
+                },
+                {
+                  "key": "B",
+                  "text": "It is too inclusive and thus lacks clarity."
+                },
+                {
+                  "key": "C",
+                  "text": "It helps little to solve patients' problems."
+                },
+                {
+                  "key": "D",
+                  "text": "It matters little to the debate over obesity."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end.\nA) 过度推断：把局部批评放大成全盘否定：It is of no use in understanding obesity. 把 Pile 的「定义含糊」推得过远——他只是说定义太宽泛而已，没说「字典定义对理解肥胖毫无用处\nB) ✓ 正确：is so vague that we can classify almost anything as a disease ↔ too inclusive and thus lac\nC) 答非所问：偷偷把问域换到下一步：It helps little to solve patients' problems. 谈的是「字典定义对解决患者问题帮助不大」，把焦点从「定义本身的特性」偏移到「定义对患者的影\nD) 与原文相反：极性反转：It matters little to the debate over obesity. 说「字典定义对肥胖之争没什么关系」，但 Pile 在 P3 整段都在围绕字典定义展开批评"
+            },
+            {
+              "number": 50,
+              "stem": "What is Dr. Richard Pile's concern about classifying obesity as a disease?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It may affect obese people's quality of life."
+                },
+                {
+                  "key": "B",
+                  "text": "It may accelerate the spread of obesity."
+                },
+                {
+                  "key": "C",
+                  "text": "It may cause a shortage of doctors."
+                },
+                {
+                  "key": "D",
+                  "text": "It may do little good to patients."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】What's more, making obesity a disease \"may not benefit patients, but it will benefit healthcare providers and the pharmaceutical industry when health insurance and clinical guidelines promote treatment with drugs and surgery,\" he warns.\nA) 无中生有：用合理却未现的概念顶替：It may affect obese people's quality of life. 关于「影响肥胖者生活质量」在原文找不到对应表述；Pile 的担忧落在「医疗效用」和「自主\nB) 与原文相反/混搭：把背景趋势伪装成反方担忧：It may accelerate the spread of obesity. 说贴疾病标签会「加速肥胖蔓延」，但原文 Pile 担忧的是「会让人失去改变动力」（robbing \nC) 无中生有：用相邻话题词凭空造命题：It may cause a shortage of doctors. 关于「导致医生短缺」在原文找不到任何依据；原文末段提到 healthcare providers and t\nD) ✓ 正确：may not benefit patients ↔ may do little good to patients may not benefit patients, but it"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Nationwide, only about three percent of early childhood teachers are male in the U.S. Experts say this can have an impact on young children whose understanding of gender roles and identity are rapidly forming. Research has found that having access to diverse teachers is beneficial for children. For the youngest learners, it means they are more likely to get exposed to different varieties of play and communication. It also helps them develop healthy ideas around gender."
+            },
+            {
+              "label": "B",
+              "text": "\"In our world and our society, we have very specific stereotypes(模式化形象) of gender roles,\" said Mindi Reich-Shapiro, an assistant professor in the teacher education department of the Borough of Manhattan Community College, and one of the authors of a recent study. \"It's important for children to see other possibilities and other paths they can take.\""
+            },
+            {
+              "label": "C",
+              "text": "Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers. Some also reported that there were parents surprised or concerned that their child had a male teacher. And they had been advised by colleagues or other staff not to hug children."
+            },
+            {
+              "label": "D",
+              "text": "Reich-Shapiro and fellow researchers made several recommendations to increase male representation in the field. Low pay has long been acknowledged as a major issue in the early childhood field. Over 70% of male educators who said they intended to stay in the early education workforce noted an increased salary was a major motivating factor for them to commit to the career long-term. The report suggests paying all early childhood educators the way elementary school teachers are paid."
+            },
+            {
+              "label": "E",
+              "text": "Cities and programs should establish support groups for male early childhood educators and provide mentoring and professional development advice for male educators and their program leaders."
+            },
+            {
+              "label": "F",
+              "text": "The authors also suggest that traditional recruitment approaches for early childhood educators \"do not address the gender gap in the field.\" They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What do we learn from the first paragraph about early childhood education in the U.S.?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It helps raise children's awareness of gender roles."
+                },
+                {
+                  "key": "B",
+                  "text": "It exposes children to different ways of interaction."
+                },
+                {
+                  "key": "C",
+                  "text": "It is negatively impacted by a lack of male teachers."
+                },
+                {
+                  "key": "D",
+                  "text": "It clearly aims to form children's identity through play."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Nationwide, only about three percent of early childhood teachers are male in the U.S. Experts say this can have an impact on young children whose understanding of gender roles and identity are rapidly forming.\nA) 与原文相反：It helps raise children's awareness of gender roles.说幼教「帮助提升」孩子的性别角色意识，但原文只说男教师缺失「影响」孩子正在形\nB) 张冠李戴：It exposes children to different ways of interaction.说的是文中「师资多样性」才能带来的好处，原文限定语是having acce\nC) ✓ 正确：only about three percent of early childhood teachers are male ↔ a lack of male teachers th\nD) 过度推断：It clearly aims to form children's identity through play.说幼教「明确以通过游戏塑造孩子身份为目标」，原文只提到孩子的性别角"
+            },
+            {
+              "number": 52,
+              "stem": "What does Mindi Reich-Shapiro emphasize in her comment on childhood education?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The importance of broadening children's horizons."
+                },
+                {
+                  "key": "B",
+                  "text": "The responsibilities of fathers for children's growth."
+                },
+                {
+                  "key": "C",
+                  "text": "The urgency of creating teacher education programs."
+                },
+                {
+                  "key": "D",
+                  "text": "The role of teachers in motivating children to learn."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】It's important for children to see other possibilities and other paths they can take.\nA) ✓ 正确：see other possibilities and other paths they can take ↔ broadening children's horizons It'\nB) 张冠李戴：The responsibilities of fathers for children's growth.说的是父亲的责任，但 Reich-Shapiro 在P2里通篇没提父亲—\nC) 偷换概念：The urgency of creating teacher education programs.谈的是建立教师教育项目的紧迫性，原文里 Reich-Shapiro 只是在th\nD) 过度推断：The role of teachers in motivating children to learn.说的是教师在激励孩子学习中的作用，但原文里 Reich-Shapiro 谈"
+            },
+            {
+              "number": 53,
+              "stem": "What do we learn about male teachers from their responses in the study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Some of them find it awkward when hugging children."
+                },
+                {
+                  "key": "B",
+                  "text": "They feel pressured to keep up with female colleagues."
+                },
+                {
+                  "key": "C",
+                  "text": "They find it hard to meet the expectations of kids' parents."
+                },
+                {
+                  "key": "D",
+                  "text": "Many of them feel prejudiced against socially and culturally."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers.\nA) 偷换概念：Some of them find it awkward when hugging children.说的是男教师自己觉得拥抱孩子尴尬；原文是they had been advis\nB) 无中生有：They feel pressured to keep up with female colleagues.说他们感到要「追赶女同事」的压力，但原文从未做男女教师之间的对照，更没说\nC) 过度推断：They find it hard to meet the expectations of kids' parents.说男教师「难以达到家长期望」，但原文只说有些家长surpri\nD) ✓ 正确：many of the male educators ↔ Many of them facing social or cultural resistance ↔ feel prej"
+            },
+            {
+              "number": 54,
+              "stem": "What is needed for men to commit to early childhood education?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Higher pay."
+                },
+                {
+                  "key": "B",
+                  "text": "Job security."
+                },
+                {
+                  "key": "C",
+                  "text": "Social recognition."
+                },
+                {
+                  "key": "D",
+                  "text": "Better working conditions."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Over 70% of male educators who said they intended to stay in the early education workforce noted an increased salary was a major motivating factor for them to commit to the career long-term.\nA) ✓ 正确：an increased salary ↔ Higher pay a major motivating factor for them to commit to the caree\nB) 无中生有：Job security.说的是工作稳定性或保障，原文虽提到男教师「打算留下来」，但讲的是个人意愿，并未把「工作保障」作为留下来所需的条件——属于无中生有。\nC) 张冠李戴：Social recognition.谈的是社会层面的认可，原文里「社会文化阻力」出现于P3，而第54题的定位段P4谈的是薪资动因——选项把第53题段的话题张冠李戴到第54题。\nD) 以偏概全：Better working conditions.说的是更好的工作条件——它是更宽的概念，可能包括薪资也可能不包括；但原文明确把动因点到「涨薪」，并未把笼统的「工作条件」列为动因"
+            },
+            {
+              "number": 55,
+              "stem": "What do the authors of the study recommend to bridge the gender gap in early childhood education?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Recruiting young men who have a passion for educating young children."
+                },
+                {
+                  "key": "B",
+                  "text": "Taking measures to attract prospective male teachers to work in the field."
+                },
+                {
+                  "key": "C",
+                  "text": "Persuading prospective fathers to consider a change in their career."
+                },
+                {
+                  "key": "D",
+                  "text": "Providing male teachers with more opportunities for advancement."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers.\nA) 无中生有：Recruiting young men who have a passion for educating young children.给目标人群加上 a passion for\nB) ✓ 正确：providing young men opportunities to work with children through training and volunteer pro\nC) 偷换概念：Persuading prospective fathers to consider a change in their career.里 prospective fathers \nD) 与原文相反：Providing male teachers with more opportunities for advancement.谈的是给已经在岗的男教师更多晋升机会，但原文P6的建"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n坎儿井(Karez)是新疆干旱地区的一种水利系统，由地下渠道将水井连接而成。该系统将春夏季节渗入 (seep into) 地下的大量雨水及积雪融水收集起来，通过山体的自然坡度引到地面，用于灌溉农田和满足人们的日常用水需求。坎儿井减少了水在地面的蒸发 (evaporation), 对地表破坏很小，因而有效地保护了自然资源与生态环境。坎儿井体现了我国人民与自然和谐共存的智慧，是对人类文明的一大贡献。",
+              "analysis": "【参考译文】\nKarez is a water conservancy system in the arid areas of Xinjiang, formed by underground channels that connect a series of wells. The system collects large amounts of rainwater and meltwater that seep into the ground in spring and summer, and channels them to the surface through the natural slope of the mountains to irrigate farmland and meet people's daily water needs. Karez reduces the evaporation of water from the ground and causes little damage to the surface, and thus effectively protects natural resources and the ecological environment. It embodies the wisdom of the Chinese people in living in harmony with nature, and is a great contribution to human civilization."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 59
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2021-12-2/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

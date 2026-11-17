@@ -1,0 +1,2734 @@
+{
+  "id": "cet4-2024-12-s1",
+  "level": "CET4",
+  "year": 2024,
+  "month": 12,
+  "setNo": 1,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose the business school of your university is conducting a survey to collect students' opinions on the express delivery service industry in China. You are to write a response about its recent development and its impact on people's lives. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nAs a student invited to share my views in this survey, I am glad to comment on the express delivery industry in China, which has grown at an astonishing pace in recent years.\n\nTo begin with, the recent development of this industry is remarkable. Delivery networks now reach even remote villages, and parcels that once took a week can be delivered overnight. Smart lockers and automated sorting centres, powered by big data, have made the whole process faster and more accurate than ever before.\n\nMore importantly, this development has reshaped our daily lives. With reliable next-day delivery, people can shop online for almost anything, from food to books, without leaving home. Such convenience saves us time and energy, and it has also created millions of jobs for delivery workers across the country.\n\nIn conclusion, China's express delivery industry has advanced rapidly and brought real benefits to ordinary people. I firmly believe it will continue to make our lives even more convenient."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "听力为历年真题原文，题目与答案为官方标准答案；在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 15.4,
+              "text": "The City of Fayetteville is making a special effort to recognize its bus drivers ahead of the newly proclaimed Transit Driver Appreciation Day happening Saturday. As part of the event, the city is celebrating its longest-serving driver on the force.",
+              "zh": "Fayetteville市正在特别努力表彰其公交车司机，以迎接新设立的公交司机感谢日，该日定于周六举行。作为活动的一部分,该市正在庆祝其服务时间最长的在职司机。"
+            },
+            {
+              "id": 2,
+              "start": 15.8,
+              "end": 34.2,
+              "text": "That driver is Sherry Christian. Christian has been a driver for 25 years. The Fayetteville native believes driving a school bus allows her to give back to her community. She says that the best part of the job is watching the children who ride her bus grow up.",
+              "zh": "这位司机是Sherry Christian。Christian已经担任司机25年。这位Fayetteville本地人认为驾驶校车让她能够回馈社区。她说这份工作最好的部分是看着乘坐她的校车的孩子们长大。"
+            },
+            {
+              "id": 3,
+              "start": 34.6,
+              "end": 55.3,
+              "text": "Transit Driver Appreciation Day has been celebrated across the country as far back as 2009. However, this week, the City of Fayetteville issued a proclamation for the day to take place March 18th. Officials said they want bus drivers to know how important they are to Fayetteville, serving almost 1.6 million riders a year.",
+              "zh": "公交司机感谢日早在2009年就在全国范围内庆祝。然而,本周Fayetteville市发布公告将这一日期定为3月18日。官员们表示,他们希望公交车司机知道他们对Fayetteville有多么重要,每年为近160万名乘客提供服务。"
+            }
+          ],
+          "audioDuration": 55.3,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What do we learn about Sherry Christian?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She is making a special effort to be recognized."
+                },
+                {
+                  "key": "B",
+                  "text": "She has been living in Fayetteville for 25 years."
+                },
+                {
+                  "key": "C",
+                  "text": "She has been driving a school bus ever since 2009."
+                },
+                {
+                  "key": "D",
+                  "text": "She is the longest-serving bus driver in Fayetteville."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：As part of the event, the city is celebrating its longest-serving driver on the force.信号：最高级 longest-serving 强调 。答案句的信号是最高级 longest-serving driver on the force——『在职最久的司机』。最高级是新闻强调『独一份身份』的标志，一旦听到 th…",
+              "optionAnalysis": {
+                "A": "张冠李戴：录音里 The City of Fayetteville is making a special effort to recognize its bus drivers 的主语是『城市』在努力表彰司机；选项 A 把它偷换成 She is making a special effort to be recognized.——变成『她自己在努力争取被认可』。努力的人从城市换成了她本人，主语张冠李戴。 借用原文：Christian has been a driver for 25 years.",
+                "B": "原词陷阱：录音第 2 段说 Christian has been a driver for 25 years.——她当『司机』25 年；选项 B 把这个 25 年的数字盗来，安到 living in Fayetteville for 25 years『在 Fayetteville 住了 25 年』上。录音说的是开车 25 年、不是住了 25 年，听到 25 years 就选正中陷阱。 借用原文：Transit Driver Appreciation Day has been celebrated across the country as far back as 2009.",
+                "C": "原词陷阱：录音第 3 段 Transit Driver Appreciation Day has been celebrated across the country as far back as 2009. 里的 2009，说的是『这个表彰日全国早在 2009 年就有了』，与她本人无关；选项 C 把 2009 盗来，说成 driving a school bus ever since 2009『她从 2009 年起开校车』。年份对象被偷换，听到 2009 就选即中招。",
+                "D": "正确项：与答案句同义替换（the city is celebrating its longest-serving driver on the force ↔ She is the longest-serving bus driver in Fayetteville. 同身份的换说法）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "As part of the event, the city is celebrating its longest-serving driver on the force.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What did city officials of Fayetteville want bus drivers to be aware of?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The importance of their service to the city."
+                },
+                {
+                  "key": "B",
+                  "text": "The number of riders they serve in the city."
+                },
+                {
+                  "key": "C",
+                  "text": "The new proclamation issued early this week."
+                },
+                {
+                  "key": "D",
+                  "text": "The significance of the event to take place March 18."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：Officials said they want bus drivers to know how important they are to Fayetteville, serving almost 1.6 million riders a year.信号：官方表态 said they want…to know 。答案句的信号是官方直接表态 Officials said they want bus drivers to know how important they a…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音句尾 serving almost 1.6 million riders a year 确实念到了乘客数量，但它只是补充说明司机为何重要的背景；选项 B 把这个数字盗来当成官方想让司机知道的内容 The number of riders they serve in the city.。官方强调的是『重要性』，不是『乘客数量』这个数字本身，听到 riders 就选即中招。 借用原文：this week, the City of Fayetteville issued a proclamation for the day",
+                "C": "答非所问：录音第 3 段 this week, the City of Fayetteville issued a proclamation 提到本周发了公告，选项 C 把它说成 The new proclamation issued early this week.。公告是事件背景，题目问的是『官方想让司机知道什么』，公告本身不是答案，属答非所问。 借用原文：for the day to take place March 18th",
+                "D": "原词陷阱：录音 for the day to take place March 18th 念到了活动日期 3 月 18 日，选项 D 把它说成 The significance of the event to take place March 18.。日期只是活动安排的细节，官方想让司机知道的是『他们的重要性』而非『这个活动的意义』，听到 March 18 就选即被日期带偏。",
+                "A": "正确项：与答案句同义替换（how important they are to Fayetteville ↔ The importance of their service to the city. 形容词改名词）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Officials said they want bus drivers to know how important they are to Fayetteville, serving almost 1.6 million riders a year.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 4.2,
+              "text": "1 The Wilton School Board has proposed a 5.99% spending increase."
+            },
+            {
+              "id": 2,
+              "start": 4.5,
+              "end": 9.9,
+              "text": "If approved, it would be the largest jump in at least eight budget cycles."
+            },
+            {
+              "id": 3,
+              "start": 10.3,
+              "end": 19.5,
+              "text": "The 5.99% request more than doubles the highest previous year-over-year increase in the last eight years, which was 2.99% for the 2021-2022 school year."
+            },
+            {
+              "id": 4,
+              "start": 19.9,
+              "end": 24.5,
+              "text": "The biggest driver of the $91.8 million proposed budget remains teacher salaries."
+            },
+            {
+              "id": 5,
+              "start": 24.9,
+              "end": 29.1,
+              "text": "These account for 64% of the total request at $59 million."
+            },
+            {
+              "id": 6,
+              "start": 29.5,
+              "end": 39.8,
+              "text": "The $59 million is up from the $56.7 million budgeted for the current school year. 2 There are some factors that could affect the budget moving forward."
+            },
+            {
+              "id": 7,
+              "start": 40.1,
+              "end": 42.5,
+              "text": "One of those is total enrollment."
+            },
+            {
+              "id": 8,
+              "start": 42.9,
+              "end": 46.7,
+              "text": "The district will have a total enrollment of 3,742 students."
+            },
+            {
+              "id": 9,
+              "start": 47.1,
+              "end": 55.1,
+              "text": "Almost all of these students will be in kindergarten through high school, but 66 will be in prekindergarten and other programs."
+            },
+            {
+              "id": 10,
+              "start": 55.5,
+              "end": 58.9,
+              "text": "This represents 47 fewer students than the current year."
+            },
+            {
+              "id": 11,
+              "start": 59.3,
+              "end": 62.3,
+              "text": "Fewer students mean less federal and state funding."
+            }
+          ],
+          "audioDuration": 62.3,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What does the news report say the Wilton School Board has done?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Budgeted $56.7 million for the coming school year."
+                },
+                {
+                  "key": "B",
+                  "text": "Requested to raise teachers' salaries by 3 percent."
+                },
+                {
+                  "key": "C",
+                  "text": "Proposed a spending increase by 5.99 percent."
+                },
+                {
+                  "key": "D",
+                  "text": "Kept raising funds for at least 8 budget cycles."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：The Wilton School Board has proposed a 5.99% spending increase.信号：开篇首句直陈主体动作 。新闻把核心事实放在开篇，第一句 The Wilton School Board has proposed a 5.99% spending increase. 直接交代了校董会做的事，主体+动…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Budgeted $56.7 million for the coming school year. 借用了录音真实念到的数字 56.7 million，可录音说的是 up from the $56.7 million budgeted for the current school year——这是『本学年』已编的旧预算、是被比较的基数，并非为『下一学年』新编的，听到 56.7 million 就选会掉坑。 借用原文：2.99% for the 2021-2022 school year",
+                "B": "原词陷阱：Requested to raise teachers' salaries by 3 percent. 看似与教师薪资相关，但录音只说薪资占比 64% of the total request 与金额升至 59 million，从未说按 3% 加薪；3 percent 与录音里的 2.99% 近似，是用近似数字加上『加薪』这个貌似合理的动作拼出来的干扰。 借用原文：the largest jump in at least eight budget cycles",
+                "D": "原词陷阱：Kept raising funds for at least 8 budget cycles. 抓住了录音里的 at least eight budget cycles，但录音原意是『这是至少八个预算周期以来最大的一次涨幅』，eight budget cycles 是个时间比较范围，并非校董会『持续筹款八个周期』这个动作，属于把时间状语硬读成动作。",
+                "C": "正确项：与答案句同义替换（has proposed a 5.99% spending increase ↔ Proposed a spending increase by 5.99 percent. 原句几乎平移到选项）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The Wilton School Board has proposed a 5.99% spending increase.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What will a decline in the total enrollment lead to?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Decrease in salaries for school administrators."
+                },
+                {
+                  "key": "B",
+                  "text": "Reduction in federal and state funding."
+                },
+                {
+                  "key": "C",
+                  "text": "Firing of less qualified faculty members."
+                },
+                {
+                  "key": "D",
+                  "text": "Closing down of some less competitive schools."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：This represents 47 fewer students than the current year. Fewer students mean less federal and state funding.信号：因果词 mean 点出后果 。录音用 Fewer students mean less federal and state funding 中的 mean 直接把『学生减少』和『拨款减少』连起来，mean 后面那一截…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Decrease in salaries for school administrators. 里 salaries 一词录音确实出现过（教师薪资升至 59 million），但录音只说薪资是上涨的、且针对的是教师而非行政人员，更没说招生下降会让薪资下降，是把听过的 salaries 拿来嫁接的无中生有后果。",
+                "C": "未提及：Firing of less qualified faculty members. 听上去『钱少了就裁人』很合逻辑，但录音对学生减少给出的唯一后果是拨款减少，从未提到裁教师，这是用常识脑补、原文未提。",
+                "D": "未提及：Closing down of some less competitive schools. 同样是凭常识想象的后果，录音谈的是同一个学区内部的预算与拨款，根本没提到关停任何学校，属未提及。",
+                "B": "正确项：与答案句同义替换（less federal and state funding ↔ Reduction in federal and state funding. less 换成名词 Reduction）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "This represents 47 fewer students than the current year. Fewer students mean less federal and state funding.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 3.8,
+              "text": "1 A rare thundersnow event has taken place in Scotland."
+            },
+            {
+              "id": 2,
+              "start": 4.1,
+              "end": 8.8,
+              "text": "And alarmed locals contacted police, thinking they had heard bombs going off."
+            },
+            {
+              "id": 3,
+              "start": 9.2,
+              "end": 22.6,
+              "text": "The phenomenon happens when thunder and lightning mix with a heavy snowstorm—sometimes causing loud claps that can be confused with explosions. 2 One person described it as a loud boom, similar to a plane crash."
+            },
+            {
+              "id": 4,
+              "start": 23,
+              "end": 30.6,
+              "text": "Another person was woken up in the middle of the night by what he thought was early construction work starting."
+            },
+            {
+              "id": 5,
+              "start": 31,
+              "end": 36,
+              "text": "The noise was powerful enough to shake buildings and set off car alarms."
+            },
+            {
+              "id": 6,
+              "start": 36.4,
+              "end": 40.2,
+              "text": "The police were flooded with many calls from the public."
+            },
+            {
+              "id": 7,
+              "start": 40.6,
+              "end": 44.8,
+              "text": "And they sent out a message asking people to remain calm."
+            },
+            {
+              "id": 8,
+              "start": 45.1,
+              "end": 51.3,
+              "text": "The police assured everyone that it was just thunder and lightning rather than some military exercise."
+            },
+            {
+              "id": 9,
+              "start": 51.6,
+              "end": 59.7,
+              "text": "The weather was the coldest it had been for the season, so people were warned to be careful when traveling outside."
+            },
+            {
+              "id": 10,
+              "start": 60.1,
+              "end": 66.2,
+              "text": "In particular, dangerous conditions such as icy roads or wet ground could cause difficulty for drivers."
+            },
+            {
+              "id": 11,
+              "start": 66.5,
+              "end": 71.9,
+              "text": "The rail service also announced potential disruptions to trains due to the deep snow."
+            },
+            {
+              "id": 12,
+              "start": 72.3,
+              "end": 76.1,
+              "text": "Some roads were also closed because of the severe weather."
+            }
+          ],
+          "audioDuration": 76.1,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What do we learn about thundersnows from the report?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They often take place in the Scottish highlands."
+                },
+                {
+                  "key": "B",
+                  "text": "They usually happen in the middle of the night."
+                },
+                {
+                  "key": "C",
+                  "text": "Their damage can be as serious as that of bombs."
+                },
+                {
+                  "key": "D",
+                  "text": "Their loud claps can be confused with explosions."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：The phenomenon happens when thunder and lightning mix with a heavy snowstorm—sometimes causing loud claps that can be confused with explosions.信号：定义句\"The phenomenon happens when…\" 。信号是这句对现象下定义的结构 The phenomenon happens when（这一现象发生在……之时），新闻在介绍一个陌生概念后，紧跟的这…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音开头只说这次事件发生在苏格兰这一具体地点，并没说雷雪\"往往发生在苏格兰高地\"。A 借\"Scotland/highlands\"这个地名营造熟悉感，把\"这一次在苏格兰\"偷换成\"通常在高地\"，是个频率/范围被夸大的陷阱。 借用原文：Another person was woken up in the middle of the night",
+                "B": "原词陷阱：录音里 woken up in the middle of the night 说的是\"某个人这一次在半夜被吵醒\"，并非\"雷雪通常发生在半夜\"。B 把这个时间状语原词搬过来，又加上\"usually\"夸成惯例，听到\"middle of the night\"就选 B 正中陷阱。 借用原文：loud claps that can be confused with explosions",
+                "C": "偷换概念：录音说的是雷雪的\"巨响\"可被误当爆炸（声音层面），并没说它的\"破坏力\"和炸弹一样大。C 借用\"bombs\"这个原词，把\"声音像炸弹\"偷换成\"破坏力像炸弹\"，听到 bombs 就选会掉进去。",
+                "D": "正确项：与答案句同义替换（loud claps that can be confused with explosions ↔ Their loud claps can be confused with explosions. 原句换主语几乎平移）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The phenomenon happens when thunder and lightning mix with a heavy snowstorm—sometimes causing loud claps that can be confused with explosions.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What did the police do when they received the local residents' phone calls?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They sent out a message to calm them down."
+                },
+                {
+                  "key": "B",
+                  "text": "They promised to stop the construction work."
+                },
+                {
+                  "key": "C",
+                  "text": "They told them the military exercise was over."
+                },
+                {
+                  "key": "D",
+                  "text": "They set off to inspect the site of the plane crash."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：The police were flooded with many calls from the public. And they sent out a message asking people to remain calm.信号：主语 the police 紧跟的动作句 。信号是以警方为主语、紧接\"接到大量电话\"之后的那个动作 they sent out a message asking people to remain calm。题目问\"接…",
+              "optionAnalysis": {
+                "B": "未提及：录音只提到有人\"以为是施工开工\"，从没说警方\"承诺停止施工\"。B 借\"construction\"这个画面把不存在的承诺安到警方头上，属凭空捏造的动作。 借用原文：it was just thunder and lightning rather than some military exercise",
+                "C": "原词陷阱：录音是警方\"向大家保证这只是雷电、不是军事演习\"，并非\"告诉大家军演结束了\"。C 偷来\"military exercise\"原词，把\"不是军演\"改成\"军演已结束\"——录音根本没有军演，何来结束，听到 military exercise 就选 C 正中陷阱。 借用原文：described it as a loud boom, similar to a plane crash",
+                "D": "原词陷阱：录音里\"plane crash\"只是某人形容声音\"像飞机失事\"的比喻，根本没有真飞机失事，警方更没\"前往勘查失事现场\"。D 把这个比喻里的原词搬来，编出一个不存在的警方动作，听到 plane crash 就选会掉坑。",
+                "A": "正确项：与答案句同义替换（sent out a message asking people to remain calm ↔ They sent out a message to calm them down. \"请人保持冷静\"=\"使其平静\"）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The police were flooded with many calls from the public. And they sent out a message asking people to remain calm.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What were people advised to do when traveling outside?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Keep warm."
+                },
+                {
+                  "key": "B",
+                  "text": "Take caution."
+                },
+                {
+                  "key": "C",
+                  "text": "Avoid driving."
+                },
+                {
+                  "key": "D",
+                  "text": "Use rail service."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：The weather was the coldest it had been for the season, so people were warned to be careful when traveling outside.信号：提醒信号\"were warned to be careful\" 。信号是 people were warned to be careful when traveling outside 里的\"were warned\"…",
+              "optionAnalysis": {
+                "A": "过度推断：录音虽说\"本季最冷\"，但提醒的内容是\"小心\"，并没说让大家\"保暖\"。A 借\"最冷天气\"的语境顺势推出\"keep warm\"，是录音没明说的过度延伸，听到 coldest 就联想到保暖会被带偏。 借用原文：dangerous conditions such as icy roads or wet ground could cause difficulty for drivers",
+                "C": "原词陷阱：录音说\"结冰湿滑路面会给司机带来困难\"，是提醒司机小心，并没说\"别开车\"。C 借\"drivers\"原词把\"开车要当心\"偷换成\"避免开车\"，比录音说得更绝对，听到 drivers 就选 C 会掉坑。 借用原文：The rail service also announced potential disruptions to trains due to the deep snow.",
+                "D": "与原文相反：录音说\"铁路服务也宣布列车可能因大雪受扰\"，是说火车也受影响、不可靠，绝非建议大家\"改坐火车\"。D 偷来\"rail service\"原词，把\"火车受影响\"反着说成\"用火车出行\"，听到 rail service 就选 D 正中反向陷阱。",
+                "B": "正确项：与答案句同义替换（people were warned to be careful ↔ Take caution \"be careful\"=\"take caution\"）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The weather was the coldest it had been for the season, so people were warned to be careful when traveling outside.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 5,
+              "text": "M: I'm going to the city centre to buy a new phone today.",
+              "zh": "M: 我今天要去市中心买一部新手机。"
+            },
+            {
+              "id": 2,
+              "start": 5.3,
+              "end": 9.6,
+              "text": "W: Didn't you buy a new phone just two months ago?",
+              "zh": "W: 你不是两个月前才买了一部新手机吗?"
+            },
+            {
+              "id": 3,
+              "start": 9.9,
+              "end": 19.2,
+              "text": "M: It was three months ago, and I already know what you're going to say. You're thinking I shouldn't replace my phone this soon.",
+              "zh": "M: 是三个月前,而且我已经知道你要说什么了。你觉得我不该这么快就换手机。"
+            },
+            {
+              "id": 4,
+              "start": 19.6,
+              "end": 32.6,
+              "text": "W: No, actually, I was wondering how you could possibly afford a new phone. But now that you mention it, I do think getting another phone so soon is wasteful, regardless of the cost.",
+              "zh": "W: 不,其实我是在想你怎么可能负担得起一部新手机。但既然你提到了,我确实认为这么快又买一部手机很浪费,不管多少钱。"
+            },
+            {
+              "id": 5,
+              "start": 33,
+              "end": 48.7,
+              "text": "M: Maybe you're right, but the thing is, everyone at the office has a nice, expensive phone, and I'm a little embarrassed by mine. I just got a credit card, so I thought I might as well buy a new phone.",
+              "zh": "M: 也许你说得对,但问题是,办公室里每个人都有一部很好很贵的手机,我对我的手机有点难为情。我刚办了一张信用卡,所以我想不如买部新手机。"
+            },
+            {
+              "id": 6,
+              "start": 49.1,
+              "end": 64.8,
+              "text": "W: I don't think buying a phone on credit is a good idea. Look, you've only been working for five months now. People understand that you are a recent graduate, and I doubt anyone cares about your phone other than yourself.",
+              "zh": "W: 我觉得用信用卡买手机不是个好主意。你看,你才工作了五个月。大家都理解你是刚毕业的,我觉得除了你自己,没人在意你的手机。"
+            },
+            {
+              "id": 7,
+              "start": 65.1,
+              "end": 79.4,
+              "text": "M: Maybe you're right, but the credit card has a very good special offer, where I don't pay any interest for six months. I'll be able to pay for the phone well before that period is over.",
+              "zh": "M: 也许你说得对,但这张信用卡有一个很好的特别优惠,六个月内不用付利息。在那之前我肯定能把手机款付清。"
+            },
+            {
+              "id": 8,
+              "start": 79.8,
+              "end": 98.2,
+              "text": "W: I still think it's a bad idea to use a credit card for something you don't need. One of my colleagues bought a lot of things on credit during her first year of work, and it became a bad habit, and she accumulated a lot of debt.",
+              "zh": "W: 我还是觉得用信用卡买你不需要的东西是个坏主意。我有个同事在工作第一年用信用卡买了很多东西,这变成了一个坏习惯,她积累了很多债务。"
+            },
+            {
+              "id": 9,
+              "start": 98.5,
+              "end": 108.2,
+              "text": "M: Well, I can see how that might happen to someone, and I'm sure she regrets it, but I know it won't happen to me.",
+              "zh": "M: 嗯,我能理解这种事可能发生在某些人身上,我相信她很后悔,但我知道这不会发生在我身上。"
+            }
+          ],
+          "audioDuration": 108.2,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "What does the woman say she was actually wondering about?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Why the man is so anxious to buy a new phone."
+                },
+                {
+                  "key": "B",
+                  "text": "How the man could possibly afford a new phone."
+                },
+                {
+                  "key": "C",
+                  "text": "How the man got into the habit of being wasteful."
+                },
+                {
+                  "key": "D",
+                  "text": "Why the man is so fond of using his credit card."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：No, actually, I was wondering how you could possibly afford a new phone.信号：actually 纠偏后的真意 。女方先用 No 否定男方的猜测，再用 actually 引出自己真正在想的事——\"actually\"后面才是她的本意，这正是答案信号：纠正/转折之后的内容才是落点。",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确有男方 I'm going to the city centre to buy a new phone today. 这种\"今天就去买\"的急切感，A 借此造\"为何这么急\"的诱惑；但女方明说在想的是\"怎么买得起\"，不是\"为何急\"。 借用原文：getting another phone so soon is wasteful",
+                "C": "原词陷阱：女方确实说了 getting another phone so soon is wasteful，C 盗这个 wasteful 来骗；但这是她在 But now that you mention it 之后补的评价，题干问的是她\"actually was wondering\"的那件事，那件事是\"如何负担\"，不是\"如何变浪费\"。 借用原文：I just got a credit card",
+                "D": "张冠李戴：录音后文男方说 I just got a credit card，D 借\"信用卡\"造\"为何爱用卡\"的问题；但这是男方的话、且在女方发问之后，女方\"在想\"的内容里根本没有它。",
+                "B": "正确项：与答案句同义替换（how you could possibly afford a new phone ↔ How the man could possibly afford a new phone. 几乎原句搬运，仅换人称）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "No, actually, I was wondering how you could possibly afford a new phone.",
+              "type": "细节题"
+            },
+            {
+              "number": 9,
+              "stem": "Why is the man a little embarrassed by the phone he's using now?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is not in fashion any more."
+                },
+                {
+                  "key": "B",
+                  "text": "It goes out of order frequently."
+                },
+                {
+                  "key": "C",
+                  "text": "It is not as fancy as his colleagues'."
+                },
+                {
+                  "key": "D",
+                  "text": "It lacks functions office work requires."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P5）：Maybe you're right, but the thing is, everyone at the office has a nice, expensive phone, and I'm a little embarrassed by mine.信号：the thing is 引出真正缘由 。男方用 but the thing is 转入正题，紧接着给出难为情的原因——\"大家都有又好又贵的手机\"。\"the thing is\"是\"我接下来说的才是要点\"的提示，正是答…",
+              "optionAnalysis": {
+                "A": "未提及：男方只说自己手机比不上同事、并非\"不再时髦\"。in fashion 这层意思录音从未出现，是凭\"旧手机\"常识硬加的。",
+                "B": "未提及：男方难为情是因为手机不够气派，不是因为它老出故障。\"goes out of order\"录音里完全没有对应。",
+                "D": "原词陷阱：录音确有 everyone at the office 出现\"office\"，D 用 functions office work requires 把\"office\"接到\"工作功能缺失\"上；但男方难为情是\"不如别人气派\"，从没说手机缺工作所需功能。",
+                "C": "正确项：与答案句同义替换（everyone at the office has a nice, expensive phone ↔ It is not as fancy as his colleagues'. 正话反说＋同义改写）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "Maybe you're right, but the thing is, everyone at the office has a nice, expensive phone, and I'm a little embarrassed by mine.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "What does the man say about the credit card he just got?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It enables him to buy a new phone at a more favorable price."
+                },
+                {
+                  "key": "B",
+                  "text": "It is a special offer to recent college graduates working in offices."
+                },
+                {
+                  "key": "C",
+                  "text": "It is available to office workers who have a good enough credit score."
+                },
+                {
+                  "key": "D",
+                  "text": "It allows him to borrow money without paying interest for six months."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P7）：Maybe you're right, but the credit card has a very good special offer, where I don't pay any interest for six months.信号：数字/期限信息点 。男方介绍卡时给出 I don't pay any interest for six months——\"不付利息\"加\"六个月\"是一处明确的数字/条件信息，正是该题的答案信号，听到数字就该锁定。",
+              "optionAnalysis": {
+                "A": "未提及：卡的好处是\"免息\"而非\"以更优价格买手机\"。a more favorable price 录音里没有对应，免息不等于降价。",
+                "B": "张冠李戴：录音里女方说 you are a recent graduate，B 借此编出\"专给应届办公族的特别优惠\"；但这是女方议论男方身份的话，与卡的优惠对象无关，男方介绍卡时根本没提面向谁。 借用原文：the credit card has a very good special offer",
+                "C": "原词陷阱：录音反复出现 credit card 的 credit，C 借此造 a good enough credit score 的门槛；但男方说的是\"免息\"，从没提任何信用分要求，credit score 是凭 credit 一词联想出来的。",
+                "D": "正确项：与答案句同义替换（I don't pay any interest for six months ↔ It allows him to borrow money without paying interest for six months. 同义改写＋补出隐含的\"借钱\"）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "Maybe you're right, but the credit card has a very good special offer, where I don't pay any interest for six months.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What do we learn about one of the woman's colleagues?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She borrowed money to pay her debt."
+                },
+                {
+                  "key": "B",
+                  "text": "She developed a habit of overspending."
+                },
+                {
+                  "key": "C",
+                  "text": "She enjoys buying a lot of fancy things."
+                },
+                {
+                  "key": "D",
+                  "text": "She regrets ignoring the woman's advice."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P8）：One of my colleagues bought a lot of things on credit during her first year of work, and it became a bad habit, and she accumulated a lot of debt.信号：举例＋\"became a bad habit\"落点 。女方用 One of my colleagues 引出例子，关键落在 it became a bad habit——\"变成一个坏习惯\"是这句话的结论，正是答案信号…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确有 she accumulated a lot of debt 出现 debt，A 借此编出\"借钱去还债\"；但原文只说她\"欠了债\"，从没说她\"再借钱来还\"，多绕了一步。 借用原文：bought a lot of things on credit",
+                "C": "原词陷阱：录音说她 bought a lot of things on credit，C 改成\"enjoys buying a lot of fancy things\"；\"fancy（华而不实/高档）\"与\"enjoys（乐在其中）\"录音都没有，原文重点是\"成了坏习惯\"而非\"她爱买好东西\"。 借用原文：I'm sure she regrets it",
+                "D": "张冠李戴：后文男方说 I'm sure she regrets it，D 借此说\"她后悔没听劝\"；但这是男方的推测、且\"没听 the woman 的劝\"录音根本没有，属把男方的话安到同事头上。",
+                "B": "正确项：与答案句同义替换（bought a lot of things on credit... it became a bad habit ↔ She developed a habit of overspending. \"乱买成习惯\"概括为 overspending habit）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "One of my colleagues bought a lot of things on credit during her first year of work, and it became a bad habit, and she accumulated a lot of debt.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 10,
+              "text": "W: Welcome to The Morning Show. Our guest today is a popular blog writer and a major figure in the tiny home community. Welcome, Bob Jones.",
+              "zh": "W: 欢迎来到《早间秀》。我们今天的嘉宾是一位人气博主,也是迷你住宅社区的重要人物。欢迎你, Bob Jones。"
+            },
+            {
+              "id": 2,
+              "start": 10.3,
+              "end": 11.8,
+              "text": "M: Hi, Mary.",
+              "zh": "M: 你好, Mary。"
+            },
+            {
+              "id": 3,
+              "start": 12.2,
+              "end": 22.9,
+              "text": "W: Hi, Bob. You're an advocate of the tiny home movement. A lot of people don't know about this movement. Can you tell our audience what it's about?",
+              "zh": "W: 你好, Bob。你是迷你住宅运动的倡导者。很多人不了解这个运动。你能给我们的观众介绍一下它是怎么回事吗?"
+            },
+            {
+              "id": 4,
+              "start": 23.3,
+              "end": 27.9,
+              "text": "M: Well, it's mainly about increasing home ownership and protecting the environment.",
+              "zh": "M: 嗯,它主要是关于提高住房拥有率和保护环境。"
+            },
+            {
+              "id": 5,
+              "start": 28.3,
+              "end": 40.6,
+              "text": "W: Of course, those are great goals. But I've seen your blog, and you write about houses that are as small as 20 square meters. That's not a realistic size for families.",
+              "zh": "W: 当然,这些都是很好的目标。但我看过你的博客,你写的房子小到只有20平方米。这对家庭来说不是一个现实的面积。"
+            },
+            {
+              "id": 6,
+              "start": 41,
+              "end": 59.8,
+              "text": "M: I do talk about very small homes, but there's no set definition of a tiny home. And other people include homes that are much larger, say, 60 square meters. And you'd be surprised many families of four are happy living in houses that are under 30 square meters.",
+              "zh": "M: 我确实谈论过非常小的房子,但迷你住宅没有固定的定义。其他人也包括大得多的房子,比如说60平方米。你会惊讶地发现,许多四口之家很乐意住在不到30平方米的房子里。"
+            },
+            {
+              "id": 7,
+              "start": 60.1,
+              "end": 70.9,
+              "text": "W: But I think most of us want spacious homes. The average new house in this area is 150 square meters. And that's what people dream of owning.",
+              "zh": "W: 但我认为我们大多数人都想要宽敞的房子。这个地区新房的平均面积是150平方米。这就是人们梦想拥有的。"
+            },
+            {
+              "id": 8,
+              "start": 71.3,
+              "end": 77,
+              "text": "M: Yes, but I think that dream needs to change, considering the cost of housing.",
+              "zh": "M: 是的,但考虑到住房成本,我认为这个梦想需要改变。"
+            },
+            {
+              "id": 9,
+              "start": 77.3,
+              "end": 83.9,
+              "text": "W: Housing costs are high, but do people really save that much by having a smaller home?",
+              "zh": "W: 住房成本很高,但人们通过拥有更小的房子真的能省那么多钱吗?"
+            },
+            {
+              "id": 10,
+              "start": 84.3,
+              "end": 97.7,
+              "text": "M: Absolutely. Many people who can only afford to rent a large home are able to buy a tiny home. In this city, the average home costs $200,000, and a tiny home costs just $50,000.",
+              "zh": "M: 当然。许多只能租得起大房子的人能够买得起迷你住宅。在这个城市,普通住宅的平均价格是20万美元,而迷你住宅只需5万美元。"
+            },
+            {
+              "id": 11,
+              "start": 98,
+              "end": 100,
+              "text": "W: Those are huge savings.",
+              "zh": "W: 这可是巨大的节省。"
+            },
+            {
+              "id": 12,
+              "start": 100.3,
+              "end": 106.5,
+              "text": "M: So, tiny homes might not be for everyone, but they're a good option for many.",
+              "zh": "M: 所以,迷你住宅可能不适合所有人,但对许多人来说是个不错的选择。"
+            },
+            {
+              "id": 13,
+              "start": 106.8,
+              "end": 111.5,
+              "text": "W: You mentioned the environment earlier. How does this benefit the planet?",
+              "zh": "W: 你之前提到了环境。这如何造福地球呢?"
+            },
+            {
+              "id": 14,
+              "start": 111.8,
+              "end": 118.4,
+              "text": "M: Well, if people have smaller homes, they use less land and fewer resources to build them.",
+              "zh": "M: 嗯,如果人们住更小的房子,他们就会使用更少的土地和更少的资源来建造它们。"
+            }
+          ],
+          "audioDuration": 118.4,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What does the tiny home movement mainly advocate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Blog writing and natural resources saving."
+                },
+                {
+                  "key": "B",
+                  "text": "Joint efforts to improve the local community."
+                },
+                {
+                  "key": "C",
+                  "text": "Audience participation in The Morning Show."
+                },
+                {
+                  "key": "D",
+                  "text": "Home ownership and environmental protection."
+                }
+              ],
+              "answer": "D",
+              "analysis": "主旨题。答案句（P4）：Well, it's mainly about increasing home ownership and protecting the environment.信号：被问者应答 + mainly 点题 。前一段主持人直接发问\"can you tell our audience what it's about\"，紧接着这段是被问者 Bob 的正面应答，且自带点题词 it's mai…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音开头确实说嘉宾是 a popular blog writer，后文也提到省 fewer resources，本项 Blog writing and natural resources saving 把这两个零散原词拼到一起冒充主旨，但\"写博客\"只是嘉宾身份、不是这个运动主张的内容，答非所问。 借用原文：The Morning Show",
+                "B": "未提及：Joint efforts to improve the local community 说\"合力改善本地社区\"，但录音通篇只讲购房与环保，从未提到\"社区\"或\"共同努力\"，属凭空添加。",
+                "C": "原词陷阱：录音里 The Morning Show 只是这档节目的名字，本项 Audience participation in The Morning Show 借这个耳熟的专有名词，硬说运动主张是\"观众参与节目\"，与运动内容毫不相干。",
+                "D": "正确项：与答案句同义替换（increasing home ownership ↔ Home ownership 动名词短语压缩成名词）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Well, it's mainly about increasing home ownership and protecting the environment.",
+              "type": "主旨题"
+            },
+            {
+              "number": 13,
+              "stem": "What does the woman say about houses as small as 20 square meters?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Not a realistic size for families."
+                },
+                {
+                  "key": "B",
+                  "text": "Not welcomed by most Americans."
+                },
+                {
+                  "key": "C",
+                  "text": "Only fit for families of four or less."
+                },
+                {
+                  "key": "D",
+                  "text": "Only suitable for renting to the poor."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P5）：But I've seen your blog, and you write about houses that are as small as 20 square meters. That's not a realistic size for families.信号：转折 But + 直接否定评价 。这句以 But 转折开头，女方先承认目标好、随即话锋一转给出否定评价 That's not a realistic size for families——转折后那句才是她的真实立场，…",
+              "optionAnalysis": {
+                "B": "未提及：Not welcomed by most Americans 说\"不受多数美国人欢迎\"，但女方只说尺寸\"不现实\"，从没提\"美国人\"或\"受不受欢迎\"，是凭空替换成另一种否定理由。",
+                "C": "张冠李戴：录音后面男方才提到 many families of four are happy living（四口之家也住得开），本项 Only fit for families of four or less 盗用\"four\"这个数字，还用 Only 把范围限死成\"仅四口以下\"。这既张冠李戴（那是男方后说的、且态度相反），又把话说绝了。",
+                "D": "未提及：Only suitable for renting to the poor 说\"只适合租给穷人\"，录音里女方对小房子只评价了\"尺寸不现实\"，从未谈到\"出租\"或\"穷人\"，纯属添加。",
+                "A": "正确项：与答案句同义替换（That's not a realistic size for families ↔ Not a realistic size for families 去掉主系结构后近乎原意）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "But I've seen your blog, and you write about houses that are as small as 20 square meters. That's not a realistic size for families.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What does the man think about the dream of owning a 150-square-meter house?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It should be changed."
+                },
+                {
+                  "key": "B",
+                  "text": "It isn't easy to realize."
+                },
+                {
+                  "key": "C",
+                  "text": "It will come true sooner or later."
+                },
+                {
+                  "key": "D",
+                  "text": "It doesn't appeal to average families."
+                }
+              ],
+              "answer": "A",
+              "analysis": "态度观点题。答案句（P8）：Yes, but I think that dream needs to change, considering the cost of housing.信号：but + I think + needs to change 表态 。前一段女方说大房子\"是人们梦想拥有的\"，男方先 Yes 让步、随即用 but I think that dream needs to chang…",
+              "optionAnalysis": {
+                "B": "偷换概念：录音男方提到 considering the cost of housing（考虑住房成本），本项 It isn't easy to realize 借\"成本高\"联想成\"梦想不易实现\"，但男方的原话是\"梦想该改\"，不是\"难实现\"，偷换了概念。 借用原文：that dream needs to change",
+                "C": "与原文相反：It will come true sooner or later 说\"迟早会实现\"，方向与男方\"该改变\"完全相反。男方否定的是这个大房梦本身，绝不会说它迟早成真。",
+                "D": "未提及：It doesn't appeal to average families 说\"对普通家庭没吸引力\"，但男方对这个 150 平米梦想只说了\"该改\"，从没说\"对谁没吸引力\"，是另造一个评价。",
+                "A": "正确项：与答案句同义替换（that dream needs to change ↔ It should be changed 主动 needs to 改成被动 should be）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "Yes, but I think that dream needs to change, considering the cost of housing.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 15,
+              "stem": "What does the man say about tiny homes?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They help to lower housing prices."
+                },
+                {
+                  "key": "B",
+                  "text": "They help to save up for larger houses."
+                },
+                {
+                  "key": "C",
+                  "text": "They are a good choice for many people."
+                },
+                {
+                  "key": "D",
+                  "text": "They are vital to reducing waste worldwide."
+                }
+              ],
+              "answer": "C",
+              "analysis": "态度观点题。答案句（P12）：So, tiny homes might not be for everyone, but they're a good option for many.信号：So 收束 + but 后的总评 。这句以 So 收束前面关于省钱的讨论，男方先让步\"未必适合所有人\"、再用 but 给出总评 they're a good option for many。So 后的总结句加 but…",
+              "optionAnalysis": {
+                "A": "偷换概念：录音谈到小房子便宜、能省钱 a tiny home costs just \\$50,000，本项 They help to lower housing prices 借\"价格\"话题，偷换成\"帮助拉低房价\"。男方说的是\"个人买得起、省钱\"，不是\"压低市场房价\"，概念被偷换。 借用原文：are able to buy a tiny home",
+                "B": "与原文相反：录音说省下的钱让人能\"买下小房子\"，本项 They help to save up for larger houses 把方向拧反成\"攒钱去买更大的房子\"。这与男方\"买小房子、改掉大房梦\"的主张正相反。 借用原文：they use less land and fewer resources to build them",
+                "D": "过度推断：录音只在结尾说小房子\"用更少土地与资源\" they use less land and fewer resources，本项 They are vital to reducing waste worldwide 用 vital（至关重要）、worldwide（全世界）夸大成\"对全球减废至关重要\"，程度和范围都远超原话。",
+                "C": "正确项：与答案句同义替换（they're a good option for many ↔ They are a good choice for many people option=choice、many=many people）"
+              },
+              "evidencePara": "P12",
+              "evidenceText": "So, tiny homes might not be for everyone, but they're a good option for many.",
+              "type": "态度观点题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 4.6,
+              "text": "1 Kids need time every day to run, jump, stretch and play."
+            },
+            {
+              "id": 2,
+              "start": 4.9,
+              "end": 20.3,
+              "text": "These experiences have been shown to build children's confidence and pleasure in physical activities, develop their motor skills, and even improve emotional well-being. 2 To begin with, children seem to have a natural desire to overcome challenges and take risks."
+            },
+            {
+              "id": 3,
+              "start": 20.7,
+              "end": 27.6,
+              "text": "Taking healthy risks through physical movement builds children's confidence and ability to solve problems and persist through frustration."
+            },
+            {
+              "id": 4,
+              "start": 28,
+              "end": 41.4,
+              "text": "Secondly, movement activities build children's big body skills such as coordination and balance, as well as the fine motor skills they need for tasks like writing, tying their shoes, or throwing and catching a ball."
+            },
+            {
+              "id": 5,
+              "start": 41.8,
+              "end": 52.1,
+              "text": "Thirdly, according to the American Psychological Association, regular physical activity (and especially outdoor activity) reduces children's stress and depression, and improves their ability to focus and learn."
+            },
+            {
+              "id": 6,
+              "start": 52.5,
+              "end": 57.5,
+              "text": "Regular exercise can significantly improve self-regulation and decrease disciplinary consequences for negative behavior."
+            },
+            {
+              "id": 7,
+              "start": 57.9,
+              "end": 65.5,
+              "text": "Physical activity provides a positive outlet for frustration, anxiety, or anger and can become a healthy coping skill throughout life."
+            },
+            {
+              "id": 8,
+              "start": 65.8,
+              "end": 74.7,
+              "text": "Finally, we know that physical activity is important for our physical and mental health, and cultivating the habit of physical activity starts early."
+            },
+            {
+              "id": 9,
+              "start": 75,
+              "end": 81.6,
+              "text": "Children are more likely to develop a lifelong love of physical activity from frequent positive early experiences."
+            },
+            {
+              "id": 10,
+              "start": 81.9,
+              "end": 86.9,
+              "text": "Not every child enjoys competitive sports or playing with balls and that's OK."
+            },
+            {
+              "id": 11,
+              "start": 87.3,
+              "end": 93.8,
+              "text": "There are plenty of other options such as imaginative play, non-competitive games, and gardening or nature experiences."
+            }
+          ],
+          "audioDuration": 93.8,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What do children seem to have a natural desire to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Play outdoors and enjoy themselves."
+                },
+                {
+                  "key": "B",
+                  "text": "Beat challenges and take risks."
+                },
+                {
+                  "key": "C",
+                  "text": "Take care of their well-being."
+                },
+                {
+                  "key": "D",
+                  "text": "Grow up strong and healthy."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：To begin with, children seem to have a natural desire to overcome challenges and take risks.信号：序数词 To begin with 领出第一个要点 。To begin with 是篇章列举的第一个序数词，它后面紧跟的就是本段第一个论点句，也是题干里 natural desire 原话的落点，听到序数词起头就要立…",
+              "optionAnalysis": {
+                "A": "原词陷阱：原文开头确有 run, jump, stretch and play，又多处讲 pleasure，选项 Play outdoors and enjoy themselves. 拼出 play 与 enjoy 听着耳熟，但这些不是孩子天生渴望要做的那件事，与题干 natural desire 错位。 借用原文：improve emotional well-being",
+                "C": "张冠李戴：原文有 improve emotional well-being，选项 Take care of their well-being. 借了 well-being 这个原词，但提升幸福感是运动带来的好处，不是孩子天生的渴望，把别处的内容安到本题上。",
+                "D": "未提及：Grow up strong and healthy. 是人人认同的常识，听着最顺，但原文说孩子天生渴望的是克服挑战、承担风险，并未说他们天生渴望健康成长，凭印象选它就中了陷阱。",
+                "B": "正确项：与答案句同义替换（overcome challenges and take risks ↔ Beat challenges and take risks overcome 同义替换为 Beat）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "To begin with, children seem to have a natural desire to overcome challenges and take risks.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "According to the American Psychological Association, what does regular physical activity do to children?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Enable them to develop their motor skills."
+                },
+                {
+                  "key": "B",
+                  "text": "Help them to conceal their frustration."
+                },
+                {
+                  "key": "C",
+                  "text": "Reduce their stress and depression."
+                },
+                {
+                  "key": "D",
+                  "text": "Prevent them from feeling lonely."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：Thirdly, according to the American Psychological Association, regular physical activity (and especially outdoor activity) reduces children's stress and depression, and improves their ability to focus and learn.信号：出处词 according to 与题干同源对接 。原文 according to the American Psychological Association 与题干出处一字不差，听到这个机构名就知道答案句到了，其…",
+              "optionAnalysis": {
+                "A": "原词陷阱：原文 develop their motor skills 确有这个搭配，选项 Enable them to develop their motor skills. 原词照搬，听着最像，但这是第一段讲运动总体好处时说的，不属于美国心理学会出处句，被题干的出处限定排除。 借用原文：positive outlet for frustration",
+                "B": "偷换概念：原文出现 persist through frustration 与 positive outlet for frustration，选项 Help them to conceal their frustration. 借 frustration 一词，却把原文的疏导挫折偷换成隐藏挫折，方向相反。",
+                "D": "未提及：Prevent them from feeling lonely. 听起来合理，但原文讲的是减压、抗抑郁、助专注，从未提到防止孤独，属于无中生有。",
+                "C": "正确项：与答案句同义替换（reduces children's stress and depression ↔ Reduce their stress and depression 近乎同表述、仅人称代词改写）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Thirdly, according to the American Psychological Association, regular physical activity (and especially outdoor activity) reduces children's stress and depression, and improves their ability to focus and learn.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What does the passage say about cultivating the habit of physical activity?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It begins early."
+                },
+                {
+                  "key": "B",
+                  "text": "It proves demanding."
+                },
+                {
+                  "key": "C",
+                  "text": "It calls for lifelong efforts."
+                },
+                {
+                  "key": "D",
+                  "text": "It lies in nature experiences."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：Finally, we know that physical activity is important for our physical and mental health, and cultivating the habit of physical activity starts early.信号：序数词 Finally 领出末点、starts early 是定性词 。Finally 标出最后一个要点，紧接着 cultivating the habit of physical activity starts e…",
+              "optionAnalysis": {
+                "B": "未提及：It proves demanding. 说养成习惯很费劲，但原文只说它 starts early，并未评价它吃力，属于无中生有。",
+                "C": "原词陷阱：原文确有 a healthy coping skill throughout life 和 a lifelong love of physical activity，选项 It calls for lifelong efforts. 借 lifelong 这个原词，但原文是说会终身热爱、终身受用，绝不是说养成习惯需要终身努力，把听到的 lifelong 安错了对象，也与本题定性句 starts early 矛盾。 借用原文：gardening or nature experiences",
+                "D": "原词陷阱：原文结尾确有 gardening or nature experiences，选项 It lies in nature experiences. 搬了 nature experiences 这个原词，但那是在举可替代的活动选项，不是在说养成习惯这件事的特点，答非所问。",
+                "A": "正确项：与答案句同义替换（cultivating the habit of physical activity starts early ↔ It begins early starts 同义替换为 begins、习惯被代词 It 概括）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Finally, we know that physical activity is important for our physical and mental health, and cultivating the habit of physical activity starts early.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 15.8,
+              "text": "A new study finds that job seekers are even willing to explore jobs with lower salaries when companies are more diverse. It finds that sharing information about diversity makes job postings more attractive to job seekers, even when pay is lower.",
+              "zh": "一项新研究发现，当公司更具多样性时，求职者甚至愿意探索薪资较低的工作。研究发现，分享关于多样性的信息使得招聘信息对求职者更具吸引力，即使薪酬较低。"
+            },
+            {
+              "id": 2,
+              "start": 16.2,
+              "end": 60.8,
+              "text": "To conduct the study, the team partnered with an online job listings platform which emails postings relevant to individuals and their job search criteria. For the course of the 11-week study, the platform emailed job listings to some 180,000 users placed in one of two conditions. In the baseline condition, participants saw emails in the normal format, with no information on diversity; in the diversity condition, participants saw a diversity score for each listing: information about the race, gender, education, and language skills of a company's workforce compared to others in the same sector and location. Information was then gathered on whether the email was opened, and which job listings were clicked on by each user.",
+              "zh": "为了进行这项研究，研究团队与一个在线招聘信息平台合作，该平台会向个人发送与其求职标准相关的职位信息邮件。在为期11周的研究过程中，该平台向约18万名用户发送招聘信息邮件，这些用户被分为两种情况之一。在基线情况下，参与者看到的是正常格式的邮件,没有关于多样性的信息;在多样性情况下,参与者看到每个招聘信息的多样性评分:关于公司员工的种族、性别、教育程度和语言技能与同一行业和地区其他公司相比的信息。然后收集关于邮件是否被打开以及每个用户点击了哪些招聘信息的数据。"
+            },
+            {
+              "id": 3,
+              "start": 61.1,
+              "end": 89.2,
+              "text": "Participants in the diversity condition tended to click on job listings from companies with slightly higher diversity scores than those in the baseline condition: that is, participants seemed to be paying attention to information about diversity, and using this when deciding whether to click on the listing. And the team also found that participants were willing to look at listings with lower salaries if they came from companies with a higher diversity score.",
+              "zh": "多样性情况下的参与者倾向于点击多样性评分略高于基线情况下公司的招聘信息:也就是说，参与者似乎关注关于多样性的信息，并在决定是否点击该招聘信息时使用这些信息。研究团队还发现，如果招聘信息来自多样性评分较高的公司，参与者愿意查看薪资较低的招聘信息。"
+            }
+          ],
+          "audioDuration": 89.2,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "When are job seekers willing to explore jobs with lower salaries, according to a new study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "When companies share their information online."
+                },
+                {
+                  "key": "B",
+                  "text": "When their job search criteria are met fully."
+                },
+                {
+                  "key": "C",
+                  "text": "When companies embrace greater diversity"
+                },
+                {
+                  "key": "D",
+                  "text": "When they find job postings visually attractive."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：A new study finds that job seekers are even willing to explore jobs with lower salaries when companies are more diverse.信号：when 条件状语点出触发条件 。这句用 when companies are more diverse 这个条件状语，直接把『愿接受低薪』的触发条件说出来，正是题干 When 所问。开篇第一句即点题，是篇章独白的典…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音后文确有 sharing information about diversity 和提到在线平台，A 项 share their information online 盗用了 information、online 这些原词，但它说的是公司在网上分享信息，并非求职者接受低薪的触发条件，听到原词就选会落入陷阱。 借用原文：their job search criteria",
+                "B": "原词陷阱：录音提到平台按 their job search criteria 推送邮件，B 项 When their job search criteria are met fully 借用了 job search criteria 这个原词，但录音从没说『求职标准被完全满足』才接受低薪，这是用原词拼出的无中生有条件。 借用原文：more attractive to job seekers",
+                "D": "偷换概念：录音说多样性让 job postings more attractive，D 项 When they find job postings visually attractive. 盗用了 job postings、attractive，却加了 visually（视觉上）这层录音没有的意思，把『内容上更有吸引力』偷换成『看起来好看』。",
+                "C": "正确项：与答案句同义替换（when companies are more diverse ↔ When companies embrace greater diversity 形容词转动词的同义改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "A new study finds that job seekers are even willing to explore jobs with lower salaries when companies are more diverse.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What did participants see in the baseline condition of the study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Emails in the normal format."
+                },
+                {
+                  "key": "B",
+                  "text": "Major companies in one location."
+                },
+                {
+                  "key": "C",
+                  "text": "All companies in the same sector."
+                },
+                {
+                  "key": "D",
+                  "text": "Various aspects of a company's workforce."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：In the baseline condition, participants saw emails in the normal format, with no information on diversity; in the diversity condition, participants saw a diversity score for each listing.信号：限定词 baseline condition 直接领出答案 。录音用 In the baseline condition, participants saw emails in the normal format 直…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音末尾提到 others in the same sector and location，B 项 Major companies in one location. 盗用了 location 这个原词，但录音从未说基线组看到『同一地点的大公司』，是借词造出的无中生有内容。 借用原文：compared to others in the same sector and location",
+                "C": "原词陷阱：录音里 others in the same sector and location 出现过 same sector，C 项 All companies in the same sector. 直接搬来这个短语，但它说的是比较的参照系，不是基线组所见，听到 same sector 就选会中招。 借用原文：information about the race, gender, education, and language skills of a company's workforce",
+                "D": "张冠李戴：Various aspects of a company's workforce. 描述的是多样性组看到的 information about the race, gender, education, and language skills of a company's workforce，录音明确说基线组 with no information on diversity，D 把另一组的内容安到基线组头上。",
+                "A": "正确项：与答案句同义替换（participants saw emails in the normal format ↔ Emails in the normal format. 近乎原句的概括）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "In the baseline condition, participants saw emails in the normal format, with no information on diversity; in the diversity condition, participants saw a diversity score for each listing.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What does the passage say participants seem to be paying attention to?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Job security."
+                },
+                {
+                  "key": "B",
+                  "text": "Potential pay raises."
+                },
+                {
+                  "key": "C",
+                  "text": "Minimum base salary."
+                },
+                {
+                  "key": "D",
+                  "text": "Information about diversity."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Participants seemed to be paying attention to information about diversity, and using this when deciding whether to click on the listing.信号：that is 收束句点明关注对象 。这句由 that is 引出对前文的小结，并直接用 paying attention to information about diversity 说出参与者关注的对象，与题干表…",
+              "optionAnalysis": {
+                "A": "未提及：A 项 Job security. 在录音里从未出现，整篇只谈多样性信息与薪资，没有任何关于工作稳定性的内容，属凭印象添加的未提及项。",
+                "B": "过度推断：录音多次提到 lower salaries，B 项 Potential pay raises. 借薪资话题推出『可能的加薪』，但录音只说参与者愿接受低薪、并未说他们关注加薪，是顺着薪资词过度推断。 借用原文：listings with lower salaries",
+                "C": "原词陷阱：C 项 Minimum base salary. 借用了录音反复出现的薪资话题，但录音从未提『最低底薪』这一概念，更没说参与者关注它，是用薪资原词拼出的偷换项。",
+                "D": "正确项：与答案句同义替换（paying attention to information about diversity ↔ Information about diversity. 提取宾语成名词短语）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Participants seemed to be paying attention to information about diversity, and using this when deciding whether to click on the listing.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 25.4,
+              "text": "A new study from Oregon State University found that dogs tend to match their behavior with the children in their family. The findings are important because there is a growing body of evidence that dogs can help children in many ways. These include helping with social development, increasing physical activity, managing anxiety or serving as a source of attachment in the face of changing family structures.",
+              "zh": "俄勒冈州立大学的一项新研究发现，狗往往会使自己的行为与家庭中的儿童相匹配。这些发现很重要，因为越来越多的证据表明狗可以在许多方面帮助儿童。这些方面包括帮助社交发展、增加身体活动、管理焦虑或在家庭结构变化时充当依恋来源。"
+            },
+            {
+              "id": 2,
+              "start": 25.8,
+              "end": 61.5,
+              "text": "Yet, very little research has focused on how dogs perceive and socially engage with children. \"The great news is that this study suggests dogs are paying a lot of attention to the kids that they live with,\" said Monique Udell, the lead author of the study. \"One interesting thing we have observed is that dogs are matching children's behavior, but less frequently than what we have seen between dogs and adults. This suggests that while dogs may view children as social companions, there are also some differences that we need to understand better.\"",
+              "zh": "然而，很少有研究关注狗如何感知儿童并与儿童进行社交互动。该研究的主要作者Monique Udell说：\"好消息是，这项研究表明狗非常关注与它们一起生活的孩子。我们观察到的一个有趣现象是，狗会匹配儿童的行为，但频率低于我们在狗和成人之间观察到的情况。这表明虽然狗可能将儿童视为社交伙伴，但也存在一些我们需要更好理解的差异。\""
+            },
+            {
+              "id": 3,
+              "start": 61.9,
+              "end": 86.8,
+              "text": "While research has found dogs can have a lot of positive impacts on a child's life, there are also risks associated with the dog-child relationship. For example, other studies have found dogs are more likely to bite children versus adults. \"We still have a lot to learn about the dog-child relationship,\" Udell said. \"But research does show that kids are very capable of training dogs.\"",
+              "zh": "虽然研究发现狗可以对儿童的生活产生许多积极影响，但狗与儿童的关系也存在风险。例如，其他研究发现狗咬儿童的可能性高于咬成人。Udell说：\"关于狗与儿童的关系，我们还有很多需要了解的。但研究确实表明，孩子们非常有能力训练狗。\""
+            }
+          ],
+          "audioDuration": 86.8,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What does the passage say about the findings of a new study from Oregon State University?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Positive."
+                },
+                {
+                  "key": "B",
+                  "text": "Original."
+                },
+                {
+                  "key": "C",
+                  "text": "Important."
+                },
+                {
+                  "key": "D",
+                  "text": "Surprising."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：The findings are important because there is a growing body of evidence that dogs can help children in many ways.信号：对 findings 的直接定性 。录音紧跟着研究结果给出定性 The findings are important，主语正是题干问的 findings，是一句直接的\"X 是怎样的\"判断句，这种直接定性句就是评价类细…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音第三段确实出现 positive impacts，但那是形容狗对孩子生活的影响，不是形容这项研究的 findings，把 Positive. 安到 findings 上属答非所问。",
+                "B": "未提及：Original. 表示\"首创、原创的\"，录音通篇没有对 findings 作此评价，属于无中生有。",
+                "D": "未提及：Surprising. 是\"出人意料的\"，录音只说 findings 重要，没有任何\"惊讶/意外\"的措辞，属无中生有。",
+                "C": "正确项：与答案句同义替换（The findings are important ↔ Important. 原词直接对应）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The findings are important because there is a growing body of evidence that dogs can help children in many ways.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What does a growing body of evidence show according to the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Dogs match their behavior with kids as much as with adults."
+                },
+                {
+                  "key": "B",
+                  "text": "Kids and adults alike find in dogs a source of attachment."
+                },
+                {
+                  "key": "C",
+                  "text": "Kids' attitude to dogs is influenced by adults."
+                },
+                {
+                  "key": "D",
+                  "text": "Dogs can help kids in many ways."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：there is a growing body of evidence that dogs can help children in many ways.信号：evidence that 引出结论 。录音 a growing body of evidence that dogs can help children in many ways 中的 that 直接引出证据的内容…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Dogs match their behavior with kids as much as with adults. 借用了录音里 match...behavior 的说法，但本题问的是 evidence 表明什么（帮孩子），而且原文后文恰恰说狗匹配孩子行为\"少于\"成人，并非 as much as，与原文相反。 借用原文：serving as a source of attachment in the face of changing family structures",
+                "B": "原词陷阱：Kids and adults alike find in dogs a source of attachment. 套用了录音里 source of attachment 一词，但原文是说狗\"作为依恋来源\"帮助孩子，并没有说\"孩子和成人都把狗当依恋来源\"，多加了 adults，属偷换概念。",
+                "C": "未提及：Kids' attitude to dogs is influenced by adults. 谈的是\"成人影响孩子对狗的态度\"，录音通篇没有这层意思，属无中生有。",
+                "D": "正确项：与答案句同义替换（dogs can help children in many ways ↔ Dogs can help kids in many ways. children 与 kids 同义替换）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "there is a growing body of evidence that dogs can help children in many ways.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What did Monique Udell say their study suggests?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Dogs pay much attention to the kids they live with."
+                },
+                {
+                  "key": "B",
+                  "text": "Dogs view both adults and kids as social companions."
+                },
+                {
+                  "key": "C",
+                  "text": "Kids differ from adults in their behavior towards dogs."
+                },
+                {
+                  "key": "D",
+                  "text": "Kids need to be aware of the risks in playing with dogs."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：This suggests that while dogs may view children as social companions, there are also some differences that we need to understand better.信号：suggests that 引出研究暗示 。录音中 This suggests that while dogs may view children as social companions 用 suggests th…",
+              "optionAnalysis": {
+                "B": "原词陷阱：Dogs view both adults and kids as social companions. 套用了原文 social companions 一词，但 Udell 强调的是狗把\"孩子\"当伙伴、且和成人有差异，并非\"成人和孩子都\"一视同仁，加了 both...and 反而违背她说的 differences，与原文相反。 借用原文：dogs are matching children's behavior, but less frequently than what we have seen between dogs and adults",
+                "C": "张冠李戴：Kids differ from adults in their behavior towards dogs. 借用原文 differences 一词，但原文说的是\"狗匹配孩子行为少于成人\"，差异在于\"狗对孩子和对成人\"的行为，而非\"孩子和成人对狗\"的行为，主体被调换，属张冠李戴。 借用原文：there are also risks associated with the dog-child relationship",
+                "D": "原词陷阱：Kids need to be aware of the risks in playing with dogs. 套用了第三段提到的 risks，但本题问 Udell 说研究\"暗示\"什么，而风险是后文另一处内容，且原文未说\"孩子需提防风险\"，答非所问。",
+                "A": "正确项：与答案句同义替换（dogs may view children as social companions ↔ Dogs pay much attention to the kids they live with. 概括上位替换）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "This suggests that while dogs may view children as social companions, there are also some differences that we need to understand better.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What does research show kids are very capable of doing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Understanding dogs."
+                },
+                {
+                  "key": "B",
+                  "text": "Training dogs."
+                },
+                {
+                  "key": "C",
+                  "text": "Taking care of dogs."
+                },
+                {
+                  "key": "D",
+                  "text": "Associating with dogs."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：But research does show that kids are very capable of training dogs.信号：capable of 直接点能力 。录音末句 research does show that kids are very capable of training dogs 与题干几乎逐词重合，capable of 后…",
+              "optionAnalysis": {
+                "A": "张冠李戴：Understanding dogs. 借用了原文 understand 一词，但原文说的是\"我们（研究者）还有很多要去了解\"，understand 的主体是研究者而非孩子，把它套到\"孩子擅长理解狗\"属张冠李戴。",
+                "C": "未提及：Taking care of dogs. 的\"照料狗\"录音通篇没有提到，属无中生有。",
+                "D": "未提及：Associating with dogs. 的\"与狗交往\"虽与全文话题相关，但原文明说孩子擅长的是 training（训练），没有说 associating，属未提及。",
+                "B": "正确项：与答案句同义替换（kids are very capable of training dogs ↔ Training dogs. 动作短语直接对应）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "But research does show that kids are very capable of training dogs.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When Toni Morrison died in 2019, the world lost one of its most influential authors. But Morrison was not an early success. Her first novel was not published until she was 39, and her last appeared when she was 84. And Morrison was not 26______ in this regard. Numerous writers produce masterpieces well into their 70s and beyond. Such 27______ accomplishments highlight an important point. Our capacity to speak, write and learn new vocabulary does not seem to 28______ with age. Our eyesight may dim and our recall may weaken, but, by comparison, our ability to produce and to 29______ language is well preserved into older adulthood.\n\nIndeed, the latest research that has emerged on language and aging shows that language mastery is a 30______ that we begin as infants and continue on for the rest of our lives. Some aspects of our language abilities, such as our knowledge of word meanings, 31______ improve during middle and late adulthood. One study, for example, found that adults over sixty had an average vocabulary size of over 21,000 words. The researchers also studied a 32______ of college students and found that their average vocabulary contained 33______ 16,000 words. In another study, older adults, with an average age of 75, 34______ better than participants in their youth or middle years on tasks that required them to determine the meaning of words. Thus, language seems to be a skill that, contrary to what many might 35______ , does not weaken with age."
+            },
+            {
+              "label": "词库",
+              "text": "A) actually\nB) approximately\nC) assume\nD) component\nE) comprehend\nF) deteriorate\nG) equivalent\nH) journey\nI) literary\nJ) performed\nK) rarely\nL) sample\nM) undermined\nN) unique\nO) unit"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "assume"
+                },
+                {
+                  "key": "D",
+                  "text": "component"
+                },
+                {
+                  "key": "E",
+                  "text": "comprehend"
+                },
+                {
+                  "key": "F",
+                  "text": "deteriorate"
+                },
+                {
+                  "key": "G",
+                  "text": "equivalent"
+                },
+                {
+                  "key": "H",
+                  "text": "journey"
+                },
+                {
+                  "key": "I",
+                  "text": "literary"
+                },
+                {
+                  "key": "J",
+                  "text": "performed"
+                },
+                {
+                  "key": "K",
+                  "text": "rarely"
+                },
+                {
+                  "key": "L",
+                  "text": "sample"
+                },
+                {
+                  "key": "M",
+                  "text": "undermined"
+                },
+                {
+                  "key": "N",
+                  "text": "unique"
+                },
+                {
+                  "key": "O",
+                  "text": "unit"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) unique\n【原文】Numerous writers produce masterpieces well into their 70s and beyond. 紧跟其后说明「许多作家年逾古稀仍出杰作」，正是在否定 Morrison 在大器晚成上的「独一无二性」，因此 And Morrison was not __(26)__ in this regard. 应为「并非独一无二的」。\nG) equivalent 缺少对比对象：equivalent 表「与...等同」，须有比较对象（equivalent to sb.）；本句只给出 in this regard 这一抽象限定，没有具体参照物，且 was n"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "assume"
+                },
+                {
+                  "key": "D",
+                  "text": "component"
+                },
+                {
+                  "key": "E",
+                  "text": "comprehend"
+                },
+                {
+                  "key": "F",
+                  "text": "deteriorate"
+                },
+                {
+                  "key": "G",
+                  "text": "equivalent"
+                },
+                {
+                  "key": "H",
+                  "text": "journey"
+                },
+                {
+                  "key": "I",
+                  "text": "literary"
+                },
+                {
+                  "key": "J",
+                  "text": "performed"
+                },
+                {
+                  "key": "K",
+                  "text": "rarely"
+                },
+                {
+                  "key": "L",
+                  "text": "sample"
+                },
+                {
+                  "key": "M",
+                  "text": "undermined"
+                },
+                {
+                  "key": "N",
+                  "text": "unique"
+                },
+                {
+                  "key": "O",
+                  "text": "unit"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) literary\n【原文】前文反复提到 When Toni Morrison died in 2019, the world lost one of its most influential authors. 与 Her first novel was not published until she was 39，accomplishments 指的就是「文学成就」，所以 literary 与上下文最贴合。\nG) equivalent 语义不通：equivalent 意为「等同的」，需要与另一参照对象比较，这里并未出现可比物，「等同的成就」放进 Such __(27)__ accomplishments highlight\nN) unique 已被 26 题选用：unique 在解 26 题时已被划走（见 26 题），整套词库每词只能用一次，本空不再考虑。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "assume"
+                },
+                {
+                  "key": "D",
+                  "text": "component"
+                },
+                {
+                  "key": "E",
+                  "text": "comprehend"
+                },
+                {
+                  "key": "F",
+                  "text": "deteriorate"
+                },
+                {
+                  "key": "G",
+                  "text": "equivalent"
+                },
+                {
+                  "key": "H",
+                  "text": "journey"
+                },
+                {
+                  "key": "I",
+                  "text": "literary"
+                },
+                {
+                  "key": "J",
+                  "text": "performed"
+                },
+                {
+                  "key": "K",
+                  "text": "rarely"
+                },
+                {
+                  "key": "L",
+                  "text": "sample"
+                },
+                {
+                  "key": "M",
+                  "text": "undermined"
+                },
+                {
+                  "key": "N",
+                  "text": "unique"
+                },
+                {
+                  "key": "O",
+                  "text": "unit"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) deteriorate\n【原文】deteriorate with age 固定搭配\nE) comprehend 语义与 with age 不搭：comprehend 表「理解」，「不随年龄理解」语义不通；且 comprehend 是及物动词，后面缺少宾语；同时 29 题正需要 comprehend 与 produce 并列"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "assume"
+                },
+                {
+                  "key": "D",
+                  "text": "component"
+                },
+                {
+                  "key": "E",
+                  "text": "comprehend"
+                },
+                {
+                  "key": "F",
+                  "text": "deteriorate"
+                },
+                {
+                  "key": "G",
+                  "text": "equivalent"
+                },
+                {
+                  "key": "H",
+                  "text": "journey"
+                },
+                {
+                  "key": "I",
+                  "text": "literary"
+                },
+                {
+                  "key": "J",
+                  "text": "performed"
+                },
+                {
+                  "key": "K",
+                  "text": "rarely"
+                },
+                {
+                  "key": "L",
+                  "text": "sample"
+                },
+                {
+                  "key": "M",
+                  "text": "undermined"
+                },
+                {
+                  "key": "N",
+                  "text": "unique"
+                },
+                {
+                  "key": "O",
+                  "text": "unit"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) comprehend\n【原文】produce 与 comprehend 对仗\nproduce language（产出语言）与 comprehend language（理解语言）构成语言能力的「输出—输入」标准对子，是语言学领域常用搭配；our ability to produce and to __(29)__ language is well preserved into older adulthood. 顺势承接主旨「老年仍保留语言能力」。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "assume"
+                },
+                {
+                  "key": "D",
+                  "text": "component"
+                },
+                {
+                  "key": "E",
+                  "text": "comprehend"
+                },
+                {
+                  "key": "F",
+                  "text": "deteriorate"
+                },
+                {
+                  "key": "G",
+                  "text": "equivalent"
+                },
+                {
+                  "key": "H",
+                  "text": "journey"
+                },
+                {
+                  "key": "I",
+                  "text": "literary"
+                },
+                {
+                  "key": "J",
+                  "text": "performed"
+                },
+                {
+                  "key": "K",
+                  "text": "rarely"
+                },
+                {
+                  "key": "L",
+                  "text": "sample"
+                },
+                {
+                  "key": "M",
+                  "text": "undermined"
+                },
+                {
+                  "key": "N",
+                  "text": "unique"
+                },
+                {
+                  "key": "O",
+                  "text": "unit"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) journey\n【原文】language mastery is a __(30)__ that we begin as infants and continue on for the rest of our lives.，begin... continue... for the rest of our lives 正是 journey 的典型语境（人生/学习的「旅程」），与「终身学习」的喻体完全匹配。\nD) component 组成部分 ≠ 终身过程：component 表「组成部分」，与「从婴儿开始持续一生」的连续性语义不搭——人不会「开始并持续一生地做一个 component」。\nO) unit 单位/单元静态：unit 指静态的「单位/单元」，无法承载「begin and continue for life」这一动态过程，搭配不当。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "assume"
+                },
+                {
+                  "key": "D",
+                  "text": "component"
+                },
+                {
+                  "key": "E",
+                  "text": "comprehend"
+                },
+                {
+                  "key": "F",
+                  "text": "deteriorate"
+                },
+                {
+                  "key": "G",
+                  "text": "equivalent"
+                },
+                {
+                  "key": "H",
+                  "text": "journey"
+                },
+                {
+                  "key": "I",
+                  "text": "literary"
+                },
+                {
+                  "key": "J",
+                  "text": "performed"
+                },
+                {
+                  "key": "K",
+                  "text": "rarely"
+                },
+                {
+                  "key": "L",
+                  "text": "sample"
+                },
+                {
+                  "key": "M",
+                  "text": "undermined"
+                },
+                {
+                  "key": "N",
+                  "text": "unique"
+                },
+                {
+                  "key": "O",
+                  "text": "unit"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) actually\n【原文】全文核心论点是「语言能力不随年龄衰退」，本句进一步给出强例证：词义知识在中老年还会提高，与「人老智衰」的常识相反，正好用 actually「实际上」来强调反预期；与下一句 One study, for example, found that adults over sixty had an average vocabulary size of over 21,000 words. 的举例链衔接通顺。\nK) rarely 与论点反向：rarely improve「很少提升」会让本句意思翻转为「中老年词汇几乎不提升」，与下一句「60 岁以上成人词汇量超 21,000 词」的研究例证、以及全文「语言能力不衰退」主旨"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "assume"
+                },
+                {
+                  "key": "D",
+                  "text": "component"
+                },
+                {
+                  "key": "E",
+                  "text": "comprehend"
+                },
+                {
+                  "key": "F",
+                  "text": "deteriorate"
+                },
+                {
+                  "key": "G",
+                  "text": "equivalent"
+                },
+                {
+                  "key": "H",
+                  "text": "journey"
+                },
+                {
+                  "key": "I",
+                  "text": "literary"
+                },
+                {
+                  "key": "J",
+                  "text": "performed"
+                },
+                {
+                  "key": "K",
+                  "text": "rarely"
+                },
+                {
+                  "key": "L",
+                  "text": "sample"
+                },
+                {
+                  "key": "M",
+                  "text": "undermined"
+                },
+                {
+                  "key": "N",
+                  "text": "unique"
+                },
+                {
+                  "key": "O",
+                  "text": "unit"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) sample\n【原文】上下文是 The researchers also studied a __(32)__ of college students，researcher + studied 已经标明这是科研场景，a sample of college students「一份大学生样本」是研究文献的固定表达。\nD) component 搭配不成立：component 指「组成部分」，常说 a component of a system，与 college students 搭配生硬；研究语境里也极少说「一组学生组件」。\nH) journey 需留给 30 题的「过程」：journey 在此句搭配 a journey of college students 不通；同时本词在 30 题（语言学习是一段历程）有更贴切的归宿，先做的 32 题不应抢用它。\nO) unit 搭配语义不准：a unit of college students 听起来像「一队学生」，多用于军事/组织编制，而非研究取样语境；研究里通常说 sample。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "assume"
+                },
+                {
+                  "key": "D",
+                  "text": "component"
+                },
+                {
+                  "key": "E",
+                  "text": "comprehend"
+                },
+                {
+                  "key": "F",
+                  "text": "deteriorate"
+                },
+                {
+                  "key": "G",
+                  "text": "equivalent"
+                },
+                {
+                  "key": "H",
+                  "text": "journey"
+                },
+                {
+                  "key": "I",
+                  "text": "literary"
+                },
+                {
+                  "key": "J",
+                  "text": "performed"
+                },
+                {
+                  "key": "K",
+                  "text": "rarely"
+                },
+                {
+                  "key": "L",
+                  "text": "sample"
+                },
+                {
+                  "key": "M",
+                  "text": "undermined"
+                },
+                {
+                  "key": "N",
+                  "text": "unique"
+                },
+                {
+                  "key": "O",
+                  "text": "unit"
+                }
+              ],
+              "answer": "B",
+              "type": "选词填空",
+              "analysis": "【答案】B（官方答案）\n应填 B) approximately\n【原文】approximately + 数字是常用搭配\ncontained __(33)__ 16,000 words，「大约 16,000 个单词」对应研究里给出的平均值估算，搭配自然、语义合理。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "assume"
+                },
+                {
+                  "key": "D",
+                  "text": "component"
+                },
+                {
+                  "key": "E",
+                  "text": "comprehend"
+                },
+                {
+                  "key": "F",
+                  "text": "deteriorate"
+                },
+                {
+                  "key": "G",
+                  "text": "equivalent"
+                },
+                {
+                  "key": "H",
+                  "text": "journey"
+                },
+                {
+                  "key": "I",
+                  "text": "literary"
+                },
+                {
+                  "key": "J",
+                  "text": "performed"
+                },
+                {
+                  "key": "K",
+                  "text": "rarely"
+                },
+                {
+                  "key": "L",
+                  "text": "sample"
+                },
+                {
+                  "key": "M",
+                  "text": "undermined"
+                },
+                {
+                  "key": "N",
+                  "text": "unique"
+                },
+                {
+                  "key": "O",
+                  "text": "unit"
+                }
+              ],
+              "answer": "J",
+              "type": "选词填空",
+              "analysis": "【答案】J（官方答案）\n应填 J) performed\n【原文】performed better 是典型搭配\nperform 在科研语境中常表「在测试/任务中的表现」，performed better than participants in their youth or middle years on tasks 是英语固定搭配 perform better on tasks「在任务上表现更好」，语义、时态均贴合。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "actually"
+                },
+                {
+                  "key": "B",
+                  "text": "approximately"
+                },
+                {
+                  "key": "C",
+                  "text": "assume"
+                },
+                {
+                  "key": "D",
+                  "text": "component"
+                },
+                {
+                  "key": "E",
+                  "text": "comprehend"
+                },
+                {
+                  "key": "F",
+                  "text": "deteriorate"
+                },
+                {
+                  "key": "G",
+                  "text": "equivalent"
+                },
+                {
+                  "key": "H",
+                  "text": "journey"
+                },
+                {
+                  "key": "I",
+                  "text": "literary"
+                },
+                {
+                  "key": "J",
+                  "text": "performed"
+                },
+                {
+                  "key": "K",
+                  "text": "rarely"
+                },
+                {
+                  "key": "L",
+                  "text": "sample"
+                },
+                {
+                  "key": "M",
+                  "text": "undermined"
+                },
+                {
+                  "key": "N",
+                  "text": "unique"
+                },
+                {
+                  "key": "O",
+                  "text": "unit"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) assume\n【原文】contrary to what people assume 固定逻辑\nE) comprehend 要留给 29 题：comprehend 在 29 题与 produce 并列搭配 produce and to ___ language，是该空唯一通顺选择；本空若先抢走，会让 29 题无解。同时本\nF) deteriorate 要留给 28 题：deteriorate 是 28 题「does not seem to ___ with age」的固定答案；放到本空 what many might deteriorate 语法\nA) actually 副词：实际上、事实上（常用于强调与预期相反的事实） 用于第 31 空\nB) approximately 副词：大约、近似地（常修饰数字） 用于第 33 空"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Few topics have been so endlessly analysed as work-life balance. The quest to attain this mysterious state has dominated discussion around careers for years—especially for working parents. The concept is often presented as something to achieve, or a goal to reach. And once you've reached it, congratulations: you've made it; you're a successful human being of the 21st century."
+            },
+            {
+              "label": "B",
+              "text": "But the problem is that we often tell ourselves: \"I'm going to put in eight hours' worth of work, and then I'm going to put in eight hours' worth of 'me time', which will include my family, my hobbies, my workout, my everything,\" says Anat Lechner, clinical associate professor of management at New York University. \"I don't think it's such a simple formula.\""
+            },
+            {
+              "label": "C",
+              "text": "And, according to new findings, it may not be. Some researchers are now encouraging us to stop thinking about work-life balance as an achievement that you either hit or don't. Instead, they suggest it may be more of a lifelong process—a continuous, never-ending exercise that requires self-awareness and timely adjustments. Researchers Ioana Lupu and Mayra Ruiz-Castro argue that work-life balance is \"a cycle, not an achievement\". In their 2020 study, the researchers interviewed nearly 80 employees at two London-based firms—an equal number of men and women between the ages of 30 and 50, all with at least one dependent child—who worked in middle or senior management roles."
+            },
+            {
+              "label": "D",
+              "text": "Although it sounds like the respondents had a lot in common, here's what separated them: about 30% of the men and 50% of the women reported resisting working long hours. The other respondents, meanwhile, all worked long hours because they thought that's what successful professionals should do."
+            },
+            {
+              "label": "E",
+              "text": "Lupu and Ruiz-Castro looked at those who rejected the long hours and they found that those workers actually had strikingly similar strategies for maintaining their work-life balance. They had a tendency to reflect and question assumptions in the name of self-awareness and regularly took steps to adjust the things standing in their way to work-life balance."
+            },
+            {
+              "label": "F",
+              "text": "Lupu and Ruiz-Castro identified five steps that the respondents in the study who had better work-life balance used in their jobs. First, they paused and reconsidered beliefs such as \"I'm a professional, so I should work, work, work\", and asked themselves questions like, \"What's currently causing me stress?\" Second, after identifying the cause, they zeroed in on their resultant emotions. Did they feel angry, sad, energised? Third, they reprioritised, asking \"Is working long hours really worth cutting back on family time?\", for example. Fourth, they considered their alternatives: is there anything at work that could be changed to accommodate these new priorities? And finally, they implemented changes, like asking their supervisor for greater flexibility, or deciding not to take on every project that comes their way."
+            },
+            {
+              "label": "G",
+              "text": "This five-step process is something anyone can adopt. Going through the steps, and constantly checking in with yourself, can help you shift and adapt your professional life to something that will better harmonise with your personal one. \"Awareness of your emotional state is essential in order to determine the changes you want to make in your work and in your life,\" says Lupu."
+            },
+            {
+              "label": "H",
+              "text": "New York University's Lechner agrees that finding that balance is an ongoing pursuit. It's not simply about dividing up the hours in your day between work, the gym, kids and chores. If the underlying emotional sources of stress are still there, then the time you actually spend at home may not be enjoyable. \"We come home and even though physically we are there, mentally we still may be processing things that happened at work. We're not present,\" she says. What we call \"work-life balance\" is actually just a substitute to having a sense of fulfillment and contentment."
+            },
+            {
+              "label": "I",
+              "text": "Of course, finding that balance probably shouldn't be something you have to do by yourself. Research by Erin Kelly, professor of work and organisation studies at MIT, shows companies and managers can play a key role in creating a better environment for workers. For her book Overload: How Good Jobs Went Bad and What to Do about It, she and co-author Phyllis Moen split more than 1,000 employees at a Fortune 500 company into two groups, one that worked under a management redesign and one that continued working within the existing management structure."
+            },
+            {
+              "label": "J",
+              "text": "Under the management redesign, many steps were taken to ensure better work-life balance and prevent burnout(精疲力竭). Managers were regularly reminded to explicitly support their employees. Workers were allowed to make changes, like cancelling 9 am meetings. All of this was done in the name of increasing job satisfaction and giving workers greater flexibility, and to assure workers that it was something management was committed to. Unsurprisingly, Kelly and Moen found that employees in the redesign group reported less stress and less burnout. They were less likely to quit their jobs; indeed, over the next four years, they were 40% less likely to quit than those who kept working under the old policies."
+            },
+            {
+              "label": "K",
+              "text": "\"Work-life balance is understood to be an individual's response, so people think 'it's up to me to manage the craziness of my work life'\", says Kelly. But organisations need to examine the demands they're placing on employees. \"The root problem is not how the two pieces of work and life come together. It's that we have unrealistic expectations of what we're asked to do on the work side.\" If your workplace isn't an environment where work-life balance is possible in the first place, any effort you attempt to make toward it on a personal level will be in vain."
+            },
+            {
+              "label": "L",
+              "text": "That's a conversation that appears to be gathering pace. The new prevalence of remote and flexible working models will likely all play important roles in how we balance our professional and personal lives. And if it seems like finding that perfect balance remains difficult to achieve, the experts say that keeping some perspective can help. For millions of people, work is about being able to put food on the table. Talking about work-life balance \"is a very privileged conversation\", says Lechner. \"If we're reflecting, maybe we should also reflect on that.\""
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "According to a management expert, work-life balance is not as simple as giving equal amounts of time to work and personal life.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（强锚点）\n【原文】But the problem is that we often tell ourselves: \"I'm going to put in eight hours' worth of work, and then I'm going to put in eight hours' worth of 'me time', which will include my family, my hobbies, my workout, my everything,\" says Anat Lechner, clinical associate professor of management at New York University. \"I don't think it's such a simple formula.\"\n但问题在于，我们常常对自己说：\"我要投入八小时来工作，然后再投入八小时给\"自己的时间\"，包括家人、爱好、锻炼、一切。\"纽约大学管理学临床副教授 Anat Lechner 说。\"我不认为它是一个这么简单的公式。\""
+            },
+            {
+              "number": 37,
+              "stem": "Research found that those who are given greater flexibility at work are less stressed and more likely to stay in their jobs.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】Unsurprisingly, Kelly and Moen found that employees in the redesign group reported less stress and less burnout. They were less likely to quit their jobs; indeed, over the next four years, they were 40% less likely to quit than those who kept working under the old policies.\nI 段只说 split more than 1,000 employees at a Fortune 500 company into two groups 这种实验设置，未提到\"压力更小\"\"更愿留任\"，因此尽管同样涉及灵活性话题，也只能算邻段，不是源头段。"
+            },
+            {
+              "number": 38,
+              "stem": "Workers who rejected working long hours tended to make regular adjustments in order to achieve work-life balance.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】Lupu and Ruiz-Castro looked at those who rejected the long hours and they found that those workers actually had strikingly similar strategies for maintaining their work-life balance. They had a tendency to reflect and question assumptions in the name of self-awareness and regularly took steps to adjust the things standing in their way to work-life balance.\nD 段 about 30% of the men and 50% of the women reported resisting working long hours 只在分类陈述群体，未提及他们\"定期调整\"等策略，不能承载陈述句的核心信息。"
+            },
+            {
+              "number": 39,
+              "stem": "Talking about work-life balance is said to be a privilege reserved for the better-off, not for those who barely make a living.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "L",
+                  "text": "Paragraph L"
+                }
+              ],
+              "answer": "L",
+              "type": "信息匹配",
+              "analysis": "【答案】L（强锚点）\n【原文】For millions of people, work is about being able to put food on the table. Talking about work-life balance \"is a very privileged conversation\", says Lechner. \"If we're reflecting, maybe we should also reflect on that.\"\n对于数百万人来说，工作就是为了能把饭端上桌。谈论工作-生活平衡，\"是一场非常特权化的对话\"，Lechner 说。\"如果我们在反思，或许我们也该反思一下这一点。\""
+            },
+            {
+              "number": 40,
+              "stem": "Knowing one's emotional state is of utmost importance in deciding what changes to make for a better work-life balance.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】\"Awareness of your emotional state is essential in order to determine the changes you want to make in your work and in your life,\" says Lupu.\nF 段 they zeroed in on their resultant emotions 只是五步中的第二步，没有说情绪觉察\"至关重要\"，没有承载\"of utmost importance\"这层定性。"
+            },
+            {
+              "number": 41,
+              "stem": "More female professionals reported being reluctant to work overtime than their male counterparts.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】Although it sounds like the respondents had a lot in common, here's what separated them: about 30% of the men and 50% of the women reported resisting working long hours.\nE 段 those who rejected the long hours 只是接着 D 段往下讲他们的策略，但没有出现 30% 或 50% 这种数字，也没有出现男女对比的字眼，不能承载本题男女比例对比的信息。"
+            },
+            {
+              "number": 42,
+              "stem": "Without organisational support, any personal effort to maintain work-life balance will be unsuccessful.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】If your workplace isn't an environment where work-life balance is possible in the first place, any effort you attempt to make toward it on a personal level will be in vain.\nI 段 companies and managers can play a key role in creating a better environment for workers 只说组织可以起作用，没有给出\"如果组织不支持，个人努力将徒劳\"的反向结论。"
+            },
+            {
+              "number": 43,
+              "stem": "The question of how to achieve work-life balance has long been the main subject of discussion among workers.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】Few topics have been so endlessly analysed as work-life balance. The quest to attain this mysterious state has dominated discussion around careers for years—especially for working parents.\nC 段 Some researchers are now encouraging us to stop thinking about work-life balance as an achievement 是新研究角度，没有出现\"长期/主要话题\"这种总起判断。"
+            },
+            {
+              "number": 44,
+              "stem": "You may not actually experience emotional wellbeing at home if you remain occupied with what happened at work.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（强锚点）\n【原文】If the underlying emotional sources of stress are still there, then the time you actually spend at home may not be enjoyable. \"We come home and even though physically we are there, mentally we still may be processing things that happened at work. We're not present,\" she says.\nB 段 I'm going to put in eight hours' worth of work, and then I'm going to put in eight hours' worth of 'me time' 只是讨论时间公式，没有出现\"身体在心理不在\"这种意象。"
+            },
+            {
+              "number": 45,
+              "stem": "Some researchers suggest that work-life balance is not a goal to achieve, but a process for life to be adjusted promptly.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】Some researchers are now encouraging us to stop thinking about work-life balance as an achievement that you either hit or don't. Instead, they suggest it may be more of a lifelong process—a continuous, never-ending exercise that requires self-awareness and timely adjustments. Researchers Ioana Lupu and Mayra Ruiz-Castro argue that work-life balance is \"a cycle, not an achievement\".\n2024年12月英语四级真题第1套 长篇阅读（信息匹配） 第 1 篇 36. According to a management expert, work-life balance is not as simple as giving equal amounts of time to work and personal life. 这句陈述的信息出自第几段？为什么？ 2024年12月英语四级真题第1套 长篇阅读（信息匹配） 第 1 篇 第 36 句的信息出自 B 段（强锚点句）。B 段定位句为「But the problem is that we often tell ourselves: \"I'm going to put in eight hours' worth of work, and then I'm going to put in eight hours' worth of 'me time', which will include my family, my hobbies, my workout, my everything,\" says Anat Lechner, clinical associate professor of management at New York University. \"I don't think it's such a simple formula.\"」（但问题在于，我们常常对自己说：\"我要投入八小时来工作，然后再投入八小时给\"自己的时间\"，包括家人、爱好、锻炼、一切。\"纽约大学管理学临床副教授 Anat Lechner 说。\"我不认为它是一个这么简单的公式。\"）。陈述句是对原文的同义改写（According to a management expert ↔ Anat Lechner, clinical associate professor of management at New York University；not as simple as giving equal amounts of time to work and personal life ↔ eight hours' worth of work, and then I'm going to put in eight hours' worth of 'me time'；not as simple as ↔ I don't think it's such a simple formula）。该句锚点唯一、直达对应段，文中无易混的相邻段。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The weakening of the human connection to nature might be good for economic growth but is bad for people. A tipping point was reached in 2020 when human-made materials—such as steel, concrete and plastic—were found to weigh more than all life on Earth. Continuing to grow concrete forests rather than real ones is shortsighted. Simply being in the nearest wood has such health benefits that the Woodland Trust successfully lobbied for it to be prescribed by doctors."
+            },
+            {
+              "label": "B",
+              "text": "Yet slipping from popular culture is the wonder and beauty of the natural world. For every three nature-related words in hit songs of the 1950s, researchers found, there was only slightly more than one 50 years later. It is not a moment too soon that teenagers will be able to take a natural history test, given that for decades children have been able to name more video game characters than wildlife species."
+            },
+            {
+              "label": "C",
+              "text": "Part of remedying this social disease would be for parliament to pass a \"right to grow\" law, allowing anyone to turn underused public spaces into vegetable and fruit gardens. The idea is for people to get back in touch with the soil—while producing food sustainably."
+            },
+            {
+              "label": "D",
+              "text": "Vegetable planting has a respectable tradition. In April 1649, locals responded to high prices and food shortages by cultivating vegetables on common land in Southern England. The practice of throwing seed bombs to turn vacant plots of land green took off in 1970s New York, and has been revived(使复活) by green-thumbed(有园艺才能的) social media influencers who defy local US regulations in a war on ugly spots in cities."
+            },
+            {
+              "label": "E",
+              "text": "Apart from the urgent task of providing more healthy nutrients to those who increasingly can't afford them, publicly accessible fruit and vegetable gardens connect what we eat to where it comes from—the means of production, if you will. They can make unlovely spaces lovely, and marry use and beauty as well as help promote a sense of community. Plants are also, of course, our first defence against species loss and climate change. Such planting is a small step for humanity—in the right direction."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author want to emphasise in the first paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The year 2020 was a big turning point in human history."
+                },
+                {
+                  "key": "B",
+                  "text": "Economic growth benefits people little in the long run."
+                },
+                {
+                  "key": "C",
+                  "text": "It is unwise to weaken the human connection to nature."
+                },
+                {
+                  "key": "D",
+                  "text": "It is harmful to mankind to use human-made materials."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（主旨题）\nA) 以偏概全：The year 2020 was a big turning point in human history. 把段落里一个支撑论据（2020 年的 tipping point）当\nB) 偷换概念：Economic growth benefits people little in the long run. 把原文\"对经济或许有利\"扭曲成\"经济增长对人没好处\"，攻击点从\"与自\nC) ✓ 正确：The weakening of the human connection to nature might be good for economic growth but is b\nD) 过度推断：It is harmful to mankind to use human-made materials. 把\"人造物总质量超过生命\"这一比较事实，推断成\"使用人造物本身就有害\"，"
+            },
+            {
+              "number": 47,
+              "stem": "What did researchers find about popular culture?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is increasingly detached from the natural world."
+                },
+                {
+                  "key": "B",
+                  "text": "It is filled with all kinds of video game characters."
+                },
+                {
+                  "key": "C",
+                  "text": "It is especially appealing to the taste of teenagers."
+                },
+                {
+                  "key": "D",
+                  "text": "It is still impacted by the hit songs of the 1950s."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】For every three nature-related words in hit songs of the 1950s, researchers found, there was only slightly more than one 50 years later.\nA) ✓ 正确：For every three nature-related words in hit songs of the 1950s, researchers found, there w\nB) 偷换概念：It is filled with all kinds of video game characters. 把原文\"孩子认识的游戏角色比野生动物多\"偷换成\"流行文化里充斥着游戏角色\nC) 无中生有：It is especially appealing to the taste of teenagers. 全句\"对青少年口味格外有吸引力\"在 P2 中没有任何对应；原文只是提到青\nD) 与原文相反：It is still impacted by the hit songs of the 1950s. 说流行文化仍受 50 年代流行歌曲影响，但原文用 50 年代和 50 年后的"
+            },
+            {
+              "number": 48,
+              "stem": "What does the author propose people do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Take measures to ensure sustainable food development."
+                },
+                {
+                  "key": "B",
+                  "text": "Reconnect with nature through the right to grow."
+                },
+                {
+                  "key": "C",
+                  "text": "Stand by the parliament in fighting social diseases."
+                },
+                {
+                  "key": "D",
+                  "text": "Cover public spaces with fruit trees and vegetable plants."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Part of remedying this social disease would be for parliament to pass a \"right to grow\" law, allowing anyone to turn underused public spaces into vegetable and fruit gardens. The idea is for people to get back in touch with the soil—while producing food sustainably.\nA) 以偏概全：Take measures to ensure sustainable food development. 把原文末尾\"while producing food sustainab\nB) ✓ 正确：Part of remedying this social disease would be for parliament to pass a \"right to grow\" la\nC) 偷换概念：Stand by the parliament in fighting social diseases. 把\"议会通过法案\"偷换成\"人们站在议会一边\"，方向完全反过来——原文是作者\nD) 过度推断：Cover public spaces with fruit trees and vegetable plants. 把原文\"allowing anyone to turn und"
+            },
+            {
+              "number": 49,
+              "stem": "What do we learn from the passage about vegetable planting?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It all started in 1649 in Southern England."
+                },
+                {
+                  "key": "B",
+                  "text": "It is protected by US government regulations."
+                },
+                {
+                  "key": "C",
+                  "text": "It has long been used to increase food supply and improve urban landscape."
+                },
+                {
+                  "key": "D",
+                  "text": "It has been popularised worldwide with the increasing influence of social media."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】In April 1649, locals responded to high prices and food shortages by cultivating vegetables on common land in Southern England. The practice of throwing seed bombs to turn vacant plots of land green took off in 1970s New York, and has been revived by green-thumbed social media influencers who defy local US regulations in a war on ugly spots in cities.\nA) 以偏概全：It all started in 1649 in Southern England. 把段内一个时间点放大为\"全部起源\"，原文只说 1649 年发生过一次，并未说蔬菜种植起源于此\nB) 与原文相反：It is protected by US government regulations. 与原文 defy local US regulations 直接相反：原文说网红\"无视\"\nC) ✓ 正确：locals responded to high prices and food shortages by cultivating vegetables on common lan\nD) 过度推断：It has been popularised worldwide with the increasing influence of social media. 把原文里\"1970"
+            },
+            {
+              "number": 50,
+              "stem": "What can publicly accessible fruit and vegetable gardens do apart from their practical functions?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Raise people's environmental awareness."
+                },
+                {
+                  "key": "B",
+                  "text": "Add to the great variety of plant species."
+                },
+                {
+                  "key": "C",
+                  "text": "Act as the first defence against natural disasters."
+                },
+                {
+                  "key": "D",
+                  "text": "Enhance people's community spirit."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】They can make unlovely spaces lovely, and marry use and beauty as well as help promote a sense of community.\nA) 偷换概念：Raise people's environmental awareness. 把\"连接食物与产地、对抗物种丧失\"偷换成\"提升环保意识\"，前者是行为层面的连接和效用，后者是心理认知\nB) 无中生有：Add to the great variety of plant species. 说菜园会增加植物物种多样性，原文从未谈\"增加植物物种多样性\"这一功能。\nC) 偷换概念：Act as the first defence against natural disasters. 把 first defence against species loss a\nD) ✓ 正确：help promote a sense of community ↔ Enhance people's community spirit. 预判要的\"增强社区感\"在原文里有直接对"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Engineering in the U.S. has long been a male-dominated profession. Fifty years ago, it looked like that might change."
+            },
+            {
+              "label": "B",
+              "text": "In 1970, the percentage of women majoring in engineering was less than 1%. In 1979, that number was 9%. Many hoped women would continue to enter the field at the same rate. But that's not what happened. Today, only 21% of engineering majors are women, a number largely unchanged since 2000."
+            },
+            {
+              "label": "C",
+              "text": "I am a historian who, along with my colleagues, surveyed 251 women engineers who graduated from college in the 1970s. These pioneers reflected on the challenges they faced—and had advice for women entering the field today."
+            },
+            {
+              "label": "D",
+              "text": "One survey taker explained, \"The greatest challenge for me was continuing to believe in myself, when all the messages I was getting were that I would never be taken seriously or promoted or given raises at the same rate as men, who were clearly less qualified and not as smart as I was.\""
+            },
+            {
+              "label": "E",
+              "text": "A chemical engineer who worked in manufacturing agreed, \"You have to prove yourself just because you are female. And you have to work twice as hard!\""
+            },
+            {
+              "label": "F",
+              "text": "A civil engineer said, \"We are 'women engineers.' People don't refer to a man as a 'man engineer'—he's an engineer. We are constantly reminded that we don't truly belong.\" Another civil engineer stated, \"On many levels, you're never quite one of the groups.\""
+            },
+            {
+              "label": "G",
+              "text": "Women also talked about family caregiving responsibilities. A retired vice president from a major chemical company stated, \"Young women engineers are on an equal footing until they have children, then they struggle to balance work and family—and compete with men who don't have the same household responsibilities.\""
+            },
+            {
+              "label": "H",
+              "text": "But over the years things have changed a lot. Young women engineers are more accepted mostly because there are just more of them."
+            },
+            {
+              "label": "I",
+              "text": "Many women engineers hailed the benefits of their chosen career. A program manager in manufacturing stated that engineering is the best degree. A mechanical engineer said, \"It will give you the flexibility to do almost anything. It is also satisfying to see the effects of what you have done.\""
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the passage say about the engineering profession in the United States?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has seen a change in attitude towards women engineers since 1979."
+                },
+                {
+                  "key": "B",
+                  "text": "It witnessed a significant increase in women engineers in the 1970s."
+                },
+                {
+                  "key": "C",
+                  "text": "It has experienced the gradual weakening of male dominance."
+                },
+                {
+                  "key": "D",
+                  "text": "It boasted the largest number of engineering majors in 2000."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】In 1970, the percentage of women majoring in engineering was less than 1%. In 1979, that number was 9%. Many hoped women would continue to enter the field at the same rate. But that's not what happened.\nA) 无中生有：原文只给比例数据，没有提任何\"对待女工程师态度的变化\"，a change in attitude towards women engineers since 1979 属于凭空添加\nB) ✓ 正确：In 1970, the percentage of women majoring in engineering was less than 1%. In 1979, that n\nC) 与原文相反：Today, only 21% of engineering majors are women, a number largely unchanged since 2000 明确说\nD) 偷换概念：原文 2000 年只是\"21% 未变\"的起算点，并未说 2000 年工程专业人数达到最大，boasted the largest number of engineering maj"
+            },
+            {
+              "number": 52,
+              "stem": "What does one survey taker say was her greatest challenge?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Not to feel superior to less qualified male engineers."
+                },
+                {
+                  "key": "B",
+                  "text": "Not to take seriously all the messages she was getting."
+                },
+                {
+                  "key": "C",
+                  "text": "Not to think highly of her qualifications when promoted or given a pay raise."
+                },
+                {
+                  "key": "D",
+                  "text": "Not to lose self-confidence though constantly discouraged or unfairly treated."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】The greatest challenge for me was continuing to believe in myself, when all the messages I was getting were that I would never be taken seriously or promoted or given raises at the same rate as men, who were clearly less qualified and not as smart as I was.\nA) 偷换概念：原文受访者只是说\"那些男性明显不如我合格\"，是事实陈述；Not to feel superior to less qualified male engineers 把它扭曲成\"不要\nB) 答非所问：原文 all the messages I was getting 是\"挑战的背景\"，不是\"挑战本身\"；B 项却把\"不要把这些信息当真\"说成挑战，错把背景当主体。\nC) 与原文相反：原文说\"她被晋升/加薪的待遇不如男性\"，C 项却说\"在被晋升/加薪时不要看高自己的资历\"，既颠倒了情境（她没有被同等晋升），也错读了态度。\nD) ✓ 正确：continuing to believe in myself ↔ Not to lose self-confidence all the messages I was getti"
+            },
+            {
+              "number": 53,
+              "stem": "How do women engineers frequently feel according to the two civil engineers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Disqualified on many levels."
+                },
+                {
+                  "key": "B",
+                  "text": "Excluded from the group."
+                },
+                {
+                  "key": "C",
+                  "text": "Overworked by their organizations."
+                },
+                {
+                  "key": "D",
+                  "text": "Looked down upon by male colleagues."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】A civil engineer said, \"We are 'women engineers.' People don't refer to a man as a 'man engineer'—he's an engineer. We are constantly reminded that we don't truly belong.\" Another civil engineer stated, \"On many levels, you're never quite one of the groups.\"\nA) 偷换概念：原文 On many levels, you're never quite one of the groups 中的 on many levels 修饰\"在多个层面上\"不属于群体，\nB) ✓ 正确：We are constantly reminded that we don't truly belong ↔ Excluded from the group you're nev\nC) 张冠李戴：P6 全段谈的是\"不属于群体\"的归属感问题，根本未涉及工作量；Overworked by their organizations 是从 work twice as hard 借来的\nD) 过度推断：原文两位土木工程师讲的是\"被整个圈子提醒不属于\"，并未具体说\"是男同事看低自己\"；Looked down upon by male colleagues 把抽象的群体压缩成\"男同事"
+            },
+            {
+              "number": 54,
+              "stem": "What probably makes young women engineers more accepted nowadays?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their success in gaining an equal footing."
+                },
+                {
+                  "key": "B",
+                  "text": "Their ability to balance work and family."
+                },
+                {
+                  "key": "C",
+                  "text": "The change in their responsibilities."
+                },
+                {
+                  "key": "D",
+                  "text": "The increase in their number."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Young women engineers are more accepted mostly because there are just more of them.\nA) 张冠李戴：原文 Young women engineers are on an equal footing until they have children 只说\"育前与男性平起平坐\"，是过\nB) 与原文相反：原文 then they struggle to balance work and family 明明说\"在生育后她们挣扎于平衡工作与家庭\"，B 项却说\"她们有能力平衡工作与家庭\"\nC) 无中生有：原文 compete with men who don't have the same household responsibilities 提到\"家庭责任不对等\"，但从未说女工程\nD) ✓ 正确：there are just more of them ↔ The increase in their number 预判要\"人数变多\"，D 项 The increase in t"
+            },
+            {
+              "number": 55,
+              "stem": "What can we conclude about many female engineers from the statement of a mechanical engineer?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They take great pride in their chosen career."
+                },
+                {
+                  "key": "B",
+                  "text": "They have reaped the benefits of being flexible."
+                },
+                {
+                  "key": "C",
+                  "text": "They enjoy doing engineering to the best degree."
+                },
+                {
+                  "key": "D",
+                  "text": "They have proved capable of doing almost anything."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（推断题）\n【原文】Many women engineers hailed the benefits of their chosen career. A program manager in manufacturing stated that engineering is the best degree. A mechanical engineer said, \"It will give you the flexibility to do almost anything. It is also satisfying to see the effects of what you have done.\"\nA) ✓ 正确：Many women engineers hailed the benefits of their chosen career ↔ They take great pride in\nB) 偷换概念：原文 give you the flexibility to do almost anything 是说\"这份职业能给你灵活度\"，强调的是职业本身的属性；B 项 reaped th\nC) 无中生有：原文 engineering is the best degree 是\"工程是最好的学位\"，整体作主系表；C 项 enjoy doing engineering to the be\nD) 过度推断：原文 give you the flexibility to do almost anything 是工程这个职业\"能让你\"做几乎任何事，是潜在可能；D 项 proved capa"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n中国政府十分重视环境保护。近年来,中国在减少空气、水和土壤污染上取得了显著成效。为了不断改善人们的生活环境,中国采取了一系列有效措施,包括大力发展清洁能源,改善公共交通,推广共享单车,实施垃圾分类。通过这些措施,中国的城市和农村正在绿起来、美起来。中国还积极参与国际合作,为全球环境保护做出了重要贡献。",
+              "analysis": "【参考译文】\nThe Chinese government attaches great importance to environmental protection. In recent years, China has made remarkable progress in reducing air, water and soil pollution. To continuously improve people's living environment, China has taken a series of effective measures, including developing clean energy, improving public transportation, promoting shared bikes and implementing garbage classification. Thanks to these measures, both urban and rural areas in China are becoming greener and more beautiful. China also actively participates in international cooperation, making important contributions to global environmental protection."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 66
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2024-12-1/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

@@ -14,6 +14,22 @@ export type WordClickPayload = {
   charOffset: number;
 };
 
+/**
+ * 选词填空的内联空号渲染配置。
+ * 空号在正文里长这样：`A 26______ office block`，这里把它换成一个可点击的芯片，
+ * 填过之后直接显示单词，交卷后按对错着色 —— 和纸质卷子上「在横线上写字母」一致。
+ */
+export type BlankRender = {
+  /** 需要内联渲染的空号（其余空号当普通文字处理） */
+  numbers: number[];
+  /** 空号 → 已选词 */
+  values: Record<number, { key: string; word: string } | undefined>;
+  /** 交卷后的对错 */
+  status: Record<number, "correct" | "wrong" | undefined>;
+  active: number | null;
+  onPick: (number: number) => void;
+};
+
 type Props = {
   title: string | null;
   paragraphs: Paragraph[];
@@ -22,6 +38,7 @@ type Props = {
   /** 左栏滚动容器，交给 shell 管理滚动位置 */
   scrollRef: React.RefObject<HTMLDivElement | null>;
   onScroll: () => void;
+  blank?: BlankRender;
 };
 
 /**
@@ -29,7 +46,15 @@ type Props = {
  * 逐段渲染 + 段落字母标记 + 单词级可点 + 字号调节 + 依据段落跳转高亮。
  * 本组件不持有滚动状态，滚动位置由 shell 统一管理（保证切题时左栏纹丝不动）。
  */
-export function ArticlePane({ title, paragraphs, passageId, onWordClick, scrollRef, onScroll }: Props) {
+export function ArticlePane({
+  title,
+  paragraphs,
+  passageId,
+  onWordClick,
+  scrollRef,
+  onScroll,
+  blank,
+}: Props) {
   const fontSize = usePracticeStore((s) => s.fontSize);
   const setFontSize = usePracticeStore((s) => s.setFontSize);
   const vocabWords = usePracticeStore((s) => s.vocabWords);
@@ -98,6 +123,7 @@ export function ArticlePane({ title, paragraphs, passageId, onWordClick, scrollR
               paragraph={paragraph}
               isLast={index === paragraphs.length - 1}
               vocabWords={vocabWords}
+              blank={blank}
               registerRef={(node) => {
                 paraRefs.current[paragraph.label] = node;
               }}
@@ -114,7 +140,9 @@ export function ArticlePane({ title, paragraphs, passageId, onWordClick, scrollR
           ))}
 
           <p className="mt-10 border-t border-line pt-4 text-[12px] leading-relaxed text-ink-mute">
-            点任意单词查释义 · 已加入生词本的词会显示淡黄底 · 段落字母对应题目解析里的「依据段落」
+            {blank && blank.numbers.length > 0
+              ? "点带下划线的空号即可选题 · 点任意单词查释义 · 已加入生词本的词显示淡黄底"
+              : "点任意单词查释义 · 已加入生词本的词会显示淡黄底 · 段落字母对应题目解析里的「依据段落」"}
           </p>
         </div>
       </div>
@@ -124,21 +152,59 @@ export function ArticlePane({ title, paragraphs, passageId, onWordClick, scrollR
   );
 }
 
+type Piece =
+  | { kind: "text"; text: string; offset: number }
+  | { kind: "blank"; number: number };
+
+/** 把正文按空号切段：文字段保留原始偏移，空号段单独成片 */
+function splitBlanks(text: string, numbers: Set<number>, enabled: boolean): Piece[] {
+  if (!enabled || numbers.size === 0) return [{ kind: "text", text, offset: 0 }];
+
+  const pieces: Piece[] = [];
+  const pattern = /\b(\d{2})\s*_{2,}/g;
+  let last = 0;
+  let match: RegExpExecArray | null;
+
+  while ((match = pattern.exec(text)) !== null) {
+    const number = Number(match[1]);
+    if (!numbers.has(number)) continue;
+    if (match.index > last) {
+      pieces.push({ kind: "text", text: text.slice(last, match.index), offset: last });
+    }
+    pieces.push({ kind: "blank", number });
+    last = match.index + match[0].length;
+  }
+
+  if (pieces.length === 0) return [{ kind: "text", text, offset: 0 }];
+  if (last < text.length) pieces.push({ kind: "text", text: text.slice(last), offset: last });
+  return pieces;
+}
+
 function ParagraphBlock({
   paragraph,
   isLast,
   vocabWords,
+  blank,
   registerRef,
   onClickWord,
 }: {
   paragraph: Paragraph;
   isLast: boolean;
   vocabWords: Record<string, string>;
+  blank?: BlankRender;
   registerRef: (node: HTMLElement | null) => void;
   onClickWord: (word: string, rect: DOMRect, charOffset: number) => void;
 }) {
   // 分词结果按段落文本缓存：字号变化、生词增删都不会重算
   const tokens = useMemo(() => tokenizeParagraph(paragraph.text), [paragraph.text]);
+
+  const blankNumbers = blank?.numbers ?? [];
+  const blankKey = blankNumbers.join(",");
+  const pieces = useMemo(
+    () => splitBlanks(paragraph.text, new Set(blankNumbers), Boolean(blank)),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [paragraph.text, blankKey, Boolean(blank)],
+  );
 
   // 点段落字母：高亮本段 1.5 秒（对应 PRD「点击段落可定位高亮」）
   const flashSelf = (node: HTMLElement | null) => {
@@ -178,23 +244,43 @@ function ParagraphBlock({
           onClickWord(word, target.getBoundingClientRect(), Number(target.dataset.offset ?? -1));
         }}
       >
-        {tokens.map((token) => {
-          if (token.kind === "gap") return token.text;
+        {pieces.map((piece, index) => {
+          if (piece.kind === "blank") {
+            return (
+              <BlankChip
+                key={`b${piece.number}-${index}`}
+                number={piece.number}
+                value={blank?.values[piece.number]}
+                status={blank?.status[piece.number]}
+                active={blank?.active === piece.number}
+                onPick={() => blank?.onPick(piece.number)}
+              />
+            );
+          }
 
-          const key = normalizeForVocab(token.text);
-          const inVocab = key in vocabWords;
-
+          const pieceTokens = pieces.length === 1 ? tokens : tokenizeParagraph(piece.text);
           return (
-            <span
-              key={token.key}
-              data-word={token.text}
-              data-offset={token.start}
-              role="button"
-              tabIndex={-1}
-              title={inVocab ? (vocabWords[key] ?? "") : undefined}
-              className={`word ${inVocab ? "word-in-vocab" : ""}`}
-            >
-              {token.text}
+            <span key={`t${index}`}>
+              {pieceTokens.map((token) => {
+                if (token.kind === "gap") return token.text;
+
+                const key = normalizeForVocab(token.text);
+                const inVocab = key in vocabWords;
+
+                return (
+                  <span
+                    key={token.key}
+                    data-word={token.text}
+                    data-offset={piece.offset + token.start}
+                    role="button"
+                    tabIndex={-1}
+                    title={inVocab ? (vocabWords[key] ?? "") : undefined}
+                    className={`word ${inVocab ? "word-in-vocab" : ""}`}
+                  >
+                    {token.text}
+                  </span>
+                );
+              })}
             </span>
           );
         })}
@@ -202,3 +288,50 @@ function ParagraphBlock({
     </article>
   );
 }
+
+/**
+ * 正文里的一个空号。
+ * 没填时显示「26 ＿＿」，填了显示单词；交卷后按对错着色，与右栏清单颜色一致。
+ */
+function BlankChip({
+  number,
+  value,
+  status,
+  active,
+  onPick,
+}: {
+  number: number;
+  value?: { key: string; word: string };
+  status?: "correct" | "wrong";
+  active: boolean;
+  onPick: () => void;
+}) {
+  const tone =
+    status === "correct"
+      ? "border-correct bg-correct-soft text-correct"
+      : status === "wrong"
+        ? "border-wrong bg-wrong-soft text-wrong"
+        : active
+          ? "border-accent bg-accent-soft text-accent"
+          : value
+            ? "border-ink-mute/60 bg-paper-deep/70 text-ink"
+            : "border-ink-mute/45 text-ink-mute hover:border-accent hover:text-accent";
+
+  return (
+    <button
+      type="button"
+      onClick={(event) => {
+        event.stopPropagation();
+        onPick();
+      }}
+      aria-label={
+        value ? `第 ${number} 空，已选 ${value.key} ${value.word}` : `第 ${number} 空，尚未作答`
+      }
+      className={`mx-[1px] inline-flex items-baseline gap-1 rounded-[4px] border-b-2 px-1.5 align-baseline font-sans text-[0.82em] leading-[1.5] transition-colors ${tone}`}
+    >
+      <span className="font-mono text-[0.78em] opacity-70">{number}</span>
+      <span className={value ? "font-medium" : "opacity-40"}>{value ? value.word : "＿＿"}</span>
+    </button>
+  );
+}
+

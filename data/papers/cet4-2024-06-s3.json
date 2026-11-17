@@ -1,0 +1,2528 @@
+{
+  "id": "cet4-2024-06-s3",
+  "level": "CET4",
+  "year": 2024,
+  "month": 6,
+  "setNo": 3,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose your university is seeking students’ opinions on whether university canteens should be open to the public. You are now to write an essay to express your view. You will have 30 minutes for the task. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nRecently, our university has been collecting opinions on whether campus canteens should welcome outside visitors. In my view, opening them to the public is a wise move that benefits both the campus and the community.\n\nFor one thing, university canteens usually offer clean and affordable meals, so opening them can relieve the dining pressure faced by nearby residents and office workers who struggle to find cheap lunches. For another, the extra income earned from these visitors allows canteens to upgrade their equipment and even lower prices for students. Admittedly, more diners may cause crowding and raise safety concerns; however, such problems can be eased by setting fixed visiting hours and checking visitors at the gate.\n\nTherefore, I firmly believe that a properly managed open canteen is worthwhile. As long as student needs come first, sharing this resource makes our university a warmer part of society."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "本场次听力只有一份音频，本套听力与同场第一套同卷；原文、题目与答案取自该套真题。考场多套卷的选项顺序可能不同，这里沿用第一套的顺序。在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 18.8,
+              "text": "Six people had to move away from their home to another place after a fire broke out in a building on Main Street Saturday, officials said. Firefighters responded to the three-story building shortly after 1 p.m. for a reported structure fire, according to Norwalk Deputy Fire Chief Adam Markowitz.",
+              "zh": "官员称,周六Main Street一栋建筑发生火灾后,六人不得不从家中搬到另一个地方。据Norwalk消防副局长Adam Markowitz称,消防员在下午1点刚过就接到建筑物火灾报告后赶到了这栋三层建筑。"
+            },
+            {
+              "id": 2,
+              "start": 19.2,
+              "end": 39.2,
+              "text": "Markowitz said crews encountered heavy smoke coming from the second floor when they arrived. A team of about 25 firefighters then spent about 25 minutes extinguishing the flames. Officials described the structure as a mixed-use building that features commercial businesses on the first floor and residential on the second and third floors.",
+              "zh": "Markowitz说,消防人员到达时遇到从二楼冒出的浓烟。随后约25名消防员组成的队伍花了大约25分钟扑灭了火焰。官员将该建筑描述为一栋混合用途建筑,一楼为商业店铺,二楼和三楼为住宅。"
+            },
+            {
+              "id": 3,
+              "start": 39.6,
+              "end": 60.3,
+              "text": "Town records list four apartments in the building. Due to smoke and heat damage, the four apartments were declared uninhabitable, and the six residents had to move to another place, officials said. No injuries were reported in connection with the fire. The Norwalk Fire Marshal is investigating the cause and origin of the fire.",
+              "zh": "城镇记录显示该建筑内有四套公寓。官员称,由于烟雾和高温破坏,这四套公寓被宣布不适宜居住,六名居民不得不搬到另一个地方。没有关于火灾造成人员伤亡的报告。Norwalk消防局长正在调查火灾的原因和起源。"
+            }
+          ],
+          "audioDuration": 60.3,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "Why did the six residents have to find another place to stay?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Due to a fire alarm in their apartments."
+                },
+                {
+                  "key": "B",
+                  "text": "Because of the smoke and heat damage."
+                },
+                {
+                  "key": "C",
+                  "text": "Due to the water used to extinguish the flames."
+                },
+                {
+                  "key": "D",
+                  "text": "Because of the collapse of the three-story building."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：Due to smoke and heat damage, the four apartments were declared uninhabitable, and the six residents had to move to another place, officials said.信号：因果信号 Due to 引出原因 。答案句以 Due to smoke and heat damage 开头，Due to 是明确的因果信号，紧接着就是结果 the six residents had to move…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 说因 a fire alarm in their apartments（公寓里的火警铃）。录音确实通篇讲 fire（火灾），但从没说居民因为「火警铃响」才搬走，搬离的真正原因是烟热损坏。它借你对 fire 的耳熟来骗选。 借用原文：extinguishing the flames",
+                "C": "原词陷阱：C 说因 the water used to extinguish the flames（灭火用的水）。录音里确有 extinguishing the flames（扑灭火焰）这个动作，但只讲了灭火过程，从没说「水渍」让公寓不能住。它盗用 extinguish the flames 制造熟悉感。 借用原文：the three-story building",
+                "D": "原词陷阱：D 说因 the collapse of the three-story building（三层楼坍塌）。录音确有 the three-story building（三层楼）这个词，但全文只字未提坍塌，反而说 No injuries were reported（无人受伤）。它盗用 three-story building，再编一个没发生的「坍塌」。",
+                "B": "正确项：与答案句同义替换（Due to smoke and heat damage ↔ Because of the smoke and heat damage Due to 与 Because of 同义替换）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Due to smoke and heat damage, the four apartments were declared uninhabitable, and the six residents had to move to another place, officials said.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What does the news report say the Norwalk Fire Marshal is doing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Investigating the cause of the incident."
+                },
+                {
+                  "key": "B",
+                  "text": "Helping search for the suspect of the crime."
+                },
+                {
+                  "key": "C",
+                  "text": "Rescuing the businessmen trapped in the building."
+                },
+                {
+                  "key": "D",
+                  "text": "Checking town records for the property developer."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：The Norwalk Fire Marshal is investigating the cause and origin of the fire.信号：主体名 Fire Marshal 后的动作 。录音末句直接出现题目要找的主体 The Norwalk Fire Marshal，紧跟其后的动词 is investigating the cause and origi…",
+              "optionAnalysis": {
+                "B": "未提及：B 说在 Helping search for the suspect of the crime（帮忙搜捕嫌犯）。录音通篇是火灾事故，没有任何「嫌犯 / 犯罪」字眼，消防局长做的是调查起因，不是抓人。",
+                "C": "原词陷阱：C 说在 Rescuing the businessmen trapped in the building（营救被困商人）。录音确实提到一楼有 commercial businesses（商铺），但明说 No injuries were reported（无人受伤），根本没人被困需救。它借 businesses 谐想出 businessmen 来诱选。 借用原文：Town records list four apartments in the building",
+                "D": "张冠李戴：D 说在 Checking town records for the property developer（为开发商查市镇记录）。录音确有 Town records list four apartments（市镇记录列有四套公寓）这一句，但 town records 只是新闻引用的信息来源，消防局长做的是调查起因，没人「为开发商查记录」。",
+                "A": "正确项：与答案句同义替换（investigating the cause and origin of the fire ↔ Investigating the cause of the incident the fire 概括为 the incident）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "The Norwalk Fire Marshal is investigating the cause and origin of the fire.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 17.7,
+              "text": "A new study has cast doubt on historic research suggesting that the season or month of someone's birth is associated with an increased risk of certain mental health conditions. The study looks at symptoms of anxiety and depression among more than 70,000 older adults in Europe.",
+              "zh": "一项新研究对历史研究提出了质疑,这些历史研究认为某人的出生季节或月份与某些心理健康状况的风险增加有关。该研究调查了欧洲超过7万名老年人的焦虑和抑郁症状。"
+            },
+            {
+              "id": 2,
+              "start": 18.1,
+              "end": 46.9,
+              "text": "A number of past studies have found the link between season of birth and mental health diagnoses. Researchers have suggested that such links could arise from various things. These include nutrient intake, sun exposure, climate, and disease exposure varying across the course of the year. However, evidence has been mixed. More recent studies have suggested that factors such as social class or economic background have more to do with these diagnoses than month of birth.",
+              "zh": "过去的许多研究发现了出生季节与心理健康诊断之间的联系。研究人员认为,这种联系可能源于各种因素。这些因素包括全年不同时期的营养摄入、阳光照射、气候和疾病暴露的变化。然而,证据一直是混杂的。最近的研究表明,社会阶层或经济背景等因素与这些诊断的关系比出生月份更大。"
+            },
+            {
+              "id": 3,
+              "start": 47.3,
+              "end": 69.2,
+              "text": "Overall, the new study found no significant relationship between participants' month of birth and symptoms of depression or anxiety. There was some variability in some countries. In Poland, depressive symptoms fluctuated a little depending on birth month. In the Czech Republic, the same was true of anxiety symptoms. But on the whole, there was no systematic pattern.",
+              "zh": "总体而言,这项新研究发现参与者的出生月份与抑郁或焦虑症状之间没有显著关系。在一些国家存在一些变化。在波兰,抑郁症状根据出生月份有轻微波动。在捷克共和国,焦虑症状也是如此。但总的来说,没有系统性模式。"
+            }
+          ],
+          "audioDuration": 69.2,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What have a number of past studies found about season of birth?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It plays a less important role in one's health than nutrient intake."
+                },
+                {
+                  "key": "B",
+                  "text": "It impacts people's health to a lesser degree than sun exposure."
+                },
+                {
+                  "key": "C",
+                  "text": "It is associated with people's mental health conditions."
+                },
+                {
+                  "key": "D",
+                  "text": "It is linked with older adults' symptoms of depression."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：A number of past studies have found the link between season of birth and mental health diagnoses.信号：主语原样复现作信号 。题干主语 a number of past studies 在录音第 2 段以 A number of past studies have found 几乎原样出现，这一「问谁就听谁」的主体复现…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 用了录音第 2 段确实念到的 nutrient intake 一词，但录音只是把它列为「关联可能的成因之一」，从没说出生季节「在健康中作用不及营养摄入」。A 把它编成一句子虚乌有的轻重比较，是听到原词就想选的陷阱。 借用原文：These include nutrient intake, sun exposure, climate, and disease exposure",
+                "B": "原词陷阱：B 借用录音里同样念到的 sun exposure，谎称出生季节「对健康的影响不及日晒」。录音把 sun exposure 与 nutrient intake 并列为可能成因，并未拿它和出生季节比影响大小，属偷换概念式的原词陷阱。 借用原文：symptoms of anxiety and depression among more than 70,000 older adults",
+                "D": "张冠李戴：D 说关联的是 older adults' symptoms of depression。录音中「老年人」与「抑郁/焦虑症状」出现在介绍新研究样本（more than 70,000 older adults）与总结处，并非「过往研究就出生季节发现的关联对象」；过往研究发现的是更宽的 mental health diagnoses。D 把答案的范围从「心理健康」窄化到「老年人的抑郁症状」，张冠李戴。",
+                "C": "正确项：与答案句同义替换（the link between season of birth and mental health diagnoses ↔ associated with people's mental health conditions link=associated、diagnoses≈conditions）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "A number of past studies have found the link between season of birth and mental health diagnoses.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What did the new study find about the relationship between participants' month of birth and symptoms of depression?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was indefinite."
+                },
+                {
+                  "key": "B",
+                  "text": "It was systematic."
+                },
+                {
+                  "key": "C",
+                  "text": "It was straightforward."
+                },
+                {
+                  "key": "D",
+                  "text": "It was insignificant."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Overall, the new study found no significant relationship between participants' month of birth and symptoms of depression or anxiety.信号：总结词 Overall + 否定 no significant 。段首的 Overall 是结论信号，提示这句是新研究的总判断；其后的 no significant relationship 用「否定 + 程度词」给…",
+              "optionAnalysis": {
+                "A": "过度推断：A 说 It was indefinite.（不确定的）。录音其实给出了明确结论——「没有显著关联」「没有系统性规律」，态度是确定的「无」，并非含糊不定。把「确定地没有」错听成「不确定」，是对结论性质的误判。",
+                "B": "与原文相反：B 用了录音末句确实念到的 systematic，可原文是 no systematic pattern（没有系统性规律），带否定。B 抹掉 no，单取 systematic 说成「它是系统性的」，正好与原文意思相反，是典型听到原词就选、却漏听否定词的陷阱。",
+                "C": "未提及：C 说 It was straightforward.（直接明了的）。录音从未用「直接/明了」评价这关系，只说「无显著关联、无系统规律，部分国家有些小波动」。这个定性原文根本没出现，属凭空臆造。",
+                "D": "正确项：与答案句同义替换（no significant relationship ↔ It was insignificant. no significant=insignificant）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Overall, the new study found no significant relationship between participants' month of birth and symptoms of depression or anxiety.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 23.1,
+              "text": "Genetic researchers in China have made a clone of a star police dog. The clone was born in a laboratory in Beijing in December. Tests show that the clone and her mother are almost identical genetically. The mother dog helped solve multiple murders and many other crimes. The clone has already performed better than traditionally bred dogs on several tests.",
+              "zh": "中国的遗传研究人员克隆了一只明星警犬。该克隆犬于12月在北京的一个实验室出生。测试显示,克隆犬与其母犬在基因上几乎完全相同。母犬曾协助侦破多起谋杀案和许多其他犯罪案件。克隆犬已经在多项测试中表现得优于传统繁育的犬只。"
+            },
+            {
+              "id": 2,
+              "start": 23.5,
+              "end": 48.8,
+              "text": "If the clone continues to perform as well as expected, it could mean a huge reduction in the training time for police dogs, which usually takes about five years. The ultimate goal of scientists is to produce clones of talented police dogs that can be trained in months instead of years. However, this goal is not yet possible due to the current costs of the technology.",
+              "zh": "如果克隆犬继续按预期表现良好,这可能意味着警犬训练时间的大幅缩减,而警犬训练通常需要约五年时间。科学家的最终目标是培育出优秀警犬的克隆体,使其能够在数月而非数年内完成训练。然而,由于目前该技术的成本,这一目标尚无法实现。"
+            },
+            {
+              "id": 3,
+              "start": 49.1,
+              "end": 59.9,
+              "text": "This is not the first time a clone has been made of a star police dog. In South Korea, six clones began working with the police in 2008.",
+              "zh": "这并非首次克隆明星警犬。在韩国,六只克隆犬于2008年开始与警方合作。"
+            }
+          ],
+          "audioDuration": 59.9,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What do the researchers' tests show about the cloned dog?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has helped solve several murder cases."
+                },
+                {
+                  "key": "B",
+                  "text": "It has become a star office dog in Beijing."
+                },
+                {
+                  "key": "C",
+                  "text": "It has surpassed its mother in performance."
+                },
+                {
+                  "key": "D",
+                  "text": "It has done better than naturally born dogs."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：The clone has already performed better than traditionally bred dogs on several tests.信号：tests一词复现即落点 。题干问的是 tests 显示什么，录音第一段末句 performed better than traditionally bred dogs on several tests 正好出现 t…",
+              "optionAnalysis": {
+                "A": "张冠李戴：It has helped solve several murder cases. 偷用了录音里 helped solve multiple murders 的'破案'信息，但原文说破案的是 The mother dog（母亲），不是这只克隆犬，把母亲的功劳安到了克隆犬头上。 借用原文：The clone was born in a laboratory in Beijing in December.",
+                "B": "原词陷阱：It has become a star office dog in Beijing. 拼接了录音里的 star（明星）和 Beijing（北京）两个原词，但原文只说克隆犬生于北京实验室、母亲是明星警犬，从没说克隆犬变成了'办公室明星狗'，属拼凑+无中生有。 借用原文：the clone and her mother are almost identical genetically",
+                "C": "偷换概念：It has surpassed its mother in performance. 利用了原文反复提到的 mother（母亲），但录音说克隆犬与母亲 almost identical genetically（基因几乎相同），并没说它在表现上'超过'了母亲；它超过的是普通狗，不是母亲。",
+                "D": "正确项：与答案句同义替换（traditionally bred dogs ↔ naturally born dogs 传统繁育=自然出生）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The clone has already performed better than traditionally bred dogs on several tests.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What is the scientists' purpose in cloning police dogs?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To speed up investigation into criminal cases."
+                },
+                {
+                  "key": "B",
+                  "text": "To test the feasibility of cloning technology."
+                },
+                {
+                  "key": "C",
+                  "text": "To cut down training expenses."
+                },
+                {
+                  "key": "D",
+                  "text": "To reduce their training time."
+                }
+              ],
+              "answer": "D",
+              "analysis": "目的题。答案句（P2）：The ultimate goal of scientists is to produce clones of talented police dogs that can be trained in months instead of years.信号：ultimate goal点出目的句 。录音第二段 The ultimate goal of scientists is to produce clones 用 goal（目标）直接亮明目的，这正是目的题要等的那句话…",
+              "optionAnalysis": {
+                "A": "未提及：To speed up investigation into criminal cases. 借了第一段 crimes（犯罪）的余味，但录音讲的目的是缩短训练时间，从没说克隆是为了'加快案件调查'，属无中生有。",
+                "B": "未提及：To test the feasibility of cloning technology. 听起来很像科研口吻，但录音里克隆的目的是缩短训练时间，并没说'是为了测试克隆技术是否可行'，是凭常识想当然添上的目的。",
+                "C": "偷换概念：To cut down training expenses. 与正解只差一个词：录音说的是省'时间'（months instead of years），不是省'费用'。原文里 costs（成本）出现在最后一句、说的是'技术成本高导致目标暂不可行'，是障碍、不是目的，被挪来当目的了。",
+                "D": "正确项：与答案句同义替换（trained in months instead of years ↔ reduce their training time 几月而非几年=缩短时间）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The ultimate goal of scientists is to produce clones of talented police dogs that can be trained in months instead of years.",
+              "type": "目的题"
+            },
+            {
+              "number": 7,
+              "stem": "Why does the news report say the scientists' goal is not yet possible?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Cloning is too complicated a process."
+                },
+                {
+                  "key": "B",
+                  "text": "The technology is yet to be accepted."
+                },
+                {
+                  "key": "C",
+                  "text": "Cloning is ethically controversial."
+                },
+                {
+                  "key": "D",
+                  "text": "The technology is too expensive."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：However, this goal is not yet possible due to the current costs of the technology.信号：However转折加due to因果 。录音第二段末句先用 However 转折（前面说目标美好、这里说还做不到），再用 due to the current costs of the technology 给出原因…",
+              "optionAnalysis": {
+                "A": "未提及：Cloning is too complicated a process. 听上去像个合理障碍，但录音明确把原因归到'成本'（costs），从没说过程'太复杂'，是凭常识猜的障碍。",
+                "B": "偷换概念：The technology is yet to be accepted. 借用了录音 not yet possible（还不可行）里 yet 的语感，但原文说做不到是因为贵，不是因为'还没被接受'，属偷换原因。",
+                "C": "未提及：Cloning is ethically controversial. 是一般人一提'克隆'就联想到的伦理争议，但本则新闻只说障碍是成本，完全没提伦理，是被话题带偏的想当然选项。",
+                "D": "正确项：与答案句同义替换（the current costs of the technology ↔ The technology is too expensive. 成本高=太贵）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "However, this goal is not yet possible due to the current costs of the technology.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 8.1,
+              "text": "W: Tom, did you see the article online about the new TV series based on the book The Three Body Problem?",
+              "zh": "W: Tom，你看到网上关于根据《三体》这本书改编的新电视剧的文章了吗？"
+            },
+            {
+              "id": 2,
+              "start": 8.4,
+              "end": 18.1,
+              "text": "M: A colleague mentioned the book, but I've been so busy writing my thesis that I haven't been able to read for pleasure in months.",
+              "zh": "M: 有同事提到过这本书，但我一直忙着写论文，已经好几个月没能读闲书了。"
+            },
+            {
+              "id": 3,
+              "start": 18.5,
+              "end": 45.8,
+              "text": "W: Well, sounds like if you're going to read anything for fun, this is the book. It's written by a Chinese science fiction writer. I can't remember his name, but he's written three books in all, and The Three Body Problem is the first in the series. I don't want to say too much and spoil it for you, but it's definitely got some amazing technological and sociological concepts in it.",
+              "zh": "W: 听起来如果你要读点消遣的东西，就该读这本书。它是一位中国科幻作家写的。我记不得他的名字了，但他一共写了三本书，《三体》是系列的第一部。我不想说太多剧透，但里面确实有一些很棒的技术和社会学概念。"
+            },
+            {
+              "id": 4,
+              "start": 46.1,
+              "end": 60,
+              "text": "M: It does sound like it would suit my taste, but if they are making a TV series based on it now, I don't know if I should read the book or watch the show first.",
+              "zh": "M: 听起来确实符合我的口味，但如果他们现在要根据它拍电视剧，我不知道该先读书还是先看剧。"
+            },
+            {
+              "id": 5,
+              "start": 60.4,
+              "end": 75.7,
+              "text": "W: I think it's better to read the book first. It's rare for the show or movie to be better than the book. And then, you just end up ruining the book for yourself, if the show isn't very good.",
+              "zh": "W: 我觉得最好先读书。电视剧或电影比书好的情况很少见。而且如果剧拍得不好，你就把书给毁了。"
+            },
+            {
+              "id": 6,
+              "start": 76,
+              "end": 88.7,
+              "text": "M: When is the show supposed to start? I'm a bit overwhelmed with the amount of data I still need to collect to finish my thesis. But I still need to relax sometimes.",
+              "zh": "M: 这个剧什么时候开播？我现在还有大量数据要收集才能完成论文，有点应接不暇。但我还是需要偶尔放松一下。"
+            },
+            {
+              "id": 7,
+              "start": 89,
+              "end": 104,
+              "text": "W: I can't remember exactly. It's pretty soon, and it's going to be quite long. There are 24 episodes. Well, maybe you could download an electronic copy of the book and try to read it before the show starts.",
+              "zh": "W: 我记不太清了。挺快的，而且会很长。有24集。也许你可以下载电子版的书，在剧开播前试着读完。"
+            },
+            {
+              "id": 8,
+              "start": 104.3,
+              "end": 111.7,
+              "text": "M: That's a good idea. And then, maybe we can watch the series together. Thanks for the tip, Alice.",
+              "zh": "M: 这主意不错。然后也许我们可以一起看这部剧。谢谢你的建议，Alice。"
+            },
+            {
+              "id": 9,
+              "start": 112,
+              "end": 113.5,
+              "text": "W: No problem.",
+              "zh": "W: 不客气。"
+            }
+          ],
+          "audioDuration": 113.5,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "How did the man get to know about the book The Three Body Problem?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He read it somewhere online."
+                },
+                {
+                  "key": "B",
+                  "text": "He heard about it from a coworker."
+                },
+                {
+                  "key": "C",
+                  "text": "He read an article reviewing it."
+                },
+                {
+                  "key": "D",
+                  "text": "He watched a TV series based on it."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：A colleague mentioned the book, but I've been so busy writing my thesis that I haven't been able to read for pleasure in months.信号：被问者的直接应答 。上一句女士问起这书，男士开口第一句就是 A colleague mentioned the book——对话题里答案就落在被问者的应答上，这句正面回答了「怎么知道的」，是答案句。",
+              "optionAnalysis": {
+                "A": "原词陷阱：女士开场说 did you see the article online，选项 He read it somewhere online. 把这个 online 搬过来，但「网上看到」的主语是女士的提问、说的是那篇文章，不是男士得知书的途径，属答非所问。 借用原文：the article online about the new TV series",
+                "C": "偷换概念：录音里的 the article online about the new TV series 是讲改编剧的报道，选项 He read an article reviewing it. 偷换成「读了一篇评论这本书的文章」，且读文章的是女士不是男士，既偷换内容又张冠李戴。 借用原文：the new TV series based on the book",
+                "D": "与原文相反：录音通篇说剧还没看、甚至还没开播（When is the show supposed to start?），选项 He watched a TV series based on it. 说他「看了改编剧」与事实相反，男士并没看过剧。",
+                "B": "正确项：与答案句同义替换（A colleague mentioned the book ↔ He heard about it from a coworker colleague 等于 coworker）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "A colleague mentioned the book, but I've been so busy writing my thesis that I haven't been able to read for pleasure in months.",
+              "type": "细节题"
+            },
+            {
+              "number": 9,
+              "stem": "What does the woman say she can't remember about the book's author?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "His publications."
+                },
+                {
+                  "key": "B",
+                  "text": "His first book."
+                },
+                {
+                  "key": "C",
+                  "text": "His address."
+                },
+                {
+                  "key": "D",
+                  "text": "His name."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：It's written by a Chinese science fiction writer. I can't remember his name, but he's written three books in all, and The Three Body Problem is the first in the series.信号：题干原词 can't remember 直接命中 。题干问 can't remember，录音里女士原话就有 I can't remember his name——can't remember 这个词组是直接信号，它…",
+              "optionAnalysis": {
+                "A": "答非所问：选项 His publications. 对应录音 he's written three books in all——但作者的著作女士记得清清楚楚（连写了三本、《三体》是第一本都说得出），她记不清的不是这个。 借用原文：The Three Body Problem is the first in the series",
+                "B": "答非所问：选项 His first book. 对应录音 The Three Body Problem is the first in the series，女士明确说得出第一本是《三体》，可见她记得，并非记不清的那一项。",
+                "C": "未提及：选项 His address. 的 address 听起来像录音里某个词，但全篇女士只字未提作者的「住址」或「演讲」，这是无中生有。",
+                "D": "正确项：与答案句同义替换（I can't remember his name ↔ His name. 原句直接点名 name）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "It's written by a Chinese science fiction writer. I can't remember his name, but he's written three books in all, and The Three Body Problem is the first in the series.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "What does the man have to do to finish his thesis?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Collect a lot more data."
+                },
+                {
+                  "key": "B",
+                  "text": "Relax a bit less often."
+                },
+                {
+                  "key": "C",
+                  "text": "Clarify many new concepts."
+                },
+                {
+                  "key": "D",
+                  "text": "Read more reference books."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P6）：I'm a bit overwhelmed with the amount of data I still need to collect to finish my thesis.信号：still need to + 题干同词 finish thesis 。男士说 the amount of data I still need to collect to finish my thesis，still…",
+              "optionAnalysis": {
+                "B": "与原文相反：录音里男士说 But I still need to relax sometimes.——他强调「仍然需要放松」，选项 Relax a bit less often. 却说「少放松一点」，把 relax 这个原词拿走后反着说，与原意相反。 借用原文：some amazing technological and sociological concepts",
+                "C": "原词陷阱：选项 Clarify many new concepts. 的 concepts 来自女士说书里有 some amazing technological and sociological concepts，那是夸书内容精彩，跟男士完成论文要做的事毫无关系。 借用原文：read the book first",
+                "D": "未提及：选项 Read more reference books. 蹭录音里反复出现的 read/book，但全篇说的「读」是读《三体》这本闲书，没有任何「读参考书做论文」的内容，属无中生有。",
+                "A": "正确项：与答案句同义替换（the amount of data I still need to collect ↔ Collect a lot more data. still collect 等于 collect more）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "I'm a bit overwhelmed with the amount of data I still need to collect to finish my thesis.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What will the man most probably do first after the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Find out the show's most interesting episodes."
+                },
+                {
+                  "key": "B",
+                  "text": "Watch the series together with the woman."
+                },
+                {
+                  "key": "C",
+                  "text": "Get an e-copy of the book to read."
+                },
+                {
+                  "key": "D",
+                  "text": "Check to see when the show starts."
+                }
+              ],
+              "answer": "C",
+              "analysis": "推断题。答案句（P7）：Well, maybe you could download an electronic copy of the book and try to read it before the show starts.信号：建议句 + before the show starts 定先后 。女士给出建议 maybe you could download an electronic copy of the book and try to …",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 Find out the show's most interesting episodes. 蹭了录音里 There are 24 episodes. 的 episodes，但女士只说有 24 集，从没提「找最精彩的几集」，属无中生有。 借用原文：maybe we can watch the series together",
+                "B": "答非所问：男士确实说 maybe we can watch the series together，但那是「然后(and then)」「也许」之后的安排，要等读完书、剧开播。题目问 first（最先），先做的是读书不是看剧。 借用原文：When is the show supposed to start?",
+                "D": "原词陷阱：选项 Check to see when the show starts. 来自男士问 When is the show supposed to start?，但女士回 I can't remember exactly，且最终敲定的下一步是「先读书」，并没有让他去查开播时间。",
+                "C": "正确项：与答案句同义替换（download an electronic copy of the book and try to read it ↔ Get an e-copy of the book to read download e-copy 等于 get e-copy）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "Well, maybe you could download an electronic copy of the book and try to read it before the show starts.",
+              "type": "推断题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 11.2,
+              "text": "W: Hello, good afternoon. I have an inquiry to make. It's about the vegetarian food festival you are holding on the 19th of August at the Newcastle City Hall.",
+              "zh": "W: 你好，下午好。我有个问题想咨询一下。是关于你们8月19日在纽卡斯尔市政厅举办的素食美食节的。"
+            },
+            {
+              "id": 2,
+              "start": 11.5,
+              "end": 16.2,
+              "text": "M: Yes, of course. My name's Philip. How can I help you?",
+              "zh": "M: 好的，当然可以。我叫Philip。有什么可以帮您的吗?"
+            },
+            {
+              "id": 3,
+              "start": 16.6,
+              "end": 34.2,
+              "text": "W: It says on your website that you are still looking for vendors, and I grow organic vegetables on my farm, as well as doing my own home baking. Would I be able to sell both the vegetables and items baked from them at the festival?",
+              "zh": "W: 你们网站上说还在招募摊主，我在自己的农场种植有机蔬菜，同时也自己在家烘焙。我能在美食节上同时售卖蔬菜和用这些蔬菜烘焙的食品吗?"
+            },
+            {
+              "id": 4,
+              "start": 34.6,
+              "end": 68.4,
+              "text": "M: That's exactly the type of thing we are looking for. We're getting close to the deadline, however. Do you prefer to fill out an application on the web, or to print it out and fill it in by hand and then post it back to us? Remember that you will have to have all your certificates to hand when you are filling out the forms, as the standards are high and they'll be carefully checked before anyone will be able to sell their produce at the event.",
+              "zh": "M: 这正是我们在寻找的。不过我们快到截止日期了。您是想在网上填写申请表，还是打印出来手工填写然后邮寄给我们?请注意，填表时您需要准备好所有的证书，因为标准很高，在任何人能够在活动上售卖产品之前，这些证书都会被仔细审核。"
+            },
+            {
+              "id": 5,
+              "start": 68.8,
+              "end": 81.8,
+              "text": "W: I should be fine with doing it on your website, and I already have all my certificates, as we run a small farm shop too. But can you give me your details anyway?",
+              "zh": "W: 我在你们网站上填应该没问题，而且我已经有所有证书了，因为我们也经营一家小型农场商店。不过你还是能把邮寄地址给我吗?"
+            },
+            {
+              "id": 6,
+              "start": 82.1,
+              "end": 95.2,
+              "text": "M: Sure. Please address it to the Organic Organization, Vendor Applications, 112 Queens Road, Newcastle, Northumbria. The postcode is NU 29 3LJ. Remember that the closing date is next Tuesday, the 28th of June.",
+              "zh": "M: 当然。请寄到Organic Organization，Vendor Applications，112 Queens Road，Newcastle，Northumbria。邮编是NU 29 3LJ。请记住截止日期是下周二，6月28日。"
+            },
+            {
+              "id": 7,
+              "start": 95.5,
+              "end": 100.2,
+              "text": "W: That's absolutely wonderful. Thank you so much for your help. Goodbye.",
+              "zh": "W: 太好了。非常感谢你的帮助。再见。"
+            }
+          ],
+          "audioDuration": 100.2,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "Why does the woman call the man?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To check the prices of his farm produce."
+                },
+                {
+                  "key": "B",
+                  "text": "To ask the way to the Newcastle City Hall."
+                },
+                {
+                  "key": "C",
+                  "text": "To inquire about the vegetarian food festival."
+                },
+                {
+                  "key": "D",
+                  "text": "To seek the man's help with her work on the farm."
+                }
+              ],
+              "answer": "C",
+              "analysis": "目的题。答案句（P1）：I have an inquiry to make. It's about the vegetarian food festival you are holding on the 19th of August at the Newcastle City Hall.信号：开场自报来意 。女方一上来就说 I have an inquiry to make（我要咨询一件事），紧接着点明 It's about the vegetarian food festival——开场\"我打电话是为了…",
+              "optionAnalysis": {
+                "A": "未提及：录音里女方说自己 I grow organic vegetables on my farm，A借\"农产品\"做文章编出 To check the prices of his farm produce.\"查菜价\"，但全程没人提价格，属凭印象的臆造。",
+                "B": "原词陷阱：录音确实念到 the Newcastle City Hall，B便顺势编成 To ask the way to the Newcastle City Hall.\"问去市政厅的路\"。但市政厅只是节日地点，女方从没问路，这是\"听到地名就选\"的原词陷阱。 借用原文：I grow organic vegetables on my farm",
+                "D": "偷换概念：录音里 I grow organic vegetables on my farm 提到了农场，D便编成 To seek the man's help with her work on the farm.\"求男方帮她干农活\"。实际是她想在节上卖货，不是求人帮农活，方向反了。",
+                "C": "正确项：与答案句同义替换（an inquiry to make ↔ inquire about 名词换动词同义）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "I have an inquiry to make. It's about the vegetarian food festival you are holding on the 19th of August at the Newcastle City Hall.",
+              "type": "目的题"
+            },
+            {
+              "number": 13,
+              "stem": "What is the man still looking for?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Bakers."
+                },
+                {
+                  "key": "B",
+                  "text": "Vendors."
+                },
+                {
+                  "key": "C",
+                  "text": "Vegetarians."
+                },
+                {
+                  "key": "D",
+                  "text": "Organisers."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：It says on your website that you are still looking for vendors, and I grow organic vegetables on my farm, as well as doing my own home baking.信号：still looking for直接给出招募对象 。女方转述网站内容 you are still looking for vendors，still looking for 正是\"还在招\"的信号，紧跟其后的 ven…",
+              "optionAnalysis": {
+                "A": "原词陷阱：女方说自己 doing my own home baking（在家做烘焙），A便顺手把她说成 Bakers.\"面包师\"。但她只是会烘焙的摊主之一，男方招的是\"摊主\"不是\"面包师\"，属听到 baking 就联想的误选。 借用原文：vegetarian food festival",
+                "C": "原词陷阱：节日叫 vegetarian food festival，C便取 Vegetarians.\"素食者\"充数。但\"素食\"是节日主题，不是男方招募的人群，男方招的是卖货的摊主。",
+                "D": "张冠李戴：男方一方正是办活动的组织者，D取 Organisers.\"组织者\"反而是他们自己的身份，不是\"还在找\"的对象，角色装反了。",
+                "B": "正确项：与答案句同义替换（vendors ↔ Vendors. 原词对应）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "It says on your website that you are still looking for vendors, and I grow organic vegetables on my farm, as well as doing my own home baking.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What does the man say they are getting close to?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The issuing of certificates to vendors."
+                },
+                {
+                  "key": "B",
+                  "text": "The completion of the baking task."
+                },
+                {
+                  "key": "C",
+                  "text": "The festival they are organising."
+                },
+                {
+                  "key": "D",
+                  "text": "The deadline for application."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：That's exactly the type of thing we are looking for. We're getting close to the deadline, however.信号：getting close to紧跟落点 。男方说 We're getting close to the deadline，getting close to 这一\"临近\"信号后面紧跟 the deadline，即他们…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确有 all your certificates 和 certificates will be checked 之说，A拼成 The issuing of certificates to vendors.\"给摊主发证书\"。但证书是报名时要备齐、会被审核，录音并没说\"快到发证书\"，且\"发证\"也非原文之意，是借证书原词的拼凑。 借用原文：home baking",
+                "B": "原词陷阱：女方提过 home baking，B据此编成 The completion of the baking task.\"烘焙任务完成\"。但录音从没说\"快完成烘焙\"，且\"close to\"接的是 deadline 不是 baking。 借用原文：the vegetarian food festival",
+                "C": "答非所问：The festival they are organising. 取了贯穿全程的话题 the vegetarian food festival，但\"快到美食节\"并不是男方所说，他说的是快到截止日。话题对、答非所问。",
+                "D": "正确项：与答案句同义替换（the deadline ↔ The deadline for application. 概括补全为完整短语）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "That's exactly the type of thing we are looking for. We're getting close to the deadline, however.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "What does the man finally ask the woman to remember?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The closing date of submission."
+                },
+                {
+                  "key": "B",
+                  "text": "The website of his company."
+                },
+                {
+                  "key": "C",
+                  "text": "The details of the ceremony."
+                },
+                {
+                  "key": "D",
+                  "text": "The organiser's address."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P6）：Remember that the closing date is next Tuesday, the 28th of June.信号：结尾Remember领出叮嘱 。男方在对话末尾说 Remember that the closing date is next Tuesday，Remember that 是\"特意叮嘱\"的信号，其后的 the clo…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音前面女方提过 It says on your website，B便取 The website of his company.\"他公司的网址\"。但网址出现在对话前段、且不是男方让她记住的事，Remember 点的是截止日不是网址。 借用原文：Please address it to the Organic Organization",
+                "C": "未提及：The details of the ceremony.\"典礼细节\"录音里压根没出现过 ceremony 这个事，是凭空捏造的干扰。",
+                "D": "原词陷阱：男方确实在同段报了地址 Please address it to the Organic Organization，D据此取 The organiser's address.。但地址是应女方\"give me your details\"的请求顺带给的，被 Remember 单独叮嘱的是\"截止日\"，不是地址，属\"听到地址就选\"的原词陷阱。",
+                "A": "正确项：与答案句同义替换（the closing date ↔ The closing date of submission. 补出提交语境）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "Remember that the closing date is next Tuesday, the 28th of June.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 41.2,
+              "text": "Supporters call it \"wild camping\"; opponents call it \"illegal camping\". What both sides accept is that there has been a boom in the past few months, with increasing numbers of visitors pitching their tents on any bit of land they fancy in the UK. In part, this reflects the fact that official campsites have been wholly or partially closed, or are overflowing in a summer when fewer people are going abroad. It is also cheap, at a time when many are worried about what the economic future holds. But it may also be an expression of a desire for going outdoors—a response to the months of lockdown.",
+              "zh": "支持者称之为\"野外露营\"；反对者称之为\"非法露营\"。双方都承认的是，过去几个月出现了激增现象，越来越多的游客在英国任何他们看中的土地上搭起帐篷。这在一定程度上反映了一个事实，即官方露营地已经全部或部分关闭，或者在这个出国人数较少的夏天已经人满为患。在许多人担心未来经济前景的时候，这也很便宜。但这也可能是一种对户外活动渴望的表达——一种对数月封锁的回应。"
+            },
+            {
+              "id": 2,
+              "start": 41.6,
+              "end": 65,
+              "text": "Most of the coverage of the boom in wild camping has been negative. Camping in public parks has now been banned for August and the early part of September because campers dump litter, human waste, and even their tents on the grassland. Similar action has been taken even in Scotland, where camping is usually permitted on most of its open land.",
+              "zh": "关于野外露营热潮的大部分报道都是负面的。由于露营者在草地上倾倒垃圾、人类排泄物甚至他们的帐篷，公共公园现已禁止在8月和9月初进行露营。即使在苏格兰也采取了类似的行动，而那里通常允许在其大部分开放土地上露营。"
+            },
+            {
+              "id": 3,
+              "start": 65.3,
+              "end": 93.4,
+              "text": "Clearly there have to be rules. It would make sense that wild campers need to ask for permission to camp from landowners, especially outside Scotland, where the law is far more restrictive. It would be common sense for people to use small tents and leave no trace of their visit. They have been attracted by a patch of land this close to wilderness, and it is their responsibility to keep it that way.",
+              "zh": "显然必须有规则。野外露营者需要向土地所有者征求露营许可是合理的,特别是在苏格兰以外的地区，那里的法律要严格得多。人们使用小帐篷并不留下任何访问痕迹是常识。他们被这片如此接近荒野的土地所吸引，保持其原貌是他们的责任。"
+            }
+          ],
+          "audioDuration": 93.4,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "Why has wild camping become popular in the UK?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Most scenic sites have been closed."
+                },
+                {
+                  "key": "B",
+                  "text": "Access to official campsites is limited."
+                },
+                {
+                  "key": "C",
+                  "text": "Health experts advise going outdoors."
+                },
+                {
+                  "key": "D",
+                  "text": "People have more time during the summer."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：In part, this reflects the fact that official campsites have been wholly or partially closed, or are overflowing in a summer when fewer people are going abroad.信号：原因信号 this reflects the fact that 。this reflects the fact that 是典型的解释原因句式，后面紧跟的 official campsites have been …",
+              "optionAnalysis": {
+                "A": "偷换概念：录音关闭的是 official campsites（正规露营营地），不是 scenic sites（风景景点）。A 把\"营地\"偷换成\"景点\"，听着相似却不是同一回事。 借用原文：an expression of a desire for going outdoors",
+                "C": "原词陷阱：录音确实提到 a desire for going outdoors（向往户外），C 也写 going outdoors，原词重合很诱人。但录音说的是\"普通人的一种向往\"，从没说是 Health experts（健康专家）建议的；且这只是次要补充原因（it may also be），不是题干所问的主因。听到 going outdoors 就选 C，正中原词陷阱。 借用原文：in a summer when fewer people are going abroad",
+                "D": "原词陷阱：录音里 in a summer（夏天）确实出现，让 D 的 during the summer 显得耳熟。但录音从未说人们\"有更多时间（more time）\"，这是凭空添加的原因。盗了\"夏天\"一个词，就编出一个录音没讲的理由。",
+                "B": "正确项：与答案句同义替换（official campsites have been wholly or partially closed, or are overflowing ↔ Access to official campsites is limited. \"关闭/人满\"概括为\"使用受限\"）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "In part, this reflects the fact that official campsites have been wholly or partially closed, or are overflowing in a summer when fewer people are going abroad.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "Why is camping banned for part of the summer in public parks?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is strongly opposed by nearby residents."
+                },
+                {
+                  "key": "B",
+                  "text": "It leads to much waste of public money."
+                },
+                {
+                  "key": "C",
+                  "text": "It has caused environmental concerns."
+                },
+                {
+                  "key": "D",
+                  "text": "It has created conflicts among campers."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：Camping in public parks has now been banned for August and the early part of September because campers dump litter, human waste, and even their tents on the grassland.信号：因果信号 because 。because 直接引出禁露营的原因：campers dump litter, human waste, and even their tents on the grassland。bec…",
+              "optionAnalysis": {
+                "A": "未提及：录音只说禁露营是因乱丢垃圾，全程没提 nearby residents（附近居民）反对。这是录音根本没说的内容，凭常识\"居民会嫌吵\"补上去就错了。",
+                "B": "未提及：录音讲的是垃圾污染草地，从没提 waste of public money（浪费公共资金）。这是凭空添加的后果，与禁露营的真实原因无关。",
+                "D": "原词陷阱：录音反复出现 campers（露营者），D 也写 campers，原词重合很诱人。但录音说的是露营者\"破坏环境\"，从没说他们\"彼此起冲突（conflicts among campers）\"。听到 campers 就选 D，正中原词陷阱。",
+                "C": "正确项：与答案句同义替换（campers dump litter, human waste, and even their tents on the grassland ↔ It has caused environmental concerns. 乱丢垃圾的具体行为概括为环境问题）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Camping in public parks has now been banned for August and the early part of September because campers dump litter, human waste, and even their tents on the grassland.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What does the speaker suggest campers do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Look for open land in Scotland."
+                },
+                {
+                  "key": "B",
+                  "text": "Leave no trace of their camping."
+                },
+                {
+                  "key": "C",
+                  "text": "Avoid getting close to wilderness."
+                },
+                {
+                  "key": "D",
+                  "text": "Ask for permission from authorities."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：It would be common sense for people to use small tents and leave no trace of their visit.信号：建议信号 It would be common sense for...to 。It would be common sense for people to 是劝告做法的句式，后面 leave no trace of…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音提到 especially outside Scotland（尤其在苏格兰以外），A 也写 Scotland，原词重合很诱人。但录音是说\"在苏格兰以外法律更严、要请求许可\"，根本没建议人们\"去苏格兰找开放土地\"。听到 Scotland 就选 A，正中原词陷阱。 借用原文：They have been attracted by a patch of land this close to wilderness",
+                "C": "与原文相反：录音出现 close to wilderness（靠近荒野），C 也写 wilderness，但录音是说人们\"被这块靠近荒野的土地吸引、有责任维护它\"，绝不是叫人 Avoid getting close to wilderness（避开荒野）。意思被反着说了，盗了原词却背道而驰。 借用原文：wild campers need to ask for permission to camp from landowners",
+                "D": "原词陷阱：录音确说要 ask for permission to camp from landowners（向地主请求许可），D 写 Ask for permission 原词重合很像。但录音的对象是 landowners（土地所有者），D 却换成了 authorities（官方当局），把请求对象偷换了。听到 ask for permission 就选 D，正中原词陷阱。",
+                "B": "正确项：与答案句同义替换（leave no trace of their visit ↔ Leave no trace of their camping. visit换成camping，近乎同义改写）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "It would be common sense for people to use small tents and leave no trace of their visit.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 16.2,
+              "text": "Imagine boating down the Amazon River, minding your own business—calmly keeping an eye out for alarmingly large snakes—and a curious pink dolphin appears to swim alongside. While this may seem like a mythical creature, pink dolphins do exist in the Amazon region.",
+              "zh": "想象一下，你正在亚马逊河上划船，专心做着自己的事——平静地留意着那些大得惊人的蛇——这时一只好奇的粉红色海豚出现在你身边游动。虽然这看起来像是神话中的生物，但粉红色海豚确实存在于亚马逊地区。"
+            },
+            {
+              "id": 2,
+              "start": 16.6,
+              "end": 37.3,
+              "text": "The Amazon river dolphin is a giant among its species. It can measure up to 2 meters long and weigh around 204 kilograms. Size isn't the only thing that sets the Amazon river dolphin apart. Thriving in South American rivers and temporary lakes caused by seasonal flooding, this freshwater dolphin is sometimes shockingly pink.",
+              "zh": "亚马逊河豚是其物种中的巨型成员。它的体长可达2米，体重约204千克。体型并不是亚马逊河豚与众不同的唯一特征。这种淡水豚栖息在南美洲的河流和季节性洪水形成的临时湖泊中，有时会呈现出令人震惊的粉红色。"
+            },
+            {
+              "id": 3,
+              "start": 37.6,
+              "end": 63.4,
+              "text": "Although born gray, males of the species are easily identified as they enter adulthood by a decisive pink shade. Their unusual coloring is believed to be the result of scar tissue from dolphin fights—whether playful fighting or a serious bid for a mate. The deeper the pink, the more attractive the males are believed to be, and the older the male, the more pink it will have.",
+              "zh": "虽然出生时是灰色的，但该物种的雄性在进入成年期后很容易通过明显的粉红色阴影来识别。它们不寻常的颜色被认为是海豚打斗留下的疤痕组织的结果——无论是嬉戏打闹还是为争夺配偶的激烈竞争。粉红色越深，雄性被认为越有吸引力，而雄性年龄越大，粉红色就越多。"
+            },
+            {
+              "id": 4,
+              "start": 63.8,
+              "end": 88.8,
+              "text": "There's also a theory that this color helps the dolphins more readily blend in with their surroundings. During heavy rains, rivers along the Amazon rainforest turn a pink shade, and with it male dolphins are harder to detect. The Amazon wetland system, fed by the Amazon River, is a crucial place for pink dolphins to breed, and since 2018 has been granted internationally protected status.",
+              "zh": "还有一种理论认为，这种颜色有助于海豚更容易地与周围环境融为一体。在大雨期间，亚马逊雨林沿岸的河流会呈现粉红色，雄性海豚也因此更难被发现。由亚马逊河滋养的亚马逊湿地系统是粉红色海豚繁殖的关键场所，自2018年以来已被授予国际保护地位。"
+            }
+          ],
+          "audioDuration": 88.8,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What does the passage say about pink dolphins?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They outcompete mythical creatures."
+                },
+                {
+                  "key": "B",
+                  "text": "They usually mind their own business."
+                },
+                {
+                  "key": "C",
+                  "text": "They truly exist in the Amazon region."
+                },
+                {
+                  "key": "D",
+                  "text": "They resemble alarmingly large snakes."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：While this may seem like a mythical creature, pink dolphins do exist in the Amazon region.信号：转折 while + 强调 do 。信号有两层：让步转折 While this may seem like a mythical creature 先抑（看似神话），转折后才是真意；再加强调助动词 pink dolp…",
+              "optionAnalysis": {
+                "D": "原词陷阱：录音里 alarmingly large snakes 说的是船客在河上提防的大蛇，是另一种动物，根本不是在说海豚像蛇。选项 They resemble alarmingly large snakes. 原封盗用 alarmingly large snakes 这个词组，把蛇安到海豚头上，听到原词就想选正中下怀。 借用原文：minding your own business",
+                "B": "录音 minding your own business 描述的是划船的你在专心赶路，不是海豚的习性。选项 They usually mind their own business. 把这句原话改成海豚不爱招惹别人，主语偷换成海豚，且原文从未说海豚的脾性，属答非所问。 借用原文：While this may seem like a mythical creature",
+                "A": "录音只说海豚 may seem like a mythical creature（看似神话生物），并未把海豚和神话生物放在一起比高下。选项 They outcompete mythical creatures. 凭一个 mythical creature 编出胜过神话生物的说法，原文无此意，属过度推断。",
+                "C": "正确项：与答案句同义替换（pink dolphins do exist in the Amazon region ↔ They truly exist in the Amazon region. do exist 同义改写为 truly exist）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "While this may seem like a mythical creature, pink dolphins do exist in the Amazon region.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What is the unusual coloring of pink dolphins believed to originate in?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Scar tissue from dolphins' fighting."
+                },
+                {
+                  "key": "B",
+                  "text": "Skin infection from water pollution."
+                },
+                {
+                  "key": "C",
+                  "text": "Unhealed wounds from snake bites."
+                },
+                {
+                  "key": "D",
+                  "text": "Swimming along in seasonal floods."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：Their unusual coloring is believed to be the result of scar tissue from dolphin fights—whether playful fighting or a serious bid for a mate.信号：因果 the result of 。答案信号是因果短语 is believed to be the result of，它后面接的正是颜色的来源。题干问 originate in，原文用 result of 应答，听…",
+              "optionAnalysis": {
+                "D": "原词陷阱：选项 Swimming along in seasonal floods. 里的 seasonal floods 来自第 2 段讲栖息地的 temporary lakes caused by seasonal flooding，与颜色来源无关。它盗用了原文出现过的 seasonal flood 制造耳熟，但答的不是本题问的成因。",
+                "B": "未提及：选项 Skin infection from water pollution. 说颜色来自水污染引起的皮肤感染，可原文讲来源时只字未提 pollution 或 infection，是凭空捏造的成因，属未提及。",
+                "C": "选项 Unhealed wounds from snake bites. 把成因说成蛇咬的未愈伤口，借第 1 段的 snakes 联想造势，但原文讲颜色来源从未说被蛇咬，属未提及加错接。",
+                "A": "正确项：与答案句同义替换（scar tissue from dolphin fights ↔ Scar tissue from dolphins' fighting. fights 改写为 fighting）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Their unusual coloring is believed to be the result of scar tissue from dolphin fights—whether playful fighting or a serious bid for a mate.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What has become of the Amazon wetland system since 2018?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has been shrinking at an astonishing pace."
+                },
+                {
+                  "key": "B",
+                  "text": "It has been placed under international protection."
+                },
+                {
+                  "key": "C",
+                  "text": "It has been appealing to both freshwater and sea dolphins."
+                },
+                {
+                  "key": "D",
+                  "text": "It has been abandoned as a battleground for male dolphins."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：The Amazon wetland system, fed by the Amazon River, is a crucial place for pink dolphins to breed, and since 2018 has been granted internationally protected status.信号：时间锚 since 2018 。答案信号是时间状语 since 2018，它与题干的 since 2018 完全对应，后面紧跟的 has been granted internationally protected …",
+              "optionAnalysis": {
+                "C": "原词陷阱：选项 It has been appealing to both freshwater and sea dolphins. 里的 freshwater 取自第 2 段 this freshwater dolphin，且原文只有淡水海豚、根本没提海水海豚或湿地吸引两类海豚，属盗用原词加未提及。 借用原文：since 2018 has been granted internationally protected status",
+                "A": "选项 It has been shrinking at an astonishing pace. 说湿地在惊人缩小，方向与原文相反——原文说它自 2018 年起 granted internationally protected status，是受到保护、向好，绝非缩小。这正是预读时提醒过的正反对立陷阱。 借用原文：scar tissue from dolphin fights",
+                "D": "选项 It has been abandoned as a battleground for male dolphins. 借第 3 段 dolphin fights 与雄性海豚的字眼，编出湿地被弃为雄海豚战场的说法，可原文恰说湿地是繁殖关键地、被保护，从未说被弃用，属张冠李戴加相反。",
+                "B": "正确项：与答案句同义替换（has been granted internationally protected status ↔ It has been placed under international protection. granted protected status 改写为 placed under protection）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "The Amazon wetland system, fed by the Amazon River, is a crucial place for pink dolphins to breed, and since 2018 has been granted internationally protected status.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 27.3,
+              "text": "In a new Merrill Lynch/Age Wave survey, a full 70% of the early adults said they received financial support from their parents in the past year and 58% said they couldn't afford their current lifestyles without it. The most common types of financial support include cell phone plans, food, school costs and car expenses. Parental financial support of early adults, said Ken Dychtwald, CEO of Age Wave, is \"the new normal\".",
+              "zh": "在 Merrill Lynch/Age Wave 的一项新调查中，70% 的年轻成年人表示他们在过去一年中得到了父母的经济支持，58% 的人表示如果没有这些支持，他们无法负担目前的生活方式。最常见的经济支持类型包括手机套餐、食物、学费和汽车开支。Age Wave 首席执行官 Ken Dychtwald 表示，父母对年轻成年人的经济支持是\"新常态\"。"
+            },
+            {
+              "id": 2,
+              "start": 27.7,
+              "end": 48.4,
+              "text": "But 64% of the young adults surveyed said parents' financial support to children age 25 to 34 is \"a bad thing\", because it makes those kids dependent. By contrast, only 29% thought supporting men and women age 18 to 24 is bad; the remaining 71% think that assistance \"helps the adult children get ahead\".",
+              "zh": "但 64% 接受调查的年轻成年人表示,父母对 25 至 34 岁子女的经济支持是\"坏事\",因为这会让这些孩子产生依赖性。相比之下,只有 29% 的人认为支持 18 至 24 岁的男性和女性是坏事;其余 71% 的人认为这种援助\"帮助成年子女取得进步\"。"
+            },
+            {
+              "id": 3,
+              "start": 48.8,
+              "end": 91.1,
+              "text": "Dychtwald believes the young women and men surveyed were saying that by 25, younger adults ought to be financially independent. In fact, the respondents said, financial independence defines adulthood. \"Financial independence is something they were struggling with and challenged by. And it scared them a bit,\" Dychtwald said. One big reason they're struggling is attributed to college loans, of which the average amounts to $37,000. Many of the parents have taken on college loans for the kids, too, sometimes at the expense of their own finances. In the survey, 60% of early adults define financial success as being debt-free. Whether that's likely, or even possible, anytime soon is anyone's guess.",
+              "zh": "Dychtwald 认为,接受调查的年轻女性和男性表达的意思是,到 25 岁时,年轻成年人应该在经济上独立。事实上,受访者表示,经济独立定义了成年。\"经济独立是他们正在努力应对和面临挑战的事情。这让他们有点害怕,\" Dychtwald 说。他们面临困难的一个重要原因归结于大学贷款,平均金额为 37,000 美元。许多父母也为孩子承担了大学贷款,有时以牺牲自己的财务状况为代价。在调查中,60% 的年轻成年人将经济成功定义为无债务。这是否可能,甚至是否有可能在短期内实现,谁也说不准。"
+            }
+          ],
+          "audioDuration": 91.1,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What do we learn from a new survey by Merrill Lynch/Age Wave?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "About 58% of young adults call parental support the new normal."
+                },
+                {
+                  "key": "B",
+                  "text": "Most adult children enjoy increasing sources of financial support."
+                },
+                {
+                  "key": "C",
+                  "text": "A full 70% of the young adults cannot afford to buy a car by themselves."
+                },
+                {
+                  "key": "D",
+                  "text": "Most early adults cannot sustain their lifestyles without parental support."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：In a new Merrill Lynch/Age Wave survey, a full 70% of the early adults said they received financial support from their parents in the past year and 58% said they couldn't afford their current lifestyles without it.信号：开篇报数据即调查发现落点 。录音一开篇就给出 a full 70% of the early adults said they received financial support 与 58% said they c…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项把 58% 与 the new normal 拼在一起，但原文里 58% 对应的是\"撑不起生活\"，而 the new normal 是 CEO 个人的评价、根本没说\"58% 的人这么叫它\"，属盗用真实数字后乱配对象。 借用原文：a full 70% of the early adults said they received financial support from their parents",
+                "B": "未提及：enjoy increasing sources of financial support 凭空加了\"资助来源在增加\"且带正面色彩 enjoy，原文只列了 cell phone plans, food, school costs and car expenses 几类资助、从未说它们在\"增多\"，更没说年轻人\"乐享\"，是无中生有式改写。",
+                "C": "原词陷阱：选项把真实的 70% 接到 cannot afford to buy a car by themselves 上，但原文 70% 说的是 received financial support from their parents，\"车\"只是 car expenses 作为资助类别被顺带提到，并没有\"70% 的人买不起车\"这回事，是典型的数字配错对象。",
+                "D": "正确项：与答案句同义替换（58% said they couldn't afford their current lifestyles without it ↔ Most early adults cannot sustain their lifestyles without parental support 同义改写且 58% 即\"多数\"）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "In a new Merrill Lynch/Age Wave survey, a full 70% of the early adults said they received financial support from their parents in the past year and 58% said they couldn't afford their current lifestyles without it.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "Why did most young adults in the survey say financial support to children aged 25 to 34 is a bad thing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It renders them dependent."
+                },
+                {
+                  "key": "B",
+                  "text": "It causes them to lose dignity."
+                },
+                {
+                  "key": "C",
+                  "text": "It makes them mentally immature."
+                },
+                {
+                  "key": "D",
+                  "text": "It hinders them from getting ahead."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：But 64% of the young adults surveyed said parents' financial support to children age 25 to 34 is \"a bad thing\", because it makes those kids dependent.信号：因果词 because 后即答案 。本句用 because it makes those kids dependent 直接给出理由，because 是最硬的因果信号，紧跟其后的 makes those kids d…",
+              "optionAnalysis": {
+                "B": "未提及：It causes them to lose dignity. 听上去也像\"坏处\"，但原文给的理由只有\"变依赖\"，从未提到 dignity（尊严），是顺着\"坏事\"语境编出的合理化干扰。",
+                "C": "过度推断：It makes them mentally immature. 把\"依赖\"过度引申成\"心智不成熟\"，原文只说 dependent、没说 mentally immature，属于在原意上加码的推断，超出文本。",
+                "D": "与原文相反：It hinders them from getting ahead. 盗用了原文的 get ahead，但原文 helps the adult children get ahead 是讲资助 18-24 岁\"好处\"时说的、且是\"helps（帮助）出人头地\"，选项却反成\"hinders（阻碍）\"并安到\"坏事\"这边，既偷原词又正话反说、还把对象张冠李戴。",
+                "A": "正确项：与答案句同义替换（it makes those kids dependent ↔ It renders them dependent make 与 render 同义、them 回指 kids）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "But 64% of the young adults surveyed said parents' financial support to children age 25 to 34 is \"a bad thing\", because it makes those kids dependent.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What did the respondents in the survey say regarding financial independence?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It challenges one's willpower."
+                },
+                {
+                  "key": "B",
+                  "text": "It results from education."
+                },
+                {
+                  "key": "C",
+                  "text": "It calls for due assistance."
+                },
+                {
+                  "key": "D",
+                  "text": "It defines adulthood."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：In fact, the respondents said, financial independence defines adulthood.信号：the respondents said 后的直接定性 。题干问受访者说了什么，原文 the respondents said, financial independence defines adulthood 用\"…",
+              "optionAnalysis": {
+                "A": "原词陷阱：It challenges one's willpower. 借了原文 challenged by 的影子，但原文 challenged 出现在 CEO 转述\"经济独立让年轻人感到挣扎、受挑战\"处，谈的是\"被它难住\"而非\"它考验意志力\"，且这不是题干要的\"受访者对经济独立的定性\"。 借用原文：by 25, younger adults ought to be financially independent",
+                "B": "未提及：It results from education. 把\"经济独立\"归因于教育，原文从未谈两者的来源关系；education 一词在原文压根没出现，是凭空捏造的因果。",
+                "C": "与原文相反：It calls for due assistance.（需要适当帮助）与受访者的态度正好相反——他们认为 by 25, younger adults ought to be financially independent，强调的是\"应当独立\"，而非\"需要援助\"，方向反了。",
+                "D": "正确项：与答案句同义替换（financial independence defines adulthood ↔ It defines adulthood It 回指经济独立、defines 原词保留）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "In fact, the respondents said, financial independence defines adulthood.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What is one big reason young adults are struggling?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Current lifestyles."
+                },
+                {
+                  "key": "B",
+                  "text": "Poor budgeting."
+                },
+                {
+                  "key": "C",
+                  "text": "College loans."
+                },
+                {
+                  "key": "D",
+                  "text": "Emergency expenses."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：One big reason they're struggling is attributed to college loans, of which the average amounts to $37,000.信号：one big reason… attributed to 双因果信号 。本句 One big reason they're struggling is attributed to college loans 与题干…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Current lifestyles 盗用了第 1 段 current lifestyles，但那是讲\"没资助就撑不起当前生活\"时说的，与本题问的\"挣扎的原因\"无关，纯粹靠耳熟设饵。",
+                "B": "未提及：Poor budgeting（不善理财）像是一个合情合理的\"挣扎原因\"，但原文归因明确指向 college loans，从未提及预算或理财问题，是凭常识脑补的干扰。",
+                "D": "未提及：Emergency expenses（应急开销）与正确项 college loans 同属\"花钱\"类、极易混淆，但原文归因只点了助学贷款，根本没提 emergency expenses，是同类干扰。",
+                "C": "正确项：与答案句同义替换（attributed to college loans ↔ College loans 答案原词直现、近乎照搬）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "One big reason they're struggling is attributed to college loans, of which the average amounts to $37,000.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Over the coming decades, millions of jobs will be threatened by robotics and artificial intelligence. Despite intensive academic 26______ on these developments, there has been little study on how workers 27______ to being replaced through technology.\n\nTo find out, business researchers at TUM and Erasmus University Rotterdam conducted 11 studies and surveys with over 2,000 persons from several countries.\n\nThe findings show: In principle, most people view it more 28______ when workers are replaced by other people than by robots or intelligent software. This preference 29______ , however, when it refers to people's own jobs. When that is the case, the majority of workers find it less upsetting to see their own jobs go to robots than to other employees. In the long term, however, the same people see machines as more threatening to their future role in the workforce. These effects can also be observed among people who have recently become unemployed.\n\nThe researchers were able to identify the causes behind these 30______ paradoxical results, too: People tend to 31______ themselves less with machines than with other people. Consequently, being replaced by a robot or software 32______ less of a threat to their feeling of self-worth. This reduced self-threat could even be observed when participants assumed that they were being replaced by other employees who relied on technological abilities such as artificial intelligence in their work.\n\n\"Even when unemployment results from the 33______ of new technologies, people still judge it in a social context,\" says Christoph Fuchs, one of the authors of the study. \"It is important to understand these 34______ effects when trying to manage the massive changes in the working world to minimize 35______ in society.\""
+            },
+            {
+              "label": "词库",
+              "text": "A) compare\nB) contradicts\nC) conventional\nD) debate\nE) disruptions\nF) drastically\nG) favorably\nH) guarantee\nI) introduction\nJ) modifications\nK) poses\nL) psychological\nM) react\nN) reverses\nO) seemingly"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compare"
+                },
+                {
+                  "key": "B",
+                  "text": "contradicts"
+                },
+                {
+                  "key": "C",
+                  "text": "conventional"
+                },
+                {
+                  "key": "D",
+                  "text": "debate"
+                },
+                {
+                  "key": "E",
+                  "text": "disruptions"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "favorably"
+                },
+                {
+                  "key": "H",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "I",
+                  "text": "introduction"
+                },
+                {
+                  "key": "J",
+                  "text": "modifications"
+                },
+                {
+                  "key": "K",
+                  "text": "poses"
+                },
+                {
+                  "key": "L",
+                  "text": "psychological"
+                },
+                {
+                  "key": "M",
+                  "text": "react"
+                },
+                {
+                  "key": "N",
+                  "text": "reverses"
+                },
+                {
+                  "key": "O",
+                  "text": "seemingly"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) debate\n【原文】学术辩论与「研究 little study」对照\nJ) modifications 「修改」与 academic 搭配不通：academic modifications「学术修改」不是常规表达，也无法与下半句 little study 形成让步逻辑。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compare"
+                },
+                {
+                  "key": "B",
+                  "text": "contradicts"
+                },
+                {
+                  "key": "C",
+                  "text": "conventional"
+                },
+                {
+                  "key": "D",
+                  "text": "debate"
+                },
+                {
+                  "key": "E",
+                  "text": "disruptions"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "favorably"
+                },
+                {
+                  "key": "H",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "I",
+                  "text": "introduction"
+                },
+                {
+                  "key": "J",
+                  "text": "modifications"
+                },
+                {
+                  "key": "K",
+                  "text": "poses"
+                },
+                {
+                  "key": "L",
+                  "text": "psychological"
+                },
+                {
+                  "key": "M",
+                  "text": "react"
+                },
+                {
+                  "key": "N",
+                  "text": "reverses"
+                },
+                {
+                  "key": "O",
+                  "text": "seemingly"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) react\n【原文】react to 固定搭配「对……做出反应」\nA) compare compare 常用搭配是 with，不是 to being replaced：compare 后接 to 多用于比喻类比（compare A to B），不能讲「工人比较被替代」；语义上「研究工人怎样比较被替代」也讲不通。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compare"
+                },
+                {
+                  "key": "B",
+                  "text": "contradicts"
+                },
+                {
+                  "key": "C",
+                  "text": "conventional"
+                },
+                {
+                  "key": "D",
+                  "text": "debate"
+                },
+                {
+                  "key": "E",
+                  "text": "disruptions"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "favorably"
+                },
+                {
+                  "key": "H",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "I",
+                  "text": "introduction"
+                },
+                {
+                  "key": "J",
+                  "text": "modifications"
+                },
+                {
+                  "key": "K",
+                  "text": "poses"
+                },
+                {
+                  "key": "L",
+                  "text": "psychological"
+                },
+                {
+                  "key": "M",
+                  "text": "react"
+                },
+                {
+                  "key": "N",
+                  "text": "reverses"
+                },
+                {
+                  "key": "O",
+                  "text": "seemingly"
+                }
+              ],
+              "answer": "G",
+              "type": "选词填空",
+              "analysis": "【答案】G（官方答案）\n应填 G) favorably\n【原文】view ... favorably 是固定搭配「赞许地看待」\nF) drastically 「急剧地」语义偏激烈、与 view 不搭：drastically 多修饰变化（change drastically），view it drastically 不构成习惯搭配，也讲不通「更急剧地看待」。\nO) seemingly 「看似」无法被 more 修饰：seemingly 表「表面上」，不带比较级语义，more seemingly 也不构成自然表达，且该词另有更贴合的空位归宿。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compare"
+                },
+                {
+                  "key": "B",
+                  "text": "contradicts"
+                },
+                {
+                  "key": "C",
+                  "text": "conventional"
+                },
+                {
+                  "key": "D",
+                  "text": "debate"
+                },
+                {
+                  "key": "E",
+                  "text": "disruptions"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "favorably"
+                },
+                {
+                  "key": "H",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "I",
+                  "text": "introduction"
+                },
+                {
+                  "key": "J",
+                  "text": "modifications"
+                },
+                {
+                  "key": "K",
+                  "text": "poses"
+                },
+                {
+                  "key": "L",
+                  "text": "psychological"
+                },
+                {
+                  "key": "M",
+                  "text": "react"
+                },
+                {
+                  "key": "N",
+                  "text": "reverses"
+                },
+                {
+                  "key": "O",
+                  "text": "seemingly"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) reverses\n【原文】前一句说「人们普遍更接受被人取代」，本句却用 however 引出「轮到自己时，大家反而觉得被机器取代不那么糟」，preference 完全反转，正是 reverses「逆转」的语义。\nB) contradicts contradict 需要带宾语：contradict 是及物动词「与……矛盾」，必须接宾语 contradict sth.，本句空后直接是逗号 however，无宾语可接，结构不成立。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compare"
+                },
+                {
+                  "key": "B",
+                  "text": "contradicts"
+                },
+                {
+                  "key": "C",
+                  "text": "conventional"
+                },
+                {
+                  "key": "D",
+                  "text": "debate"
+                },
+                {
+                  "key": "E",
+                  "text": "disruptions"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "favorably"
+                },
+                {
+                  "key": "H",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "I",
+                  "text": "introduction"
+                },
+                {
+                  "key": "J",
+                  "text": "modifications"
+                },
+                {
+                  "key": "K",
+                  "text": "poses"
+                },
+                {
+                  "key": "L",
+                  "text": "psychological"
+                },
+                {
+                  "key": "M",
+                  "text": "react"
+                },
+                {
+                  "key": "N",
+                  "text": "reverses"
+                },
+                {
+                  "key": "O",
+                  "text": "seemingly"
+                }
+              ],
+              "answer": "O",
+              "type": "选词填空",
+              "analysis": "【答案】O（官方答案）\n应填 O) seemingly\n【原文】本段开头说研究者找到了 these seemingly paradoxical results「这些看似矛盾结果」背后的原因——「看似」二字暗示后面会给出合理解释，与紧接其后的 People tend to compare themselves less with machines 这条解释完美呼应。\nF) drastically 「极度地」修饰 paradoxical 程度过强：drastically paradoxical「极度矛盾」语义太满，与下文用心理机制平稳解释的论述基调不合；研究者既然能解释，矛盾就不是极端的。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compare"
+                },
+                {
+                  "key": "B",
+                  "text": "contradicts"
+                },
+                {
+                  "key": "C",
+                  "text": "conventional"
+                },
+                {
+                  "key": "D",
+                  "text": "debate"
+                },
+                {
+                  "key": "E",
+                  "text": "disruptions"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "favorably"
+                },
+                {
+                  "key": "H",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "I",
+                  "text": "introduction"
+                },
+                {
+                  "key": "J",
+                  "text": "modifications"
+                },
+                {
+                  "key": "K",
+                  "text": "poses"
+                },
+                {
+                  "key": "L",
+                  "text": "psychological"
+                },
+                {
+                  "key": "M",
+                  "text": "react"
+                },
+                {
+                  "key": "N",
+                  "text": "reverses"
+                },
+                {
+                  "key": "O",
+                  "text": "seemingly"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) compare\n【原文】compare oneself with sb. 固定搭配\ncompare oneself with/to「把自己与……比较」是高频搭配；句意「人们倾向于把自己与机器比较得少」恰好解释下一句 poses less of a threat「威胁感更弱」的因果。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compare"
+                },
+                {
+                  "key": "B",
+                  "text": "contradicts"
+                },
+                {
+                  "key": "C",
+                  "text": "conventional"
+                },
+                {
+                  "key": "D",
+                  "text": "debate"
+                },
+                {
+                  "key": "E",
+                  "text": "disruptions"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "favorably"
+                },
+                {
+                  "key": "H",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "I",
+                  "text": "introduction"
+                },
+                {
+                  "key": "J",
+                  "text": "modifications"
+                },
+                {
+                  "key": "K",
+                  "text": "poses"
+                },
+                {
+                  "key": "L",
+                  "text": "psychological"
+                },
+                {
+                  "key": "M",
+                  "text": "react"
+                },
+                {
+                  "key": "N",
+                  "text": "reverses"
+                },
+                {
+                  "key": "O",
+                  "text": "seemingly"
+                }
+              ],
+              "answer": "K",
+              "type": "选词填空",
+              "analysis": "【答案】K（官方答案）\n应填 K) poses\n【原文】pose a threat 固定搭配「构成威胁」\nB) contradicts 「反驳」与 threat 不搭配：contradict a threat 不构成搭配，且语义上「被替代反驳威胁」讲不通。\nN) reverses 「逆转」语义错位且要留给 29 题：reverse a threat「逆转威胁」语义牵强；且 29 题 This preference ___ 明显需要 reverses「逆转」的呼应，应预留。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compare"
+                },
+                {
+                  "key": "B",
+                  "text": "contradicts"
+                },
+                {
+                  "key": "C",
+                  "text": "conventional"
+                },
+                {
+                  "key": "D",
+                  "text": "debate"
+                },
+                {
+                  "key": "E",
+                  "text": "disruptions"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "favorably"
+                },
+                {
+                  "key": "H",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "I",
+                  "text": "introduction"
+                },
+                {
+                  "key": "J",
+                  "text": "modifications"
+                },
+                {
+                  "key": "K",
+                  "text": "poses"
+                },
+                {
+                  "key": "L",
+                  "text": "psychological"
+                },
+                {
+                  "key": "M",
+                  "text": "react"
+                },
+                {
+                  "key": "N",
+                  "text": "reverses"
+                },
+                {
+                  "key": "O",
+                  "text": "seemingly"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) introduction\n【原文】the introduction of new technologies「新技术的引入/推出」是 unemployment results from 的合理原因——技术引入才会替代人力，逻辑链通顺。\nE) disruptions 搭配冲突且要留给 35 题：disruptions of new technologies 不是惯常表达（更常说 disruptions caused by technologies）；且 35 题 mini\nJ) modifications 「修改」语义偏小、不致失业：modifications of new technologies 意为「对新技术的修改」，是技术本身被改，谈不上引发大规模失业，与因果不符。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compare"
+                },
+                {
+                  "key": "B",
+                  "text": "contradicts"
+                },
+                {
+                  "key": "C",
+                  "text": "conventional"
+                },
+                {
+                  "key": "D",
+                  "text": "debate"
+                },
+                {
+                  "key": "E",
+                  "text": "disruptions"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "favorably"
+                },
+                {
+                  "key": "H",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "I",
+                  "text": "introduction"
+                },
+                {
+                  "key": "J",
+                  "text": "modifications"
+                },
+                {
+                  "key": "K",
+                  "text": "poses"
+                },
+                {
+                  "key": "L",
+                  "text": "psychological"
+                },
+                {
+                  "key": "M",
+                  "text": "react"
+                },
+                {
+                  "key": "N",
+                  "text": "reverses"
+                },
+                {
+                  "key": "O",
+                  "text": "seemingly"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) psychological\n【原文】第四段刚解释完人们「不愿与机器比较、被机器替代对自尊伤害更小」这类心理动因 People tend to __(31)__ themselves less with machines than with other people.，第五段总结的 these effects 自然指上文这套心理反应，故用 psychological effects（心理效应）最贴。\nC) conventional 义偏「传统的」与上下文无关：conventional effects 意为「常规效应」，文章讲的并不是某种「传统/常规」效应，而是研究新发现的心理反差，词义指向不符。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compare"
+                },
+                {
+                  "key": "B",
+                  "text": "contradicts"
+                },
+                {
+                  "key": "C",
+                  "text": "conventional"
+                },
+                {
+                  "key": "D",
+                  "text": "debate"
+                },
+                {
+                  "key": "E",
+                  "text": "disruptions"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "favorably"
+                },
+                {
+                  "key": "H",
+                  "text": "guarantee"
+                },
+                {
+                  "key": "I",
+                  "text": "introduction"
+                },
+                {
+                  "key": "J",
+                  "text": "modifications"
+                },
+                {
+                  "key": "K",
+                  "text": "poses"
+                },
+                {
+                  "key": "L",
+                  "text": "psychological"
+                },
+                {
+                  "key": "M",
+                  "text": "react"
+                },
+                {
+                  "key": "N",
+                  "text": "reverses"
+                },
+                {
+                  "key": "O",
+                  "text": "seemingly"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) disruptions\n【原文】minimize disruptions in society 意为「把社会动荡降到最低」，与前文 manage the massive changes（驾驭巨大变革）一脉相承——技术冲击必然带来社会动荡，需要 minimize。\nJ) modifications 「修改」不是要消除的对象：minimize modifications in society 意为「尽量少作修改」，不符合「应对巨变以减少负面冲击」的语义指向，修改本身不是负面事物。 WORD BANK ·\nA) compare 动词：比较、相比 用于第 31 空\nB) contradicts 动词：（第三人称单数）反驳、与……矛盾 干扰词 · 未选用\nC) conventional 形容词：传统的、常规的 干扰词 · 未选用"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Certain institutions, such as schools, are likely to close when bad weather, such as snow, flooding or extreme heat or cold, causes travel difficulties, power outages(断供), or otherwise endangers public safety. When snowy weather arrives in the US, it means the chance of school children benefiting from the long-standing tradition of the \"snow day\", when schools are forced to close and students get an unexpected day off."
+            },
+            {
+              "label": "B",
+              "text": "The criterion for a snow day is primarily the inability of school buses to operate safely on their routes and danger to children who walk to school. Often, the school remains officially open even though buses do not run and classes are canceled. Severe weather that causes cancellation or delay is more likely in regions that are less able to handle the situation. Snow days are less common in more northern areas of the United States that are used to heavy winter snowfall, because municipalities are well equipped to clear roads and remove snow. In areas less accustomed to snow even small snowfalls of an inch or two may render roads unsafe."
+            },
+            {
+              "label": "C",
+              "text": "Snow days are a familiar theme in American film and TV shows, with children getting the good news and then running outside for some seasonal snowman-building and snowball throwing, against a background of joyful pop music. But the tradition is now over for pupils in several US states such as South Carolina, Nevada, Georgia and Indiana. This academic year, many school boards have introduced policies which require students to work from home if the school is shut by snow or extreme weather. They are known as \"e-learning days\", which certainly sounds less fun than a snow day."
+            },
+            {
+              "label": "D",
+              "text": "Teachers are also losing their snow days and instead will be expected to be on hand to take a virtual register and answer students' questions online. A pilot programme in a school district in Anderson County, South Carolina, has supplied students with electronic tablets loaded with assignments to complete in the event of a school closure. If it is successful, it could be rolled out across the state."
+            },
+            {
+              "label": "E",
+              "text": "But some parents object to the new policy if the vigorous debate on the Facebook page of Anderson County school district is anything to go by. \"When it snows, let the kids enjoy it,\" said one commenter. Another said the decision would \"ruin school even more\", and someone else called snow days \"a fun part of childhood\". But supporters of the policy say it means children will miss fewer days of school. It will also bring to an end a less popular US high school tradition: the \"make-up day\", which requires students in many states to make up the time lost due to weather by working during school holidays."
+            },
+            {
+              "label": "F",
+              "text": "Students in North Carolina already have several make-up days scheduled because of school closures during Hurricane Florence, which struck in September. Tom Wilson, the superintendent(主管) of Anderson County school district, said the change away from snow days makes practical and financial sense. He said technology has changed every profession, so it makes sense to use it to \"eliminate\" make-up days. Adam Baker of the Department of Education in Indiana said e-learning days were proving a \"great success\". He said most Indiana schools already use digital devices during lessons, so it was an \"easy decision\" to extend this to days when schools are closed. He denies the decision is depriving children of the chance to enjoy the snow. \"Students are still able to enjoy snow days and outside time,\" he said. \"Many have PE and science assignments that have them out enjoying the weather.\" But local school superintendents in Ohio are resisting proposals to adopt e-learning days. They fear that students without internet access at home will be disadvantaged by the policy, and superintendent Tom Roth is concerned that e-learning days will offer a lower quality of education."
+            },
+            {
+              "label": "G",
+              "text": "There are also so-called \"blizzard bags\", with assignments that children take home ahead of an expected snow closure. But Mr Roth says it is not sufficient as a replacement. \"I think we still need the class time to give our kids the education that they deserve,\" he said. \"You can't get that with a blizzard bag or doing the work from home like that. It's not going to be as effective.\""
+            },
+            {
+              "label": "H",
+              "text": "There is a long-running debate on whether missing days of school affects attainment. In England, there has been a focus on tackling absenteeism(旷课) from school. The Department for Education (DFE) published research in 2016 arguing that missing any days at school could have a negative impact on results. Even a few days lost in a year could be enough to miss out on getting a good exam grade, the DFE's research concluded. This differed from the findings of a study from Harvard University in the US, which concluded that missing a few occasional days because of the weather did not damage learning."
+            },
+            {
+              "label": "I",
+              "text": "The Harvard study examined seven years of school results data and could not find any impact from snow closures. What caused more disruption was when schools tried to stay open in bad weather, even though many staff and pupils were absent. But weather can make a difference to school results, according to another piece of Harvard research published last summer. It's hot weather that has the negative impact. The results of 10 million school students were examined over 13 years and researchers found a \"significant\" link between years with extremely hot weather and lower results."
+            },
+            {
+              "label": "J",
+              "text": "It's obvious that students should go to school every day to get the most out of education. In cases of extreme weather students don't always have that option. However, research shows that authorised absences from school such as during extreme weather are less problematic for students than absences that are not authorised. This is because unauthorised absences tend to reflect patterns and behaviours of student disengagement, or the possible negative attitudes of parents towards education that students adopt and carry with them through schooling. The level of impact on students' educational performance is all to do with the length of time that a student is absent from school and how regularly this occurs."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "There is opposition to the practice of giving children assignments to take home before extreme weather forces a school closure.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】There are also so-called \"blizzard bags\", with assignments that children take home ahead of an expected snow closure. But Mr Roth says it is not sufficient as a replacement.\nlocal school superintendents in Ohio are resisting proposals to adopt e-learning days 是反对 e-learning day，不是反对 assignments to take home before extreme weather forces a school closure 这一 blizzard bag 做法，所以话题相邻、对象不同，排除。"
+            },
+            {
+              "number": 37,
+              "stem": "New policies adopted by many US schools require students to do online learning at home in case of a school closure.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】This academic year, many school boards have introduced policies which require students to work from home if the school is shut by snow or extreme weather. They are known as \"e-learning days\", which certainly sounds less fun than a snow day.\nA pilot programme in a school district in Anderson County, South Carolina 是单一学区的具体案例，与 many US schools 的「很多」在范围上不匹配，所以是下位干扰，不是定调源头。"
+            },
+            {
+              "number": 38,
+              "stem": "According to some research, extreme hot weather negatively affects students' performance.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（强锚点）\n【原文】It's hot weather that has the negative impact. The results of 10 million school students were examined over 13 years and researchers found a \"significant\" link between years with extremely hot weather and lower results.\nmissing any days at school could have a negative impact on results 是「缺课-成绩」的负面关系，与 extreme hot weather 的「高温-成绩」主题不同，话题相邻但变量不同，排除。"
+            },
+            {
+              "number": 39,
+              "stem": "There is a time-honoured tradition in the US for school kids to stay at home on \"snow days\".",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】When snowy weather arrives in the US, it means the chance of school children benefiting from the long-standing tradition of the \"snow day\", when schools are forced to close and students get an unexpected day off.\nBut the tradition is now over for pupils in several US states 强调 snow day 传统已结束，与 a time-honoured tradition 的「由来已久」定调相反，不是源头段。"
+            },
+            {
+              "number": 40,
+              "stem": "Debates on social media show some parents are opposed to ending the \"snow day\" tradition.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】But some parents object to the new policy if the vigorous debate on the Facebook page of Anderson County school district is anything to go by. \"When it snows, let the kids enjoy it,\" said one commenter.\nlocal school superintendents in Ohio are resisting proposals to adopt e-learning days 是学监反对，不是题干所要求的家长反对，且 F 段也没有「社交媒体」这一渠道指纹，排除。"
+            },
+            {
+              "number": 41,
+              "stem": "In more northern regions of the US, school is less likely to be affected by snowy weather.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（强锚点）\n【原文】Snow days are less common in more northern areas of the United States that are used to heavy winter snowfall, because municipalities are well equipped to clear roads and remove snow.\n在美国更靠北、习惯了大量冬雪的地区，雪天假并不那么常见，因为市政部门有充分的设备来清理道路、清除积雪。"
+            },
+            {
+              "number": 42,
+              "stem": "Research indicates absences from school with permission do not cause as many problems as those without permission.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】However, research shows that authorised absences from school such as during extreme weather are less problematic for students than absences that are not authorised.\nmissing any days at school could have a negative impact on results 笼统讲缺课，未出现 authorised 与 not authorised 对照，与题干核心对照不匹配，排除。"
+            },
+            {
+              "number": 43,
+              "stem": "There is objection to e-learning days owing to fear that students with no access to the Internet at home will suffer.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（强锚点）\n【原文】But local school superintendents in Ohio are resisting proposals to adopt e-learning days. They fear that students without internet access at home will be disadvantaged by the policy, and superintendent Tom Roth is concerned that e-learning days will offer a lower quality of education.\nWhen it snows, let the kids enjoy it 与 a fun part of childhood 的反对理由是「剥夺孩子的雪天乐趣」，不是 students with no access to the Internet at home will suffer 的「无网吃亏」，理由不符，排除。"
+            },
+            {
+              "number": 44,
+              "stem": "In a pilot programme, students are given electronic devices to do assignments when schools are closed.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】A pilot programme in a school district in Anderson County, South Carolina, has supplied students with electronic tablets loaded with assignments to complete in the event of a school closure.\nmany school boards have introduced policies which require students to work from home if the school is shut by snow or extreme weather 是政策的总定调，没有谈到 a pilot programme 与 electronic devices，与题干两条指纹都不符，排除。"
+            },
+            {
+              "number": 45,
+              "stem": "Along-standing debate is going on over the impact of school absences on students' academic performance.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（强锚点）\n【原文】There is a long-running debate on whether missing days of school affects attainment.\n2024年6月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 43. There is objection to e-learning days owing to fear that students with no access to the Internet at home will suffer. 这句陈述的信息出自第几段？为什么？ 2024年6月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 第 43 句的信息出自 F 段（强锚点句）。F 段定位句为「But local school superintendents in Ohio are resisting proposals to adopt e-learning days. They fear that students without internet access at home will be disadvantaged by the policy, and superintendent Tom Roth is concerned that e-learning days will offer a lower quality of education.」（但 Ohio 的本地学监们正在抵制采用 e-learning days 的提议。他们担心家中没有网络的学生会因该政策处于劣势，学监 Tom Roth 还担心 e-learning days 会带来更低质量的教育。）。陈述句是对原文的同义改写（students with no access to the Internet at home ↔ students without internet access at home；will suffer ↔ will be disadvantaged by the policy；objection to e-learning days ↔ local school superintendents in Ohio are resisting proposals to adopt e-learning days）。与之话题相邻的 E 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "It may sound surprising, but you don't have to be interested in fashion, or even in history, to enjoy Dress Codes: How the Laws of Fashion Made History. I happen to be interested in both, and ended up enjoying the book for completely different reasons."
+            },
+            {
+              "label": "B",
+              "text": "Richard Thompson Ford is a law professor, and you probably won't forget that for even one page. His carefully reasoned arguments, packed with examples, sound almost like reading a court opinion, only maybe wordier. You will probably never think of fashion as a trifle again."
+            },
+            {
+              "label": "C",
+              "text": "Ford's thesis is that the best way to understand what particular fashions meant in any given era is to look at the restrictions placed on them. Through this lens, he shows us that the first laws passed in the 1200s to ensure that only the nobility were allowed to wear certain fabrics, colors and ornaments reflected the rise of the middle class, who were now able to imitate some of these fashions. The status of the upper classes was threatened; fashion was a tool to preserve it."
+            },
+            {
+              "label": "D",
+              "text": "Ford takes the reader through the evolution of fashion while examining the underlying motivations of status, sex, power, and personality, which, he assumes, influenced all innovations in fashion in the past and which continue to influence us today. His writing is more than a little dense—dense with research, clauses, and precise adjectives and nouns. But there's also humor and enough interesting episodes to make the writing appealing. No one is spared his sharp analysis: not the easy targets of 19th century women's crippling(伤害身体的) fashions nor the modern uniforms of Silicon Valley T-shirts"
+            },
+            {
+              "label": "E",
+              "text": "But the greatest strength of this book (on fashion!) is its intellectual profoundness. Ford asks us to question unconscious beliefs, to realize that we almost never do so, to understand that the simplest choices are charged with meaning, and yet that meaning can and does change all the time. Consider the fact that a 1918 catalog insisted that boys and girls be dressed in the appropriate color. We believe our thinking today is evolved; Ford shows us it's not."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author think of the book Dress Codes: How the Laws of Fashion Made History?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is read by people for entirely different reasons."
+                },
+                {
+                  "key": "B",
+                  "text": "It is meant for those interested in fashion history."
+                },
+                {
+                  "key": "C",
+                  "text": "It makes enjoyable as well as informative reading."
+                },
+                {
+                  "key": "D",
+                  "text": "It converts fashion into something for deliberation."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（主旨题）\nA) 过度推断：It is read by people for entirely different reasons 把 I happen to be interested in both, a\nB) 与原文相反：It is meant for those interested in fashion history 与 you don't have to be interested in f\nC) ✓ 正确：enjoy Dress Codes: How the Laws of Fashion Made History ↔ enjoyable intellectual profoundn\nD) 过度推断：It converts fashion into something for deliberation 把 You will probably never think of fas"
+            },
+            {
+              "number": 47,
+              "stem": "How can people best understand a particular fashion in an era, according to Ford?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By examining the restraints imposed on it."
+                },
+                {
+                  "key": "B",
+                  "text": "By looking at what the nobility were wearing."
+                },
+                {
+                  "key": "C",
+                  "text": "By glancing at its fabrics, colors and ornaments."
+                },
+                {
+                  "key": "D",
+                  "text": "By doing a survey of the upper and middle classes"
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Ford's thesis is that the best way to understand what particular fashions meant in any given era is to look at the restrictions placed on them.\nA) ✓ 正确：look at the restrictions placed on them ↔ examining the restraints imposed on it 四个选项中只有 B\nB) 拿例证替换方法：By looking at what the nobility were wearing 只截取 the nobility were allowed to wear certain\nC) 偷换概念：By glancing at its fabrics, colors and ornaments 取自 certain fabrics, colors and ornaments，\nD) 无中生有：By doing a survey of the upper and middle classes 中 doing a survey 文中并无任何对应，Ford 谈的是「看限制」而"
+            },
+            {
+              "number": 48,
+              "stem": "What was the aim of the first laws passed regarding fashion in the 1200s?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To facilitate the rise of the middle class."
+                },
+                {
+                  "key": "B",
+                  "text": "To loosen restrictions on dress codes."
+                },
+                {
+                  "key": "C",
+                  "text": "To help initiate some novel fashions"
+                },
+                {
+                  "key": "D",
+                  "text": "To preserve the status of the nobles."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】the first laws passed in the 1200s to ensure that only the nobility were allowed to wear certain fabrics, colors and ornaments reflected the rise of the middle class, who were now able to imitate some of these fashions. The status of the upper classes was threatened; fashion was a tool to preserve it.\nA) 与原文相反：To facilitate the rise of the middle class 把「中产阶级崛起」当成目的，但原文是中产阶级崛起在前、立法在后，立法是为了反制这种崛起、保护贵\nB) 与原文相反：To loosen restrictions on dress codes 与原文「立法是限制」的方向完全相反，原文是 only the nobility were allowed\nC) 无中生有：To help initiate some novel fashions 称立法是为了开启新潮流，文中只字未提；原文谈的是用法律压制模仿，而非鼓励创新。\nD) ✓ 正确：The status of the upper classes was threatened; fashion was a tool to preserve it ↔ To pre"
+            },
+            {
+              "number": 49,
+              "stem": "What does the author think of Ford's writing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It uses comparison and contrast in describing fashions of different eras."
+                },
+                {
+                  "key": "B",
+                  "text": "It makes heavy reading but is not lacking in humor or appeal."
+                },
+                {
+                  "key": "C",
+                  "text": "It is filled with interesting episodes to spare readers intolerable boredom."
+                },
+                {
+                  "key": "D",
+                  "text": "It is characteristic of academics in presenting arguments."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】His writing is more than a little dense—dense with research, clauses, and precise adjectives and nouns. But there's also humor and enough interesting episodes to make the writing appealing.\nA) 无中生有：It uses comparison and contrast in describing fashions of different eras 谈 Ford 用了 compari\nB) ✓ 正确：His writing is more than a little dense ↔ makes heavy reading there's also humor and enoug\nC) 过度推断：It is filled with interesting episodes to spare readers intolerable boredom 把原文「也有」夸成「充满」，\nD) 以偏概全：It is characteristic of academics in presenting arguments 与 sound almost like reading a co"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author say is the greatest strength of Ford's book?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Plentiful information."
+                },
+                {
+                  "key": "B",
+                  "text": "Meaningful choices."
+                },
+                {
+                  "key": "C",
+                  "text": "Evolved thinking."
+                },
+                {
+                  "key": "D",
+                  "text": "Intellectual depth"
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】But the greatest strength of this book (on fashion!) is its intellectual profoundness.\nA) 张冠李戴：Plentiful information 把 dense with research 误当作本段「最大优点」，跨段错位，且 Ford 的写作密度在原文是写作风格而非最大优点。\nB) 以偏概全：Meaningful choices 取自 the simplest choices are charged with meaning，那是支撑思想深度的细节，不是最大优点本身。\nC) 与原文相反：Evolved thinking 直接对应 We believe our thinking today is evolved; Ford shows us it's not，作者明\nD) ✓ 正确：intellectual profoundness ↔ Intellectual depth Intellectual depth 与预判「思想上的深刻」语义一一对应，无任何缩放或"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The art of persuasion means convincing others to agree with your point of view or to follow your course of action. For some of us, persuasion is an instinctive quality and the power of influencing comes naturally. For the rest of us, persuasion skills can be learned and developed over time."
+            },
+            {
+              "label": "B",
+              "text": "Employers place a great value on employees with persuasion skills because they can impact several aspects of job performance. Besides, teamwork and leadership rely heavily on the power of persuasion to get things done. Without persuasion skills, employees may not be as committed to or convinced of the importance of an organization's vision and long-term mission. Effective use of persuasion skills will not only help get your coworkers excited about your ideas, it'll also help you motivate them to achieve a common goal."
+            },
+            {
+              "label": "C",
+              "text": "In order to learn the art of persuasion at the workplace, you need to understand how to handle conflicts and reach agreements. Good communication is the first step in effective persuasion, but logic and reasoning are just as important. Before you can get somebody on-board with your goal, you should help them understand why they should pursue it. Using visual aids to back up your ideas can help communicate your ideas better and make compelling arguments so your listeners will come to a logical choice and become fully committed to your ideas and plans."
+            },
+            {
+              "label": "D",
+              "text": "Successful persuasion skills are based on your ability to have positive interactions and maintain meaningful relationships with people. In order to sustain those relationships, you must be able to work in their best interests as well. Your coworkers are more likely to agree with you when they succeed alongside you. The more they achieve and the greater progress they make, the more they trust your judgement and strength."
+            },
+            {
+              "label": "E",
+              "text": "We persuade and get persuaded every day—we're either convincing or being convinced. A vast majority of people prefer collaboration and teamwork over traditional organizational structures; no one likes to be told what to do or to be pushed around. Therefore, organizations and leaders should adopt powerful persuasion skills to bring about necessary changes."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the author say about the ability to be persuasive in the first paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "People may either be born with it or be able to cultivate it."
+                },
+                {
+                  "key": "B",
+                  "text": "It proves crucial in making others follow one's course of action."
+                },
+                {
+                  "key": "C",
+                  "text": "It refers to the natural and instinctive power of influencing one's coworkers."
+                },
+                {
+                  "key": "D",
+                  "text": "People may view it as both a means to convince others and an art of communication."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】For some of us, persuasion is an instinctive quality and the power of influencing comes naturally. For the rest of us, persuasion skills can be learned and developed over time.\nA) ✓ 正确：For some of us, persuasion is an instinctive quality ↔ born with it persuasion skills can \nB) 答非所问：It proves crucial in making others follow one's course of action 把首段对“能力来源”的说明换成了“能力的重要性”，\nC) 以偏概全：It refers to the natural and instinctive power of influencing one's coworkers 只截取了“天生本能”那一\nD) 无中生有：People may view it as both a means to convince others and an art of communication 中的 art o"
+            },
+            {
+              "number": 52,
+              "stem": "Why are persuasion skills greatly valued in the workplace?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They enable employees to be convinced of their long-term gains."
+                },
+                {
+                  "key": "B",
+                  "text": "They enable employees to trust their leaders unconditionally."
+                },
+                {
+                  "key": "C",
+                  "text": "They help motivate coworkers to strive for a common goal."
+                },
+                {
+                  "key": "D",
+                  "text": "They help an organization to broaden its vision effectively."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Effective use of persuasion skills will not only help get your coworkers excited about your ideas, it'll also help you motivate them to achieve a common goal.\nA) 无中生有：They enable employees to be convinced of their long-term gains 中的 long-term gains 在原文找不到对应\nB) 过度推断：They enable employees to trust their leaders unconditionally 中 unconditionally 是绝对化表述，原文只谈\nC) ✓ 正确：help you motivate them to achieve a common goal ↔ help motivate coworkers to strive for a \nD) 偷换概念：They help an organization to broaden its vision effectively 把原文的“让员工 committed to vision”（"
+            },
+            {
+              "number": 53,
+              "stem": "What should people do to learn the art of persuasion at the workplace?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Acquire effective communication skills."
+                },
+                {
+                  "key": "B",
+                  "text": "Avoid getting involved in conflicts with others."
+                },
+                {
+                  "key": "C",
+                  "text": "Understand the reason for pursuing their goals."
+                },
+                {
+                  "key": "D",
+                  "text": "Commit themselves fully to their ideas and plans."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Good communication is the first step in effective persuasion, but logic and reasoning are just as important.\nA) ✓ 正确：Good communication is the first step in effective persuasion ↔ Acquire effective communica\nB) 偷换概念：Avoid getting involved in conflicts with others 把原文 how to handle conflicts（处理冲突）偷换成 avoid\nC) 张冠李戴：Understand the reason for pursuing their goals 把原文中的“帮别人理解为什么要追求该目标”张冠到“自己理解”，主语错位。\nD) 答非所问：Commit themselves fully to their ideas and plans 描述的是听众被说服后的状态（fully committed），是“说服成功”的结果"
+            },
+            {
+              "number": 54,
+              "stem": "When are you more likely to succeed in persuading your coworkers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "When they are convinced you work in their interests while sacrificing your own"
+                },
+                {
+                  "key": "B",
+                  "text": "When they become aware of the potential strength of the judgements you make"
+                },
+                {
+                  "key": "C",
+                  "text": "When they become aware of the meaningful relationships you keep with them."
+                },
+                {
+                  "key": "D",
+                  "text": "When they are convinced they will make achievements together with you."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Your coworkers are more likely to agree with you when they succeed alongside you.\nA) 过度推断：while sacrificing your own 是原文从未提及的“牺牲自我利益”，原文只说“为对方利益着想”，未要求牺牲自己。\nB) 偷换概念：the potential strength of the judgements you make 把原文 they trust your judgement and streng\nC) 答非所问：meaningful relationships you keep with them 是说服力的前提条件（说服者需要做的事），不是同事被说服的触发条件——题干问的是后者。\nD) ✓ 正确：when they succeed alongside you ↔ When they are convinced they will make achievements toge"
+            },
+            {
+              "number": 55,
+              "stem": "Why are organizations and leaders advised to adopt powerful persuasion skills to bring about necessary changes?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To convince employees of the value of collaboration"
+                },
+                {
+                  "key": "B",
+                  "text": "To allow for the preferences of most people of today"
+                },
+                {
+                  "key": "C",
+                  "text": "To improve on traditional organizational structures"
+                },
+                {
+                  "key": "D",
+                  "text": "To adapt to employees' ever-changing working styles"
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】A vast majority of people prefer collaboration and teamwork over traditional organizational structures; no one likes to be told what to do or to be pushed around. Therefore, organizations and leaders should adopt powerful persuasion skills to bring about necessary changes.\nA) 答非所问：To convince employees of the value of collaboration 把“顺应大多数人偏好”换成了“说服员工相信协作的价值”——原文是员工自己已经\nB) ✓ 正确：A vast majority of people prefer collaboration and teamwork over traditional organizationa\nC) 无中生有：To improve on traditional organizational structures 把“改善传统组织结构”列为目的，但原文 traditional organi\nD) 无中生有：To adapt to employees' ever-changing working styles 中的 ever-changing working styles（不断变化的工"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n汉语中的 \"福\"字 (the character fu)表示幸福和好运,是中国传统文化中最常用的吉祥(auspicious) 符号之一。人们通常将一个大大的福字写在红纸上, 寓意期盼家庭幸福、社会安定、国家昌盛。春节贴福字是民间由来已久的习俗。为了欢庆春节, 家家户户都会将福字贴在门上或墙上, 表达对幸福生活的向往、对美好未来的期待。人们有时还将福字倒过来贴，表示幸福已到、好运已到。",
+              "analysis": "【参考译文】\nThe Chinese character \"Fu\" means happiness and good fortune, and is one of the most commonly used auspicious symbols in traditional Chinese culture. People usually write a large character \"Fu\" on red paper, expressing their wish for family happiness, social stability and national prosperity. Pasting the character \"Fu\" during the Spring Festival is a long-standing folk custom. To celebrate the Spring Festival, every household pastes the character \"Fu\" on doors or walls, expressing their longing for a happy life and their expectation for a better future. Sometimes people also paste the character \"Fu\" upside down to indicate that happiness and good fortune have arrived."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+    "sharedWith": "cet4-2024-06-s1",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 35
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2024-06-3/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

@@ -1,0 +1,2736 @@
+{
+  "id": "cet4-2023-12-s3",
+  "level": "CET4",
+  "year": 2023,
+  "month": 12,
+  "setNo": 3,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose the university newspaper is inviting submissions from the students for its coming edition on what in their university impresses them most.You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nAmong the many things on campus, it is the university library that has impressed me most. While my college offers modern labs and lively clubs, none of them stays in my heart as deeply as that quiet building.\n\nQuiet and well-lit, the library offers a space where I can truly focus and lose myself in books. Surrounded by towering shelves, I felt the joy of learning for the very first time. What touched me even more was a small experience. I still remember the day when I was searching desperately for an out-of-print book. It was a gentle old librarian who spent half an hour helping me track it down, which made me realize that this place is warmed not only by knowledge but also by kindness.\n\nLooking back, the library is more than a study room; it has taught me to seek knowledge actively rather than passively. That is why this quiet corner will always be the most unforgettable part of my university life."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "本场次听力只有一份音频，本套听力与同场第一套同卷；原文、题目与答案取自该套真题。考场多套卷的选项顺序可能不同，这里沿用第一套的顺序。在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 4.2,
+              "text": "1 Have you noticed how similar you are to your friends?"
+            },
+            {
+              "id": 2,
+              "start": 4.5,
+              "end": 9.2,
+              "text": "It may be because your brains operate in harmony with each other."
+            },
+            {
+              "id": 3,
+              "start": 9.5,
+              "end": 16.9,
+              "text": "We know that friends are more likely to be the same age, gender and ethnic background as each other."
+            },
+            {
+              "id": 4,
+              "start": 17.3,
+              "end": 28.8,
+              "text": "Now it seems their brains are alike, too. 2 Researchers at the University of California scanned the brains of 42 classmates while they watched videos intended to provoke varying responses."
+            },
+            {
+              "id": 5,
+              "start": 29.2,
+              "end": 35.7,
+              "text": "Some people might find a romantic scene touching, for instance, while others would feel it was embarrassing."
+            },
+            {
+              "id": 6,
+              "start": 36.1,
+              "end": 46.1,
+              "text": "The activity of friends' brains was more similar than that of people who didn't know each other, particularly in regions involved in attention, emotion and language."
+            },
+            {
+              "id": 7,
+              "start": 46.5,
+              "end": 54.1,
+              "text": "This similarity was strong enough that it could be used to predict whether two people were already friends or not."
+            },
+            {
+              "id": 8,
+              "start": 54.5,
+              "end": 56.8,
+              "text": "The relationship probably goes two ways."
+            },
+            {
+              "id": 9,
+              "start": 57.1,
+              "end": 67.9,
+              "text": "We are drawn to people who think like us; we then influence their thoughts over time, which may push their brain activity into more closely resembling our own."
+            }
+          ],
+          "audioDuration": 67.9,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What may be the reason that friends are similar to each other according to the recent research?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their brains work in harmony."
+                },
+                {
+                  "key": "B",
+                  "text": "They are generally the same age."
+                },
+                {
+                  "key": "C",
+                  "text": "Their interests are quite similar."
+                },
+                {
+                  "key": "D",
+                  "text": "They have the same ethnic background."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：It may be because your brains operate in harmony with each other.信号：因果信号 because 。录音开头先抛问句“有没有发现你和朋友很像“，紧接 It may be because your brains operate in harmony with each other —— b…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音确实念到 friends are more likely to be the same age，They are generally the same age. 正盗用了这个 same age。但这句前面有 We know that，是“早已知道的旧结论“，并非题干所问的“近期研究发现的相似原因“——原因落在大脑那句，不在同龄这句。 借用原文：the same age, gender and ethnic background",
+                "C": "未提及：Their interests are quite similar. 听起来很合常识，但录音通篇没提“兴趣（interests）“相似，只说了年龄、性别、族裔背景与大脑。它靠的是考生“朋友兴趣相投“的生活常识，而非录音内容，属未提及。",
+                "D": "原词陷阱：They have the same ethnic background. 盗用了录音的 ethnic background。和 B 一样，这句出自 We know that friends are more likely to be the same age, gender and ethnic background，是“已知的旧情况“，不是近期研究新发现的相似原因，答非所问。",
+                "A": "正确项：与答案句同义替换（your brains operate in harmony with each other ↔ Their brains work in harmony. operate 换说成 work）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "It may be because your brains operate in harmony with each other.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What does the news report say about the relationship between friends?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It can be touching."
+                },
+                {
+                  "key": "B",
+                  "text": "It is hard to predict."
+                },
+                {
+                  "key": "C",
+                  "text": "It can work both ways."
+                },
+                {
+                  "key": "D",
+                  "text": "It resembles family ties."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：The relationship probably goes two ways. We are drawn to people who think like us; we then influence their thoughts over time, which may push their brain activity into more closely resembling our own.信号：定性句 goes two ways 。录音第二段结尾用 The relationship probably goes two ways 直接给“关系“下定性，后面 We are drawn to people…; w…",
+              "optionAnalysis": {
+                "A": "原词陷阱：It can be touching. 盗用了录音的 touching，可那个 touching 出现在 Some people might find a romantic scene touching——是在举例说明“不同人对同一画面反应不同“，说的是“浪漫场景“感人，根本不是在评价“朋友关系“。张冠李戴，答非所问。 借用原文：it could be used to predict whether two people were already friends or not",
+                "B": "与原文相反：It is hard to predict. 借了录音的 predict。但录音说的是 it could be used to predict whether two people were already friends or not——意思是“大脑相似度高到能用来预测两人是不是朋友“，是说“能预测“，根本没说“关系难预测“。选项把“能预测“反着说成了“难预测“，与原文相反。",
+                "D": "未提及：It resembles family ties. 听着像那么回事，但录音全程没把朋友关系比作“家庭纽带（family ties）“，只说了关系“双向“。它纯靠考生自行联想，录音无任何对应，属未提及。",
+                "C": "正确项：与答案句同义替换（The relationship probably goes two ways ↔ It can work both ways. two ways 换成 both ways）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The relationship probably goes two ways. We are drawn to people who think like us; we then influence their thoughts over time, which may push their brain activity into more closely resembling our own.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 6.9,
+              "text": "1 Two men who have been best friends for 60 years have just realized they are actually brothers."
+            },
+            {
+              "id": 2,
+              "start": 7.3,
+              "end": 14.2,
+              "text": "It's reported that Alan Robinson and Walter MacDonald met in the 6th grade at a school in Hawaii."
+            },
+            {
+              "id": 3,
+              "start": 14.5,
+              "end": 17.2,
+              "text": "They have been best friends ever since."
+            },
+            {
+              "id": 4,
+              "start": 17.6,
+              "end": 24.1,
+              "text": "Alan was given away for adoption soon after he was born, and Walter never knew his father."
+            },
+            {
+              "id": 5,
+              "start": 24.5,
+              "end": 30.6,
+              "text": "So recently, they made separate attempts on DNA matching websites to discover more about their ancestry."
+            },
+            {
+              "id": 6,
+              "start": 31,
+              "end": 36,
+              "text": "Walter was astonished to find that he matched with website user Robi 737."
+            },
+            {
+              "id": 7,
+              "start": 36.4,
+              "end": 45.6,
+              "text": "He knew immediately that this was his best friend Alan, whose friends call him Robi and flew 737 airplanes when he was a pilot."
+            },
+            {
+              "id": 8,
+              "start": 46,
+              "end": 50.2,
+              "text": "The pair were born to the same mother 15 months apart."
+            }
+          ],
+          "audioDuration": 50.2,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What did both Alan Robinson and Walter MacDonald attempt to do on DNA matching websites?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Search for their half-brothers."
+                },
+                {
+                  "key": "B",
+                  "text": "Identify their biological fathers."
+                },
+                {
+                  "key": "C",
+                  "text": "Find out more about their ancestry."
+                },
+                {
+                  "key": "D",
+                  "text": "See whether they are actually related."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：So recently, they made separate attempts on DNA matching websites to discover more about their ancestry.信号：题干原词attempt复现+目的句 。题干问 attempt to do，录音里恰好出现 made separate attempts on DNA matching websites，attempt 和 DNA m…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 说去 Search for their half-brothers.(寻找同父异母的兄弟)。录音确实出现 they are actually brothers‘他们其实是兄弟’，A 盗用了 brothers 这个词，但录音里这是新闻最后揭晓的真相，不是他俩上网时‘想去找的目标’——而且他们是同母兄弟、不是 half-brothers，张冠李戴。 借用原文：Walter never knew his father",
+                "B": "原词陷阱：B 说去 Identify their biological fathers.(确认亲生父亲)。录音有 Walter never knew his father，B 盗用了 father 一词，但这只是介绍背景，两人上网的目的写得很清楚是 discover more about their ancestry(查家世)，不是专门去认父亲。 借用原文：they are actually brothers",
+                "D": "原词陷阱：D 说去 See whether they are actually related.(看看俩人是否真有亲属关系)。录音里 they are actually brothers 用了 actually 一词，D 盗用了 actually 并改写成 related，可他们上网时压根不知道彼此有血缘、不是‘去验证是否有关系’，验出是兄弟是意外结果，不是上网动机。",
+                "C": "正确项：与答案句同义替换（to discover more about their ancestry ↔ Find out more about their ancestry. discover换成find out，ancestry原样）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "So recently, they made separate attempts on DNA matching websites to discover more about their ancestry.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What did the news report say about Alan Robinson and Walter MacDonald?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They were both given up for adoption."
+                },
+                {
+                  "key": "B",
+                  "text": "They were born to the same mother."
+                },
+                {
+                  "key": "C",
+                  "text": "They flew 737 airplanes as pilots."
+                },
+                {
+                  "key": "D",
+                  "text": "They were both 60 years of age."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：The pair were born to the same mother 15 months apart.信号：结尾收束句给出血缘真相 。新闻把最关键的血缘结论放在末句 The pair were born to the same mother 15 months apart——新闻报道常把核心事实或结局压在结尾，这个‘篇末收…",
+              "optionAnalysis": {
+                "A": "与原文相反：A 说两人 They were both given up for adoption.(都被送养)。录音里确有 Alan was given away for adoption，A 盗用了 adoption，但录音只说 Alan 一个人被送养，A 却说成 both(两个人都)，把范围从一人扩大到两人，与原文不符。 借用原文：flew 737 airplanes when he was a pilot",
+                "C": "张冠李戴：C 说两人 They flew 737 airplanes as pilots.(都当飞行员开737)。录音念到了 flew 737 airplanes when he was a pilot，C 盗用了 737 和 pilot 这两个醒目词，但 he 指的只是 Alan 一人，C 说成 They(两人都飞)，把一人之事安到两人头上。 借用原文：best friends for 60 years",
+                "D": "偷换概念：D 说两人 They were both 60 years of age.(都60岁)。录音开头有 best friends for 60 years，D 盗用了数字 60，但这60是‘做了60年好朋友’，是友谊的年数，不是两人的年龄；偷换了60所修饰的对象。",
+                "B": "正确项：与答案句同义替换（born to the same mother ↔ They were born to the same mother. 原句几乎照搬主语换成They）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The pair were born to the same mother 15 months apart.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 7.7,
+              "text": "1 Amid all the election drama, air pollution problems and disease outbreaks, five tourists' good work is being spread online."
+            },
+            {
+              "id": 2,
+              "start": 8.1,
+              "end": 14.2,
+              "text": "Yesterday two male and three female tourists were spotted walking the kilometer-long beach, picking up trash."
+            },
+            {
+              "id": 3,
+              "start": 14.5,
+              "end": 22.2,
+              "text": "One of the male tourists from Australia commented that although there was a lot of trash, nobody was doing anything."
+            },
+            {
+              "id": 4,
+              "start": 22.6,
+              "end": 27.2,
+              "text": "The beach was not as nice or beautiful as it should be."
+            },
+            {
+              "id": 5,
+              "start": 27.6,
+              "end": 33.3,
+              "text": "He felt so sad to see such a gorgeous place littered with so much trash."
+            },
+            {
+              "id": 6,
+              "start": 33.6,
+              "end": 46.7,
+              "text": "Thus, he and his friends decided to grab a few trash bags and clean it all up. 2 A man passing by decided to video their good deed and put it on the internet."
+            },
+            {
+              "id": 7,
+              "start": 47.1,
+              "end": 54,
+              "text": "It was unclear where the rest of the group was from, but they were most likely traveling together."
+            },
+            {
+              "id": 8,
+              "start": 54.4,
+              "end": 59.7,
+              "text": "One local woman commented on being embarrassed that tourists were cleaning up their beach."
+            },
+            {
+              "id": 9,
+              "start": 60.1,
+              "end": 67.7,
+              "text": "Another mentioned that it was actually the natives who brought food and drinks then left trash all along the island."
+            }
+          ],
+          "audioDuration": 67.7,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "Why did one of the male tourists feel sad?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "One of his friends was caught littering."
+                },
+                {
+                  "key": "B",
+                  "text": "Other tourists refused to join in the cleanup."
+                },
+                {
+                  "key": "C",
+                  "text": "The beautiful beach was spoiled with lots of trash."
+                },
+                {
+                  "key": "D",
+                  "text": "The kilometer-long beach was practically deserted."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：He felt so sad to see such a gorgeous place littered with so much trash.信号：feel sad 与题干同词直接命中 。答案句直接出现题干里的 He felt so sad，紧跟其后的 to see such a gorgeous place littered with so much tras…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 项借用录音里的 his friends 一词，但原文只说他和朋友一起去捡垃圾，从没说‘朋友被抓乱扔垃圾’，是把出现过的原词拼成一个录音根本没说的情节。 借用原文：Yesterday two male and three female tourists were spotted walking the kilometer-long beach",
+                "B": "未提及：录音说的是‘nobody was doing anything’（没人去管这些垃圾），并非‘其他游客拒绝加入清理’；‘refused to join in’这一情节录音从未出现，属凭空捏造。",
+                "D": "与原文相反：D 项盗用录音里的 kilometer-long beach，却说海滩‘practically deserted（几乎空无一人）’；而录音强调的是海滩满是垃圾、不够美，与‘空无一人’语义不符，方向反了。",
+                "C": "正确项：与答案句同义替换（such a gorgeous place littered with so much trash ↔ The beautiful beach was spoiled with lots of trash 同义改写：美景被垃圾糟蹋）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "He felt so sad to see such a gorgeous place littered with so much trash.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "Who put the good deed video on the internet?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A passerby."
+                },
+                {
+                  "key": "B",
+                  "text": "A local woman."
+                },
+                {
+                  "key": "C",
+                  "text": "The beach authorities."
+                },
+                {
+                  "key": "D",
+                  "text": "One of the five tourists."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：A man passing by decided to video their good deed and put it on the internet.信号：动作 put it on the internet 与题干同动作 。答案句出现与题干同样的动作 put it on the internet，前面的主语 A man passing by 就是施动者；听到题干里的关键…",
+              "optionAnalysis": {
+                "B": "张冠李戴：B 项盗用录音里的 One local woman，但这位本地女子做的是‘评论说自己很尴尬’，并非上传视频；把别人做的事安到她头上，属人物错位。 借用原文：they were most likely traveling together",
+                "C": "未提及：录音通篇没出现‘beach authorities（海滩管理方）’这个角色，上传视频的也不是任何官方机构，属凭空捏造的身份。",
+                "D": "张冠李戴：D 项盗用录音里的‘游客’，游客确实是事件主角、在捡垃圾，但发视频到网上的是路过男子而非游客中的某人；把上传动作错记到游客身上。",
+                "A": "正确项：与答案句同义替换（A man passing by ↔ A passerby 短语压缩成单词）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "A man passing by decided to video their good deed and put it on the internet.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "Why did one local woman say she was embarrassed?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The tourists' good deed was not noticed by the locals."
+                },
+                {
+                  "key": "B",
+                  "text": "Some natives were selling poor-quality food to tourists."
+                },
+                {
+                  "key": "C",
+                  "text": "The number of tourists to the beach is on a steady decline."
+                },
+                {
+                  "key": "D",
+                  "text": "It was tourists not natives who were cleaning up the beach."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：One local woman commented on being embarrassed that tourists were cleaning up their beach.信号：embarrassed that 直接引出原因 。答案句出现题干同词 embarrassed，紧跟的 that tourists were cleaning up their beach 由 that 直接引出尴尬的…",
+              "optionAnalysis": {
+                "A": "与原文相反：A 项说‘游客善举没被本地人注意到’，但录音里本地女子明明注意到了才会尴尬，路人还拍了视频，恰恰说明被注意到了；‘not noticed’与录音事实相反。 借用原文：it was actually the natives who brought food and drinks then left trash all along the island",
+                "B": "偷换概念：B 项盗用录音里的 food and drinks，但原文是说本地人‘带来食物饮料后留下垃圾’，绝非‘卖劣质食物给游客’；把‘带来食物乱丢垃圾’偷换成‘卖劣质食物’。",
+                "C": "未提及：录音通篇没提‘游客数量在持续下降’这一信息，本题谈的是清理海滩与尴尬，与游客增减无关，属凭空捏造的全新话题。",
+                "D": "正确项：与答案句同义替换（that tourists were cleaning up their beach ↔ It was tourists not natives who were cleaning up the beach 补出隐含对照：游客而非本地人）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "One local woman commented on being embarrassed that tourists were cleaning up their beach.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 8.8,
+              "text": "W: Hello Benjamin, Dan and I will be going for a run along the canal Saturday morning. Would you like to join us?",
+              "zh": "W: 你好 Benjamin,我和 Dan 周六早上要沿着运河跑步。你想一起来吗?"
+            },
+            {
+              "id": 2,
+              "start": 9.2,
+              "end": 15.3,
+              "text": "M: I'd love to, but I hurt my ankle last weekend playing football with work colleagues.",
+              "zh": "M: 我很想去,但我上周末和同事踢足球时伤了脚踝。"
+            },
+            {
+              "id": 3,
+              "start": 15.7,
+              "end": 18,
+              "text": "W: Oh dear, is it serious?",
+              "zh": "W: 哎呀,严重吗?"
+            },
+            {
+              "id": 4,
+              "start": 18.4,
+              "end": 35.3,
+              "text": "M: No, not at all. I landed badly during a fall and twisted it a little, but it's no big deal. It's just a little swollen and I should be fine for next Saturday if you still want to go for a jog then.",
+              "zh": "M: 不,一点也不严重。我摔倒的时候落地不太好,扭了一下,但不是什么大事。只是有点肿,下周六应该就没事了,如果你那时候还想去慢跑的话。"
+            },
+            {
+              "id": 5,
+              "start": 35.6,
+              "end": 40.3,
+              "text": "W: I won't be here next Saturday. I'm going to the zoo.",
+              "zh": "W: 我下周六不在这儿。我要去动物园。"
+            },
+            {
+              "id": 6,
+              "start": 40.6,
+              "end": 42,
+              "text": "M: The zoo?",
+              "zh": "M: 动物园?"
+            },
+            {
+              "id": 7,
+              "start": 42.4,
+              "end": 49.3,
+              "text": "W: Yeah. My little nephew turns six, and he loves the zoo, so the whole family is going.",
+              "zh": "W: 对。我小侄子要过六岁生日了,他很喜欢动物园,所以全家人都要去。"
+            },
+            {
+              "id": 8,
+              "start": 49.6,
+              "end": 55.4,
+              "text": "M: Oh, okay then. I haven't been to a zoo since I was a kid.",
+              "zh": "M: 哦,好吧。我从小时候起就没去过动物园了。"
+            },
+            {
+              "id": 9,
+              "start": 55.8,
+              "end": 70.4,
+              "text": "W: They are nowhere near as popular as they used to be when we were children. I personally feel sorry for the poor animals stuck in cages, but there's no denying they are fun and educational for children.",
+              "zh": "W: 动物园远不像我们小时候那么受欢迎了。我个人觉得那些被关在笼子里的可怜动物很可怜,但不可否认的是,它们对孩子们来说既有趣又有教育意义。"
+            },
+            {
+              "id": 10,
+              "start": 70.8,
+              "end": 75,
+              "text": "M: Do you know if Dan will be around next Saturday?",
+              "zh": "M: 你知道 Dan 下周六有空吗?"
+            },
+            {
+              "id": 11,
+              "start": 75.3,
+              "end": 82.3,
+              "text": "W: Yeah, I think he will. Just send him a text message. He's always keen on physical activities.",
+              "zh": "W: 嗯,我觉得他应该有空。给他发个短信吧。他总是很热衷于体育活动。"
+            },
+            {
+              "id": 12,
+              "start": 82.6,
+              "end": 91.9,
+              "text": "M: That's true. Dan is extremely fit and healthy. He goes to the gym most days, plus tennis two or three times a week.",
+              "zh": "M: 没错。Dan 身体特别好。他几乎每天都去健身房,再加上每周打两三次网球。"
+            },
+            {
+              "id": 13,
+              "start": 92.3,
+              "end": 98.4,
+              "text": "W: So, what have you been doing to stay busy while you've had that swollen ankle?",
+              "zh": "W: 那么,你脚踝肿的这段时间都在忙些什么呢?"
+            },
+            {
+              "id": 14,
+              "start": 98.8,
+              "end": 108,
+              "text": "M: I've been catching up on some reading. I was given three books over Christmas, and I'm only now getting around to reading them.",
+              "zh": "M: 我一直在补看一些书。圣诞节的时候收到了三本书,现在才开始读。"
+            }
+          ],
+          "audioDuration": 108,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "Why can't the man go for a run Saturday morning?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He has to play football with workmates."
+                },
+                {
+                  "key": "B",
+                  "text": "He has got some books to read."
+                },
+                {
+                  "key": "C",
+                  "text": "He is going to visit a friend."
+                },
+                {
+                  "key": "D",
+                  "text": "He is physically unfit for it."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：I'd love to, but I hurt my ankle last weekend playing football with work colleagues.信号：转折 but 后才是真理由 。男士先说 I'd love to（很想去）是客套，紧跟的 but 才转出真正原因——I hurt my ankle，所以答案句落在 but 之后。",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 He has to play football with workmates. 把原文里的 playing football with work colleagues 原词搬来，但原文是说\"踢球时受了伤\"、不是\"周六要去踢球\"，听到 football 就选会落进陷阱。 借用原文：I've been catching up on some reading",
+                "B": "张冠李戴：选项 He has got some books to read. 说的是他后面提到的读书 I've been catching up on some reading，那是第11题的内容，与\"为何不能去跑步\"无关，属张冠李戴。",
+                "C": "未提及：选项 He is going to visit a friend. 在对话里根本没出现，男士不能去跑步的理由是脚伤，不是去看朋友，纯属编造。",
+                "D": "正确项：与答案句同义替换（I hurt my ankle ↔ He is physically unfit for it. 具体伤情概括成\"身体不适合\"）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "I'd love to, but I hurt my ankle last weekend playing football with work colleagues.",
+              "type": "细节题"
+            },
+            {
+              "number": 9,
+              "stem": "Why is the woman's whole family going to the zoo next Saturday?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To teach kids about animal protection."
+                },
+                {
+                  "key": "B",
+                  "text": "To learn how popular zoos could be."
+                },
+                {
+                  "key": "C",
+                  "text": "To see some rare animals in cages."
+                },
+                {
+                  "key": "D",
+                  "text": "To give her little nephew a treat."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P7）：My little nephew turns six, and he loves the zoo, so the whole family is going.信号：因果 so 引出去的原因 。so the whole family is going 里的 so 把前因\"小侄子过六岁生日、又喜欢动物园\"和后果\"全家去\"连起来，so 之前就是\"为什么去\"的答案。",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 To teach kids about animal protection. 借了女士后面说的 they are fun and educational for children 里的 educational，但原文只说动物园对孩子有趣又有教育意义，从没说全家去是为了\"教孩子动物保护\"，是把原词拔高到原文没说的目的。 借用原文：They are nowhere near as popular as they used to be",
+                "B": "原词陷阱：选项 To learn how popular zoos could be. 套用了 They are nowhere near as popular as they used to be 里的 popular，但那只是女士顺口评论动物园不如从前受欢迎，绝不是全家去的目的。 借用原文：the poor animals stuck in cages",
+                "C": "原词陷阱：选项 To see some rare animals in cages. 借了 the poor animals stuck in cages 里的 cages，但原文是女士同情笼中动物，没说去看\"珍稀\"动物，rare 更是凭空添加。",
+                "D": "正确项：与答案句同义替换（My little nephew turns six, and he loves the zoo ↔ To give her little nephew a treat. 为侄子庆生=给侄子一份开心）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "My little nephew turns six, and he loves the zoo, so the whole family is going.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "What do we learn about Dan from the man's description?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He enjoys excellent health."
+                },
+                {
+                  "key": "B",
+                  "text": "He is keen on extreme sports."
+                },
+                {
+                  "key": "C",
+                  "text": "He coaches tennis players every week."
+                },
+                {
+                  "key": "D",
+                  "text": "He spends most of his time in the gym."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P12）：Dan is extremely fit and healthy. He goes to the gym most days, plus tennis two or three times a week.信号：直接给出对 Dan 的总评 。男士 Dan is extremely fit and healthy 是对 Dan 的直接定性评价，后面 gym、tennis 都是佐证，这句总评就是答案句。",
+              "optionAnalysis": {
+                "B": "未提及：选项 He is keen on extreme sports. 把 Dan 的运动夸大为\"极限运动\"，原文只说他常去健身房、打网球，从没提 extreme sports，属无中生有。",
+                "C": "偷换概念：选项 He coaches tennis players every week. 搬来原文的 tennis 和 a week，但原文是 Dan 自己\"打\"网球 plus tennis two or three times a week，不是\"教\"网球选手，把\"打\"偷换成\"教\"。 借用原文：He goes to the gym most days",
+                "D": "原词陷阱：选项 He spends most of his time in the gym. 借了 He goes to the gym most days 里的 gym 和 most，但原文是\"多数日子去健身房\"，选项偷偷改成\"把大部分时间花在健身房\"，频率被夸大成时长。",
+                "A": "正确项：与答案句同义替换（Dan is extremely fit and healthy ↔ He enjoys excellent health. extremely fit and healthy = excellent health）"
+              },
+              "evidencePara": "P12",
+              "evidenceText": "Dan is extremely fit and healthy. He goes to the gym most days, plus tennis two or three times a week.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What has the man been doing since last weekend?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Tending to his swollen ankle."
+                },
+                {
+                  "key": "B",
+                  "text": "Concentrating on reading."
+                },
+                {
+                  "key": "C",
+                  "text": "Writing three book reports."
+                },
+                {
+                  "key": "D",
+                  "text": "Planning Christmas celebrations."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P14）：I've been catching up on some reading. I was given three books over Christmas, and I'm only now getting around to reading them.信号：I've been doing 直接应答 。女士问他脚伤期间在干嘛，男士直接以 I've been catching up on some reading 应答，被问者的这句应答就是答案句，与题干时态对应。",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 Tending to his swollen ankle. 借了女士问句里的 that swollen ankle，但脚踝肿只是他读书的背景，他并没说\"一直在护理脚踝\"，把背景说成正在做的活动。 借用原文：I was given three books over Christmas",
+                "C": "原词陷阱：选项 Writing three book reports. 搬来原文的 I was given three books 里的 three 和 books，但原文是别人送他三本书\"读\"，不是他\"写三份读书报告\"，把\"读书\"偷换成\"写报告\"。 借用原文：over Christmas",
+                "D": "原词陷阱：选项 Planning Christmas celebrations. 借了 over Christmas 里的 Christmas，但原文 Christmas 只是\"圣诞期间收到书\"的时间状语，他并没在\"筹备圣诞庆祝\"，纯属对原词的曲解。",
+                "B": "正确项：与答案句同义替换（I've been catching up on some reading ↔ Concentrating on reading. catching up on reading = concentrating on reading）"
+              },
+              "evidencePara": "P14",
+              "evidenceText": "I've been catching up on some reading. I was given three books over Christmas, and I'm only now getting around to reading them.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 6.9,
+              "text": "W: Our guest on today's Book Talk is John Black, the author of the new bestseller, Retire Early.",
+              "zh": "W: 我们今天《书谈》节目的嘉宾是 John Black，新晋畅销书《提前退休》的作者。"
+            },
+            {
+              "id": 2,
+              "start": 7.3,
+              "end": 10.7,
+              "text": "M: Thanks for having me on the show, Lisa.",
+              "zh": "M: 谢谢邀请我来节目，Lisa。"
+            },
+            {
+              "id": 3,
+              "start": 11,
+              "end": 20.3,
+              "text": "W: John, your book is getting a lot of attention, partly because you write that most people can retire by 40. Is that realistic?",
+              "zh": "W: John，你的书正受到很多关注，部分原因是你在书中写到大多数人可以在 40 岁退休。这现实吗？"
+            },
+            {
+              "id": 4,
+              "start": 20.7,
+              "end": 26.4,
+              "text": "M: Definitely. When researching this book, I interviewed hundreds of people who retired by 40.",
+              "zh": "M: 绝对现实。在研究这本书时，我采访了数百位在 40 岁前退休的人。"
+            },
+            {
+              "id": 5,
+              "start": 26.8,
+              "end": 36.4,
+              "text": "W: Okay, but how much money does a person need to retire? I've read articles recommending one million dollars as a good figure for retirement.",
+              "zh": "W: 好吧，但是一个人需要多少钱才能退休？我读过一些文章推荐一百万美元作为退休的合适数字。"
+            },
+            {
+              "id": 6,
+              "start": 36.8,
+              "end": 52.9,
+              "text": "M: While most financial planners do give numbers, I don't think that's useful, as people are living in different areas with different costs of living, and have different needs and wants, which is why I suggest that people aim for financial independence.",
+              "zh": "M: 虽然大多数理财规划师确实会给出具体数字，但我认为那没什么用，因为人们生活在不同地区，生活成本不同，需求和期望也不同，所以我建议人们以财务独立为目标。"
+            },
+            {
+              "id": 7,
+              "start": 53.3,
+              "end": 56.3,
+              "text": "W: What do you mean by financial independence?",
+              "zh": "W: 你说的财务独立是什么意思？"
+            },
+            {
+              "id": 8,
+              "start": 56.6,
+              "end": 60.1,
+              "text": "M: Having investment income that's greater than monthly expenses.",
+              "zh": "M: 就是投资收入大于月度开销。"
+            },
+            {
+              "id": 9,
+              "start": 60.5,
+              "end": 70.5,
+              "text": "W: That sounds risky to me. What if an accident happens or you get ill and need medical treatment? Shouldn't people have extra cash for emergencies?",
+              "zh": "W: 这在我看来有点冒险。如果发生意外或者生病需要医疗怎么办？人们不应该留些额外现金以备不时之需吗？"
+            },
+            {
+              "id": 10,
+              "start": 70.8,
+              "end": 85.8,
+              "text": "M: Too many people spend their lives working on jobs they hate because they're afraid, so I counsel people to take risks. Retirement doesn't have to be permanent, and if people need to, they can go back to work.",
+              "zh": "M: 太多人因为恐惧而一辈子做着自己讨厌的工作，所以我建议人们去冒险。退休不一定是永久的，如果需要，人们可以重返工作。"
+            },
+            {
+              "id": 11,
+              "start": 86.1,
+              "end": 92.3,
+              "text": "W: But it's not always easy to get back into the workforce after an extended absence.",
+              "zh": "W: 但是长时间离开职场后再回去并不总是那么容易。"
+            },
+            {
+              "id": 12,
+              "start": 92.6,
+              "end": 98.8,
+              "text": "M: True, but if you keep current with your skills, you will be attracted to employers.",
+              "zh": "M: 确实，但如果你保持技能更新，你会对雇主有吸引力的。"
+            },
+            {
+              "id": 13,
+              "start": 99.1,
+              "end": 106.5,
+              "text": "W: Maybe, but how can anyone save enough to retire by 40 when most people can't retire at 60?",
+              "zh": "W: 也许吧，但大多数人 60 岁都退不了休，怎么可能有人能存够钱在 40 岁退休呢？"
+            },
+            {
+              "id": 14,
+              "start": 106.8,
+              "end": 112.6,
+              "text": "M: Simple, by cutting housing, food, and transport expenses, and investing half your monthly income.",
+              "zh": "M: 很简单，削减住房、食物和交通开支，然后把月收入的一半用于投资。"
+            },
+            {
+              "id": 15,
+              "start": 112.9,
+              "end": 114.5,
+              "text": "W: That sounds impossible.",
+              "zh": "W: 这听起来不可能。"
+            },
+            {
+              "id": 16,
+              "start": 114.8,
+              "end": 119.1,
+              "text": "M: I admit it's difficult, but it has worked for thousands.",
+              "zh": "M: 我承认很难，但对成千上万的人确实有效。"
+            }
+          ],
+          "audioDuration": 119.1,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What do we learn about the man's book published recently?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is being debated by hundreds of retirees."
+                },
+                {
+                  "key": "B",
+                  "text": "It is attracting many people's attention."
+                },
+                {
+                  "key": "C",
+                  "text": "It partly records his own experience."
+                },
+                {
+                  "key": "D",
+                  "text": "It argues for postponing retirement."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：John, your book is getting a lot of attention, partly because you write that most people can retire by 40.信号：主持人开场对书的正面定性句 。主持人介绍书时直接给出定性：your book is getting a lot of attention。这种\"主持人开场对作品的概括\"就是介绍类细节题的答案信号——它把书的核心特点一…",
+              "optionAnalysis": {
+                "C": "偷换概念：录音里作者说 I interviewed hundreds of people who retired by 40，是\"采访了几百人\"，并没说书\"记录他自己的经历\"；C 把\"研究别人\"偷换成\"写他自己\"，答非所问。 借用原文：most people can retire by 40",
+                "D": "与原文相反：录音说书主张 most people can retire by 40，是\"提前到 40 岁退休\"，而 D 说书主张\"推迟退休\"(postponing retirement)，正好反了。这是把\"提前\"听成\"推迟\"的反向陷阱。 借用原文：I interviewed hundreds of people who retired by 40",
+                "A": "原词陷阱：录音里 hundreds 来自 I interviewed hundreds of people，指作者\"采访了几百人\"，A 却说书\"正被几百名退休者讨论\"(debated by hundreds of retirees)，把\"被采访的人\"偷换成\"在讨论书的人\"，是听到 hundreds 就想选的原词陷阱。",
+                "B": "正确项：与答案句同义替换（getting a lot of attention ↔ attracting many people's attention \"获得关注\"换说成\"吸引关注\"）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "John, your book is getting a lot of attention, partly because you write that most people can retire by 40.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What do the articles the woman read recommend?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "One should foresee a financial crisis."
+                },
+                {
+                  "key": "B",
+                  "text": "One should trust financial planners, figures."
+                },
+                {
+                  "key": "C",
+                  "text": "One should have one million dollars to retire."
+                },
+                {
+                  "key": "D",
+                  "text": "One should start saving as early as possible."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P5）：I've read articles recommending one million dollars as a good figure for retirement.信号：女士转述文章的 recommend 句 。女士说 I've read articles recommending one million dollars，动词 recommend 与题干 recommend 完全对应…",
+              "optionAnalysis": {
+                "B": "张冠李戴：financial planners 确实在录音出现 most financial planners do give numbers，但那是嘉宾说\"规划师爱给数字、我觉得没用\"，文章并没\"推荐相信规划师\"。B 把原词搬来、又把内容安错了人(文章 vs 规划师)。 借用原文：investing half your monthly income",
+                "D": "答非所问：\"尽早储蓄\"听着像理财常识，但录音里文章推荐的是\"一百万这个数额\"，并没说\"尽早储蓄\"；至于储蓄、投资是嘉宾在后面(P14)讲的做法，不是\"女士读的文章\"推荐的。D 答非所问。",
+                "A": "未提及：选项 A 的 financial crisis 借了话题里\"financial\"的语感，但文章推荐的是具体金额，从没让人\"预见金融危机\"；录音通篇也没出现\"危机\"的意思。A 是听到 financial 就联想出来的干扰。",
+                "C": "正确项：与答案句同义替换（one million dollars as a good figure for retirement ↔ have one million dollars to retire \"一百万作合适数额\"=\"应有一百万才退休\"）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "I've read articles recommending one million dollars as a good figure for retirement.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What does the man say about retirement?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It doesn't need to be permanent."
+                },
+                {
+                  "key": "B",
+                  "text": "It shouldn't be considered risky."
+                },
+                {
+                  "key": "C",
+                  "text": "It helps to reduce travel expenses."
+                },
+                {
+                  "key": "D",
+                  "text": "It is the way to quit a job one hates."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P10）：Retirement doesn't have to be permanent, and if people need to, they can go back to work.信号：男士对退休下的直接定性句 。男士直接断言 Retirement doesn't have to be permanent，这是他对\"退休\"本身的一句正面定义，又用 they can go back to work 加…",
+              "optionAnalysis": {
+                "B": "与原文相反：risky 来自女士 That sounds risky to me 和男士 I counsel people to take risks——男士是\"劝人去冒险\"，承认有风险；B 却说退休\"不该被视为有风险\"，意思反了，是听到 risk 就想选的原词陷阱。 借用原文：spend their lives working on jobs they hate",
+                "D": "原词陷阱：a job they hate 确实出现在 spend their lives working on jobs they hate，但那是男士解释\"很多人因恐惧而困在烂工作里\"的背景，不是给退休下定义；D 把这句背景说成\"退休就是辞掉烂工作的途径\"，答非所问。 借用原文：cutting housing, food, and transport expenses",
+                "C": "未提及：C 说退休\"有助减少差旅开支\"(reduce travel expenses)，录音里 transport 出现在 cutting housing, food, and transport expenses，那是\"怎样攒钱\"的省钱办法，与\"退休本身是什么\"无关，更没说退休能省路费。C 属嫁接他处原词的无中生有。",
+                "A": "正确项：与答案句同义替换（Retirement doesn't have to be permanent ↔ It doesn't need to be permanent doesn't have to=doesn't need to）"
+              },
+              "evidencePara": "P10",
+              "evidenceText": "Retirement doesn't have to be permanent, and if people need to, they can go back to work.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "How does the man say his proposal about retirement can be carried out?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By keeping close contact with one's employers."
+                },
+                {
+                  "key": "B",
+                  "text": "By retiring when one reaches sixty years old."
+                },
+                {
+                  "key": "C",
+                  "text": "By investing half of one's monthly income."
+                },
+                {
+                  "key": "D",
+                  "text": "By following the counsel of financial planners."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P14）：Simple, by cutting housing, food, and transport expenses, and investing half your monthly income.信号：男士回答\"怎么做到\"的 by 操作句 。面对女士\"怎么可能 40 岁退休\"的追问，男士直接答 by cutting housing, food, and transport expenses, and investi…",
+              "optionAnalysis": {
+                "A": "原词陷阱：employers 出现在 you will be attracted to employers，那是男士讲\"保持技能就能被雇主青睐、好重返职场\"，回应的是\"能否回去工作\"，不是\"怎么攒钱提前退休\"；A 把它说成\"靠和雇主保持密切联系来实现退休\"，答非所问。 借用原文：how can anyone save enough to retire by 40 when most people can't retire at 60",
+                "B": "与原文相反：sixty 来自女士的反问 most people can't retire at 60，意在质疑\"连 60 都退不了，怎么 40 退\"；B 却说\"靠 60 岁退休来实现\"，方向反了——男士主张的是 40 岁提前退，不是等到 60。 借用原文：While most financial planners do give numbers, I don't think that's useful",
+                "D": "与原文相反：financial planners 和 counsel 都在录音里——但男士对规划师是 I don't think that's useful，并不让人\"听规划师的\"；counsel 是他\"劝人冒险\"(I counsel people to take risks)，不是\"听规划师劝告\"。D 把原词拼到一起，方向与男士立场相反。",
+                "C": "正确项：与答案句同义替换（investing half your monthly income ↔ investing half of one's monthly income 几乎原句对应的\"投月收入一半\"）"
+              },
+              "evidencePara": "P14",
+              "evidenceText": "Simple, by cutting housing, food, and transport expenses, and investing half your monthly income.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 38.5,
+              "text": "New research from America studies the role that the presence of individuals from different social or racial groups has in influencing consumers' food choices. This research found college students were more likely to choose healthy food in the presence of an observer of a different race, as opposed to an observer from their own race. The same was true when they were with someone from a different university, compared to someone from their own. Researchers say this was because participants anticipated more negative judgment from an outsider group. In contrast, they felt less judged by members of their own group.",
+              "zh": "来自美国的新研究探讨了来自不同社会或种族群体的个体的存在对消费者食物选择的影响作用。该研究发现,与同种族观察者在场相比,大学生在不同种族观察者在场时更有可能选择健康食品。当他们与来自不同大学的人在一起时,情况也是如此,而不是与来自自己大学的人在一起时。研究人员表示,这是因为参与者预期会受到外部群体更多的负面评判。相比之下,他们感到受到自己群体成员的评判较少。"
+            },
+            {
+              "id": 2,
+              "start": 38.9,
+              "end": 62.7,
+              "text": "In one experiment, participants were offered the choice between candy and fruit as a snack. When in the presence of an unknown student from their own university, only 12 percent of students selected the healthier option. However, this number was 31 percent when in the presence of an unknown student from another university. Other experiments showed similar results based on racial group.",
+              "zh": "在一项实验中,参与者可以选择糖果或水果作为零食。当与一名来自自己大学的陌生学生在场时,只有12%的学生选择了更健康的选项。然而,当与一名来自另一所大学的陌生学生在场时,这一数字为31%。其他基于种族群体的实验显示了类似的结果。"
+            },
+            {
+              "id": 3,
+              "start": 63.1,
+              "end": 92.7,
+              "text": "What's the reason for this pattern? The study found that people feel judged to a larger extent by members of other groups. Because of this, they strategically use healthy food choices to make a positive impression. There have been many attempts to help consumers make healthier choices, but consumers often struggle to maintain a healthy diet. This research finds that one way to promote a healthy diet could be to advertise the social benefits of healthy choices.",
+              "zh": "这种模式的原因是什么?该研究发现,人们感到在更大程度上受到其他群体成员的评判。因此,他们策略性地使用健康食品选择来留下积极印象。已经有许多尝试帮助消费者做出更健康的选择,但消费者往往难以保持健康饮食。该研究发现,促进健康饮食的一种方法可能是宣传健康选择的社会益处。"
+            }
+          ],
+          "audioDuration": 92.7,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What was the finding of the new research from America about consumers' food choices?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They tended to be easily anticipated by those belonging to their own race."
+                },
+                {
+                  "key": "B",
+                  "text": "They tended to be arbitrarily judged by individuals of opposing groups."
+                },
+                {
+                  "key": "C",
+                  "text": "They were readily shared among members of the same social or racial group."
+                },
+                {
+                  "key": "D",
+                  "text": "They were influenced by the presence of someone from an outsider group."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：This research found college students were more likely to choose healthy food in the presence of an observer of a different race, as opposed to an observer from their own race.信号：结论标志词 found 。录音 This research found 直接亮出研究结论，found 后面跟的就是研究发现，这是篇章交代核心结论的标志，听到 found/showed 这类词就知道答案句来了。",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 用了录音后文 participants anticipated more negative judgment 里的 anticipated 一词，但把它扭成易被同族人预料，与研究发现毫无关系，是听到原词就想选的陷阱。 借用原文：they felt less judged by members of their own group",
+                "B": "偷换概念：B 说食物选择被对立群体的个人任意评判，借了录音 they felt less judged by members of their own group 的 judge 概念，但研究发现的是选择被在场者影响，不是选择本身被评判，偷换了概念。 借用原文：they felt less judged by members of their own group",
+                "C": "与原文相反：C 说食物选择在同族群体内易被共享，但录音 they felt less judged by members of their own group 讲的是同族在场时人感觉评判更少、影响更小，根本没说共享选择，且方向与研究重点（外群体才带来改变）相反。",
+                "D": "正确项：与答案句同义替换（in the presence of an observer of a different race ↔ influenced by the presence of someone from an outsider group 下位换上位）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "This research found college students were more likely to choose healthy food in the presence of an observer of a different race, as opposed to an observer from their own race.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "When did 31 percent of students in the experiment select the healthier option?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "When they tried to make a positive impression on the researchers."
+                },
+                {
+                  "key": "B",
+                  "text": "When an unknown student from another university was present."
+                },
+                {
+                  "key": "C",
+                  "text": "When an experimenter from the research team took notice."
+                },
+                {
+                  "key": "D",
+                  "text": "When they were offered both candy and fruit as a snack."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：However, this number was 31 percent when in the presence of an unknown student from another university.信号：数字与 when 条件绑定 。录音 this number was 31 percent when in the presence of an unknown student from another univers…",
+              "optionAnalysis": {
+                "A": "未提及：A 说学生想给研究者留好印象，录音只说他们 use healthy food choices to make a positive impression，但针对的是外群体在场者，不是 researchers，录音从未提对研究者留好印象这个条件，属无中生有。",
+                "C": "原词陷阱：C 借了录音多次出现的 research/experimenter 概念，编出研究团队的实验员注意到时，但 31 percent 绑定的是外校学生在场，与实验员留意无关，是听到 research 就想选的原词陷阱。 借用原文：participants were offered the choice between candy and fruit as a snack",
+                "D": "张冠李戴：D 说同时提供糖果和水果作零食时，candy 和 fruit 确是录音 participants were offered the choice between candy and fruit as a snack 的原词，但这是整个实验的设置，对应 12% 与 31% 两种情境，不专属 31%，把背景条件错安成 31% 的专属触发，张冠李戴。",
+                "B": "正确项：与答案句同义替换（an unknown student from another university ↔ an unknown student from another university 条件原句对应）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "However, this number was 31 percent when in the presence of an unknown student from another university.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "How could a healthy diet be promoted according to the findings of the new research?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By advertising its social benefits."
+                },
+                {
+                  "key": "B",
+                  "text": "By teaching consumers diet strategies."
+                },
+                {
+                  "key": "C",
+                  "text": "By supporting struggling consumers."
+                },
+                {
+                  "key": "D",
+                  "text": "By maintaining its positive image."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：This research finds that one way to promote a healthy diet could be to advertise the social benefits of healthy choices.信号：建议句 one way to…could be to 。录音 one way to promote a healthy diet could be to advertise the social benefits 用…",
+              "optionAnalysis": {
+                "B": "未提及：B 说教消费者饮食策略，录音虽提到 many attempts to help consumers make healthier choices，但从未说具体方法是教饮食策略，这个手段是凭空添加的，属未提及。",
+                "C": "原词陷阱：C 说支持苦苦挣扎的消费者，借了录音 consumers often struggle to maintain a healthy diet 的 struggle 一词，但那只是描述现状，不是研究给出的对策，是听到原词就想选的陷阱。 借用原文：they strategically use healthy food choices to make a positive impression",
+                "D": "张冠李戴：D 说维持其正面形象，借了录音 make a positive impression 里的 positive 概念，但那讲的是个人用健康选择给自己留好印象，不是推动健康饮食的对策，张冠李戴。",
+                "A": "正确项：与答案句同义替换（advertise the social benefits of healthy choices ↔ advertising its social benefits 动词变动名词）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "This research finds that one way to promote a healthy diet could be to advertise the social benefits of healthy choices.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 36.5,
+              "text": "For college students under pressure, a dog may be the best stress fighter around, according to the finding of a recent study. \"It's a really powerful finding,\" said Patricia Pendry, who led the study. \"Universities are doing a lot of great work trying to help students succeed academically, especially those who may be at risk due to a history of mental health issues or academic and learning issues. This study shows that traditional stress management approaches aren't as effective for this population compared with programs that focus on providing opportunities to interact with therapy dogs.\"",
+              "zh": "根据最近一项研究的发现，对于压力之下的大学生来说，狗可能是最好的压力克星。领导这项研究的Patricia Pendry说：\"这是一个非常有力的发现。大学正在做大量出色的工作来帮助学生在学业上取得成功，尤其是那些可能因心理健康问题史或学业和学习问题而处于风险中的学生。这项研究表明，传统的压力管理方法对这一群体的效果不如那些专注于提供与治疗犬互动机会的项目。\""
+            },
+            {
+              "id": 2,
+              "start": 36.9,
+              "end": 63.8,
+              "text": "The researchers measured executive functioning in the students involved in the study. Executive function is a term for the skills one needs to plan, organize, motivate, concentrate and memorize. These are skills students need to succeed in college. The researchers found that students who were most at risk had the most improvements in executive functioning after interacting with therapy dogs. These results remained when researchers followed up six weeks later.",
+              "zh": "研究人员测量了参与研究的学生的执行功能。执行功能是指一个人计划、组织、激励、集中注意力和记忆所需的技能。这些是学生在大学取得成功所需要的技能。研究人员发现,风险最高的学生在与治疗犬互动后,执行功能改善最大。当研究人员在六周后进行随访时,这些结果仍然保持。"
+            },
+            {
+              "id": 3,
+              "start": 64.1,
+              "end": 91.5,
+              "text": "Many universities provide academic stress management programs and workshops. These are traditionally very similar to college classes. They often talk about ways to get more sleep, set goals, or manage stress or anxiety. Pendry acknowledges that these are really important topics and these workshops help typical students succeed. But they're less helpful for struggling students. Pendry believes those students may experience the programs as another lecture and feel even more stressed.",
+              "zh": "许多大学提供学业压力管理项目和研讨会。这些传统上与大学课程非常相似。它们通常讨论如何获得更多睡眠、设定目标或管理压力或焦虑的方法。Pendry承认这些是非常重要的话题,这些研讨会帮助典型学生取得成功。但它们对挣扎中的学生帮助较小。Pendry认为,那些学生可能会将这些项目体验为又一次讲座,并感到更加紧张。"
+            }
+          ],
+          "audioDuration": 91.5,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What does the recent study led by Patricia Pendry aim to examine?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The academic and learning issues struggling students encounter."
+                },
+                {
+                  "key": "B",
+                  "text": "The risk students face due to a history of mental health problems."
+                },
+                {
+                  "key": "C",
+                  "text": "The effect of interacting with therapy dogs on students under pressure."
+                },
+                {
+                  "key": "D",
+                  "text": "The work universities are doing to help students succeed academically"
+                }
+              ],
+              "answer": "C",
+              "analysis": "主旨题。答案句（P1）：This study shows that traditional stress management approaches aren't as effective for this population compared with programs that focus on providing opportunities to interact with therapy dogs.信号：总结句 This study shows 。This study shows that 是篇章里的\"结论/点题\"信号——一旦听到\"这项研究表明……\"，后面紧跟的就是研究的核心发现/目的，这正是主旨题的答案落点。",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项盗用了录音里的 academic and learning issues 原词，但那只是描述\"哪类学生处于风险\"的背景信息，不是研究要考察的内容。听到原词就选会中招。 借用原文：a history of mental health issues",
+                "B": "原词陷阱：选项搬用了录音的 a history of mental health issues，但那同样是在说明\"哪些学生有风险\"的铺垫，不是研究目的。把背景当主旨就错了。 借用原文：Universities are doing a lot of great work trying to help students succeed academically",
+                "D": "原词陷阱：选项几乎照搬录音 Universities are doing a lot of great work trying to help students succeed academically，但那是 Pendry 在铺垫\"大学在做很多帮扶工作\"的大背景，不是\"这项研究\"本身要考察的内容；研究聚焦的是治疗犬，不是泛泛的大学帮扶工作。",
+                "C": "正确项：与答案句同义替换（programs that focus on providing opportunities to interact with therapy dogs ↔ The effect of interacting with therapy dogs on students under pressure 动作短语→名词化概括）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "This study shows that traditional stress management approaches aren't as effective for this population compared with programs that focus on providing opportunities to interact with therapy dogs.",
+              "type": "主旨题"
+            },
+            {
+              "number": 20,
+              "stem": "What did the new study measure in the participants?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their communicative skills."
+                },
+                {
+                  "key": "B",
+                  "text": "Their executive functioning."
+                },
+                {
+                  "key": "C",
+                  "text": "Their academic networking."
+                },
+                {
+                  "key": "D",
+                  "text": "Their leadership capacities."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：The researchers measured executive functioning in the students involved in the study.信号：原词 measured 直接领出宾语 。录音用 The researchers measured executive functioning，measured 这个动词与题干 measure 完全对应，紧跟其后的宾语…",
+              "optionAnalysis": {
+                "A": "未提及：communicative skills（沟通能力）录音从头到尾没提，是凭\"听起来像学生该有的能力\"硬编的干扰项，没有原文支撑。",
+                "C": "原词陷阱：academic networking 把录音里多次出现的 academic（学业的）这个原词抓来拼了个新词，但录音讲的是 academic stress/success，从没说测\"学业人脉\"，是借原词 academic 制造的假象。",
+                "D": "未提及：leadership capacities（领导力）录音里完全没出现，是又一个\"听上去像能力词\"的硬凑干扰，无原文依据。",
+                "B": "正确项：与答案句同义替换（measured executive functioning ↔ Their executive functioning 原词直接对应）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The researchers measured executive functioning in the students involved in the study.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What does Patricia Pendry think traditional stress management programs may do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Rid students of their anxiety."
+                },
+                {
+                  "key": "B",
+                  "text": "Add to some students' stress."
+                },
+                {
+                  "key": "C",
+                  "text": "Contribute little to typical students' success."
+                },
+                {
+                  "key": "D",
+                  "text": "Help students with mental issues pull through."
+                }
+              ],
+              "answer": "B",
+              "analysis": "态度观点题。答案句（P3）：But they're less helpful for struggling students. Pendry believes those students may experience the programs as another lecture and feel even more stressed.信号：转折 But 后才是真实态度 。But they're less helpful for struggling students 里的 But 是关键信号——前半句先肯定\"传统项目对普通学生有帮助\"，But 一转才说…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项里的 anxiety 盗用了录音 manage stress or anxiety 的原词，且 Rid\\.\\.\\.of（彻底消除）把\"帮助管理焦虑\"夸大成\"消除焦虑\"，原文从没说传统项目能\"根除\"焦虑，程度被拔高了。 借用原文：these workshops help typical students succeed",
+                "C": "与原文相反：录音明说传统项目 help typical students succeed——对普通学生是有帮助的；选项却说\"对普通学生的成功几乎没贡献\"，把\"有帮助\"反成了\"没帮助\"，正话反说，且对象（typical students）正是录音说有用的那群人。 借用原文：But they're less helpful for struggling students",
+                "D": "与原文相反：录音说传统项目对\"有困难的学生\" less helpful for struggling students——是帮不上忙；选项却说能\"帮有心理问题的学生渡过难关\"，把\"帮不上\"说成\"帮得上\"，方向反了，对象也被偷换成\"有心理问题的学生\"。",
+                "B": "正确项：与答案句同义替换（feel even more stressed ↔ Add to some students\\' stress 感受描述→施动概括）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "But they're less helpful for struggling students. Pendry believes those students may experience the programs as another lecture and feel even more stressed.",
+              "type": "态度观点题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 26.2,
+              "text": "Taking risks in business does not mean going into business blindly and then expecting great results. On the contrary, taking risks in entrepreneurship involves careful planning and hard work. Nobody can really be sure if risks will be met with success, no matter how calculated they may be. But this should not stop you from taking risks, as risks are necessary if you want your business to succeed.",
+              "zh": "在商业中冒险并不意味着盲目创业然后期待巨大的成果。相反,创业中的冒险涉及周密的计划和艰苦的工作。无论风险计算得多么仔细,没有人能真正确定风险是否会获得成功。但这不应该阻止你冒险,因为如果你想让企业成功,冒险是必要的。"
+            },
+            {
+              "id": 2,
+              "start": 26.6,
+              "end": 53.9,
+              "text": "Some risks may not work out, but an optimistic risk-taker will always look at failure as an opportunity to learn. The willingness to experiment with new ideas is key to business growth. As the old saying goes, \"Nothing ventured, nothing gained.\" Failure will teach you how to think and plan strategically. But just remember that not all risks are good ones, and when you fail, learn from it and move forward.",
+              "zh": "有些风险可能不会成功,但乐观的冒险者总是将失败视为学习的机会。愿意尝试新想法是企业成长的关键。正如老话所说,\"不入虎穴,焉得虎子。\"失败会教你如何进行战略思考和规划。但要记住,并非所有风险都是好的,当你失败时,要从中吸取教训并继续前进。"
+            },
+            {
+              "id": 3,
+              "start": 54.3,
+              "end": 92.3,
+              "text": "Since most people tend to avoid risk, businesses that are brave enough to take risks already have a competitive advantage. They are the ones setting the standard with new ideas, fresh offers and bold inventions. Risk-takers are best at adapting in difficult times. Simply put, when most individuals stay away from risk, it means less competition for risk-takers. We don't know if you'll achieve what these risk-takers have achieved. But for as long as you want to stay safe, and for as long as you are content with where your business is right now, you will never find out.",
+              "zh": "由于大多数人倾向于规避风险,那些勇于冒险的企业已经拥有了竞争优势。他们用新想法、新颖的产品和大胆的发明树立标准。冒险者最善于在困难时期适应。简单地说,当大多数人远离风险时,这意味着冒险者面临的竞争更少。我们不知道你是否能取得这些冒险者所取得的成就。但只要你想保持安全,只要你满足于企业目前的状况,你就永远不会知道答案。"
+            }
+          ],
+          "audioDuration": 92.3,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What do entrepreneurs have to do when taking risks according to the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Work hard and plan carefully."
+                },
+                {
+                  "key": "B",
+                  "text": "Attempt to succeed at any cost."
+                },
+                {
+                  "key": "C",
+                  "text": "Aim high and expect great results."
+                },
+                {
+                  "key": "D",
+                  "text": "Remain optimistic even in difficulty."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：On the contrary, taking risks in entrepreneurship involves careful planning and hard work.信号：转折 On the contrary 后是真意 。录音先说冒险“不是盲目去做、坐等大成果”，紧接着用 On the contrary 转折，转折之后那句 involves careful planning and h…",
+              "optionAnalysis": {
+                "C": "原词陷阱：Aim high and expect great results 几乎照搬了录音被否定那半句的 expecting great results，但录音是说“冒险”不等于“盲目坐等大成果”，这是被批评的做法，不是创业者“该做”的；听到 expect great results 就选，正好踩进陷阱。 借用原文：an optimistic risk-taker",
+                "B": "未提及：Attempt to succeed at any cost“不惜一切代价求成功”，录音通篇没说要“不计代价”，反而强调冒险要靠规划和努力、还提醒“并非所有风险都是好风险”，这种太满的说法是命题人添加的。",
+                "D": "答非所问：Remain optimistic even in difficulty 式的“乐观”确实在录音里出现过，an optimistic risk-taker 也提到 optimistic，adapting in difficult times 也讲困境中应变，但那是讲“失败时的心态”，不是回答“冒险时必须做什么”这道题，把别处的内容搬来作答即错位。",
+                "A": "正确项：与答案句同义替换（careful planning and hard work ↔ Work hard and plan carefully 名词短语换成动词短语）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "On the contrary, taking risks in entrepreneurship involves careful planning and hard work.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What does the passage say is key to business growth?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Regarding failure as something inevitable."
+                },
+                {
+                  "key": "B",
+                  "text": "Trying out innovative marketing strategies."
+                },
+                {
+                  "key": "C",
+                  "text": "Venturing into sectors never explored before."
+                },
+                {
+                  "key": "D",
+                  "text": "Being willing to experiment with novel ideas."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：The willingness to experiment with new ideas is key to business growth.信号：原文 key 与题干同词对应 。录音 is key to business growth 和题干 key to business growth 用词几乎一模一样，这句话主语 The willingness to ex…",
+              "optionAnalysis": {
+                "B": "未提及：Trying out innovative marketing strategies 听起来很像“创新”，录音确有“new ideas”的意思，但根本没提“marketing strategies（营销策略）”；它用“创新”诱你，却塞了原文没有的“营销”。",
+                "C": "过度推断：Venturing into sectors never explored before“进入从未有人涉足的领域”比录音的“尝试新点子”程度重得多，录音只说 experiment with new ideas，并没说要闯入“全新行业”，这是把原意拔高了。 借用原文：look at failure as an opportunity to learn",
+                "A": "原词陷阱：Regarding failure as something inevitable 里 failure 是录音高频词，look at failure as an opportunity to learn 也讲了对失败的看法，但录音说的是“把失败当学习机会”，不是“把失败当不可避免”，更不是回答“增长关键”；它用熟悉的 failure 制造错觉。",
+                "D": "正确项：与答案句同义替换（The willingness to experiment with new ideas ↔ Being willing to experiment with novel ideas 近义改写 new=novel）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The willingness to experiment with new ideas is key to business growth.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What are we advised to do when we fail?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Expect future success so as to move forward."
+                },
+                {
+                  "key": "B",
+                  "text": "Learn from our failure and forge ahead."
+                },
+                {
+                  "key": "C",
+                  "text": "Distinguish between good and bad risks."
+                },
+                {
+                  "key": "D",
+                  "text": "Examine our strategies and find out weaknesses."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：But just remember that not all risks are good ones, and when you fail, learn from it and move forward.信号：条件句 when you fail 直接应题 。题干问 when we fail，录音正好有 when you fail, learn from it and move forward 这句条件句，措辞与题干对应；听…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Expect future success so as to move forward 借用了录音的 move forward，但把前提偷换成“指望未来成功”——录音让你“前进”的前提是“从失败中学”，不是“指望成功”；听到 move forward 就选，正中陷阱。 借用原文：not all risks are good ones",
+                "C": "答非所问：Distinguish between good and bad risks 用了录音 not all risks are good ones 的意思，录音确实提醒“并非所有风险都好”，但那是另一层提醒，不是“失败时”被建议做的事，答非所问。 借用原文：think and plan strategically",
+                "D": "未提及：Examine our strategies and find out weaknesses“检查策略、找出弱点”录音没有对应说法，录音只讲“失败教你如何战略性思考”think and plan strategically，并没有让你去“查弱点”，是凭 strategically 一词联想出来的。",
+                "B": "正确项：与答案句同义替换（learn from it and move forward ↔ Learn from our failure and forge ahead 代词还原＋近义短语）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "But just remember that not all risks are good ones, and when you fail, learn from it and move forward.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What does it mean to risk-taking businesses when most people tend to avoid risk?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Fresher offers."
+                },
+                {
+                  "key": "B",
+                  "text": "Safer operation."
+                },
+                {
+                  "key": "C",
+                  "text": "More challenges."
+                },
+                {
+                  "key": "D",
+                  "text": "Less competition."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Simply put, when most individuals stay away from risk, it means less competition for risk-takers.信号：Simply put 总结句给结论 。录音用 Simply put（简而言之）领出一句总结，it means less competition for risk-takers 直接给出结论，与题干“what does…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Fresher offers 借了录音 fresh offers 这个原词，但那句讲的是冒险者“用新点子、新供给、大胆发明在立标准”，是描述冒险者的做法，不是回答“别人避险意味着什么”，张冠李戴。 借用原文：adapting in difficult times",
+                "C": "与原文相反：More challenges“更多挑战”与录音结论方向相反：录音说别人避险对冒险者是“更少竞争”这种好事，而 challenge 是偏负面的负担，录音的 adapting in difficult times 谈的是冒险者善应变，并没说“更多挑战”。 借用原文：stay safe",
+                "B": "未提及：Safer operation 像是从录音 stay safe 联想来的，但 as long as you want to stay safe 是说“你若一味求稳就永远不会知道结果”，是对“守成者”的提醒，并不是说冒险企业能“更安全地运营”，原文没有这层意思。",
+                "D": "正确项：与答案句同义替换（less competition for risk-takers ↔ Less competition 几乎原词截取）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Simply put, when most individuals stay away from risk, it means less competition for risk-takers.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "When people set out to improve their health, they usually take a familiar path: starting a healthy diet, getting better sleep, and doing regular exercise. Each of these behaviors is important, of course, but they all 26______ on physical health—and a growing body of research suggests that social health is just as, if not more, important to 27______ well-being.\n\nOne recent study published in the journal PLOS ONE, for example, found that the strength of a person's social circle was a better 28______ of self-reported stress, happiness and well-being levels than fitness tracker data on physical activity, heart rate and sleep. That finding suggests that the \" 29______ self\" represented by endless amounts of health data doesn't tell the whole 30______ .\n\nThere's also a qualified self, which is who I am, what are my activities, my social network, and all of these aspects are not 31______ in any of these measurements.\n\nThis idea is supported by plenty of 32______ research. Studies have shown that social support—whether it comes from friends, family members or a spouse—is 33______ associated with better mental and physical health. A rich social life, these studies suggest, can lower stress levels, improve mood, encourage positive health behaviors and discourage damaging ones, boost heart health and improve illness 34______ rates.\n\nSocial isolation, meanwhile, is linked to higher rates of physical diseases and mental health conditions. It's a significant problem, 35______ since loneliness is emerging as a widespread public health problem in many countries."
+            },
+            {
+              "label": "词库",
+              "text": "A) base\nB) eagerly\nC) especially\nD) focus\nE) indicator\nF) overall\nG) preached\nH) prior\nI) prompt\nJ) puzzle\nK) quantified\nL) recovery\nM) reflected\nN) story\nO) strongly"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "base"
+                },
+                {
+                  "key": "B",
+                  "text": "eagerly"
+                },
+                {
+                  "key": "C",
+                  "text": "especially"
+                },
+                {
+                  "key": "D",
+                  "text": "focus"
+                },
+                {
+                  "key": "E",
+                  "text": "indicator"
+                },
+                {
+                  "key": "F",
+                  "text": "overall"
+                },
+                {
+                  "key": "G",
+                  "text": "preached"
+                },
+                {
+                  "key": "H",
+                  "text": "prior"
+                },
+                {
+                  "key": "I",
+                  "text": "prompt"
+                },
+                {
+                  "key": "J",
+                  "text": "puzzle"
+                },
+                {
+                  "key": "K",
+                  "text": "quantified"
+                },
+                {
+                  "key": "L",
+                  "text": "recovery"
+                },
+                {
+                  "key": "M",
+                  "text": "reflected"
+                },
+                {
+                  "key": "N",
+                  "text": "story"
+                },
+                {
+                  "key": "O",
+                  "text": "strongly"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) focus\n【原文】focus on 表「关注/聚焦于」，贴合「这些行为都只关注身体健康」\nA) base 搭配语义反了：base on 是「把……建立在……之上」，需要「A base B on C」的及物结构（如 base a theory on facts），这里 they all base on"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "base"
+                },
+                {
+                  "key": "B",
+                  "text": "eagerly"
+                },
+                {
+                  "key": "C",
+                  "text": "especially"
+                },
+                {
+                  "key": "D",
+                  "text": "focus"
+                },
+                {
+                  "key": "E",
+                  "text": "indicator"
+                },
+                {
+                  "key": "F",
+                  "text": "overall"
+                },
+                {
+                  "key": "G",
+                  "text": "preached"
+                },
+                {
+                  "key": "H",
+                  "text": "prior"
+                },
+                {
+                  "key": "I",
+                  "text": "prompt"
+                },
+                {
+                  "key": "J",
+                  "text": "puzzle"
+                },
+                {
+                  "key": "K",
+                  "text": "quantified"
+                },
+                {
+                  "key": "L",
+                  "text": "recovery"
+                },
+                {
+                  "key": "M",
+                  "text": "reflected"
+                },
+                {
+                  "key": "N",
+                  "text": "story"
+                },
+                {
+                  "key": "O",
+                  "text": "strongly"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) overall\n【原文】overall well-being「整体健康/总体幸福」搭配自然且切题\nH) prior 语义不搭：prior「先前的」修饰 well-being 说「先前的幸福」既不通顺也不切题，prior 应留给 32 题 prior research「先前的研究」。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "base"
+                },
+                {
+                  "key": "B",
+                  "text": "eagerly"
+                },
+                {
+                  "key": "C",
+                  "text": "especially"
+                },
+                {
+                  "key": "D",
+                  "text": "focus"
+                },
+                {
+                  "key": "E",
+                  "text": "indicator"
+                },
+                {
+                  "key": "F",
+                  "text": "overall"
+                },
+                {
+                  "key": "G",
+                  "text": "preached"
+                },
+                {
+                  "key": "H",
+                  "text": "prior"
+                },
+                {
+                  "key": "I",
+                  "text": "prompt"
+                },
+                {
+                  "key": "J",
+                  "text": "puzzle"
+                },
+                {
+                  "key": "K",
+                  "text": "quantified"
+                },
+                {
+                  "key": "L",
+                  "text": "recovery"
+                },
+                {
+                  "key": "M",
+                  "text": "reflected"
+                },
+                {
+                  "key": "N",
+                  "text": "story"
+                },
+                {
+                  "key": "O",
+                  "text": "strongly"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) indicator\n【原文】a better indicator of「更好的……指标」契合「社交圈强度比体测数据更能预示压力幸福」\nJ) puzzle 语义不通：a better puzzle of「更好的……谜题」讲不通，本句要的是「衡量/预示」的标志物 indicator，而非 puzzle。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "base"
+                },
+                {
+                  "key": "B",
+                  "text": "eagerly"
+                },
+                {
+                  "key": "C",
+                  "text": "especially"
+                },
+                {
+                  "key": "D",
+                  "text": "focus"
+                },
+                {
+                  "key": "E",
+                  "text": "indicator"
+                },
+                {
+                  "key": "F",
+                  "text": "overall"
+                },
+                {
+                  "key": "G",
+                  "text": "preached"
+                },
+                {
+                  "key": "H",
+                  "text": "prior"
+                },
+                {
+                  "key": "I",
+                  "text": "prompt"
+                },
+                {
+                  "key": "J",
+                  "text": "puzzle"
+                },
+                {
+                  "key": "K",
+                  "text": "quantified"
+                },
+                {
+                  "key": "L",
+                  "text": "recovery"
+                },
+                {
+                  "key": "M",
+                  "text": "reflected"
+                },
+                {
+                  "key": "N",
+                  "text": "story"
+                },
+                {
+                  "key": "O",
+                  "text": "strongly"
+                }
+              ],
+              "answer": "K",
+              "type": "选词填空",
+              "analysis": "【答案】K（官方答案）\n应填 K) quantified\n【原文】quantified self「量化自我」呼应「海量健康数据」，并与下段 qualified self 形成对照\nM) reflected 语义不贴且占了别处：reflected self「被反映的自我」不如 quantified self 切合「数据量化」之意，且 reflected 是 31 题 are not reflected i"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "base"
+                },
+                {
+                  "key": "B",
+                  "text": "eagerly"
+                },
+                {
+                  "key": "C",
+                  "text": "especially"
+                },
+                {
+                  "key": "D",
+                  "text": "focus"
+                },
+                {
+                  "key": "E",
+                  "text": "indicator"
+                },
+                {
+                  "key": "F",
+                  "text": "overall"
+                },
+                {
+                  "key": "G",
+                  "text": "preached"
+                },
+                {
+                  "key": "H",
+                  "text": "prior"
+                },
+                {
+                  "key": "I",
+                  "text": "prompt"
+                },
+                {
+                  "key": "J",
+                  "text": "puzzle"
+                },
+                {
+                  "key": "K",
+                  "text": "quantified"
+                },
+                {
+                  "key": "L",
+                  "text": "recovery"
+                },
+                {
+                  "key": "M",
+                  "text": "reflected"
+                },
+                {
+                  "key": "N",
+                  "text": "story"
+                },
+                {
+                  "key": "O",
+                  "text": "strongly"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) story\n【原文】the whole story 是固定说法，意为「全部真相/全貌」\nE) indicator 搭配不成立：没有 tell the whole indicator「说出全部指标」这种说法，indicator 留给 28 题的 a better ___ of 更合适。\nJ) puzzle 义近表象但搭配不对：puzzle 是「谜题」，tell the whole puzzle 不成搭配；表「全貌」的固定宾语是 story 而非 puzzle。\nL) recovery 语义不沾边：recovery「康复」与「数据说不出全貌」毫无关系，且它是 34 题 illness ___ rates 的答案。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "base"
+                },
+                {
+                  "key": "B",
+                  "text": "eagerly"
+                },
+                {
+                  "key": "C",
+                  "text": "especially"
+                },
+                {
+                  "key": "D",
+                  "text": "focus"
+                },
+                {
+                  "key": "E",
+                  "text": "indicator"
+                },
+                {
+                  "key": "F",
+                  "text": "overall"
+                },
+                {
+                  "key": "G",
+                  "text": "preached"
+                },
+                {
+                  "key": "H",
+                  "text": "prior"
+                },
+                {
+                  "key": "I",
+                  "text": "prompt"
+                },
+                {
+                  "key": "J",
+                  "text": "puzzle"
+                },
+                {
+                  "key": "K",
+                  "text": "quantified"
+                },
+                {
+                  "key": "L",
+                  "text": "recovery"
+                },
+                {
+                  "key": "M",
+                  "text": "reflected"
+                },
+                {
+                  "key": "N",
+                  "text": "story"
+                },
+                {
+                  "key": "O",
+                  "text": "strongly"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) reflected\n【原文】are not reflected in「未被反映在……中」契合「这些方面没体现在测量数据里」\nmy social network, and all of these aspects are not __(31)__ in any of these measurements，说「我的社交网络等方面都没被这些测量反映出来」，be reflected in 正是「反映/体现在……中」的固定被动搭配。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "base"
+                },
+                {
+                  "key": "B",
+                  "text": "eagerly"
+                },
+                {
+                  "key": "C",
+                  "text": "especially"
+                },
+                {
+                  "key": "D",
+                  "text": "focus"
+                },
+                {
+                  "key": "E",
+                  "text": "indicator"
+                },
+                {
+                  "key": "F",
+                  "text": "overall"
+                },
+                {
+                  "key": "G",
+                  "text": "preached"
+                },
+                {
+                  "key": "H",
+                  "text": "prior"
+                },
+                {
+                  "key": "I",
+                  "text": "prompt"
+                },
+                {
+                  "key": "J",
+                  "text": "puzzle"
+                },
+                {
+                  "key": "K",
+                  "text": "quantified"
+                },
+                {
+                  "key": "L",
+                  "text": "recovery"
+                },
+                {
+                  "key": "M",
+                  "text": "reflected"
+                },
+                {
+                  "key": "N",
+                  "text": "story"
+                },
+                {
+                  "key": "O",
+                  "text": "strongly"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) prior\n【原文】prior research「先前/已有的研究」契合「这一想法得到大量已有研究支持」\nK) quantified 语义被占且不切此处：quantified「被量化的」修饰 self（量化自我）成立，但 quantified research 不是常见说法、也偏离此处「已有研究」之意；它是 29 题答案。\nM) reflected 语义不通：reflected research「被反映的研究」讲不通，reflected 应留给 31 题 are not reflected in。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "base"
+                },
+                {
+                  "key": "B",
+                  "text": "eagerly"
+                },
+                {
+                  "key": "C",
+                  "text": "especially"
+                },
+                {
+                  "key": "D",
+                  "text": "focus"
+                },
+                {
+                  "key": "E",
+                  "text": "indicator"
+                },
+                {
+                  "key": "F",
+                  "text": "overall"
+                },
+                {
+                  "key": "G",
+                  "text": "preached"
+                },
+                {
+                  "key": "H",
+                  "text": "prior"
+                },
+                {
+                  "key": "I",
+                  "text": "prompt"
+                },
+                {
+                  "key": "J",
+                  "text": "puzzle"
+                },
+                {
+                  "key": "K",
+                  "text": "quantified"
+                },
+                {
+                  "key": "L",
+                  "text": "recovery"
+                },
+                {
+                  "key": "M",
+                  "text": "reflected"
+                },
+                {
+                  "key": "N",
+                  "text": "story"
+                },
+                {
+                  "key": "O",
+                  "text": "strongly"
+                }
+              ],
+              "answer": "O",
+              "type": "选词填空",
+              "analysis": "【答案】O（官方答案）\n应填 O) strongly\n【原文】strongly associated「密切相关」是固定搭配\nB) eagerly 感情色彩不搭：eagerly「急切地」修饰的是人主动的意愿（eagerly waiting），不能修饰 associated「被关联」这种客观关系。\nC) especially 语义指向错：especially「尤其」用于举例强调，不表示关联的「强度」，且它是 35 题 especially since 的答案，应留给那处。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "base"
+                },
+                {
+                  "key": "B",
+                  "text": "eagerly"
+                },
+                {
+                  "key": "C",
+                  "text": "especially"
+                },
+                {
+                  "key": "D",
+                  "text": "focus"
+                },
+                {
+                  "key": "E",
+                  "text": "indicator"
+                },
+                {
+                  "key": "F",
+                  "text": "overall"
+                },
+                {
+                  "key": "G",
+                  "text": "preached"
+                },
+                {
+                  "key": "H",
+                  "text": "prior"
+                },
+                {
+                  "key": "I",
+                  "text": "prompt"
+                },
+                {
+                  "key": "J",
+                  "text": "puzzle"
+                },
+                {
+                  "key": "K",
+                  "text": "quantified"
+                },
+                {
+                  "key": "L",
+                  "text": "recovery"
+                },
+                {
+                  "key": "M",
+                  "text": "reflected"
+                },
+                {
+                  "key": "N",
+                  "text": "story"
+                },
+                {
+                  "key": "O",
+                  "text": "strongly"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) recovery\n【原文】illness recovery rates「疾病康复率」契合「丰富社交能改善健康结果」\nE) indicator 搭配不成立：illness indicator rates 不是常见说法，且 improve indicator rates 语义空洞；indicator 应留给 28 题 a better "
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "base"
+                },
+                {
+                  "key": "B",
+                  "text": "eagerly"
+                },
+                {
+                  "key": "C",
+                  "text": "especially"
+                },
+                {
+                  "key": "D",
+                  "text": "focus"
+                },
+                {
+                  "key": "E",
+                  "text": "indicator"
+                },
+                {
+                  "key": "F",
+                  "text": "overall"
+                },
+                {
+                  "key": "G",
+                  "text": "preached"
+                },
+                {
+                  "key": "H",
+                  "text": "prior"
+                },
+                {
+                  "key": "I",
+                  "text": "prompt"
+                },
+                {
+                  "key": "J",
+                  "text": "puzzle"
+                },
+                {
+                  "key": "K",
+                  "text": "quantified"
+                },
+                {
+                  "key": "L",
+                  "text": "recovery"
+                },
+                {
+                  "key": "M",
+                  "text": "reflected"
+                },
+                {
+                  "key": "N",
+                  "text": "story"
+                },
+                {
+                  "key": "O",
+                  "text": "strongly"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) especially\n【原文】especially since「尤其是因为」引出强化原因\nB) eagerly 语义与位置都不通：eagerly「急切地」表人的态度，放在 since 从句前既无 eagerly since 的说法，也说不通「急切地因为」，逻辑不成立。 WORD BANK · 词库分类表 15\nA) base 名词 动词：n. 基础；v. 把……建立在（base on） 干扰词 · 未选用\nB) eagerly 副词：adv. 急切地，热切地 干扰词 · 未选用\nC) especially 副词：adv. 尤其，特别是 用于第 35 空"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "As a parent of two boys at primary school, I worry about the issues associated with teenagers and social media. Newspapers are constantly filled with frightening accounts of drug addiction and aggressive behaviour supposedly caused by violent video games. But even when these accounts touch on real concerns, they do not really reflect the great mass of everyday teenage social behaviour: the online chat, the texting, the surfing, and the emergence of a new teenage sphere that is conducted digitally."
+            },
+            {
+              "label": "B",
+              "text": "New technologies always provoke generational panic, which usually has more to do with adult fears than with the lives of teenagers. In the 1930s, parents worried that radio was gaining \"an irresistible hold of their children\". In the 80s, the great danger was the Sony Walkman(随身听). When you look at today's digital activity, the facts are much more positive than you might expect."
+            },
+            {
+              "label": "C",
+              "text": "Indeed, social scientists who study young people have found that their digital use can be inventive and even beneficial. This is true not just in terms of their social lives, but their education too. So if you use a ton of social media, do you become unable, or unwilling, to engage in face-to-face contact? The evidence suggests not. Research by Amanda Lenhart of the Pew Research Centre, a US think tank, found that the most passionate texters are also the kids most likely to spend time with friends in person. One form of socialising doesn't replace the other. It expands it."
+            },
+            {
+              "label": "D",
+              "text": "\"Kids still spend time face to face,\" Lenhart says. Indeed, as they get older and are given more freedom, they often ease up on social networking. Early on, the web is their \"third space\", but by the late teens, it's replaced in reaction to greater independence. They have to be on Facebook, to know what's going on among friends and family, but they are ambivalent(有矛盾心理的) about it, says Rebecca Eynon, a research fellow at the Oxford Internet Institute, who has interviewed about 200 British teenagers over three years. As they gain experience with living online, they begin to adjust their behaviour, struggling with new communication skills, as they do in the real world."
+            },
+            {
+              "label": "E",
+              "text": "Parents are wrong to worry that kids don't care about privacy. In fact, they spend hours changing Facebook settings or using quick-delete sharing tools, such as Snapchat, to minimise their traces. Or they post a photograph on Instagram, have a pleasant conversation with friends and then delete it so that no traces remain."
+            },
+            {
+              "label": "F",
+              "text": "This is not to say that kids always use good judgment. Like everyone else, they make mistakes—sometimes serious ones. But working out how to behave online is a new social skill. While there's plenty of drama and messiness online, it is not, for most teens, a cycle of non-stop abuse: a Pew study found only 15% of teens said someone had bullied them online in the last 12 months."
+            },
+            {
+              "label": "G",
+              "text": "But surely all this short-form writing is affecting literacy? Certainly, teachers worry. They say that kids use overly casual language and text-speak in writing, and don't have as much patience for long reading and complex arguments. Yet studies of first-year college papers suggest these anxieties may be partly based on misguided nostalgia(怀旧). When Stanford University scholar Andrea Lunsford gathered data on the rates of errors in \"freshman composition\" papers going back to 1917, she found that they were virtually identical to today."
+            },
+            {
+              "label": "H",
+              "text": "But even as error rates stayed stable, student essays have blossomed in size and complexity. They are now six times longer and, unlike older \"what I did this summer\" essays, they offer arguments supported by evidence. Why? Computers have vastly increased the ability of students to gather information, sample different points of view and write more fluidly."
+            },
+            {
+              "label": "I",
+              "text": "When linguist Naomi Baron studied students, instant messaging even there she found surprisingly rare usage of short forms such as \"u\" for \"you\", and as students got older, they began to write in more grammatical sentences. That is because they want to appear more adult, and they know how adults are expected to write. Clearly, teaching teens formal writing is still crucial, but texting probably isn't destroying their ability to learn it."
+            },
+            {
+              "label": "J",
+              "text": "It is probably true that fewer kids are heavy readers compared with two generations ago, when cheap paperbacks boosted rates of reading. But even back then, a minority of people—perhaps 20%—were lifelong heavy readers, and it was cable TV not the internet, that struck a blow at that culture in the 1980s. Still, 15% or more of kids are found to be deeply bookish. In fact, the online world offers kids remarkable opportunities to become literate and creative because young people can now publish ideas not just to their friends, but to the world. And it turns out that when they write for strangers, their sense of \"authentic audience\" makes them work harder, push themselves further, and create powerful new communicative forms."
+            },
+            {
+              "label": "K",
+              "text": "Few would deny that too much time online can be harmful. Some of the dangers are emotional: hurting someone from a distance is not the same as hurting them face to face. If we're lucky, the legal environment will change to make teenagers' online lives less likely to haunt them later on. Just last week, California passed a law allowing minors to demand that internet firms erase their digital past and the EU has considered similar legislation."
+            },
+            {
+              "label": "L",
+              "text": "Distraction is also a serious issue. When kids switch from chat to music to homework, they are indeed likely to have trouble doing each task well. And studies show that pupils don't fact-check information online—\"smart searching\" is a skill schools need to teach urgently. It's also true that too much social networking and game playing can cut into schoolwork and sleep. This is precisely why parents still need to set firm boundaries around it, as with any other distraction."
+            },
+            {
+              "label": "M",
+              "text": "So what's the best way to cope? The same boring old advice that applies to everything in parenting: moderation. Rebecca Eynon argues that it's key to model good behaviour. Parents who stare non-stop at their phones and don't read books are likely to breed kids who will do the same. As ever, we ought to be careful about our own behaviour."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Research has found the use of digital technology benefits not only teenagers' social lives but also their studies.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】Indeed, social scientists who study young people have found that their digital use can be inventive and even beneficial. This is true not just in terms of their social lives, but their education too.\nH 段讲 student essays have blossomed in size and complexity，只是教育/写作这一面的好处，完全没有谈社交生活，配不上陈述句的双重落点。"
+            },
+            {
+              "number": 37,
+              "stem": "It is urgent that schools teach kids how to verify online information.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "L",
+                  "text": "Paragraph L"
+                }
+              ],
+              "answer": "L",
+              "type": "信息匹配",
+              "analysis": "【答案】L（强锚点）\n【原文】And studies show that pupils don't fact-check information online—\"smart searching\" is a skill schools need to teach urgently.\n研究还显示，学生不会核查网上信息——智能搜索是学校亟需教授的一项技能。"
+            },
+            {
+              "number": 38,
+              "stem": "Students now write longer and more complex essays than their counterparts in previous decades while the error rates remain unchanged.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（强锚点）\n【原文】But even as error rates stayed stable, student essays have blossomed in size and complexity. They are now six times longer and, unlike older \"what I did this summer\" essays, they offer arguments supported by evidence.\nG 段结论是错误率 virtually identical to today，只对上错误率不变这一半，没有讲论文更长更复杂，缺了陈述句的核心一半。"
+            },
+            {
+              "number": 39,
+              "stem": "Newspaper reports of teenagers give a false picture of their behaviour.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】But even when these accounts touch on real concerns, they do not really reflect the great mass of everyday teenage social behaviour: the online chat, the texting, the surfing, and the emergence of a new teenage sphere that is conducted digitally.\n但即便这些报道触及真实的担忧，它们也并未真正反映绝大多数青少年的日常社交行为：在线聊天、发短信、上网冲浪，以及一个以数字方式进行的新青少年领域的兴起。"
+            },
+            {
+              "number": 40,
+              "stem": "Parents are advised to mind their own digital behaviour and set a good example for their kids.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "M",
+                  "text": "Paragraph M"
+                }
+              ],
+              "answer": "M",
+              "type": "信息匹配",
+              "analysis": "【答案】M（强锚点）\n【原文】Rebecca Eynon argues that it's key to model good behaviour. Parents who stare non-stop at their phones and don't read books are likely to breed kids who will do the same. As ever, we ought to be careful about our own behaviour.\nL 段说 parents still need to set firm boundaries，是约束孩子的行为，而陈述句要的是家长注意自身、做榜样，两者落点不同。"
+            },
+            {
+              "number": 41,
+              "stem": "Contrary to parents' belief, kids try hard to leave as few traces as possible on the web.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】Parents are wrong to worry that kids don't care about privacy. In fact, they spend hours changing Facebook settings or using quick-delete sharing tools, such as Snapchat, to minimise their traces.\n家长担心孩子不在乎隐私，这是错的。事实上，他们花数小时更改 Facebook 设置，或使用阅后即删的分享工具（如 Snapchat），以尽量减少自己留下的痕迹。"
+            },
+            {
+              "number": 42,
+              "stem": "Students' ability to learn formal writing is unlikely to be affected by texting.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（强锚点）\n【原文】Clearly, teaching teens formal writing is still crucial, but texting probably isn't destroying their ability to learn it.\nG 段说 kids use overly casual language and text-speak in writing，落点是担忧，与陈述句的安抚结论方向相反，不是源头。"
+            },
+            {
+              "number": 43,
+              "stem": "Historically, new technologies have always caused great fears among parents.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（强锚点）\n【原文】New technologies always provoke generational panic, which usually has more to do with adult fears than with the lives of teenagers.\n新技术总是引发代际恐慌，这通常更多与成人的恐惧有关，而非与青少年的生活有关。"
+            },
+            {
+              "number": 44,
+              "stem": "The reading culture was seriously affected by cable television some four decades ago.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】But even back then, a minority of people—perhaps 20%—were lifelong heavy readers, and it was cable TV not the internet, that struck a blow at that culture in the 1980s.\n但即便那时，也只有少数人——也许 20%——是终身的重度读者，而真正打击那种文化的是有线电视而非互联网，发生在上世纪八十年代。"
+            },
+            {
+              "number": 45,
+              "stem": "Teachers say that kids' writing is too casual, using language characteristic of text messages.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】They say that kids use overly casual language and text-speak in writing, and don't have as much patience for long reading and complex arguments.\n2023年12月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 38. Students now write longer and more complex essays than their counterparts in previous decades while the error rates remain unchanged. 这句陈述的信息出自第几段？为什么？ 2023年12月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 第 38 句的信息出自 H 段（强锚点句）。H 段定位句为「But even as error rates stayed stable, student essays have blossomed in size and complexity. They are now six times longer and, unlike older \"what I did this summer\" essays, they offer arguments supported by evidence.」（但即便错误率保持稳定，学生的论文在篇幅和复杂度上却大大提升。它们如今长达六倍，而且不同于以往那种我的暑假之类的作文，它们能用证据支撑论点。）。陈述句是对原文的同义改写（longer and more complex essays ↔ blossomed in size and complexity；the error rates remain unchanged ↔ error rates stayed stable）。与之话题相邻的 G 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "In the history of horse racing, few horses have captured the affection of the British public like Red Rum. Today, three decades after his retirement, he is still one of the best-known and most beloved racehorses of all time."
+            },
+            {
+              "label": "B",
+              "text": "Red Rum was passed around to several owners before being purchased for Noel Le Mar. The agent who made the purchase was the now-legendary horse trainer Donald \"Ginger\" McCain."
+            },
+            {
+              "label": "C",
+              "text": "It wasn't apparent at the time, but Red Rum had a serious bone disease in his foot. For many horses (and many trainers) this would mean the end of a racing career before it even began. For Ginger and Red Rum, though, it was just an obstacle to greatness that had to be overcome."
+            },
+            {
+              "label": "D",
+              "text": "Red Rum's true talent came out in steeplechases(障碍赛马). His power, speed and jumping ability carried him to his first Grand National title in 1973. The very next year, Red Rum returned to take his second title. He was the first horse to take successive firsts since Reynoldstown in 1935-1936. Red Rum's spirit and grace had already begun to charm the leagues of Grand National fans."
+            },
+            {
+              "label": "E",
+              "text": "In the following two years, Red Rum lost out on the title, coming in second both times. When he returned in 1977 to try again, he was largely regarded as past his prime. He was 12 years old and not expected to place highly. He surprised sporting fans around the world when he came in a remarkable 25 lengths ahead of the nearest horse, taking his third Grand National win. To this day, Red Rum's third win is known as one of the greatest moments in horse racing history."
+            },
+            {
+              "label": "F",
+              "text": "Red Rum was headed for the Grand National once again in 1978 but suffered an injury in one of his heels shortly before the race. He was retired soon after, but his public life and fame by no means decreased with the end of his career. Red Rum traveled all over the country for various engagements. He often led pre-race parades at Aintree Racecourse and was a popular guest at charity benefits and public events."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What do we learn from the passage about Red Rum the racehorse?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He captured public affection long before he won national titles."
+                },
+                {
+                  "key": "B",
+                  "text": "He won enormous fame and love from British people."
+                },
+                {
+                  "key": "C",
+                  "text": "He became a myth three decades after his retirement."
+                },
+                {
+                  "key": "D",
+                  "text": "He owed his great success to several well-known horse trainers."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】In the history of horse racing, few horses have captured the affection of the British public like Red Rum. Today, three decades after his retirement, he is still one of the best-known and most beloved racehorses of all time.\nA) 无中生有：He captured public affection long before he won national titles 凭空添加“夺冠之前就赢得公众喜爱”的时间先后关系，原\nB) ✓ 正确：few horses have captured the affection of the British public like Red Rum ↔ He won enormou\nC) 偷换概念：原文 three decades after his retirement, he is still one of the best-known and most beloved \nD) 以偏概全：He owed his great success to several well-known horse trainers 说“他把成功归因于多位知名教练”；但原文 The ag"
+            },
+            {
+              "number": 47,
+              "stem": "What did the serious bone disease in Red Rum's foot mean to himself and his trainer?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was simply a hindrance they had to get over to excel."
+                },
+                {
+                  "key": "B",
+                  "text": "It was surely a disadvantage though not considered fatal."
+                },
+                {
+                  "key": "C",
+                  "text": "It was actually the end of a racing career that had just begun."
+                },
+                {
+                  "key": "D",
+                  "text": "It was really a major obstacle hard to overcome on their own."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】For Ginger and Red Rum, though, it was just an obstacle to greatness that had to be overcome.\nA) ✓ 正确：it was just an obstacle to greatness that had to be overcome ↔ It was simply a hindrance t\nB) 无中生有：It was surely a disadvantage though not considered fatal 加了一个 not considered fatal 的让步，原文从\nC) 与原文相反：原文 For many horses (and many trainers) this would mean the end of a racing career before i\nD) 过度推断：It was really a major obstacle hard to overcome on their own 在 obstacle 之外加了 hard to overc"
+            },
+            {
+              "number": 48,
+              "stem": "What does the author say Red Rum did with his power, speed and jumping ability?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He won his first Grand National title at 12."
+                },
+                {
+                  "key": "B",
+                  "text": "He took two firsts successively in 1935-1936."
+                },
+                {
+                  "key": "C",
+                  "text": "He surprised sporting fans worldwide in 1973."
+                },
+                {
+                  "key": "D",
+                  "text": "He took three Grand National wins in the 1970s."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Red Rum's true talent came out in steeplechases. His power, speed and jumping ability carried him to his first Grand National title in 1973. The very next year, Red Rum returned to take his second title. He was the first horse to take successive firsts since Reynoldstown in 1935-1936.\nA) 张冠李戴：He won his first Grand National title at 12 把首冠年龄定为 12 岁；但 his first Grand National title \nB) 张冠李戴：He took two firsts successively in 1935-1936 把 1935-1936 连冠归到 Red Rum 名下，但原文 He was the fi\nC) 张冠李戴：He surprised sporting fans worldwide in 1973 把“worldwide 惊讶”与 1973 挂钩，但原文 He surprised spo\nD) ✓ 正确：his first Grand National title in 1973 ↔ three Grand National wins in the 1970s the first "
+            },
+            {
+              "number": 49,
+              "stem": "What did people generally think of Red Rum when he returned to the racecourse in 1977?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He had already passed the peak of his racing life."
+                },
+                {
+                  "key": "B",
+                  "text": "He would have no rival in Grand National steeplechases."
+                },
+                {
+                  "key": "C",
+                  "text": "He had lost his charm with the leagues of Grand National fans."
+                },
+                {
+                  "key": "D",
+                  "text": "He could be expected to repeat his glory in the prime of his career."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】When he returned in 1977 to try again, he was largely regarded as past his prime. He was 12 years old and not expected to place highly.\nA) ✓ 正确：was largely regarded as past his prime ↔ He had already passed the peak of his racing life\nB) 与原文相反：He would have no rival in Grand National steeplechases 说他在大赛中无敌手；原文 he was largely regarde\nC) 与原文相反：He had lost his charm with the leagues of Grand National fans 说他对大赛粉丝失去了魅力；但原文 Red Rum's s\nD) 与原文相反：He could be expected to repeat his glory in the prime of his career 说“大家期待他在巅峰期再现辉煌”；但原文 n"
+            },
+            {
+              "number": 50,
+              "stem": "What became of Red Rum after his career ended?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He suffered from severe pain in a heel."
+                },
+                {
+                  "key": "B",
+                  "text": "He spent almost all his time traveling."
+                },
+                {
+                  "key": "C",
+                  "text": "He lived on various charity benefits."
+                },
+                {
+                  "key": "D",
+                  "text": "He remained famous and popular."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】He was retired soon after, but his public life and fame by no means decreased with the end of his career. Red Rum traveled all over the country for various engagements. He often led pre-race parades at Aintree Racecourse and was a popular guest at charity benefits and public events.\nA) 答非所问：He suffered from severe pain in a heel 把蹄部受伤说成退役后的状态；原文 suffered an injury in one of his h\nB) 过度推断：He spent almost all his time traveling 把 traveled all over the country for various engagem\nC) 偷换概念：He lived on various charity benefits 中 lived on 意为“靠……生活”，把 was a popular guest at charity\nD) ✓ 正确：his public life and fame by no means decreased ↔ He remained famous and popular Red Rum tr"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "People in business often make decisions based on their own personal feelings or instincts. It is quite horrifying to see people being guided by some unknown force. But how wise is it, really, to let your instincts drive your decisions?"
+            },
+            {
+              "label": "B",
+              "text": "In the decision-making process, relying on instincts only makes sense when you have a vast experience to support you. Simply \"feeling\" that something is right or should be done is highly subjective and can drown you."
+            },
+            {
+              "label": "C",
+              "text": "On the other hand, there is a more rational approach to making decisions. Data and analysis have long been associated with informed decisions. These reduce the likelihood of errors and increase the chances of success. Big, systematic data is mostly the foundation of most of our decisions, personal and business alike. But with its extreme usability comes a complication: what do you do if you strongly feel something should not be done, even if the data insists that it should?"
+            },
+            {
+              "label": "D",
+              "text": "This seemingly easy question is what drives the need to understand the relationship between instincts and data in the decision-making process. Without making things complicated, the solution to this dilemma is using data and instincts in conjunction to arrive at the best possible decisions."
+            },
+            {
+              "label": "E",
+              "text": "Instinctive decisions are always backed by previous experiences or information, which acknowledges that instinctive decisions have worked in the past. Decisions are not about making the choice and braving the consequences because you want to blindly trust your instincts. They are about combining your inner wisdom with the knowledge of systematic data to make the best decisions."
+            },
+            {
+              "label": "F",
+              "text": "Sometimes, rational analysis and data are impractical to be employed in certain situations. Absence of definitive criteria, and time and resource constraints, and novel situations are instances which limit the practicality of data. The only feasible option is to rely on what your instincts tell you. In these situations, instincts can help you make effective and quick decisions."
+            },
+            {
+              "label": "G",
+              "text": "Combining instinctive and rational analysis produces well-rounded decisions. It reduces the chances of making mistakes, and has increasingly become a favorite approach to decision-making among leaders of today."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the author say businesspeople often do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Strive to make sense of some unknown forces."
+                },
+                {
+                  "key": "B",
+                  "text": "Avoid being driven by their own feeling."
+                },
+                {
+                  "key": "C",
+                  "text": "Draw on a vast wealth of past experience."
+                },
+                {
+                  "key": "D",
+                  "text": "Rely on instincts in decision-making."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】People in business often make decisions based on their own personal feelings or instincts.\nA) 无中生有：原文用 unknown force 比喻直觉的神秘性，并未让商人「弄清未知力量」；Strive to make sense of some unknown forces 凭空给出动\nB) 与原文相反：原文说商人「常凭感觉决策」，Avoid being driven by their own feeling 却说「避免被感觉驱动」，完全反向。\nC) 张冠李戴：relying on instincts only makes sense when you have a vast experience to support you 是作者给「\nD) ✓ 正确：make decisions based on their own personal feelings or instincts ↔ Rely on instincts in de"
+            },
+            {
+              "number": 52,
+              "stem": "What should we take into account in order to make informed decisions?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The likelihood of errors."
+                },
+                {
+                  "key": "B",
+                  "text": "Systematic data and analysis."
+                },
+                {
+                  "key": "C",
+                  "text": "The complexity of circumstances."
+                },
+                {
+                  "key": "D",
+                  "text": "Personal feelings and business strategies"
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Data and analysis have long been associated with informed decisions.\nA) 答非所问：原文 These reduce the likelihood of errors 说数据与分析「降低出错概率」，The likelihood of errors 只是数据带来的「结\nB) ✓ 正确：Data and analysis ↔ Systematic data and analysis 预判「依靠数据与分析」与 Systematic data and analysis\nC) 无中生有：原文从未出现 The complexity of circumstances（环境的复杂性）这一表述，与「明智决策的依靠」无关。\nD) 偷换概念：原文把 personal feelings or instincts 视作「常被依赖却需谨慎」的对象，并未把它与 business strategies 并列为「做明智决策的因素」"
+            },
+            {
+              "number": 53,
+              "stem": "What should people do in a decision-making process if instincts disagree with data?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Resolve the dilemma with previous experience."
+                },
+                {
+                  "key": "B",
+                  "text": "Figure out which of the two is more reliable."
+                },
+                {
+                  "key": "C",
+                  "text": "Combine the two together."
+                },
+                {
+                  "key": "D",
+                  "text": "Prioritize instincts over data."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Without making things complicated, the solution to this dilemma is using data and instincts in conjunction to arrive at the best possible decisions.\nA) 张冠李戴：Instinctive decisions are always backed by previous experiences 是「直觉的支撑机制」，不是题干问的「矛盾时的解决办法\nB) 无中生有：原文从未让人「比较谁更可靠」，Figure out which of the two is more reliable 是凭空增加的取舍动作。\nC) ✓ 正确：using data and instincts in conjunction ↔ Combine the two together 预判「把数据与直觉结合使用」与 Combine\nD) 与原文相反：原文明确反对盲目信任直觉（you want to blindly trust your instincts 被作者否定），Prioritize instincts over dat"
+            },
+            {
+              "number": 54,
+              "stem": "What should we do when facing various factors that limit the practicality of data?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Make a rational and systematic analysis."
+                },
+                {
+                  "key": "B",
+                  "text": "Explore the most feasible options."
+                },
+                {
+                  "key": "C",
+                  "text": "Resort to our inner wisdom."
+                },
+                {
+                  "key": "D",
+                  "text": "Apply definitive criteria."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】The only feasible option is to rely on what your instincts tell you.\nA) 与原文相反：原文明说数据在此场合「不可行」，Make a rational and systematic analysis 反让你做理性系统分析，正好走反方向。\nB) 偷换概念：原文说 The only feasible option is to rely on what your instincts tell you，给出的是「唯一可行的办法」；Expl\nC) ✓ 正确：rely on what your instincts tell you ↔ Resort to our inner wisdom 预判「依靠直觉」与 Resort to our \nD) 与原文相反：原文 Absence of definitive criteria 指出此场合「没有明确标准」，Apply definitive criteria 反让你「应用明确标准」，与原文完"
+            },
+            {
+              "number": 55,
+              "stem": "What does it take for decisions to become the best according to the author?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Applying instincts and data in conjunction."
+                },
+                {
+                  "key": "B",
+                  "text": "Assessing all factors when making a choice."
+                },
+                {
+                  "key": "C",
+                  "text": "Recalling what has actually worked in the past."
+                },
+                {
+                  "key": "D",
+                  "text": "Refraining from trusting instincts arbitrarily."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Combining instinctive and rational analysis produces well-rounded decisions.\nA) ✓ 正确：Combining instinctive and rational analysis ↔ Applying instincts and data in conjunction u\nB) 无中生有：原文从未要求「评估所有因素」，Assessing all factors when making a choice 是无来源的扩张表述。\nC) 以偏概全：Instinctive decisions are always backed by previous experiences 只是说直觉以经验为后盾，并不等于「让决策变最佳」的充\nD) 以偏概全：you want to blindly trust your instincts 提到「不要盲目相信直觉」，但这只是「最佳决策」的一个否定性前提，不是充分条件，Refraining"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n改革开放以来，中国人民生活水平不断提高，这在人们的饮食 (diet)变化上得到充分体现 。如今，人们不再满足于吃得饱，而是追求吃得更加安全、更加营养、更加健康，食物也愈来愈丰富多样，不再限于本地的农产品。物流业 (logistics industry)的发展使人们很容易品尝到全国各地的特产。毫无疑问，食品质量与饮食结构的改善为增进人们健康提供了有力的保障。",
+              "analysis": "【参考译文】\nSince the reform and opening-up, the living standards of the Chinese people have improved steadily, which is fully reflected in the changes in people's diet. Today, people are no longer content with simply having enough to eat; instead, they pursue food that is safer, more nutritious and healthier. Food is also becoming more and more diverse, no longer being limited to local agricultural products. The development of the logistics industry makes it easy for people to taste specialties from all over the country. Undoubtedly, the improvement in food quality and diet structure provides a strong guarantee for improving people's health."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2023-12-1/",
+    "sharedWith": "cet4-2023-12-s1",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 65
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2023-12-3/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

@@ -7,7 +7,7 @@ import path from "node:path";
  * 查词毫秒级，无网络依赖。
  */
 
-type OfflineEntry = {
+export type OfflineEntry = {
   phonetic: string;
   definitions: { pos: string; zh: string }[];
   tags?: string[];
@@ -52,4 +52,15 @@ export function lookupOffline(word: string): OfflineEntry | null {
 /** 词库是否已加载且有数据 */
 export function hasOfflineDict(): boolean {
   return Object.keys(load()).length > 0;
+}
+
+/**
+ * 列出全库词条（单词 → 词性/释义）。
+ *
+ * 给「近义干扰项」用：要在 1.5 万条里找和题面义项最像的几个词，
+ * 不能一条条 lookup，只能把库摊平遍历一次。返回的是同一个对象引用，
+ * 调用方不要修改。
+ */
+export function listOfflineEntries(): [string, OfflineEntry][] {
+  return Object.entries(load());
 }

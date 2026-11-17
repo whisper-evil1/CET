@@ -5,6 +5,7 @@ import { registerSchema } from "@/lib/validators";
 import { sanitizeName } from "@/lib/sanitize";
 import { rateLimit } from "@/lib/rate-limit";
 import { syncAccountToCloud } from "@/lib/cloud-account-sync";
+import { saveAccountToVault } from "@/lib/account-vault";
 
 /** 注册：邮箱唯一 + 密码 bcrypt 哈希，绝不明文落库 */
 export const POST = withApi(async (request: Request) => {
@@ -37,10 +38,20 @@ export const POST = withApi(async (request: Request) => {
     source: "register",
   });
 
+  // 写一份加密凭据到账号保险库：本地库被重置后，这个账号还能用原密码登回来，
+  // 而不是逼用户重开一个新号。失败不影响注册结果（保险库是旁路）。
+  const vaulted = await saveAccountToVault({
+    userId: user.id,
+    email: user.email,
+    name: user.name,
+    passwordHash: hashed,
+  });
+
   return ok({
     id: user.id,
     email: user.email,
     name: user.name,
     cloudSynced: mirrored.ok,
+    vaultReady: vaulted,
   });
 });

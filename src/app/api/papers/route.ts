@@ -3,13 +3,19 @@ import { ok, withApi } from "@/lib/api-helpers";
 import { currentUserId } from "@/lib/auth";
 import type { PaperSummary } from "@/lib/types";
 
-/** 试卷列表 + 当前用户的作答进度，支持按 level 过滤 */
+/** 试卷列表 + 当前用户的作答进度，支持按 level 过滤；status=ready 只返回正文齐备的卷 */
 export const GET = withApi(async (request: Request) => {
   const userId = await currentUserId();
-  const level = new URL(request.url).searchParams.get("level"); // CET4 | CET6
+  const params = new URL(request.url).searchParams;
+  const level = params.get("level"); // CET4 | CET6
+  const status = params.get("status"); // ready | draft
 
   const papers = await prisma.paper.findMany({
-    where: level ? { level } : undefined,
+    where: {
+      hidden: false,
+      ...(level ? { level } : {}),
+      ...(status ? { status } : {}),
+    },
     orderBy: [{ sort: "asc" }],
     include: {
       passages: {
@@ -58,6 +64,9 @@ export const GET = withApi(async (request: Request) => {
       level: paper.level,
       year: paper.year,
       month: paper.month,
+      setNo: paper.setNo,
+      origin: paper.origin,
+      status: paper.status,
       passageCount,
       questionCount,
       answeredCount: stat.answered,

@@ -1,0 +1,2725 @@
+{
+  "id": "cet4-2021-12-s3",
+  "level": "CET4",
+  "year": 2021,
+  "month": 12,
+  "setNo": 3,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose you have just participated in a school project of collecting used books on campus. You are now to write a report about the project, which may include its aim, organizers, participants and activities. You will have 30 minutes to write the report. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nA Report on the Used-Book Collection\n\nLast week, a book-collecting project was successfully carried out on our campus, aiming to give idle used books a second life and to help students in need. By gathering textbooks and novels that lay unused on shelves, the project hoped to promote recycling and ease the burden of buying new books.\n\nThe project was organized by the Student Union, with strong support from the school library. It attracted a wide range of participants: undergraduates from every department, several teachers, and a group of enthusiastic volunteers. Together they set up donation booths, sorted and classified the collected books, and recorded each contribution carefully. Some volunteers also repaired damaged covers and delivered the books to a nearby rural school.\n\nThanks to everyone's effort, more than two thousand books were collected. The activity not only enriched the campus reading atmosphere but also spread the spirit of sharing and thrift among students."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "本场次听力只有一份音频，本套听力与同场第一套同卷；原文、题目与答案取自该套真题。考场多套卷的选项顺序可能不同，这里沿用第一套的顺序。在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 8.1,
+              "text": "United Airlines has apologised for mistakenly shipping an American family's pet dog thousands of miles in the wrong direction to Japan.",
+              "zh": "美国联合航空公司为误将一个美国家庭的宠物狗运送到数千英里外的日本方向而道歉。"
+            },
+            {
+              "id": 2,
+              "start": 8.4,
+              "end": 16.5,
+              "text": "The dog owner's beloved 10-year-old dog named Buddy took an unexpected 16-hour flight to Tokyo following a mix-up by the airline.",
+              "zh": "狗主人心爱的10岁狗狗名叫Buddy,由于航空公司的失误,意外搭乘了16小时的航班飞往东京。"
+            },
+            {
+              "id": 3,
+              "start": 16.9,
+              "end": 27.2,
+              "text": "The dog owner's family are currently in the process of moving. They were meant to be reunited with the pet in their new home city in Texas.",
+              "zh": "狗主人一家目前正在搬家过程中。他们原本应该在得克萨斯州的新家与宠物团聚。"
+            },
+            {
+              "id": 4,
+              "start": 27.6,
+              "end": 36.8,
+              "text": "But when they arrived at the United Airlines cargo facility in the southern U.S. state, they found a stranger's dog waiting in Buddy's place.",
+              "zh": "但当他们到达美国南部州的美国联合航空公司货运设施时,发现一只陌生的狗在Buddy的位置等待。"
+            },
+            {
+              "id": 5,
+              "start": 37.1,
+              "end": 46.4,
+              "text": "Both of the dogs had been sent to the wrong destinations on connecting flights from Denver, with Buddy mistakenly being sent to Japan instead.",
+              "zh": "这两只狗都在丹佛转机时被送到了错误的目的地, Buddy被错误地送到了日本。"
+            },
+            {
+              "id": 6,
+              "start": 46.8,
+              "end": 57.1,
+              "text": "Buddy was given a physical checkup when he arrived at Tokyo's International Airport. The dog was then sent back to the U.S. on a private charter jet.",
+              "zh": "Buddy抵达东京国际机场后接受了身体检查。随后这只狗被用私人包机送回美国。"
+            },
+            {
+              "id": 7,
+              "start": 57.5,
+              "end": 62.8,
+              "text": "\"I'm so glad he's alive and coming home soon!\" said the relieved dog owner.",
+              "zh": "\"我太高兴了,它还活着并且很快就要回家了!\"如释重负的狗主人说。"
+            },
+            {
+              "id": 8,
+              "start": 63.1,
+              "end": 77.8,
+              "text": "\"And an error occurred during the connections in Denver. We have notified our customers that their pets arrived safely. We will arrange to return the pets to them as soon as possible,\" a spokesperson of United Airlines said.",
+              "zh": "\"在丹佛转机期间发生了一个错误。我们已通知客户他们的宠物安全抵达。我们将尽快安排将宠物送还给他们。\"美国联合航空公司发言人表示。"
+            }
+          ],
+          "audioDuration": 77.8,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What does the news report say about United Airlines?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It found a pet dog on board a plane to a city in Texas."
+                },
+                {
+                  "key": "B",
+                  "text": "It had one of its cargo planes land at a wrong airport."
+                },
+                {
+                  "key": "C",
+                  "text": "It sent two dogs to the wrong destinations."
+                },
+                {
+                  "key": "D",
+                  "text": "It had two of its domestic flights mixed up."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P5）：Both of the dogs had been sent to the wrong destinations on connecting flights from Denver, with Buddy mistakenly being sent to Japan instead.信号：Both…wrong destinations 直陈事故 。这句以 Both of the dogs had been sent to the wrong destinations 正面点出事故核心——两只狗都被送错…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项盗用了原文里 Texas 这个地名（their new home city in Texas），但原文是说一家人本应在得州的新家与狗团聚，并非『在飞往得州的飞机上发现一只狗』；它把真实情节拼凑改写，属听到 Texas 就想选的陷阱。 借用原文：United Airlines has apologised for mistakenly shipping an American family's pet dog thousands of miles in the wrong direction",
+                "B": "偷换概念：原文反复说送错的是 dog（shipping an American family's pet dog…in the wrong direction），是『狗被运错方向』，从没说『一架货机降错机场』；选项把错送对象从狗偷换成 cargo plane、把『送错目的地』偷换成『降错机场』，与原文不符。 借用原文：Both of the dogs had been sent to the wrong destinations on connecting flights from Denver",
+                "D": "答非所问：原文是两只狗在转机时被送错（on connecting flights from Denver），出错的是狗的去向；选项却说是『两个国内航班被搞混』，把出错对象从狗换成 flights，且原文只字未提『国内航班搞混』，属答非所问。",
+                "C": "正确项：与答案句同义替换（Both of the dogs had been sent to the wrong destinations ↔ It sent two dogs to the wrong destinations. Both the dogs = two dogs）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "Both of the dogs had been sent to the wrong destinations on connecting flights from Denver, with Buddy mistakenly being sent to Japan instead.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What did the spokesperson for United Airlines say they would do after the incident?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Correct their mistake as soon as possible."
+                },
+                {
+                  "key": "B",
+                  "text": "Give the two pets a physical checkup."
+                },
+                {
+                  "key": "C",
+                  "text": "Hire a charter jet to bring the pets back."
+                },
+                {
+                  "key": "D",
+                  "text": "Send another plane to continue the flight."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P8）：We will arrange to return the pets to them as soon as possible.信号：We will 未来承诺 。这句出自发言人原话，以 We will arrange to return the pets to them as soon as possible 的 We will 领头，是典型的官方…",
+              "optionAnalysis": {
+                "B": "原词陷阱：选项盗用了原文真出现的 physical checkup（Buddy was given a physical checkup），但那是 Buddy 到东京后已经做过的事，不是发言人承诺『事故后将要做』的动作；时间错位，张冠李戴到发言人头上。 借用原文：The dog was then sent back to the U.S. on a private charter jet.",
+                "C": "原词陷阱：选项盗用原文的 charter jet（sent back to the U.S. on a private charter jet），但那是叙述 Buddy 已经被私人包机送回美国的既成事实，不是发言人对今后的承诺；选项把已发生说成将要做，且 Hire（雇用）也非原文所述。",
+                "D": "未提及：原文从没说要『再派一架飞机继续这趟飞行』；发言人只承诺尽快把宠物送还（return the pets to them as soon as possible）。选项 Send another plane to continue the flight. 是凭 plane/flight 这类话题词臆造的动作，未提及。",
+                "A": "正确项：与答案句同义替换（We will arrange to return the pets to them as soon as possible ↔ Correct their mistake as soon as possible. 送还宠物=纠正错误）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "We will arrange to return the pets to them as soon as possible.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 13.5,
+              "text": "Officials at Reid Park Zoo in Tucson Arizona are celebrating the birth of a baby elephant. Zoo officials say the baby was born on Monday. It is a female and she weighs nearly 130 kilograms.",
+              "zh": "亚利桑那州图森市Reid Park动物园的官员们正在庆祝一头小象的诞生。动物园官员表示,这头小象于周一出生。它是雌性,体重近130公斤。"
+            },
+            {
+              "id": 2,
+              "start": 13.8,
+              "end": 18.9,
+              "text": "Semba, her mother, is a 30-year-old African elephant. The pregnancy lasted 22 months.",
+              "zh": "它的母亲Semba是一头30岁的非洲象。怀孕期持续了22个月。"
+            },
+            {
+              "id": 3,
+              "start": 19.3,
+              "end": 23.1,
+              "text": "Officials describe the baby elephant as \"healthy, standing and nursing\".",
+              "zh": "官员们描述这头小象\"健康、能站立并在哺乳\"。"
+            },
+            {
+              "id": 4,
+              "start": 23.5,
+              "end": 26.5,
+              "text": "The baby hasn't been given a name yet.",
+              "zh": "这头小象还没有被命名。"
+            },
+            {
+              "id": 5,
+              "start": 26.9,
+              "end": 34.9,
+              "text": "Semba has given birth before. Zoo officials said during this pregnancy, she was closely monitored through physical exams and blood tests.",
+              "zh": "Semba之前曾生育过。动物园官员表示,在这次怀孕期间,通过身体检查和血液测试对她进行了密切监测。"
+            },
+            {
+              "id": 6,
+              "start": 35.3,
+              "end": 44.1,
+              "text": "Dr. Sue Tygielski is the zoo's director of zoological operations. She said the elephant's birth went smoothly and that there were no complications.",
+              "zh": "Sue Tygielski博士是该动物园的动物运营总监。她表示大象的分娩过程顺利,没有出现并发症。"
+            },
+            {
+              "id": 7,
+              "start": 44.5,
+              "end": 53.3,
+              "text": "The new baby expands the zoo's elephant herd to six. That includes the baby's parents, a sister, a brother and an adult female.",
+              "zh": "这头新生小象使动物园的大象群扩大到六头。其中包括小象的父母、一个姐姐、一个哥哥和一头成年雌象。"
+            }
+          ],
+          "audioDuration": 53.3,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What do we learn about the mother elephant Semba?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She weighs 130 kilograms."
+                },
+                {
+                  "key": "B",
+                  "text": "She has had babies before."
+                },
+                {
+                  "key": "C",
+                  "text": "She was brought from Africa."
+                },
+                {
+                  "key": "D",
+                  "text": "She has a big family of six."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P5）：Semba has given birth before.信号：直陈母象过往经历 。答案句是录音里专门交代 Semba 经历的一句 Semba has given birth before.，它直接陈述了关于这只母象本身的一项事实，与题干 \"关于 Semba 我们了解到什么\" 严…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 She weighs 130 kilograms. 盗用了录音里真实出现的数字 130 公斤，但录音说的是新生小象 she weighs nearly 130 kilograms，主语是 baby 而非母亲 Semba，把宝宝的体重安到了母亲头上，对象搞错。 借用原文：a 30-year-old African elephant",
+                "C": "偷换概念：选项 She was brought from Africa. 借用了录音里的 Africa 一词，但录音只说 Semba, her mother, is a 30-year-old African elephant.——她是一头 \"非洲象\"（品种），并没有说 \"她是从非洲被带来的\"，把物种来源偷换成了运输来历。 借用原文：expands the zoo's elephant herd to six",
+                "D": "原词陷阱：选项 She has a big family of six. 盗用了录音末尾的数字 six，但录音说 The new baby expands the zoo's elephant herd to six.——是 \"动物园象群扩大到六只\"，描述的是整个园区象群规模，而非 \"母亲 Semba 有一个六口之家\"，对象与口径都被改了。",
+                "B": "正确项：与答案句同义替换（has given birth before ↔ has had babies before 生过=有过孩子）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "Semba has given birth before.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What does the report say about the birth of the new baby elephant?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It took 22 hours."
+                },
+                {
+                  "key": "B",
+                  "text": "It had some complications."
+                },
+                {
+                  "key": "C",
+                  "text": "It was smooth."
+                },
+                {
+                  "key": "D",
+                  "text": "It was monitored by Dr. Sue Tygielski."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P6）：She said the elephant's birth went smoothly and that there were no complications.信号：对出生过程的直接定性 。答案句 the elephant's birth went smoothly and that there were no complications 是录音里唯一对 \"出生过程怎么样\" 下定…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 It took 22 hours. 盗用了数字 22，但录音里的 22 是 The pregnancy lasted 22 months.——是怀孕 22 个 \"月\"，且说的是孕期长短不是 \"出生过程用了多久\"，单位（hours↔months）和对象（出生过程↔整个孕期）双双被换。 借用原文：there were no complications",
+                "B": "与原文相反：选项 It had some complications. 直接盗用录音原词 complications，但录音是 there were no complications——明确说 \"没有\" 并发症，选项却说 \"有一些\"，把否定改成了肯定，极性正好相反。 借用原文：during this pregnancy, she was closely monitored",
+                "D": "张冠李戴：选项 It was monitored by Dr. Sue Tygielski. 把录音里真实出现的人名 Sue Tygielski 搬来当出生过程的监控者，但录音说被密切监控的是 during this pregnancy, she was closely monitored——监控的是 Semba 的 \"孕期\"，而 Tygielski 博士只是在 Dr. Sue Tygielski is the zoo's director 里被介绍头衔并转述 \"出生很顺利\"，并没说出生由她监控，把 \"孕期被监控\" 和 \"这位博士\" 硬拼到一起。",
+                "C": "正确项：与答案句同义替换（went smoothly ↔ It was smooth. 副词转形容词同义）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "She said the elephant's birth went smoothly and that there were no complications.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 16.9,
+              "text": "Three years ago, a couple was enjoying a meal at a beach restaurant. The restaurant was built on a wooden structure above the sea-water. During the meal, the man's wedding ring slipped off his finger. It fell through the wooden floorboards, apparently lost forever.",
+              "zh": "三年前,一对夫妇在一家海滩餐厅用餐。这家餐厅建在海面上的木质结构上。用餐期间,男士的结婚戒指从手指上滑落了。它掉进了木地板的缝隙里,看似永远丢失了。"
+            },
+            {
+              "id": 2,
+              "start": 17.3,
+              "end": 29.2,
+              "text": "Recently, the restaurant manager Ryan Krivoy decided to replace the wooden deck and he found an old gold coin, some $100 bills and a silver wedding ring while replacing the deck.",
+              "zh": "最近,餐厅经理Ryan Krivoy决定更换木质甲板,在更换甲板时他发现了一枚古老的金币、一些100美元的钞票和一枚银质结婚戒指。"
+            },
+            {
+              "id": 3,
+              "start": 29.6,
+              "end": 37.2,
+              "text": "The restaurant waitress Sasha Formica posted a picture of the ring on Facebook. The post was shared about 5,000 times.",
+              "zh": "餐厅女服务员Sasha Formica在Facebook上发布了这枚戒指的照片。这条帖子被分享了大约5000次。"
+            },
+            {
+              "id": 4,
+              "start": 37.6,
+              "end": 47.6,
+              "text": "Three days later, the happy wife called to claim the ring. She even texted pictures of her and her husband eating there in 2017 as proof.",
+              "zh": "三天后,这位高兴的妻子打电话来认领戒指。她甚至发送了她和丈夫2017年在那里用餐的照片作为证明。"
+            },
+            {
+              "id": 5,
+              "start": 48,
+              "end": 59.5,
+              "text": "The restaurant mailed the ring back to the happy couple. Meanwhile, Krivoy discovered that the gold coin was very rare. It was from 1855 and worth as much as $2,000.",
+              "zh": "餐厅将戒指邮寄回给了这对幸福的夫妇。与此同时, Krivoy发现那枚金币非常罕见。它来自1855年,价值高达2000美元。"
+            }
+          ],
+          "audioDuration": 59.5,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What do we learn about the restaurant?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It enjoyed great popularity."
+                },
+                {
+                  "key": "B",
+                  "text": "It started business three years ago."
+                },
+                {
+                  "key": "C",
+                  "text": "It was frequented by newly-weds."
+                },
+                {
+                  "key": "D",
+                  "text": "It was built above the sea-water."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：The restaurant was built on a wooden structure above the sea-water.信号：录音里唯一直接描述餐厅本身的句子 。全篇只有这一句在正面描述餐厅这个事物本身——The restaurant was built on a wooden structure above the sea-water.，…",
+              "optionAnalysis": {
+                "A": "未提及：It enjoyed great popularity. 说餐厅很受欢迎，但录音通篇只讲戒指失而复得，从未评价餐厅的人气或生意好坏，属于无中生有。",
+                "B": "原词陷阱：It started business three years ago. 借了录音开头的 three years ago，但 Three years ago, a couple was enjoying a meal 里这个时间是指三年前有对夫妇在此用餐、戒指掉落，根本不是讲餐厅三年前开业；把三年前从用餐时间偷换成开业时间，是典型的原词陷阱。 借用原文：a couple was enjoying a meal at a beach restaurant",
+                "C": "过度推断：It was frequented by newly-weds. 说餐厅常被新婚夫妇光顾；录音只提到一对夫妇曾来用餐 a couple was enjoying a meal，既没说他们是新婚、更没说这里常有新婚夫妇来，属于由一对夫妇过度推断成常客群体。",
+                "D": "正确项：与答案句同义替换（built on a wooden structure above the sea-water ↔ It was built above the sea-water. 选项是原句的压缩概括）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The restaurant was built on a wooden structure above the sea-water.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What did the restaurant manager decide to do recently?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Expand his business on the beach."
+                },
+                {
+                  "key": "B",
+                  "text": "Replace the restaurant's wooden deck."
+                },
+                {
+                  "key": "C",
+                  "text": "Post a picture of his restaurant online."
+                },
+                {
+                  "key": "D",
+                  "text": "Celebrate his silver wedding anniversary."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：Recently, the restaurant manager Ryan Krivoy decided to replace the wooden deck and he found an old gold coin, some $100 bills and a silver wedding ring while replacing the deck.信号：decided to 直接给出经理的决定动作 。the restaurant manager Ryan Krivoy decided to replace the wooden deck 里 decided to 后…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Expand his business on the beach. 里的 beach 借自录音背景中的海边餐厅（beach restaurant），但录音从没说经理要扩张生意，他决定的是换平台 replace the wooden deck；把场景词 beach 拿来拼一个原文没有的动作，是原词陷阱加无中生有。 借用原文：The restaurant waitress Sasha Formica posted a picture of the ring on Facebook.",
+                "C": "张冠李戴：Post a picture of his restaurant online. 里发照片到网上这件事，录音里做的人是女服务员 The restaurant waitress Sasha Formica posted a picture of the ring on Facebook.，且发的是戒指照片不是餐厅照片；既把动作的人从服务员张冠李戴到经理，又把戒指换成餐厅，双重偷换。 借用原文：a silver wedding ring",
+                "D": "原词陷阱：Celebrate his silver wedding anniversary. 里的 silver wedding 拼自录音的 silver wedding ring（银质结婚戒指），但 a silver wedding ring 说的是经理找到的一枚银戒指，根本不是他要庆祝结婚周年；把 silver wedding ring 截成 silver wedding，是诱人的原词陷阱。",
+                "B": "正确项：与答案句同义替换（decided to replace the wooden deck ↔ Replace the restaurant's wooden deck. 几乎同表述，仅补出所属）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Recently, the restaurant manager Ryan Krivoy decided to replace the wooden deck and he found an old gold coin, some $100 bills and a silver wedding ring while replacing the deck.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What did the waitress do about the recovered ring?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She sold it for two thousand dollars."
+                },
+                {
+                  "key": "B",
+                  "text": "She took it to the restaurant manager."
+                },
+                {
+                  "key": "C",
+                  "text": "She posted its picture on Facebook."
+                },
+                {
+                  "key": "D",
+                  "text": "She returned it to its owner right away."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P3）：The restaurant waitress Sasha Formica posted a picture of the ring on Facebook.信号：主语正是 waitress、动作直接针对 ring 。The restaurant waitress Sasha Formica posted a picture of the ring on Facebook. 这…",
+              "optionAnalysis": {
+                "A": "原词陷阱：She sold it for two thousand dollars. 里的两千美元搬自录音结尾 the gold coin was very rare. It was from 1855 and worth as much as $2,000，但这金额是说那枚稀有金币值两千美元、并非服务员把戒指卖了两千；既盗用了金额数字，又把对象从金币偷换成戒指，是原词陷阱加偷换概念。 借用原文：The restaurant mailed the ring back to the happy couple.",
+                "B": "未提及：She took it to the restaurant manager. 说服务员把戒指交给经理，但录音里其实是经理先发现戒指 he found... a silver wedding ring、服务员再去发照片，戒指并非由服务员上交经理；这是个原文没发生、还把人物关系方向弄反的干扰项。",
+                "D": "张冠李戴：She returned it to its owner right away. 借了录音里确有的归还戒指情节，但还戒指的是餐厅而非服务员 The restaurant mailed the ring back to the happy couple.，而且是失主三天后来认领 Three days later, the happy wife called to claim the ring 才寄还，并非 right away（立刻）；张冠李戴加篡改时间。",
+                "C": "正确项：与答案句同义替换（posted a picture of the ring on Facebook ↔ She posted its picture on Facebook. 几乎原句，仅用 its 回指 ring）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "The restaurant waitress Sasha Formica posted a picture of the ring on Facebook.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 13.8,
+              "text": "W: I can't believe that duck hunting is still legal in so many parts of the world. The scientific evidence from countries like Australia, Canada and the USA clearly indicates a decline in the birds' numbers.",
+              "zh": "W: 我真不敢相信在世界上这么多地方猎鸭仍然是合法的。来自澳大利亚、加拿大和美国等国家的科学证据清楚地表明这些鸟类的数量正在下降。"
+            },
+            {
+              "id": 2,
+              "start": 14.2,
+              "end": 21.5,
+              "text": "M: But can anyone be sure if the decline is really caused by the hunting or by climate change?",
+              "zh": "M: 但是有人能确定这种下降真的是由狩猎引起的还是由气候变化引起的吗?"
+            },
+            {
+              "id": 3,
+              "start": 21.9,
+              "end": 38.8,
+              "text": "W: It's caused by both in fact. We see more droughts in countries like Australia. Ducks are birds that feed and breed in areas where there is a lot of water, but their habitats have been shrinking in recent decades because of the droughts.",
+              "zh": "W: 实际上两者都有影响。我们在澳大利亚这样的国家看到更多的干旱。鸭子是在有大量水源的地区觅食和繁殖的鸟类,但近几十年来由于干旱,它们的栖息地一直在缩小。"
+            },
+            {
+              "id": 4,
+              "start": 39.1,
+              "end": 49.1,
+              "text": "M: And I guess with fewer places to inhabit, they concentrate in greater numbers in few areas, which surely makes them easier targets for the hunters.",
+              "zh": "M: 我猜随着可居住的地方越来越少,它们会更集中地聚集在少数几个区域,这肯定让它们更容易成为猎人的目标。"
+            },
+            {
+              "id": 5,
+              "start": 49.5,
+              "end": 64.1,
+              "text": "W: It does. My grandfather was a duck hunter. He told me hunting ducks and geese began in the 19th century. They were easily found and a plentifully available food source in farming areas, especially for poor immigrants.",
+              "zh": "W: 确实如此。我祖父曾是个猎鸭人。他告诉我猎鸭和猎鹅始于19世纪。在农业地区它们很容易找到,是充足的食物来源,尤其对贫穷的移民来说。"
+            },
+            {
+              "id": 6,
+              "start": 64.4,
+              "end": 68.3,
+              "text": "M: What do they use for hunting during that period?",
+              "zh": "M: 那个时期他们用什么来狩猎?"
+            },
+            {
+              "id": 7,
+              "start": 68.6,
+              "end": 87.1,
+              "text": "W: They use new types of guns, and birds could easily be shot down in flight. And in such great numbers, their commercial hunting of ducks and geese became an industry. Yet, there's no commercial farming of these birds nowadays. Their meat is hardly eaten in Western countries.",
+              "zh": "W: 他们使用新型枪支,鸟类在飞行中很容易被射下来。而且数量如此之多,对鸭子和鹅的商业狩猎成了一个产业。然而,现在已经没有这些鸟类的商业养殖了。在西方国家几乎没人吃它们的肉。"
+            },
+            {
+              "id": 8,
+              "start": 87.4,
+              "end": 92.1,
+              "text": "M: No, duck hunting seemingly exists as the continuation of a tradition.",
+              "zh": "M: 是的,猎鸭似乎只是作为一种传统的延续而存在。"
+            },
+            {
+              "id": 9,
+              "start": 92.4,
+              "end": 103.2,
+              "text": "W: Well, ducks have never been popular with farmers like my grandfather anyway because they sometimes destroy crops. In fact, farmers used to poison them in large numbers.",
+              "zh": "W: 其实,鸭子从来都不受像我祖父这样的农民欢迎,因为它们有时会破坏庄稼。事实上,农民过去常常大量毒杀它们。"
+            },
+            {
+              "id": 10,
+              "start": 103.5,
+              "end": 111.6,
+              "text": "M: That somehow doesn't surprise me. Nobody places much value on the lives of these poor birds or on their meat.",
+              "zh": "M: 这倒不让我意外。没人重视这些可怜鸟儿的生命,也不重视它们的肉。"
+            }
+          ],
+          "audioDuration": 111.6,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "What does the woman find unbelievable?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The number of ducks has declined sharply in recent years."
+                },
+                {
+                  "key": "B",
+                  "text": "Climate change has little effect on the lives of wild ducks."
+                },
+                {
+                  "key": "C",
+                  "text": "Duck meat is not eaten in Australia, Canada and the U.S."
+                },
+                {
+                  "key": "D",
+                  "text": "Duck hunting remains legal in many parts of the world."
+                }
+              ],
+              "answer": "D",
+              "analysis": "态度观点题。答案句（P1）：W: I can't believe that duck hunting is still legal in so many parts of the world.信号：“我不敢相信”直接喊出态度 。答案信号是开口第一句的强烈表态 I can't believe that——这正是 unbelievable 的口语版，紧跟其后的内容就是她觉得难以置信的对象，无需再往下找。",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确实提到 a decline in the birds' numbers，A 用 declined sharply 盗了这个原词。但她惊讶的是“居然合法”，数量下降只是她用来佐证的事实，答非所问。 借用原文：It's caused by both in fact.",
+                "B": "与原文相反：录音里 It's caused by both in fact. 明确说气候（干旱）是原因之一，B 却说 Climate change has little effect，与原文相反；climate change 这个词是男士在 climate change 提出的疑问，被借来做诱饵。 借用原文：Their meat is hardly eaten in Western countries.",
+                "C": "偷换概念：录音说 Their meat is hardly eaten in Western countries.，指“西方国家”。C 把范围偷换成 Australia, Canada and the U.S. 三个具体国家，且这是后文的细节、不是她开头表态的“不敢相信”对象。",
+                "D": "正确项：与答案句同义替换（duck hunting is still legal in so many parts of the world ↔ Duck hunting remains legal in many parts of the world. is still=remains 的同义替换）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "W: I can't believe that duck hunting is still legal in so many parts of the world.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 9,
+              "stem": "What does the woman say has caused the shrinking of ducks' habitats in Australia?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Droughts."
+                },
+                {
+                  "key": "B",
+                  "text": "Bushfires."
+                },
+                {
+                  "key": "C",
+                  "text": "Farming."
+                },
+                {
+                  "key": "D",
+                  "text": "Hunting."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：W: We see more droughts in countries like Australia. Ducks are birds that feed and breed in areas where there is a lot of water, but their habitats have been shrinking in recent decades because of the droughts.信号：because of 后面直接点出原因 。答案信号是明确的因果短语 because of the droughts——habitats shrinking 紧跟 because of，连接词后的 droughts 就…",
+              "optionAnalysis": {
+                "B": "未提及：Bushfires. 只是“澳大利亚”这一情境下考生脑补出来的常识，录音从头到尾未提 bushfire，属凭印象的无中生有。",
+                "C": "原词陷阱：录音后面才提到 farming areas、农民毒鸭等，C 用 Farming. 盗了这个原词，但题问的是“栖息地缩小的原因”，农业与之并无因果关系，答非所问。 借用原文：It's caused by both in fact.",
+                "D": "原词陷阱：录音里 hunting 与 a decline in the birds' numbers 相关，D 用 Hunting. 盗了全篇高频词。但题专问 habitats 缩小，原文把这一项的因明确归给 droughts，hunting 答非所问。",
+                "A": "正确项：与答案句同义替换（because of the droughts ↔ Droughts. 原文与选项同词直接对应）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "W: We see more droughts in countries like Australia. Ducks are birds that feed and breed in areas where there is a lot of water, but their habitats have been shrinking in recent decades because of the droughts.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "Why is there no commercial farming of ducks and geese in Western countries?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are not easy to domesticate."
+                },
+                {
+                  "key": "B",
+                  "text": "Their meat is not that popular."
+                },
+                {
+                  "key": "C",
+                  "text": "It is not environmentally friendly."
+                },
+                {
+                  "key": "D",
+                  "text": "It is not considered cost-effective."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P7）：W: Yet, there's no commercial farming of these birds nowadays. Their meat is hardly eaten in Western countries.信号：现象句紧跟的下一句即解释 。答案信号是“现象+紧贴解释”的相邻结构：先说 there's no commercial farming（现象），紧接着 Their meat is hardly eaten in Wes…",
+              "optionAnalysis": {
+                "A": "未提及：They are not easy to domesticate. 听着像个合理理由，但录音没说过驯养难易，属凭常识脑补的无中生有。",
+                "C": "未提及：It is not environmentally friendly. 蹭了“环保”这个当下热词，但录音解释“不养”的理由是肉没人吃，从未提环保，无中生有。",
+                "D": "过度推断：It is not considered cost-effective. 看似能从“没人吃→养了不赚钱”推出来，但这是考生自己多走的一步，原文只说肉没人吃，没说成本不划算。",
+                "B": "正确项：与答案句同义替换（Their meat is hardly eaten in Western countries. ↔ Their meat is not that popular. “几乎没人吃”=“不太受欢迎”）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "W: Yet, there's no commercial farming of these birds nowadays. Their meat is hardly eaten in Western countries.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What does the woman say about farmers in her grandfather's time?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They hunted ducks as a traditional sport."
+                },
+                {
+                  "key": "B",
+                  "text": "They killed wild ducks and geese for food."
+                },
+                {
+                  "key": "C",
+                  "text": "They raised ducks and geese for their eggs."
+                },
+                {
+                  "key": "D",
+                  "text": "They poisoned wild ducks in large numbers."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P9）：W: ducks have never been popular with farmers like my grandfather anyway because they sometimes destroy crops. In fact, farmers used to poison them in large numbers.信号：主语为 farmers 的应答句直接点动作 。答案信号是女士应答里主语明确为 farmers 的那句 farmers used to poison them in large numbers——题问 farmers，…",
+              "optionAnalysis": {
+                "A": "张冠李戴：They hunted ducks as a traditional sport. 蹭了男士那句 duck hunting seemingly exists as the continuation of a tradition 里的 tradition，但那是讲“如今猎鸭是传统延续”，主语不是祖父年代的农民，张冠李戴。 借用原文：a plentifully available food source",
+                "B": "张冠李戴：They killed wild ducks and geese for food. 盗用了 a plentifully available food source，但那讲的是祖父那辈猎人把鸭鹅当食物来源，主语是猎人而非本题问的 farmers，且农民对鸭子的态度是毒杀而非食用，张冠李戴。",
+                "C": "未提及：They raised ducks and geese for their eggs. 里的 raised（饲养）和 eggs（蛋）录音从未念到——原文讲的全是猎杀、毒杀，没有任何“养鸭取蛋”，属无中生有。",
+                "D": "正确项：与答案句同义替换（farmers used to poison them in large numbers ↔ They poisoned wild ducks in large numbers. 原话与选项近乎逐词对应）"
+              },
+              "evidencePara": "P9",
+              "evidenceText": "W: ducks have never been popular with farmers like my grandfather anyway because they sometimes destroy crops. In fact, farmers used to poison them in large numbers.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 8.1,
+              "text": "M: Okay, Miss Bright. I've finished calculating. I estimate you have between 210 and 240 square meters of walls and ceiling.",
+              "zh": "M: 好的，Bright小姐。我已经算完了。我估计您的墙面和天花板加起来有210到240平方米。"
+            },
+            {
+              "id": 2,
+              "start": 8.4,
+              "end": 11.9,
+              "text": "W: So, how much would the paint job cost?",
+              "zh": "W: 那么，刷漆要花多少钱？"
+            },
+            {
+              "id": 3,
+              "start": 12.3,
+              "end": 32.3,
+              "text": "M: That would depend on the quality of paint you choose. We carry two brands. One costs 60 cents every square meter, and the other 90 cents. The second is guaranteed to look great for about 10 years, whereas the cheaper one will start to dull after around six or seven years.",
+              "zh": "M: 这取决于您选择的油漆质量。我们有两个品牌。一种每平方米60美分，另一种90美分。第二种保证能保持大约10年的良好效果，而便宜的那种在六七年后就会开始褪色。"
+            },
+            {
+              "id": 4,
+              "start": 32.6,
+              "end": 36.9,
+              "text": "W: In that case, we would prefer the more expensive option.",
+              "zh": "W: 那样的话，我们更倾向于选贵一点的。"
+            },
+            {
+              "id": 5,
+              "start": 37.3,
+              "end": 43.8,
+              "text": "M: All right, then. So including labor costs, taxes, and everything, this job would come to $3,000.",
+              "zh": "M: 好的。那么包括人工费、税费和所有费用，这项工作总共需要3000美元。"
+            },
+            {
+              "id": 6,
+              "start": 44.1,
+              "end": 48.4,
+              "text": "W: Um, to be perfectly honest, that's more than I expected.",
+              "zh": "W: 嗯，说实话，这比我预期的要高。"
+            },
+            {
+              "id": 7,
+              "start": 48.8,
+              "end": 56.8,
+              "text": "M: Please bear in mind that the price includes moving all the furniture, and the whole task would take two days.",
+              "zh": "M: 请注意价格包括搬动所有家具，而且整个任务需要两天时间。"
+            },
+            {
+              "id": 8,
+              "start": 57.1,
+              "end": 58.5,
+              "text": "W: Really? Why?",
+              "zh": "W: 真的吗?为什么？"
+            },
+            {
+              "id": 9,
+              "start": 58.9,
+              "end": 76.2,
+              "text": "M: Well, we can't paint the walls without clearing all the furniture first. So every time we paint a room, we first have to move the furniture to another room. So that takes more time. Plus, it requires two people, which works out more expensive.",
+              "zh": "M: 嗯，我们不清空家具就没法刷墙。所以每刷一个房间，我们都得先把家具搬到另一个房间。这样就需要更多时间。而且需要两个人，费用就更高了。"
+            },
+            {
+              "id": 10,
+              "start": 76.5,
+              "end": 84.2,
+              "text": "W: I see. But does that mean I could not live here in my own house during those two days?",
+              "zh": "W: 我明白了。但这是不是意味着这两天我不能住在自己家里？"
+            },
+            {
+              "id": 11,
+              "start": 84.5,
+              "end": 86.1,
+              "text": "M: That is correct.",
+              "zh": "M: 没错。"
+            },
+            {
+              "id": 12,
+              "start": 86.4,
+              "end": 103,
+              "text": "W: Oh well, that changes everything, I'm afraid. I would have to stay with a friend or check into a hotel. I hadn't considered any of that. I'm starting to realize that painting my house is far more troublesome than I had anticipated.",
+              "zh": "W: 哦，那恐怕一切都变了。我得去朋友家住或者住酒店。我之前都没考虑过这些。我开始意识到粉刷房子比我想象的麻烦得多。"
+            },
+            {
+              "id": 13,
+              "start": 103.3,
+              "end": 109.1,
+              "text": "M: This is usually the case. Most of our clients go through the same realization.",
+              "zh": "M: 通常都是这样。我们大多数客户都会有同样的感受。"
+            },
+            {
+              "id": 14,
+              "start": 109.4,
+              "end": 110.8,
+              "text": "W: I see.",
+              "zh": "W: 明白了。"
+            },
+            {
+              "id": 15,
+              "start": 111.1,
+              "end": 116.9,
+              "text": "M: You have my number. Please feel free to call me for any further questions.",
+              "zh": "M: 您有我的电话。如果有任何其他问题，请随时给我打电话。"
+            },
+            {
+              "id": 16,
+              "start": 117.3,
+              "end": 118.7,
+              "text": "W: Thank you.",
+              "zh": "W: 谢谢。"
+            }
+          ],
+          "audioDuration": 118.7,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What is the woman planning to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Have her house repainted."
+                },
+                {
+                  "key": "B",
+                  "text": "Replace some of her old furniture."
+                },
+                {
+                  "key": "C",
+                  "text": "Move into a newly-painted house."
+                },
+                {
+                  "key": "D",
+                  "text": "Calculate the cost of the paint job."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：W: So, how much would the paint job cost?信号：她默认刷漆为前提 。整段对话从男方 I estimate you have between 210 and 240 square meters of walls and ceiling. 量墙面起，到女方追问 how…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音确实念到 furniture，但只在 we can't paint the walls without clearing all the furniture first 里讲「刷漆要先搬开家具」，从没说她要更换旧家具。这一项盗用 furniture 这个原词制造「听到就想选」的诱惑，实则答非所问。 借用原文：I would have to stay with a friend or check into a hotel",
+                "C": "偷换概念：录音里女方说的是 I would have to stay with a friend or check into a hotel，即刷漆那两天临时去别处住，绝不是搬进一所新刷好的房子。这一项借「新刷好的房子」这一刷漆语境的联想来误导，与原文意思不符。 借用原文：I've finished calculating.",
+                "D": "张冠李戴：录音开头是男方说 I've finished calculating.——计算面积、费用的是这位男技师，不是女方；女方只是问价。这一项盗用 calculate/cost 这两个原词，又把「算钱」这个动作张冠李戴到女方身上。",
+                "A": "正确项：与答案句同义替换（the paint job ↔ Have her house repainted. 刷漆=请人重刷房子）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "W: So, how much would the paint job cost?",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What is the woman's chief concern?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "How long the work will take."
+                },
+                {
+                  "key": "B",
+                  "text": "How much the work will cost."
+                },
+                {
+                  "key": "C",
+                  "text": "How the paint job is to be done."
+                },
+                {
+                  "key": "D",
+                  "text": "How many workers are needed."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：W: So, how much would the paint job cost?信号：她主动追问的就是钱 。女方主动开口问的第一件事就是 how much would the paint job cost，随后听到报价 $3,000 又反应 that's more than I expected——她…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音里 the whole task would take two days 确实念到两天工期，但这是男方主动告知的，不是女方在意发问的。这一项盗用「两天/工期」这一原词信息，却不是她的 chief concern。 借用原文：every time we paint a room, we first have to move the furniture to another room",
+                "C": "答非所问：施工方式由男方在 every time we paint a room, we first have to move the furniture to another room 主动解释，女方只是问了句 Why?，并未把「怎么刷」当成核心关切。这一项借「刷漆流程」这段原文诱选，却答非所问。",
+                "D": "未提及：录音里只在 it requires two people 提到「需要两个人」是抬高费用的原因，而不是讨论「需要几个工人」这个独立话题，女方更没把人数当关切。选项把 two people 偷换成「需要多少工人」这个题目，属未提及该问法。",
+                "B": "正确项：与答案句同义替换（how much would the paint job cost ↔ How much the work will cost. the paint job=the work）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "W: So, how much would the paint job cost?",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What does the woman have to do while the paint job is being done?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Cover up her furniture."
+                },
+                {
+                  "key": "B",
+                  "text": "Ask some friends for help."
+                },
+                {
+                  "key": "C",
+                  "text": "Stay somewhere else."
+                },
+                {
+                  "key": "D",
+                  "text": "Oversee the work herself."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P12）：W: Oh well, that changes everything, I'm afraid. I would have to stay with a friend or check into a hotel.信号：I would have to 必要性信号 。前一句男方确认 That is correct.（指她那两天不能住在自己家），紧接着女方说 I would have to stay with a friend or c…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音里和家具有关的是 the price includes moving all the furniture——搬家具由施工方包办，根本没说要女方去「盖住」家具。这一项盗用 furniture 原词，又把动作安错了执行人。 借用原文：stay with a friend",
+                "B": "偷换概念：录音里 friend 出现在 stay with a friend——是去朋友家借住，不是叫朋友来帮忙刷漆。这一项盗用 friend 这个原词，把「投奔朋友住」偷换成「请朋友帮忙干活」。",
+                "D": "未提及：录音通篇没有女方要「亲自盯着施工」的内容，反而她说自己 I would have to stay with a friend or check into a hotel，两天不在家，更谈不上监工。这一项是凭刷漆场景空想出来的，原文无据。",
+                "C": "正确项：与答案句同义替换（stay with a friend or check into a hotel ↔ Stay somewhere else. 住朋友家或酒店=去别处住）"
+              },
+              "evidencePara": "P12",
+              "evidenceText": "W: Oh well, that changes everything, I'm afraid. I would have to stay with a friend or check into a hotel.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "What has the woman come to realize at the end of the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She could have asked a friend for help with the paint job."
+                },
+                {
+                  "key": "B",
+                  "text": "Painting a house involves more trouble than she thought."
+                },
+                {
+                  "key": "C",
+                  "text": "She should have repainted her house much earlier."
+                },
+                {
+                  "key": "D",
+                  "text": "Moving her furniture is harder than the paint job."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P12）：W: I'm starting to realize that painting my house is far more troublesome than I had anticipated.信号：realize 引出的结尾总结 。这句出现在对话接近尾声处，由 I'm starting to realize 领起，正是她亲口说出的醒悟；后文男方还附和 Most of our clients go through…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音里 friend 只在 stay with a friend（去朋友家借住）出现，从没说「本可以找朋友帮忙刷漆」。这一项盗用 friend 原词，又用 could have 这个虚拟句式凭空造了个她没说过的懊悔。 借用原文：the price includes moving all the furniture",
+                "C": "未提及：对话里没有任何「她后悔没早点刷房子」的内容，她的醒悟是刷漆太麻烦，与时间早晚无关。这一项用 should have repainted 的虚拟语气编了一个原文不存在的后悔。",
+                "D": "偷换概念：录音里搬家具是 the price includes moving all the furniture 由公司负责的一个环节，女方并没有说「搬家具比刷漆本身还难」。这一项盗用 furniture/moving 原词，把她「整件事很麻烦」的醒悟偷换成「搬家具比刷漆难」这个原文没下过的比较。",
+                "B": "正确项：与答案句同义替换（painting my house is far more troublesome than I had anticipated ↔ Painting a house involves more trouble than she thought. more troublesome=more trouble）"
+              },
+              "evidencePara": "P12",
+              "evidenceText": "W: I'm starting to realize that painting my house is far more troublesome than I had anticipated.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 24.6,
+              "text": "Homework is an important part of schooling, but the purposes of giving children homework will change as they grow older. At the primary level, the main aim is to cultivate good habits, like learning to plan and exercising self-discipline. During the secondary school years, extending what is learned at school is positively related to academic achievement, so the content of homework becomes more important.",
+              "zh": "家庭作业是学校教育的重要组成部分,但给孩子布置作业的目的会随着他们年龄的增长而改变。在小学阶段,主要目的是培养良好的习惯,比如学会计划和锻炼自律。在中学阶段,拓展在学校学到的知识与学业成绩呈正相关,因此作业的内容变得更加重要。"
+            },
+            {
+              "id": 2,
+              "start": 25,
+              "end": 28.8,
+              "text": "So how can you help your child do their best?",
+              "zh": "那么你如何帮助孩子做到最好呢?"
+            },
+            {
+              "id": 3,
+              "start": 29.2,
+              "end": 45.3,
+              "text": "Creating an ideal working environment will make it easier for them to get down to their assignments quickly. Make sure it's free of distractions, and for primary school children at least somewhere near you, so you can answer questions and offer encouragement.",
+              "zh": "创造一个理想的学习环境会让他们更容易快速投入作业。确保环境没有干扰,至少对小学生来说要在你附近的某个地方,这样你就能回答问题并给予鼓励。"
+            },
+            {
+              "id": 4,
+              "start": 45.6,
+              "end": 63,
+              "text": "You probably have to help younger children plan their session, but it's important that by the end of primary school it's second nature. Get them to tell you everything they have to do. Then encourage them to establish an order in which they do work.",
+              "zh": "你可能需要帮助年幼的孩子规划他们的学习时段,但重要的是到小学毕业时这应该成为自然而然的事情。让他们告诉你所有需要做的事情,然后鼓励他们确定完成作业的顺序。"
+            },
+            {
+              "id": 5,
+              "start": 63.4,
+              "end": 78.3,
+              "text": "When there are several different assignments, make sure they begin with one they enjoy, so it seems easy to get started. It's best to take on the most difficult task second once they're settled, but before they get tired.",
+              "zh": "当有几项不同的作业时,确保他们从喜欢的作业开始,这样看起来容易上手。最好在他们进入状态后、但还没感到疲倦之前,第二个处理最难的任务。"
+            },
+            {
+              "id": 6,
+              "start": 78.6,
+              "end": 86,
+              "text": "If older children have more than an hour of homework, encourage them to schedule a short break to stretch.",
+              "zh": "如果年龄较大的孩子有超过一小时的作业,鼓励他们安排一个短暂的休息时间来伸展身体。"
+            },
+            {
+              "id": 7,
+              "start": 86.3,
+              "end": 94.4,
+              "text": "If you encourage them to tell you what they've learned, they'll absorb the information more deeply and remember it more readily.",
+              "zh": "如果你鼓励他们告诉你学到了什么,他们会更深入地吸收信息并更容易记住它。"
+            }
+          ],
+          "audioDuration": 94.4,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What is the main aim of homework for primary school kids?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To cultivate good habits."
+                },
+                {
+                  "key": "B",
+                  "text": "To prepare for secondary school."
+                },
+                {
+                  "key": "C",
+                  "text": "To review what is learned in class."
+                },
+                {
+                  "key": "D",
+                  "text": "To stimulate interest in learning."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：At the primary level, the main aim is to cultivate good habits, like learning to plan and exercising self-discipline.信号：学段词+main aim原话直给 。答案句以 At the primary level 点出学段，紧跟 the main aim is to cultivate good habits 几乎把题干的 main aim…",
+              "optionAnalysis": {
+                "B": "张冠李戴：To prepare for secondary school. 借了录音里 During the secondary school years 的 secondary school 一词，但录音讲 secondary 时说的是『延伸课堂所学』，根本没说小学是为升中学做准备——把中学段的话错安到了小学目的上。 借用原文：extending what is learned at school",
+                "C": "答非所问：To review what is learned in class. 像是改写自录音 extending what is learned at school，但那句讲的是『中学阶段』延伸课堂所学，并非小学目的；且 review（复习）也不等于 extending（延伸/拓展）。",
+                "D": "未提及：To stimulate interest in learning. 听起来很合理（作业激发学习兴趣），但录音讲小学目的只说了 cultivate good habits、learning to plan、self-discipline，全程没提『激发兴趣』，属于凭常识脑补出来的选项。",
+                "A": "正确项：与答案句同义替换（the main aim is to cultivate good habits ↔ To cultivate good habits. 近乎原词对应）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "At the primary level, the main aim is to cultivate good habits, like learning to plan and exercising self-discipline.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "What does the passage suggest parents do to help their children?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Discuss their academic achievements with them."
+                },
+                {
+                  "key": "B",
+                  "text": "Create an ideal study environment for them."
+                },
+                {
+                  "key": "C",
+                  "text": "Allow them to learn independently."
+                },
+                {
+                  "key": "D",
+                  "text": "Check their homework promptly."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：Creating an ideal working environment will make it easier for them to get down to their assignments quickly.信号：首句建议句直陈做法 。第 3 段开头 Creating an ideal working environment 就是一条建议家长落地去做的具体动作，篇章里这种『动名词/祈使开头、紧跟好处』的句子是典型建议落点。",
+              "optionAnalysis": {
+                "A": "原词陷阱：Discuss their academic achievements with them. 借了录音 academic achievement 这个原词，但那是在讲『中学作业与学业成绩正相关』，根本没让家长去和孩子『讨论成绩』——听到 achievement 就选正中陷阱。 借用原文：somewhere near you",
+                "C": "与原文相反：Allow them to learn independently. 看似呼应录音 by the end of primary school it's second nature（小学末要变成自觉），但录音始终在讲家长要『帮忙、陪在旁边』（somewhere near you），方向是陪伴而非放手，选独立自学正好反了家长此刻该做的事。 借用原文：answer questions and offer encouragement",
+                "D": "原词陷阱：Check their homework promptly. 用了话题原词 homework，特别勾人，但录音从没让家长『及时检查作业』，只说营造环境、陪在旁边答疑鼓励（answer questions and offer encouragement），check homework 是无中生有。",
+                "B": "正确项：与答案句同义替换（Creating an ideal working environment ↔ Create an ideal study environment for them. working≈study的同义替换）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Creating an ideal working environment will make it easier for them to get down to their assignments quickly.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What should children do to deal with multiple assignments?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Finish them before they get tired."
+                },
+                {
+                  "key": "B",
+                  "text": "Tackle the most difficult task first."
+                },
+                {
+                  "key": "C",
+                  "text": "Start with something they enjoy."
+                },
+                {
+                  "key": "D",
+                  "text": "Focus on the most important ones."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P5）：When there are several different assignments, make sure they begin with one they enjoy, so it seems easy to get started.信号：情境词+begin with点起手 。录音先用 When there are several different assignments 复述了题干的『多项作业』情境，紧跟 begin with one they e…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Finish them before they get tired. 借了录音 before they get tired 的 tired 一词，但原文 before they get tired 是修饰『第二步做最难的要赶在累之前』，不是说『趁不累把全部做完』——把限定条件偷换成了总目标。 借用原文：take on the most difficult task second",
+                "B": "与原文相反：Tackle the most difficult task first. 用了录音原词 the most difficult task，极其诱人，但录音说的是 take on the most difficult task second——是『第二步』才做最难的，选项却改成 first，次序被反，与原文相反。",
+                "D": "未提及：Focus on the most important ones. 的 most important 听着和 18B 的 most difficult 很像、也很合常理，但录音排序依据是『喜欢的先、最难的第二』，从没按『重要性』排，important 是脑补出来的。",
+                "C": "正确项：与答案句同义替换（begin with one they enjoy ↔ Start with something they enjoy. begin with=Start with的同义替换）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "When there are several different assignments, make sure they begin with one they enjoy, so it seems easy to get started.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 21.2,
+              "text": "Workers at Mexican oil company will receive a healthy incentive of almost $300 a year if they meet certain body weight standards. To qualify for the bonus, they must maintain a healthy weight. For those who are overweight or obese, they could receive the bonus if they reduce their weight by 10% during the year.",
+              "zh": "墨西哥石油公司的员工如果达到特定体重标准，将获得每年近300美元的丰厚奖励。要获得这项奖金，他们必须保持健康体重。对于超重或肥胖的员工,如果在一年内减重10%,也可以获得该奖金。"
+            },
+            {
+              "id": 2,
+              "start": 21.6,
+              "end": 31.2,
+              "text": "Some applaud the policy as fair, because it rewards both the individuals who maintain a healthy weight and those who are working towards achieving it.",
+              "zh": "一些人赞扬这项政策公平合理,因为它既奖励保持健康体重的个人,也奖励那些正在努力实现这一目标的人。"
+            },
+            {
+              "id": 3,
+              "start": 31.6,
+              "end": 46.5,
+              "text": "But critics say the policy contradicts recommendations by many health experts, who warn that a person's weight is influenced by genetic and environmental factors. That means weight can be hard for individuals to control, which makes the bonus unfair.",
+              "zh": "但批评者表示,这项政策与许多健康专家的建议相矛盾,这些专家警告说,一个人的体重受遗传和环境因素的影响。这意味着体重对个人来说很难控制,这使得这项奖金不公平。"
+            },
+            {
+              "id": 4,
+              "start": 46.9,
+              "end": 89.5,
+              "text": "Some experts say the policy is inconsistent with the science of what we know about body weight regulation. These experts argue that focusing on wage is the wrong approach. A more productive method of encouraging health among employees is to promote healthy behaviors. For example, companies can give workers gym memberships, or encourage participation in lectures on healthy eating and living. They can also reduce sweets and provide healthier snacks in the office and healthier meals at the company canteen. Or they can give employees more time during their lunch break to exercise. These are much better and much more productive ways for companies to move forward on their employees' wellbeing.",
+              "zh": "一些专家表示,这项政策与我们关于体重调节的科学知识不一致。这些专家认为,关注体重是错误的方法。鼓励员工健康的更有效方法是促进健康行为。例如,公司可以为员工提供健身房会员资格,或鼓励参加有关健康饮食和生活的讲座。他们还可以减少甜食,在办公室提供更健康的零食,在公司食堂提供更健康的餐食。或者他们可以在午休时间给员工更多时间锻炼。这些都是公司在员工福祉方面前进的更好、更有效的方式。"
+            }
+          ],
+          "audioDuration": 89.5,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "Who will qualify for the bonus in Mexican oil company?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Workers who meet its body weight standards."
+                },
+                {
+                  "key": "B",
+                  "text": "Workers who can lose 30 pounds in a year."
+                },
+                {
+                  "key": "C",
+                  "text": "Workers who try the hardest to lose weight."
+                },
+                {
+                  "key": "D",
+                  "text": "Workers who are in the top 10% of the slimmest."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：Workers at Mexican oil company will receive a healthy incentive of almost $300 a year if they meet certain body weight standards. To qualify for the bonus, they must maintain a healthy weight.信号：qualify 与 if 引出的资格条件句 。录音出现题干同源词 qualify，且紧跟 To qualify for the bonus, they must maintain a healthy weight 这…",
+              "optionAnalysis": {
+                "B": "原词陷阱：B 借了录音里的减重情节，但录音说的是 reduce their weight by 10%（减重 10%），选项却写成 lose 30 pounds in a year（一年减 30 磅），数字被偷换，属听到减重就想选的原词陷阱。 借用原文：reduce their weight by 10% during the year",
+                "C": "未提及：C 说奖给 Workers who try the hardest to lose weight（最努力减重的人），录音判定标准只看体重结果（达标或减 10%），从没提以努力程度评奖，属无中生有。",
+                "D": "原词陷阱：D 用了录音里的数字 10%，但录音的 reduce their weight by 10% 是减重幅度 10%，选项却说成 in the top 10% of the slimmest（最瘦的前 10%），把幅度偷换成排名，属原词陷阱。",
+                "A": "正确项：与答案句同义替换（they meet certain body weight standards ↔ meet its body weight standards 近乎同表，certain→its 的限定替换）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Workers at Mexican oil company will receive a healthy incentive of almost $300 a year if they meet certain body weight standards. To qualify for the bonus, they must maintain a healthy weight.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What do critics think of Mexican oil company's bonus policy?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Impractical."
+                },
+                {
+                  "key": "B",
+                  "text": "Inconsistent."
+                },
+                {
+                  "key": "C",
+                  "text": "Unmanageable."
+                },
+                {
+                  "key": "D",
+                  "text": "Unfair."
+                }
+              ],
+              "answer": "D",
+              "analysis": "态度观点题。答案句（P3）：But critics say the policy contradicts recommendations by many health experts, who warn that a person's weight is influenced by genetic and environmental factors. That means weight can be hard for individuals to control, which makes the bonus unfair.信号：题干主语 critics 出现 + 转折 But + 结论 unfair 。录音以 But critics say 直接对上题干的 critics，转折词 But 标示真正的批评态度要来了，段末 which make…",
+              "optionAnalysis": {
+                "A": "未提及：A 说政策 Impractical（不切实际），录音批评者的定性是 unfair（不公平），从未说它不切实际，属未提及的近义干扰。",
+                "B": "张冠李戴：B 的 Inconsistent 确是录音原词，但说它的是第 4 段的 Some experts say the policy is inconsistent，而本题问的是 critics（批评者）的看法，二者不是同一方，属张冠李戴。",
+                "C": "偷换概念：C 说政策 Unmanageable（难以管理），录音里批评者谈的是体重难以由个人控制（hard for individuals to control），讲的是个人控体重难，不是政策难管理，属偷换概念加未提及。",
+                "D": "正确项：与答案句同义替换（which makes the bonus unfair ↔ Unfair 原词直现的评价结论）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "But critics say the policy contradicts recommendations by many health experts, who warn that a person's weight is influenced by genetic and environmental factors. That means weight can be hard for individuals to control, which makes the bonus unfair.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 21,
+              "stem": "What do experts propose companies do about workers' wellbeing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Offer them much fatter bonuses."
+                },
+                {
+                  "key": "B",
+                  "text": "Improve working environment."
+                },
+                {
+                  "key": "C",
+                  "text": "Encourage healthy behaviors."
+                },
+                {
+                  "key": "D",
+                  "text": "Provide free lunch and snacks."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P4）：These experts argue that focusing on wage is the wrong approach. A more productive method of encouraging health among employees is to promote healthy behaviors.信号：对比 wrong approach 与 A more productive method 引出的建议句 。录音先用 focusing on wage is the wrong approach 否定旧法，紧接 A m…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 说 Offer them much fatter bonuses（发更肥的奖金），借了全篇核心词 bonus，但专家明说 focusing on wage is the wrong approach，盯着钱正是被否定的错误做法，属原词陷阱加与原文相反。 借用原文：provide healthier snacks in the office and healthier meals at the company canteen",
+                "B": "未提及：B 说 Improve working environment，录音专家给的建议是促进健康行为并举了健身、讲座、健康饮食等例，没提改善工作环境这一概括，属未提及。",
+                "D": "答非所问：D 的 Provide free lunch and snacks 确与录音 provide healthier snacks… and healthier meals at the company canteen 沾边，但那只是促进健康行为的具体举例之一，题目要的是上位的建议，拿例子冒充结论，属以偏概全。",
+                "C": "正确项：与答案句同义替换（to promote healthy behaviors ↔ Encourage healthy behaviors promote=encourage 的近义替换）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "These experts argue that focusing on wage is the wrong approach. A more productive method of encouraging health among employees is to promote healthy behaviors.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 20,
+              "text": "Campaigners have warned that the British government is not doing enough to prevent left-handed pupils from falling behind their peers. They claim that thousands of children are still being \"penalized\" for being left-handed. This is due to a lack of action from ministers, who've failed to take any meaningful action for years.",
+              "zh": "活动人士警告称,英国政府在防止左撇子学生落后于同龄人方面做得不够。他们声称,成千上万的儿童仍因左撇子而受到\"惩罚\"。这是由于部长们缺乏行动,多年来未能采取任何有意义的措施。"
+            },
+            {
+              "id": 2,
+              "start": 20.4,
+              "end": 31.5,
+              "text": "It is feared that a failure to address early-year challenges, such as poor handwriting, leads to much more serious problems down the line—with these pupils facing reduced career prospects.",
+              "zh": "人们担心,如果不能解决早期阶段的挑战,例如书写能力差,会导致后续出现更严重的问题——这些学生将面临职业前景受限的困境。"
+            },
+            {
+              "id": 3,
+              "start": 31.9,
+              "end": 41.1,
+              "text": "Studies in recent years show that left-handed children are more likely to suffer with learning difficulties and their scores are lower on IQ tests.",
+              "zh": "近年来的研究表明,左撇子儿童更容易出现学习困难,他们在智商测试中的得分也较低。"
+            },
+            {
+              "id": 4,
+              "start": 41.5,
+              "end": 63,
+              "text": "Campaigners feel it's strange that children in British schools are penalized because they happen to be left-handed. They don't understand why successive governments have failed to act on this. They want the department of education to record which children are left-handed and what their educational attainments are, since they make up some 10% of the population.",
+              "zh": "活动人士认为奇怪的是,英国学校的儿童会因为恰好是左撇子而受到惩罚。他们不理解为什么历届政府都未能就此采取行动。他们希望教育部记录哪些儿童是左撇子以及他们的学业成绩如何,因为左撇子占人口的约10%。"
+            },
+            {
+              "id": 5,
+              "start": 63.4,
+              "end": 88.3,
+              "text": "In early-year education, left-handed children are struggling and making a mess of their handwriting. Educators don't know how to deal with this. In many cases, there is no active help and a lack of teacher training. Campaigners point out that a high percentage of the prison population is left-handed. They say that these prison numbers are unusually high and ask why it is the case.",
+              "zh": "在早期教育中,左撇子儿童很吃力,把字写得一团糟。教育工作者不知道如何应对这一问题。在许多情况下,没有积极的帮助,也缺乏教师培训。活动人士指出,监狱人口中左撇子的比例很高。他们说这些监狱数字异常高,并询问为什么会出现这种情况。"
+            }
+          ],
+          "audioDuration": 88.3,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "Why are some people criticizing the British government?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has not done enough to help left-handed children."
+                },
+                {
+                  "key": "B",
+                  "text": "It has treated left-handed children as being disabled."
+                },
+                {
+                  "key": "C",
+                  "text": "It has not built facilities specially for the left-handed."
+                },
+                {
+                  "key": "D",
+                  "text": "It has ignored campaigns on behalf of the left-handed."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：Campaigners have warned that the British government is not doing enough to prevent left-handed pupils from falling behind their peers.信号：warned 引出的批评首句 。录音开篇即由 Campaigners have warned that 引出批评，warned(警告)是明确的指责信号，紧随其后的 the British government is …",
+              "optionAnalysis": {
+                "B": "未提及：treated left-handed children as being disabled 说政府\"把左撇子当残疾人对待\"，录音从头到尾没有 disabled 这个说法，是凭\"左撇子常被特殊对待\"的常识硬推出来的，属未提及。",
+                "C": "偷换概念：not built facilities specially for the left-handed 把批评落到\"没建专门设施\"。录音批评的是政府/部长 failed to take any meaningful action\\(没采取有意义的行动\\)，从未提\"设施\"；选项用一个看似具体的硬件方向偷换了\"行动不足\"这一真正指责点。",
+                "D": "张冠李戴：ignored campaigns on behalf of the left-handed 说政府\"无视了为左撇子发起的呼吁\"。录音里 Campaigners(活动倡导者)是发出批评的一方，Campaigners have warned；选项盗用了 campaign 这个原词，却把\"倡导者在批评\"反说成\"政府无视呼吁\"，是把发声方和被批方混在一起的张冠李戴，且\"无视呼吁\"不等于首句明指的\"做得不够\"。",
+                "A": "正确项：与答案句同义替换（the British government is not doing enough to prevent left-handed pupils from falling behind ↔ It has not done enough to help left-handed children 防止落后=帮助，措辞改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Campaigners have warned that the British government is not doing enough to prevent left-handed pupils from falling behind their peers.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What do studies in recent years show about left-handed children?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are as intelligent as other children."
+                },
+                {
+                  "key": "B",
+                  "text": "They have a distinctive style of handwriting."
+                },
+                {
+                  "key": "C",
+                  "text": "They sometimes have psychological problems."
+                },
+                {
+                  "key": "D",
+                  "text": "They tend to have more difficulties in learning."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Studies in recent years show that left-handed children are more likely to suffer with learning difficulties and their scores are lower on IQ tests.信号：Studies show 引出的结论句 。录音 Studies in recent years show that 与题干用词几乎重合，是明显的定位信号；其后 more likely to suffer with l…",
+              "optionAnalysis": {
+                "A": "与原文相反：as intelligent as other children\\(和别人一样聪明\\)与录音相反：录音说 their scores are lower on IQ tests\\(智商测试得分更低\\)，恰恰是\"不一样/更低\"，选项把极性反了过来。 借用原文：poor handwriting",
+                "B": "原词陷阱：a distinctive style of handwriting\\(独特的书写风格\\)盗用了录音多处提到的 handwriting。录音里 handwriting 是 poor handwriting\\(糟糕的书写\\)、是困难，绝非\"独特风格\"这种中性/褒义说法；本题问的又是 studies 的结论，与书写无关，属答非所问。",
+                "C": "未提及：psychological problems\\(心理问题\\)在 studies 那句里没有对应，录音 P3 只说了 learning difficulties 和 IQ 得分低，没提心理；\"左撇子有心理问题\"是听起来合理的常识联想，但录音没念到。",
+                "D": "正确项：与答案句同义替换（more likely to suffer with learning difficulties ↔ tend to have more difficulties in learning 更可能有=更倾向有，近义改写）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Studies in recent years show that left-handed children are more likely to suffer with learning difficulties and their scores are lower on IQ tests.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What do the campaigners demand the department of education do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Punish teachers discriminating against left-handed students."
+                },
+                {
+                  "key": "B",
+                  "text": "Lay more emphasis on improving children's mental health."
+                },
+                {
+                  "key": "C",
+                  "text": "Encourage students to develop various professional skills."
+                },
+                {
+                  "key": "D",
+                  "text": "Keep track of left-handed children's school performance."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：They want the department of education to record which children are left-handed and what their educational attainments are.信号：want 引出的诉求句 。录音 They want the department of education to 用 want 直接给出诉求，want 后面接的 record which children are l…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Punish teachers discriminating against left-handed students 借了录音末段的 teacher(出现在 a lack of teacher training\\)。录音说的是\"缺乏教师培训\"，从没要求\"惩罚老师\"；Punish 这一强硬动作是录音没有的，属原词陷阱。 借用原文：facing reduced career prospects",
+                "B": "未提及：improving children's mental health 把诉求引向\"心理健康\"。录音的诉求只在\"记录左撇子身份与学业成绩\"，全篇没提 mental health；本项用一个貌似教育部门该管的方向偷换了真正的诉求。",
+                "C": "答非所问：develop various professional skills\\(发展各种职业技能\\)在录音诉求句里没有对应。录音 P2 虽提到 reduced career prospects\\(职业前景受损\\)，但那是描述后果，不是\"要求教育部门去发展技能\"，本项答非所问。",
+                "D": "正确项：与答案句同义替换（record which children are left-handed and what their educational attainments are ↔ Keep track of left-handed children's school performance 记录学业成绩=追踪学业表现）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "They want the department of education to record which children are left-handed and what their educational attainments are.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What do the campaigners want to know about left-handed prisoners?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "How they can be reduced in number."
+                },
+                {
+                  "key": "B",
+                  "text": "Why their numbers are so high."
+                },
+                {
+                  "key": "C",
+                  "text": "What percentage they account for."
+                },
+                {
+                  "key": "D",
+                  "text": "If their percentage keeps increasing."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P5）：They say that these prison numbers are unusually high and ask why it is the case.信号：ask why 的追问信号 。录音末句 ask why it is the case 里的 ask why 是明确的\"追问原因\"信号；前半 these prison numbers are unusually hig…",
+              "optionAnalysis": {
+                "A": "偷换概念：How they can be reduced in number\\(如何减少其数量\\)录音没说。录音只是追问\"为什么高\"，并未谈\"怎么把它降下来\"；本项把\"问原因\"偷换成\"找办法\"。",
+                "C": "原词陷阱：What percentage they account for 借了录音里 a high percentage of the prison population is left-handed 中的 percentage 一词。但录音用 percentage 是为了铺垫\"人数反常高\"、进而追问原因，呼吁者想知道的是\"为什么高\"而非\"占多少比例\"；本项用一个真念到的数字词诱你选偏。 借用原文：these prison numbers are unusually high",
+                "D": "过度推断：If their percentage keeps increasing\\(比例是否持续上升\\)同样盗用 percentage 一词，但录音从未说\"在不在增长\"，只说 unusually high\\(反常地高\\)；\"持续上升\"是录音没有的延伸。",
+                "B": "正确项：与答案句同义替换（these prison numbers are unusually high and ask why it is the case ↔ Why their numbers are so high 追问数量为何反常高=问为何这么高）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "They say that these prison numbers are unusually high and ask why it is the case.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The sheets are damp with sweat. You're cold, but your heart is racing as if a killer just chased you down a dark street. It was just a nightmare, you tell yourself; there's nothing to be afraid of. But you're still filled with 26______ .\n\nGiven how unsettling and haunting nightmares can be, is there a way for dreamers to 27______ , or even turn off, these bad dreams as they happen?\n\nResearch is 28______ , but some studies suggest that people who can master lucid dreaming—that is, the ability to be 29______ that a nightmare is happening and possibly even control it without waking up—may hold the 30______ .\n\nNightmares are part of the human experience, especially for kids. Doctors 31______ don't consider occasional nightmares a problem. They can just be symptoms of a sleep disorder that can 32______ from an unpleasant experience, stress, or certain drugs.\n\nTo treat the disorder, there are a number of medicines and therapies that are backed by 33______ research, according to the American Academy of Sleep Medicine, which analyzed the available research on the treatment of nightmare disorder in a recent 34______ published in the Journal of Clinical Sleep Medicine.\n\nHowever, nightmares are complicated, and researchers are still struggling to understand them, said Dr. Rachel Salas, an expert on sleep disorders and an associate professor at Johns Hopkins Medicine in Baltimore. What we do know is that people 35______ to have different kinds of nightmares at different points during the sleep cycle."
+            },
+            {
+              "label": "词库",
+              "text": "A) amount\nB) answer\nC) avoid\nD) aware\nE) depart\nF) drastically\nG) fear\nH) limited\nI) mechanical\nJ) result\nK) review\nL) rigorous\nM) tend\nN) timidity\nO) typically"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "amount"
+                },
+                {
+                  "key": "B",
+                  "text": "answer"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "aware"
+                },
+                {
+                  "key": "E",
+                  "text": "depart"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "fear"
+                },
+                {
+                  "key": "H",
+                  "text": "limited"
+                },
+                {
+                  "key": "I",
+                  "text": "mechanical"
+                },
+                {
+                  "key": "J",
+                  "text": "result"
+                },
+                {
+                  "key": "K",
+                  "text": "review"
+                },
+                {
+                  "key": "L",
+                  "text": "rigorous"
+                },
+                {
+                  "key": "M",
+                  "text": "tend"
+                },
+                {
+                  "key": "N",
+                  "text": "timidity"
+                },
+                {
+                  "key": "O",
+                  "text": "typically"
+                }
+              ],
+              "answer": "G",
+              "type": "选词填空",
+              "analysis": "【答案】G（官方答案）\n应填 G) fear\n【原文】承接上文\"被吓到\",filled with fear = 充满恐惧\nN) timidity 义近但指\"性格胆小\",非当下情绪：timidity\"胆怯、羞怯\"指人一贯的性格弱点,而这里是噩梦惊醒后\"此刻的恐惧\",该用 fear 这种即时情绪词,timidity 与 afraid 的瞬时语境不符。\nA) amount 语义不搭,filled with amount 不成立：amount\"数量\"是中性计量词,人不会\"充满数量\",与恐惧情绪无关。\nB) answer 答案与情绪语境无关：answer\"答案\"放在\"满心……\"处不合逻辑,人不会被\"答案\"填满,排除。\nK) review 综述/评论,与个人惊恐情绪不搭：review\"综述、评论\"是书面学术词,放在描写人被噩梦吓到的情绪句里语义不通。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "amount"
+                },
+                {
+                  "key": "B",
+                  "text": "answer"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "aware"
+                },
+                {
+                  "key": "E",
+                  "text": "depart"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "fear"
+                },
+                {
+                  "key": "H",
+                  "text": "limited"
+                },
+                {
+                  "key": "I",
+                  "text": "mechanical"
+                },
+                {
+                  "key": "J",
+                  "text": "result"
+                },
+                {
+                  "key": "K",
+                  "text": "review"
+                },
+                {
+                  "key": "L",
+                  "text": "rigorous"
+                },
+                {
+                  "key": "M",
+                  "text": "tend"
+                },
+                {
+                  "key": "N",
+                  "text": "timidity"
+                },
+                {
+                  "key": "O",
+                  "text": "typically"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) avoid\n【原文】avoid 与 turn off 并列,意为\"避开\"噩梦\nE) depart depart 是不及物动词,不能直接带宾语：depart 意为\"离开\",一般不及物(depart from),无法像 turn off 那样直接接 these bad dreams 作宾语,与并列结构要求不符。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "amount"
+                },
+                {
+                  "key": "B",
+                  "text": "answer"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "aware"
+                },
+                {
+                  "key": "E",
+                  "text": "depart"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "fear"
+                },
+                {
+                  "key": "H",
+                  "text": "limited"
+                },
+                {
+                  "key": "I",
+                  "text": "mechanical"
+                },
+                {
+                  "key": "J",
+                  "text": "result"
+                },
+                {
+                  "key": "K",
+                  "text": "review"
+                },
+                {
+                  "key": "L",
+                  "text": "rigorous"
+                },
+                {
+                  "key": "M",
+                  "text": "tend"
+                },
+                {
+                  "key": "N",
+                  "text": "timidity"
+                },
+                {
+                  "key": "O",
+                  "text": "typically"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) limited\n【原文】Research is __(28)__, but some studies suggest... 中 but 表转折:\"研究有限,但有些研究表明……\";limited\"有限的\"与后文\"but 有部分研究\"的让步—转折逻辑严丝合缝,也呼应全文 researchers are still struggling to understand them\"研究者仍在努力理解\"。\nI) mechanical 机械的,与 but 转折逻辑不搭：mechanical\"机械的\"说 Research is mechanical 语义怪异,也无法和后面 but 形成\"虽不足但仍有发现\"的转折,逻辑断裂。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "amount"
+                },
+                {
+                  "key": "B",
+                  "text": "answer"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "aware"
+                },
+                {
+                  "key": "E",
+                  "text": "depart"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "fear"
+                },
+                {
+                  "key": "H",
+                  "text": "limited"
+                },
+                {
+                  "key": "I",
+                  "text": "mechanical"
+                },
+                {
+                  "key": "J",
+                  "text": "result"
+                },
+                {
+                  "key": "K",
+                  "text": "review"
+                },
+                {
+                  "key": "L",
+                  "text": "rigorous"
+                },
+                {
+                  "key": "M",
+                  "text": "tend"
+                },
+                {
+                  "key": "N",
+                  "text": "timidity"
+                },
+                {
+                  "key": "O",
+                  "text": "typically"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) aware\n【原文】be aware that = 意识到,正配清醒梦\nH) limited limited 不接 that 从句,语义也不搭：limited\"有限的\"不构成 be limited that 结构,也无法表达\"意识到噩梦发生\"的意思,与清醒梦语境无关。\nI) mechanical 机械的,与\"意识到\"语义冲突：mechanical\"机械的、呆板的\"既不接 that 从句,也和\"察觉到噩梦\"这种意识活动相反,排除。\nL) rigorous 严谨的,通常修饰研究而非人的意识：rigorous\"严谨、严格\"多修饰 research/standard,不说 be rigorous that...,放在\"意识到噩梦\"处语义不通。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "amount"
+                },
+                {
+                  "key": "B",
+                  "text": "answer"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "aware"
+                },
+                {
+                  "key": "E",
+                  "text": "depart"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "fear"
+                },
+                {
+                  "key": "H",
+                  "text": "limited"
+                },
+                {
+                  "key": "I",
+                  "text": "mechanical"
+                },
+                {
+                  "key": "J",
+                  "text": "result"
+                },
+                {
+                  "key": "K",
+                  "text": "review"
+                },
+                {
+                  "key": "L",
+                  "text": "rigorous"
+                },
+                {
+                  "key": "M",
+                  "text": "tend"
+                },
+                {
+                  "key": "N",
+                  "text": "timidity"
+                },
+                {
+                  "key": "O",
+                  "text": "typically"
+                }
+              ],
+              "answer": "B",
+              "type": "选词填空",
+              "analysis": "【答案】B（官方答案）\n应填 B) answer\n【原文】hold the answer = 掌握答案/解决之道\nK) review 综述不能\"被人掌握\"以解决问题：review\"综述\"是 34 题语境(a recent review)的词;hold the review 不构成\"掌握解决之道\"的意思,且该词另有更贴的空,此处不选。\nA) amount hold the amount 语义空泛,不回应设问：amount\"数量\"放在 hold the 后讲不出\"掌握解决办法\"之意,与上文\"有没有办法控制噩梦\"的问题对不上。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "amount"
+                },
+                {
+                  "key": "B",
+                  "text": "answer"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "aware"
+                },
+                {
+                  "key": "E",
+                  "text": "depart"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "fear"
+                },
+                {
+                  "key": "H",
+                  "text": "limited"
+                },
+                {
+                  "key": "I",
+                  "text": "mechanical"
+                },
+                {
+                  "key": "J",
+                  "text": "result"
+                },
+                {
+                  "key": "K",
+                  "text": "review"
+                },
+                {
+                  "key": "L",
+                  "text": "rigorous"
+                },
+                {
+                  "key": "M",
+                  "text": "tend"
+                },
+                {
+                  "key": "N",
+                  "text": "timidity"
+                },
+                {
+                  "key": "O",
+                  "text": "typically"
+                }
+              ],
+              "answer": "O",
+              "type": "选词填空",
+              "analysis": "【答案】O（官方答案）\n应填 O) typically\n【原文】句意是医生\"通常\"不把偶尔做噩梦当成问题,typically 表示\"一般情况下、惯常如此\",和 occasional nightmares 这种\"偶尔\"的语境正好呼应。\nF) drastically 语义不搭:不存在\"剧烈地不认为\"：drastically 意为\"剧烈地、大幅度地\",通常修饰 change/reduce 这类有程度变化的动词;说医生 drastically don't consider(剧烈地不"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "amount"
+                },
+                {
+                  "key": "B",
+                  "text": "answer"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "aware"
+                },
+                {
+                  "key": "E",
+                  "text": "depart"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "fear"
+                },
+                {
+                  "key": "H",
+                  "text": "limited"
+                },
+                {
+                  "key": "I",
+                  "text": "mechanical"
+                },
+                {
+                  "key": "J",
+                  "text": "result"
+                },
+                {
+                  "key": "K",
+                  "text": "review"
+                },
+                {
+                  "key": "L",
+                  "text": "rigorous"
+                },
+                {
+                  "key": "M",
+                  "text": "tend"
+                },
+                {
+                  "key": "N",
+                  "text": "timidity"
+                },
+                {
+                  "key": "O",
+                  "text": "typically"
+                }
+              ],
+              "answer": "J",
+              "type": "选词填空",
+              "analysis": "【答案】J（官方答案）\n应填 J) result\n【原文】result from = 起因于,正好接成因\nE) depart depart from 是\"偏离\",语义指向反：depart 虽也能接 from,但 depart from 意为\"离开、偏离\",而空后 an unpleasant experience, stress, or certain \nC) avoid avoid 不接 from,搭配不成立：avoid 是及物动词,直接接宾语(avoid something),不说 avoid from;接在 from 前不合语法,排除。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "amount"
+                },
+                {
+                  "key": "B",
+                  "text": "answer"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "aware"
+                },
+                {
+                  "key": "E",
+                  "text": "depart"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "fear"
+                },
+                {
+                  "key": "H",
+                  "text": "limited"
+                },
+                {
+                  "key": "I",
+                  "text": "mechanical"
+                },
+                {
+                  "key": "J",
+                  "text": "result"
+                },
+                {
+                  "key": "K",
+                  "text": "review"
+                },
+                {
+                  "key": "L",
+                  "text": "rigorous"
+                },
+                {
+                  "key": "M",
+                  "text": "tend"
+                },
+                {
+                  "key": "N",
+                  "text": "timidity"
+                },
+                {
+                  "key": "O",
+                  "text": "typically"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) rigorous\n【原文】rigorous research = 严谨的研究,褒义且常见搭配\nH) limited 义反:有限的研究不足以\"支持\"疗法：limited\"有限的\"是贬义,limited research 表\"研究不足\",与 backed by\"有研究支撑\"的肯定语气矛盾——支撑疗法靠的是充分严谨的研究,不是有限的。\nI) mechanical 搭配不成立:不说\"机械的研究\"：mechanical\"机械的\"通常修饰机器/动作,mechanical research 不是常见搭配,放在医学研究语境里语义不通。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "amount"
+                },
+                {
+                  "key": "B",
+                  "text": "answer"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "aware"
+                },
+                {
+                  "key": "E",
+                  "text": "depart"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "fear"
+                },
+                {
+                  "key": "H",
+                  "text": "limited"
+                },
+                {
+                  "key": "I",
+                  "text": "mechanical"
+                },
+                {
+                  "key": "J",
+                  "text": "result"
+                },
+                {
+                  "key": "K",
+                  "text": "review"
+                },
+                {
+                  "key": "L",
+                  "text": "rigorous"
+                },
+                {
+                  "key": "M",
+                  "text": "tend"
+                },
+                {
+                  "key": "N",
+                  "text": "timidity"
+                },
+                {
+                  "key": "O",
+                  "text": "typically"
+                }
+              ],
+              "answer": "K",
+              "type": "选词填空",
+              "analysis": "【答案】K（官方答案）\n应填 K) review\n【原文】a recent review = 一篇近期综述,配发表于期刊\nA) amount 数量不能\"发表在期刊上\"：amount\"数量\"无法被 published in a journal 限定,一篇能发表的成果应是 review/study/paper 这类文献,amount 语义不搭。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "amount"
+                },
+                {
+                  "key": "B",
+                  "text": "answer"
+                },
+                {
+                  "key": "C",
+                  "text": "avoid"
+                },
+                {
+                  "key": "D",
+                  "text": "aware"
+                },
+                {
+                  "key": "E",
+                  "text": "depart"
+                },
+                {
+                  "key": "F",
+                  "text": "drastically"
+                },
+                {
+                  "key": "G",
+                  "text": "fear"
+                },
+                {
+                  "key": "H",
+                  "text": "limited"
+                },
+                {
+                  "key": "I",
+                  "text": "mechanical"
+                },
+                {
+                  "key": "J",
+                  "text": "result"
+                },
+                {
+                  "key": "K",
+                  "text": "review"
+                },
+                {
+                  "key": "L",
+                  "text": "rigorous"
+                },
+                {
+                  "key": "M",
+                  "text": "tend"
+                },
+                {
+                  "key": "N",
+                  "text": "timidity"
+                },
+                {
+                  "key": "O",
+                  "text": "typically"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) tend\n【原文】tend to do 固定搭配,意为\"往往会\"\nE) depart 搭配与语义都不对：depart 意为\"离开、出发\",常说 depart from,不接 to have 这样的不定式;说\"人们离开去做噩梦\"既不合搭配也不合句意。 WORD BANK · 词库分类表\nA) amount 名词 动词：数量,总额;(动词)总计 干扰词 · 未选用\nB) answer 名词 动词：答案,解决办法;(动词)回答 用于第 30 空\nC) avoid 动词：避免,躲开 用于第 27 空"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Most of us spend much more time with digital media than we did a decade ago. But today's teens have grown up with smartphones. Compared with teens a couple of decades ago, the way they interact with traditional media like books and movies is fundamentally different."
+            },
+            {
+              "label": "B",
+              "text": "Analysis of surveys of over one million teens in the United States collected since 1976 reveals a major shift in how teens are spending their leisure time. Paper books are being ignored, in favor of screens. Digital devices are changing other behaviors, too. More and more, young people choose spending time on their electronic devices over engaging in other activities, regardless of the type. Indeed, by 2016, the average American high school senior said they spent six hours a day writing text messages, on social media, and online during their free time. And that covers just three activities, and if other digital media activities were included, that estimate would no doubt rise."
+            },
+            {
+              "label": "C",
+              "text": "Teens did not always spend that much time with digital media. Online time has doubled since 2006, and social media use has moved from a periodic activity to a daily one in the same period. By 2016, nearly nine out of ten young women in the 12th grade said they visited social media sites every day. Meanwhile, time spent playing video games rose from under an hour a day to an hour and a half on average. One out of ten American 8th grade students in 2016 spent 40 hours a week or more playing video games. Let me emphasize that this is equal to the time most adults spend per week at work."
+            },
+            {
+              "label": "D",
+              "text": "If teens are spending so much time using electronic devices, does that mean they have to give up some other activities? Maybe not. Over the years, many scholars have insisted that time online does not necessarily take away time spent engaging with traditional media or on other activities. Some people, they argue, are just more interested in certain kinds of media and entertainment. Thus, using more of one type of media does not necessarily mean less of the other."
+            },
+            {
+              "label": "E",
+              "text": "That may be true, but that still does not tell us much about what happens across a whole generation of people when time spent on digital media grows. Large surveys conducted over the course of many years tell us that American youth are not going to the cinema nearly as often as they did in the past. While 70 percent of 8th and 10th grade students used to go to the movies once a month or more, now only about half do this. More and more, watching a movie is something teens choose to do on their electronic devices. Why is this a problem? One reason is that going to the cinema is generally a social activity. Now, watching movies is something that most teens do alone. This fits a larger pattern. In another analysis, researchers found that today's teens go out with their friends much less often than previous generations did."
+            },
+            {
+              "label": "F",
+              "text": "But the trends related to movies are less disturbing compared with the change in how teens spend their time. Research has revealed an enormous decline in reading. In 1980, about 60 percent of senior high school students said they read a book, newspaper or magazine every day that was not assigned for school. By 2016, only 16 percent did. This is a huge drop and it is important to note that this was not merely a decline in reading paper books, newspapers or magazines. The survey allowed for reading materials on a digital device."
+            },
+            {
+              "label": "G",
+              "text": "Indeed, the number of senior high school students who said they had not read any books for pleasure in the last year was one out of three by 2016. That is triple the number from two decades ago. For today's youth, books, newspapers and magazines have less and less of a presence in their daily lives. Of course, teens are still reading. But they are generally reading short texts. Most of them are not reading long articles or books that explore deep themes and require critical thinking and reflection. Perhaps not accidentally, in 2016 reading scores were the lowest they have ever been since 1972."
+            },
+            {
+              "label": "H",
+              "text": "This might present problems for young people later on. When high school students go on to college, their past and current reading habits will influence their academic performance. Imagine going from reading texts as short as one or two sentences to trying to read entire books written in complex language and containing sophisticated ideas. Reading and comprehending longer books and chapters takes practice, and American teens are no longer getting that practice."
+            },
+            {
+              "label": "I",
+              "text": "So how can this problem be solved? Should parents and teachers take away teens' smartphones and replace them with paper books? Probably not. Research has shown that smartphones are currently American teens' main form of social communication. This means that, without a smartphone, teens are likely to feel isolated from their peers. However, that does not mean teens need to use electronic devices as often as they do now. Data connecting excessive digital media time to mental health issues suggests a limit of two hours a day of free time spent with screens, a restriction that will also allow time for other activities—like going to the movies with friends or reading longer, more complicated texts."
+            },
+            {
+              "label": "J",
+              "text": "The latter is especially important. I would argue that of all the changes brought about by the widespread use of digital devices, the huge decline in reading is likely to have the biggest negative impact on today's teens because reading books and longer articles is one of the best ways to learn critical thinking. It helps people to understand complex issues and to separate fact from fiction. Thus, deep reading is crucial for being a good citizen, a successful college student and a productive employee. If serious reading dies, a lot will go with it."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Many years' surveys reveal that young people in America are going to the cinema much less often than they used to.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】Large surveys conducted over the course of many years tell us that American youth are not going to the cinema nearly as often as they did in the past.\n多年间进行的大型调查告诉我们：美国年轻人去电影院的次数远远不如过去那样频繁。"
+            },
+            {
+              "number": 37,
+              "stem": "Survey analysis shows American teens now spend their leisure time on digital devices rather than reading printed books.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（弱锚点）\n【原文】Analysis of surveys of over one million teens in the United States collected since 1976 reveals a major shift in how teens are spending their leisure time. Paper books are being ignored, in favor of screens.\nF 段确实讲青少年阅读下降，但它的视角是\"研究揭示一项巨大的阅读下降\"以及给出 1980 年 60% 与 2016 年 16% 这组数字，没有承担\"调查分析显示青少年用数字设备取代纸书\"这一宏观转变的总论功能。"
+            },
+            {
+              "number": 38,
+              "stem": "The number of senior high schoolers not reading books for pleasure in a year increased three times over 20 years.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】Indeed, the number of senior high school students who said they had not read any books for pleasure in the last year was one out of three by 2016. That is triple the number from two decades ago.\nF 段讲的是\"1980 年 60% ↔ 2016 年 16%\"这一百分比对比，并未给出\"未读书人数是 20 年前的三倍\"这一量化关系；它和 G 段同主题，但不是题干所问的那个数字。"
+            },
+            {
+              "number": 39,
+              "stem": "Many scholars claim that spending time on electronic devices doesn't necessarily mean a decrease of time for other activities.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】Over the years, many scholars have insisted that time online does not necessarily take away time spent engaging with traditional media or on other activities.\n多年来，许多学者坚持认为：在线时间不一定会挤占花在传统媒体或其他活动上的时间。"
+            },
+            {
+              "number": 40,
+              "stem": "Most people spend much more time interacting with digital media than they did ten years ago.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】Most of us spend much more time with digital media than we did a decade ago."
+            },
+            {
+              "number": 41,
+              "stem": "The author claims that it will be a great loss if we no longer read books and longer articles.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】If serious reading dies, a lot will go with it.\nH 段预警的是\"上大学后阅读能力影响学业表现\"，是具体后果预警，而非陈述句所要求的\"作者主张：不再读书是巨大损失\"这一总论性价值判断。"
+            },
+            {
+              "number": 42,
+              "stem": "Over a decade or so, American teens' social media use shifted from an occasional activity to a routine one.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】Online time has doubled since 2006, and social media use has moved from a periodic activity to a daily one in the same period.\nB 段虽然讲青少年闲暇时间整体转向屏幕，并给出每天六小时的总量数据，但它没有专门描述\"社交媒体由偶尔变每天\"这一具体频率状态的转变，而 C 段才把社媒频率从 periodic 拉到 daily。"
+            },
+            {
+              "number": 43,
+              "stem": "A more disturbing trend in America today is that teens are spending far less time reading than around four decades ago.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（强锚点）\n【原文】But the trends related to movies are less disturbing compared with the change in how teens spend their time. Research has revealed an enormous decline in reading. In 1980, about 60 percent of senior high school students said they read a book, newspaper or magazine every day that was not assigned for school. By 2016, only 16 percent did.\n但与青少年时间花费方式的变化相比，电影方面的趋势还算不上那么令人担忧。研究揭示出阅读的巨大下降：1980 年大约 60% 的高三学生说他们每天都会读一本与课业无关的书、报或杂志；到 2016 年，只有 16% 还这样做。"
+            },
+            {
+              "number": 44,
+              "stem": "Some five years ago, high school seniors in America generally spent more than six hours a day on electronic devices.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（强锚点）\n【原文】Indeed, by 2016, the average American high school senior said they spent six hours a day writing text messages, on social media, and online during their free time.\nC 段虽然给出大量数字，但它讲的是\"游戏时间从不到一小时升到一个半小时\"和\"八年级生每周打四十小时游戏\"，不含\"每天六小时上电子设备\"这一陈述。"
+            },
+            {
+              "number": 45,
+              "stem": "It was found that American youngsters today don't socialize nearly as much as the earlier generations.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】In another analysis, researchers found that today's teens go out with their friends much less often than previous generations did.\n2021年12月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 43. A more disturbing trend in America today is that teens are spending far less time reading than around four decades ago. 这句陈述的信息出自第几段？为什么？ 2021年12月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 第 43 句的信息出自 F 段（强锚点句）。F 段定位句为「But the trends related to movies are less disturbing compared with the change in how teens spend their time. Research has revealed an enormous decline in reading. In 1980, about 60 percent of senior high school students said they read a book, newspaper or magazine every day that was not assigned for school. By 2016, only 16 percent did.」（但与青少年时间花费方式的变化相比，电影方面的趋势还算不上那么令人担忧。研究揭示出阅读的巨大下降：1980 年大约 60% 的高三学生说他们每天都会读一本与课业无关的书、报或杂志；到 2016 年，只有 16% 还这样做。）。陈述句是对原文的同义改写（A more disturbing trend in America today is that teens are spending far less time reading ↔ the trends related to movies are less disturbing compared with the change in how teens spend their time；around four decades ago ↔ In 1980；teens are spending far less time reading than around four decades ago ↔ In 1980, about 60 percent of senior high school students said they read a book, newspaper or magazine every day that was not assigned for school. By 2016, only 16 percent did）。与之话题相邻的 G 段、E 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Have you ever wondered how acceptable it is to hug or touch someone? While it may sound safe to avoid all physical contact so as not to offend anyone, the lack of touching might imply cold attitudes or indifference in interpersonal relationships."
+            },
+            {
+              "label": "B",
+              "text": "So, what should we do? The simple answer is to thoroughly learn unique cultural norms for physical contact. In nonverbal communication terminology(术语), physical contact and the study of touching are generally referred to as haptics."
+            },
+            {
+              "label": "C",
+              "text": "Haptics in communication often suggest the level of intimacy. They are usually classified into two groups: high-contact and low-contact."
+            },
+            {
+              "label": "D",
+              "text": "Asia and quite surprisingly the United States, Canada and Britain belong to low-contact cultures. People from the rest of the world, such as Latin America, are considered to be in high-contact cultures, where they tend to expect touching in social interactions and feel more comfortable with physical closeness. Despite the classification, there are more complex factors such as relational closeness, gender, age, and context that can affect how someone views physical contact."
+            },
+            {
+              "label": "E",
+              "text": "One common French custom of greetings is cheek-kissing, but it is mostly restricted to friends, close acquaintances and family members. While cheek-kissing for Latin Americans is also a universal greeting form, it does not require such a high degree of relational closeness. However, gender matters more for them because cheek-kissing often only happens between women or a man and a woman but not two men."
+            },
+            {
+              "label": "F",
+              "text": "In contrast, in certain Arabian, African, and Asian countries, men can publicly hold hands or show physical affection as signs of brotherhood or friendship while these behaviors may suggest a romantic relationship in other parts of the world. Although men's touching is more normal in these cultures, physical contact between persons of opposite sexes who are not family members is negatively perceived in Arabian countries."
+            },
+            {
+              "label": "G",
+              "text": "These factors could definitely affect the degree to which someone is comfortable with tactile(触觉的) communication and physical intimacy. Therefore, if you are someone who loves to show physical affection, you should not be afraid to show it or drastically change your behaviors—just ask for consent beforehand!"
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What does the author say in the first paragraph about physical contact?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Its role in interpersonal relationships is getting increasingly important."
+                },
+                {
+                  "key": "B",
+                  "text": "It is becoming more acceptable to many who used to think it offensive."
+                },
+                {
+                  "key": "C",
+                  "text": "Its absence might suggest a lack of warmth in interpersonal relationships."
+                },
+                {
+                  "key": "D",
+                  "text": "It might prompt different responses from people of different social backgrounds."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】While it may sound safe to avoid all physical contact so as not to offend anyone, the lack of touching might imply cold attitudes or indifference in interpersonal relationships.\nA) 无中生有：选项 getting increasingly important 强调\"重要性在上升\"是动态趋势判断，但定位句只说\"不接触会显冷漠\"，没有时间维度的变化。\nB) 偷换概念：原文没说\"原本认为接触冒犯的人现在更接受它了\"——it 指代和 used to think 时态都对不上原文。\nC) ✓ 正确：the lack of touching ↔ Its absence might imply cold attitudes or indifference in interpers\nD) 张冠李戴：原文第一段没有引入\"社会背景\"维度——\"不同社会背景的人反应不同\"在文章后面才以\"文化\"为单位提及，且与本题定位句的论点无关。"
+            },
+            {
+              "number": 47,
+              "stem": "What does physical contact in communication suggest?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "What social class people belong to."
+                },
+                {
+                  "key": "B",
+                  "text": "How civilized the communicators are."
+                },
+                {
+                  "key": "C",
+                  "text": "What family background people come from."
+                },
+                {
+                  "key": "D",
+                  "text": "How close the communicators' relationships are."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Haptics in communication often suggest the level of intimacy.\nA) 无中生有：原文谈的是 intimacy（亲密程度），没有涉及阶层。\nB) 无中生有：原文谈的是亲密度、不是文明程度。\nC) 无中生有：原文没有把肢体接触和家庭出身挂钩。\nD) ✓ 正确：the level of intimacy ↔ How close the communicators' relationships are 选项 How close the co"
+            },
+            {
+              "number": 48,
+              "stem": "What do we learn about people in high-contact cultures?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are sensitive to the way people express their emotions."
+                },
+                {
+                  "key": "B",
+                  "text": "They take touching as a cultural norm in social interactions."
+                },
+                {
+                  "key": "C",
+                  "text": "They attach great importance to close ties among people."
+                },
+                {
+                  "key": "D",
+                  "text": "They tend to be more open in interpersonal relationships."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】People from the rest of the world, such as Latin America, are considered to be in high-contact cultures, where they tend to expect touching in social interactions and feel more comfortable with physical closeness.\nA) 无中生有：原文没说他们对\"情感表达方式\"敏感，只说他们期待触碰本身。\nB) ✓ 正确：they tend to expect touching in social interactions ↔ They take touching as a cultural nor\nC) 过度推断：原文只说\"对身体接近觉得舒服\"，没说他们\"重视亲密的人际关系\"——这是从触觉偏好做的过度推论。\nD) 过度推断：原文谈触碰频率、舒适度，没有谈\"开放程度\"这种性格倾向。"
+            },
+            {
+              "number": 49,
+              "stem": "What do we learn about social customs in Arabian countries?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Men can show friendship in public through physical affection."
+                },
+                {
+                  "key": "B",
+                  "text": "Non-traditional romantic relationships are simply unacceptable."
+                },
+                {
+                  "key": "C",
+                  "text": "Physical contact between unfamiliar people is negatively perceived."
+                },
+                {
+                  "key": "D",
+                  "text": "People of different ages and genders show affection in different ways."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】In contrast, in certain Arabian, African, and Asian countries, men can publicly hold hands or show physical affection as signs of brotherhood or friendship while these behaviors may suggest a romantic relationship in other parts of the world.\nA) ✓ 正确：men can publicly hold hands or show physical affection as signs of brotherhood or friendsh\nB) 偷换概念：原文只说异性非家庭成员的肢体接触在阿拉伯国家被负面看待，没有讨论\"非传统的恋爱关系\"。\nC) 偷换概念：原文限制的是 persons of opposite sexes who are not family members（非家庭成员的异性），而不是\"不认识的人\"——选项把性别条件偷\nD) 无中生有：原文只提性别，没说\"不同年龄的人表达感情方式不同\"。"
+            },
+            {
+              "number": 50,
+              "stem": "What does the author tell us to do concerning tactile communication?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Lay emphasis on nonverbal communication."
+                },
+                {
+                  "key": "B",
+                  "text": "Learn to use appropriate body language first."
+                },
+                {
+                  "key": "C",
+                  "text": "Pay attention to the differences between genders."
+                },
+                {
+                  "key": "D",
+                  "text": "Take other people's preference into consideration."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Therefore, if you are someone who loves to show physical affection, you should not be afraid to show it or drastically change your behaviors—just ask for consent beforehand!\nA) 答非所问：原文虽然第二段把肢体接触归在非言语沟通下，但末段并未让读者\"侧重\"非言语沟通——题目问的是末段的建议。\nB) 无中生有：原文并未要求读者\"先学会用恰当的肢体语言\"——作者只让你\"问\"对方愿不愿意，并未提学习这件事。\nC) 以偏概全：原文第五段确实提及性别在拉美贴面礼中起作用 gender matters more for them，但这是举例支撑\"复杂因素\"，并非作者最终给读者的建议。\nD) ✓ 正确：just ask for consent beforehand ↔ Take other people's preference into consideration 选项 Tak"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "From climate change to the ongoing pandemic(大流行病) and beyond, the issues facing today's world are increasingly complex and dynamic. Yet solving problems like these requires new approaches that extend beyond traditional ways of thinking. A study led by Yale Professor of Psychology, Paul O'Keefe, found that having a growth mindset(思维倾向) of interest may spark this type of innovation."
+            },
+            {
+              "label": "B",
+              "text": "Professor O'Keefe established in earlier studies that people hold different beliefs about the nature of interest. Those with a growth mindset of interest tend to believe that interests can be developed and cultivated, while those with a fixed mindset of interest tend to believe that interests are inherent(与生俱有的) and simply need to be 'found.' Building on these findings, the latest research examined how a growth mindset of interest can boost integrative thinking across the traditional disciplinary boundaries of arts and sciences."
+            },
+            {
+              "label": "C",
+              "text": "For example, in one task, research participants were instructed to create new college majors by combining two or more existing academic Arts or Science programs at their university. After coding and analyzing the ideas they generated, the team found that people with a growth mindset of interest were more likely to bridge programs across the arts and sciences to create new majors like computational economics rather than creating majors that drew from only one of those areas, like computational chemistry."
+            },
+            {
+              "label": "D",
+              "text": "As Professor O'Keefe pointed out, \"This research provides a useful direction for organizations whose products and services call for integrated and creative solutions. Take smartphones for example. You need not only computer science and engineering knowledge, but also an understanding of psychology and visual design to create a better product. Employees with a growth mindset may be more likely to devise innovative ideas that bridge multiple areas of knowledge to achieve better solutions.\""
+            },
+            {
+              "label": "E",
+              "text": "The benefits of a growth mindset of interest may also extend to those seeking employment. This is a pressing issue because many people are becoming unemployed due to the COVID-19 pandemic. Having a growth mindset of interest can help job seekers expand their interests and become more adaptable to different fields, and take the initiative to learn new skills."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does the author say about the world today?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It faces problems that are getting more varied and complicated."
+                },
+                {
+                  "key": "B",
+                  "text": "It has done away with many of the traditional ways of thinking."
+                },
+                {
+                  "key": "C",
+                  "text": "It is undergoing radical and profound changes."
+                },
+                {
+                  "key": "D",
+                  "text": "It is witnessing various types of innovations."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】From climate change to the ongoing pandemic and beyond, the issues facing today's world are increasingly complex and dynamic.\nA) ✓ 正确：complex and dynamic ↔ varied and complicated are increasingly ↔ are getting more the issue\nB) 偷换概念：requires new approaches that extend beyond traditional ways of thinking 只是说「需要超越传统思路」，并未说「\nC) 过度推断：原文只说 issues 变得 complex and dynamic，并没有说世界「正在经历根本性、深刻变化」这种更强的程度判断。\nD) 偷换概念：原文 may spark this type of innovation 只是说成长型思维可能「催生」创新，并未说世界「正在见证各种创新」；选项把对未来潜能的描述偷换为对当下现象的"
+            },
+            {
+              "number": 52,
+              "stem": "What did Professor O'Keefe find in his earlier studies?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "People's interests tend to change with age."
+                },
+                {
+                  "key": "B",
+                  "text": "People's interests determine their mindsets."
+                },
+                {
+                  "key": "C",
+                  "text": "People are divided about the nature of interest."
+                },
+                {
+                  "key": "D",
+                  "text": "People of different ages have different mindsets."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Professor O'Keefe established in earlier studies that people hold different beliefs about the nature of interest.\nA) 无中生有：原文谈的是不同人对兴趣本质的不同看法，没有任何句子涉及「兴趣随年龄变化」这一时间维度。\nB) 与原文相反：原文 Those with a growth mindset of interest tend to believe that interests can be developed\nC) ✓ 正确：hold different beliefs ↔ are divided about the nature of interest ↔ about the nature of in\nD) 无中生有：原文区分人群依据是「思维倾向」（growth vs fixed），与年龄毫无关系；选项凭空引入 ages 维度。"
+            },
+            {
+              "number": 53,
+              "stem": "What is the focus of Professor O'Keefe's recent research?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "How boundaries can be removed between arts and science disciplines."
+                },
+                {
+                  "key": "B",
+                  "text": "How feasible it is to create new disciplines like computational economics."
+                },
+                {
+                  "key": "C",
+                  "text": "How students in arts and sciences view the two types of mindset of interest."
+                },
+                {
+                  "key": "D",
+                  "text": "How a growth mindset of interest can contribute to cross-disciplinary thinking."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Building on these findings, the latest research examined how a growth mindset of interest can boost integrative thinking across the traditional disciplinary boundaries of arts and sciences.\nA) 偷换概念：原文是研究「成长型思维如何促进跨学科思维」，并不是研究「学科边界如何被去除」；boundaries 一词被借用，但研究对象偷换。\nB) 偷换概念：原文只是用 computational economics 一词举例佐证研究结论，并未把「创建这种新学科是否可行」当作研究焦点。\nC) 偷换概念：研究的是成长型思维对跨学科思维的促进作用，不是「文理学生如何看待两种思维」；主体与对象都被偷换。\nD) ✓ 正确：a growth mindset of interest can boost ↔ a growth mindset of interest can contribute to in"
+            },
+            {
+              "number": 54,
+              "stem": "What does the author want to illustrate with the example of smartphones?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Hi-tech products are needed in interdisciplinary research."
+                },
+                {
+                  "key": "B",
+                  "text": "Improved technology gives birth to highly popular products."
+                },
+                {
+                  "key": "C",
+                  "text": "Making innovative products needs multidisciplinary knowledge."
+                },
+                {
+                  "key": "D",
+                  "text": "Hi-tech products can boost people's integrative thinking."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（例证目的题）\n【原文】Take smartphones for example. You need not only computer science and engineering knowledge, but also an understanding of psychology and visual design to create a better product.\nA) 与原文相反：原文是举智能手机说明「制造好产品需要多学科」，不是说「跨学科研究需要高科技产品」；主客体倒置。\nB) 偷换概念：原文重点在「需要多种知识」，不在「技术进步催生了热门产品」；选项偷换了论证目的。\nC) ✓ 正确：not only computer science and engineering knowledge, but also an understanding of psycholo\nD) 与原文相反：原文是「需要整合思维 → 造出好产品」，选项却说「高科技产品 → 推动整合思维」，把例子的目的反过来当因。"
+            },
+            {
+              "number": 55,
+              "stem": "What is the author's suggestion to those who are seeking employment?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Learning practical skills."
+                },
+                {
+                  "key": "B",
+                  "text": "Broadening their interests."
+                },
+                {
+                  "key": "C",
+                  "text": "Staying safe in the pandemic."
+                },
+                {
+                  "key": "D",
+                  "text": "Knowing their pressing issues."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Having a growth mindset of interest can help job seekers expand their interests and become more adaptable to different fields, and take the initiative to learn new skills.\nA) 偷换概念：原文 take the initiative to learn new skills 强调「主动学新技能」，重心在 take the initiative；选项掐头去尾只留 lea\nB) ✓ 正确：expand their interests ↔ Broadening their interests their interests ↔ their interests Broa\nC) 无中生有：原文只把疫情列为背景说明就业压力大，从未给出「在疫情中保持安全」这条建议；属于借背景词造选项。\nD) 偷换概念：This is a pressing issue 是作者用来说明问题紧迫性的描述，不是给求职者的建议；选项把背景描述偷换成建议对象。 SENTENCE INSIGHTS · 句子精"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n都江堰 (Dujiangyan) 坐落在成都平原西部的岷江上，距成都市约50公里，始建于公元前三世纪。它的独特之处在于无需用堤坝调控水流。两千多年来,都江堰一直有效地发挥着防洪与灌溉作用，使成都平原成为旱涝保收的沃土和中国最重要的粮食产地之一。都江堰工程体现了我国人民与自然和谐共存的智慧，是全世界年代最久、仍在使用、无坝控水的水利工程。",
+              "analysis": "【参考译文】\nDujiangyan, located on the Minjiang River in the western Chengdu Plain and about 50 kilometers from Chengdu, was first built in the 3rd century BC. Its uniqueness lies in controlling water flow without using dams. For more than 2,000 years, Dujiangyan has effectively served the functions of flood control and irrigation, making the Chengdu Plain a fertile land immune to drought and flood as well as one of the most important grain-producing areas in China. The Dujiangyan project embodies the wisdom of the Chinese people in living in harmony with nature, and it is the oldest water conservancy project in the world that is still in use and controls water flow without a dam."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-1/",
+    "sharedWith": "cet4-2021-12-s1",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 62
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2021-12-3/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

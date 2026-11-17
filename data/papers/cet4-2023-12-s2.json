@@ -1,0 +1,2721 @@
+{
+  "id": "cet4-2023-12-s2",
+  "level": "CET4",
+  "year": 2023,
+  "month": 12,
+  "setNo": 2,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose the university newspaper is inviting submissions from the students for its coming edition on the recent development in their hometown.You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nOver the past few years, my hometown has undergone remarkable changes. As a student writing for our university newspaper, I would like to share two of them that have impressed me the most: transportation and the environment.\n\nIn the past, it used to take us hours of bumpy driving to reach the provincial capital. Now, however, a new high-speed railway gets us there in just two hours, and the widened roads have made daily travel far more convenient. Another change worth mentioning is the environment. The small river that once smelled terrible has been cleaned up, and several green parks have been built along its banks, where families now enjoy walking after dinner.\n\nAll these changes have made my hometown a much better place to live in. As someone who grew up there, I feel truly proud, and I firmly believe that it will become even more beautiful and livable in the years to come."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "听力为历年真题原文，题目与答案为官方标准答案；在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 9.2,
+              "text": "1 A police officer in the U.S. stopped a large SUV car that was going very slowly and drifting across lanes on a highway."
+            },
+            {
+              "id": 2,
+              "start": 9.5,
+              "end": 15.7,
+              "text": "He expected to find a driver who was either very drunk or having a medical emergency."
+            },
+            {
+              "id": 3,
+              "start": 16.1,
+              "end": 21.8,
+              "text": "Instead, the officer discovered a five-year-old boy sat on the edge of the driver's seat."
+            },
+            {
+              "id": 4,
+              "start": 22.2,
+              "end": 30.2,
+              "text": "His feet could barely reach the brake, and his head was only just high enough to see out of the windows."
+            },
+            {
+              "id": 5,
+              "start": 30.6,
+              "end": 36.7,
+              "text": "The child had taken the keys to the family car while his teenage sister was napping."
+            },
+            {
+              "id": 6,
+              "start": 37.1,
+              "end": 41.7,
+              "text": "He then drove three kilometers across town before getting on the highway."
+            },
+            {
+              "id": 7,
+              "start": 42.1,
+              "end": 49.7,
+              "text": "The boy later told confused officers that he was planning to travel to California and buy a Lamborghini sports car."
+            },
+            {
+              "id": 8,
+              "start": 50.1,
+              "end": 57,
+              "text": "Although he only had three dollars in his wallet, at least he was driving in the right direction."
+            }
+          ],
+          "audioDuration": 57,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "Why did the police officer stop the SUV car?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He noticed the driver was too young to drive."
+                },
+                {
+                  "key": "B",
+                  "text": "He found there was no one sitting at the wheel."
+                },
+                {
+                  "key": "C",
+                  "text": "He thought something must be wrong with the driver."
+                },
+                {
+                  "key": "D",
+                  "text": "He saw the driver changing lanes much too frequently."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：A police officer in the U.S. stopped a large SUV car that was going very slowly and drifting across lanes on a highway. He expected to find a driver who was either very drunk or having a medical emergency.信号：开篇即点题、紧跟一句\"原以为\"的推断 。新闻把核心事件放在第一句：车 going very slowly and drifting across lanes（开得很慢、车道间乱飘）。紧接着 He expected t…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音后面确实揭晓司机是 a five-year-old boy（五岁男孩），A 项 He noticed the driver was too young to drive.（发现司机太小不能开车）就盗用了这个\"年龄小\"的事实。但那是警察拦车\"之后\"才发现的真相，并非拦车的原因——拦车时他根本看不清开车的是谁。听到\"小孩\"就选 A，正中原词陷阱。 借用原文：a five-year-old boy sat on the edge of the driver's seat",
+                "B": "与原文相反：B 项 He found there was no one sitting at the wheel.（发现没人坐在方向盘后）听起来很像那个离奇画面，但录音说的是男孩 sat on the edge of the driver's seat——其实有人坐在驾驶位，只是个小孩。而且\"座位上情况\"是拦车后才看清的，拦车当下警察只看到车乱晃。B 既与原文不符、又答非所问。 借用原文：drifting across lanes on a highway",
+                "D": "偷换概念：D 项 He saw the driver changing lanes much too frequently.（看到司机频繁变道）盗用了原文 drifting across lanes 里的 lanes。但 drifting across lanes 是\"车失控地在车道间飘移乱晃\"（因为开车的是够不着踏板的小孩），不是司机主动、频繁地变换车道。D 把\"失控飘移\"偷换成\"频繁变道\"，看似沾边实则两回事。",
+                "C": "正确项：与答案句同义替换（a driver who was either very drunk or having a medical emergency ↔ something must be wrong with the driver 具体病况概括成\"司机有问题\"）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "A police officer in the U.S. stopped a large SUV car that was going very slowly and drifting across lanes on a highway. He expected to find a driver who was either very drunk or having a medical emergency.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What did the boy tell the police officers he was planning to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Buy a sports car."
+                },
+                {
+                  "key": "B",
+                  "text": "Drive across town."
+                },
+                {
+                  "key": "C",
+                  "text": "Leave California."
+                },
+                {
+                  "key": "D",
+                  "text": "Visit his sister."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：The boy later told confused officers that he was planning to travel to California and buy a Lamborghini sports car.信号：planning to 直接引出打算做的事 。信号词 he was planning to travel to California and buy a Lamborghini sports car 里的 plann…",
+              "optionAnalysis": {
+                "B": "原词陷阱：B 项 Drive across town.（开车穿过城镇）盗用了原文 drove three kilometers across town 里的 across town。但\"开车穿城\"是男孩已经做过的事（他已经开了三公里穿过城镇上高速），不是他\"打算\"做的事。题目问的是 planning to 之后的计划，B 把\"已发生\"偷换成\"打算做\"，答非所问。 借用原文：he was planning to travel to California",
+                "C": "与原文相反：C 项 Leave California.（离开加州）盗用了地名 California，但录音说的是 travel to California（去往加州），方向恰好相反——是去、不是离开。地名一念到极易被耳朵抓住，但方向词（to / leave）被悄悄反转，最易让人误选。 借用原文：while his teenage sister was napping",
+                "D": "原词陷阱：D 项 Visit his sister.（看望他姐姐）盗用了原文出现的 sister。但 sister 在录音里只是\"趁姐姐午睡时拿了车钥匙\"的背景人物（while his teenage sister was napping），男孩的计划是去加州买跑车，从没说过要去看望姐姐。这是把一个出现过的人名硬塞进\"计划\"里。",
+                "A": "正确项：与答案句同义替换（buy a Lamborghini sports car ↔ Buy a sports car. 去掉品牌名后即同一动作）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The boy later told confused officers that he was planning to travel to California and buy a Lamborghini sports car.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 6.2,
+              "text": "1 Mobile phones have changed the way we live, how we read, work, communicate, and shop."
+            },
+            {
+              "id": 2,
+              "start": 6.5,
+              "end": 8.5,
+              "text": "But we already know this."
+            },
+            {
+              "id": 3,
+              "start": 8.8,
+              "end": 34.2,
+              "text": "What we have not yet understood is the way the tiny machines in front of us are changing our skeletons, possibly altering not just the way we behave but even the very shape of our bodies. 2 New scientific research at the University of the Sunshine Coast in Queensland, Australia, suggests that young people are developing extra pieces of bone at the backs of their heads."
+            },
+            {
+              "id": 4,
+              "start": 34.6,
+              "end": 41.5,
+              "text": "These pieces of bone are caused by the way people bend their heads when they use the phone."
+            },
+            {
+              "id": 5,
+              "start": 41.9,
+              "end": 51.5,
+              "text": "This shifts weight onto the muscles at the back of the head and causes the bone to grow in a way that is not normal."
+            },
+            {
+              "id": 6,
+              "start": 51.9,
+              "end": 58.8,
+              "text": "This process can be compared to the way the skin hardens in response to constant rubbing or pressure."
+            },
+            {
+              "id": 7,
+              "start": 59.1,
+              "end": 66.5,
+              "text": "The result is a piece of bone like a horn that sticks out from the head by the neck."
+            }
+          ],
+          "audioDuration": 66.5,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What does the report say we have not yet understood about mobile phones?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "How they change the way we shop."
+                },
+                {
+                  "key": "B",
+                  "text": "How they alter human skeletons."
+                },
+                {
+                  "key": "C",
+                  "text": "How they cause increased headaches."
+                },
+                {
+                  "key": "D",
+                  "text": "How they affect our communication."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：What we have not yet understood is the way the tiny machines in front of us are changing our skeletons, possibly altering not just the way we behave but even the very shape of our bodies.信号：题干原话 we have not yet understood 直接复现 。录音里 What we have not yet understood is the way the tiny machines in fr…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音开头 how we read, work, communicate, and shop 确实念到 shop 购物，但紧接着说 But we already know this——购物属于 \"我们已经知道\" 的部分，而题目问的是 \"还没理解\" 的，正好相反，选它就掉进了原词陷阱。 借用原文：how we read, work, communicate, and shop",
+                "C": "未提及：选项 How they cause increased headaches. 说手机导致头痛增多，但整段录音从未提到 headaches 头痛，是凭 \"手机看多了会头疼\" 的生活常识硬加的，属无中生有。",
+                "D": "原词陷阱：录音里 how we read, work, communicate, and shop 念到 communicate 沟通，How they affect our communication. 借此设套；但沟通和购物一样属于 But we already know this 已知的部分，不是题问的 \"还没理解\" 的，故错。",
+                "B": "正确项：与答案句同义替换（changing our skeletons ↔ How they alter human skeletons. changing 同义替换为 alter）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "What we have not yet understood is the way the tiny machines in front of us are changing our skeletons, possibly altering not just the way we behave but even the very shape of our bodies.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What happens to the skin when rubbed or pressed constantly?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It loosens."
+                },
+                {
+                  "key": "B",
+                  "text": "It brightens."
+                },
+                {
+                  "key": "C",
+                  "text": "It hardens."
+                },
+                {
+                  "key": "D",
+                  "text": "It softens."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：This process can be compared to the way the skin hardens in response to constant rubbing or pressure.信号：题干关键词 skin、rubbing、pressure 同句聚齐 。录音 the skin hardens in response to constant rubbing or pressure 把题干的 skin、…",
+              "optionAnalysis": {
+                "A": "未提及：It loosens. 说变松，但录音讲皮肤是 hardens 变硬，没有任何 \"变松\" 的说法，纯属无中生有。",
+                "B": "未提及：It brightens. 说变亮，录音谈的是皮肤受摩擦后 hardens 变硬的物理硬化，与 \"变亮\" 毫不相干，录音也未提及。",
+                "D": "与原文相反：It softens. 变软，恰与录音 the skin hardens 变硬相反。这是预读时就标好的反义诱选——一字方向之差，听不清硬 / 软就会反选。",
+                "C": "正确项：与答案句同义替换（the skin hardens ↔ It hardens. the skin 由 It 指代、hardens 原词承接）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "This process can be compared to the way the skin hardens in response to constant rubbing or pressure.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 10.4,
+              "text": "A village is going to throw a birthday party for an orange cat named Wilbur, who has become famous for making a regular appearance at local shops.",
+              "zh": "一个村庄将为一只名叫Wilbur的橘猫举办生日派对,这只猫因定期光顾当地商店而出名。"
+            },
+            {
+              "id": 2,
+              "start": 10.8,
+              "end": 39.2,
+              "text": "Wilbur has his own Internet pages as he approaches his 10th birthday on July 7. Wilbur is both bold and friendly. He spends most of his time in shops and businesses around the village. He'll just take himself into any shop, anywhere. There was one time when the doctor's receptionist came back and he was sitting on her chair. Among his favorite haunts are a local hairdresser, two pubs, and the Nottingham Primary School.",
+              "zh": "Wilbur即将在7月7日迎来10岁生日,它有自己的网页。Wilbur既大胆又友好,它大部分时间都在村里的商店和企业中度过。它会自己走进任何商店、任何地方。有一次医生的接待员回来时,发现它正坐在她的椅子上。它最喜欢去的地方包括一家当地理发店、两家酒吧和Nottingham小学。"
+            },
+            {
+              "id": 3,
+              "start": 39.6,
+              "end": 66.5,
+              "text": "Lesley Harper, who runs one of the pubs, said the cat has been a big hit with their customers. \"He's been a regular visitor for most of this year,\" she told the Press Association. \"He's a very relaxed cat, happy for customers and villagers young and old to come in and say hello.\" She also said he is a cat of expensive tastes who likes his high priced cat food.",
+              "zh": "经营其中一家酒吧的Lesley Harper说这只猫深受顾客喜爱。她告诉Press Association:\"今年大部分时间它都是常客。它是一只非常放松的猫,乐意让顾客和村民不论老少进来打招呼。\"她还说它是一只品味昂贵的猫,喜欢吃高价猫粮。"
+            },
+            {
+              "id": 4,
+              "start": 66.8,
+              "end": 77.2,
+              "text": "Sarah Godfrey, who is organizing Wilbur's party, told the local newspaper, \"Wilbur is part of our lives, as he is for everyone who lives in the village.\"",
+              "zh": "正在组织Wilbur派对的Sarah Godfrey告诉当地报纸:\"Wilbur是我们生活的一部分,对村里每个人来说都是如此。"
+            }
+          ],
+          "audioDuration": 77.2,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What does the report say the village is going to do for the cat Wilbur?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Create Internet pages for him."
+                },
+                {
+                  "key": "B",
+                  "text": "Ask a local pet shop to adopt him."
+                },
+                {
+                  "key": "C",
+                  "text": "Name an orange tree after him."
+                },
+                {
+                  "key": "D",
+                  "text": "Hold a birthday party for him."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：A village is going to throw a birthday party for an orange cat named Wilbur, who has become famous for making a regular appearance at local shops.信号：开篇 going to 句式即新闻核心事件 。新闻第一句 A village is going to throw a birthday party for an orange cat named Wilbur 用 g…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 Create Internet pages for him. 借用了第二段 Wilbur has his own Internet pages 这一原词，但原文说的是 Wilbur 已经拥有自己的网页（既成事实），而非村庄「将要为他创建」网页，且这件事不是「村庄为他做的事」，属于答非所问加时态错位的双重陷阱。 借用原文：an orange cat named Wilbur",
+                "B": "未提及：选项 Ask a local pet shop to adopt him. 抓住了录音里反复出现的 local shops 这一概念，但录音从未提及 pet shop 或 adopt——Wilbur 是已经有人照看的明星猫，「让宠物店领养他」是凭借 cat/shops 自行联想的过度推断。",
+                "C": "原词陷阱：选项 Name an orange tree after him. 同时盗用了 an orange cat 中的 orange 和 named Wilbur 中的 name，制造「以橘猫之名命名橘树」的错觉，但原文里 orange 修饰的是 cat、name 是给猫命名，与「橘树」毫无关系。",
+                "D": "正确项：与答案句同义替换（is going to throw a birthday party ↔ Hold a birthday party for him. throw=hold 的同义词替换）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "A village is going to throw a birthday party for an orange cat named Wilbur, who has become famous for making a regular appearance at local shops.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What do we learn from the report about the cat?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He is a bold and aggressive pet."
+                },
+                {
+                  "key": "B",
+                  "text": "He pays regular visits to village shops."
+                },
+                {
+                  "key": "C",
+                  "text": "He once bit a doctor's receptionist."
+                },
+                {
+                  "key": "D",
+                  "text": "He likes to sit on the hairdresser's chair."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：He spends most of his time in shops and businesses around the village. He'll just take himself into any shop, anywhere.信号：频次副词 most of his time 与范围词 any/anywhere 强调常态 。He spends most of his time in shops and businesses around the …",
+              "optionAnalysis": {
+                "A": "与原文相反：选项 He is a bold and aggressive pet. 盗用了录音里 Wilbur is both bold and friendly 中的 bold，但把后半句的 friendly 偷偷换成了 aggressive。bold 在 friendly 与 aggressive 两种语境下意思走向完全相反，原文明确说他是 bold and friendly（大胆又友好），与 aggressive 截然相反。 借用原文：the doctor's receptionist came back and he was sitting on her chair",
+                "C": "原词陷阱：选项 He once bit a doctor's receptionist. 借用了录音里 the doctor's receptionist came back and he was sitting on her chair 中 receptionist 这一原词，但原文说的是「前台回来时发现他坐在自己椅子上」，根本没有「咬人」这一情节。bite 是凭「猫与人接触」自行加戏的虚构事件。 借用原文：Among his favorite haunts are a local hairdresser",
+                "D": "张冠李戴：选项 He likes to sit on the hairdresser's chair. 把「坐在椅子上」这一情节（原文里发生在 the doctor's receptionist came back and he was sitting on her chair 即医生前台的椅子上）安到了理发店的椅子上。原文只在 Among his favorite haunts are a local hairdresser 里提及理发店是他常去的地方之一，但并未说他喜欢坐理发店椅子。",
+                "B": "正确项：与答案句同义替换（spends most of his time in shops and businesses around the village ↔ pays regular visits to village shops. 频次副词 most of his time 与 regular 等值）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "He spends most of his time in shops and businesses around the village. He'll just take himself into any shop, anywhere.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What does the pub owner, Lesley Harper, say about the cat?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He is fond of luxury cat food."
+                },
+                {
+                  "key": "B",
+                  "text": "He likes to stay in villagers' houses."
+                },
+                {
+                  "key": "C",
+                  "text": "He knows everybody in the village."
+                },
+                {
+                  "key": "D",
+                  "text": "He often seeks food around her pub."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：She also said he is a cat of expensive tastes who likes his high priced cat food.信号：She also said 引出直接信息源加 expensive/high priced 同向强化 。She also said he is a cat of expensive tastes who likes h…",
+              "optionAnalysis": {
+                "B": "偷换概念：选项 He likes to stay in villagers' houses. 借了录音中 happy for customers and villagers young and old to come in and say hello 里的 villagers 一词，但原文说的是「乐于让村民和顾客进店打招呼」——他待的是酒馆，村民是进店打招呼的人，「待在村民家里」这一情节子虚乌有。 借用原文：happy for customers and villagers young and old to come in and say hello",
+                "C": "过度推断：选项 He knows everybody in the village. 把录音里 happy for customers and villagers young and old to come in and say hello 这种「乐于和顾客与村民打招呼」的描述夸大成「认识村里每个人」。原文从未说他「认识」任何人，更没说 everybody，是典型的范围极大化推断。 借用原文：high priced cat food",
+                "D": "原词陷阱：选项 He often seeks food around her pub. 借了酒馆这一场景设定，但 Lesley Harper 从未说他「在酒馆附近觅食」。原文里关于「食物」的唯一说法是 high priced cat food，重点在「高档」而非「在酒馆附近找」。seeks food around her pub 是把场景与食物两个真实元素硬拼出的虚构动作。",
+                "A": "正确项：与答案句同义替换（a cat of expensive tastes ↔ He is fond of luxury cat food. expensive tastes 与 fond of luxury 同义概括）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "She also said he is a cat of expensive tastes who likes his high priced cat food.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 3.8,
+              "text": "M: So, where do you want to go for lunch?",
+              "zh": "M: 那么，你想去哪儿吃午饭？"
+            },
+            {
+              "id": 2,
+              "start": 4.1,
+              "end": 8,
+              "text": "W: I don't know. Do you have anything in mind?",
+              "zh": "W: 我不知道。你有什么想法吗？"
+            },
+            {
+              "id": 3,
+              "start": 8.3,
+              "end": 11.8,
+              "text": "M: What about the Sandwich Place on Camden Street?",
+              "zh": "M: Camden Street 上的三明治店怎么样？"
+            },
+            {
+              "id": 4,
+              "start": 12.2,
+              "end": 20.6,
+              "text": "W: Hmm… No, sorry. I don't feel like sandwiches today. It's a great place, but I think we go there too often.",
+              "zh": "W: 嗯……不好意思。我今天不想吃三明治。那地方很不错，但我觉得我们去得太频繁了。"
+            },
+            {
+              "id": 5,
+              "start": 21,
+              "end": 26.3,
+              "text": "M: That's true. Remember that's where we saw Brigette Clark, the famous movie star.",
+              "zh": "M: 确实。还记得我们就是在那儿看到电影明星 Brigette Clark 的。"
+            },
+            {
+              "id": 6,
+              "start": 26.7,
+              "end": 34.7,
+              "text": "W: Of course. How could I ever forget? There were crowds of people around her asking for a photo with her.",
+              "zh": "W: 当然记得。我怎么可能忘记？当时一群人围着她要跟她合影。"
+            },
+            {
+              "id": 7,
+              "start": 35.1,
+              "end": 41.2,
+              "text": "M: What about hamburgers, then? There's that American style diner on the way to the mall.",
+              "zh": "M: 那汉堡怎么样？去购物中心路上有家美式餐厅。"
+            },
+            {
+              "id": 8,
+              "start": 41.6,
+              "end": 61.6,
+              "text": "W: I like that place. Their chips are great, but their service takes a long time. And I need to get back by 2:30 for a conference call. How about trying something new? We could try Mario's, the new Italian restaurant on the corner. It looks all right. Have you been there?",
+              "zh": "W: 我喜欢那家店。他们的薯条很棒，但是上菜要等很久。而且我需要在两点半之前回去开电话会议。要不试试新地方？我们可以去 Mario's，拐角处那家新开的意大利餐厅。看起来不错。你去过吗？"
+            },
+            {
+              "id": 9,
+              "start": 62,
+              "end": 77.7,
+              "text": "M: No, I haven't, but I've noticed that it has great reviews on the Internet. It's supposed to be one of the best Italians in town. I think Jeremy has been there and said it was amazing. I'm up for that.",
+              "zh": "M: 没有，我没去过，但我注意到它在网上评价很好。据说是城里最好的意大利餐厅之一。我想 Jeremy 去过，说那里很棒。我没意见。"
+            },
+            {
+              "id": 10,
+              "start": 78,
+              "end": 83.4,
+              "text": "W: Cool. Have you asked Jeremy if he would like to come with us?",
+              "zh": "W: 好啊。你问过 Jeremy 想不想跟我们一起去吗？"
+            },
+            {
+              "id": 11,
+              "start": 83.8,
+              "end": 94.1,
+              "text": "M: I already have. He says he can't. He has brought his own lunch today, so he will stay in. I think his wife made him soup.",
+              "zh": "M: 我问过了。他说不行。他今天自己带了午饭，所以要待在办公室。我想是他妻子给他做的汤。"
+            },
+            {
+              "id": 12,
+              "start": 94.4,
+              "end": 102.1,
+              "text": "W: Poor Jeremy. His wife is a terrible cook. He should throw that soup in the bin and join us.",
+              "zh": "W: 可怜的 Jeremy。他妻子厨艺太差了。他应该把那汤扔进垃圾桶，然后跟我们一起去。"
+            }
+          ],
+          "audioDuration": 102.1,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "What are the speakers talking about in this conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Who to order the food."
+                },
+                {
+                  "key": "B",
+                  "text": "Whether to have sandwiches."
+                },
+                {
+                  "key": "C",
+                  "text": "When to go for their meal."
+                },
+                {
+                  "key": "D",
+                  "text": "Where to have their lunch."
+                }
+              ],
+              "answer": "D",
+              "analysis": "主旨题。答案句（P1）：M: So, where do you want to go for lunch?信号：开门见山的话题问句 。where do you want to go for lunch? 是对话的第一句，用 So 起头直接抛话题，正是听力主旨题最常用的开头点题信号。后续整段所有讨论（三明治店、汉堡店、意大利餐厅…",
+              "optionAnalysis": {
+                "A": "未提及：全篇对话围绕选餐厅展开，从头到尾没有任何一句提到由谁来点食物，纯属 Who to order the food. 制造的无中生有。",
+                "B": "录音里 What about the Sandwich Place on Camden Street? 与 I don't feel like sandwiches today. 确实念到了 sandwiches，Whether to have sandwiches. 就盗用了这个原词，让「听到原词就想选」的考生中招。但实际上三明治只是男方第一个提议的备选之一，被否决后整段对话又讨论了汉堡、意大利餐厅，三明治远不足以代表主旨。 借用原文：I need to get back by 2:30 for a conference call.",
+                "C": "录音里 I need to get back by 2:30 for a conference call. 出现了具体时间，但那是女方解释自己时间紧、不要选服务慢的店的附带理由，整段对话从未围绕「几点去吃」展开讨论，When to go for their meal. 把次要约束当主线。",
+                "D": "正确项：与答案句同义替换（where do you want to go for lunch? ↔ Where to have their lunch. where to go 与 where to have 同义）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "M: So, where do you want to go for lunch?",
+              "type": "主旨题"
+            },
+            {
+              "number": 9,
+              "stem": "Where did the speakers see Brigette Clark, the famous movie star?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "In the shopping center nearby."
+                },
+                {
+                  "key": "B",
+                  "text": "In the expensive Italian style diner."
+                },
+                {
+                  "key": "C",
+                  "text": "At the Sandwich Place on Camden Street."
+                },
+                {
+                  "key": "D",
+                  "text": "At the American restaurant they frequent."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P5）：M: That's true. Remember that's where we saw Brigette Clark, the famous movie star.信号：that's where + 回指 。that's where we saw Brigette Clark 用 that's where 把「那个地方」指回上一句男声提到的 the Sandwich Place on…",
+              "optionAnalysis": {
+                "A": "录音里只在第 7 段提到 on the way to the mall（去商场路上）作为美式餐厅的位置描述，但商场本身从未作为见明星的地点出现，In the shopping center nearby. 属于无中生有。 借用原文：Mario's, the new Italian restaurant on the corner",
+                "B": "原词陷阱：录音里 We could try Mario's, the new Italian restaurant on the corner. 与 I haven't, but I've noticed that it has great reviews 都明确说 Mario's 是他们还没去过的新意餐厅，与「在那儿见过明星」在逻辑上完全冲突，In the expensive Italian style diner. 盗用了 Italian 这个原词制造干扰。 借用原文：There's that American style diner on the way to the mall.",
+                "D": "录音里 There's that American style diner on the way to the mall. 出现了 American 这个原词，At the American restaurant they frequent. 就盗用它制造干扰；但原文从未说他们常去那家美式餐厅，而且这家餐厅是男方拿来作为今天午饭的备选，与见明星这件已发生事毫无关联。",
+                "C": "正确项：与答案句同义替换（the Sandwich Place on Camden Street ↔ At the Sandwich Place on Camden Street. 原句锁回指对象）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "M: That's true. Remember that's where we saw Brigette Clark, the famous movie star.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "Why does the woman say she needs to get back by 2:30?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "There is to be a conference call."
+                },
+                {
+                  "key": "B",
+                  "text": "She has to meet with her boss then."
+                },
+                {
+                  "key": "C",
+                  "text": "There will be crowds of people waiting for her."
+                },
+                {
+                  "key": "D",
+                  "text": "She will have a photo taken with Brigette Clark."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P8）：W: I like that place. Their chips are great, but their service takes a long time. And I need to get back by 2:30 for a conference call.信号：for + 原因短语 。I need to get back by 2:30 for a conference call. 中的 for 是原因介词，直接把 2:30 这个时间点和「开电话会议」这个理由焊死。Why …",
+              "optionAnalysis": {
+                "B": "录音从头到尾没有任何 boss、manager、meet with 之类的词，She has to meet with her boss then. 完全是无中生有。",
+                "C": "原词陷阱：录音 There were crowds of people around her asking for a photo with her. 里确实出现了 crowds of people，There will be crowds of people waiting for her. 就盗用了这个原词；但原文里那群人围的是 Brigette Clark，不是女方，C 把围观对象张冠李戴到她身上，且时态从过去 were 偷换成将来 will be。 借用原文：asking for a photo with her",
+                "D": "原词陷阱：录音 asking for a photo with her 出现 photo，Brigette Clark 出现人名，She will have a photo taken with Brigette Clark. 把这两个原词拼成「女方将与 Brigette Clark 合影」的新事件——这件事原文从未发生，是典型的原词拼接陷阱。",
+                "A": "正确项：与答案句同义替换（for a conference call ↔ There is to be a conference call. for + 名词转 there is to be）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "W: I like that place. Their chips are great, but their service takes a long time. And I need to get back by 2:30 for a conference call.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "Why does the woman say Jeremy should throw his soup in the bin?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She doesn't deem homemade soup tasty."
+                },
+                {
+                  "key": "B",
+                  "text": "She doesn't think his wife cooks well."
+                },
+                {
+                  "key": "C",
+                  "text": "She feels Jeremy would rather dine out."
+                },
+                {
+                  "key": "D",
+                  "text": "She has found the soup smells terrible."
+                }
+              ],
+              "answer": "B",
+              "analysis": "推断题。答案句（P12）：W: Poor Jeremy. His wife is a terrible cook. He should throw that soup in the bin and join us.信号：终判式因果链 。His wife is a terrible cook. He should throw that soup in the bin 是一个语义上的因果链：先下评判 His wife is a terr…",
+              "optionAnalysis": {
+                "A": "偷换概念：录音里女方的批评对象是 His wife（人 - 妻子的厨艺），不是汤本身。She doesn't deem homemade soup tasty. 把矛头从「妻子厨艺差」偷换成「她觉得家常汤本身不好吃」，是范围偏移。她没有否定家常汤这个品类，只是否定他妻子做的这一碗。 借用原文：He should throw that soup in the bin and join us.",
+                "C": "录音 He should throw that soup in the bin and join us. 出现了 join us，She feels Jeremy would rather dine out. 就据此过度推断成「她觉得 Jeremy 更愿意出去吃」。但女方建议他出来吃是她的提议，不是 Jeremy 自己的偏好；原文里 Jeremy 自己说的是 He has brought his own lunch today, so he will stay in.，恰恰是要留下不出去。C 把女方的建议错认成 Jeremy 的意愿，过度推断且方向反了。 借用原文：His wife is a terrible cook.",
+                "D": "原词陷阱：录音里女方说的是 His wife is a terrible cook.——评价做菜人的水平，从未提到汤闻起来怎么样。She has found the soup smells terrible. 盗用了 terrible 这个原词，但把它从修饰 cook 偷换为修饰 smells，是经典的「原词换搭配」陷阱。",
+                "B": "正确项：与答案句同义替换（His wife is a terrible cook. ↔ She doesn't think his wife cooks well. 贬义形容词转含蓄否定）"
+              },
+              "evidencePara": "P12",
+              "evidenceText": "W: Poor Jeremy. His wife is a terrible cook. He should throw that soup in the bin and join us.",
+              "type": "推断题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 5.8,
+              "text": "W: Hi, there. How are you today? Do you have a reservation with us already?",
+              "zh": "W: 你好，今天怎么样？您已经在我们这里预订了吗？"
+            },
+            {
+              "id": 2,
+              "start": 6.1,
+              "end": 13.5,
+              "text": "M: Good afternoon. Yes, we reserved our rooms yesterday morning on your website for three nights. The name's Patterson.",
+              "zh": "M: 下午好。是的，我们昨天早上在你们的网站上预订了三晚的房间。名字是Patterson。"
+            },
+            {
+              "id": 3,
+              "start": 13.8,
+              "end": 21.9,
+              "text": "W: Okay. Let me have a look. Yes, we have it here. You brought the whole family with you, I see.",
+              "zh": "W: 好的，让我看看。是的，在这里找到了。我看您带着全家人一起来。"
+            },
+            {
+              "id": 4,
+              "start": 22.3,
+              "end": 27.3,
+              "text": "M: Yes, the two kids, my wife and I, and her parents too.",
+              "zh": "M: 是的，两个孩子，我妻子和我，还有她的父母。"
+            },
+            {
+              "id": 5,
+              "start": 27.7,
+              "end": 45.3,
+              "text": "W: Great. So we have a family room for you and your wife and the kids, and another double room for your parents-in-law. They are right next to each other on the ground floor, since you mentioned in your message that they have trouble with stairs.",
+              "zh": "W: 很好。我们为您和您的妻子以及孩子们准备了一间家庭房，还有另一间双人房给您的岳父岳母。两间房紧挨着，在一楼，因为您在留言中提到他们上下楼梯有困难。"
+            },
+            {
+              "id": 6,
+              "start": 45.6,
+              "end": 53.3,
+              "text": "M: That's wonderful. My father-in-law has had terrible problems getting up and down stairs since his knee operation last April.",
+              "zh": "M: 太好了。我岳父自从去年四月做了膝盖手术后，上下楼梯就一直很困难。"
+            },
+            {
+              "id": 7,
+              "start": 53.6,
+              "end": 63.6,
+              "text": "W: I'm sorry to hear that. And if you need any help to find transportation for the whole family, we can definitely recommend someone for you.",
+              "zh": "W: 听到这个我很遗憾。如果您需要任何帮助为全家人找交通工具，我们绝对可以为您推荐。"
+            },
+            {
+              "id": 8,
+              "start": 64,
+              "end": 78.6,
+              "text": "M: We were thinking of renting a car, but we will explore all the options available for sure. So, yes, that would be very helpful in comparing prices. We're also wondering what tours and day trips are available.",
+              "zh": "M: 我们本来在考虑租车，但我们肯定会了解所有可选的方案。所以，是的，这对比较价格会很有帮助。我们还想知道有哪些旅游团和一日游可以参加。"
+            },
+            {
+              "id": 9,
+              "start": 78.9,
+              "end": 101.6,
+              "text": "W: We have bunches of brochures here. I would recommend getting out on a boat trip. The kids will love it and there are so many islands nearby to explore. There's also a great night market further into town that has all kinds of food and cool little shops selling souvenirs and local jewelry and clothing made by hand.",
+              "zh": "W: 我们这里有很多宣传册。我建议您去坐船游览。孩子们会喜欢的，附近有很多岛屿可以探索。镇里还有一个很棒的夜市，有各种各样的食物和很酷的小店，卖纪念品、当地的珠宝和手工制作的服装。"
+            },
+            {
+              "id": 10,
+              "start": 101.9,
+              "end": 103.9,
+              "text": "M: That all sounds marvelous.",
+              "zh": "M: 听起来都很棒。"
+            },
+            {
+              "id": 11,
+              "start": 104.3,
+              "end": 113.9,
+              "text": "W: Now, all I need is to photocopy your passports and then I can get you all checked in and show you to your rooms.",
+              "zh": "W: 现在，我只需要复印一下您的护照，然后就可以为您办理入住手续，带您去房间了。"
+            }
+          ],
+          "audioDuration": 113.9,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "Who is the man talking to in the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A landlady."
+                },
+                {
+                  "key": "B",
+                  "text": "A waitress."
+                },
+                {
+                  "key": "C",
+                  "text": "A receptionist."
+                },
+                {
+                  "key": "D",
+                  "text": "A saleswoman."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：Hi, there. How are you today? Do you have a reservation with us already?信号：开场专属话术 。Do you have a reservation with us already? 是酒店前台接待客人时最典型的开场询问——问『是否有预订』。这种『询问预订』的话术是接待员的专属标记，是定身份的信号句。",
+              "optionAnalysis": {
+                "A": "未提及：A landlady. 是出租房屋的房东，话术应是 rent/deposit/lease，不会用 reservation 这类酒店术语；录音里也没有出现任何与租房相关的词。",
+                "B": "原词陷阱：A waitress. 是餐厅服务员。录音 has all kinds of food and cool little shops 确实提到了 food，但讲的是夜市，不是接待方提供餐饮服务，属于典型原词陷阱——听到 food 就误以为对方是 waitress。 借用原文：cool little shops selling souvenirs and local jewelry and clothing made by hand",
+                "D": "原词陷阱：A saleswoman. 是售货员。录音 cool little shops selling souvenirs and local jewelry and clothing made by hand 确实提到了『卖纪念品和手工衣物的小店』，但卖东西的是夜市的小店，不是这位接待者，属于典型原词陷阱。",
+                "C": "正确项：与答案句同义替换（Do you have a reservation with us already? ↔ A receptionist. 话术 → 身份的同义替换）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Hi, there. How are you today? Do you have a reservation with us already?",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What do we learn about the man's father-in-law from the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He was involved in a terrible car accident last April."
+                },
+                {
+                  "key": "B",
+                  "text": "He has much difficulty getting up and down stairs."
+                },
+                {
+                  "key": "C",
+                  "text": "He is expected to undergo a knee operation."
+                },
+                {
+                  "key": "D",
+                  "text": "He prefers to stay next door to the children."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P6）：My father-in-law has had terrible problems getting up and down stairs since his knee operation last April.信号：现在完成时 + since 圈定当前状态 。has had terrible problems getting up and down stairs since his knee operation last Apr…",
+              "optionAnalysis": {
+                "A": "原词陷阱：He was involved in a terrible car accident last April. 盗用了录音里的 terrible 与 last April 这两个高辨识度词，制造『我好像听见 terrible 和 last April』的错觉，但录音里 last April 修饰的是 knee operation（膝关节手术），不是 car accident（车祸）；车祸录音里根本没提。 借用原文：since his knee operation last April",
+                "C": "与原文相反：He is expected to undergo a knee operation. 用 is expected to undergo（将要做）描述膝关节手术，但录音里 since his knee operation last April 说的是『自从去年四月做了手术之后』——手术已经做完。时态从过去/完成偷换成将来，与原文相反。 借用原文：right next to each other on the ground floor, since you mentioned in your message that they have trouble with stairs",
+                "D": "张冠李戴：He prefers to stay next door to the children. 借用了录音 right next to each other on the ground floor 里 next to 的安排关系，但录音说的是『前台把两间房安排在彼此隔壁』，并不是岳父 prefers（更愿意）住孩子隔壁，主语与动机都被替换。",
+                "B": "正确项：与答案句同义替换（has had terrible problems getting up and down stairs ↔ He has much difficulty getting up and down stairs. terrible problems = much difficulty）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "My father-in-law has had terrible problems getting up and down stairs since his knee operation last April.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "Why does the man say they will explore all the options available?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To please his parents-in-law."
+                },
+                {
+                  "key": "B",
+                  "text": "To find the best trip for his kids."
+                },
+                {
+                  "key": "C",
+                  "text": "To satisfy his curiosity."
+                },
+                {
+                  "key": "D",
+                  "text": "To compare prices."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P8）：We were thinking of renting a car, but we will explore all the options available for sure. So, yes, that would be very helpful in comparing prices.信号：So + that would be very helpful in... 。So, yes, that would be very helpful in comparing prices. 中 So 是结果连词，紧…",
+              "optionAnalysis": {
+                "A": "原词陷阱：To please his parents-in-law. 利用了录音 another double room for your parents-in-law 里 parents-in-law 这个原词，让人误以为『探索所有方案是为了照顾岳父母』，但录音里只说他们『住一楼』，从未把『探索方案』的动机归到讨好岳父母上。 借用原文：The kids will love it and there are so many islands nearby to explore",
+                "B": "原词陷阱：To find the best trip for his kids. 利用了录音 The kids will love it 里出现的 kids 与 trip 两个原词，制造『是为了给孩子找最佳旅程』的错觉。但 The kids will love it 是女方推荐 boat trip 时说的，男方说『探索所有方案』的动机不是这件事。",
+                "C": "未提及：To satisfy his curiosity. 录音里完全没有出现 curiosity 或与好奇心相关的表达；选项是凭空加的目的，属于未提及型干扰。",
+                "D": "正确项：与答案句同义替换（that would be very helpful in comparing prices ↔ To compare prices. be helpful in V-ing → To do）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "We were thinking of renting a car, but we will explore all the options available for sure. So, yes, that would be very helpful in comparing prices.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "What does the woman suggest the man and his family do close to the end of the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Visit a local art gallery."
+                },
+                {
+                  "key": "B",
+                  "text": "Go on a boat trip."
+                },
+                {
+                  "key": "C",
+                  "text": "Take some photos of the islands."
+                },
+                {
+                  "key": "D",
+                  "text": "Try her hand-made clothing."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P9）：I would recommend getting out on a boat trip. The kids will love it and there are so many islands nearby to explore.信号：I would recommend... 建议句 。I would recommend getting out on a boat trip. 中 I would recommend 是最显性的建议信号词，紧跟的动作…",
+              "optionAnalysis": {
+                "A": "未提及：Visit a local art gallery. 录音里完全没有提到 art gallery（艺术画廊）；女方推荐的是 boat trip 和 night market，画廊纯属选项添加的迷惑活动。",
+                "C": "原词陷阱：Take some photos of the islands. 利用了录音 there are so many islands nearby to explore 里出现的 islands 一词，让人以为『建议去拍岛屿照片』。但原文里 islands 是 boat trip 时『可以探索』的对象，女方从未建议『拍照』；take photos 这个动作录音里没有出现。 借用原文：clothing made by hand",
+                "D": "张冠李戴：Try her hand-made clothing. 利用了录音 clothing made by hand 这个原词组，但录音里 clothing made by hand 是『夜市小店在卖』的东西，不是『她』（前台接待员）自己手工做的，也不是被建议的核心动作；同时 try（试穿/尝试）这个动作录音里也没有。",
+                "B": "正确项：与答案句同义替换（getting out on a boat trip ↔ Go on a boat trip. getting out on = Go on）"
+              },
+              "evidencePara": "P9",
+              "evidenceText": "I would recommend getting out on a boat trip. The kids will love it and there are so many islands nearby to explore.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 4.6,
+              "text": "1 Artificial intelligence agents play ever more influential roles in our lives."
+            },
+            {
+              "id": 2,
+              "start": 4.9,
+              "end": 8.8,
+              "text": "They do everything from suggesting new friends to recommending purchases."
+            },
+            {
+              "id": 3,
+              "start": 9.2,
+              "end": 11.8,
+              "text": "They're even beginning to drive our cars."
+            },
+            {
+              "id": 4,
+              "start": 12.2,
+              "end": 19.8,
+              "text": "Another role that they are expected to take over is negotiating on our behalf in commercial transactions or legal disputes."
+            },
+            {
+              "id": 5,
+              "start": 20.2,
+              "end": 26.3,
+              "text": "So, it's important to know whether using an artificial intelligence agent might affect how we negotiate."
+            },
+            {
+              "id": 6,
+              "start": 26.7,
+              "end": 28.6,
+              "text": "Research indicates that it does."
+            },
+            {
+              "id": 7,
+              "start": 29,
+              "end": 37,
+              "text": "In a new study, participants were told to imagine that they were negotiating for something important to them, like a house."
+            },
+            {
+              "id": 8,
+              "start": 37.4,
+              "end": 46.2,
+              "text": "Next they were told either that they would negotiate for themselves, or they would program an artificial intelligence agent to negotiate for them."
+            },
+            {
+              "id": 9,
+              "start": 46.6,
+              "end": 56.6,
+              "text": "Participants then completed a survey indicating how tough, deceptive and pleasant or otherwise they wanted to be, or wanted their agent to be, in the negotiations."
+            },
+            {
+              "id": 10,
+              "start": 57,
+              "end": 65.4,
+              "text": "For example, participants could choose to be tough by making an opening demand far greater than what they'd be willing to accept."
+            },
+            {
+              "id": 11,
+              "start": 65.8,
+              "end": 70.8,
+              "text": "They could also choose to express sympathy with their opponent to appear pleasant."
+            },
+            {
+              "id": 12,
+              "start": 71.1,
+              "end": 86.1,
+              "text": "But they could also indicate that they—or their agent—would strategically express anger toward the opponent to gain advantage, or they could opt to convey dissatisfaction with the encounter so that the other party would think they were losing interest."
+            },
+            {
+              "id": 13,
+              "start": 86.4,
+              "end": 89.1,
+              "text": "These are both examples of deceptive strategies."
+            },
+            {
+              "id": 14,
+              "start": 89.4,
+              "end": 96,
+              "text": "Participants were more willing to employ deceptive strategies when assigned an agent to negotiate on their behalf."
+            }
+          ],
+          "audioDuration": 96,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What does the passage say about artificial intelligence agents?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are more intelligent than many of us."
+                },
+                {
+                  "key": "B",
+                  "text": "They have already become our new friends."
+                },
+                {
+                  "key": "C",
+                  "text": "They have begun to affect our social behavior."
+                },
+                {
+                  "key": "D",
+                  "text": "They play increasingly more important roles."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：Artificial intelligence agents play ever more influential roles in our lives.信号：篇章首句即点题句 。答案句正是录音的第一句 Artificial intelligence agents play ever more influential roles in our lives.：篇章独白的开头第…",
+              "optionAnalysis": {
+                "A": "原词陷阱：They are more intelligent than many of us. 利用了录音里 Artificial intelligence agents 中 intelligence 这个词，把 \"人工智能\" 偷换成 \"它们比我们许多人更聪明\"。录音从未把 AI 与人做智力比较，主体考生一听到 intelligence 就反射性挑 intelligent 是典型的原词陷阱。 借用原文：suggesting new friends",
+                "B": "与原文相反：They have already become our new friends. 利用了录音里 suggesting new friends（替我们推荐新朋友），把 \"推荐朋友\" 偷换成 \"它们自己已经成为我们的新朋友\"。这是 already + 完成时把功能性服务夸大为既成事实，方向已经反了。 借用原文：play ever more influential roles in our lives",
+                "C": "偷换概念：They have begun to affect our social behavior. 利用了录音里 play ever more influential roles in our lives（在生活中起越来越重要的作用），把宽泛的 \"生活\" 偷换成专指的 social behavior（社交行为）。录音从未提及 social behavior 这一具体范畴，属于把宽口径收窄到一个录音没说过的窄范畴。",
+                "D": "正确项：与答案句同义替换（play ever more influential roles ↔ play increasingly more important roles ever more 与 increasingly 同义改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Artificial intelligence agents play ever more influential roles in our lives.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "What does the new study want to find out about using an artificial intelligence agent?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Whether it might have any effect on the way we negotiate."
+                },
+                {
+                  "key": "B",
+                  "text": "Whether it might actually outperform human negotiators."
+                },
+                {
+                  "key": "C",
+                  "text": "Whether it can facilitate business transactions."
+                },
+                {
+                  "key": "D",
+                  "text": "Whether it can speed up legal procedures."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：So, it's important to know whether using an artificial intelligence agent might affect how we negotiate.信号：So 引出结论 + know whether 引出研究问题 。答案句以 So, it's important to know whether using an artificial intelligence agen…",
+              "optionAnalysis": {
+                "B": "过度推断：Whether it might actually outperform human negotiators. 把研究问题从 \"是否影响我们的谈判方式\" 强行升级为 \"是否真的胜过人类谈判者\"。录音里只问 affect，没有任何 outperform / beat / better than 的提法，是典型把 \"有影响\" 推到 \"胜过\" 的两步跳跃。",
+                "C": "原词陷阱：Whether it can facilitate business transactions. 直接搬用了录音里 commercial transactions（商业交易）这个场景词。录音只是把 commercial transactions 列为 AI 代理可能介入的应用场景之一，并没有把它定为研究问题；选项把 \"场景\" 偷换成 \"研究问题\"，是典型听到原词就想选的陷阱。 借用原文：legal disputes",
+                "D": "原词陷阱：Whether it can speed up legal procedures. 同样借用了录音里 legal disputes（法律纠纷）这个场景词，再把名词改成 legal procedures（法律程序）。录音没有提加快速度（speed up）这一研究目标，是 \"原词靠近 + 概念替换\" 的双重陷阱。",
+                "A": "正确项：与答案句同义替换（might affect how we negotiate ↔ might have any effect on the way we negotiate 动词 affect 与名词 effect 同根改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "So, it's important to know whether using an artificial intelligence agent might affect how we negotiate.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What did participants tend to do when assigned an AI agent to negotiate on their behalf?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Choose to be tough."
+                },
+                {
+                  "key": "B",
+                  "text": "Sympathize with their opponent."
+                },
+                {
+                  "key": "C",
+                  "text": "Use deceptive strategies."
+                },
+                {
+                  "key": "D",
+                  "text": "Appear to be pleasant."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：Participants were more willing to employ deceptive strategies when assigned an agent to negotiate on their behalf.信号：段末 were more willing to 是结论信号 。答案句出现在录音末尾 Participants were more willing to employ deceptive strategies when…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Choose to be tough. 直接借用录音 participants could choose to be tough by making an opening demand far greater than what they'd be willing to accept 中 \"choose to be tough\" 几个原词。但这一句只是研究方法里 \"参与者可以做出哪些选择\" 的举例之一，不是研究结论里 \"被安排代理时实际倾向做\" 的事。听到 tough 就选是典型原词陷阱。 借用原文：express sympathy with their opponent",
+                "B": "原词陷阱：Sympathize with their opponent. 借用了录音 choose to express sympathy with their opponent to appear pleasant 里 sympathy with their opponent。这句同样是研究方法的举例选项之一，是受试者 \"可以选\" 的策略，不是结论性倾向；选项把 sympathy 改成 sympathize 听起来更顺耳，但只是原词陷阱。 借用原文：to appear pleasant",
+                "D": "原词陷阱：Appear to be pleasant. 借用了录音 to appear pleasant 的几个字。但 to appear pleasant 在录音里只是说明 \"表达同情\" 这种策略的目的（让自己看起来友好），仍属于研究方法的举例铺垫，并不是结论。把目的状语当作结论行为是典型 \"听到 pleasant 就选\" 的原词陷阱。",
+                "C": "正确项：与答案句同义替换（were more willing to employ deceptive strategies ↔ Use deceptive strategies. employ 与 Use 同义替换）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Participants were more willing to employ deceptive strategies when assigned an agent to negotiate on their behalf.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 13.5,
+              "text": "New research has studied the effects of a seven-week healthy cooking course. Academics measured the program's effect on cooking confidence and self-perceived mental health. Researchers also measured participants' overall satisfaction around cooking and diet-related behaviors.",
+              "zh": "新研究考察了为期七周的健康烹饪课程的效果。学者们测量了该项目对烹饪信心和自我感知心理健康的影响。研究人员还测量了参与者对烹饪的总体满意度以及与饮食相关的行为。"
+            },
+            {
+              "id": 2,
+              "start": 13.8,
+              "end": 27.7,
+              "text": "What were the findings? Course participants saw significant improvements in general health. They also reported improved mental health and subjective vitality immediately after the program. These benefits remained six months after the completion of the course.",
+              "zh": "研究发现了什么?课程参与者的总体健康状况有了显著改善。他们还报告称,在项目结束后心理健康和主观活力立即得到改善。这些益处在课程完成六个月后仍然保持。"
+            },
+            {
+              "id": 3,
+              "start": 28.1,
+              "end": 43.4,
+              "text": "What caused these improvements? Researchers have previously found a link between eating more fruits and vegetables, and improved longer term mental health. This would imply that the participants in the current study may have felt better due to improved diet.",
+              "zh": "是什么导致了这些改善?研究人员此前发现,摄入更多水果和蔬菜与长期心理健康改善之间存在联系。这意味着当前研究中的参与者可能因饮食改善而感觉更好。"
+            },
+            {
+              "id": 4,
+              "start": 43.8,
+              "end": 65.3,
+              "text": "However, the study showed participants' mental health improved even if their reported diet did not change after completing the program. Also, the mental health benefits were equal among participants who were overweight or obese and those in a healthy weight range. This suggests a link between cooking confidence and satisfaction around cooking, and mental health benefits.",
+              "zh": "然而,研究显示,即使参与者报告的饮食在完成项目后没有改变,他们的心理健康也有所改善。此外,超重或肥胖参与者与体重正常参与者获得的心理健康益处相当。这表明烹饪信心和对烹饪的满意度与心理健康益处之间存在联系。"
+            },
+            {
+              "id": 5,
+              "start": 65.6,
+              "end": 94.5,
+              "text": "Who benefits most from learning to cook? Gender plays a part. At the start of the program, 77 per cent of female participants were confident about cooking, but just 23 per cent of males were confident. At the end of the program, cooking confidence and skills were equal across both counterparts. This change in confidence could lead to a gender balance in home cooking. This in turn could reduce consumption of unhealthy, high-calorie processed meals.",
+              "zh": "谁从学习烹饪中受益最多?性别起到一定作用。在项目开始时,77%的女性参与者对烹饪有信心,但只有23%的男性有信心。项目结束时,双方的烹饪信心和技能达到了平衡。这种信心的变化可能导致家庭烹饪中的性别平衡。这反过来又可以减少不健康、高热量加工食品的消费。"
+            }
+          ],
+          "audioDuration": 94.5,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What do we learn about the benefits the participants gained from the healthy cooking course?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They were perceived differently by some academics."
+                },
+                {
+                  "key": "B",
+                  "text": "They still existed six months after the course ended."
+                },
+                {
+                  "key": "C",
+                  "text": "They varied greatly among the course participants."
+                },
+                {
+                  "key": "D",
+                  "text": "They were only measurable within seven weeks."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：These benefits remained six months after the completion of the course.信号：段落收束句 + 时间锚点 six months 。These benefits remained six months after the completion of the course. 是第二段最后一句，承担收…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项里 perceived differently by some academics 听起来像在说“被某些学者看法不一”，它盗用了第一段里 Academics measured the program's effect on cooking confidence and self-perceived mental health. 出现过的 Academics 与 self-perceived，但录音从未说 academics 之间对这些好处有不同看法，是把原文里出现过的词重新拼装成一个新意思。 借用原文：the mental health benefits were equal among participants who were overweight or obese and those in a healthy weight range",
+                "C": "与原文相反：选项 They varied greatly among the course participants. 说好处在参与者之间差异巨大，但第四段 Also, the mental health benefits were equal among participants who were overweight or obese and those in a healthy weight range. 反而说好处在不同体重人群之间是相等的，方向恰好与本选项相反。 借用原文：a seven-week healthy cooking course",
+                "D": "原词陷阱：选项 They were only measurable within seven weeks. 表面有 seven weeks 这个录音里念到的数字（a seven-week healthy cooking course），听起来像是“原话”。但 seven-week 在录音中只是课程的时长，不是好处的可测时间窗；而且加了 only 限定，与第二段的 six months 直接矛盾。",
+                "B": "正确项：与答案句同义替换（These benefits remained six months after the completion of the course. ↔ They still existed six months after the course ended. remained = still existed；completion of the course = course ended）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "These benefits remained six months after the completion of the course.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What do the new research findings suggest about mental health benefits?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They can be easily seen among participants in a healthy weight range."
+                },
+                {
+                  "key": "B",
+                  "text": "They should be attributed to participants' change in diet behaviors."
+                },
+                {
+                  "key": "C",
+                  "text": "They are linked to cooking confidence and cooking satisfaction."
+                },
+                {
+                  "key": "D",
+                  "text": "They actually result from eating more fruits and vegetables."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P4）：This suggests a link between cooking confidence and satisfaction around cooking, and mental health benefits.信号：转折 However 之后的 This suggests 结论句 。第四段首句 However, the study showed participants' mental health improved even …",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 They can be easily seen among participants in a healthy weight range. 把录音里 the mental health benefits were equal among participants who were overweight or obese and those in a healthy weight range 中的 healthy weight range 摘出来，但录音强调的是“无论超重还是健康体重，效果都相等”——选项却暗示“只在健康体重组里更容易看到”，把“相等”偷换成“在某一组更明显”。 借用原文：participants' mental health improved even if their reported diet did not change after completing the program",
+                "B": "与原文相反：选项 They should be attributed to participants' change in diet behaviors. 把心理健康益处归给“饮食行为的改变”，但 participants' mental health improved even if their reported diet did not change after completing the program. 直接说“即便饮食没变，心理健康也改善了”——选项与原文方向恰好相反。 借用原文：Researchers have previously found a link between eating more fruits and vegetables, and improved longer term mental health.",
+                "D": "原词陷阱：选项 They actually result from eating more fruits and vegetables. 几乎逐字盗用 Researchers have previously found a link between eating more fruits and vegetables, and improved longer term mental health.，听感非常“对”。但录音明确指出这只是“之前的研究”和“可能的解释”，被第四段 however 推翻；本研究真正的结论是烹饪信心与满足感，而不是多吃果蔬。",
+                "C": "正确项：与答案句同义替换（This suggests a link between cooking confidence and satisfaction around cooking, and mental health benefits. ↔ They are linked to cooking confidence and cooking satisfaction. a link between A and B = A are linked to B）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "This suggests a link between cooking confidence and satisfaction around cooking, and mental health benefits.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What plays a role in determining who benefits most from learning to cook?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Gender."
+                },
+                {
+                  "key": "B",
+                  "text": "Confidence."
+                },
+                {
+                  "key": "C",
+                  "text": "Health."
+                },
+                {
+                  "key": "D",
+                  "text": "Practice."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P5）：Who benefits most from learning to cook? Gender plays a part.信号：段首设问 + 直接应答 。Who benefits most from learning to cook? 是段首设问，几乎是把题干 What plays a role in determining who bene…",
+              "optionAnalysis": {
+                "B": "原词陷阱：选项 Confidence. 与录音 77 per cent of female participants were confident about cooking, but just 23 per cent of males were confident. 中反复出现的 confident/confidence 同根——录音确实在大量谈“信心”，但 confidence 是“差异表现的指标”而非“决定谁受益最多”的那个变量；真正决定的是性别（女生先有信心、男生后追上）。 借用原文：Course participants saw significant improvements in general health.",
+                "C": "原词陷阱：选项 Health. 利用了全文反复出现的 health/mental health/general health 主题词的熟悉感，但录音从未把 health 作为“决定谁受益最多”的变量；恰恰相反，the mental health benefits were equal among participants who were overweight or obese and those in a healthy weight range 还说健康状态不同的人受益是相等的。",
+                "D": "未提及：选项 Practice. 的 practice（练习/实践）在录音中没有任何对应：第五段讨论性别差异和家庭烹饪平衡，从未把“练习多少”列为决定受益的变量。",
+                "A": "正确项：与答案句同义替换（Gender plays a part. ↔ Gender. 原词直出，无需改写）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "Who benefits most from learning to cook? Gender plays a part.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 17.7,
+              "text": "What is personal space? We often think of it as an invisible bubble of space surrounding us that others can't enter, without causing discomfort. Research shows, however, that we actually have bubbles of different sizes. Each of these bubbles applies to a different set of people.",
+              "zh": "什么是个人空间？我们常常认为它是环绕我们周围的一个无形气泡，他人不能进入，否则会引起不适。然而，研究表明，我们实际上拥有不同大小的气泡。这些气泡中的每一个都适用于不同的人群。"
+            },
+            {
+              "id": 2,
+              "start": 18.1,
+              "end": 53.8,
+              "text": "The smallest zone, called \"intimate space\", extends outward from our bodies 18 inches in every direction. Only family, pets and one's closest friends may enter it. A mere acquaintance entering our intimate space makes us uncomfortable. Next is the bubble called \"personal space\", extending from 1.5 feet to 4 feet away. Friends and acquaintances can comfortably occupy this zone, especially during informal conversations, but strangers are forbidden. Extending from 4 to 12 feet away from us is \"social space\". Here people feel comfortable conducting routine social interactions with new acquaintances or total strangers.",
+              "zh": "最小的区域称为\"亲密空间\",从我们身体向外延伸18英寸的各个方向。只有家人、宠物和最亲密的朋友可以进入。仅仅是熟人进入我们的亲密空间就会让我们感到不舒服。接下来是称为\"个人空间\"的气泡,从1.5英尺延伸到4英尺之外。朋友和熟人可以舒适地占据这个区域,尤其是在非正式交谈期间,但陌生人是被禁止的。从我们4到12英尺之外延伸的是\"社交空间\"。在这里,人们可以舒适地与新认识的人或完全陌生的人进行日常社交互动。"
+            },
+            {
+              "id": 3,
+              "start": 54.1,
+              "end": 92.2,
+              "text": "Those are the average sizes of American's personal bubbles, anyway. It is important to keep in mind that personal space varies depending on culture and context. Furthermore, there are significant individual differences. As we all know, cultural or individual differences in personal bubble diameters are all too often the cause of discomfort. How did these personal bubbles arise? According to research, we begin to develop our individual sense of personal space around age 3 or 4. The sizes of our bubbles are fixed by our teens. These bubbles are constructed and monitored by the brain region involved in fear.",
+              "zh": "无论如何,这些是美国人个人气泡的平均大小。重要的是要记住,个人空间因文化和环境而异。此外,还存在显著的个体差异。众所周知,个人气泡直径的文化或个体差异往往是造成不适的原因。这些个人气泡是如何产生的？根据研究,我们在3岁或4岁左右开始发展我们个人的个人空间意识。我们气泡的大小在青少年时期就固定下来了。这些气泡是由与恐惧有关的大脑区域构建和监控的。"
+            }
+          ],
+          "audioDuration": 92.2,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What does research show about our personal space?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It keeps others away."
+                },
+                {
+                  "key": "B",
+                  "text": "It causes discomfort."
+                },
+                {
+                  "key": "C",
+                  "text": "It remains visible."
+                },
+                {
+                  "key": "D",
+                  "text": "It varies in size."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：Research shows, however, that we actually have bubbles of different sizes.信号：Research shows + however 转折 。答案句一头连了两个强信号：Research shows 是题干 What does research show 的原句对应，however 是转折信号，转折之…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 It keeps others away. 借用了原文 others can't enter 里的 others 来制造『听到 others 就想选』的诱惑；但原文说的是『别人进不来（指气泡的功能描述）』，并不是『研究发现』那条结论。研究发现的真意在转折 however 之后，不在转折之前。 借用原文：without causing discomfort",
+                "B": "原词陷阱：选项 It causes discomfort. 抓住了原文 without causing discomfort 里的 discomfort 来制造原词陷阱；但原文是说『别人进入气泡会带来不适』，描述的是『进入气泡的后果』，不是研究本身的结论。这条信息在 23 题才用得上，放到 22 题就是张冠李戴。 借用原文：an invisible bubble of space",
+                "C": "与原文相反：选项 It remains visible. 说气泡『一直可见』，而原文 an invisible bubble of space 明确说 invisible（看不见）。选项盗用了气泡这个话题，却把极性反过来了，是典型的极性反转陷阱。",
+                "D": "正确项：与答案句同义替换（bubbles of different sizes ↔ It varies in size. bubbles of different sizes = varies in size）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Research shows, however, that we actually have bubbles of different sizes.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What happens if a mere acquaintance enters our intimate space?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It makes us feel uncomfortable."
+                },
+                {
+                  "key": "B",
+                  "text": "It renders the acquaintance a stranger."
+                },
+                {
+                  "key": "C",
+                  "text": "It brings the acquaintance closer to us."
+                },
+                {
+                  "key": "D",
+                  "text": "It causes the bubble around us to vanish."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：A mere acquaintance entering our intimate space makes us uncomfortable.信号：题干定位词原句重现 。录音里 A mere acquaintance entering our intimate space 几乎是题干 a mere acquaintance enters our intimate…",
+              "optionAnalysis": {
+                "B": "过度推断：选项 It renders the acquaintance a stranger. 借用录音里反复出现的 acquaintance 和 strangers 来制造『听到原词就选』的诱惑；但原文从未说『熟人会变成陌生人』，只是分别为不同人群分配了不同空间。从『让人不适』推到『熟人变陌生人』属于过度推断。 借用原文：makes us uncomfortable",
+                "C": "与原文相反：选项 It brings the acquaintance closer to us. 说『把熟人拉近』，但原文 makes us uncomfortable 明确说会让我们不适，属于结果方向反了。同时它盗用了 acquaintance 这个原词来骗你选。",
+                "D": "未提及：选项 It causes the bubble around us to vanish. 借用整组核心词 bubble 来吸引点击，但录音从未说过『熟人进入亲密空间会让气泡消失』，只是说会让我们不舒服。bubble vanish 这一结果属于原文未提及。",
+                "A": "正确项：与答案句同义替换（makes us uncomfortable ↔ It makes us feel uncomfortable. 几乎逐词对应）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "A mere acquaintance entering our intimate space makes us uncomfortable.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "Where do people feel comfortable interacting with new acquaintances or strangers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "In personal space."
+                },
+                {
+                  "key": "B",
+                  "text": "In social space."
+                },
+                {
+                  "key": "C",
+                  "text": "Within a distance of 18 inches."
+                },
+                {
+                  "key": "D",
+                  "text": "Over 2 feet away from one another."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：Extending from 4 to 12 feet away from us is \"social space\". Here people feel comfortable conducting routine social interactions with new acquaintances or total strangers.信号：题干关键词原句重现 + 空间命名句 。录音里 new acquaintances or total strangers 几乎与题干 new acquaintances or strangers 一字不差对应；这句又紧…",
+              "optionAnalysis": {
+                "A": "张冠李戴：选项 In personal space. 借用了原文中的 personal space 这个原词，但录音里 personal space 是给『朋友和熟人』用的（friends and acquaintances 在『informal conversations』里使用），并不是给陌生人用的。配的人群对不上。 借用原文：18 inches in every direction",
+                "C": "原词陷阱：选项 Within a distance of 18 inches. 盗用了录音 18 inches 这个原词数字，但原文里 18 inches 是给 intimate space 的尺寸（只允许家人、宠物和最亲密的朋友进入），与题干问的『陌生人交往的距离』完全不是一回事。 借用原文：Extending from 4 to 12 feet away from us is \"social space\"",
+                "D": "原词陷阱：选项 Over 2 feet away from one another. 里的 2 feet 看起来很像录音里反复出现的几个距离数字，但录音里给陌生人/新熟人互动的距离是 4 to 12 feet，不是 2 feet。选项偷偷把数字换小了，是典型的数字偷换。",
+                "B": "正确项：与答案句同义替换（\"social space\" ↔ In social space. 专有概念名直接对应）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Extending from 4 to 12 feet away from us is \"social space\". Here people feel comfortable conducting routine social interactions with new acquaintances or total strangers.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "When are the sizes of our bubbles fixed?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "When we begin to feel fear."
+                },
+                {
+                  "key": "B",
+                  "text": "When we develop a sense of space."
+                },
+                {
+                  "key": "C",
+                  "text": "When we are 3 or 4 years old."
+                },
+                {
+                  "key": "D",
+                  "text": "When we enter our teens."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：The sizes of our bubbles are fixed by our teens.信号：题干原句重现 + 关键介词 by 。录音 The sizes of our bubbles are fixed by our teens 几乎逐词复述题干 the sizes of our bubbles fixed…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 When we begin to feel fear. 盗用了录音 the brain region involved in fear 里的 fear 来吸引点击，但原文从未把 fear 当作一个时间节点，只是顺带提到大脑里负责恐惧的区域参与构建气泡。这是把『脑区话题』偷换成『时间节点』。 借用原文：we begin to develop our individual sense of personal space around age 3 or 4",
+                "B": "答非所问：选项 When we develop a sense of space. 盗用了录音 we begin to develop our individual sense of personal space 里的 develop 和 sense of space，但这一句对应的动作是 develop（开始发展），不是题干问的 fixed（被定型）。同一段里两个动作各配一个时间，选项把动作和时间故意错配。 借用原文：around age 3 or 4",
+                "C": "张冠李戴：选项 When we are 3 or 4 years old. 直接盗用了录音里的数字 around age 3 or 4，但这个年龄绑的是『开始发展空间感』(develop)，不是『定型』(fixed)。题干问的是 fixed 的时间，故 3 or 4 岁是错配。",
+                "D": "正确项：与答案句同义替换（by our teens ↔ When we enter our teens. 介词短语 ↔ 时间状语从句）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "The sizes of our bubbles are fixed by our teens.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A number of studies have looked at how family life can affect productivity and satisfaction in the workplace. However, there has been 26______ little research on the influence of leisure activities. So Ciara Kelly and colleagues recruited 129 hobbyists to look at how the time spent on their hobbies 27______ their work life.\n\nThe researchers found that when participants spent longer than 28______ on their leisure activity, their belief in their ability to perform their job was strengthened. But this was only the 29______ when they had a serious hobby that was dissimilar to their job, or when their hobby was similar to their work but they only did it 30______ . When their hobby was both serious and similar to their job, then spending more time on it actually decreased their work 31______ .\n\nWhy might that be? To maintain a serious hobby, people need to invest significant psychological resources, say the authors—so if the activity has the same kinds of demands as their work, they may be left 32______ and unable to perform well at their job. But if their hobby is quite different from their career, it may not 33______ in the same way but instead help them develop other knowledge and skills that can 34______ their confidence at work. \"Consider a scientist who is a keen rock climber,\" says Kelly. \"Since climbing is so far 35______ from their day-to-day work activities, they can still recover from the demands of their job with plenty of resources.\""
+            },
+            {
+              "label": "词库",
+              "text": "A) boost\nB) case\nC) casually\nD) efficiency\nE) estate\nF) exhausted\nG) faculty\nH) interfere\nI) normal\nJ) prevalent\nK) relative\nL) removed\nM) scratch\nN) shaped\nO) surprisingly"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "boost"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "casually"
+                },
+                {
+                  "key": "D",
+                  "text": "efficiency"
+                },
+                {
+                  "key": "E",
+                  "text": "estate"
+                },
+                {
+                  "key": "F",
+                  "text": "exhausted"
+                },
+                {
+                  "key": "G",
+                  "text": "faculty"
+                },
+                {
+                  "key": "H",
+                  "text": "interfere"
+                },
+                {
+                  "key": "I",
+                  "text": "normal"
+                },
+                {
+                  "key": "J",
+                  "text": "prevalent"
+                },
+                {
+                  "key": "K",
+                  "text": "relative"
+                },
+                {
+                  "key": "L",
+                  "text": "removed"
+                },
+                {
+                  "key": "M",
+                  "text": "scratch"
+                },
+                {
+                  "key": "N",
+                  "text": "shaped"
+                },
+                {
+                  "key": "O",
+                  "text": "surprisingly"
+                }
+              ],
+              "answer": "O",
+              "type": "选词填空",
+              "analysis": "【答案】O（官方答案）\n应填 O) surprisingly\n【原文】However, there has been __(26)__ little research on the influence of leisure activities：However 表明\"家庭对工作影响研究很多，却出人意料地少有关于休闲的研究\"——surprisingly（令人惊讶地）正强调这种\"本该有却很少\"的反差。\nC) casually 语义不搭（随意地）：casually\"随意地\"修饰人做事的方式，casually little research 讲不通——研究数量\"少\"与\"随意\"无关，逻辑不成立。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "boost"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "casually"
+                },
+                {
+                  "key": "D",
+                  "text": "efficiency"
+                },
+                {
+                  "key": "E",
+                  "text": "estate"
+                },
+                {
+                  "key": "F",
+                  "text": "exhausted"
+                },
+                {
+                  "key": "G",
+                  "text": "faculty"
+                },
+                {
+                  "key": "H",
+                  "text": "interfere"
+                },
+                {
+                  "key": "I",
+                  "text": "normal"
+                },
+                {
+                  "key": "J",
+                  "text": "prevalent"
+                },
+                {
+                  "key": "K",
+                  "text": "relative"
+                },
+                {
+                  "key": "L",
+                  "text": "removed"
+                },
+                {
+                  "key": "M",
+                  "text": "scratch"
+                },
+                {
+                  "key": "N",
+                  "text": "shaped"
+                },
+                {
+                  "key": "O",
+                  "text": "surprisingly"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) shaped\n【原文】to look at how the time spent on their hobbies __(27)__ their work life呼应开篇 how family life can affect productivity——研究的正是爱好时间如何\"影响、塑造\"工作生活。shape（塑造、影响）与 affect 同义，是本句最贴的谓语动词。\nM) scratch 词义不搭：scratch\"抓挠\"，scratch their work life 语义荒谬，与\"研究爱好如何影响工作\"无关，纯靠词性蒙的人最易在此掉坑。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "boost"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "casually"
+                },
+                {
+                  "key": "D",
+                  "text": "efficiency"
+                },
+                {
+                  "key": "E",
+                  "text": "estate"
+                },
+                {
+                  "key": "F",
+                  "text": "exhausted"
+                },
+                {
+                  "key": "G",
+                  "text": "faculty"
+                },
+                {
+                  "key": "H",
+                  "text": "interfere"
+                },
+                {
+                  "key": "I",
+                  "text": "normal"
+                },
+                {
+                  "key": "J",
+                  "text": "prevalent"
+                },
+                {
+                  "key": "K",
+                  "text": "relative"
+                },
+                {
+                  "key": "L",
+                  "text": "removed"
+                },
+                {
+                  "key": "M",
+                  "text": "scratch"
+                },
+                {
+                  "key": "N",
+                  "text": "shaped"
+                },
+                {
+                  "key": "O",
+                  "text": "surprisingly"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) normal\n【原文】participants spent longer than __(28)__：longer than normal 是地道说法，意为\"花的时间比平常（正常水平）更长\"，normal 正好充当\"平常\"这个比较基准，与下文\"花更久会增强工作信心\"衔接。\nK) relative 被 longer 诱导但不成基准：relative\"相对的/亲戚\"，句中有比较级 longer 易让人误以为\"相对\"很搭，但 longer than relative 既不表常态也不成搭配，无法作\"比平常更久\"的基\nJ) prevalent 义为\"普遍的\"，不搭：prevalent\"普遍流行的\"，longer than prevalent 讲不通，与时间长短的比较基准无关。\nL) removed 义为\"远离的\"，留给 35 空：removed\"远离的\"用于 far removed from，longer than removed 不通；它是第 35 空的答案。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "boost"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "casually"
+                },
+                {
+                  "key": "D",
+                  "text": "efficiency"
+                },
+                {
+                  "key": "E",
+                  "text": "estate"
+                },
+                {
+                  "key": "F",
+                  "text": "exhausted"
+                },
+                {
+                  "key": "G",
+                  "text": "faculty"
+                },
+                {
+                  "key": "H",
+                  "text": "interfere"
+                },
+                {
+                  "key": "I",
+                  "text": "normal"
+                },
+                {
+                  "key": "J",
+                  "text": "prevalent"
+                },
+                {
+                  "key": "K",
+                  "text": "relative"
+                },
+                {
+                  "key": "L",
+                  "text": "removed"
+                },
+                {
+                  "key": "M",
+                  "text": "scratch"
+                },
+                {
+                  "key": "N",
+                  "text": "shaped"
+                },
+                {
+                  "key": "O",
+                  "text": "surprisingly"
+                }
+              ],
+              "answer": "B",
+              "type": "选词填空",
+              "analysis": "【答案】B（官方答案）\n应填 B) case\n【原文】But this was only the __(29)__ when…：this was only the case when… 意为\"只有在…时才是这种情况\"，the case 是地道固定搭配，承接上句\"花更久会增强信心\"并加上限定条件。\nE) estate 词义离题：estate\"房地产\"，the estate 与本句\"这只在…时成立\"的逻辑毫无关系。\nG) faculty 义偏不搭：faculty\"教员/才能\"，this was the faculty 不成话，无法表\"情况如此\"。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "boost"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "casually"
+                },
+                {
+                  "key": "D",
+                  "text": "efficiency"
+                },
+                {
+                  "key": "E",
+                  "text": "estate"
+                },
+                {
+                  "key": "F",
+                  "text": "exhausted"
+                },
+                {
+                  "key": "G",
+                  "text": "faculty"
+                },
+                {
+                  "key": "H",
+                  "text": "interfere"
+                },
+                {
+                  "key": "I",
+                  "text": "normal"
+                },
+                {
+                  "key": "J",
+                  "text": "prevalent"
+                },
+                {
+                  "key": "K",
+                  "text": "relative"
+                },
+                {
+                  "key": "L",
+                  "text": "removed"
+                },
+                {
+                  "key": "M",
+                  "text": "scratch"
+                },
+                {
+                  "key": "N",
+                  "text": "shaped"
+                },
+                {
+                  "key": "O",
+                  "text": "surprisingly"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) casually\n【原文】hobby was similar to their work but they only did it __(30)__与前半句 a serious hobby（认真的爱好）对照：but they only（只是）暗示这里是\"不认真、随便玩玩\"，casually（随意地）正好。\nhobby was similar to their work but they only did it __(30)__与前半句 a serious hobby（认真的爱好）对照：but they only（只是）暗示这里是\"不认真、随便玩玩\"，casually（随意地）正好。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "boost"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "casually"
+                },
+                {
+                  "key": "D",
+                  "text": "efficiency"
+                },
+                {
+                  "key": "E",
+                  "text": "estate"
+                },
+                {
+                  "key": "F",
+                  "text": "exhausted"
+                },
+                {
+                  "key": "G",
+                  "text": "faculty"
+                },
+                {
+                  "key": "H",
+                  "text": "interfere"
+                },
+                {
+                  "key": "I",
+                  "text": "normal"
+                },
+                {
+                  "key": "J",
+                  "text": "prevalent"
+                },
+                {
+                  "key": "K",
+                  "text": "relative"
+                },
+                {
+                  "key": "L",
+                  "text": "removed"
+                },
+                {
+                  "key": "M",
+                  "text": "scratch"
+                },
+                {
+                  "key": "N",
+                  "text": "shaped"
+                },
+                {
+                  "key": "O",
+                  "text": "surprisingly"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) efficiency\n【原文】与 work 搭配且贴合\"损耗工作表现\"主线\nB) case 搭配与逻辑都不合：case\"情况\"，decreased their work case 不成搭配，\"减少工作情况\"逻辑讲不通；case 该留给 the case 那种框架（第 29 空）。\nE) estate 词义离题（房地产）：estate意为房地产、庄园，work estate 不成搭配，更与全文\"爱好—工作信心\"主题毫无关系，纯属凑数干扰。\nG) faculty 义偏且不搭：faculty常指大学教员或人的官能/才能，work faculty 不是地道说法，也无法承接\"多花时间在爱好上反而减少了什么\"的语境，逻辑接不上。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "boost"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "casually"
+                },
+                {
+                  "key": "D",
+                  "text": "efficiency"
+                },
+                {
+                  "key": "E",
+                  "text": "estate"
+                },
+                {
+                  "key": "F",
+                  "text": "exhausted"
+                },
+                {
+                  "key": "G",
+                  "text": "faculty"
+                },
+                {
+                  "key": "H",
+                  "text": "interfere"
+                },
+                {
+                  "key": "I",
+                  "text": "normal"
+                },
+                {
+                  "key": "J",
+                  "text": "prevalent"
+                },
+                {
+                  "key": "K",
+                  "text": "relative"
+                },
+                {
+                  "key": "L",
+                  "text": "removed"
+                },
+                {
+                  "key": "M",
+                  "text": "scratch"
+                },
+                {
+                  "key": "N",
+                  "text": "shaped"
+                },
+                {
+                  "key": "O",
+                  "text": "surprisingly"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) exhausted\n【原文】前句说维持认真的爱好要 invest significant psychological resources，若爱好与工作要求相同，人就 left __(32)__ and unable to perform well——被掏空、累垮，exhausted（精疲力竭的）与\"and 后无法好好工作\"因果相承。\nI) normal 义为\"正常\"，与负面状态相反：normal\"正常的\"，be left normal and unable to perform well 自相矛盾——既正常又无法胜任，逻辑冲突；normal 该留给\"比平常\"的\nJ) prevalent 义为\"普遍的\"，不描述人：prevalent\"普遍流行的\"形容现象，不能形容\"人被弄成…的状态\"，left prevalent 讲不通。\nK) relative 义为\"相对的\"，不搭：relative\"相对的/亲戚\"，be left relative 既不表状态也无意义，与\"无法胜任工作\"接不上。\nL) removed 义为\"远离的\"，留给 35 空：removed\"远离的\"用于 far removed from，单独 left removed 不表\"累垮\"这种状态，它是第 35 空 far removed from 的答案。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "boost"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "casually"
+                },
+                {
+                  "key": "D",
+                  "text": "efficiency"
+                },
+                {
+                  "key": "E",
+                  "text": "estate"
+                },
+                {
+                  "key": "F",
+                  "text": "exhausted"
+                },
+                {
+                  "key": "G",
+                  "text": "faculty"
+                },
+                {
+                  "key": "H",
+                  "text": "interfere"
+                },
+                {
+                  "key": "I",
+                  "text": "normal"
+                },
+                {
+                  "key": "J",
+                  "text": "prevalent"
+                },
+                {
+                  "key": "K",
+                  "text": "relative"
+                },
+                {
+                  "key": "L",
+                  "text": "removed"
+                },
+                {
+                  "key": "M",
+                  "text": "scratch"
+                },
+                {
+                  "key": "N",
+                  "text": "shaped"
+                },
+                {
+                  "key": "O",
+                  "text": "surprisingly"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) interfere\n【原文】本句与上句构成转折：上句说相似爱好会把人掏空，But if their hobby is quite different from their career, it may not __(33)__ in the same way——若爱好与工作不同，就\"不会以同样方式干扰\"工作。interfere（干扰、妨碍）正好顶上这个\"不会妨碍\"，且 interfere 不及物，正合空后直接接 in the same way（无宾语）。\nA) boost 语义方向反（褒义）：boost\"提升\"是褒义，但 may not 否定 + But 转折要的是\"不会造成（负面）干扰\"，填 boost 成了\"不会提升\"，与\"帮助发展技能\"的下文自相矛盾。\nM) scratch 词义不搭：scratch\"抓挠\"，may not scratch in the same way 语义荒谬，与\"不会以同样方式妨碍工作\"无关。\nN) shaped 中性\"塑造\"接不上否定转折：shaped\"塑造\"中性，may not shape in the same way（不会以同样方式塑造）与上句\"耗尽资源\"的负面对照对不上；这里要的是负面动作的反面（不会干扰）。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "boost"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "casually"
+                },
+                {
+                  "key": "D",
+                  "text": "efficiency"
+                },
+                {
+                  "key": "E",
+                  "text": "estate"
+                },
+                {
+                  "key": "F",
+                  "text": "exhausted"
+                },
+                {
+                  "key": "G",
+                  "text": "faculty"
+                },
+                {
+                  "key": "H",
+                  "text": "interfere"
+                },
+                {
+                  "key": "I",
+                  "text": "normal"
+                },
+                {
+                  "key": "J",
+                  "text": "prevalent"
+                },
+                {
+                  "key": "K",
+                  "text": "relative"
+                },
+                {
+                  "key": "L",
+                  "text": "removed"
+                },
+                {
+                  "key": "M",
+                  "text": "scratch"
+                },
+                {
+                  "key": "N",
+                  "text": "shaped"
+                },
+                {
+                  "key": "O",
+                  "text": "surprisingly"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) boost\n【原文】与 confidence 正搭，承\"积极作用\"语境\nM) scratch 词义不搭（抓挠）：scratch意为抓、挠或\"从零开始（from scratch）\"，scratch their confidence 不成立，与\"增强信心\"毫无关系，是形义双重不搭的干扰。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "boost"
+                },
+                {
+                  "key": "B",
+                  "text": "case"
+                },
+                {
+                  "key": "C",
+                  "text": "casually"
+                },
+                {
+                  "key": "D",
+                  "text": "efficiency"
+                },
+                {
+                  "key": "E",
+                  "text": "estate"
+                },
+                {
+                  "key": "F",
+                  "text": "exhausted"
+                },
+                {
+                  "key": "G",
+                  "text": "faculty"
+                },
+                {
+                  "key": "H",
+                  "text": "interfere"
+                },
+                {
+                  "key": "I",
+                  "text": "normal"
+                },
+                {
+                  "key": "J",
+                  "text": "prevalent"
+                },
+                {
+                  "key": "K",
+                  "text": "relative"
+                },
+                {
+                  "key": "L",
+                  "text": "removed"
+                },
+                {
+                  "key": "M",
+                  "text": "scratch"
+                },
+                {
+                  "key": "N",
+                  "text": "shaped"
+                },
+                {
+                  "key": "O",
+                  "text": "surprisingly"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) removed\n【原文】far removed from=\"与…相去甚远\"固定搭配\n2023年12月英语四级真题第2套 完形填空（选词填空）的词库里有哪 15 个候选词、哪 5 个是干扰词？ 2023年12月英语四级真题第2套 完形填空（选词填空）的词库共 15 个词（A–O）：A) boost（动词/名词，提升、增强（信心、士气等））；B) case（名词，情况、事实）；C) casually（副词，随意地、漫不经心地）；D) efficiency（名词，效率）；E) estate（名词，房地产、庄园、财产）；F) exhausted（形容词，精疲力竭的）；G) faculty（名词，（大学）全体教员）；H) interfere（动词，干扰、妨碍）；I) normal（形容词/名词，正常的）；J) prevalent（形容词，普遍的、流行的）；K) relative（形容词/名词，相对的）；L) removed（形容词/动词，远离的、有距离的（far removed from=与…相去甚远））；M) scratch（动词/名词，抓、挠）；N) shaped（动词/形容词，塑造、影响（shape 的过去式/分词））；O) surprisingly（副词，令人惊讶地）。其中始终未被任何空选用的 5 个干扰词是：E) estate、G) faculty、J) prevalent、K) relative、M) scratch。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Attitudes towards paternity leave(陪产假) have drastically changed in America in the last five years as more fathers feel comfortable taking extended time off, but gender bias persists when it comes to career prospects and the home, according to a new study of working parents."
+            },
+            {
+              "label": "B",
+              "text": "Research by the Boston College Center for Work & Family, which surveyed new parents at four large US companies who were qualified for taking at least six weeks paid parental leave, found that 81% of the 1,240 employees surveyed said the notion of fathers taking leave has become more acceptable."
+            },
+            {
+              "label": "C",
+              "text": "Of those surveyed, 62% of fathers took the maximum amount of time off compared to 93% of mothers, and around three-quarters of workers said their employer was equally supportive of mothers and fathers taking parental leave and over half said leave policies had made workplace culture better."
+            },
+            {
+              "label": "D",
+              "text": "The US is one of only three countries in the world not to offer statutory(法定的) paid leave, but increasingly states and companies are starting to take up the issue. So far, eight states and the District of Columbia have their own paid family leave laws."
+            },
+            {
+              "label": "E",
+              "text": "Brad Harrington, executive director of the center and lead author of the study, estimates only 20% to 30% of companies in the US offer paid parental leave. He feels the research findings reflect an obvious change in corporate attitudes to new fathers taking time off."
+            },
+            {
+              "label": "F",
+              "text": "\"We did a study on paternity leave five years ago. Compared with those findings, these numbers were shocking to me. I did not expect 80% of people to say the organisation finds dads taking this leave acceptable and three-quarters to say it's equally supportive of women and men taking leave,\" Harrington said."
+            },
+            {
+              "label": "G",
+              "text": "The previous study found that nearly three-quarters of fathers saw two to four weeks as an appropriate duration for paternity leave and 76% said they would prefer not to take all their time off at once."
+            },
+            {
+              "label": "H",
+              "text": "Since then, there have been a number of legal cases against companies involving paternity leave—including cases against JPMorgan Chase and Estee Lauder—which have helped put pressure on companies to make their parental leave policies gender neutral."
+            },
+            {
+              "label": "I",
+              "text": "However, the study also shows how traditional gender roles endure both at work, where more women than men reported changes in their perceived career potential, and at home—even among workers who claim to have a strong desire for equality."
+            },
+            {
+              "label": "J",
+              "text": "The vast majority of men, 97%, said one of the top reasons to take leave was to share caregiving with their partner. But when they were asked about how caregiving and household tasks were divided, their answers painted a different picture. While about 75% of employees said both genders should give the same amount of care, the majority of men and nearly half of women admitted that in reality the female actually did most of it. A tiny fraction, 2%, of men said they did more of the childcare."
+            },
+            {
+              "label": "K",
+              "text": "Men and women's experiences of the return to work following parental leave were also considerably different. Of the women surveyed, 32% reported a downturn in their job satisfaction, while 14% said it increased. In comparison, 17% of men said their job satisfaction went down and 20% said it went up. Meanwhile, more women reported an increase in their responsibilities and manager expectations after childbirth. Half of the women said they used flexible work arrangements after becoming a parent, while just 27% of men did. Similar percentages of men and women said they enjoyed their careers and that it gave them a sense of achievement, while around half of women and 44% of men said it was a key part of their identity."
+            },
+            {
+              "label": "L",
+              "text": "On the subject of career advancement, 59% of women and 49% of men said leave could be limiting and both genders said they feared it would have an impact on their progress long-term. But on opportunity for promotion, more than double the number of women, 30% compared with 15% of men, believed their chances to be lower after becoming a parent. Despite progress, the struggle for women to reach the highest positions of power is demonstrated in this year's Fortune 500 list, which featured a record 33 female CEOs, but this still represents a tiny fraction of the total."
+            },
+            {
+              "label": "M",
+              "text": "Harrington said culture change depends on companies putting more focus on men and their responsibilities. \"By that I mean companies need to give men paternity leave and encourage men to take time off to be with their kids early on in the kids' life. They also need to recognise that men have to make significant adjustments when they become parents. Companies cannot do all these things to enhance women's advancement and then turn around and say, 'Oh, but we don't expect the men to take over for the women at home.'\""
+            },
+            {
+              "label": "N",
+              "text": "In May, the American Civil Liberties Union (ACLU) and Outten & Golden LLP announced a historic class-action $5m settlement with JPMorgan Chase on behalf of male employees who claim they were illegally denied access to paid parental leave. Derek Rotondo, 35, filed the discrimination charge against his company after he was allegedly told by his HR department that mothers were considered primary caregivers. Thus, they were allowed to take 16 weeks of paid parental leave. Fathers, however, could take just two weeks."
+            },
+            {
+              "label": "O",
+              "text": "The father of two from Columbus, Ohio, who still works at the company as an associate and investigator, said he has witnessed a \"domino effect(多米诺效应)\" across companies since the settlement, but that there is still substantial progress to be made towards changing attitudes towards paternity leave."
+            },
+            {
+              "label": "P",
+              "text": "\"I do think there's still some way to go…there's still going to be sort of the unstated expectation for new dads to essentially come right back to work, but I think the research is showing that's starting to change.\" He said equal parental leave is an essential component to creating gender equality in the workplace. \"The old standard of women staying home, having babies and cooking doesn't apply and hasn't applied for a long time.\""
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "In the absence of Federal legislation, some states in the US have passed laws concerning paid family leave.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】The US is one of only three countries in the world not to offer statutory(法定的) paid leave, but increasingly states and companies are starting to take up the issue. So far, eight states and the District of Columbia have their own paid family leave laws.\nThe US is one of only three countries in the world not to offer statutory(法定的) paid leave, but increasingly states and companies are starting to take up the issue. So far, eight states and the District of Columbia have their own paid family leave laws."
+            },
+            {
+              "number": 37,
+              "stem": "Most fathers admitted that even during their paternity leave they actually did much less childcare than the mother.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】While about 75% of employees said both genders should give the same amount of care, the majority of men and nearly half of women admitted that in reality the female actually did most of it. A tiny fraction, 2%, of men said they did more of the childcare.\nK段焦点是 Half of the women said they used flexible work arrangements after becoming a parent, while just 27% of men did，是另一侧面的数据，没有本句的\"父亲承认照护更少\"。"
+            },
+            {
+              "number": 38,
+              "stem": "According to one father, equal parental leave is indispensable to achieving gender equality in the workplace.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "P",
+                  "text": "Paragraph P"
+                }
+              ],
+              "answer": "P",
+              "type": "信息匹配",
+              "analysis": "【答案】P（强锚点）\n【原文】He said equal parental leave is an essential component to creating gender equality in the workplace.\nM段是 culture change depends on companies putting more focus on men and their responsibilities，说话人与具体主张都不同，没有\"平等育儿假是职场平等必要条件\"这句话。"
+            },
+            {
+              "number": 39,
+              "stem": "One survey indicated there is now less objection to paternity leave.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（弱锚点）\n【原文】Research by the Boston College Center for Work & Family, which surveyed new parents at four large US companies who were qualified for taking at least six weeks paid parental leave, found that 81% of the 1,240 employees surveyed said the notion of fathers taking leave has become more acceptable.\nF段是 these numbers were shocking to me 的主观反应，且与第40题的\"五年前对比\"绑定；本句无\"五年前\"也无\"惊讶\"，应落在B段的客观调查结论。"
+            },
+            {
+              "number": 40,
+              "stem": "Compared to five years ago, according to one researcher, many more people said their organisation gave the same support to men and women taking parental leave.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（强锚点）\n【原文】\"We did a study on paternity leave five years ago. Compared with those findings, these numbers were shocking to me. I did not expect 80% of people to say the organisation finds dads taking this leave acceptable and three-quarters to say it's equally supportive of women and men taking leave,\" Harrington said.\nB段是 81% of the 1,240 employees surveyed said the notion of fathers taking leave has become more acceptable，无时间对比，本句的\"五年前\"与\"对男女同等支持\"只在F段。"
+            },
+            {
+              "number": 41,
+              "stem": "One study finds that even workers who claim to desire gender equality stick to traditional gender roles both at work and at home.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（弱锚点）\n【原文】However, the study also shows how traditional gender roles endure both at work, where more women than men reported changes in their perceived career potential, and at home—even among workers who claim to have a strong desire for equality.\nJ段是 in reality the female actually did most of it，只覆盖家庭照护，本句的\"职场\"与\"声称渴望平等\"两个限定它都没有，故不是源头。"
+            },
+            {
+              "number": 42,
+              "stem": "The majority of workers surveyed said parental leave policies had improved workplace culture.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（弱锚点）\n【原文】Of those surveyed, 62% of fathers took the maximum amount of time off compared to 93% of mothers, and around three-quarters of workers said their employer was equally supportive of mothers and fathers taking parental leave and over half said leave policies had made workplace culture better.\n在受访者中，62%的父亲休满了最长假期，而母亲为93%；约四分之三的员工说雇主对父母双方休育儿假同等支持；超过半数的人说休假政策让职场文化变得更好。"
+            },
+            {
+              "number": 43,
+              "stem": "In spite of progress, the number of women in top positions of big companies remains extremely small.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "L",
+                  "text": "Paragraph L"
+                }
+              ],
+              "answer": "L",
+              "type": "信息匹配",
+              "analysis": "【答案】L（强锚点）\n【原文】Despite progress, the struggle for women to reach the highest positions of power is demonstrated in this year's Fortune 500 list, which featured a record 33 female CEOs, but this still represents a tiny fraction of the total.\n尽管有进步，女性争取最高权力职位的艰难，在今年的财富500强榜单中可见一斑——榜单上有创纪录的33位女性CEO，但这在总数中仍只占极小一部分。"
+            },
+            {
+              "number": 44,
+              "stem": "According to one estimate, less than one third of companies in the US provide paid parental leave.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】Brad Harrington, executive director of the center and lead author of the study, estimates only 20% to 30% of companies in the US offer paid parental leave.\nC段是 62% of fathers took the maximum amount of time off，讲的是休假员工比例，与本句\"提供带薪假的公司不到三分之一\"不是同一指标。"
+            },
+            {
+              "number": 45,
+              "stem": "A number of lawsuits have pressured companies to formulate gender neutral policies on parental leave.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（强锚点）\n【原文】Since then, there have been a number of legal cases against companies involving paternity leave—including cases against JPMorgan Chase and Estee Lauder—which have helped put pressure on companies to make their parental leave policies gender neutral.\n2023年12月英语四级真题第2套 长篇阅读（信息匹配） 第 1 篇 40. Compared to five years ago, according to one researcher, many more people said their organisation gave the same support to men and women taking parental leave. 这句陈述的信息出自第几段？为什么？ 2023年12月英语四级真题第2套 长篇阅读（信息匹配） 第 1 篇 第 40 句的信息出自 F 段（强锚点句）。F 段定位句为「\"We did a study on paternity leave five years ago. Compared with those findings, these numbers were shocking to me. I did not expect 80% of people to say the organisation finds dads taking this leave acceptable and three-quarters to say it's equally supportive of women and men taking leave,\" Harrington said.」（\"我们五年前做过一项关于陪产假的研究。与那些发现相比，这些数字让我震惊。我没想到80%的人会说组织认为父亲休这种假是可接受的，四分之三的人会说它对女性和男性休假给予同等支持，\"Harrington说。）。陈述句是对原文的同义改写（Compared to five years ago, according to one researcher ↔ We did a study on paternity leave five years ago；gave the same support to men and women taking parental leave ↔ three-quarters to say it's equally supportive of women and men taking leave）。与之话题相邻的 B 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Having a rival can keep you committed to achieving your goals and enhance your overall performance. But before you go out and find an entrepreneur to outcompete, it's important to understand and avoid the traps that often come with rivalry. After all, competitive rivalry can also hinder effective decision-making and increase your willingness to take risks, behaviors that can ultimately hurt your venture's success."
+            },
+            {
+              "label": "B",
+              "text": "Finding someone you're committed to outcompeting can be a great way to stay focused on your goals and push your venture to the next level. But when you're intently focused on outperforming your rivals, you may begin to develop a \"win-at-all-costs\" mentality that causes you to ignore how you achieve success. One group of researchers, for example, examined the link between rivalry and unethical behavior. They found that when people compete against their rivals, they are more willing to behave unethically to win. But such behavior may stain your reputation and strain relationships important to your success. One way to avoid this trap is to stop and reflect on what's important. While outperforming your rivals may provide short-term benefits, the loss of your integrity will have long-term consequences."
+            },
+            {
+              "label": "C",
+              "text": "One reason having a rival can enhance your venture's performance is that it creates a level of excitement that drives you to work harder. But this eagerness to win may also hurt your venture's success, particularly when it causes you to make impulsive, insensible decisions. But it's possible to avoid such costly mistakes by making a habit of engaging in critical thinking, such as considering opposing viewpoints and conducting cost-benefit analyses, especially for those decisions that are complex and can determine the future of your venture."
+            },
+            {
+              "label": "D",
+              "text": "The sense of eagerness that comes with having a rival can not only cause you to make poorer decisions, but it can also lead you to take greater risks that put your venture in peril. One way you can overcome the risk-inducing effects of rivalry that stand to endanger your venture's success is to remain attentive to your emotional state and actively monitor how such feelings are affecting your decision-making."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "How can competitive rivalry benefit entrepreneurs according to the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By enabling them to outcompete other entrepreneurs."
+                },
+                {
+                  "key": "B",
+                  "text": "By enabling them to make their venture a success."
+                },
+                {
+                  "key": "C",
+                  "text": "By helping them to reach long-term goals."
+                },
+                {
+                  "key": "D",
+                  "text": "By helping them to stay goal-oriented."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Having a rival can keep you committed to achieving your goals and enhance your overall performance.\nA) 答非所问：By enabling them to outcompete other entrepreneurs\"使其胜过其他创业者\"是\"拥有对手\"的前提情境，文章首段说的好处是专注目标、提升\nB) 过度推断：By enabling them to make their venture a success\"使其事业成功\"是夸大结果；原文只说 enhance your overall pe\nC) 无中生有：By helping them to reach long-term goals 多出 long-term\"长期\"这一限定；原文 achieving your goals 只说\"目\nD) ✓ 正确：keep you committed to achieving your goals ↔ helping them to stay goal-oriented 四项中只有 help"
+            },
+            {
+              "number": 47,
+              "stem": "What is one of the traps entrepreneurs may often fall into when competing with rivals?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They may adopt strategies that are bound to ruin their venture."
+                },
+                {
+                  "key": "B",
+                  "text": "They may resort to unethical means to outperform their rivals."
+                },
+                {
+                  "key": "C",
+                  "text": "They may be too eager to succeed while ignoring the huge labor cost."
+                },
+                {
+                  "key": "D",
+                  "text": "They may be intently focused on winning at the current market level."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】They found that when people compete against their rivals, they are more willing to behave unethically to win.\nA) 过度推断：strategies that are bound to ruin their venture 用 bound to\"必定\"把后果说死；原文 may stain your repu\nB) ✓ 正确：behave unethically to win ↔ resort to unethical means to outperform their rivals resort to\nC) 无中生有：ignoring the huge labor cost 里的 labor cost\"劳动成本\"文中从未提及；第2段讲的是忽视\"如何取胜\"的方式，不是忽视成本。\nD) 偷换概念：winning at the current market level 把第3段 next level 的\"层级\"挪来，原文从未说陷阱是\"只盯当前市场层级\"，属拼接错位。"
+            },
+            {
+              "number": 48,
+              "stem": "What are entrepreneurs advised to do to avoid traps that often accompany rivalry?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Deliberate on what really matters."
+                },
+                {
+                  "key": "B",
+                  "text": "Prioritize reaping immediate benefits."
+                },
+                {
+                  "key": "C",
+                  "text": "Estimate the long-term consequences."
+                },
+                {
+                  "key": "D",
+                  "text": "Reflect on what successes are achievable."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】One way to avoid this trap is to stop and reflect on what's important.\nA) ✓ 正确：reflect on what's important ↔ Deliberate on what really matters Deliberate on what really \nB) 与原文相反：Prioritize reaping immediate benefits\"优先攫取眼前利益\"恰与原文相悖：原文 the loss of your integrity will h\nC) 偷换概念：Estimate the long-term consequences\"评估长期后果\"取自原文 long-term consequences，但那是说明丧失诚信的代价，并非作者建议\nD) 偷换概念：Reflect on what successes are achievable 借用了原文 reflect on，却把宾语改成\"哪些成功可实现\"；原文反思的对象是 what's "
+            },
+            {
+              "number": 49,
+              "stem": "How can entrepreneurs avoid making impulsive and insensible decisions?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By engaging themselves in critical reasoning."
+                },
+                {
+                  "key": "B",
+                  "text": "By developing a habit of keeping their integrity."
+                },
+                {
+                  "key": "C",
+                  "text": "By criticizing themselves for previous poor performances."
+                },
+                {
+                  "key": "D",
+                  "text": "By refraining from being too excited about their successes."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】But it's possible to avoid such costly mistakes by making a habit of engaging in critical thinking, such as considering opposing viewpoints and conducting cost-benefit analyses, especially for those decisions that are complex and can determine the future of your venture.\nA) ✓ 正确：engaging in critical thinking ↔ engaging themselves in critical reasoning engaging themsel\nB) 张冠李戴：keeping their integrity\"保持诚信\"是第2段针对\"不道德行为\"的对策，与本段\"冲动决策\"无关，属跨段错位。\nC) 偷换概念：criticizing themselves for previous poor performances\"为以往糟糕表现自责\"文中没有依据；原文说的是 critical thin\nD) 偷换概念：refraining from being too excited about their successes\"别为成功太兴奋\"对错了对象；原文 eagerness to win "
+            },
+            {
+              "number": 50,
+              "stem": "How can entrepreneurs overcome the risk-inducing effects of rivalry?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By paying close attention to their current performance."
+                },
+                {
+                  "key": "B",
+                  "text": "By taking steps that stand to endanger their rivals' success."
+                },
+                {
+                  "key": "C",
+                  "text": "By monitoring how their decision-making impacts their mentality."
+                },
+                {
+                  "key": "D",
+                  "text": "By keeping their emotions in check to avoid making poor decisions."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】One way you can overcome the risk-inducing effects of rivalry that stand to endanger your venture's success is to remain attentive to your emotional state and actively monitor how such feelings are affecting your decision-making.\nA) 偷换概念：paying close attention to their current performance 把对象换成 current performance\"当前表现\"；原文要关注的\nB) 与原文相反：taking steps that stand to endanger their rivals' success\"采取危及对手成功的举措\"与原文相悖：原文 endanger yo\nC) 与原文相反：monitoring how their decision-making impacts their mentality 说\"监控决策如何影响心态\"，方向反了；原文是 how su\nD) ✓ 正确：remain attentive to your emotional state ↔ keeping their emotions in check how such feelin"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "A multitasker is one who can perform two or more tasks effectively at the same time, which—apart from the obvious differences—is similar to what a computer does. The concept does indeed come from the realms of technology, where it is used to refer to an operating system that can execute multiple tasks at the same time. However, the question is: can a person really be a multitasker?"
+            },
+            {
+              "label": "B",
+              "text": "For most scientists, the answer is no. So much so that, according to experts in neuroscience(神经系统科学), our brains do not handle multitasking situations well. As soon as two tasks require our attention, productivity suffers. What we call multitasking, therefore, is in reality the ability to move more or less quickly from one task to another. This requires two essential conditions: that one of the tasks needs to be automatic, like walking or eating, and that they both need different mental processes. Answering the phone and writing at the same time, for example."
+            },
+            {
+              "label": "C",
+              "text": "However, on the other side of the coin there are people who maintain that it is possible to be, or at least seem to be, multitasking. A recent study concluded that regardless of whether people are actually handling several tasks or not, the mere fact that they perceive this activity as multitasking has a positive effect on their performance."
+            },
+            {
+              "label": "D",
+              "text": "The business perspective offers a different view: multitasking is understood as the ability to adapt to all types of environment within a company and effectively undertake different activities within a set time frame. Indeed, many companies look for people who are skilled in multitasking to improve their productivity. From this different perspective, you can not only be multitasking but this ability can also be taught: something that is easier in fluid organisations, which favour flexibility in their working practices."
+            },
+            {
+              "label": "E",
+              "text": "The benefits of multitasking are clear. Being quicker and more efficient increases our performance and the number of tasks completed. But having to pay attention to several things at once means that the powers of concentration are reduced and that can lead to more mistakes."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What does a \"multitasker\" originally refer to?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "An operating system capable of doing several tasks at once."
+                },
+                {
+                  "key": "B",
+                  "text": "A skilled worker executing more than one task at the same time."
+                },
+                {
+                  "key": "C",
+                  "text": "A sophisticated technology doing several tasks effectively at once."
+                },
+                {
+                  "key": "D",
+                  "text": "An efficient person able to perform multiple tasks at the same time."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（词义句意题）\n【原文】The concept does indeed come from the realms of technology, where it is used to refer to an operating system that can execute multiple tasks at the same time.\nA) ✓ 正确：an operating system that can execute multiple tasks at the same time ↔ An operating system\nB) 偷换概念：A skilled worker（熟练工人）把主体说成人，而原词最初指的是操作系统，主体张冠李戴。\nC) 偷换概念：A sophisticated technology（一种复杂技术）只取了原文「来自科技领域」的背景，却没说成「操作系统」，主体被放大成笼统的「技术」，与原文具体所指不符。\nD) 答非所问：An efficient person（高效的人）把主体说成人，对应的是首句对 multitasker 的「现今」描述，而非题干要的「最初」所指，时间与主体都错。"
+            },
+            {
+              "number": 52,
+              "stem": "Why can't people really be multitaskers according to neuroscientists?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are not sufficiently exposed to multitasking situations."
+                },
+                {
+                  "key": "B",
+                  "text": "They are not comparable to mechanical operating systems."
+                },
+                {
+                  "key": "C",
+                  "text": "Their brains do not allow them to multitask."
+                },
+                {
+                  "key": "D",
+                  "text": "Their attention span cannot be expanded."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】So much so that, according to experts in neuroscience(神经系统科学), our brains do not handle multitasking situations well.\nA) 无中生有：not sufficiently exposed to multitasking situations（接触多任务情境不够）文中从未提及，原文讲的是大脑机能，不是接触多少。\nB) 答非所问：not comparable to mechanical operating systems（无法与机械操作系统相比）只是首段把人和电脑作类比的延伸，并非神经科学家给出的不能多任务\nC) ✓ 正确：our brains do not handle multitasking situations well ↔ Their brains do not allow them to \nD) 无中生有：attention span cannot be expanded（注意力广度无法扩展）文中并无此说，原文只说两项任务争夺注意力时效率下降，没谈注意力能否扩展。"
+            },
+            {
+              "number": 53,
+              "stem": "What do we learn from the conclusion of a recent study on multitasking?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "People make greater achievements by maintaining whatever they are doing is multitasking."
+                },
+                {
+                  "key": "B",
+                  "text": "People's performance benefits from the perception of what they are doing as multitasking."
+                },
+                {
+                  "key": "C",
+                  "text": "People's active mental processes exert a positive effect on their multitasking."
+                },
+                {
+                  "key": "D",
+                  "text": "People can improve their capabilities by handling multitasking situations."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】A recent study concluded that regardless of whether people are actually handling several tasks or not, the mere fact that they perceive this activity as multitasking has a positive effect on their performance.\nA) 偷换概念：maintaining whatever they are doing is multitasking 用 maintaining（坚持主张/坚持做）替换原文的 perceive（\nB) ✓ 正确：they perceive this activity as multitasking ↔ the perception of what they are doing as mul\nC) 张冠李戴：active mental processes（积极的心理过程）借的是第二段讲切换需要不同 mental processes 的内容，与本研究结论的「感知」无关。\nD) 与原文相反：improve their capabilities by handling multitasking situations 说「靠处理多任务来提升能力」，而原文强调的恰是「无论是"
+            },
+            {
+              "number": 54,
+              "stem": "How does the business world view multitasking?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is a rare skill often found in fluid organisations."
+                },
+                {
+                  "key": "B",
+                  "text": "It is an adaptable capability required of all workers."
+                },
+                {
+                  "key": "C",
+                  "text": "It is an essential quality many employees lack."
+                },
+                {
+                  "key": "D",
+                  "text": "It is a desirable ability that can be developed."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】From this different perspective, you can not only be multitasking but this ability can also be taught: something that is easier in fluid organisations, which favour flexibility in their working practices.\nA) 与原文相反：a rare skill（罕见技能）与原文 many companies look for people who are skilled in multitasking 矛盾——能\nB) 以偏概全：required of all workers（对所有员工的要求）把范围夸大成「全体员工」，原文只说 many companies look for people who are \nC) 无中生有：many employees lack（许多员工缺乏）文中并无此说，原文谈的是公司想要、能力可教，没有说员工普遍缺乏这种能力。\nD) ✓ 正确：many companies look for people who are skilled in multitasking ↔ a desirable ability this "
+            },
+            {
+              "number": 55,
+              "stem": "What does the author imply we should do if we have to focus on some task and do it well?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Work in a flexible way."
+                },
+                {
+                  "key": "B",
+                  "text": "Learn from mistakes."
+                },
+                {
+                  "key": "C",
+                  "text": "Avoid multitasking."
+                },
+                {
+                  "key": "D",
+                  "text": "Increase efficiency"
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（推断题）\n【原文】But having to pay attention to several things at once means that the powers of concentration are reduced and that can lead to more mistakes.\nA) 张冠李戴：Work in a flexible way（以灵活方式工作）取自第四段商业视角的 favour flexibility in their working practices，与末\nB) 无中生有：Learn from mistakes（从错误中学习）只是借了末段 mistakes 一词，原文说的是多任务会「导致」更多错误，从未建议「从错误中学习」。\nC) ✓ 正确：having to pay attention to several things at once means that the powers of concentration a\nD) 答非所问：Increase efficiency（提高效率）对应原文 Being quicker and more efficient，但那是多任务的「好处」一面，并非「要专注做好」的对策；"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n改革开放以来，中国人的饮食(diet)发生了显著变化。过去由于经济落后，食品种类有限、数量不足 ，人们仅仅满足于吃得饱。如今中国经济快速发展，食品不仅更加丰富多样，质量也大幅提高。随着生活水平不断提升，人们对饮食的要求越来越高，更加注重吃得营养健康。因此，目前市场上推出的低脂、低糖、有机食品受到人们的普遍欢迎。",
+              "analysis": "【参考译文】\nSince the reform and opening-up, the diet of Chinese people has undergone significant changes. In the past, due to the backward economy, food was limited in variety and insufficient in quantity, so people were content with merely having enough to eat. Today, with China's economy developing rapidly, food is not only more abundant and diverse but also greatly improved in quality. As living standards keep rising, people have increasingly higher demands for their diet and pay more attention to eating in a nutritious and healthy way. Therefore, the low-fat, low-sugar and organic food launched on the market today is widely welcomed by people."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2023-12-2/",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 64
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2023-12-2/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

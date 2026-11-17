@@ -20,6 +20,9 @@ type Props = {
   onToggleFavorite: () => void;
   onPrev: () => void;
   onNext: () => void;
+  /** 听力音频还在播：锁住下一题，避免没听到就跳题 */
+  nextBlocked?: boolean;
+  onStopAndNext?: () => void;
   onJumpPara: (label: string) => void;
   onOpenAI: () => void;
   onOpenComments: () => void;
@@ -47,6 +50,8 @@ export function QuestionPane({
   onToggleFavorite,
   onPrev,
   onNext,
+  nextBlocked = false,
+  onStopAndNext,
   onJumpPara,
   onOpenAI,
   onOpenComments,
@@ -212,13 +217,28 @@ export function QuestionPane({
           ))}
         </div>
 
+        {nextBlocked && (
+          <button
+            type="button"
+            onClick={onStopAndNext}
+            className="text-[11.5px] text-ink-mute underline-offset-2 hover:text-ink hover:underline"
+          >
+            停止播放并下一题
+          </button>
+        )}
+
         <button
           type="button"
           onClick={onNext}
-          disabled={isLast}
-          className="flex items-center gap-1.5 rounded-[6px] px-2.5 py-1.5 text-[13px] text-ink-soft transition-colors hover:bg-paper-deep disabled:opacity-30"
+          disabled={isLast || nextBlocked}
+          title={nextBlocked ? "音频还在播放，听完自动解锁" : undefined}
+          className={`flex items-center gap-1.5 rounded-[6px] px-2.5 py-1.5 text-[13px] transition-colors ${
+            nextBlocked
+              ? "cursor-not-allowed text-ink-mute/60"
+              : "text-ink-soft hover:bg-paper-deep disabled:opacity-30"
+          }`}
         >
-          下一题 →
+          {nextBlocked ? "🔒 播放中" : "下一题 →"}
         </button>
       </div>
     </section>

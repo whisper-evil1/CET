@@ -1,0 +1,2683 @@
+{
+  "id": "cet4-2023-06-s2",
+  "level": "CET4",
+  "year": 2023,
+  "month": 6,
+  "setNo": 2,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose the student union of your university is organizing an online discussion on interpersonal relationships. You are to write an essay on ways to maintain a warm and friendly relationship with your classmates and on the benefits of such a relationship. You will have 30 minutes f or the task. You should write at least 120 words but no more than 180 words .",
+              "analysis": "【参考范文】\nA warm and friendly relationship plays an important part in our campus life. Since we spend most of our time with classmates, it is worth thinking about how to maintain such a relationship and what benefits it can bring.\n\nThere are several practical ways to keep such a relationship close. First, we should communicate sincerely. For example, when a misunderstanding happens, we can simply talk it over honestly instead of staying cold. Besides, it also helps to support each other in study and daily life. When a classmate misses a lecture, sharing our notes and showing respect for different habits can quickly bring us closer.\n\nAs a result, such a relationship can bring us real benefits. It eases our pressure when courses get hard, pushes us to make progress together, and creates a strong sense of belonging in class. In short, building such warm bonds with our classmates is well worth our effort throughout the precious college years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "听力为历年真题原文，题目与答案为官方标准答案；在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 7.7,
+              "text": "Police have reported a man being bitten by a 4-foot snake when he lifted his toilet seat on Sunday morning.",
+              "zh": "警方报告称,周日早晨一名男子在掀开马桶盖时被一条4英尺长的蛇咬伤。"
+            },
+            {
+              "id": 2,
+              "start": 8.1,
+              "end": 17.7,
+              "text": "The snake was not poisonous, so the man did not have to go to the hospital, but his arm was medically treated at the scene.",
+              "zh": "这条蛇没有毒性,因此该男子无需前往医院,但他的手臂在现场接受了医疗处理。"
+            },
+            {
+              "id": 3,
+              "start": 18.1,
+              "end": 27.3,
+              "text": "The police officer interviewed told news reporters the snake didn't belong to the man and it was unclear how it got into the apartment.",
+              "zh": "接受采访的警官告诉新闻记者,这条蛇不属于该男子,目前尚不清楚它是如何进入公寓的。"
+            },
+            {
+              "id": 4,
+              "start": 27.7,
+              "end": 47.3,
+              "text": "The snake was eventually captured by the local animal handlers and taken to an animal hospital afterward. It was being treated for an outer skin infection. It was unclear who the owner was. The snake may be taken to a local zoo for care if the owner does not come forward.",
+              "zh": "这条蛇最终被当地动物处理人员捕获,随后被送往动物医院。它正在接受外层皮肤感染的治疗。目前尚不清楚主人是谁。如果主人不出现认领,这条蛇可能会被送到当地动物园照料。"
+            },
+            {
+              "id": 5,
+              "start": 47.6,
+              "end": 58,
+              "text": "Over the years, other creatures like frogs and fish have found their way into toilets. But this was the first instance of a snake in recent years.",
+              "zh": "多年来,青蛙和鱼等其他生物也曾以各种方式进入马桶。但这是近年来首次出现蛇的情况。"
+            }
+          ],
+          "audioDuration": 58,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What do we learn from the police report?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A man was bitten by a snake."
+                },
+                {
+                  "key": "B",
+                  "text": "A man was taken to a hospital."
+                },
+                {
+                  "key": "C",
+                  "text": "A man kept a 4-foot snake as a pet."
+                },
+                {
+                  "key": "D",
+                  "text": "A man fell off his toilet seat."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：Police have reported a man being bitten by a 4-foot snake when he lifted his toilet seat on Sunday morning.信号：新闻导语句即答案 。答案句就是 Police have reported a man being bitten by a 4-foot snake when he lifted his toilet seat on …",
+              "optionAnalysis": {
+                "B": "与原文相反：录音第二段明确说 the man did not have to go to the hospital——这位男子**没有**去医院，只是在现场处理了手臂。选项 A man was taken to a hospital. 盗用了原文的 hospital 一词却把否定砍掉，反成肯定，是典型\"听到 hospital 就想选\"的陷阱。 借用原文：a 4-foot snake",
+                "C": "原词陷阱：选项 A man kept a 4-foot snake as a pet. 把录音第 1 段里的 a 4-foot snake 原词搬过来，看似耳熟。但录音第 3 段明确说 the snake didn't belong to the man，蛇并不是男子的，更谈不上 kept…as a pet。这是\"听到原词就想选\"的原词陷阱。 借用原文：he lifted his toilet seat",
+                "D": "原词陷阱：选项 A man fell off his toilet seat. 借用了录音 he lifted his toilet seat 中的 toilet seat 这块\"熟面孔\"，但把动作偷换成了 fell off（从马桶上摔下来）。录音说的是\"他掀开马桶盖\"，根本没说他摔倒。这又是一处原词陷阱叠加偷换概念。",
+                "A": "正确项：与答案句同义替换（a man being bitten by a 4-foot snake ↔ A man was bitten by a snake. 非谓语转过去时·同义直接对应）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Police have reported a man being bitten by a 4-foot snake when he lifted his toilet seat on Sunday morning.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What does the report say was still unclear?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Where the snake had been taken."
+                },
+                {
+                  "key": "B",
+                  "text": "Whether the snake was infected."
+                },
+                {
+                  "key": "C",
+                  "text": "How the snake was captured."
+                },
+                {
+                  "key": "D",
+                  "text": "Who owned the snake."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：It was unclear who the owner was. The snake may be taken to a local zoo for care if the owner does not come forward.信号：unclear + who 直接锁定 。答案信号是 It was unclear who the owner was. 中的 unclear 一词——它与题干 still unclear 直接对应；unclear 后…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音 The snake was eventually captured by the local animal handlers and taken to an animal hospital afterward. 已经明确告诉我们蛇被送去了 animal hospital；之后还补了一句若无主认领\"可能送到当地动物园\"，去向并非\"unclear\"。选项 Where the snake had been taken. 借用 taken 这一原词制造\"哪里去了仍不清楚\"的错觉，实际录音对去向已交代。 借用原文：It was being treated for an outer skin infection.",
+                "B": "原词陷阱：录音 It was being treated for an outer skin infection. 明确说蛇正在因外皮感染接受治疗，感染状况已确认而非未明。选项 Whether the snake was infected. 把 infection 一词盗作诱饵，骗\"听到 infection 就想选\"的考生。 借用原文：The snake was eventually captured by the local animal handlers",
+                "C": "原词陷阱：录音 The snake was eventually captured by the local animal handlers 明确说蛇是被当地的\"动物管理员\"捕获的，捕获方式（由谁、怎么抓）已交代。选项 How the snake was captured. 直接挪用 captured 一词，把已说清的事伪装成 unclear，是经典原词陷阱。",
+                "D": "正确项：与答案句同义替换（It was unclear who the owner was. ↔ Who owned the snake. 名词转动词·who 从句同义重写）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "It was unclear who the owner was. The snake may be taken to a local zoo for care if the owner does not come forward.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 8.1,
+              "text": "Every week since last April, Andrea Belcher has been doing something slightly unusual and amusing when she takes out her trash.",
+              "zh": "自去年四月以来,每周当Andrea Belcher倒垃圾时,她都会做一件略显不寻常而有趣的事。"
+            },
+            {
+              "id": 2,
+              "start": 8.4,
+              "end": 21.5,
+              "text": "It all started off when a movie star shared a photo of herself putting her trash bins out in a ball gown. This inspired Andrea to get dressed up to take out the trash.",
+              "zh": "这一切始于一位电影明星分享了一张自己穿着晚礼服倒垃圾的照片。这启发了Andrea盛装打扮去倒垃圾。"
+            },
+            {
+              "id": 3,
+              "start": 21.9,
+              "end": 38.4,
+              "text": "She was too embarrassed to do it during the day. So one dark evening, she put on her black off-the-shoulder gown and put her trash bin out. Her daughter filmed it and the whole family laughed, but it seemed to go down well.",
+              "zh": "她白天不好意思这样做。所以在一个漆黑的夜晚,她穿上了黑色露肩礼服去倒垃圾桶。她女儿拍摄了这一幕,全家人都笑了,但效果似乎不错。"
+            },
+            {
+              "id": 4,
+              "start": 38.8,
+              "end": 58,
+              "text": "The following weeks, she found other outfits in her dressing-up box, and dressed up as different characters and famous people, sharing her exploits on social media. Before long, people started offering up their own fancy dresses for her to wear. And before she knew it, she had done 20 weeks.",
+              "zh": "接下来的几周,她从自己的装扮箱里找出其他服装,打扮成不同的角色和名人,在社交媒体上分享她的趣事。不久之后,人们开始主动提供自己的华丽服装给她穿。在她意识到之前,她已经坚持了20周。"
+            },
+            {
+              "id": 5,
+              "start": 58.4,
+              "end": 75.7,
+              "text": "Explaining why she has kept up the videos, Andrea explained how nice it was to have a little bit of fun and craziness that made people smile. Besides, it also helps to remind people in the community to put out their trash bins each week.",
+              "zh": "在解释为什么她一直坚持拍摄这些视频时, Andrea说能有一点乐趣和疯狂让人们微笑是多么美好。此外,这也有助于提醒社区里的人们每周倒垃圾桶。"
+            }
+          ],
+          "audioDuration": 75.7,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What has Andrea Belcher been doing since last April?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Taking her trash out in fancy dresses."
+                },
+                {
+                  "key": "B",
+                  "text": "Amusing herself by going to ball parties."
+                },
+                {
+                  "key": "C",
+                  "text": "Sharing her photos with famous movie stars."
+                },
+                {
+                  "key": "D",
+                  "text": "Posting her daughter's photos on social media."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：Every week since last April, Andrea Belcher has been doing something slightly unusual and amusing when she takes out her trash.信号：开篇点题句 + 时间状语锁定 。新闻开篇 Every week since last April 与题干 since last April 完全对应，时间状语就是答案信号；后半句 when she takes out…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音第2段提到 a movie star shared a photo of herself putting her trash bins out in a ball gown，ball gown（晚礼服）只是她穿的衣服样式，并不是说\"她去参加舞会\"。选项 B 把 ball 偷换成 ball parties，把\"穿礼服倒垃圾\"硬扭成\"去舞会自娱\"，是典型的原词陷阱。 借用原文：a movie star shared a photo of herself putting her trash bins out in a ball gown",
+                "C": "张冠李戴：录音第2段明确 a movie star shared a photo of herself putting her trash bins out in a ball gown——分享照片的人是那位明星，分享的内容是明星自己的照片。选项 C 把动作主语换成了 Andrea，把\"她和明星分享照片\"安到她头上，是张冠李戴。 借用原文：Her daughter filmed it",
+                "D": "张冠李戴：录音第3段说 Her daughter filmed it，是女儿帮她拍视频；第4段说 sharing her exploits on social media，分享的是\"她自己的事迹\"。选项 D 却说\"发布她女儿的照片\"，把\"女儿帮拍\"偷换成\"发布女儿的照片\"，主客颠倒。",
+                "A": "正确项：与答案句同义替换（doing something slightly unusual and amusing when she takes out her trash ↔ Taking her trash out in fancy dresses 概括 + 后文具体细化）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Every week since last April, Andrea Belcher has been doing something slightly unusual and amusing when she takes out her trash.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "Why has Andrea Belcher kept up her videos?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To make herself popular."
+                },
+                {
+                  "key": "B",
+                  "text": "To amuse people."
+                },
+                {
+                  "key": "C",
+                  "text": "To please her daughter."
+                },
+                {
+                  "key": "D",
+                  "text": "To record her achievements."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P5）：Explaining why she has kept up the videos, Andrea explained how nice it was to have a little bit of fun and craziness that made people smile.信号：结尾解释句直接对应题干 。录音第5段开头 Explaining why she has kept up the videos 与题干 Why has Andrea Belcher kept up her videos…",
+              "optionAnalysis": {
+                "A": "未提及：录音里完全没有出现 popular/famous 类的动机描述；她坚持的原因被明确说成 to have a little bit of fun and craziness that made people smile，与\"让自己出名\"无关。选项 A 是\"花絮新闻最常见的诱选动机\"——预读时已警惕。",
+                "C": "原词陷阱：录音第3段有 Her daughter filmed it and the whole family laughed，daughter 真的被念到，但只是说女儿帮她拍、全家笑——这不是她坚持的目的。选项 C 把 daughter 偷过来，硬安成\"为了讨女儿欢心\"，是典型原词陷阱。",
+                "D": "未提及：录音里既没有 record（记录）也没有 achievements（成就）类的表达；she had done 20 weeks 只是叙述事实，并非\"为了记录成就\"。选项 D 是凭\"长期坚持\"脑补出来的，与解释信号后给出的真实动机不符。",
+                "B": "正确项：与答案句同义替换（a little bit of fun and craziness that made people smile ↔ To amuse people made people smile = amuse people）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "Explaining why she has kept up the videos, Andrea explained how nice it was to have a little bit of fun and craziness that made people smile.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 18.1,
+              "text": "No money but still hungry? No problem! Welcome to Frank's restaurant where customers are paying for meals and leaving receipts on a board. Anyone who is hungry and wants something to eat can take one, no questions asked and hand it to the staff for some food.",
+              "zh": "没钱但仍然饿着？没问题！欢迎来到Frank's餐厅，这里的顾客为餐食付款后会把收据留在一块板子上。任何饿了想吃东西的人都可以拿走一张，无需回答任何问题，然后把它交给工作人员换取食物。"
+            },
+            {
+              "id": 2,
+              "start": 18.5,
+              "end": 38.8,
+              "text": "The idea for the board of free meals started after a donor came in with $100 for each member of its staff. After two staffers returned to their share, there was $700 leftover according to Tarah Morris, the owner of the restaurant, so they decided to do something more by creating the board.",
+              "zh": "免费餐食板的想法始于一位捐赠者带着100美元来给每位员工。据餐厅老板Tarah Morris说,两名员工退还了他们的份额后,还剩下700美元,于是他们决定通过创建这块板子来做更多的事情。"
+            },
+            {
+              "id": 3,
+              "start": 39.1,
+              "end": 54.9,
+              "text": "The board of free meals inside the restaurant shows a host of potential meals already paid for by customers, each costing about $10. The board has messages of kindness like, \"If you want more kindness in the world, put it here.\"",
+              "zh": "餐厅内的免费餐食板展示着许多已由顾客付款的潜在餐食,每份约10美元。板子上有善意的留言,比如\"如果你想让世界有更多善意,就把它放在这里。\""
+            },
+            {
+              "id": 4,
+              "start": 55.3,
+              "end": 77.6,
+              "text": "The drive has been going on for two weeks and Morris said just under 50 customers have picked up a free meal. There have been no reports of anyone taking advantage of the situation. In fact, there are a lot more people giving tickets than receiving. It seems people want to help and are driven by helping others.",
+              "zh": "这项活动已经进行了两周, Morris说有将近50位顾客领取了免费餐食。没有任何人利用这种情况的报告。事实上,给予餐券的人比领取的人多得多。似乎人们想要帮助他人,并被帮助他人所驱动。"
+            }
+          ],
+          "audioDuration": 77.6,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What can people do at Frank's restaurant?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Eat as much as they want for $10."
+                },
+                {
+                  "key": "B",
+                  "text": "Have a chance of winning a $100 prize."
+                },
+                {
+                  "key": "C",
+                  "text": "Have a meal even if they have no money."
+                },
+                {
+                  "key": "D",
+                  "text": "Get a free meal after answering some questions."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：No money but still hungry? No problem! Welcome to Frank's restaurant where customers are paying for meals and leaving receipts on a board. Anyone who is hungry and wants something to eat can take one, no questions asked and hand it to the staff for some food.信号：导语句直接点题 。开头连用两个设问 No money but still hungry? No problem!，紧接着用 Welcome to… 引出餐厅做法，这是新闻典型的导语式信号——把整则新闻的核心事实押在第…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音第三段确实提到每份饭 each costing about $10，但说的是每张小票背后对应的餐费，并非顾客只要付 $10 就能 Eat as much as they want；选项盗用 $10 这个原词，把它扭成自助式的随便吃，是典型的听到数字就想选式陷阱。 借用原文：a donor came in with $100 for each member of its staff",
+                "B": "录音第二段说 a donor came in with $100 for each member of its staff，$100 是某位捐赠者发给员工的人均款项，根本不是 a $100 prize 抽奖奖金；选项盗用 $100 这个原词，再嫁接 prize 制造抽奖联想。 借用原文：no questions asked",
+                "D": "录音里 no questions asked 明确说取餐时不需要回答任何问题，而 Get a free meal after answering some questions 偏偏要求顾客 answering some questions 才能得到免费餐，与原文方向相反；选项盗用 questions 这个原词，却反转了它的语义。",
+                "C": "正确项：与答案句同义替换（No money but still hungry? No problem! ↔ even if they have no money 设问反问 = 让步条件）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "No money but still hungry? No problem! Welcome to Frank's restaurant where customers are paying for meals and leaving receipts on a board. Anyone who is hungry and wants something to eat can take one, no questions asked and hand it to the staff for some food.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What does the owner of the restaurant say about the idea for the board of free meals?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was brought up by two staffers."
+                },
+                {
+                  "key": "B",
+                  "text": "It helped to popularize her restaurant."
+                },
+                {
+                  "key": "C",
+                  "text": "It originated from a donation to her staff."
+                },
+                {
+                  "key": "D",
+                  "text": "It was suggested by some of her customers."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：The idea for the board of free meals started after a donor came in with $100 for each member of its staff. After two staffers returned to their share, there was $700 leftover according to Tarah Morris, the owner of the restaurant, so they decided to do something more by creating the board.信号：according to + owner 的转述信号 。录音里 according to Tarah Morris, the owner of the restaurant 是典型的新闻转述信号，把整段缘起绑定到店主…",
+              "optionAnalysis": {
+                "A": "录音里 After two staffers returned to their share 说的是两名员工把分到的 $100 退了回来，他们的动作是 returned，而不是 brought up the idea；选项盗用 two staffers 这个原词，把退款人偷换为想法的提出者，是张冠李戴。 借用原文：they decided to do something more by creating the board",
+                "B": "未提及：店主谈的是 idea 怎么开始的，整段录音从未提及这块板让餐厅本身变得更出名或更受欢迎，popularize her restaurant 在原文中找不到对应信息，是用主题词撑起的无中生有项。",
+                "D": "录音里把 idea 的发起归到店主与员工的商量（they decided to do something more by creating the board），并未出现顾客建议的桥段；suggested by some of her customers 把提议人替换成 customers，与原文角色不符，是典型的张冠李戴。",
+                "C": "正确项：与答案句同义替换（The idea for the board of free meals started after a donor came in with $100 for each member of its staff ↔ originated from a donation started after = originated from）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The idea for the board of free meals started after a donor came in with $100 for each member of its staff. After two staffers returned to their share, there was $700 leftover according to Tarah Morris, the owner of the restaurant, so they decided to do something more by creating the board.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What has happened at Frank's restaurant since the board of free meals was created?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Fifty customers have offered donations."
+                },
+                {
+                  "key": "B",
+                  "text": "More people have been giving than taking."
+                },
+                {
+                  "key": "C",
+                  "text": "Many people have come to eat at the restaurant."
+                },
+                {
+                  "key": "D",
+                  "text": "Most staffers have received messages of kindness."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：The drive has been going on for two weeks and Morris said just under 50 customers have picked up a free meal. There have been no reports of anyone taking advantage of the situation. In fact, there are a lot more people giving tickets than receiving.信号：In fact 强调真正结论 。录音用 In fact, there are a lot more people giving tickets than receiving，In fact 是新闻里典型的强调真正结论…",
+              "optionAnalysis": {
+                "A": "录音里 just under 50 customers have picked up a free meal，50 这个数字指的是取走免费餐的顾客接近 50 人，而不是 Fifty customers have offered donations 提供捐款的人；选项盗用 50 这个原词数字，把动作从 picked up 偷换为 offered donations，是经典的数字原词陷阱。 借用原文：just under 50 customers have picked up a free meal",
+                "C": "Many people have come to eat at the restaurant 只说很多人来吃饭，是泛化的常识陈述；录音真正强调的是 giving 与 taking 的对比，而不是来店人数。选项盗用 people、eat、restaurant 这类高频主题词，制造听起来都对的错觉。 借用原文：The board has messages of kindness",
+                "D": "录音里 The board has messages of kindness like, \"If you want more kindness in the world, put it here.\" 说的是这块板上写满了暖心留言，并不是 Most staffers have received messages of kindness 大多数员工收到了暖心留言；选项盗用 messages of kindness 这一原词短语，把接受方从板偷换成员工，是张冠李戴。",
+                "B": "正确项：与答案句同义替换（there are a lot more people giving tickets than receiving ↔ More people have been giving than taking more…than 结构原样保留）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "The drive has been going on for two weeks and Morris said just under 50 customers have picked up a free meal. There have been no reports of anyone taking advantage of the situation. In fact, there are a lot more people giving tickets than receiving.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 6.9,
+              "text": "W: Welcome to our program, Friends and Relationships. Our guest today is psychologist Steve Pinker from McGill University.",
+              "zh": "W: 欢迎来到我们的节目《朋友与关系》。我们今天的嘉宾是来自McGill大学的心理学家Steve Pinker。"
+            },
+            {
+              "id": 2,
+              "start": 7.3,
+              "end": 9.6,
+              "text": "M: Glad to be here, Jane.",
+              "zh": "M: 很高兴来到这里, Jane。"
+            },
+            {
+              "id": 3,
+              "start": 9.9,
+              "end": 22.3,
+              "text": "W: Hi, Steve. Our question today is why friends suddenly disappear. They may block us on their social media accounts and stop responding to our emails. They simply vanish without a trace.",
+              "zh": "W: 你好, Steve。我们今天的问题是为什么朋友会突然消失。他们可能会在社交媒体账号上屏蔽我们,不再回复我们的邮件。他们就这样消失得无影无踪。"
+            },
+            {
+              "id": 4,
+              "start": 22.7,
+              "end": 31.5,
+              "text": "M: The answer may lie in childhood, the way the person related to their mom and dad. It's related to their attachment styles.",
+              "zh": "M: 答案可能在于童年时期,也就是这个人与父母相处的方式。这与他们的依恋类型有关。"
+            },
+            {
+              "id": 5,
+              "start": 31.9,
+              "end": 33.3,
+              "text": "W: Attachment styles?",
+              "zh": "W: 依恋类型?"
+            },
+            {
+              "id": 6,
+              "start": 33.6,
+              "end": 59.4,
+              "text": "M: Yeah. There are two different attachment styles: an anxious attachment style and an avoidant attachment style. When there is a relationship breakdown with their parents, children with an anxious attachment style scream and cry to get their parents to come back. But other children simply shut down and try to deal with their emotions by ignoring the situation. And these attachment styles carry on into adulthood.",
+              "zh": "M: 是的。有两种不同的依恋类型:焦虑型依恋和回避型依恋。当与父母的关系破裂时,焦虑型依恋的孩子会又哭又闹,想让父母回来。但另一些孩子只是封闭自己,试图通过忽视这种情况来处理自己的情绪。而这些依恋类型会延续到成年期。"
+            },
+            {
+              "id": 7,
+              "start": 59.8,
+              "end": 62.4,
+              "text": "W: Does avoidance reduce their stress levels?",
+              "zh": "W: 回避能降低他们的压力水平吗?"
+            },
+            {
+              "id": 8,
+              "start": 62.8,
+              "end": 70.4,
+              "text": "M: Not really. Their stress levels are actually the same as those experienced by the children who yell and scream.",
+              "zh": "M: 并不能。他们的压力水平实际上和那些大喊大叫的孩子经历的压力水平是一样的。"
+            },
+            {
+              "id": 9,
+              "start": 70.8,
+              "end": 74.2,
+              "text": "W: And I assume both might be termed insecure.",
+              "zh": "W: 我猜这两种都可以被称为不安全型。"
+            },
+            {
+              "id": 10,
+              "start": 74.5,
+              "end": 77.6,
+              "text": "M: Exactly. And it's a very insecure attachment.",
+              "zh": "M: 完全正确。这是一种非常不安全的依恋。"
+            },
+            {
+              "id": 11,
+              "start": 77.9,
+              "end": 83.3,
+              "text": "W: How does an insecure attachment affect relationships between friends, co-workers and romantic relationships?",
+              "zh": "W: 不安全型依恋如何影响朋友之间、同事之间以及恋爱关系?"
+            },
+            {
+              "id": 12,
+              "start": 83.6,
+              "end": 112.9,
+              "text": "M: It's the same as conflicts. So if you have a disagreement with a securely attached person, they're not going to panic. They're able to hear what the other person is saying and express their own feelings and thoughts effectively. However, an insecurely attached person won't. They might either attack you, get defensive, or just disappear from your life. To them, a difference, no matter how small in your eyes, signals the end of the relationship.",
+              "zh": "M: 和冲突的情况一样。所以如果你和一个安全型依恋的人产生分歧,他们不会惊慌失措。他们能够听进对方在说什么,并有效地表达自己的感受和想法。然而,不安全型依恋的人不会这样。他们可能会攻击你,变得防御性很强,或者直接从你的生活中消失。对他们来说,分歧,无论在你眼中多么微小,都预示着关系的终结。"
+            },
+            {
+              "id": 13,
+              "start": 113.3,
+              "end": 115.9,
+              "text": "W: That explains why they suddenly disappear.",
+              "zh": "W: 这就解释了为什么他们会突然消失。"
+            }
+          ],
+          "audioDuration": 115.9,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "What do we learn about the man?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He is a psychologist."
+                },
+                {
+                  "key": "B",
+                  "text": "He is a famous writer."
+                },
+                {
+                  "key": "C",
+                  "text": "He is a host for a TV program."
+                },
+                {
+                  "key": "D",
+                  "text": "He is a primary school teacher."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：Welcome to our program, Friends and Relationships. Our guest today is psychologist Steve Pinker from McGill University.信号：开场介绍嘉宾的固定句 。信号词是 Our guest today is psychologist——「今天的嘉宾是…」是访谈节目报身份的标志句，紧跟其后的名词就是嘉宾职业。",
+              "optionAnalysis": {
+                "B": "未提及：录音通篇没有提到男士是作家，He is a famous writer. 属于无中生有。",
+                "C": "原词陷阱：录音里 Welcome to our program 中的 program 确实是「节目」原词，He is a host for a TV program. 故意用 program 引诱，但说「欢迎收看节目」的是女主持人 Jane，男士是「嘉宾」(guest)，不是主持人。",
+                "D": "未提及：录音从头到尾未提及小学/教师/teach 等任何线索，He is a primary school teacher. 属于完全无中生有。",
+                "A": "正确项：与答案句同义替换（psychologist Steve Pinker ↔ He is a psychologist. 同词直给——但听清职业）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Welcome to our program, Friends and Relationships. Our guest today is psychologist Steve Pinker from McGill University.",
+              "type": "细节题"
+            },
+            {
+              "number": 9,
+              "stem": "What are the speakers mainly talking about?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Why social media accounts vanish without a trace."
+                },
+                {
+                  "key": "B",
+                  "text": "Why parents raise their children in different ways."
+                },
+                {
+                  "key": "C",
+                  "text": "Why people fail to respond to emails promptly."
+                },
+                {
+                  "key": "D",
+                  "text": "Why friends break off contact all of a sudden."
+                }
+              ],
+              "answer": "D",
+              "analysis": "主旨题。答案句（P3）：Our question today is why friends suddenly disappear. They may block us on their social media accounts and stop responding to our emails. They simply vanish without a trace.信号：Our question today is… 是节目抛题信号 。信号词是 Our question today is why friends suddenly disappear——访谈节目用 Our questio…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Why social media accounts vanish without a trace. 抠走了录音里的 social media accounts 和 vanish without a trace 两个原词，听到就想选；但录音说的是「朋友」会通过拉黑社交账号等方式消失，主体是「朋友」，不是「账号本身」——选项把「朋友消失」的一种具体表现错读成了主题，属以偏概全。 借用原文：The answer may lie in childhood",
+                "B": "录音确实在 The answer may lie in childhood, the way the person related to their mom and dad. 谈到了童年与父母关系，但那是嘉宾对「为什么朋友会突然消失」的解释；选项 Why parents raise their children in different ways. 把这个解释方向错抬成了主题，主题是「消失」不是「育儿方式」。 借用原文：stop responding to our emails",
+                "C": "原词陷阱：Why people fail to respond to emails promptly. 抠走了录音原词 stop responding to our emails，但「不回邮件」只是「朋友消失」的一种具体形态而已，把它当主题同样是以偏概全，且和 A 犯一样的错。",
+                "D": "正确项：与答案句同义替换（why friends suddenly disappear ↔ Why friends break off contact all of a sudden. 同义改写——disappear ↔ break off contact，suddenly ↔ all of a sudden）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Our question today is why friends suddenly disappear. They may block us on their social media accounts and stop responding to our emails. They simply vanish without a trace.",
+              "type": "主旨题"
+            },
+            {
+              "number": 10,
+              "stem": "How do children with an anxious attachment style react to a breakdown in their relationship with parents?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They simply shut themselves down."
+                },
+                {
+                  "key": "B",
+                  "text": "They avoid showing their emotions."
+                },
+                {
+                  "key": "C",
+                  "text": "They scream to get their parents back."
+                },
+                {
+                  "key": "D",
+                  "text": "They attempt to ignore the whole situation."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P6）：When there is a relationship breakdown with their parents, children with an anxious attachment style scream and cry to get their parents to come back. But other children simply shut down and try to deal with their emotions by ignoring the situation.信号：对照结构 anxious …. But other children … 。信号词是 But other children——嘉宾用 But 把两类孩子的反应并排对照。这种对照句是出题铁矿，正确反应几乎都在 But …",
+              "optionAnalysis": {
+                "A": "原词陷阱：They simply shut themselves down. 抠走了录音原词 simply shut down，听到 simply shut down 就想选；但录音明确说这是 But other children(另一类，即回避型)的反应，不是焦虑型的反应。 借用原文：try to deal with their emotions by ignoring the situation",
+                "B": "They avoid showing their emotions. 描述的是「回避情绪」，更接近回避型(But other children…try to deal with their emotions by ignoring)；焦虑型 scream and cry 反而是大力外露情绪，与本选项相反。 借用原文：try to deal with their emotions by ignoring the situation",
+                "D": "原词陷阱：They attempt to ignore the whole situation. 抠走的是录音原词 ignoring the situation，听到就想选；但这同样是 But other children 那一类(回避型)的反应，不是焦虑型的反应。",
+                "C": "正确项：与答案句同义替换（scream and cry to get their parents to come back ↔ They scream to get their parents back. 选项几乎是原句裁剪）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "When there is a relationship breakdown with their parents, children with an anxious attachment style scream and cry to get their parents to come back. But other children simply shut down and try to deal with their emotions by ignoring the situation.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What does the man say about insecurely attached people?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They may regard any difference as the end of a relationship."
+                },
+                {
+                  "key": "B",
+                  "text": "They are on better terms with friends and romantic partners."
+                },
+                {
+                  "key": "C",
+                  "text": "They try to express their feelings and thoughts effectively."
+                },
+                {
+                  "key": "D",
+                  "text": "They attach more value to their relationships with others."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P12）：However, an insecurely attached person won't. They might either attack you, get defensive, or just disappear from your life. To them, a difference, no matter how small in your eyes, signals the end of the relationship.信号：However + To them 双重信号锁定结论 。信号词一：However, an insecurely attached person won't——However 是转折信号，前面说安全型怎么处理，转折后才…",
+              "optionAnalysis": {
+                "B": "They are on better terms with friends and romantic partners. 是正面描述「和朋友/恋人相处更好」，但录音里嘉宾对不安全型的描述是 They might either attack you, get defensive, or just disappear from your life.，是关系处理失败的方向，选项与录音方向完全相反。 借用原文：They're able to hear what the other person is saying and express their own feelings and thoughts effectively.",
+                "C": "原词陷阱：They try to express their feelings and thoughts effectively. 抠走的是录音原词 express their own feelings and thoughts effectively，听到 express…effectively 就想选；但这句话是嘉宾对 securely attached(安全型)人的描述，不是问的不安全型。",
+                "D": "They attach more value to their relationships with others. 说「他们更看重关系」，录音通篇没有这种说法。相反，录音说他们把小分歧当作关系终结的信号，是「轻易抛弃关系」的方向，不是「更看重关系」。",
+                "A": "正确项：与答案句同义替换（To them, a difference, no matter how small in your eyes, signals the end of the relationship. ↔ They may regard any difference as the end of a relationship. 同义改写——signals ↔ regard…as，no matter how small ↔ any）"
+              },
+              "evidencePara": "P12",
+              "evidenceText": "However, an insecurely attached person won't. They might either attack you, get defensive, or just disappear from your life. To them, a difference, no matter how small in your eyes, signals the end of the relationship.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 3.1,
+              "text": "M: I hear you're going to Japan soon.",
+              "zh": "M: 我听说你快要去日本了。"
+            },
+            {
+              "id": 2,
+              "start": 3.5,
+              "end": 5,
+              "text": "W: Yes, that's right.",
+              "zh": "W: 是的，没错。"
+            },
+            {
+              "id": 3,
+              "start": 5.3,
+              "end": 8,
+              "text": "M: Could I ask you a favor?",
+              "zh": "M: 我能请你帮个忙吗？"
+            },
+            {
+              "id": 4,
+              "start": 8.3,
+              "end": 10.3,
+              "text": "W: Sure. What is it?",
+              "zh": "W: 当然可以。什么事？"
+            },
+            {
+              "id": 5,
+              "start": 10.7,
+              "end": 18.3,
+              "text": "M: I was wondering if you could get me some jeans while you're there. I'll pay you back, of course.",
+              "zh": "M: 我在想你在那儿的时候能不能帮我买条牛仔裤。当然我会还你钱的。"
+            },
+            {
+              "id": 6,
+              "start": 18.7,
+              "end": 25.2,
+              "text": "W: A pair of jeans? Okay. I don't see why not. But what's wrong with jeans here?",
+              "zh": "W: 一条牛仔裤？好吧。我觉得没问题。但这里的牛仔裤有什么不好吗？"
+            },
+            {
+              "id": 7,
+              "start": 25.6,
+              "end": 38.2,
+              "text": "M: Well, I just love good jeans and Japan happens to make the best in the world. My friend brought me a pair from there five years ago, and they still look new.",
+              "zh": "M: 嗯，我就是喜欢好牛仔裤，而日本恰好生产世界上最好的牛仔裤。我朋友五年前从那儿给我带了一条，现在看起来还跟新的一样。"
+            },
+            {
+              "id": 8,
+              "start": 38.6,
+              "end": 47.8,
+              "text": "W: Really? I had no idea Japan made jeans. I would have thought America made the best jeans because it's a typical American garment.",
+              "zh": "W: 真的吗？我完全不知道日本还生产牛仔裤。我还以为美国生产最好的牛仔裤呢，因为这是典型的美国服装。"
+            },
+            {
+              "id": 9,
+              "start": 48.1,
+              "end": 76.6,
+              "text": "M: Yeah, I thought so too. But it turns out Japan still has some very old mills with the traditional weaving tools used to make jeans the original way. It's a slower process of making clothing. But the end result is surely superior. Also, the fabric they use is of a higher quality and the dyes are natural. They have a denser weave, and are more durable than any other jeans in the world.",
+              "zh": "M: 是啊，我也是这么想的。但事实证明日本仍然有一些非常古老的工厂，使用传统的织布工具以原始方式制作牛仔裤。这是一种比较慢的服装制作工艺。但最终成品绝对更优质。而且，他们使用的面料质量更高，染料也是天然的。织得更密实，比世界上任何其他牛仔裤都更耐用。"
+            },
+            {
+              "id": 10,
+              "start": 76.9,
+              "end": 82.3,
+              "text": "W: That sounds cool. What size do you want and how much are they?",
+              "zh": "W: 听起来不错。你要什么尺码的，多少钱？"
+            },
+            {
+              "id": 11,
+              "start": 82.6,
+              "end": 94.2,
+              "text": "M: I have a 34 waist and size 30 or 32 in length. Either is fine. They should be around $500. But make double certain they are made in Japan.",
+              "zh": "M: 我腰围34，长度30或32都行。哪个都可以。大概500美元左右。但一定要再三确认是日本制造的。"
+            },
+            {
+              "id": 12,
+              "start": 94.5,
+              "end": 101.1,
+              "text": "W: $500? Boy, that's expensive. Do you typically spend that much on a pair of casual trousers?",
+              "zh": "W: 500美元？天哪，太贵了。你平时买休闲裤都花这么多钱吗？"
+            },
+            {
+              "id": 13,
+              "start": 101.4,
+              "end": 113.8,
+              "text": "M: They are a little pricey, yes. But they are very special. Bear in mind, they will last me several years and they're very fashionable too. I think they're totally worth it.",
+              "zh": "M: 确实是有点贵。但它们很特别。要知道，它们能穿好几年，而且也很时尚。我觉得完全值得。"
+            }
+          ],
+          "audioDuration": 113.8,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What makes the man choose to buy jeans made in Japan?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their price."
+                },
+                {
+                  "key": "B",
+                  "text": "Their color."
+                },
+                {
+                  "key": "C",
+                  "text": "Their quality."
+                },
+                {
+                  "key": "D",
+                  "text": "Their design."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P9）：Also, the fabric they use is of a higher quality and the dyes are natural. They have a denser weave, and are more durable than any other jeans in the world.信号：比较级 higher / denser / more durable 集中爆发 。the fabric they use is of a higher quality 与 more durable than any …",
+              "optionAnalysis": {
+                "A": "原词陷阱：原文 They should be around $500. 提到了具体价格，让粗心的考生听到数字就奔『price』；但价格出现在男士交代规格那段，根本不是他选择日本货的『理由』，男士选日本货的理由集中在第 9 段的质量描述，Their price. 是典型原词陷阱。 借用原文：they're very fashionable too",
+                "B": "未提及：全文没有出现任何关于 color 的描述，Their color. 属于无中生有；它和 quality/design 一样是『物品属性词』，被列在这里只为凑成四项并列结构干扰考生。",
+                "D": "原词陷阱：原文末段 they're very fashionable too 与 But they are very special 容易让人联想到『款式好』而选 Their design.；但 fashionable/special 在原文里是男士补充说明价格值不值时的次要修饰，不是他选『日本货』的核心理由——核心理由是第 9 段集中讲的质量。",
+                "C": "正确项：与答案句同义替换（the fabric they use is of a higher quality ↔ Their quality. 原文 higher quality 直接对应选项 quality）"
+              },
+              "evidencePara": "P9",
+              "evidenceText": "Also, the fabric they use is of a higher quality and the dyes are natural. They have a denser weave, and are more durable than any other jeans in the world.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "Why is the woman puzzled by the man's request?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Jeans are a typical American garment."
+                },
+                {
+                  "key": "B",
+                  "text": "America makes the best-known brands of jeans."
+                },
+                {
+                  "key": "C",
+                  "text": "America has the best weaving tools in the world."
+                },
+                {
+                  "key": "D",
+                  "text": "Jeans are available in a greater variety in America."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P8）：Really? I had no idea Japan made jeans. I would have thought America made the best jeans because it's a typical American garment.信号：心理动词过去式 had no idea / would have thought 。I had no idea Japan made jeans 与 I would have thought America made…",
+              "optionAnalysis": {
+                "B": "原词陷阱：原文 I would have thought America made the best jeans 与 more durable than any other jeans in the world 都出现了 best 类用语，容易误导考生选含 best-known 的 America makes the best-known brands of jeans.；但女士原话说的是 best jeans（最好的牛仔裤），不是 best-known brands（最知名的品牌），后者是偷换概念。 借用原文：Japan still has some very old mills with the traditional weaving tools",
+                "C": "张冠李戴：原文 Japan still has some very old mills with the traditional weaving tools 说的是『日本』有传统织布工具，America has the best weaving tools in the world. 把这条属性硬安到 America 头上，是典型张冠李戴；同时女士困惑的依据也不是『美国有最好的织布工具』，而是『牛仔裤是美国典型服饰』。",
+                "D": "未提及：原文从未做过『美国牛仔裤种类比日本多』的比较，Jeans are available in a greater variety in America. 凭空造出 greater variety 这一比较，属未提及。",
+                "A": "正确项：与答案句同义替换（it's a typical American garment ↔ Jeans are a typical American garment. 代词 it 还原为 jeans 后字面等同）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "Really? I had no idea Japan made jeans. I would have thought America made the best jeans because it's a typical American garment.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What does the man say about the dyes of Japanese jeans?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are artificial."
+                },
+                {
+                  "key": "B",
+                  "text": "They are natural."
+                },
+                {
+                  "key": "C",
+                  "text": "They are unique."
+                },
+                {
+                  "key": "D",
+                  "text": "They are special."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P9）：Also, the fabric they use is of a higher quality and the dyes are natural.信号：dyes are natural 是关键词后直接表语 。the dyes are natural——题干关键词 dyes 在原文里只出现一次，紧跟 are + 形容词 natural，完全是『关键词原句锁定 + 表语…",
+              "optionAnalysis": {
+                "A": "与原文相反：They are artificial. 是 the dyes are natural 的直接反义，原文明确说染料是天然的，artificial 与之极性相反，属于反向干扰。 借用原文：But the end result is surely superior.",
+                "C": "答非所问：原文整段 9 强调日本牛仔裤独特优良（traditional weaving tools / superior / denser weave），容易让人选 They are unique.；但题干特定问 dyes，原文给的形容词是 natural，unique 是把『整段对日本牛仔裤的整体评价』错位安到 dyes 头上。 借用原文：But they are very special.",
+                "D": "答非所问：原文 But they are very special. 中的 special 形容的是『日本牛仔裤这件物品』，不是 dyes；They are special. 把整体的 special 嫁接到了局部 dyes 上，与 C 同类错法。",
+                "B": "正确项：与答案句同义替换（the dyes are natural ↔ They are natural. 原词复现下的指代还原）"
+              },
+              "evidencePara": "P9",
+              "evidenceText": "Also, the fabric they use is of a higher quality and the dyes are natural.",
+              "type": "细节题"
+            },
+            {
+              "number": 15,
+              "stem": "What does the man say about Japanese jeans at the end of the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are for casual wearing."
+                },
+                {
+                  "key": "B",
+                  "text": "They are popular with boys."
+                },
+                {
+                  "key": "C",
+                  "text": "They are much too pricey."
+                },
+                {
+                  "key": "D",
+                  "text": "They are worth the price."
+                }
+              ],
+              "answer": "D",
+              "analysis": "态度观点题。答案句（P13）：They are a little pricey, yes. But they are very special. Bear in mind, they will last me several years and they're very fashionable too. I think they're totally worth it.信号：让步 but + 下结论 I think…totally worth it 。They are a little pricey, yes. But they are very special. 是让步转折，I thi…",
+              "optionAnalysis": {
+                "A": "原词陷阱：原文 Do you typically spend that much on a pair of casual trousers? 里 casual 出现在女士的反问中，并非男士对 Japanese jeans 的表态；They are for casual wearing. 直接搬走 casual 一词制造熟悉感，但题干特定问『男士说』，casual 不是男士的观点。 借用原文：They are a little pricey, yes.",
+                "B": "未提及：原文从未提到日本牛仔裤『在男生中流行』，They are popular with boys. 完全是从『jeans 这种衣物大众印象=年轻男孩穿的』的常识跳过来的，与录音内容无关。",
+                "C": "与原文相反：原文 They are a little pricey, yes. 确实承认贵，They are much too pricey. 把这句话强化为『贵得过分』；但男士紧跟一个 But 把态度翻到 totally worth it，C 只取了让步前半、丢了真意。much too pricey 的『过分嫌贵』也与男士的 a little pricey + 值得相矛盾。",
+                "D": "正确项：与答案句同义替换（I think they're totally worth it. ↔ They are worth the price. totally worth it 与 worth the price 同义）"
+              },
+              "evidencePara": "P13",
+              "evidenceText": "They are a little pricey, yes. But they are very special. Bear in mind, they will last me several years and they're very fashionable too. I think they're totally worth it.",
+              "type": "态度观点题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 16.2,
+              "text": "Every time I walk out of a superhero movie, I feel the same way. I experience a sense of longing, realizing that there should be more in life. The desire for adventure is a human one. Superhero films capture this desire perfectly.",
+              "zh": "每次走出超级英雄电影院，我都有同样的感受。我体验到一种渴望感，意识到生活中应该有更多东西。对冒险的渴望是人类共有的。超级英雄电影完美地捕捉了这种渴望。"
+            },
+            {
+              "id": 2,
+              "start": 16.6,
+              "end": 44.2,
+              "text": "The plot of each superhero film has become relatively predictable: the world is in peril, the world needs a hero, the hero is in peril, the hero resolves the peril, the hero saves the world. Each film has an attractive lead, several expensive explosions, a few jokes to lighten the mood, and numerous punches that land unrealistically well. Even though we basically know what will happen, we keep coming back for more.",
+              "zh": "每部超级英雄电影的情节都变得相对可预测：世界陷入危险，世界需要英雄，英雄陷入危险，英雄化解危险，英雄拯救世界。每部电影都有一个有魅力的主角、几场昂贵的爆炸、一些缓和气氛的笑话，以及无数不切实际地精准命中的拳头。尽管我们基本上知道会发生什么，我们还是不断回来观看更多。"
+            },
+            {
+              "id": 3,
+              "start": 44.6,
+              "end": 57.6,
+              "text": "The elites of our society have rejected superhero films. They say the films lack any form of artistry. These movies are criticized as being too simple. But they give the fans what they want—entertainment.",
+              "zh": "我们社会的精英阶层排斥超级英雄电影。他们说这些电影缺乏任何形式的艺术性。这些电影被批评为过于简单。但它们给粉丝想要的东西——娱乐。"
+            },
+            {
+              "id": 4,
+              "start": 58,
+              "end": 83.7,
+              "text": "No matter the form in which they reveal themselves, hero stories will always be present in life. It's not just about being entertained, but also being inspired. One author has mentioned that women desire to play an irreplaceable role in a great adventure. \"Most young women want to be a part of something grand, something important.\" It seems clear that this principle applies to men, as well.",
+              "zh": "无论以何种形式呈现，英雄故事将始终存在于生活中。这不仅关乎娱乐，也关乎激励。一位作者曾提到，女性渴望在一场伟大的冒险中扮演不可替代的角色。\"大多数年轻女性想成为宏大事物、重要事物的一部分。\"这一原则显然也适用于男性。"
+            },
+            {
+              "id": 5,
+              "start": 84,
+              "end": 94.4,
+              "text": "So next time you see your favorite superhero film, be entertained, but also be inspired. Let that small longing you feel motivate you to make a difference.",
+              "zh": "所以下次你观看最喜欢的超级英雄电影时，享受娱乐，但也要受到激励。让你感受到的那种微小渴望激励你去做出改变。"
+            }
+          ],
+          "audioDuration": 94.4,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "How does the speaker feel every time he walks out of a superhero movie?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He desires more in life."
+                },
+                {
+                  "key": "B",
+                  "text": "He wants to see it again."
+                },
+                {
+                  "key": "C",
+                  "text": "He feels as inspired as other audience members."
+                },
+                {
+                  "key": "D",
+                  "text": "He longs to become a superstar himself."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：Every time I walk out of a superhero movie, I feel the same way. I experience a sense of longing, realizing that there should be more in life.信号：题干与原文几乎同句开篇 。Every time I walk out of a superhero movie, I feel the same way. 这句与题干 every time he walks out …",
+              "optionAnalysis": {
+                "B": "未提及：He wants to see it again. 原文从头到尾没说“想再看一遍”，only 说每次走出影院都有同样的感受——这是把“every time（每次都）”误读成了“want to see again（想再看）”。",
+                "C": "原词陷阱：He feels as inspired as other audience members. 盗用了原文 being inspired 这个词，但原文是说“hero stories 让人 inspired”是普遍道理，且根本没说“和其他观众一样被启发”——加了“as … as other audience members”这层比较，是凭空添料。 借用原文：I experience a sense of longing",
+                "D": "He longs to become a superstar himself. 用了 longs 这个 long 的近义动词来引诱，但原文只说“渴望生活里有更多东西”，从未说“渴望自己也成为超级巨星”——这是把抽象的“渴望”过度具体化成“想当超级巨星”。",
+                "A": "正确项：与答案句同义替换（a sense of longing ↔ desires longing 与 desire 同义）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Every time I walk out of a superhero movie, I feel the same way. I experience a sense of longing, realizing that there should be more in life.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "What does the passage say about the plot of all superhero movies?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is rather unrealistic."
+                },
+                {
+                  "key": "B",
+                  "text": "It is extremely artistic."
+                },
+                {
+                  "key": "C",
+                  "text": "It is somewhat complicated."
+                },
+                {
+                  "key": "D",
+                  "text": "It is relatively predictable."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P2）：The plot of each superhero film has become relatively predictable: the world is in peril, the world needs a hero, the hero is in peril, the hero resolves the peril, the hero saves the world.信号：题干关键词 plot 原词复现 + 冒号定义式说明 。The plot of each superhero film has become relatively predictable 里 plot 与题干 the …",
+              "optionAnalysis": {
+                "A": "原词陷阱：It is rather unrealistic. 盗用了原文 numerous punches that land unrealistically well 里的 unrealistically，但原文说的是“拳头打得不真实”，是描写动作镜头，不是说整个 plot（剧情）不现实——把局部修饰偷换成整体判断。 借用原文：They say the films lack any form of artistry.",
+                "B": "张冠李戴：It is extremely artistic. 里 artistic 一词在原文出现的位置是第 3 段 They say the films lack any form of artistry.——是精英说“缺乏 artistry”，恰好与“extremely artistic”相反；且谈论对象是 films 整体而非 plot。 借用原文：These movies are criticized as being too simple.",
+                "C": "It is somewhat complicated. 与原文判断方向相反——第 3 段 These movies are criticized as being too simple. 明说被批评为 too simple（太简单），与 complicated（复杂）完全对立。",
+                "D": "正确项：与答案句同义替换（relatively predictable ↔ relatively predictable 原词原义直接复现）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The plot of each superhero film has become relatively predictable: the world is in peril, the world needs a hero, the hero is in peril, the hero resolves the peril, the hero saves the world.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What do the elites of American society think of superhero movies?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are biased against women."
+                },
+                {
+                  "key": "B",
+                  "text": "They are basically misleading."
+                },
+                {
+                  "key": "C",
+                  "text": "They are full of shootings."
+                },
+                {
+                  "key": "D",
+                  "text": "They are too simple."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：The elites of our society have rejected superhero films. They say the films lack any form of artistry. These movies are criticized as being too simple.信号：题干主语 elites 原词出现 + 三连否定评价 。The elites of our society have rejected superhero films. 中的 elites 与题干 the elites…",
+              "optionAnalysis": {
+                "A": "原词陷阱：They are biased against women. 盗用了原文 women desire to play an irreplaceable role 里的 women 一词，但第 4 段是作者引用作家观点说“女性想参与伟大冒险”，跟精英的看法毫无关系；且原文从未说电影“对女性有偏见”。",
+                "B": "过度推断：They are basically misleading. 用 misleading 替换了原文里的批评，但原文精英的批评只有“lack artistry”和“too simple”，没有任何“误导观众”的意思——属于自行升级原文负评的过度推断。",
+                "C": "未提及：They are full of shootings. 里的 shootings（枪战）一词在原文里根本没出现，唯一接近的是 numerous punches（拳头），但 punches 是打斗、不是枪战，且这是讲套路不是精英观点。",
+                "D": "正确项：与答案句同义替换（These movies are criticized as being too simple. ↔ They are too simple. 被动转主动 + too simple 原词复现）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "The elites of our society have rejected superhero films. They say the films lack any form of artistry. These movies are criticized as being too simple.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 19.6,
+              "text": "Telling stories is one of the most powerful means leaders have to influence, teach and inspire. Storytelling forges connections among people. When it comes to our countries, our communities, and our families, we understand instinctively that the stories we hold in common are an important part of the ties that bind.",
+              "zh": "讲故事是领导者用来影响、教导和激励他人的最有力手段之一。讲故事能在人与人之间建立联系。当涉及我们的国家、我们的社区和我们的家庭时,我们本能地理解,我们共同拥有的故事是维系彼此纽带的重要组成部分。"
+            },
+            {
+              "id": 2,
+              "start": 20,
+              "end": 31.1,
+              "text": "This understanding also holds true in the business world, where an organization's stories, and the stories its leaders tell, help solidify relationships in a way that factual statements don't.",
+              "zh": "这种理解在商业世界中同样适用,在那里,一个组织的故事以及其领导者讲述的故事,能以一种事实陈述所无法做到的方式帮助巩固关系。"
+            },
+            {
+              "id": 3,
+              "start": 31.5,
+              "end": 55.7,
+              "text": "Good stories do more than create a sense of connection. They build familiarity and trust. They allow the listener to enter the story, making them more open to learning. Good stories can contain multiple meanings, so they're surprisingly economical in conveying complex ideas in graspable ways. And stories are more engaging than the recital of data points or a discussion of abstract ideas.",
+              "zh": "好的故事不仅仅能创造一种联系感。它们建立熟悉感和信任。它们让听众进入故事之中,使他们更愿意学习。好的故事可以包含多重含义,因此它们在以可理解的方式传达复杂思想方面出人意料地经济高效。而且故事比罗列数据点或讨论抽象概念更具吸引力。"
+            },
+            {
+              "id": 4,
+              "start": 56.1,
+              "end": 91.8,
+              "text": "Stories about professional mistakes and what leaders learned from them are another great avenue for learning. Because people identify so closely with stories, they can imagine how they would have acted in similar circumstances. They're able to work through situations in a way that's risk-free. There are extra benefits for leaders: with a simple personal story, they can convey fundamental values. They can offer insight into the evolution of their own experience and knowledge, presenting themselves as more approachable and then they are more likely to inspire others to want to know more.",
+              "zh": "关于职业错误以及领导者从中学到的经验的故事是另一条很好的学习途径。因为人们与故事产生如此紧密的认同,他们可以想象自己在类似情况下会如何行动。他们能够以一种零风险的方式来处理各种情境。对领导者来说还有额外的好处:通过一个简单的个人故事,他们可以传达基本价值观。他们可以深入展现自己经验和知识的演变过程,使自己显得更平易近人,从而更有可能激发他人想要了解更多的愿望。"
+            }
+          ],
+          "audioDuration": 91.8,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "What does the passage say about storytelling?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It can highlight leadership."
+                },
+                {
+                  "key": "B",
+                  "text": "It can help connect people."
+                },
+                {
+                  "key": "C",
+                  "text": "It is a means to inspire creative thinking."
+                },
+                {
+                  "key": "D",
+                  "text": "It is an intuitive way to solidify friendship."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：Storytelling forges connections among people.信号：首段并列直陈句 。这是录音开头一气连说的核心结论之一：Telling stories is one of the most powerful means leaders have to influence, teac…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音首句出现 means leaders have to influence, teach and inspire，A 项把 leaders 与 leadership 嫁接成 highlight leadership，听到 leaders 就想选 A 是典型原词陷阱；但原文是说『讲故事是领导者影响他人的手段』，并未说讲故事能突显领导力。 借用原文：influence, teach and inspire",
+                "C": "原词陷阱：录音里出现 influence, teach and inspire，inspire 的宾语并不是 creative thinking；C 项把 inspire 抓出来后强行接上 creative thinking，构成『词对了搭配错了』的原词陷阱。 借用原文：help solidify relationships",
+                "D": "偷换概念：原文第二段确实有 help solidify relationships，D 项把 solidify 留住、把 relationships 偷换成 friendship，缩小了范围。讲故事建立的是各种关系（包括职场关系），不专指友谊。",
+                "B": "正确项：与答案句同义替换（forges connections among people ↔ help connect people 动词同义＋名转动）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Storytelling forges connections among people.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What can good stories do to listeners according to the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Allow them to recite data points."
+                },
+                {
+                  "key": "B",
+                  "text": "Make them more open to learning."
+                },
+                {
+                  "key": "C",
+                  "text": "Enable them to remember the main idea."
+                },
+                {
+                  "key": "D",
+                  "text": "Stimulate them to engage in discussions."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：They allow the listener to enter the story, making them more open to learning.信号：主语 They + listener 直接出现 。第三段开头 Good stories do more than create a sense of connection. 起句后，紧跟一句 They allow t…",
+              "optionAnalysis": {
+                "A": "与原文相反：录音里讲 more engaging than the recital of data points，意思是故事比『罗列数据』更吸引人——『让听众背数据』恰恰是讲故事要避免的反例。A 项把这个反向参照偷换成『允许他们背数据』，方向反了。 借用原文：conveying complex ideas in graspable ways",
+                "C": "偷换概念：录音说 Good stories can contain multiple meanings, so they're surprisingly economical in conveying complex ideas in graspable ways.，意思是故事能以可理解的方式传达复杂观点，但没说『让听者记住 main idea』。C 项把 graspable ways 与 conveying ideas 模糊归并成『记住主旨』，属于概念偷换。 借用原文：a discussion of abstract ideas",
+                "D": "原词陷阱：录音里既出现 more engaging than the recital of data points or a discussion of abstract ideas，D 项就把 engage 和 discussion 拼凑成 engage in discussions，但原文是把『抽象观点的讨论』当成对照面，并不是说故事让听者参与讨论。",
+                "B": "正确项：与答案句同义替换（making them more open to learning ↔ more open to learning 几乎原句搬运）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "They allow the listener to enter the story, making them more open to learning.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What can leaders do with a simple personal story?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Inspire listeners' imagination."
+                },
+                {
+                  "key": "B",
+                  "text": "Convey fundamental values."
+                },
+                {
+                  "key": "C",
+                  "text": "Enrich their own experience."
+                },
+                {
+                  "key": "D",
+                  "text": "Explain insightful ideas."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：with a simple personal story, they can convey fundamental values.信号：题干双锚点同句出现 。第四段中 with a simple personal story, they can convey fundamental values 一句同时出现 simple personal stor…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音末句出现 they are more likely to inspire others to want to know more，A 项把 inspire 抓出来后接上 listeners' imagination，但原文是说激发别人『想了解更多』而非激发『想象力』；inspire 的宾语被偷换了。 借用原文：offer insight into the evolution of their own experience and knowledge",
+                "C": "张冠李戴：录音里 They can offer insight into the evolution of their own experience and knowledge，their own experience 指的是 leaders 自己的经验，而且动作是『提供洞察』而非『丰富经验』；C 项把『让别人看见自己的经验』偷换成『丰富他们的经验』，主体与动作都偏了。 借用原文：offer insight into the evolution of their own experience and knowledge",
+                "D": "原词陷阱：录音里出现 offer insight into the evolution of their own experience and knowledge，D 项 Explain insightful ideas. 用 insightful 这个同根词钓人，但原文动作是『提供对自身经验演变的洞见』，不是『解释富有洞见的观点』；同根词＋搭配错位是典型陷阱。",
+                "B": "正确项：与答案句同义替换（convey fundamental values ↔ Convey fundamental values 原句搬运）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "with a simple personal story, they can convey fundamental values.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 7.3,
+              "text": "The U.S. was founded by successive waves of immigrants, and immigrants are still contributing to America today—statistics prove it.",
+              "zh": "美国是由一波又一波的移民建立起来的,移民至今仍在为美国做出贡献——统计数据证明了这一点。"
+            },
+            {
+              "id": 2,
+              "start": 7.6,
+              "end": 11.9,
+              "text": "On two key measures of financial performance, immigrants outperform native-born Americans.",
+              "zh": "在衡量财务表现的两个关键指标上,移民的表现优于本土出生的美国人。"
+            },
+            {
+              "id": 3,
+              "start": 12.3,
+              "end": 33,
+              "text": "First, they are more likely to be entrepreneurs. From 1996 to 2016, the pace at which immigrants started businesses was double that of U.S.-born individuals. Immigrants aren't just becoming entrepreneurs more frequently. They're often succeeding. Over 40% of Fortune 500 companies had a founder who was either an immigrant or the child of one.",
+              "zh": "首先,他们更有可能成为企业家。从1996年到2016年,移民创业的速度是美国本土出生者的两倍。移民不仅更频繁地成为企业家,而且往往取得成功。超过40%的财富500强企业的创始人是移民或移民子女。"
+            },
+            {
+              "id": 4,
+              "start": 33.4,
+              "end": 59.1,
+              "text": "Another key measure of financial strength is debt level. Immigrants do better in this area too. Immigrants use credit less often for purchasing cars, homes or starting businesses. This results in significantly lower levels of debt than native-born Americans. For example, 34% of Americans born in Latin America report no credit card or installment loan debt. This can be compared to just 19% of the general population.",
+              "zh": "另一个衡量财务实力的关键指标是负债水平。移民在这方面也表现更好。移民较少使用信贷购买汽车、房屋或创业,因此其负债水平显著低于本土出生的美国人。例如,34%的拉丁美洲出生的美国人表示没有信用卡或分期贷款债务,而整体人口中这一比例仅为19%。"
+            },
+            {
+              "id": 5,
+              "start": 59.5,
+              "end": 67.9,
+              "text": "Why are immigrants doing so well? The values and habits they bring from their own homelands help explain some of the success.",
+              "zh": "为什么移民表现如此出色?他们从祖国带来的价值观和习惯有助于解释部分成功原因。"
+            },
+            {
+              "id": 6,
+              "start": 68.3,
+              "end": 91.7,
+              "text": "Unemployment tends to be higher in developing countries. That means more people must become entrepreneurs. Credit is also scarcer in most developing countries. This means individuals must save more in order to achieve their goals, or they borrow money from friends and family rather than a bank. That means less debt and potentially better credit outcomes when they reach the U.S.",
+              "zh": "发展中国家的失业率往往更高,这意味着更多人必须成为企业家。在大多数发展中国家,信贷也更加稀缺,这意味着个人必须储蓄更多才能实现目标,或者从朋友和家人而非银行借钱,这意味着更少的债务,并且在他们到达美国时可能获得更好的信用结果。"
+            }
+          ],
+          "audioDuration": 91.7,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What does the passage say statistics prove?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Immigrants outnumber U.S.-born Americans."
+                },
+                {
+                  "key": "B",
+                  "text": "Immigrants have been contributing to the U.S."
+                },
+                {
+                  "key": "C",
+                  "text": "Another wave of immigrants is hitting the U.S."
+                },
+                {
+                  "key": "D",
+                  "text": "The number of immigrants to the U.S. is declining."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：The U.S. was founded by successive waves of immigrants, and immigrants are still contributing to America today—statistics prove it.信号：开头点题 + 题干关键词 statistics 原词出现 。这句话出现在 P1，正是篇章的开篇点题句；题干里的关键词 statistics prove 在原文里以 statistics prove it 原词出现，i…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 Immigrants outnumber U.S.-born Americans. 把录音里反复出现的 immigrants 和后文 U.S.-born individuals 拼到一起，编造出「移民人数超过本土美国人」的关系，但原文从未比较两群体的人数。 借用原文：The U.S. was founded by successive waves of immigrants",
+                "C": "原词陷阱：选项 Another wave of immigrants is hitting the U.S. 盗用了原文 successive waves of immigrants 里的 wave 一词，但原文说的是「美国由一波波移民建立」，不是「现在又来一波」，时间和事件都被改了。 借用原文：immigrants are still contributing to America today",
+                "D": "与原文相反：选项 The number of immigrants to the U.S. is declining. 说移民数量在下降，但原文 immigrants are still contributing to America today 强调的是移民在持续贡献，且后文还说从 1996 到 2016 移民创业速度是本土的两倍，整体方向是积极的，不存在数量下降。",
+                "B": "正确项：与答案句同义替换（immigrants are still contributing to America today ↔ Immigrants have been contributing to the U.S. are still contributing today 与 have been contributing 的时态同义改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The U.S. was founded by successive waves of immigrants, and immigrants are still contributing to America today—statistics prove it.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What do we learn about immigrants in the U.S., compared with native-born Americans?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "More of them expect their children to succeed in business."
+                },
+                {
+                  "key": "B",
+                  "text": "They have fewer chances to be hired by U.S. companies."
+                },
+                {
+                  "key": "C",
+                  "text": "They have founded most Fortune 500 companies."
+                },
+                {
+                  "key": "D",
+                  "text": "More of them are successful business people."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：From 1996 to 2016, the pace at which immigrants started businesses was double that of U.S.-born individuals. Immigrants aren't just becoming entrepreneurs more frequently. They're often succeeding. Over 40% of Fortune 500 companies had a founder who was either an immigrant or the child of one.信号：比较结构 double that of + 递进 aren't just…They're often succeeding 。double that of U.S.-born individuals 是与题干 com…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 More of them expect their children to succeed in business. 盗用了原文 the child of one 里的 child，编出「期望子女在事业上成功」这一根本没说的意思。原文只是说 Fortune 500 创始人有的是移民、有的是移民子女，并未提及移民对子女的期望。 借用原文：the pace at which immigrants started businesses was double that of U.S.-born individuals",
+                "B": "与原文相反：选项 They have fewer chances to be hired by U.S. companies. 说移民被美国公司雇佣的机会更少，但原文整段说的是移民自己创业、自己当 founder，根本不是「被雇佣」的角度，更没说机会更少。 借用原文：Over 40% of Fortune 500 companies had a founder who was either an immigrant or the child of one.",
+                "C": "原词陷阱：选项 They have founded most Fortune 500 companies. 盗用了录音里非常醒目的 Fortune 500，但原文是 Over 40% of Fortune 500 companies had a founder who was either an immigrant or the child of one，是「超过 40%」且「创始人之一是移民或移民子女」，绝不是 most（大多数）。这是典型的范围/程度被偷改。",
+                "D": "正确项：与答案句同义替换（Immigrants aren't just becoming entrepreneurs more frequently. They're often succeeding. ↔ More of them are successful business people. 「entrepreneurs + succeeding」概括为「successful business people」）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "From 1996 to 2016, the pace at which immigrants started businesses was double that of U.S.-born individuals. Immigrants aren't just becoming entrepreneurs more frequently. They're often succeeding. Over 40% of Fortune 500 companies had a founder who was either an immigrant or the child of one.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What does the passage say about immigrants in the U.S., in terms of financial strength?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have higher installment loan debt than native-born Americans."
+                },
+                {
+                  "key": "B",
+                  "text": "Nineteen percent of them borrow money from friends and family."
+                },
+                {
+                  "key": "C",
+                  "text": "Their level of debt is lower than that of native-born Americans."
+                },
+                {
+                  "key": "D",
+                  "text": "Thirty-four percent of them use credit for their daily purchases."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P4）：Another key measure of financial strength is debt level. Immigrants do better in this area too. Immigrants use credit less often for purchasing cars, homes or starting businesses. This results in significantly lower levels of debt than native-born Americans.信号：比较结构 lower…than + 因果信号 This results in 。significantly lower levels of debt than native-born Americans 是与题干 c…",
+              "optionAnalysis": {
+                "A": "与原文相反：选项 They have higher installment loan debt than native-born Americans. 盗用了原文 installment loan debt，但原文明确说移民的债务「显著更低」，这里却说「更高」，方向完全反掉。 借用原文：just 19% of the general population",
+                "B": "张冠李戴：选项 Nineteen percent of them borrow money from friends and family. 盗用了原文 just 19% of the general population 里的 19% 和后文 they borrow money from friends and family 中的借钱方式，但 19% 在原文里指的是 general population（一般人口）里「没有信用卡或分期贷款债务」的比例，根本不是「19% 的移民找亲友借钱」。两个原词被强行拼到一起，是典型的张冠李戴。 借用原文：34% of Americans born in Latin America report no credit card or installment loan debt.",
+                "D": "原词陷阱：选项 Thirty-four percent of them use credit for their daily purchases. 盗用了原文 34% of Americans born in Latin America 的 34%，但原文是说 34% 的拉美裔美国人「没有」信用卡或分期贷款债务，选项却说「34% 的人用信用卡做日常消费」，对象不对、行为也反过来了，还加上了 daily purchases 这个原文没有的限定。",
+                "C": "正确项：与答案句同义替换（This results in significantly lower levels of debt than native-born Americans. ↔ Their level of debt is lower than that of native-born Americans. 几乎是原文的「近义同结构改写」）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Another key measure of financial strength is debt level. Immigrants do better in this area too. Immigrants use credit less often for purchasing cars, homes or starting businesses. This results in significantly lower levels of debt than native-born Americans.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What do immigrants do to achieve their goals in the U.S.?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Keep their traditional values and old habits."
+                },
+                {
+                  "key": "B",
+                  "text": "Find employment in competitive businesses."
+                },
+                {
+                  "key": "C",
+                  "text": "Borrow money from financial institutions."
+                },
+                {
+                  "key": "D",
+                  "text": "Collaborate with native-born Americans."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P5）：Why are immigrants doing so well? The values and habits they bring from their own homelands help explain some of the success.信号：设问句 Why + 解释句中的 values and habits 。Why are immigrants doing so well? 是篇章独白里典型的设问句，紧接着的 The values and habits…",
+              "optionAnalysis": {
+                "B": "原词陷阱：选项 Find employment in competitive businesses. 盗用了原文反复出现的 businesses，但原文说的是移民自己 started businesses（自己创业），而非 find employment（找工作被雇佣），且原文从未提及行业「竞争激烈」。 借用原文：they borrow money from friends and family rather than a bank",
+                "C": "与原文相反：选项 Borrow money from financial institutions. 盗用了原文 they borrow money from friends and family rather than a bank 里的 borrow money，但原文明确说移民是「找亲友借，而不是找银行」，financial institutions（金融机构）正好就是 bank 那一边，选项把方向反掉了。rather than 是这道题的关键否定信号。",
+                "D": "未提及：选项 Collaborate with native-born Americans. 提出「与本土美国人合作」，但全文只出现「移民 vs 本土美国人」的对比，从未提及二者合作。属于无中生有。",
+                "A": "正确项：与答案句同义替换（The values and habits they bring from their own homelands ↔ Keep their traditional values and old habits. 「从故乡带来的价值观和习惯」=「保留传统价值观和旧习惯」）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "Why are immigrants doing so well? The values and habits they bring from their own homelands help explain some of the success.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Morocco is responding to increasing energy demands by setting up one of the largest solar plants in the world.\n\nThe Noor solar power station is 26______ in the city of Ouarzazate and, once completed, will generate 580 million watts of electricity. The World Bank estimates it will serve 1.1 million people. It's 27______ to be completed soon.\n\nMorocco's current energy comes 28______ from imports. The nation hopes to get 50 percent of its energy from renewable sources by 2030. With demand for energy 29______ at an annual rate of 7 percent, the new solar plant could be a 30______ part of that goal.\n\n\"This makes Morocco a big 31______ in the field of solar energy in the Arab region and the African continent. It could also be a forerunner for many other countries in the world that 32______ on foreign imports of energy,\" said Ali Hajji, a solar energy specialist and engineering professor.\n\nExperts believe that the Middle East and North Africa have huge 33______ for solar energy projects. This is partly because of adequate sunlight and partly because technology has become more 34______ in the region.\n\n\"The last few years have seen a realization of 35______ how competitive solar technologies can be,\" said Michael Taylor, a senior analyst at the International Renewable Energy Agency."
+            },
+            {
+              "label": "词库",
+              "text": "A) affordable\nB) ancestor\nC) crucial\nD) depend\nE) initial\nF) insist\nG) just\nH) located\nI) mostly\nJ) operating\nK) perhaps\nL) pioneer\nM) potential\nN) rising\nO) scheduled"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affordable"
+                },
+                {
+                  "key": "B",
+                  "text": "ancestor"
+                },
+                {
+                  "key": "C",
+                  "text": "crucial"
+                },
+                {
+                  "key": "D",
+                  "text": "depend"
+                },
+                {
+                  "key": "E",
+                  "text": "initial"
+                },
+                {
+                  "key": "F",
+                  "text": "insist"
+                },
+                {
+                  "key": "G",
+                  "text": "just"
+                },
+                {
+                  "key": "H",
+                  "text": "located"
+                },
+                {
+                  "key": "I",
+                  "text": "mostly"
+                },
+                {
+                  "key": "J",
+                  "text": "operating"
+                },
+                {
+                  "key": "K",
+                  "text": "perhaps"
+                },
+                {
+                  "key": "L",
+                  "text": "pioneer"
+                },
+                {
+                  "key": "M",
+                  "text": "potential"
+                },
+                {
+                  "key": "N",
+                  "text": "rising"
+                },
+                {
+                  "key": "O",
+                  "text": "scheduled"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) located\n【原文】be located in 是'位于'的固定表达\nD) depend 搭配错，depend 配 on 不配 in：depend 表'依赖'要搭 depend on，且'电站依赖某城市'语义不通，与空后 in 也不搭。\nF) insist 语义不通，电站不会'坚持'：insist 是'坚持主张'，主语须是人或机构，'电站坚持于某城'完全讲不通。\nJ) operating 时态/语态不对，主动进行不合句意：is operating 是'正在运转'，但下文 once completed, will generate 表明电站尚未建成，谈不上正在运转，逻辑冲突。\nO) scheduled 搭配错，scheduled 配 to 不配 in：be scheduled 后通常接 to do（预定要做某事），接 in + 地点表'位于'不成立；它真正的归宿是 27 空。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affordable"
+                },
+                {
+                  "key": "B",
+                  "text": "ancestor"
+                },
+                {
+                  "key": "C",
+                  "text": "crucial"
+                },
+                {
+                  "key": "D",
+                  "text": "depend"
+                },
+                {
+                  "key": "E",
+                  "text": "initial"
+                },
+                {
+                  "key": "F",
+                  "text": "insist"
+                },
+                {
+                  "key": "G",
+                  "text": "just"
+                },
+                {
+                  "key": "H",
+                  "text": "located"
+                },
+                {
+                  "key": "I",
+                  "text": "mostly"
+                },
+                {
+                  "key": "J",
+                  "text": "operating"
+                },
+                {
+                  "key": "K",
+                  "text": "perhaps"
+                },
+                {
+                  "key": "L",
+                  "text": "pioneer"
+                },
+                {
+                  "key": "M",
+                  "text": "potential"
+                },
+                {
+                  "key": "N",
+                  "text": "rising"
+                },
+                {
+                  "key": "O",
+                  "text": "scheduled"
+                }
+              ],
+              "answer": "O",
+              "type": "选词填空",
+              "analysis": "【答案】O（官方答案）\n应填 O) scheduled\n【原文】be scheduled to do = 预定要做某事\nD) depend 搭配错，depend 配 on 不接 to be done：depend 要搭 depend on，'它依赖被完成'语义和搭配都不成立。\nF) insist 主语是物，不能'坚持'：insist 主语须为人/机构，且无 be insisted to do 这种用法，电站不会'坚持要被完成'。\nJ) operating is operating to be 句型不成立：operating 是现在分词，is operating to be completed 句型讲不通，逻辑上电站也尚未运转。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affordable"
+                },
+                {
+                  "key": "B",
+                  "text": "ancestor"
+                },
+                {
+                  "key": "C",
+                  "text": "crucial"
+                },
+                {
+                  "key": "D",
+                  "text": "depend"
+                },
+                {
+                  "key": "E",
+                  "text": "initial"
+                },
+                {
+                  "key": "F",
+                  "text": "insist"
+                },
+                {
+                  "key": "G",
+                  "text": "just"
+                },
+                {
+                  "key": "H",
+                  "text": "located"
+                },
+                {
+                  "key": "I",
+                  "text": "mostly"
+                },
+                {
+                  "key": "J",
+                  "text": "operating"
+                },
+                {
+                  "key": "K",
+                  "text": "perhaps"
+                },
+                {
+                  "key": "L",
+                  "text": "pioneer"
+                },
+                {
+                  "key": "M",
+                  "text": "potential"
+                },
+                {
+                  "key": "N",
+                  "text": "rising"
+                },
+                {
+                  "key": "O",
+                  "text": "scheduled"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) mostly\n【原文】mostly = 主要地，呼应下句50%目标\nG) just just 在此偏'仅仅'，与下文规模矛盾：just 作副词常表'仅仅'，'仅仅来自进口'语气偏轻，且 just 真正的归宿是 35 空的 just how（到底多么）固定语境。\nK) perhaps perhaps 表推测，与陈述事实冲突：perhaps 是'也许'，但本句在陈述当前能源结构的客观事实，不是猜测，用'也许来自进口'语气不对。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affordable"
+                },
+                {
+                  "key": "B",
+                  "text": "ancestor"
+                },
+                {
+                  "key": "C",
+                  "text": "crucial"
+                },
+                {
+                  "key": "D",
+                  "text": "depend"
+                },
+                {
+                  "key": "E",
+                  "text": "initial"
+                },
+                {
+                  "key": "F",
+                  "text": "insist"
+                },
+                {
+                  "key": "G",
+                  "text": "just"
+                },
+                {
+                  "key": "H",
+                  "text": "located"
+                },
+                {
+                  "key": "I",
+                  "text": "mostly"
+                },
+                {
+                  "key": "J",
+                  "text": "operating"
+                },
+                {
+                  "key": "K",
+                  "text": "perhaps"
+                },
+                {
+                  "key": "L",
+                  "text": "pioneer"
+                },
+                {
+                  "key": "M",
+                  "text": "potential"
+                },
+                {
+                  "key": "N",
+                  "text": "rising"
+                },
+                {
+                  "key": "O",
+                  "text": "scheduled"
+                }
+              ],
+              "answer": "N",
+              "type": "选词填空",
+              "analysis": "【答案】N（官方答案）\n应填 N) rising\n【原文】rising 配 at a rate of 7% 表'以7%速率增长'\nA) affordable 义不搭，需求无所谓'负担得起'：affordable 指价格可负担，修饰商品/价格，不能说'需求是负担得起的'，且与 at a rate 不搭。\nC) crucial 义不搭，且不能接 at a rate：crucial 是'至关重要的'，'需求至关重要地以 7%'读不通；它真正的归宿是 30 空。\nE) initial initial 表'最初的'，与'年增长率'无关：initial 指'起初的、最初阶段的'，无法描述一个持续的增长速率，语义与 at an annual rate 冲突。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affordable"
+                },
+                {
+                  "key": "B",
+                  "text": "ancestor"
+                },
+                {
+                  "key": "C",
+                  "text": "crucial"
+                },
+                {
+                  "key": "D",
+                  "text": "depend"
+                },
+                {
+                  "key": "E",
+                  "text": "initial"
+                },
+                {
+                  "key": "F",
+                  "text": "insist"
+                },
+                {
+                  "key": "G",
+                  "text": "just"
+                },
+                {
+                  "key": "H",
+                  "text": "located"
+                },
+                {
+                  "key": "I",
+                  "text": "mostly"
+                },
+                {
+                  "key": "J",
+                  "text": "operating"
+                },
+                {
+                  "key": "K",
+                  "text": "perhaps"
+                },
+                {
+                  "key": "L",
+                  "text": "pioneer"
+                },
+                {
+                  "key": "M",
+                  "text": "potential"
+                },
+                {
+                  "key": "N",
+                  "text": "rising"
+                },
+                {
+                  "key": "O",
+                  "text": "scheduled"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) crucial\n【原文】crucial part = 关键的一环，褒义贴目标\nE) initial initial 表'最初的'，与'实现目标的关键'错位：initial part 是'最初的部分/起步阶段'，但文意强调电站对达成目标的'重要性'，不是强调它是'第一步'，语义指向不同，分量也偏弱。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affordable"
+                },
+                {
+                  "key": "B",
+                  "text": "ancestor"
+                },
+                {
+                  "key": "C",
+                  "text": "crucial"
+                },
+                {
+                  "key": "D",
+                  "text": "depend"
+                },
+                {
+                  "key": "E",
+                  "text": "initial"
+                },
+                {
+                  "key": "F",
+                  "text": "insist"
+                },
+                {
+                  "key": "G",
+                  "text": "just"
+                },
+                {
+                  "key": "H",
+                  "text": "located"
+                },
+                {
+                  "key": "I",
+                  "text": "mostly"
+                },
+                {
+                  "key": "J",
+                  "text": "operating"
+                },
+                {
+                  "key": "K",
+                  "text": "perhaps"
+                },
+                {
+                  "key": "L",
+                  "text": "pioneer"
+                },
+                {
+                  "key": "M",
+                  "text": "potential"
+                },
+                {
+                  "key": "N",
+                  "text": "rising"
+                },
+                {
+                  "key": "O",
+                  "text": "scheduled"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) pioneer\n【原文】pioneer = 先锋，褒义且呼应'forerunner'\nB) ancestor ancestor 指'祖先'，用于人/血统不用于领域：ancestor 是'祖先、先辈'，指血缘世系，不能说一个国家是某领域的'祖先'，与 in the field of solar energy 搭不上。\nM) potential potential 在此句作名词指'潜力'，语义错位：a big potential 是'巨大潜力'，但本句说摩洛哥已经'成为'领域里的角色（make...a big ___），需要的是'角色身份'类名词而非'潜力'；potentia"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affordable"
+                },
+                {
+                  "key": "B",
+                  "text": "ancestor"
+                },
+                {
+                  "key": "C",
+                  "text": "crucial"
+                },
+                {
+                  "key": "D",
+                  "text": "depend"
+                },
+                {
+                  "key": "E",
+                  "text": "initial"
+                },
+                {
+                  "key": "F",
+                  "text": "insist"
+                },
+                {
+                  "key": "G",
+                  "text": "just"
+                },
+                {
+                  "key": "H",
+                  "text": "located"
+                },
+                {
+                  "key": "I",
+                  "text": "mostly"
+                },
+                {
+                  "key": "J",
+                  "text": "operating"
+                },
+                {
+                  "key": "K",
+                  "text": "perhaps"
+                },
+                {
+                  "key": "L",
+                  "text": "pioneer"
+                },
+                {
+                  "key": "M",
+                  "text": "potential"
+                },
+                {
+                  "key": "N",
+                  "text": "rising"
+                },
+                {
+                  "key": "O",
+                  "text": "scheduled"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) depend\n【原文】depend on foreign imports = 依赖外国进口\nF) insist insist on 义为'坚持主张'，逻辑不合：insist on 虽也搭 on，但义为'坚决主张做某事'，'坚持外国能源进口'不合此处'依赖进口'的语境逻辑。\nJ) operating 形态不对，从句需原形谓语：operating 是分词，不能直接作 that 从句的谓语（缺助动词），且 operate on 语义也不通。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affordable"
+                },
+                {
+                  "key": "B",
+                  "text": "ancestor"
+                },
+                {
+                  "key": "C",
+                  "text": "crucial"
+                },
+                {
+                  "key": "D",
+                  "text": "depend"
+                },
+                {
+                  "key": "E",
+                  "text": "initial"
+                },
+                {
+                  "key": "F",
+                  "text": "insist"
+                },
+                {
+                  "key": "G",
+                  "text": "just"
+                },
+                {
+                  "key": "H",
+                  "text": "located"
+                },
+                {
+                  "key": "I",
+                  "text": "mostly"
+                },
+                {
+                  "key": "J",
+                  "text": "operating"
+                },
+                {
+                  "key": "K",
+                  "text": "perhaps"
+                },
+                {
+                  "key": "L",
+                  "text": "pioneer"
+                },
+                {
+                  "key": "M",
+                  "text": "potential"
+                },
+                {
+                  "key": "N",
+                  "text": "rising"
+                },
+                {
+                  "key": "O",
+                  "text": "scheduled"
+                }
+              ],
+              "answer": "M",
+              "type": "选词填空",
+              "analysis": "【答案】M（官方答案）\n应填 M) potential\n【原文】huge potential for = 巨大潜力，搭配天成\nB) ancestor ancestor 指'祖先'，与'地区有潜力'毫不相干：ancestor 是血缘'祖先'，'地区有巨大祖先'完全讲不通，且无 have ancestor for 用法。"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affordable"
+                },
+                {
+                  "key": "B",
+                  "text": "ancestor"
+                },
+                {
+                  "key": "C",
+                  "text": "crucial"
+                },
+                {
+                  "key": "D",
+                  "text": "depend"
+                },
+                {
+                  "key": "E",
+                  "text": "initial"
+                },
+                {
+                  "key": "F",
+                  "text": "insist"
+                },
+                {
+                  "key": "G",
+                  "text": "just"
+                },
+                {
+                  "key": "H",
+                  "text": "located"
+                },
+                {
+                  "key": "I",
+                  "text": "mostly"
+                },
+                {
+                  "key": "J",
+                  "text": "operating"
+                },
+                {
+                  "key": "K",
+                  "text": "perhaps"
+                },
+                {
+                  "key": "L",
+                  "text": "pioneer"
+                },
+                {
+                  "key": "M",
+                  "text": "potential"
+                },
+                {
+                  "key": "N",
+                  "text": "rising"
+                },
+                {
+                  "key": "O",
+                  "text": "scheduled"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) affordable\n【原文】本段讲该地区适合太阳能的原因，partly because of adequate sunlight and partly because technology has become more __(34)__ in the region。技术'变得更负担得起（成本更低）'正是推动太阳能项目的合理原因，affordable 语义最贴；这也与下段 how competitive solar technologies can be（太阳能技术多有竞争力）相呼应。\nC) crucial crucial 不能比较成'更关键'修饰技术成本：'技术变得更至关重要'读着别扭，且本句因果是'技术更便宜→项目更可行'，crucial 不切此因果；它该用在 30 空。\nE) initial initial 表'最初的'，无比较级语义：initial 指'最初阶段的'，本身不表程度，说'技术变得更最初的'逻辑不通。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "affordable"
+                },
+                {
+                  "key": "B",
+                  "text": "ancestor"
+                },
+                {
+                  "key": "C",
+                  "text": "crucial"
+                },
+                {
+                  "key": "D",
+                  "text": "depend"
+                },
+                {
+                  "key": "E",
+                  "text": "initial"
+                },
+                {
+                  "key": "F",
+                  "text": "insist"
+                },
+                {
+                  "key": "G",
+                  "text": "just"
+                },
+                {
+                  "key": "H",
+                  "text": "located"
+                },
+                {
+                  "key": "I",
+                  "text": "mostly"
+                },
+                {
+                  "key": "J",
+                  "text": "operating"
+                },
+                {
+                  "key": "K",
+                  "text": "perhaps"
+                },
+                {
+                  "key": "L",
+                  "text": "pioneer"
+                },
+                {
+                  "key": "M",
+                  "text": "potential"
+                },
+                {
+                  "key": "N",
+                  "text": "rising"
+                },
+                {
+                  "key": "O",
+                  "text": "scheduled"
+                }
+              ],
+              "answer": "G",
+              "type": "选词填空",
+              "analysis": "【答案】G（官方答案）\n应填 G) just\n【原文】just how... = '到底多么……'，加强语气\nK) perhaps perhaps 表猜测，与'已意识到'矛盾：perhaps 是'也许'，但句子说 a realization of...（已经意识到了），是确定的认知而非猜测，'也许多么有竞争力'语气自相矛盾，且 perhaps 不与 ho\nA) affordable 形容词：负担得起的、价格合理的 用于第 34 空\nB) ancestor 名词：祖先、先辈 干扰词 · 未选用\nC) crucial 形容词：至关重要的、关键的 用于第 30 空"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "For the past four decades, the leader of Formula One car racing, one of the biggest annual sporting series in the world, was Bernie Ecclestone, a former motorcycle parts dealer who built it into an international presence essentially on his own."
+            },
+            {
+              "label": "B",
+              "text": "A skilled backroom operator who speaks without a filter, Ecclestone said often that in his opinion, the sport was at its best when he was allowed to act as \"a dictator.\""
+            },
+            {
+              "label": "C",
+              "text": "Yet now the dictator is gone. After an American company, Liberty Media, acquired the Formula One competition recently, Chase Carey—a former executive with Fox Broadcasting Company and DirecTV who by his own admission is not a fierce racing fan—was named to replace Ecclestone and to try to renovate the organization's management, reach and ambition."
+            },
+            {
+              "label": "D",
+              "text": "Among the goals, Carey said in an interview on Tuesday, is one that just about every global sport seems interested in chasing: increasing interest in the United States. \"People have said we're going to 'Americanize' it,\" Carey said. \"And we're not going to do that totally. But realistically, there are some elements of Americanization that the sport could use.\""
+            },
+            {
+              "label": "E",
+              "text": "While Formula One commands enormous audiences throughout much of the world, many American sports fans know it as that other motorsport, the one that is not Nascar(纳斯卡车赛). Formula One teams race far more technologically advanced vehicles around tracks all over the world—in magnificent events in places like Malaysia, Monaco, Singapore and the United Arab Emirates, and on tradition-rich tracks like Silverstone in England and Monza in Italy too."
+            },
+            {
+              "label": "F",
+              "text": "The series has an annual race in Austin, Texas. But within \"a few years,\" Carey said, he plans to bring another to a destination American city, like New York, Los Angeles, Miami or Las Vegas. Carey's ambitious plan is two-fold: first, change the business model of Formula One, which he said was a \"one-man show\" under Ecclestone that had a largely narrow vision when it came to negotiating partnership deals; and second, alter the way fans experience the sport, both in person and remotely, so that connections between the audience and people within the series are easier to make."
+            },
+            {
+              "label": "G",
+              "text": "Increased digital access for fans, a more behind-the-scenes experience for broadcast viewers and innovation in areas like virtual reality—what is it like to speed around a track inside a Ferrari?—are among the possibilities. \"The sport has clearly been underserved,\" Carey said. \"It doesn't do anything digitally. There's no marketing. It doesn't tell any stories. The goal in this is to make the fans connect to the live experience as much as possible, and the tools you have to do that, we're not using at all.\""
+            },
+            {
+              "label": "H",
+              "text": "The larger question, though, is a familiar one: Is there room for Formula One in the ever-crowded sports landscape of the United States? Opinions vary, particularly because viewing habits among consumers continue to evolve. John Bloom, a professor at Shippensburg University who has studied American sports history, said the biggest challenge for any sport trying to increase its presence in the United States was framing itself in a way that had lasting appeal. \"Sports generally become popular in some way because they establish a narrative,\" Bloom said. \"When I think of motorsports in the U.S., what we all think of is Nascar, and the narrative of Nascar is sort of rural, white, working-class Americans, mostly in the South, connecting with the atmosphere of those races. That's the narrative. When I think of the narrative of Formula One, it's a very different kind of audience.\""
+            },
+            {
+              "label": "I",
+              "text": "That difference, Carey said, is significant. While some might immediately link Formula One to Nascar in terms of American growth, Carey said Formula One's brand research had indicated there was very little crossover; rather, Formula One fans generally cite other so-called elite events, like Wimbledon or the Ryder Cup, as competitions they enjoy. \"Other than they're both cars, the Nascar fan base is a very different fan base,\" Carey said. \"It's a very regional fan base. Formula One is a global, famous brand of stars. These are machines that shock and awe you.\""
+            },
+            {
+              "label": "J",
+              "text": "Carey's background is in deal making and innovation. At Fox Broadcasting Company, he was a top advisor for years, known for his skill in helping to lead the launch of the company into sports, as well as the start of Fox News Channel. After going to DirecTV, he positioned the satellite provider as a mainstream option in millions of households."
+            },
+            {
+              "label": "K",
+              "text": "Now, after Liberty Media paid $4.4 billion to acquire Formula One, he is charged with making the investment pay off. \"I think they can build Formula One in the U.S.,\" said Patrick Crakes, an executive at InVivo Media Group who spent 25 years at Fox Broadcasting Company before leaving in 2016 as a senior manager at Fox Sports. \"People don't work on their cars anymore. They don't want that connection anymore. It's about technology and pushing the limits. It's about speed, danger and risk. And Formula One has that more than any other racing series.\""
+            },
+            {
+              "label": "L",
+              "text": "That is what hooked Carey, and he said he thought his experience was not unusual. He recalled attending Formula One's Monaco race last year and being overwhelmed by the ceremony leading up to the event, the way the race charmed the city for days ahead of the start. In his mind, it felt like a Super Bowl(超级碗橄榄球赛)."
+            },
+            {
+              "label": "M",
+              "text": "Then, on race day, he watched as the cars rocketed out of a tunnel and went screaming toward a tight turn with the city's harbor and the Mediterranean Sea in the background framing the scene. He was fascinated. \"You can't help but be awed,\" he said, \"and I think that feeling can be translated to the viewer.\""
+            },
+            {
+              "label": "N",
+              "text": "He added: \"The broader sport is a little too inward-looking, and we need to be more open. In some ways, I'm glad to be coming from the outside. The guys who are in the sport forever are sitting there saying: 'We can't do that. We can't do that because it's never been done that way.'\""
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Chase Carey believes greater use should be made of digital technology to make Formula One more accessible to its fans.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】Increased digital access for fans, a more behind-the-scenes experience for broadcast viewers and innovation in areas like virtual reality—what is it like to speed around a track inside a Ferrari?—are among the possibilities.\nF 段说 alter the way fans experience the sport，方向相近，但未提 digital technology，承载“数字化”的是 G 段。"
+            },
+            {
+              "number": 37,
+              "stem": "Chase Carey was deeply impressed by the ceremony preceding last year's Monaco race.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "L",
+                  "text": "Paragraph L"
+                }
+              ],
+              "answer": "L",
+              "type": "信息匹配",
+              "analysis": "【答案】L（强锚点）\n【原文】He recalled attending Formula One's Monaco race last year and being overwhelmed by the ceremony leading up to the event, the way the race charmed the city for days ahead of the start.\nM 段讲 on race day 赛车冲出隧道的场面，与题干 ceremony preceding 的赛前仪式不是同一节点。"
+            },
+            {
+              "number": 38,
+              "stem": "One of Chase Carey's goals is to make Formula One more appealing to Americans.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】Among the goals, Carey said in an interview on Tuesday, is one that just about every global sport seems interested in chasing: increasing interest in the United States.\nI 段说 very little crossover，谈两类受众差异，并未陈述“目标是吸引美国人”。"
+            },
+            {
+              "number": 39,
+              "stem": "A former motorbike parts dealer led Formula One for the past forty years.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】For the past four decades, the leader of Formula One car racing, one of the biggest annual sporting series in the world, was Bernie Ecclestone, a former motorcycle parts dealer who built it into an international presence essentially on his own.\n过去四十年间，世界最大年度赛事系列之一 F1 的领导者是 Bernie Ecclestone，一个摩托车配件商出身、几乎凭一己之力把它做成国际赛事的人。"
+            },
+            {
+              "number": 40,
+              "stem": "Chase Carey thought the audience of Formula One could be made to share his feeling about the race.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "M",
+                  "text": "Paragraph M"
+                }
+              ],
+              "answer": "M",
+              "type": "信息匹配",
+              "analysis": "【答案】M（弱锚点）\n【原文】He was fascinated. \"You can't help but be awed,\" he said, \"and I think that feeling can be translated to the viewer.\"\nL 段说他 being overwhelmed by the ceremony，止于个人感受；题干核心 share his feeling 的“分享给观众”只在 M 段。"
+            },
+            {
+              "number": 41,
+              "stem": "Chase Carey used to serve as a top advisor for a major broadcasting company.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】At Fox Broadcasting Company, he was a top advisor for years, known for his skill in helping to lead the launch of the company into sports, as well as the start of Fox News Channel.\nC 段说他是 a former executive with Fox Broadcasting Company 并被任命接替，重点是接任；题干的 top advisor 履历细节在 J 段。"
+            },
+            {
+              "number": 42,
+              "stem": "Chase Carey intends to make connections easier between the audience and the Formula One racers.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（弱锚点）\n【原文】and second, alter the way fans experience the sport, both in person and remotely, so that connections between the audience and people within the series are easier to make.\nG 段说目标是 make the fans connect to the live experience，对象是“现场体验”；题干 between the audience and the Formula One racers 强调观众与人之间的联系，在 F 段。"
+            },
+            {
+              "number": 43,
+              "stem": "The new leader of Formula One admitted he was not super interested in car racing.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】Chase Carey—a former executive with Fox Broadcasting Company and DirecTV who by his own admission is not a fierce racing fan—was named to replace Ecclestone and to try to renovate the organization's management, reach and ambition.\nChase Carey——一位曾任福克斯广播公司和 DirecTV 高管、自认并非狂热赛车迷的人——被任命接替 Ecclestone，并试图革新该组织的管理、影响力与抱负。"
+            },
+            {
+              "number": 44,
+              "stem": "People's opinions differ as to whether Formula One can be promoted in the U.S.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（弱锚点）\n【原文】The larger question, though, is a familiar one: Is there room for Formula One in the ever-crowded sports landscape of the United States? Opinions vary, particularly because viewing habits among consumers continue to evolve.\nK 段引人说 I think they can build Formula One in the U.S.，是肯定立场；题干 opinions differ 强调分歧，由 H 段提出。"
+            },
+            {
+              "number": 45,
+              "stem": "Compared with other racing series, Formula One focuses more on speed and involves more danger.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】It's about speed, danger and risk. And Formula One has that more than any other racing series.\n2023年6月英语四级真题第2套 长篇阅读（信息匹配） 第 1 篇 36. Chase Carey believes greater use should be made of digital technology to make Formula One more accessible to its fans. 这句陈述的信息出自第几段？为什么？ 2023年6月英语四级真题第2套 长篇阅读（信息匹配） 第 1 篇 第 36 句的信息出自 G 段（强锚点句）。G 段定位句为「Increased digital access for fans, a more behind-the-scenes experience for broadcast viewers and innovation in areas like virtual reality—what is it like to speed around a track inside a Ferrari?—are among the possibilities.」（增加球迷的数字接入、为转播观众提供更多幕后体验、以及虚拟现实等领域的创新——坐在法拉利里绕赛道飞驰是什么感觉？——都是可能的方向。）。陈述句是对原文的同义改写（greater use should be made of digital technology ↔ innovation in areas like virtual reality；more accessible to its fans ↔ make the fans connect to the live experience as much as possible）。与之话题相邻的 F 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Supermarkets have long been suffering as one of the thinnest-margined businesses in existence and one of the least-looked-forward-to places to work or visit. For more than a decade, they have been under attack from e-commerce giants, blamed for making Americans fat, and accused of contributing to climate change."
+            },
+            {
+              "label": "B",
+              "text": "Supermarkets can technically be defined as giants housing 15,000 to 60,000 different products. The revolutionary idea of a self-service grocery, where people could hunt and gather food from aisles rather than asking a clerk to fetch items from behind a counter, first came about in America. There is some debate about which was the very first, but over the years a consensus has built around King Kullen Supermarket, founded in New York in 1930."
+            },
+            {
+              "label": "C",
+              "text": "For some 300 years, Americans had fed themselves from small stores and public markets. Shopping for food involved mud, noisy chickens, clouds of flies, nasty smells, bargaining, and getting short-changed. The supermarket imitated the Fordist factory, with its emphasis on efficiency and standardization, and reimagined it as a place to buy food. Supermarkets may not feel cutting-edge now, but they were a revolution in distribution at the time. They were such strange marvels that, on her first official state visit to the United States in 1957, Queen Elizabeth II insisted on an impromptu(即兴的) tour of a suburban-Maryland Giant Food."
+            },
+            {
+              "label": "D",
+              "text": "The typical supermarket layout has barely changed over the past 90 years. Most stores open with flowers, fruit and vegetables at the front as a breath of freshness to arouse our appetite. Meanwhile, they keep the milk, eggs, and other daily basics all the way back so you'll travel through as much of the store as possible, and be tempted along the way."
+            },
+            {
+              "label": "E",
+              "text": "In the early days, as the supermarket multiplied, so did our suspicion of it. We have long feared that this \"revolution in distribution\" uses corporate black magic on our appetite. The book The Hidden Persuaders, published in 1957, warned that supermarkets were putting women in a \"hypnoidal trance(催眠恍惚状态),\" causing them to wander aisles bumping into boxes and \"picking things off shelves at random.\""
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What problem have supermarkets been facing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are actually on the way to bankruptcy."
+                },
+                {
+                  "key": "B",
+                  "text": "They have been losing customers and profits."
+                },
+                {
+                  "key": "C",
+                  "text": "They are forced to use e-commerce strategies."
+                },
+                {
+                  "key": "D",
+                  "text": "They have difficulty adapting to climate change."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Supermarkets have long been suffering as one of the thinnest-margined businesses in existence and one of the least-looked-forward-to places to work or visit. For more than a decade, they have been under attack from e-commerce giants, blamed for making Americans fat, and accused of contributing to climate change.\nA) 过度推断：原文只说超市利润薄、处境难，从未说它\"正走向破产\"；on the way to bankruptcy 把\"利润薄\"夸大成\"濒临破产\"，程度严重超出原文。\nB) ✓ 正确：thinnest-margined businesses ↔ losing customers and profits under attack from e-commerce g\nC) 偷换概念：原文说超市\"受电商攻击\"，并没说它们\"被迫去采用电商策略\"；forced to use e-commerce strategies 把\"被攻击\"偷换成\"被迫效仿\"，是原文未提的内容\nD) 偷换概念：原文是超市\"被指责加剧气候变化\"（超市是被指责方），而 have difficulty adapting to climate change 说成\"超市难以适应气候变化\"，把\"被指"
+            },
+            {
+              "number": 47,
+              "stem": "What does the passage say about the idea of a self-service grocery?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was put forward by King Kullen."
+                },
+                {
+                  "key": "B",
+                  "text": "It originated in the United States."
+                },
+                {
+                  "key": "C",
+                  "text": "It has been under constant debate."
+                },
+                {
+                  "key": "D",
+                  "text": "It proves revolutionary even today."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】The revolutionary idea of a self-service grocery, where people could hunt and gather food from aisles rather than asking a clerk to fetch items from behind a counter, first came about in America.\nA) 张冠李戴：原文说金库伦是公认的\"第一家超市\"，并未说这个\"想法\"是金库伦\"提出\"的；put forward by King Kullen 把\"第一家店\"错安成\"想法的提出者\"。\nB) ✓ 正确：first came about in America ↔ It originated in the United States. 预判核心是\"起源地是美国\"，四项里只有 It o\nC) 偷换概念：原文 some debate about which was the very first 争论的是\"哪家是第一家店\"，而非\"这个想法本身\"；under constant deba\nD) 与原文相反：原文只说该想法当年是 revolutionary，并称超市 may not feel cutting-edge now（如今未必前沿），并无\"至今仍具革命性\"之说；proves r"
+            },
+            {
+              "number": 48,
+              "stem": "What did supermarkets do by adopting the Fordist factory approach?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They modernized traditional groceries in many ways."
+                },
+                {
+                  "key": "B",
+                  "text": "They introduced cutting-edge layout of their stores."
+                },
+                {
+                  "key": "C",
+                  "text": "They improved the quality of the food they sold."
+                },
+                {
+                  "key": "D",
+                  "text": "They revolutionized the distribution of goods."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】The supermarket imitated the Fordist factory, with its emphasis on efficiency and standardization, and reimagined it as a place to buy food. Supermarkets may not feel cutting-edge now, but they were a revolution in distribution at the time.\nA) 无中生有：原文只说超市模仿福特工厂、成为分销革命，没说它\"在许多方面把传统杂货店现代化\"；modernized traditional groceries in many ways 是原文未\nB) 与原文相反：原文紧接着说超市 may not feel cutting-edge now（如今未必前沿），且布局九十年几乎没变，并非\"引入了前沿布局\"；cutting-edge layout \nC) 无中生有：原文谈的是分销方式的革命，全程未涉及\"食品质量\"的提升；improved the quality of the food 在原文找不到任何依据。\nD) ✓ 正确：a revolution in distribution ↔ They revolutionized the distribution of goods. 预判核心是\"在分销上掀起"
+            },
+            {
+              "number": 49,
+              "stem": "What is the typical supermarket layout intended to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Arouse customers' appetite to buy flowers, fruit and vegetables."
+                },
+                {
+                  "key": "B",
+                  "text": "Provide customers easy access to items they want to buy."
+                },
+                {
+                  "key": "C",
+                  "text": "Induce customers to make more unplanned purchases."
+                },
+                {
+                  "key": "D",
+                  "text": "Enable customers to have a more enjoyable shopping experience."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Meanwhile, they keep the milk, eggs, and other daily basics all the way back so you'll travel through as much of the store as possible, and be tempted along the way.\nA) 以偏概全：原文说前端摆鲜花果蔬只是 a breath of freshness to arouse our appetite（唤起食欲）的一个手段，最终目的是让人走遍全店；appetite \nB) 与原文相反：原文布局恰恰把必需品放到最里、逼顾客绕远，并非\"方便顾客买想买的东西\"；easy access to items they want to buy 与原文意图相反。\nC) ✓ 正确：travel through as much of the store as possible, and be tempted along the way ↔ Induce cus\nD) 无中生有：原文讲的是诱导顾客多买，从未说布局是为\"让购物更愉快\"；more enjoyable shopping experience 是原文没有的说法。"
+            },
+            {
+              "number": 50,
+              "stem": "What have people long feared about supermarkets?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They use tricky strategies to promote their business."
+                },
+                {
+                  "key": "B",
+                  "text": "They are going to replace the local groceries entirely."
+                },
+                {
+                  "key": "C",
+                  "text": "They apply corporate black magic to the goods on display."
+                },
+                {
+                  "key": "D",
+                  "text": "They take advantage of the weaknesses of women shoppers."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】We have long feared that this \"revolution in distribution\" uses corporate black magic on our appetite.\nA) ✓ 正确：uses corporate black magic on our appetite ↔ They use tricky strategies to promote their b\nB) 无中生有：原文讲的是人们怕超市操纵食欲，全程未提\"取代本地杂货店\"；replace the local groceries entirely 是原文没有的内容。\nC) 偷换概念：原文是黑魔法用在 our appetite（我们的食欲）上，而 black magic to the goods on display 把作用对象偷换成\"陈列的商品\"，对象张冠李戴\nD) 以偏概全：关于女性的内容出自被引用的《隐形说客》一书、只是个例证，并非人们\"长期\"害怕的核心；weaknesses of women shoppers 拿书中一个局部例子当成了普遍的担忧。 "
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work. Since then, we've completely changed as a nation. Students no longer spend summers farming, but they aren't in school, either. The average American student receives 13 weeks off from school each calendar year-with about 11 of those during the summer. Few other countries have more than seven weeks off in a school calendar."
+            },
+            {
+              "label": "B",
+              "text": "With the U.S. lagging behind other countries in academics, it's time to consider year-round schooling. One benefit of this change is that students will not fall victim to the \"summer slide,\" or the well-documented phenomenon where students forget some of the knowledge they have acquired when too much time is taken off from school. Decades of research shows that it can take from 8 to 13 weeks at the beginning of every school year for students to get back to where they were before the summer holiday."
+            },
+            {
+              "label": "C",
+              "text": "But year-round schooling isn't just about academics. Teachers and students experience a closer relationship in year-round schools than they do in traditional schools and, in the absence of any long-term break, students do not feel detached from the school environment. These closer bonds and greater attachment pay off. Research shows that students in year-round schools are more self-confident and feel more positive about their schooling experience."
+            },
+            {
+              "label": "D",
+              "text": "But don't kids need time to relax? Some childhood development experts believe that time off from school is vital to healthy development as kids are not designed to spend so much of their time inside classrooms and the summer break provides a perfect opportunity to get outside. The problem with this argument is that most children aren't playing outside or even spending time with other kids. While some children visit summer camps, most stay at home, watching TV or playing games on electronic devices, which hardly benefits them."
+            },
+            {
+              "label": "E",
+              "text": "The U.S. has changed from a farming economy to a knowledge- and innovation-based economy, so it makes sense for the school year to change as well."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "Why did America's traditional school year have a three-month summer vacation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Students needed to help with farm work."
+                },
+                {
+                  "key": "B",
+                  "text": "Students needed time to learn necessary farming skills."
+                },
+                {
+                  "key": "C",
+                  "text": "The agricultural society then attached less importance to academics."
+                },
+                {
+                  "key": "D",
+                  "text": "America lagged behind other countries in making a scientific school calendar."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work.\nA) ✓ 正确：the summer months were needed for farm work ↔ Students needed to help with farm work 预判的\"夏\nB) 无中生有：原文只说夏季需要去做农活，从未提学生需要时间去\"学习\"农业技能，learn necessary farming skills 文中没有依据。\nC) 无中生有：原文只说当时是农业社会、夏天要务农，并未说农业社会 attached less importance to academics，这是文中没有的因果。\nD) 张冠李戴：America lagged behind other countries 出自第二段 With the U.S. lagging behind other countries i"
+            },
+            {
+              "number": 52,
+              "stem": "What benefit will year-round schooling bring students in addition to improving their learning?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It will help them get back to where their lessons started."
+                },
+                {
+                  "key": "B",
+                  "text": "It will enable them to absorb what they have learned."
+                },
+                {
+                  "key": "C",
+                  "text": "It will familiarize them with the school environment."
+                },
+                {
+                  "key": "D",
+                  "text": "It will strengthen their relationship with teachers."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】But year-round schooling isn't just about academics. Teachers and students experience a closer relationship in year-round schools than they do in traditional schools and, in the absence of any long-term break, students do not feel detached from the school environment.\nA) 答非所问：get back to where their lessons started 套用第二段 get back to where they were，那讲的是暑期遗忘后补回进度，属学\nB) 答非所问：absorb what they have learned 仍是讲学习吸收，属 improving their learning 范畴，被题干\"除学业外\"排除。\nC) 偷换概念：原文说的是学生 do not feel detached from the school environment（不疏离），并非 familiarize them with the\nD) ✓ 正确：Teachers and students experience a closer relationship ↔ strengthen their relationship wit"
+            },
+            {
+              "number": 53,
+              "stem": "What do some childhood development experts believe about the long summer vacation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It meets students' need to study on their own."
+                },
+                {
+                  "key": "B",
+                  "text": "It enables students to learn about the outside world."
+                },
+                {
+                  "key": "C",
+                  "text": "It satisfies students' desire to stay longer at home."
+                },
+                {
+                  "key": "D",
+                  "text": "It contributes to students' healthy growth."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Some childhood development experts believe that time off from school is vital to healthy development as kids are not designed to spend so much of their time inside classrooms and the summer break provides a perfect opportunity to get outside.\nA) 无中生有：专家强调的是休息和户外，从未说放假满足学生 study on their own（自学）的需要，原文无此意。\nB) 过度推断：原文只说暑假给孩子 a perfect opportunity to get outside（到户外的机会），并不等于 learn about the outside world（\nC) 张冠李戴：专家观点里没有\"满足学生 stay longer at home\"的说法；待在家看电视是后文作者反驳时提到的现实，并非专家所赞同的需求。\nD) ✓ 正确：time off from school is vital to healthy development ↔ It contributes to students' healthy"
+            },
+            {
+              "number": 54,
+              "stem": "What is the argument against the experts' idea of a long summer vacation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It does little good to most students."
+                },
+                {
+                  "key": "B",
+                  "text": "It benefits few students playing outside."
+                },
+                {
+                  "key": "C",
+                  "text": "It leads students to neglect their studies."
+                },
+                {
+                  "key": "D",
+                  "text": "It makes students addicted to computer games."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】The problem with this argument is that most children aren't playing outside or even spending time with other kids. While some children visit summer camps, most stay at home, watching TV or playing games on electronic devices, which hardly benefits them.\nA) ✓ 正确：most stay at home, watching TV or playing games on electronic devices, which hardly benefi\nB) 以偏概全：原文 hardly benefits them 说的是待在家的\"多数\"孩子没好处，benefits few students playing outside 却把对象缩成\"在外面玩\nC) 无中生有：作者反驳讲的是放假对孩子无益，并未说放假让学生 neglect their studies（荒废学业），文中无此意。\nD) 以偏概全：原文把看电视和玩电子设备游戏并列为现象之一，并未断言放假使学生 addicted to computer games（沉迷电脑游戏），把众多居家活动之一夸成\"上瘾\"。"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author think of the traditional school year in the U.S. today?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Well-grounded."
+                },
+                {
+                  "key": "B",
+                  "text": "Culture-bound."
+                },
+                {
+                  "key": "C",
+                  "text": "Outdated."
+                },
+                {
+                  "key": "D",
+                  "text": "Welcomed."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（态度题）\nA) 与原文相反：Well-grounded（有充分根据的）是褒义，意味旧学制合理；而作者全篇主张它该改，态度恰好相反。\nB) 无中生有：文章把旧学制归因于\"农业经济\"这一时代背景，并未从\"文化\"角度评价，Culture-bound（受文化局限）在原文找不到落点。\nC) ✓ 正确：The U.S. has changed from a farming economy to a knowledge- and innovation-based economy, \nD) 与原文相反：Welcomed（受欢迎的）是褒义，暗示作者赞许旧学制；而作者主张它该改、显然不持欢迎态度，方向相反。 SENTENCE INSIGHTS · 句子精讲 6 句真题句逐层精讲 下列"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n改革开放40多年以来，中国政府对高等教育越来越重视，高等教育已经进入稳步发展阶段。高校学生总数已接近4,700万人，位居世界第一。随着我国经济的快速发展，人民生活水平不断提高，越来越多的人渴望接受高等教育。我国高校的数量和学科专业持续增加，招生人数逐年上升，教学质量也在不断改进，为更多年轻人创造了接受高等教育的机会。",
+              "analysis": "【参考译文】\nSince the reform and opening-up over 40 years ago, the Chinese government has attached increasing importance to higher education, which has now entered a stage of steady development. Today, the total number of college students has reached nearly 47 million, ranking first in the world. With the rapid development of China's economy and the steady improvement of people's living standards, more and more people are eager to receive higher education. Meanwhile, the number of colleges and universities in China and the disciplines they offer continue to increase, student enrollment rises year by year, and teaching quality is constantly improving, creating opportunities for more young people to receive such education."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2023-06-2/",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 55
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2023-06-2/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

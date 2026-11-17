@@ -1,0 +1,2735 @@
+{
+  "id": "cet4-2024-12-s3",
+  "level": "CET4",
+  "year": 2024,
+  "month": 12,
+  "setNo": 3,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose the university newspaper is inviting submissions from the students for its coming edition on how the students can contribute to a green campus. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nA green campus is no longer a slogan but a shared responsibility, and students play a key role in making it real. As members of the campus, we can turn small daily habits into real changes.\n\nThere are several practical things we can do. First, we should sort our rubbish and recycle paper, bottles and cans, which cuts waste and saves resources. Second, saving water and switching off lights and computers when they are not in use can greatly reduce the energy our campus consumes. Moreover, choosing to walk, cycle or share bikes for short trips lowers carbon emissions, and passing used textbooks on to younger students gives them a second life instead of being thrown away.\n\nIn short, a green campus grows out of these everyday actions rather than empty talk. If every student takes one small step, our campus will surely become cleaner, greener and more livable for us all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "本场次听力只有一份音频，本套听力与同场第一套同卷；原文、题目与答案取自该套真题。考场多套卷的选项顺序可能不同，这里沿用第一套的顺序。在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 15.4,
+              "text": "The City of Fayetteville is making a special effort to recognize its bus drivers ahead of the newly proclaimed Transit Driver Appreciation Day happening Saturday. As part of the event, the city is celebrating its longest-serving driver on the force.",
+              "zh": "Fayetteville市正在特别努力表彰其公交车司机，以迎接新设立的公交司机感谢日，该日定于周六举行。作为活动的一部分,该市正在庆祝其服务时间最长的在职司机。"
+            },
+            {
+              "id": 2,
+              "start": 15.8,
+              "end": 34.2,
+              "text": "That driver is Sherry Christian. Christian has been a driver for 25 years. The Fayetteville native believes driving a school bus allows her to give back to her community. She says that the best part of the job is watching the children who ride her bus grow up.",
+              "zh": "这位司机是Sherry Christian。Christian已经担任司机25年。这位Fayetteville本地人认为驾驶校车让她能够回馈社区。她说这份工作最好的部分是看着乘坐她的校车的孩子们长大。"
+            },
+            {
+              "id": 3,
+              "start": 34.6,
+              "end": 55.3,
+              "text": "Transit Driver Appreciation Day has been celebrated across the country as far back as 2009. However, this week, the City of Fayetteville issued a proclamation for the day to take place March 18th. Officials said they want bus drivers to know how important they are to Fayetteville, serving almost 1.6 million riders a year.",
+              "zh": "公交司机感谢日早在2009年就在全国范围内庆祝。然而,本周Fayetteville市发布公告将这一日期定为3月18日。官员们表示,他们希望公交车司机知道他们对Fayetteville有多么重要,每年为近160万名乘客提供服务。"
+            }
+          ],
+          "audioDuration": 55.3,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "What do we learn about Sherry Christian?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She is making a special effort to be recognized."
+                },
+                {
+                  "key": "B",
+                  "text": "She has been living in Fayetteville for 25 years."
+                },
+                {
+                  "key": "C",
+                  "text": "She has been driving a school bus ever since 2009."
+                },
+                {
+                  "key": "D",
+                  "text": "She is the longest-serving bus driver in Fayetteville."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：As part of the event, the city is celebrating its longest-serving driver on the force.信号：最高级 longest-serving 强调 。答案句的信号是最高级 longest-serving driver on the force——『在职最久的司机』。最高级是新闻强调『独一份身份』的标志，一旦听到 th…",
+              "optionAnalysis": {
+                "A": "张冠李戴：录音里 The City of Fayetteville is making a special effort to recognize its bus drivers 的主语是『城市』在努力表彰司机；选项 A 把它偷换成 She is making a special effort to be recognized.——变成『她自己在努力争取被认可』。努力的人从城市换成了她本人，主语张冠李戴。 借用原文：Christian has been a driver for 25 years.",
+                "B": "原词陷阱：录音第 2 段说 Christian has been a driver for 25 years.——她当『司机』25 年；选项 B 把这个 25 年的数字盗来，安到 living in Fayetteville for 25 years『在 Fayetteville 住了 25 年』上。录音说的是开车 25 年、不是住了 25 年，听到 25 years 就选正中陷阱。 借用原文：Transit Driver Appreciation Day has been celebrated across the country as far back as 2009.",
+                "C": "原词陷阱：录音第 3 段 Transit Driver Appreciation Day has been celebrated across the country as far back as 2009. 里的 2009，说的是『这个表彰日全国早在 2009 年就有了』，与她本人无关；选项 C 把 2009 盗来，说成 driving a school bus ever since 2009『她从 2009 年起开校车』。年份对象被偷换，听到 2009 就选即中招。",
+                "D": "正确项：与答案句同义替换（the city is celebrating its longest-serving driver on the force ↔ She is the longest-serving bus driver in Fayetteville. 同身份的换说法）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "As part of the event, the city is celebrating its longest-serving driver on the force.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "What did city officials of Fayetteville want bus drivers to be aware of?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The importance of their service to the city."
+                },
+                {
+                  "key": "B",
+                  "text": "The number of riders they serve in the city."
+                },
+                {
+                  "key": "C",
+                  "text": "The new proclamation issued early this week."
+                },
+                {
+                  "key": "D",
+                  "text": "The significance of the event to take place March 18."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P3）：Officials said they want bus drivers to know how important they are to Fayetteville, serving almost 1.6 million riders a year.信号：官方表态 said they want…to know 。答案句的信号是官方直接表态 Officials said they want bus drivers to know how important they a…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音句尾 serving almost 1.6 million riders a year 确实念到了乘客数量，但它只是补充说明司机为何重要的背景；选项 B 把这个数字盗来当成官方想让司机知道的内容 The number of riders they serve in the city.。官方强调的是『重要性』，不是『乘客数量』这个数字本身，听到 riders 就选即中招。 借用原文：this week, the City of Fayetteville issued a proclamation for the day",
+                "C": "答非所问：录音第 3 段 this week, the City of Fayetteville issued a proclamation 提到本周发了公告，选项 C 把它说成 The new proclamation issued early this week.。公告是事件背景，题目问的是『官方想让司机知道什么』，公告本身不是答案，属答非所问。 借用原文：for the day to take place March 18th",
+                "D": "原词陷阱：录音 for the day to take place March 18th 念到了活动日期 3 月 18 日，选项 D 把它说成 The significance of the event to take place March 18.。日期只是活动安排的细节，官方想让司机知道的是『他们的重要性』而非『这个活动的意义』，听到 March 18 就选即被日期带偏。",
+                "A": "正确项：与答案句同义替换（how important they are to Fayetteville ↔ The importance of their service to the city. 形容词改名词）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Officials said they want bus drivers to know how important they are to Fayetteville, serving almost 1.6 million riders a year.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 4.2,
+              "text": "1 The Wilton School Board has proposed a 5.99% spending increase."
+            },
+            {
+              "id": 2,
+              "start": 4.5,
+              "end": 9.9,
+              "text": "If approved, it would be the largest jump in at least eight budget cycles."
+            },
+            {
+              "id": 3,
+              "start": 10.3,
+              "end": 19.5,
+              "text": "The 5.99% request more than doubles the highest previous year-over-year increase in the last eight years, which was 2.99% for the 2021-2022 school year."
+            },
+            {
+              "id": 4,
+              "start": 19.9,
+              "end": 24.5,
+              "text": "The biggest driver of the $91.8 million proposed budget remains teacher salaries."
+            },
+            {
+              "id": 5,
+              "start": 24.9,
+              "end": 29.1,
+              "text": "These account for 64% of the total request at $59 million."
+            },
+            {
+              "id": 6,
+              "start": 29.5,
+              "end": 39.8,
+              "text": "The $59 million is up from the $56.7 million budgeted for the current school year. 2 There are some factors that could affect the budget moving forward."
+            },
+            {
+              "id": 7,
+              "start": 40.1,
+              "end": 42.5,
+              "text": "One of those is total enrollment."
+            },
+            {
+              "id": 8,
+              "start": 42.9,
+              "end": 46.7,
+              "text": "The district will have a total enrollment of 3,742 students."
+            },
+            {
+              "id": 9,
+              "start": 47.1,
+              "end": 55.1,
+              "text": "Almost all of these students will be in kindergarten through high school, but 66 will be in prekindergarten and other programs."
+            },
+            {
+              "id": 10,
+              "start": 55.5,
+              "end": 58.9,
+              "text": "This represents 47 fewer students than the current year."
+            },
+            {
+              "id": 11,
+              "start": 59.3,
+              "end": 62.3,
+              "text": "Fewer students mean less federal and state funding."
+            }
+          ],
+          "audioDuration": 62.3,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What does the news report say the Wilton School Board has done?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Budgeted $56.7 million for the coming school year."
+                },
+                {
+                  "key": "B",
+                  "text": "Requested to raise teachers' salaries by 3 percent."
+                },
+                {
+                  "key": "C",
+                  "text": "Proposed a spending increase by 5.99 percent."
+                },
+                {
+                  "key": "D",
+                  "text": "Kept raising funds for at least 8 budget cycles."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：The Wilton School Board has proposed a 5.99% spending increase.信号：开篇首句直陈主体动作 。新闻把核心事实放在开篇，第一句 The Wilton School Board has proposed a 5.99% spending increase. 直接交代了校董会做的事，主体+动…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Budgeted $56.7 million for the coming school year. 借用了录音真实念到的数字 56.7 million，可录音说的是 up from the $56.7 million budgeted for the current school year——这是『本学年』已编的旧预算、是被比较的基数，并非为『下一学年』新编的，听到 56.7 million 就选会掉坑。 借用原文：2.99% for the 2021-2022 school year",
+                "B": "原词陷阱：Requested to raise teachers' salaries by 3 percent. 看似与教师薪资相关，但录音只说薪资占比 64% of the total request 与金额升至 59 million，从未说按 3% 加薪；3 percent 与录音里的 2.99% 近似，是用近似数字加上『加薪』这个貌似合理的动作拼出来的干扰。 借用原文：the largest jump in at least eight budget cycles",
+                "D": "原词陷阱：Kept raising funds for at least 8 budget cycles. 抓住了录音里的 at least eight budget cycles，但录音原意是『这是至少八个预算周期以来最大的一次涨幅』，eight budget cycles 是个时间比较范围，并非校董会『持续筹款八个周期』这个动作，属于把时间状语硬读成动作。",
+                "C": "正确项：与答案句同义替换（has proposed a 5.99% spending increase ↔ Proposed a spending increase by 5.99 percent. 原句几乎平移到选项）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The Wilton School Board has proposed a 5.99% spending increase.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What will a decline in the total enrollment lead to?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Decrease in salaries for school administrators."
+                },
+                {
+                  "key": "B",
+                  "text": "Reduction in federal and state funding."
+                },
+                {
+                  "key": "C",
+                  "text": "Firing of less qualified faculty members."
+                },
+                {
+                  "key": "D",
+                  "text": "Closing down of some less competitive schools."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：This represents 47 fewer students than the current year. Fewer students mean less federal and state funding.信号：因果词 mean 点出后果 。录音用 Fewer students mean less federal and state funding 中的 mean 直接把『学生减少』和『拨款减少』连起来，mean 后面那一截…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Decrease in salaries for school administrators. 里 salaries 一词录音确实出现过（教师薪资升至 59 million），但录音只说薪资是上涨的、且针对的是教师而非行政人员，更没说招生下降会让薪资下降，是把听过的 salaries 拿来嫁接的无中生有后果。",
+                "C": "未提及：Firing of less qualified faculty members. 听上去『钱少了就裁人』很合逻辑，但录音对学生减少给出的唯一后果是拨款减少，从未提到裁教师，这是用常识脑补、原文未提。",
+                "D": "未提及：Closing down of some less competitive schools. 同样是凭常识想象的后果，录音谈的是同一个学区内部的预算与拨款，根本没提到关停任何学校，属未提及。",
+                "B": "正确项：与答案句同义替换（less federal and state funding ↔ Reduction in federal and state funding. less 换成名词 Reduction）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "This represents 47 fewer students than the current year. Fewer students mean less federal and state funding.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 3.8,
+              "text": "1 A rare thundersnow event has taken place in Scotland."
+            },
+            {
+              "id": 2,
+              "start": 4.1,
+              "end": 8.8,
+              "text": "And alarmed locals contacted police, thinking they had heard bombs going off."
+            },
+            {
+              "id": 3,
+              "start": 9.2,
+              "end": 22.6,
+              "text": "The phenomenon happens when thunder and lightning mix with a heavy snowstorm—sometimes causing loud claps that can be confused with explosions. 2 One person described it as a loud boom, similar to a plane crash."
+            },
+            {
+              "id": 4,
+              "start": 23,
+              "end": 30.6,
+              "text": "Another person was woken up in the middle of the night by what he thought was early construction work starting."
+            },
+            {
+              "id": 5,
+              "start": 31,
+              "end": 36,
+              "text": "The noise was powerful enough to shake buildings and set off car alarms."
+            },
+            {
+              "id": 6,
+              "start": 36.4,
+              "end": 40.2,
+              "text": "The police were flooded with many calls from the public."
+            },
+            {
+              "id": 7,
+              "start": 40.6,
+              "end": 44.8,
+              "text": "And they sent out a message asking people to remain calm."
+            },
+            {
+              "id": 8,
+              "start": 45.1,
+              "end": 51.3,
+              "text": "The police assured everyone that it was just thunder and lightning rather than some military exercise."
+            },
+            {
+              "id": 9,
+              "start": 51.6,
+              "end": 59.7,
+              "text": "The weather was the coldest it had been for the season, so people were warned to be careful when traveling outside."
+            },
+            {
+              "id": 10,
+              "start": 60.1,
+              "end": 66.2,
+              "text": "In particular, dangerous conditions such as icy roads or wet ground could cause difficulty for drivers."
+            },
+            {
+              "id": 11,
+              "start": 66.5,
+              "end": 71.9,
+              "text": "The rail service also announced potential disruptions to trains due to the deep snow."
+            },
+            {
+              "id": 12,
+              "start": 72.3,
+              "end": 76.1,
+              "text": "Some roads were also closed because of the severe weather."
+            }
+          ],
+          "audioDuration": 76.1,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "What do we learn about thundersnows from the report?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They often take place in the Scottish highlands."
+                },
+                {
+                  "key": "B",
+                  "text": "They usually happen in the middle of the night."
+                },
+                {
+                  "key": "C",
+                  "text": "Their damage can be as serious as that of bombs."
+                },
+                {
+                  "key": "D",
+                  "text": "Their loud claps can be confused with explosions."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：The phenomenon happens when thunder and lightning mix with a heavy snowstorm—sometimes causing loud claps that can be confused with explosions.信号：定义句\"The phenomenon happens when…\" 。信号是这句对现象下定义的结构 The phenomenon happens when（这一现象发生在……之时），新闻在介绍一个陌生概念后，紧跟的这…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音开头只说这次事件发生在苏格兰这一具体地点，并没说雷雪\"往往发生在苏格兰高地\"。A 借\"Scotland/highlands\"这个地名营造熟悉感，把\"这一次在苏格兰\"偷换成\"通常在高地\"，是个频率/范围被夸大的陷阱。 借用原文：Another person was woken up in the middle of the night",
+                "B": "原词陷阱：录音里 woken up in the middle of the night 说的是\"某个人这一次在半夜被吵醒\"，并非\"雷雪通常发生在半夜\"。B 把这个时间状语原词搬过来，又加上\"usually\"夸成惯例，听到\"middle of the night\"就选 B 正中陷阱。 借用原文：loud claps that can be confused with explosions",
+                "C": "偷换概念：录音说的是雷雪的\"巨响\"可被误当爆炸（声音层面），并没说它的\"破坏力\"和炸弹一样大。C 借用\"bombs\"这个原词，把\"声音像炸弹\"偷换成\"破坏力像炸弹\"，听到 bombs 就选会掉进去。",
+                "D": "正确项：与答案句同义替换（loud claps that can be confused with explosions ↔ Their loud claps can be confused with explosions. 原句换主语几乎平移）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The phenomenon happens when thunder and lightning mix with a heavy snowstorm—sometimes causing loud claps that can be confused with explosions.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "What did the police do when they received the local residents' phone calls?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They sent out a message to calm them down."
+                },
+                {
+                  "key": "B",
+                  "text": "They promised to stop the construction work."
+                },
+                {
+                  "key": "C",
+                  "text": "They told them the military exercise was over."
+                },
+                {
+                  "key": "D",
+                  "text": "They set off to inspect the site of the plane crash."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：The police were flooded with many calls from the public. And they sent out a message asking people to remain calm.信号：主语 the police 紧跟的动作句 。信号是以警方为主语、紧接\"接到大量电话\"之后的那个动作 they sent out a message asking people to remain calm。题目问\"接…",
+              "optionAnalysis": {
+                "B": "未提及：录音只提到有人\"以为是施工开工\"，从没说警方\"承诺停止施工\"。B 借\"construction\"这个画面把不存在的承诺安到警方头上，属凭空捏造的动作。 借用原文：it was just thunder and lightning rather than some military exercise",
+                "C": "原词陷阱：录音是警方\"向大家保证这只是雷电、不是军事演习\"，并非\"告诉大家军演结束了\"。C 偷来\"military exercise\"原词，把\"不是军演\"改成\"军演已结束\"——录音根本没有军演，何来结束，听到 military exercise 就选 C 正中陷阱。 借用原文：described it as a loud boom, similar to a plane crash",
+                "D": "原词陷阱：录音里\"plane crash\"只是某人形容声音\"像飞机失事\"的比喻，根本没有真飞机失事，警方更没\"前往勘查失事现场\"。D 把这个比喻里的原词搬来，编出一个不存在的警方动作，听到 plane crash 就选会掉坑。",
+                "A": "正确项：与答案句同义替换（sent out a message asking people to remain calm ↔ They sent out a message to calm them down. \"请人保持冷静\"=\"使其平静\"）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The police were flooded with many calls from the public. And they sent out a message asking people to remain calm.",
+              "type": "细节题"
+            },
+            {
+              "number": 7,
+              "stem": "What were people advised to do when traveling outside?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Keep warm."
+                },
+                {
+                  "key": "B",
+                  "text": "Take caution."
+                },
+                {
+                  "key": "C",
+                  "text": "Avoid driving."
+                },
+                {
+                  "key": "D",
+                  "text": "Use rail service."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：The weather was the coldest it had been for the season, so people were warned to be careful when traveling outside.信号：提醒信号\"were warned to be careful\" 。信号是 people were warned to be careful when traveling outside 里的\"were warned\"…",
+              "optionAnalysis": {
+                "A": "过度推断：录音虽说\"本季最冷\"，但提醒的内容是\"小心\"，并没说让大家\"保暖\"。A 借\"最冷天气\"的语境顺势推出\"keep warm\"，是录音没明说的过度延伸，听到 coldest 就联想到保暖会被带偏。 借用原文：dangerous conditions such as icy roads or wet ground could cause difficulty for drivers",
+                "C": "原词陷阱：录音说\"结冰湿滑路面会给司机带来困难\"，是提醒司机小心，并没说\"别开车\"。C 借\"drivers\"原词把\"开车要当心\"偷换成\"避免开车\"，比录音说得更绝对，听到 drivers 就选 C 会掉坑。 借用原文：The rail service also announced potential disruptions to trains due to the deep snow.",
+                "D": "与原文相反：录音说\"铁路服务也宣布列车可能因大雪受扰\"，是说火车也受影响、不可靠，绝非建议大家\"改坐火车\"。D 偷来\"rail service\"原词，把\"火车受影响\"反着说成\"用火车出行\"，听到 rail service 就选 D 正中反向陷阱。",
+                "B": "正确项：与答案句同义替换（people were warned to be careful ↔ Take caution \"be careful\"=\"take caution\"）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The weather was the coldest it had been for the season, so people were warned to be careful when traveling outside.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 5,
+              "text": "M: I'm going to the city centre to buy a new phone today.",
+              "zh": "M: 我今天要去市中心买一部新手机。"
+            },
+            {
+              "id": 2,
+              "start": 5.3,
+              "end": 9.6,
+              "text": "W: Didn't you buy a new phone just two months ago?",
+              "zh": "W: 你不是两个月前才买了一部新手机吗?"
+            },
+            {
+              "id": 3,
+              "start": 9.9,
+              "end": 19.2,
+              "text": "M: It was three months ago, and I already know what you're going to say. You're thinking I shouldn't replace my phone this soon.",
+              "zh": "M: 是三个月前,而且我已经知道你要说什么了。你觉得我不该这么快就换手机。"
+            },
+            {
+              "id": 4,
+              "start": 19.6,
+              "end": 32.6,
+              "text": "W: No, actually, I was wondering how you could possibly afford a new phone. But now that you mention it, I do think getting another phone so soon is wasteful, regardless of the cost.",
+              "zh": "W: 不,其实我是在想你怎么可能负担得起一部新手机。但既然你提到了,我确实认为这么快又买一部手机很浪费,不管多少钱。"
+            },
+            {
+              "id": 5,
+              "start": 33,
+              "end": 48.7,
+              "text": "M: Maybe you're right, but the thing is, everyone at the office has a nice, expensive phone, and I'm a little embarrassed by mine. I just got a credit card, so I thought I might as well buy a new phone.",
+              "zh": "M: 也许你说得对,但问题是,办公室里每个人都有一部很好很贵的手机,我对我的手机有点难为情。我刚办了一张信用卡,所以我想不如买部新手机。"
+            },
+            {
+              "id": 6,
+              "start": 49.1,
+              "end": 64.8,
+              "text": "W: I don't think buying a phone on credit is a good idea. Look, you've only been working for five months now. People understand that you are a recent graduate, and I doubt anyone cares about your phone other than yourself.",
+              "zh": "W: 我觉得用信用卡买手机不是个好主意。你看,你才工作了五个月。大家都理解你是刚毕业的,我觉得除了你自己,没人在意你的手机。"
+            },
+            {
+              "id": 7,
+              "start": 65.1,
+              "end": 79.4,
+              "text": "M: Maybe you're right, but the credit card has a very good special offer, where I don't pay any interest for six months. I'll be able to pay for the phone well before that period is over.",
+              "zh": "M: 也许你说得对,但这张信用卡有一个很好的特别优惠,六个月内不用付利息。在那之前我肯定能把手机款付清。"
+            },
+            {
+              "id": 8,
+              "start": 79.8,
+              "end": 98.2,
+              "text": "W: I still think it's a bad idea to use a credit card for something you don't need. One of my colleagues bought a lot of things on credit during her first year of work, and it became a bad habit, and she accumulated a lot of debt.",
+              "zh": "W: 我还是觉得用信用卡买你不需要的东西是个坏主意。我有个同事在工作第一年用信用卡买了很多东西,这变成了一个坏习惯,她积累了很多债务。"
+            },
+            {
+              "id": 9,
+              "start": 98.5,
+              "end": 108.2,
+              "text": "M: Well, I can see how that might happen to someone, and I'm sure she regrets it, but I know it won't happen to me.",
+              "zh": "M: 嗯,我能理解这种事可能发生在某些人身上,我相信她很后悔,但我知道这不会发生在我身上。"
+            }
+          ],
+          "audioDuration": 108.2,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "What does the woman say she was actually wondering about?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Why the man is so anxious to buy a new phone."
+                },
+                {
+                  "key": "B",
+                  "text": "How the man could possibly afford a new phone."
+                },
+                {
+                  "key": "C",
+                  "text": "How the man got into the habit of being wasteful."
+                },
+                {
+                  "key": "D",
+                  "text": "Why the man is so fond of using his credit card."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：No, actually, I was wondering how you could possibly afford a new phone.信号：actually 纠偏后的真意 。女方先用 No 否定男方的猜测，再用 actually 引出自己真正在想的事——\"actually\"后面才是她的本意，这正是答案信号：纠正/转折之后的内容才是落点。",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确有男方 I'm going to the city centre to buy a new phone today. 这种\"今天就去买\"的急切感，A 借此造\"为何这么急\"的诱惑；但女方明说在想的是\"怎么买得起\"，不是\"为何急\"。 借用原文：getting another phone so soon is wasteful",
+                "C": "原词陷阱：女方确实说了 getting another phone so soon is wasteful，C 盗这个 wasteful 来骗；但这是她在 But now that you mention it 之后补的评价，题干问的是她\"actually was wondering\"的那件事，那件事是\"如何负担\"，不是\"如何变浪费\"。 借用原文：I just got a credit card",
+                "D": "张冠李戴：录音后文男方说 I just got a credit card，D 借\"信用卡\"造\"为何爱用卡\"的问题；但这是男方的话、且在女方发问之后，女方\"在想\"的内容里根本没有它。",
+                "B": "正确项：与答案句同义替换（how you could possibly afford a new phone ↔ How the man could possibly afford a new phone. 几乎原句搬运，仅换人称）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "No, actually, I was wondering how you could possibly afford a new phone.",
+              "type": "细节题"
+            },
+            {
+              "number": 9,
+              "stem": "Why is the man a little embarrassed by the phone he's using now?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is not in fashion any more."
+                },
+                {
+                  "key": "B",
+                  "text": "It goes out of order frequently."
+                },
+                {
+                  "key": "C",
+                  "text": "It is not as fancy as his colleagues'."
+                },
+                {
+                  "key": "D",
+                  "text": "It lacks functions office work requires."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P5）：Maybe you're right, but the thing is, everyone at the office has a nice, expensive phone, and I'm a little embarrassed by mine.信号：the thing is 引出真正缘由 。男方用 but the thing is 转入正题，紧接着给出难为情的原因——\"大家都有又好又贵的手机\"。\"the thing is\"是\"我接下来说的才是要点\"的提示，正是答…",
+              "optionAnalysis": {
+                "A": "未提及：男方只说自己手机比不上同事、并非\"不再时髦\"。in fashion 这层意思录音从未出现，是凭\"旧手机\"常识硬加的。",
+                "B": "未提及：男方难为情是因为手机不够气派，不是因为它老出故障。\"goes out of order\"录音里完全没有对应。",
+                "D": "原词陷阱：录音确有 everyone at the office 出现\"office\"，D 用 functions office work requires 把\"office\"接到\"工作功能缺失\"上；但男方难为情是\"不如别人气派\"，从没说手机缺工作所需功能。",
+                "C": "正确项：与答案句同义替换（everyone at the office has a nice, expensive phone ↔ It is not as fancy as his colleagues'. 正话反说＋同义改写）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "Maybe you're right, but the thing is, everyone at the office has a nice, expensive phone, and I'm a little embarrassed by mine.",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "What does the man say about the credit card he just got?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It enables him to buy a new phone at a more favorable price."
+                },
+                {
+                  "key": "B",
+                  "text": "It is a special offer to recent college graduates working in offices."
+                },
+                {
+                  "key": "C",
+                  "text": "It is available to office workers who have a good enough credit score."
+                },
+                {
+                  "key": "D",
+                  "text": "It allows him to borrow money without paying interest for six months."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P7）：Maybe you're right, but the credit card has a very good special offer, where I don't pay any interest for six months.信号：数字/期限信息点 。男方介绍卡时给出 I don't pay any interest for six months——\"不付利息\"加\"六个月\"是一处明确的数字/条件信息，正是该题的答案信号，听到数字就该锁定。",
+              "optionAnalysis": {
+                "A": "未提及：卡的好处是\"免息\"而非\"以更优价格买手机\"。a more favorable price 录音里没有对应，免息不等于降价。",
+                "B": "张冠李戴：录音里女方说 you are a recent graduate，B 借此编出\"专给应届办公族的特别优惠\"；但这是女方议论男方身份的话，与卡的优惠对象无关，男方介绍卡时根本没提面向谁。 借用原文：the credit card has a very good special offer",
+                "C": "原词陷阱：录音反复出现 credit card 的 credit，C 借此造 a good enough credit score 的门槛；但男方说的是\"免息\"，从没提任何信用分要求，credit score 是凭 credit 一词联想出来的。",
+                "D": "正确项：与答案句同义替换（I don't pay any interest for six months ↔ It allows him to borrow money without paying interest for six months. 同义改写＋补出隐含的\"借钱\"）"
+              },
+              "evidencePara": "P7",
+              "evidenceText": "Maybe you're right, but the credit card has a very good special offer, where I don't pay any interest for six months.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What do we learn about one of the woman's colleagues?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She borrowed money to pay her debt."
+                },
+                {
+                  "key": "B",
+                  "text": "She developed a habit of overspending."
+                },
+                {
+                  "key": "C",
+                  "text": "She enjoys buying a lot of fancy things."
+                },
+                {
+                  "key": "D",
+                  "text": "She regrets ignoring the woman's advice."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P8）：One of my colleagues bought a lot of things on credit during her first year of work, and it became a bad habit, and she accumulated a lot of debt.信号：举例＋\"became a bad habit\"落点 。女方用 One of my colleagues 引出例子，关键落在 it became a bad habit——\"变成一个坏习惯\"是这句话的结论，正是答案信号…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音确有 she accumulated a lot of debt 出现 debt，A 借此编出\"借钱去还债\"；但原文只说她\"欠了债\"，从没说她\"再借钱来还\"，多绕了一步。 借用原文：bought a lot of things on credit",
+                "C": "原词陷阱：录音说她 bought a lot of things on credit，C 改成\"enjoys buying a lot of fancy things\"；\"fancy（华而不实/高档）\"与\"enjoys（乐在其中）\"录音都没有，原文重点是\"成了坏习惯\"而非\"她爱买好东西\"。 借用原文：I'm sure she regrets it",
+                "D": "张冠李戴：后文男方说 I'm sure she regrets it，D 借此说\"她后悔没听劝\"；但这是男方的推测、且\"没听 the woman 的劝\"录音根本没有，属把男方的话安到同事头上。",
+                "B": "正确项：与答案句同义替换（bought a lot of things on credit... it became a bad habit ↔ She developed a habit of overspending. \"乱买成习惯\"概括为 overspending habit）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "One of my colleagues bought a lot of things on credit during her first year of work, and it became a bad habit, and she accumulated a lot of debt.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 10,
+              "text": "W: Welcome to The Morning Show. Our guest today is a popular blog writer and a major figure in the tiny home community. Welcome, Bob Jones.",
+              "zh": "W: 欢迎来到《早间秀》。我们今天的嘉宾是一位人气博主,也是迷你住宅社区的重要人物。欢迎你, Bob Jones。"
+            },
+            {
+              "id": 2,
+              "start": 10.3,
+              "end": 11.8,
+              "text": "M: Hi, Mary.",
+              "zh": "M: 你好, Mary。"
+            },
+            {
+              "id": 3,
+              "start": 12.2,
+              "end": 22.9,
+              "text": "W: Hi, Bob. You're an advocate of the tiny home movement. A lot of people don't know about this movement. Can you tell our audience what it's about?",
+              "zh": "W: 你好, Bob。你是迷你住宅运动的倡导者。很多人不了解这个运动。你能给我们的观众介绍一下它是怎么回事吗?"
+            },
+            {
+              "id": 4,
+              "start": 23.3,
+              "end": 27.9,
+              "text": "M: Well, it's mainly about increasing home ownership and protecting the environment.",
+              "zh": "M: 嗯,它主要是关于提高住房拥有率和保护环境。"
+            },
+            {
+              "id": 5,
+              "start": 28.3,
+              "end": 40.6,
+              "text": "W: Of course, those are great goals. But I've seen your blog, and you write about houses that are as small as 20 square meters. That's not a realistic size for families.",
+              "zh": "W: 当然,这些都是很好的目标。但我看过你的博客,你写的房子小到只有20平方米。这对家庭来说不是一个现实的面积。"
+            },
+            {
+              "id": 6,
+              "start": 41,
+              "end": 59.8,
+              "text": "M: I do talk about very small homes, but there's no set definition of a tiny home. And other people include homes that are much larger, say, 60 square meters. And you'd be surprised many families of four are happy living in houses that are under 30 square meters.",
+              "zh": "M: 我确实谈论过非常小的房子,但迷你住宅没有固定的定义。其他人也包括大得多的房子,比如说60平方米。你会惊讶地发现,许多四口之家很乐意住在不到30平方米的房子里。"
+            },
+            {
+              "id": 7,
+              "start": 60.1,
+              "end": 70.9,
+              "text": "W: But I think most of us want spacious homes. The average new house in this area is 150 square meters. And that's what people dream of owning.",
+              "zh": "W: 但我认为我们大多数人都想要宽敞的房子。这个地区新房的平均面积是150平方米。这就是人们梦想拥有的。"
+            },
+            {
+              "id": 8,
+              "start": 71.3,
+              "end": 77,
+              "text": "M: Yes, but I think that dream needs to change, considering the cost of housing.",
+              "zh": "M: 是的,但考虑到住房成本,我认为这个梦想需要改变。"
+            },
+            {
+              "id": 9,
+              "start": 77.3,
+              "end": 83.9,
+              "text": "W: Housing costs are high, but do people really save that much by having a smaller home?",
+              "zh": "W: 住房成本很高,但人们通过拥有更小的房子真的能省那么多钱吗?"
+            },
+            {
+              "id": 10,
+              "start": 84.3,
+              "end": 97.7,
+              "text": "M: Absolutely. Many people who can only afford to rent a large home are able to buy a tiny home. In this city, the average home costs $200,000, and a tiny home costs just $50,000.",
+              "zh": "M: 当然。许多只能租得起大房子的人能够买得起迷你住宅。在这个城市,普通住宅的平均价格是20万美元,而迷你住宅只需5万美元。"
+            },
+            {
+              "id": 11,
+              "start": 98,
+              "end": 100,
+              "text": "W: Those are huge savings.",
+              "zh": "W: 这可是巨大的节省。"
+            },
+            {
+              "id": 12,
+              "start": 100.3,
+              "end": 106.5,
+              "text": "M: So, tiny homes might not be for everyone, but they're a good option for many.",
+              "zh": "M: 所以,迷你住宅可能不适合所有人,但对许多人来说是个不错的选择。"
+            },
+            {
+              "id": 13,
+              "start": 106.8,
+              "end": 111.5,
+              "text": "W: You mentioned the environment earlier. How does this benefit the planet?",
+              "zh": "W: 你之前提到了环境。这如何造福地球呢?"
+            },
+            {
+              "id": 14,
+              "start": 111.8,
+              "end": 118.4,
+              "text": "M: Well, if people have smaller homes, they use less land and fewer resources to build them.",
+              "zh": "M: 嗯,如果人们住更小的房子,他们就会使用更少的土地和更少的资源来建造它们。"
+            }
+          ],
+          "audioDuration": 118.4,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What does the tiny home movement mainly advocate?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Blog writing and natural resources saving."
+                },
+                {
+                  "key": "B",
+                  "text": "Joint efforts to improve the local community."
+                },
+                {
+                  "key": "C",
+                  "text": "Audience participation in The Morning Show."
+                },
+                {
+                  "key": "D",
+                  "text": "Home ownership and environmental protection."
+                }
+              ],
+              "answer": "D",
+              "analysis": "主旨题。答案句（P4）：Well, it's mainly about increasing home ownership and protecting the environment.信号：被问者应答 + mainly 点题 。前一段主持人直接发问\"can you tell our audience what it's about\"，紧接着这段是被问者 Bob 的正面应答，且自带点题词 it's mai…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音开头确实说嘉宾是 a popular blog writer，后文也提到省 fewer resources，本项 Blog writing and natural resources saving 把这两个零散原词拼到一起冒充主旨，但\"写博客\"只是嘉宾身份、不是这个运动主张的内容，答非所问。 借用原文：The Morning Show",
+                "B": "未提及：Joint efforts to improve the local community 说\"合力改善本地社区\"，但录音通篇只讲购房与环保，从未提到\"社区\"或\"共同努力\"，属凭空添加。",
+                "C": "原词陷阱：录音里 The Morning Show 只是这档节目的名字，本项 Audience participation in The Morning Show 借这个耳熟的专有名词，硬说运动主张是\"观众参与节目\"，与运动内容毫不相干。",
+                "D": "正确项：与答案句同义替换（increasing home ownership ↔ Home ownership 动名词短语压缩成名词）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Well, it's mainly about increasing home ownership and protecting the environment.",
+              "type": "主旨题"
+            },
+            {
+              "number": 13,
+              "stem": "What does the woman say about houses as small as 20 square meters?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Not a realistic size for families."
+                },
+                {
+                  "key": "B",
+                  "text": "Not welcomed by most Americans."
+                },
+                {
+                  "key": "C",
+                  "text": "Only fit for families of four or less."
+                },
+                {
+                  "key": "D",
+                  "text": "Only suitable for renting to the poor."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P5）：But I've seen your blog, and you write about houses that are as small as 20 square meters. That's not a realistic size for families.信号：转折 But + 直接否定评价 。这句以 But 转折开头，女方先承认目标好、随即话锋一转给出否定评价 That's not a realistic size for families——转折后那句才是她的真实立场，…",
+              "optionAnalysis": {
+                "B": "未提及：Not welcomed by most Americans 说\"不受多数美国人欢迎\"，但女方只说尺寸\"不现实\"，从没提\"美国人\"或\"受不受欢迎\"，是凭空替换成另一种否定理由。",
+                "C": "张冠李戴：录音后面男方才提到 many families of four are happy living（四口之家也住得开），本项 Only fit for families of four or less 盗用\"four\"这个数字，还用 Only 把范围限死成\"仅四口以下\"。这既张冠李戴（那是男方后说的、且态度相反），又把话说绝了。",
+                "D": "未提及：Only suitable for renting to the poor 说\"只适合租给穷人\"，录音里女方对小房子只评价了\"尺寸不现实\"，从未谈到\"出租\"或\"穷人\"，纯属添加。",
+                "A": "正确项：与答案句同义替换（That's not a realistic size for families ↔ Not a realistic size for families 去掉主系结构后近乎原意）"
+              },
+              "evidencePara": "P5",
+              "evidenceText": "But I've seen your blog, and you write about houses that are as small as 20 square meters. That's not a realistic size for families.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What does the man think about the dream of owning a 150-square-meter house?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It should be changed."
+                },
+                {
+                  "key": "B",
+                  "text": "It isn't easy to realize."
+                },
+                {
+                  "key": "C",
+                  "text": "It will come true sooner or later."
+                },
+                {
+                  "key": "D",
+                  "text": "It doesn't appeal to average families."
+                }
+              ],
+              "answer": "A",
+              "analysis": "态度观点题。答案句（P8）：Yes, but I think that dream needs to change, considering the cost of housing.信号：but + I think + needs to change 表态 。前一段女方说大房子\"是人们梦想拥有的\"，男方先 Yes 让步、随即用 but I think that dream needs to chang…",
+              "optionAnalysis": {
+                "B": "偷换概念：录音男方提到 considering the cost of housing（考虑住房成本），本项 It isn't easy to realize 借\"成本高\"联想成\"梦想不易实现\"，但男方的原话是\"梦想该改\"，不是\"难实现\"，偷换了概念。 借用原文：that dream needs to change",
+                "C": "与原文相反：It will come true sooner or later 说\"迟早会实现\"，方向与男方\"该改变\"完全相反。男方否定的是这个大房梦本身，绝不会说它迟早成真。",
+                "D": "未提及：It doesn't appeal to average families 说\"对普通家庭没吸引力\"，但男方对这个 150 平米梦想只说了\"该改\"，从没说\"对谁没吸引力\"，是另造一个评价。",
+                "A": "正确项：与答案句同义替换（that dream needs to change ↔ It should be changed 主动 needs to 改成被动 should be）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "Yes, but I think that dream needs to change, considering the cost of housing.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 15,
+              "stem": "What does the man say about tiny homes?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They help to lower housing prices."
+                },
+                {
+                  "key": "B",
+                  "text": "They help to save up for larger houses."
+                },
+                {
+                  "key": "C",
+                  "text": "They are a good choice for many people."
+                },
+                {
+                  "key": "D",
+                  "text": "They are vital to reducing waste worldwide."
+                }
+              ],
+              "answer": "C",
+              "analysis": "态度观点题。答案句（P12）：So, tiny homes might not be for everyone, but they're a good option for many.信号：So 收束 + but 后的总评 。这句以 So 收束前面关于省钱的讨论，男方先让步\"未必适合所有人\"、再用 but 给出总评 they're a good option for many。So 后的总结句加 but…",
+              "optionAnalysis": {
+                "A": "偷换概念：录音谈到小房子便宜、能省钱 a tiny home costs just \\$50,000，本项 They help to lower housing prices 借\"价格\"话题，偷换成\"帮助拉低房价\"。男方说的是\"个人买得起、省钱\"，不是\"压低市场房价\"，概念被偷换。 借用原文：are able to buy a tiny home",
+                "B": "与原文相反：录音说省下的钱让人能\"买下小房子\"，本项 They help to save up for larger houses 把方向拧反成\"攒钱去买更大的房子\"。这与男方\"买小房子、改掉大房梦\"的主张正相反。 借用原文：they use less land and fewer resources to build them",
+                "D": "过度推断：录音只在结尾说小房子\"用更少土地与资源\" they use less land and fewer resources，本项 They are vital to reducing waste worldwide 用 vital（至关重要）、worldwide（全世界）夸大成\"对全球减废至关重要\"，程度和范围都远超原话。",
+                "C": "正确项：与答案句同义替换（they're a good option for many ↔ They are a good choice for many people option=choice、many=many people）"
+              },
+              "evidencePara": "P12",
+              "evidenceText": "So, tiny homes might not be for everyone, but they're a good option for many.",
+              "type": "态度观点题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 4.6,
+              "text": "1 Kids need time every day to run, jump, stretch and play."
+            },
+            {
+              "id": 2,
+              "start": 4.9,
+              "end": 20.3,
+              "text": "These experiences have been shown to build children's confidence and pleasure in physical activities, develop their motor skills, and even improve emotional well-being. 2 To begin with, children seem to have a natural desire to overcome challenges and take risks."
+            },
+            {
+              "id": 3,
+              "start": 20.7,
+              "end": 27.6,
+              "text": "Taking healthy risks through physical movement builds children's confidence and ability to solve problems and persist through frustration."
+            },
+            {
+              "id": 4,
+              "start": 28,
+              "end": 41.4,
+              "text": "Secondly, movement activities build children's big body skills such as coordination and balance, as well as the fine motor skills they need for tasks like writing, tying their shoes, or throwing and catching a ball."
+            },
+            {
+              "id": 5,
+              "start": 41.8,
+              "end": 52.1,
+              "text": "Thirdly, according to the American Psychological Association, regular physical activity (and especially outdoor activity) reduces children's stress and depression, and improves their ability to focus and learn."
+            },
+            {
+              "id": 6,
+              "start": 52.5,
+              "end": 57.5,
+              "text": "Regular exercise can significantly improve self-regulation and decrease disciplinary consequences for negative behavior."
+            },
+            {
+              "id": 7,
+              "start": 57.9,
+              "end": 65.5,
+              "text": "Physical activity provides a positive outlet for frustration, anxiety, or anger and can become a healthy coping skill throughout life."
+            },
+            {
+              "id": 8,
+              "start": 65.8,
+              "end": 74.7,
+              "text": "Finally, we know that physical activity is important for our physical and mental health, and cultivating the habit of physical activity starts early."
+            },
+            {
+              "id": 9,
+              "start": 75,
+              "end": 81.6,
+              "text": "Children are more likely to develop a lifelong love of physical activity from frequent positive early experiences."
+            },
+            {
+              "id": 10,
+              "start": 81.9,
+              "end": 86.9,
+              "text": "Not every child enjoys competitive sports or playing with balls and that's OK."
+            },
+            {
+              "id": 11,
+              "start": 87.3,
+              "end": 93.8,
+              "text": "There are plenty of other options such as imaginative play, non-competitive games, and gardening or nature experiences."
+            }
+          ],
+          "audioDuration": 93.8,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "What do children seem to have a natural desire to do?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Play outdoors and enjoy themselves."
+                },
+                {
+                  "key": "B",
+                  "text": "Beat challenges and take risks."
+                },
+                {
+                  "key": "C",
+                  "text": "Take care of their well-being."
+                },
+                {
+                  "key": "D",
+                  "text": "Grow up strong and healthy."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P2）：To begin with, children seem to have a natural desire to overcome challenges and take risks.信号：序数词 To begin with 领出第一个要点 。To begin with 是篇章列举的第一个序数词，它后面紧跟的就是本段第一个论点句，也是题干里 natural desire 原话的落点，听到序数词起头就要立…",
+              "optionAnalysis": {
+                "A": "原词陷阱：原文开头确有 run, jump, stretch and play，又多处讲 pleasure，选项 Play outdoors and enjoy themselves. 拼出 play 与 enjoy 听着耳熟，但这些不是孩子天生渴望要做的那件事，与题干 natural desire 错位。 借用原文：improve emotional well-being",
+                "C": "张冠李戴：原文有 improve emotional well-being，选项 Take care of their well-being. 借了 well-being 这个原词，但提升幸福感是运动带来的好处，不是孩子天生的渴望，把别处的内容安到本题上。",
+                "D": "未提及：Grow up strong and healthy. 是人人认同的常识，听着最顺，但原文说孩子天生渴望的是克服挑战、承担风险，并未说他们天生渴望健康成长，凭印象选它就中了陷阱。",
+                "B": "正确项：与答案句同义替换（overcome challenges and take risks ↔ Beat challenges and take risks overcome 同义替换为 Beat）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "To begin with, children seem to have a natural desire to overcome challenges and take risks.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "According to the American Psychological Association, what does regular physical activity do to children?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Enable them to develop their motor skills."
+                },
+                {
+                  "key": "B",
+                  "text": "Help them to conceal their frustration."
+                },
+                {
+                  "key": "C",
+                  "text": "Reduce their stress and depression."
+                },
+                {
+                  "key": "D",
+                  "text": "Prevent them from feeling lonely."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：Thirdly, according to the American Psychological Association, regular physical activity (and especially outdoor activity) reduces children's stress and depression, and improves their ability to focus and learn.信号：出处词 according to 与题干同源对接 。原文 according to the American Psychological Association 与题干出处一字不差，听到这个机构名就知道答案句到了，其…",
+              "optionAnalysis": {
+                "A": "原词陷阱：原文 develop their motor skills 确有这个搭配，选项 Enable them to develop their motor skills. 原词照搬，听着最像，但这是第一段讲运动总体好处时说的，不属于美国心理学会出处句，被题干的出处限定排除。 借用原文：positive outlet for frustration",
+                "B": "偷换概念：原文出现 persist through frustration 与 positive outlet for frustration，选项 Help them to conceal their frustration. 借 frustration 一词，却把原文的疏导挫折偷换成隐藏挫折，方向相反。",
+                "D": "未提及：Prevent them from feeling lonely. 听起来合理，但原文讲的是减压、抗抑郁、助专注，从未提到防止孤独，属于无中生有。",
+                "C": "正确项：与答案句同义替换（reduces children's stress and depression ↔ Reduce their stress and depression 近乎同表述、仅人称代词改写）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Thirdly, according to the American Psychological Association, regular physical activity (and especially outdoor activity) reduces children's stress and depression, and improves their ability to focus and learn.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "What does the passage say about cultivating the habit of physical activity?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It begins early."
+                },
+                {
+                  "key": "B",
+                  "text": "It proves demanding."
+                },
+                {
+                  "key": "C",
+                  "text": "It calls for lifelong efforts."
+                },
+                {
+                  "key": "D",
+                  "text": "It lies in nature experiences."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：Finally, we know that physical activity is important for our physical and mental health, and cultivating the habit of physical activity starts early.信号：序数词 Finally 领出末点、starts early 是定性词 。Finally 标出最后一个要点，紧接着 cultivating the habit of physical activity starts e…",
+              "optionAnalysis": {
+                "B": "未提及：It proves demanding. 说养成习惯很费劲，但原文只说它 starts early，并未评价它吃力，属于无中生有。",
+                "C": "原词陷阱：原文确有 a healthy coping skill throughout life 和 a lifelong love of physical activity，选项 It calls for lifelong efforts. 借 lifelong 这个原词，但原文是说会终身热爱、终身受用，绝不是说养成习惯需要终身努力，把听到的 lifelong 安错了对象，也与本题定性句 starts early 矛盾。 借用原文：gardening or nature experiences",
+                "D": "原词陷阱：原文结尾确有 gardening or nature experiences，选项 It lies in nature experiences. 搬了 nature experiences 这个原词，但那是在举可替代的活动选项，不是在说养成习惯这件事的特点，答非所问。",
+                "A": "正确项：与答案句同义替换（cultivating the habit of physical activity starts early ↔ It begins early starts 同义替换为 begins、习惯被代词 It 概括）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Finally, we know that physical activity is important for our physical and mental health, and cultivating the habit of physical activity starts early.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 15.8,
+              "text": "A new study finds that job seekers are even willing to explore jobs with lower salaries when companies are more diverse. It finds that sharing information about diversity makes job postings more attractive to job seekers, even when pay is lower.",
+              "zh": "一项新研究发现，当公司更具多样性时，求职者甚至愿意探索薪资较低的工作。研究发现，分享关于多样性的信息使得招聘信息对求职者更具吸引力，即使薪酬较低。"
+            },
+            {
+              "id": 2,
+              "start": 16.2,
+              "end": 60.8,
+              "text": "To conduct the study, the team partnered with an online job listings platform which emails postings relevant to individuals and their job search criteria. For the course of the 11-week study, the platform emailed job listings to some 180,000 users placed in one of two conditions. In the baseline condition, participants saw emails in the normal format, with no information on diversity; in the diversity condition, participants saw a diversity score for each listing: information about the race, gender, education, and language skills of a company's workforce compared to others in the same sector and location. Information was then gathered on whether the email was opened, and which job listings were clicked on by each user.",
+              "zh": "为了进行这项研究，研究团队与一个在线招聘信息平台合作，该平台会向个人发送与其求职标准相关的职位信息邮件。在为期11周的研究过程中，该平台向约18万名用户发送招聘信息邮件，这些用户被分为两种情况之一。在基线情况下，参与者看到的是正常格式的邮件,没有关于多样性的信息;在多样性情况下,参与者看到每个招聘信息的多样性评分:关于公司员工的种族、性别、教育程度和语言技能与同一行业和地区其他公司相比的信息。然后收集关于邮件是否被打开以及每个用户点击了哪些招聘信息的数据。"
+            },
+            {
+              "id": 3,
+              "start": 61.1,
+              "end": 89.2,
+              "text": "Participants in the diversity condition tended to click on job listings from companies with slightly higher diversity scores than those in the baseline condition: that is, participants seemed to be paying attention to information about diversity, and using this when deciding whether to click on the listing. And the team also found that participants were willing to look at listings with lower salaries if they came from companies with a higher diversity score.",
+              "zh": "多样性情况下的参与者倾向于点击多样性评分略高于基线情况下公司的招聘信息:也就是说，参与者似乎关注关于多样性的信息，并在决定是否点击该招聘信息时使用这些信息。研究团队还发现，如果招聘信息来自多样性评分较高的公司，参与者愿意查看薪资较低的招聘信息。"
+            }
+          ],
+          "audioDuration": 89.2,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "When are job seekers willing to explore jobs with lower salaries, according to a new study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "When companies share their information online."
+                },
+                {
+                  "key": "B",
+                  "text": "When their job search criteria are met fully."
+                },
+                {
+                  "key": "C",
+                  "text": "When companies embrace greater diversity"
+                },
+                {
+                  "key": "D",
+                  "text": "When they find job postings visually attractive."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：A new study finds that job seekers are even willing to explore jobs with lower salaries when companies are more diverse.信号：when 条件状语点出触发条件 。这句用 when companies are more diverse 这个条件状语，直接把『愿接受低薪』的触发条件说出来，正是题干 When 所问。开篇第一句即点题，是篇章独白的典…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音后文确有 sharing information about diversity 和提到在线平台，A 项 share their information online 盗用了 information、online 这些原词，但它说的是公司在网上分享信息，并非求职者接受低薪的触发条件，听到原词就选会落入陷阱。 借用原文：their job search criteria",
+                "B": "原词陷阱：录音提到平台按 their job search criteria 推送邮件，B 项 When their job search criteria are met fully 借用了 job search criteria 这个原词，但录音从没说『求职标准被完全满足』才接受低薪，这是用原词拼出的无中生有条件。 借用原文：more attractive to job seekers",
+                "D": "偷换概念：录音说多样性让 job postings more attractive，D 项 When they find job postings visually attractive. 盗用了 job postings、attractive，却加了 visually（视觉上）这层录音没有的意思，把『内容上更有吸引力』偷换成『看起来好看』。",
+                "C": "正确项：与答案句同义替换（when companies are more diverse ↔ When companies embrace greater diversity 形容词转动词的同义改写）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "A new study finds that job seekers are even willing to explore jobs with lower salaries when companies are more diverse.",
+              "type": "细节题"
+            },
+            {
+              "number": 20,
+              "stem": "What did participants see in the baseline condition of the study?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Emails in the normal format."
+                },
+                {
+                  "key": "B",
+                  "text": "Major companies in one location."
+                },
+                {
+                  "key": "C",
+                  "text": "All companies in the same sector."
+                },
+                {
+                  "key": "D",
+                  "text": "Various aspects of a company's workforce."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：In the baseline condition, participants saw emails in the normal format, with no information on diversity; in the diversity condition, participants saw a diversity score for each listing.信号：限定词 baseline condition 直接领出答案 。录音用 In the baseline condition, participants saw emails in the normal format 直…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音末尾提到 others in the same sector and location，B 项 Major companies in one location. 盗用了 location 这个原词，但录音从未说基线组看到『同一地点的大公司』，是借词造出的无中生有内容。 借用原文：compared to others in the same sector and location",
+                "C": "原词陷阱：录音里 others in the same sector and location 出现过 same sector，C 项 All companies in the same sector. 直接搬来这个短语，但它说的是比较的参照系，不是基线组所见，听到 same sector 就选会中招。 借用原文：information about the race, gender, education, and language skills of a company's workforce",
+                "D": "张冠李戴：Various aspects of a company's workforce. 描述的是多样性组看到的 information about the race, gender, education, and language skills of a company's workforce，录音明确说基线组 with no information on diversity，D 把另一组的内容安到基线组头上。",
+                "A": "正确项：与答案句同义替换（participants saw emails in the normal format ↔ Emails in the normal format. 近乎原句的概括）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "In the baseline condition, participants saw emails in the normal format, with no information on diversity; in the diversity condition, participants saw a diversity score for each listing.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What does the passage say participants seem to be paying attention to?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Job security."
+                },
+                {
+                  "key": "B",
+                  "text": "Potential pay raises."
+                },
+                {
+                  "key": "C",
+                  "text": "Minimum base salary."
+                },
+                {
+                  "key": "D",
+                  "text": "Information about diversity."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：Participants seemed to be paying attention to information about diversity, and using this when deciding whether to click on the listing.信号：that is 收束句点明关注对象 。这句由 that is 引出对前文的小结，并直接用 paying attention to information about diversity 说出参与者关注的对象，与题干表…",
+              "optionAnalysis": {
+                "A": "未提及：A 项 Job security. 在录音里从未出现，整篇只谈多样性信息与薪资，没有任何关于工作稳定性的内容，属凭印象添加的未提及项。",
+                "B": "过度推断：录音多次提到 lower salaries，B 项 Potential pay raises. 借薪资话题推出『可能的加薪』，但录音只说参与者愿接受低薪、并未说他们关注加薪，是顺着薪资词过度推断。 借用原文：listings with lower salaries",
+                "C": "原词陷阱：C 项 Minimum base salary. 借用了录音反复出现的薪资话题，但录音从未提『最低底薪』这一概念，更没说参与者关注它，是用薪资原词拼出的偷换项。",
+                "D": "正确项：与答案句同义替换（paying attention to information about diversity ↔ Information about diversity. 提取宾语成名词短语）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "Participants seemed to be paying attention to information about diversity, and using this when deciding whether to click on the listing.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 25.4,
+              "text": "A new study from Oregon State University found that dogs tend to match their behavior with the children in their family. The findings are important because there is a growing body of evidence that dogs can help children in many ways. These include helping with social development, increasing physical activity, managing anxiety or serving as a source of attachment in the face of changing family structures.",
+              "zh": "俄勒冈州立大学的一项新研究发现，狗往往会使自己的行为与家庭中的儿童相匹配。这些发现很重要，因为越来越多的证据表明狗可以在许多方面帮助儿童。这些方面包括帮助社交发展、增加身体活动、管理焦虑或在家庭结构变化时充当依恋来源。"
+            },
+            {
+              "id": 2,
+              "start": 25.8,
+              "end": 61.5,
+              "text": "Yet, very little research has focused on how dogs perceive and socially engage with children. \"The great news is that this study suggests dogs are paying a lot of attention to the kids that they live with,\" said Monique Udell, the lead author of the study. \"One interesting thing we have observed is that dogs are matching children's behavior, but less frequently than what we have seen between dogs and adults. This suggests that while dogs may view children as social companions, there are also some differences that we need to understand better.\"",
+              "zh": "然而，很少有研究关注狗如何感知儿童并与儿童进行社交互动。该研究的主要作者Monique Udell说：\"好消息是，这项研究表明狗非常关注与它们一起生活的孩子。我们观察到的一个有趣现象是，狗会匹配儿童的行为，但频率低于我们在狗和成人之间观察到的情况。这表明虽然狗可能将儿童视为社交伙伴，但也存在一些我们需要更好理解的差异。\""
+            },
+            {
+              "id": 3,
+              "start": 61.9,
+              "end": 86.8,
+              "text": "While research has found dogs can have a lot of positive impacts on a child's life, there are also risks associated with the dog-child relationship. For example, other studies have found dogs are more likely to bite children versus adults. \"We still have a lot to learn about the dog-child relationship,\" Udell said. \"But research does show that kids are very capable of training dogs.\"",
+              "zh": "虽然研究发现狗可以对儿童的生活产生许多积极影响，但狗与儿童的关系也存在风险。例如，其他研究发现狗咬儿童的可能性高于咬成人。Udell说：\"关于狗与儿童的关系，我们还有很多需要了解的。但研究确实表明，孩子们非常有能力训练狗。\""
+            }
+          ],
+          "audioDuration": 86.8,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What does the passage say about the findings of a new study from Oregon State University?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Positive."
+                },
+                {
+                  "key": "B",
+                  "text": "Original."
+                },
+                {
+                  "key": "C",
+                  "text": "Important."
+                },
+                {
+                  "key": "D",
+                  "text": "Surprising."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P1）：The findings are important because there is a growing body of evidence that dogs can help children in many ways.信号：对 findings 的直接定性 。录音紧跟着研究结果给出定性 The findings are important，主语正是题干问的 findings，是一句直接的\"X 是怎样的\"判断句，这种直接定性句就是评价类细…",
+              "optionAnalysis": {
+                "A": "原词陷阱：录音第三段确实出现 positive impacts，但那是形容狗对孩子生活的影响，不是形容这项研究的 findings，把 Positive. 安到 findings 上属答非所问。",
+                "B": "未提及：Original. 表示\"首创、原创的\"，录音通篇没有对 findings 作此评价，属于无中生有。",
+                "D": "未提及：Surprising. 是\"出人意料的\"，录音只说 findings 重要，没有任何\"惊讶/意外\"的措辞，属无中生有。",
+                "C": "正确项：与答案句同义替换（The findings are important ↔ Important. 原词直接对应）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "The findings are important because there is a growing body of evidence that dogs can help children in many ways.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What does a growing body of evidence show according to the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Dogs match their behavior with kids as much as with adults."
+                },
+                {
+                  "key": "B",
+                  "text": "Kids and adults alike find in dogs a source of attachment."
+                },
+                {
+                  "key": "C",
+                  "text": "Kids' attitude to dogs is influenced by adults."
+                },
+                {
+                  "key": "D",
+                  "text": "Dogs can help kids in many ways."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P1）：there is a growing body of evidence that dogs can help children in many ways.信号：evidence that 引出结论 。录音 a growing body of evidence that dogs can help children in many ways 中的 that 直接引出证据的内容…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Dogs match their behavior with kids as much as with adults. 借用了录音里 match...behavior 的说法，但本题问的是 evidence 表明什么（帮孩子），而且原文后文恰恰说狗匹配孩子行为\"少于\"成人，并非 as much as，与原文相反。 借用原文：serving as a source of attachment in the face of changing family structures",
+                "B": "原词陷阱：Kids and adults alike find in dogs a source of attachment. 套用了录音里 source of attachment 一词，但原文是说狗\"作为依恋来源\"帮助孩子，并没有说\"孩子和成人都把狗当依恋来源\"，多加了 adults，属偷换概念。",
+                "C": "未提及：Kids' attitude to dogs is influenced by adults. 谈的是\"成人影响孩子对狗的态度\"，录音通篇没有这层意思，属无中生有。",
+                "D": "正确项：与答案句同义替换（dogs can help children in many ways ↔ Dogs can help kids in many ways. children 与 kids 同义替换）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "there is a growing body of evidence that dogs can help children in many ways.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What did Monique Udell say their study suggests?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Dogs pay much attention to the kids they live with."
+                },
+                {
+                  "key": "B",
+                  "text": "Dogs view both adults and kids as social companions."
+                },
+                {
+                  "key": "C",
+                  "text": "Kids differ from adults in their behavior towards dogs."
+                },
+                {
+                  "key": "D",
+                  "text": "Kids need to be aware of the risks in playing with dogs."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：This suggests that while dogs may view children as social companions, there are also some differences that we need to understand better.信号：suggests that 引出研究暗示 。录音中 This suggests that while dogs may view children as social companions 用 suggests th…",
+              "optionAnalysis": {
+                "B": "原词陷阱：Dogs view both adults and kids as social companions. 套用了原文 social companions 一词，但 Udell 强调的是狗把\"孩子\"当伙伴、且和成人有差异，并非\"成人和孩子都\"一视同仁，加了 both...and 反而违背她说的 differences，与原文相反。 借用原文：dogs are matching children's behavior, but less frequently than what we have seen between dogs and adults",
+                "C": "张冠李戴：Kids differ from adults in their behavior towards dogs. 借用原文 differences 一词，但原文说的是\"狗匹配孩子行为少于成人\"，差异在于\"狗对孩子和对成人\"的行为，而非\"孩子和成人对狗\"的行为，主体被调换，属张冠李戴。 借用原文：there are also risks associated with the dog-child relationship",
+                "D": "原词陷阱：Kids need to be aware of the risks in playing with dogs. 套用了第三段提到的 risks，但本题问 Udell 说研究\"暗示\"什么，而风险是后文另一处内容，且原文未说\"孩子需提防风险\"，答非所问。",
+                "A": "正确项：与答案句同义替换（dogs may view children as social companions ↔ Dogs pay much attention to the kids they live with. 概括上位替换）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "This suggests that while dogs may view children as social companions, there are also some differences that we need to understand better.",
+              "type": "细节题"
+            },
+            {
+              "number": 25,
+              "stem": "What does research show kids are very capable of doing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Understanding dogs."
+                },
+                {
+                  "key": "B",
+                  "text": "Training dogs."
+                },
+                {
+                  "key": "C",
+                  "text": "Taking care of dogs."
+                },
+                {
+                  "key": "D",
+                  "text": "Associating with dogs."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P3）：But research does show that kids are very capable of training dogs.信号：capable of 直接点能力 。录音末句 research does show that kids are very capable of training dogs 与题干几乎逐词重合，capable of 后…",
+              "optionAnalysis": {
+                "A": "张冠李戴：Understanding dogs. 借用了原文 understand 一词，但原文说的是\"我们（研究者）还有很多要去了解\"，understand 的主体是研究者而非孩子，把它套到\"孩子擅长理解狗\"属张冠李戴。",
+                "C": "未提及：Taking care of dogs. 的\"照料狗\"录音通篇没有提到，属无中生有。",
+                "D": "未提及：Associating with dogs. 的\"与狗交往\"虽与全文话题相关，但原文明说孩子擅长的是 training（训练），没有说 associating，属未提及。",
+                "B": "正确项：与答案句同义替换（kids are very capable of training dogs ↔ Training dogs. 动作短语直接对应）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "But research does show that kids are very capable of training dogs.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Super realistic masks are made from flexible materials such as silicone and are designed to imitate real human face—down to every last detail.\n\nIn a study by the Universities of York and Kyoto, researchers asked participants to look at pairs of photographs and decide which showed a 26______ face and which showed a person wearing a mask.\n\nSurprisingly, participants made the wrong call in one-in-five cases.\n\nThe 20% error rate 27______ in the study likely underestimates the extent to which people would struggle to tell an 28______ face from the real thing outside of the lab.\n\nThe researchers collected data from participants from both the UK and Japan to 29______ any differences according to race. When trial participants were asked to choose between photographs of faces of a different race from theirs, response times were slower and selections were 5% less 30______ .\n\nThere are now dozens of criminal cases in which offenders have 31______ themselves off as people of a different age, race or gender, sending police investigations down the wrong path.\n\nIn one recent case, an international gang used an 32______ realistic mask to pose as a French minister, 33______ business executives out of millions of pounds.\n\nDr Jet Sanders, who worked on the study while a PhD student at the University of York, said: \"Failure to detect synthetic faces may have important implications for security and crime prevention as super realistic masks may 34______ the key characteristics of a person's appearance to be 35______ identified.\""
+            },
+            {
+              "label": "词库",
+              "text": "A) accurate\nB) allow\nC) artificial\nD) cheating\nE) deserted\nF) establish\nG) extremely\nH) immediately\nI) incorrectly\nJ) normal\nK) observed\nL) passed\nM) reminding\nN) reparable\nO) resolve"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accurate"
+                },
+                {
+                  "key": "B",
+                  "text": "allow"
+                },
+                {
+                  "key": "C",
+                  "text": "artificial"
+                },
+                {
+                  "key": "D",
+                  "text": "cheating"
+                },
+                {
+                  "key": "E",
+                  "text": "deserted"
+                },
+                {
+                  "key": "F",
+                  "text": "establish"
+                },
+                {
+                  "key": "G",
+                  "text": "extremely"
+                },
+                {
+                  "key": "H",
+                  "text": "immediately"
+                },
+                {
+                  "key": "I",
+                  "text": "incorrectly"
+                },
+                {
+                  "key": "J",
+                  "text": "normal"
+                },
+                {
+                  "key": "K",
+                  "text": "observed"
+                },
+                {
+                  "key": "L",
+                  "text": "passed"
+                },
+                {
+                  "key": "M",
+                  "text": "reminding"
+                },
+                {
+                  "key": "N",
+                  "text": "reparable"
+                },
+                {
+                  "key": "O",
+                  "text": "resolve"
+                }
+              ],
+              "answer": "J",
+              "type": "选词填空",
+              "analysis": "【答案】J（官方答案）\n应填 J) normal\n【原文】与 'a person wearing a mask' 形成「真脸 vs 戴面具」对照\nA) accurate accurate 修饰判断/数据，不修饰 face：accurate 意为「准确的」，常修饰 description、answer、data，搭配 face 极其别扭，且无法与「戴面具」形成对照。\nC) artificial 方向反了，artificial 反而是面具一侧：artificial（人造的、假的）应当对应「面具脸」，但这里要的恰恰是与「戴面具」相对的「真脸」，方向反了；artificial 会留给后面 __(28)__ 用。\nE) deserted deserted 修饰场所，与 face 不搭：deserted 多指「废弃的街道/房子」，不和 face 搭配，主体考生只要记住它常修饰地点就能排掉。\nN) reparable 「可修复的」修饰损坏物，不修饰人脸：reparable 意为「可修复的」，对象是机器、损伤、错误，跟「真人脸」语义毫无连接。"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accurate"
+                },
+                {
+                  "key": "B",
+                  "text": "allow"
+                },
+                {
+                  "key": "C",
+                  "text": "artificial"
+                },
+                {
+                  "key": "D",
+                  "text": "cheating"
+                },
+                {
+                  "key": "E",
+                  "text": "deserted"
+                },
+                {
+                  "key": "F",
+                  "text": "establish"
+                },
+                {
+                  "key": "G",
+                  "text": "extremely"
+                },
+                {
+                  "key": "H",
+                  "text": "immediately"
+                },
+                {
+                  "key": "I",
+                  "text": "incorrectly"
+                },
+                {
+                  "key": "J",
+                  "text": "normal"
+                },
+                {
+                  "key": "K",
+                  "text": "observed"
+                },
+                {
+                  "key": "L",
+                  "text": "passed"
+                },
+                {
+                  "key": "M",
+                  "text": "reminding"
+                },
+                {
+                  "key": "N",
+                  "text": "reparable"
+                },
+                {
+                  "key": "O",
+                  "text": "resolve"
+                }
+              ],
+              "answer": "K",
+              "type": "选词填空",
+              "analysis": "【答案】K（官方答案）\n应填 K) observed\n【原文】observe sth. in the study 是研究类文本的常见说法，被动语义贴合\nL) passed passed 与 error rate 搭配不合理：passed 常搭 pass an exam/test 或 pass sth. off as（冒充），与「误差率」无法构成「pass + in the study」的合理被动结构；"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accurate"
+                },
+                {
+                  "key": "B",
+                  "text": "allow"
+                },
+                {
+                  "key": "C",
+                  "text": "artificial"
+                },
+                {
+                  "key": "D",
+                  "text": "cheating"
+                },
+                {
+                  "key": "E",
+                  "text": "deserted"
+                },
+                {
+                  "key": "F",
+                  "text": "establish"
+                },
+                {
+                  "key": "G",
+                  "text": "extremely"
+                },
+                {
+                  "key": "H",
+                  "text": "immediately"
+                },
+                {
+                  "key": "I",
+                  "text": "incorrectly"
+                },
+                {
+                  "key": "J",
+                  "text": "normal"
+                },
+                {
+                  "key": "K",
+                  "text": "observed"
+                },
+                {
+                  "key": "L",
+                  "text": "passed"
+                },
+                {
+                  "key": "M",
+                  "text": "reminding"
+                },
+                {
+                  "key": "N",
+                  "text": "reparable"
+                },
+                {
+                  "key": "O",
+                  "text": "resolve"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) artificial\n【原文】与 the real thing 形成「假 vs 真」精准对照\nA) accurate accurate 不与 real 形成对照：accurate 是「准确的」，与 the real thing 没有反义关系，构成不了 tell A from B 的对照逻辑。\nE) deserted deserted 修饰场所，与 face 搭配不当：deserted（废弃的）几乎只修饰地点/建筑，配 face 既不搭配也不形成对照。\nN) reparable 「可修复的脸」语义荒诞：reparable（可修复的）对象是损坏物，不修饰人脸；且与 real 不构成对照。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accurate"
+                },
+                {
+                  "key": "B",
+                  "text": "allow"
+                },
+                {
+                  "key": "C",
+                  "text": "artificial"
+                },
+                {
+                  "key": "D",
+                  "text": "cheating"
+                },
+                {
+                  "key": "E",
+                  "text": "deserted"
+                },
+                {
+                  "key": "F",
+                  "text": "establish"
+                },
+                {
+                  "key": "G",
+                  "text": "extremely"
+                },
+                {
+                  "key": "H",
+                  "text": "immediately"
+                },
+                {
+                  "key": "I",
+                  "text": "incorrectly"
+                },
+                {
+                  "key": "J",
+                  "text": "normal"
+                },
+                {
+                  "key": "K",
+                  "text": "observed"
+                },
+                {
+                  "key": "L",
+                  "text": "passed"
+                },
+                {
+                  "key": "M",
+                  "text": "reminding"
+                },
+                {
+                  "key": "N",
+                  "text": "reparable"
+                },
+                {
+                  "key": "O",
+                  "text": "resolve"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) establish\n【原文】establish + differences：查明/确认是否存在差异\nO) resolve resolve 是「解决问题」，不是「查明差异」：resolve 意为「解决/化解」，搭配是 resolve a problem/conflict；「解决差异」与研究语境不符——研究者是要「弄清是否存在差异」，而非「化解差异」。"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accurate"
+                },
+                {
+                  "key": "B",
+                  "text": "allow"
+                },
+                {
+                  "key": "C",
+                  "text": "artificial"
+                },
+                {
+                  "key": "D",
+                  "text": "cheating"
+                },
+                {
+                  "key": "E",
+                  "text": "deserted"
+                },
+                {
+                  "key": "F",
+                  "text": "establish"
+                },
+                {
+                  "key": "G",
+                  "text": "extremely"
+                },
+                {
+                  "key": "H",
+                  "text": "immediately"
+                },
+                {
+                  "key": "I",
+                  "text": "incorrectly"
+                },
+                {
+                  "key": "J",
+                  "text": "normal"
+                },
+                {
+                  "key": "K",
+                  "text": "observed"
+                },
+                {
+                  "key": "L",
+                  "text": "passed"
+                },
+                {
+                  "key": "M",
+                  "text": "reminding"
+                },
+                {
+                  "key": "N",
+                  "text": "reparable"
+                },
+                {
+                  "key": "O",
+                  "text": "resolve"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) accurate\n【原文】selections 5% less accurate：选择结果准确率低 5%\nE) deserted deserted 修饰场所，与 selections 风马牛不相及：deserted（废弃的）只搭配地点/建筑，「废弃的选择」语义不通。\nN) reparable 「可修复的选择」不成立，且与对照逻辑无关：reparable（可修复的）对象是损坏物，搭 selections 完全说不通；本题要的是「准确度高低」的对照。"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accurate"
+                },
+                {
+                  "key": "B",
+                  "text": "allow"
+                },
+                {
+                  "key": "C",
+                  "text": "artificial"
+                },
+                {
+                  "key": "D",
+                  "text": "cheating"
+                },
+                {
+                  "key": "E",
+                  "text": "deserted"
+                },
+                {
+                  "key": "F",
+                  "text": "establish"
+                },
+                {
+                  "key": "G",
+                  "text": "extremely"
+                },
+                {
+                  "key": "H",
+                  "text": "immediately"
+                },
+                {
+                  "key": "I",
+                  "text": "incorrectly"
+                },
+                {
+                  "key": "J",
+                  "text": "normal"
+                },
+                {
+                  "key": "K",
+                  "text": "observed"
+                },
+                {
+                  "key": "L",
+                  "text": "passed"
+                },
+                {
+                  "key": "M",
+                  "text": "reminding"
+                },
+                {
+                  "key": "N",
+                  "text": "reparable"
+                },
+                {
+                  "key": "O",
+                  "text": "resolve"
+                }
+              ],
+              "answer": "L",
+              "type": "选词填空",
+              "analysis": "【答案】L（官方答案）\n应填 L) passed\n【原文】passed themselves off as：把自己冒充成另一种身份\noffenders have passed themselves off as people of a different age, race or gender 译为「罪犯把自己冒充成不同年龄、种族或性别的人」，与下文 sending police investigations down the wrong path 「误导警方调查」的逻辑链条扣得严丝合缝。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accurate"
+                },
+                {
+                  "key": "B",
+                  "text": "allow"
+                },
+                {
+                  "key": "C",
+                  "text": "artificial"
+                },
+                {
+                  "key": "D",
+                  "text": "cheating"
+                },
+                {
+                  "key": "E",
+                  "text": "deserted"
+                },
+                {
+                  "key": "F",
+                  "text": "establish"
+                },
+                {
+                  "key": "G",
+                  "text": "extremely"
+                },
+                {
+                  "key": "H",
+                  "text": "immediately"
+                },
+                {
+                  "key": "I",
+                  "text": "incorrectly"
+                },
+                {
+                  "key": "J",
+                  "text": "normal"
+                },
+                {
+                  "key": "K",
+                  "text": "observed"
+                },
+                {
+                  "key": "L",
+                  "text": "passed"
+                },
+                {
+                  "key": "M",
+                  "text": "reminding"
+                },
+                {
+                  "key": "N",
+                  "text": "reparable"
+                },
+                {
+                  "key": "O",
+                  "text": "resolve"
+                }
+              ],
+              "answer": "G",
+              "type": "选词填空",
+              "analysis": "【答案】G（官方答案）\n应填 G) extremely\n【原文】唯一能合理修饰 realistic 程度的程度副词\nH) immediately 时间副词，与 realistic 语义不搭：immediately 表「立刻、立即」，是时间副词，用来修饰动作的发生时点，an __(32)__ realistic mask 这里不是说面具「立刻」逼真，逻辑不通。\nI) incorrectly 方式副词且方向相反，不可能修饰 realistic：incorrectly 是「错误地、不正确地」，本身和 realistic（逼真的）方向相反，「错误地逼真」语义自相矛盾；它后面要修饰的应是动作类成分，这里也派不上用场。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accurate"
+                },
+                {
+                  "key": "B",
+                  "text": "allow"
+                },
+                {
+                  "key": "C",
+                  "text": "artificial"
+                },
+                {
+                  "key": "D",
+                  "text": "cheating"
+                },
+                {
+                  "key": "E",
+                  "text": "deserted"
+                },
+                {
+                  "key": "F",
+                  "text": "establish"
+                },
+                {
+                  "key": "G",
+                  "text": "extremely"
+                },
+                {
+                  "key": "H",
+                  "text": "immediately"
+                },
+                {
+                  "key": "I",
+                  "text": "incorrectly"
+                },
+                {
+                  "key": "J",
+                  "text": "normal"
+                },
+                {
+                  "key": "K",
+                  "text": "observed"
+                },
+                {
+                  "key": "L",
+                  "text": "passed"
+                },
+                {
+                  "key": "M",
+                  "text": "reminding"
+                },
+                {
+                  "key": "N",
+                  "text": "reparable"
+                },
+                {
+                  "key": "O",
+                  "text": "resolve"
+                }
+              ],
+              "answer": "D",
+              "type": "选词填空",
+              "analysis": "【答案】D（官方答案）\n应填 D) cheating\n【原文】正好套进 cheat sb. out of money 的固定搭配，且与「冒充行骗」逻辑吻合\nM) reminding 搭配是 remind sb. of sth.，不接 out of money：reminding 意为「提醒、使想起」，常见搭配是 'remind sb. of/about sth.'，不可能搭 'out of millions of pounds'；与「行"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accurate"
+                },
+                {
+                  "key": "B",
+                  "text": "allow"
+                },
+                {
+                  "key": "C",
+                  "text": "artificial"
+                },
+                {
+                  "key": "D",
+                  "text": "cheating"
+                },
+                {
+                  "key": "E",
+                  "text": "deserted"
+                },
+                {
+                  "key": "F",
+                  "text": "establish"
+                },
+                {
+                  "key": "G",
+                  "text": "extremely"
+                },
+                {
+                  "key": "H",
+                  "text": "immediately"
+                },
+                {
+                  "key": "I",
+                  "text": "incorrectly"
+                },
+                {
+                  "key": "J",
+                  "text": "normal"
+                },
+                {
+                  "key": "K",
+                  "text": "observed"
+                },
+                {
+                  "key": "L",
+                  "text": "passed"
+                },
+                {
+                  "key": "M",
+                  "text": "reminding"
+                },
+                {
+                  "key": "N",
+                  "text": "reparable"
+                },
+                {
+                  "key": "O",
+                  "text": "resolve"
+                }
+              ],
+              "answer": "B",
+              "type": "选词填空",
+              "analysis": "【答案】B（官方答案）\n应填 B) allow\n【原文】allow sth. to be done：使关键特征得以被（错误地）识别\nF) establish 不接 sth. to be done 结构，语义也偏正面：establish 意为「确立、查明」，搭配 establish sth.（事实/制度），不能跟 'sth. to be done' 这种使役结构；且 establish 强调「确\nO) resolve resolve 是「解决问题」，与「让特征被识别」无关：resolve 意为「解决（问题/争端）」，常搭 resolve a problem/dispute，与本句「面具让特征被识别」逻辑无连接，且也不接 'sth. to be don"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "accurate"
+                },
+                {
+                  "key": "B",
+                  "text": "allow"
+                },
+                {
+                  "key": "C",
+                  "text": "artificial"
+                },
+                {
+                  "key": "D",
+                  "text": "cheating"
+                },
+                {
+                  "key": "E",
+                  "text": "deserted"
+                },
+                {
+                  "key": "F",
+                  "text": "establish"
+                },
+                {
+                  "key": "G",
+                  "text": "extremely"
+                },
+                {
+                  "key": "H",
+                  "text": "immediately"
+                },
+                {
+                  "key": "I",
+                  "text": "incorrectly"
+                },
+                {
+                  "key": "J",
+                  "text": "normal"
+                },
+                {
+                  "key": "K",
+                  "text": "observed"
+                },
+                {
+                  "key": "L",
+                  "text": "passed"
+                },
+                {
+                  "key": "M",
+                  "text": "reminding"
+                },
+                {
+                  "key": "N",
+                  "text": "reparable"
+                },
+                {
+                  "key": "O",
+                  "text": "resolve"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) incorrectly\n【原文】与「面具威胁识别、辨认失败」的负面主旨完全对齐\nH) immediately immediately 表「立刻」，与文章「识别错误」主旨不符：immediately（立刻、立即）只表时间速度，「特征被立刻识别」反而是好事，与 Failure to detect synthetic faces 的负面忧虑方向反了。\nA) accurate 形容词：准确的、精确的 用于第 30 空\nB) allow 动词：允许、使得（某事）可能 用于第 34 空\nC) artificial 形容词：人造的、假的、非自然的 用于第 28 空"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Most people have a dream in life, a vision of who or what they'd like to be in the future. At a minimum, everyone has interests and values that determine what they want out of their lives. Even so, trying to set achievable goals that you'll work for over the course of many years can be extremely challenging. It can be hard to know where to even begin, and the things you hope to achieve may seem impossible. But, if you're well prepared you may be able to set goals for your life that are just as fulfilling to work toward as to achieve."
+            },
+            {
+              "label": "B",
+              "text": "We all have goals that we want to achieve in our lives. These goals may include learning a new language, eating healthier and losing weight, becoming a better parent, saving more money, and so on. It can be easy to assume that the gap between where you are now and where you want to be in the future is caused by a lack of knowledge. This is why we buy courses on how to start a business or how to lose weight fast or how to learn a new language in three months. We assume that if we knew about a better strategy, then we would get better results. We believe that a new result requires new knowledge."
+            },
+            {
+              "label": "C",
+              "text": "What I'm starting to realize, however, is that new knowledge does not necessarily drive new results. In fact, learning something new can actually be a waste of time if your goal is to make progress and not simply gain additional knowledge."
+            },
+            {
+              "label": "D",
+              "text": "It all comes down to the difference between learning and practicing. Thomas Sterner, in his book *The Practicing Mind*, explains the key difference between practicing and learning. He says: \"When we practice something, we are involved in the deliberate repetition of a process with the intention of reaching a specific goal.\" Here the words \"deliberate\" and \"intention\" are key, because they define the difference between actively practicing something and passively learning it."
+            },
+            {
+              "label": "E",
+              "text": "Learning something new and practicing something new may seem very similar, but these two methods can have profoundly different results. Here are some additional ways to think about the difference. Let's say your goal is to get stronger and more fit. You can research the best instructions on weight lifting technique, but the only way to build strength is to practice lifting weights. Let's say your goal is to grow your startup. You can learn about the best way to make a sales pitch, but the only way to actually land customers is to practice making sales calls. Let's say your goal is to write a book. You can talk to a best-selling author about writing, but the only way to become a better writer is to practice publishing consistently."
+            },
+            {
+              "label": "F",
+              "text": "Passive learning creates knowledge. Active practice creates skill. Let's consider a couple more reasons to prioritize active practice over passive learning. First, passive learning can be a stick that supports inaction. In many cases, learning is actually a way to avoid taking action on the goals and interests that we say are important to us. For example, let's say you want to learn a foreign language. Reading a book on how to learn a foreign language quickly allows you to feel like you are making progress (\"Hey, I'm figuring out the best way to do this!\"). Of course, you're not actually practicing the action that would deliver your desired outcome (speaking the foreign language)."
+            },
+            {
+              "label": "G",
+              "text": "In situations like this one, we often claim that we are preparing or researching the best method, but these rationalizations allow us to feel like we are moving forward when we are merely spinning our wheels. We make the mistake of being in motion rather than taking action. Learning is valuable until it becomes a form of procrastination(拖延)."
+            },
+            {
+              "label": "H",
+              "text": "Another point to consider is that practice is learning, but learning is not practice. Passive learning is not a form of practice because although you gain new knowledge, you are not discovering how to apply that knowledge. Active practice, meanwhile, is one of the greatest forms of learning because the mistakes you make while practicing reveal important insights."
+            },
+            {
+              "label": "I",
+              "text": "Even more importantly, practice is the only way to make a meaningful contribution with your knowledge. You can watch an online course about how to build a business or read an article about a terrible disaster in a developing nation, but that knowledge is unproductive unless you actually launch your business or donate to those in need. Learning by itself can be valuable for you, but if you want to be valuable to others, then you have to express your knowledge in some way."
+            },
+            {
+              "label": "J",
+              "text": "The last important point to consider is that practice focuses your energy on the process. Thomas Sterner once said, \"Progress is a natural result of staying focused on the process of doing anything.\" The state of your life right now is a result of the habits and beliefs that you have been practicing each day. When you realize this and begin to direct your focus toward practicing better habits day-in and day-out, continual progress will be the logical outcome. It is not the things we learn nor the dreams we visualize that determine our results, but rather the habits that we practice each day. Fall in love with boredom and focus your energy on the process, not the product."
+            },
+            {
+              "label": "K",
+              "text": "What does this all mean? Is passive learning useless? Of course not. In many cases, learning for the sake of learning can be a beautiful thing. Not to mention that soaking up new information can help you make more informed decisions when you do decide to take action. That said, the main point of this article is that learning by itself does not lead to progress. We often hide behind information and use learning as an excuse to delay the more difficult and more important choice of actually doing something. Spend less time passively learning and more time actively practicing. Stop thinking and start doing."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Acquisition of new knowledge may not guarantee the progress that you aim to make.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】What I'm starting to realize, however, is that new knowledge does not necessarily drive new results.\nB 段是 We assume that if we knew about a better strategy, then we would get better results，只是把 大众的设想 摆出来；陈述句要的是 不能保证 的判断，这一判断只出现在 C 段。"
+            },
+            {
+              "number": 37,
+              "stem": "Your current situation in life is built on the beliefs and habits you have been practicing daily.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "J",
+                  "text": "Paragraph J"
+                }
+              ],
+              "answer": "J",
+              "type": "信息匹配",
+              "analysis": "【答案】J（强锚点）\n【原文】The state of your life right now is a result of the habits and beliefs that you have been practicing each day."
+            },
+            {
+              "number": 38,
+              "stem": "Knowing the best way to learn a foreign language will not enable you to speak it without actual practice.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（强锚点）\n【原文】For example, let's say you want to learn a foreign language. Reading a book on how to learn a foreign language quickly allows you to feel like you are making progress (\"Hey, I'm figuring out the best way to do this!\"). Of course, you're not actually practicing the action that would deliver your desired outcome (speaking the foreign language).\n比如，假设你想学一门外语。读一本 怎样快速学外语 的书会让你觉得自己在进步（嘿，我正在搞清楚最好的方法！）。但其实，你并没有在实际练习那能带来你想要的结果的那个动作——说这门外语。"
+            },
+            {
+              "number": 39,
+              "stem": "People may find it demanding to create a goal which will take a long time to achieve.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "A",
+              "type": "信息匹配",
+              "analysis": "【答案】A（强锚点）\n【原文】Even so, trying to set achievable goals that you'll work for over the course of many years can be extremely challenging.\n即便如此，要为你需要奋斗多年才能达成的目标设立可实现的方案，可能极其困难。"
+            },
+            {
+              "number": 40,
+              "stem": "Learning and practicing seem to be very much alike, but the two processes can lead to quite different outcomes.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（强锚点）\n【原文】Learning something new and practicing something new may seem very similar, but these two methods can have profoundly different results.\nH 段是 Another point to consider is that practice is learning, but learning is not practice——讨论的是包含关系，不是 看起来相似但结果不同。"
+            },
+            {
+              "number": 41,
+              "stem": "Absorbing new information is helpful in making better decisions prior to action.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "K",
+                  "text": "Paragraph K"
+                }
+              ],
+              "answer": "K",
+              "type": "信息匹配",
+              "analysis": "【答案】K（强锚点）\n【原文】Not to mention that soaking up new information can help you make more informed decisions when you do decide to take action.\n更不用说，吸收新的信息有助于你在真正决定行动时做出更明智的决策。"
+            },
+            {
+              "number": 42,
+              "stem": "Sometimes we may feel like we are making progress by doing some research or making preparations, but actually we are staying at the starting point.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】In situations like this one, we often claim that we are preparing or researching the best method, but these rationalizations allow us to feel like we are moving forward when we are merely spinning our wheels.\nF 段的 Reading a book on how to learn a foreign language quickly allows you to feel like you are making progress 是 具体例子，陈述句 Q42 的 评论性概括 出现在承接段 G。"
+            },
+            {
+              "number": 43,
+              "stem": "We are inclined to think that a lack of knowledge prevents us from advancing to a better future.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（强锚点）\n【原文】It can be easy to assume that the gap between where you are now and where you want to be in the future is caused by a lack of knowledge.\nC 段以 What I'm starting to realize, however 开头是 反驳的转折，与陈述句 倾向于认为 的口吻相反。"
+            },
+            {
+              "number": 44,
+              "stem": "Learning can benefit you by itself, but only practice can turn what you learn into meaningful contributions.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "answer": "I",
+              "type": "信息匹配",
+              "analysis": "【答案】I（强锚点）\n【原文】Learning by itself can be valuable for you, but if you want to be valuable to others, then you have to express your knowledge in some way.\nH 段的 Passive learning is not a form of practice 是 包含关系判断，不涉及 meaningful contribution 这一价值出口。"
+            },
+            {
+              "number": 45,
+              "stem": "Practice involves repeating a process intentionally to attain a particular objective.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】He says: \"When we practice something, we are involved in the deliberate repetition of a process with the intention of reaching a specific goal.\"\n2024年12月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 38. Knowing the best way to learn a foreign language will not enable you to speak it without actual practice. 这句陈述的信息出自第几段？为什么？ 2024年12月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 第 38 句的信息出自 F 段（强锚点句）。F 段定位句为「For example, let's say you want to learn a foreign language. Reading a book on how to learn a foreign language quickly allows you to feel like you are making progress (\"Hey, I'm figuring out the best way to do this!\"). Of course, you're not actually practicing the action that would deliver your desired outcome (speaking the foreign language).」（比如，假设你想学一门外语。读一本 怎样快速学外语 的书会让你觉得自己在进步（嘿，我正在搞清楚最好的方法！）。但其实，你并没有在实际练习那能带来你想要的结果的那个动作——说这门外语。）。陈述句是对原文的同义改写（Knowing the best way to learn a foreign language ↔ Reading a book on how to learn a foreign language quickly；will not enable you to speak it without actual practice ↔ you're not actually practicing the action that would deliver your desired outcome (speaking the foreign language)）。与之话题相邻的 E 段虽含相近关键词，但并非该信息的真正出处，需逐一排除。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error-proof. Recent evidence points to drivers' limited understanding of what these systems can and cannot do as a contributing factor to system misuse. A recent study tackles the issue of over-trusting drivers and the resulting system misuse from a legal viewpoint. It looks at what the manufacturers of self-driving cars should legally do to ensure that drivers understand how to use the vehicles appropriately."
+            },
+            {
+              "label": "B",
+              "text": "One solution suggested in the study involves requiring buyers to sign end-user license agreements (EULAs), similar to the terms and conditions that require agreement when using new software products. But this is far from ideal. The agreement may not provide enough information to the driver, leading to confusion about the nature of the requests for agreement and their implications. Further, most end users don't read EULAs. A 2017 study shows 91 percent of people agree to them without reading. Among young people, 97 percent agree without reviewing the terms."
+            },
+            {
+              "label": "C",
+              "text": "The issue is that, unlike using a smartphone app, operating a car has serious safety risks, whether the driver is human or software. And human drivers need to consent to take responsibility for the outcomes of the software and hardware."
+            },
+            {
+              "label": "D",
+              "text": "\"Warning fatigue\" and distracted driving are also causes for concern. For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message. Or, if the message is presented while the vehicle is in motion, it could represent a distraction. Given these limitations and concerns, even if this mode of obtaining consent is to move forward, it likely won't fully protect automakers from their legal liability should the system malfunction(发生故障) or an accident occur."
+            },
+            {
+              "label": "E",
+              "text": "Driver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations. This needs to occur beyond the vehicle purchase. Recent evidence shows even relying on the information provided by the seller is not going to answer many questions. All of this considered, the road forward for self-driving cars is not going to be a smooth ride after all."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What do we learn from research in human-vehicle interaction?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Automatic driving systems are by no means immune to errors."
+                },
+                {
+                  "key": "B",
+                  "text": "Driverless vehicles are likely to be misused by some people."
+                },
+                {
+                  "key": "C",
+                  "text": "Self-driving car manufacturers are not aware of the legal matters involved."
+                },
+                {
+                  "key": "D",
+                  "text": "There is a long way to go before humans can interact with driverless vehicles."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error-proof.\nA) ✓ 正确：systems designed to automate driving ↔ Automatic driving systems far from being error-proo\nB) 偷换概念：Driverless vehicles are likely to be misused by some people 谈的是车被滥用，而题干问的是研究发现，定位句结论是系统易出错\nC) 无中生有：Self-driving car manufacturers are not aware of the legal matters involved 称厂商对法律毫无意识，而原文 \nD) 偷换概念：There is a long way to go before humans can interact with driverless vehicles 把研究结论说成人车交互本"
+            },
+            {
+              "number": 47,
+              "stem": "What is the problem with requiring buyers to sign end-user license agreements?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "End users, young and old alike, find the terms complex to interpret."
+                },
+                {
+                  "key": "B",
+                  "text": "Most end users sign them without bothering to read the terms."
+                },
+                {
+                  "key": "C",
+                  "text": "Many people are often confused by the wording of the terms."
+                },
+                {
+                  "key": "D",
+                  "text": "Most end users do not understand the terms after reading them through."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Further, most end users don't read EULAs. A 2017 study shows 91 percent of people agree to them without reading.\nA) 无中生有：End users, young and old alike, find the terms complex to interpret 说所有人都觉得条款难以解读，但原文只说大家压\nB) ✓ 正确：most end users don't read EULAs ↔ Most end users sign them without bothering to read the t\nC) 偷换概念：Many people are often confused by the wording of the terms 说人们被措辞搞晕，但原文 leading to confusi\nD) 与原文相反：Most end users do not understand the terms after reading them through 隐含的前提是用户把条款读完了，只是不懂；"
+            },
+            {
+              "number": 48,
+              "stem": "What would drivers do when they suffer from \"warning fatigue\"?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Waste no time keeping the car moving."
+                },
+                {
+                  "key": "B",
+                  "text": "Rest a while to avoid fatigue driving."
+                },
+                {
+                  "key": "C",
+                  "text": "Take no action despite repeated warnings."
+                },
+                {
+                  "key": "D",
+                  "text": "Take note of the message though fatigued."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message.\nA) 无中生有：Waste no time keeping the car moving 是 抓紧时间让车继续走，与原文 ignore the message 描述的不作为完全不是一回事。\nB) 偷换概念：Rest a while to avoid fatigue driving 在谈疲劳驾驶要休息，但原文 \"Warning fatigue\" 指对警告厌烦，并非生理疲劳。\nC) ✓ 正确：could decide to just ignore the message ↔ Take no action despite repeated warnings 预判要的是无视\nD) 与原文相反：Take note of the message though fatigued 是 虽然疲惫但仍留意警告，与原文 just ignore the message 完全相反。"
+            },
+            {
+              "number": 49,
+              "stem": "What does the author think of continuing to ask buyers to sign end-user license agreements?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It will probably not guarantee the safety of drivers in case of accidents."
+                },
+                {
+                  "key": "B",
+                  "text": "It likely won't ensure that the automatic driving system functions properly."
+                },
+                {
+                  "key": "C",
+                  "text": "It likely won't fully protect automakers against accusations of deliberate cheating."
+                },
+                {
+                  "key": "D",
+                  "text": "It will probably not provide manufacturers adequate protection from legal responsibilities."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Given these limitations and concerns, even if this mode of obtaining consent is to move forward, it likely won't fully protect automakers from their legal liability should the system malfunction(发生故障) or an accident occur.\nA) 张冠李戴：It will probably not guarantee the safety of drivers in case of accidents 谈的是事故中司机的安全保障，但原\nB) 偷换概念：It likely won't ensure that the automatic driving system functions properly 谈的是系统能否正常运行，但原\nC) 偷换概念：It likely won't fully protect automakers against accusations of deliberate cheating 谈的是免于被\nD) ✓ 正确：it likely won't fully protect automakers from their legal liability ↔ It will probably not"
+            },
+            {
+              "number": 50,
+              "stem": "What should be done to help drivers fully understand system capabilities and limitations?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Training them to be experts in vehicle automation."
+                },
+                {
+                  "key": "B",
+                  "text": "Familiarizing them with the systems through training."
+                },
+                {
+                  "key": "C",
+                  "text": "Broadening their knowledge of accident-prevention mechanisms."
+                },
+                {
+                  "key": "D",
+                  "text": "Facilitating their access to the information provided by the seller."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Driver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations.\nA) 过度推断：Training them to be experts in vehicle automation 把目标拔到成为车辆自动化领域专家的高度，而原文只要求 fully underst\nB) ✓ 正确：Driver training for self-driving vehicles can help ensure that drivers fully understand sy\nC) 无中生有：Broadening their knowledge of accident-prevention mechanisms 谈的是扩大防事故机制的知识面，但原文谈的是理解系统的能力与\nD) 与原文相反：Facilitating their access to the information provided by the seller 主张方便司机获取卖家信息，但原文 even "
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Do you ever blend up a protein drink for breakfast, or grab a protein bar following an afternoon workout? If so, you are likely among the millions of people in search of more protein-rich diets."
+            },
+            {
+              "label": "B",
+              "text": "Protein-enriched products are found everywhere. But contrary to all the publicity that everyone needs more protein, most Americans get twice as much as they need."
+            },
+            {
+              "label": "C",
+              "text": "Many of us living in the most developed countries are buying into a myth of protein deficiency created by food companies and self-identified health experts. Global retail sales of protein supplement products reached an astonishing US$18.9 billion in 2020."
+            },
+            {
+              "label": "D",
+              "text": "But are we really in need of more protein? Physicians in the U.S. have never actually examined a patient with protein deficiency because simply by eating an adequate number of daily calories we are also most likely getting enough protein."
+            },
+            {
+              "label": "E",
+              "text": "In fact, Americans currently consume almost twice the National Academy of Medicine's recommended daily intake of protein although the most desirable protein intake may vary depending on age and activity level."
+            },
+            {
+              "label": "F",
+              "text": "For example, if you're a dedicated athlete you might need to consume higher quantities of protein. Generally, though, a 140-pound person should not exceed 120 grams of protein per day, particularly because a high protein diet can strain kidney and liver function and increase risks of developing heart disease and cancer."
+            },
+            {
+              "label": "G",
+              "text": "While fats and sugar have taken the beating in turns since over a century ago, protein has managed to remain our red-hot favorite."
+            },
+            {
+              "label": "H",
+              "text": "In the 1970s through the 1990s, protein products remained visible but moved back somewhat with the dietary spotlight firmly fixed on low-calorie, low-fat, sugar-free snack foods and beverages following the publication of studies linking sugar and saturated(饱和的) fat consumption to heart disease."
+            },
+            {
+              "label": "I",
+              "text": "Later research in 2003, however, suggested high-protein diets could aid in weight loss, and protein quickly regained its former nutrient-superstar status."
+            },
+            {
+              "label": "J",
+              "text": "Now most people living in high-income nations are consuming enough protein. When we replace meals with a protein bar or drink, we also risk missing out on the rich sources of antioxidants(抗氧化剂), vitamins and many other benefits of real food."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What do we learn about publicity over protein in America?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It has helped to create the myth of protein deficiency."
+                },
+                {
+                  "key": "B",
+                  "text": "It has helped Americans in search of protein-rich diets."
+                },
+                {
+                  "key": "C",
+                  "text": "It has raised a lot of health concerns among the public."
+                },
+                {
+                  "key": "D",
+                  "text": "It has been funded by food companies and health experts."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】Many of us living in the most developed countries are buying into a myth of protein deficiency created by food companies and self-identified health experts.\nA) ✓ 正确：buying into a myth of protein deficiency created by food companies and self-identified hea\nB) 与原文相反：原文用 buying into a myth 表明宣传是在\"骗\"美国人，并非\"帮\"他们；选项 helped Americans in search of protein-rich \nC) 无中生有：原文从未说 publicity \"raised health concerns\"——P6 的健康风险讲的是高蛋白饮食本身，而非舆论造成的恐慌；选项 raised a lot of \nD) 偷换概念：原文说迷思是 created by food companies and self-identified health experts，主语是\"食品公司和自封专家\"在制造迷思；选项"
+            },
+            {
+              "number": 52,
+              "stem": "Why have physicians in the U.S. never actually examined a patient with protein deficiency?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Americans can purchase many kinds of protein-rich foods everywhere."
+                },
+                {
+                  "key": "B",
+                  "text": "Americans can absorb the number of calories recommended by food experts."
+                },
+                {
+                  "key": "C",
+                  "text": "Americans can get sufficient protein just by eating adequate foods daily."
+                },
+                {
+                  "key": "D",
+                  "text": "Americans can rely on food supplements to prevent protein deficiency."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Physicians in the U.S. have never actually examined a patient with protein deficiency because simply by eating an adequate number of daily calories we are also most likely getting enough protein.\nA) 答非所问：原文给出的原因是\"日常热量摄入足够蛋白也就够了\"，与\"能否买到\"无关；选项 purchase many kinds of protein-rich foods everywhere\nB) 偷换概念：原文说的是 an adequate number of daily calories\"日常足量的卡路里\"，选项 absorb the number of calories reco\nC) ✓ 正确：simply by eating an adequate number of daily calories we are also most likely getting enou\nD) 与原文相反：原文的因果是\"正常饮食就够蛋白，所以不必靠补剂\"；选项 rely on food supplements to prevent protein deficiency 反过来说\"靠补"
+            },
+            {
+              "number": 53,
+              "stem": "What should people take into consideration in deciding on the most preferable protein intake?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "How healthy they are and what food they eat."
+                },
+                {
+                  "key": "B",
+                  "text": "How old they are and what activities they do."
+                },
+                {
+                  "key": "C",
+                  "text": "How much protein they consume and what their body weight is."
+                },
+                {
+                  "key": "D",
+                  "text": "How serious their protein deficiency is and what remedies they use."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（细节题）\n【原文】Americans currently consume almost twice the National Academy of Medicine's recommended daily intake of protein although the most desirable protein intake may vary depending on age and activity level.\nA) 无中生有：原文只列了 age and activity level，并未把\"现在健康程度\"或\"吃什么食物\"列入考虑因素；选项 How healthy they are and what fo\nB) ✓ 正确：depending on age and activity level ↔ How old they are and what activities they do. 预判的\"年龄\nC) 偷换概念：原文要讨论的是\"理想蛋白摄入量\"本身，选项 How much protein they consume and what their body weight is 反过来把\"已经摄\nD) 与原文相反：选项 How serious their protein deficiency is and what remedies they use 默认存在\"protein deficie"
+            },
+            {
+              "number": 54,
+              "stem": "What foods have been largely out of favor for more than a century?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Sugar-free snacks."
+                },
+                {
+                  "key": "B",
+                  "text": "Protein-rich foods."
+                },
+                {
+                  "key": "C",
+                  "text": "Both red and white meats."
+                },
+                {
+                  "key": "D",
+                  "text": "Sugary and fatty foods."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】While fats and sugar have taken the beating in turns since over a century ago, protein has managed to remain our red-hot favorite.\nA) 与原文相反：原文 dietary spotlight firmly fixed on low-calorie, low-fat, sugar-free snack foods 说\"无糖零食\"是\nB) 与原文相反：原文 protein has managed to remain our red-hot favorite 明说蛋白质始终是 favorite（红人），选项 Protein-ric\nC) 无中生有：原文 P7-P9 整段都在讲脂肪、糖和蛋白质这几类宏量营养素，从未提到\"红肉/白肉\"被批的话题；选项 Both red and white meats 是凭健康常识填空。\nD) ✓ 正确：fats and sugar ↔ Sugary and fatty foods. taken the beating in turns since over a century a"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author imply people in developed countries should do to keep healthy?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Enjoy natural food."
+                },
+                {
+                  "key": "B",
+                  "text": "Eat vegetarian diets."
+                },
+                {
+                  "key": "C",
+                  "text": "Consume enough protein daily."
+                },
+                {
+                  "key": "D",
+                  "text": "Replace meals with protein bars."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（推断题）\nA) ✓ 正确：rich sources of antioxidants(抗氧化剂), vitamins and many other benefits of real food ↔ Enjoy \nB) 过度推断：原文只说不要靠补剂代餐、要享受真实食物的好处，从未要求 vegetarian diets（素食）；从\"少吃加工补剂\"推不到\"完全吃素\"，跨度过大。\nC) 与原文相反：全文一直在反驳\"应该多吃蛋白\"的舆论，Americans currently consume almost twice the National Academy of Medici\nD) 与原文相反：尾段明确告诫 When we replace meals with a protein bar or drink, we also risk missing out on…——\"代"
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n敦煌莫高窟 (Mogao Grottoes) 数字展示中心于2014年开放启用, 是莫高窟保护利用工程的重要组成部分。展示中心采用数字技术和多媒体展示手段, 使游客进入洞窟参观之前就能了解莫高窟的历史文化, 鉴赏莫高窟的艺术经典。这将减少开放洞窟的数量, 缩短游客在洞窟内的逗留时间, 减轻参观对莫高窟造成的影响, 以使这一世界文化遗产得到妥善保护、长久利用。",
+              "analysis": "【参考译文】\nThe Mogao Grottoes Digital Exhibition Center, which opened in 2014, is an important part of the project for the protection and utilization of the Mogao Grottoes. The center adopts digital technology and multimedia means, enabling visitors to learn about the history and culture of the Mogao Grottoes and appreciate its artistic classics before they enter the caves. This will reduce the number of open caves, shorten the time visitors stay inside, and lessen the impact of visits on the Mogao Grottoes, so that this World Cultural Heritage site can be properly protected and used over the long term."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/",
+    "sharedWith": "cet4-2024-12-s1",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 66
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2024-12-3/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}

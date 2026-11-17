@@ -1,0 +1,2712 @@
+{
+  "id": "cet4-2025-06-s3",
+  "level": "CET4",
+  "year": 2025,
+  "month": 6,
+  "setNo": 3,
+  "origin": "official",
+  "sections": [
+    {
+      "type": "writing",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Writing",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 0,
+              "stem": "Suppose your university is organizing a forum on the development of students' cross-cultural communication abilities. You are now to write an essay to express your view. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+              "analysis": "【参考范文】\nIn an era of deepening globalization, the ability to communicate across cultures has become indispensable. I firmly believe that universities should attach great importance to developing students' cross-cultural communication abilities.\n\nFor one thing, such competence helps reduce misunderstandings rooted in different customs and values, making cooperation smoother. For instance, when I joined an international online project, teammates from three countries reached agreement quickly only because we respected each other's communication styles. For another, in today's competitive job market, graduates who can embrace diversity and work with global partners clearly stand out.\n\nTherefore, we students should seize every chance to broaden our horizons, such as joining exchange programs, reading foreign works, or making friends with international students. Only by becoming true global citizens can we thrive in a connected world."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "title": "Section II Listening Comprehension",
+      "note": "本场次听力只有一份音频，本套听力与同场第一套同卷；原文、题目与答案取自该套真题。考场多套卷的选项顺序可能不同，这里沿用第一套的顺序。在线音频由语音合成朗读原文，不是考场录音；换浏览器、换手机都能播。",
+      "passages": [
+        {
+          "title": "News Report One",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 6.2,
+              "text": "1 Everything changed for 7-year-old Tariq when he slapped some butter on an ear of corn."
+            },
+            {
+              "id": 2,
+              "start": 6.5,
+              "end": 10.4,
+              "text": "He knew it tasted good, but butter made it better."
+            },
+            {
+              "id": 3,
+              "start": 10.8,
+              "end": 22.3,
+              "text": "His passion for produce got him a position as South Dakota's official Corn Ambassador. 2 Tariq's profession of love for his favorite vegetable earned him the name \"the Corn Kid\"."
+            },
+            {
+              "id": 4,
+              "start": 22.7,
+              "end": 28.8,
+              "text": "This was after his online interview attracted millions of views and was made into a song."
+            },
+            {
+              "id": 5,
+              "start": 29.2,
+              "end": 33.4,
+              "text": "South Dakota is one of the top corn producers in America."
+            },
+            {
+              "id": 6,
+              "start": 33.8,
+              "end": 36.4,
+              "text": "The corn provides nourishment across the globe."
+            },
+            {
+              "id": 7,
+              "start": 36.8,
+              "end": 50.6,
+              "text": "Tariq said, \"Not everyone has to like corn, but everyone should definitely try it, especially with butter.\" Tariq and his family were invited to South Dakota to attend the honorary ceremony at the state's Corn Palace."
+            },
+            {
+              "id": 8,
+              "start": 51,
+              "end": 55.6,
+              "text": "Officials wanted to highlight South Dakota's two largest industries: tourism and agriculture."
+            },
+            {
+              "id": 9,
+              "start": 56,
+              "end": 61,
+              "text": "Tariq couldn't believe his eyes when he saw the palace made of corn."
+            }
+          ],
+          "audioDuration": 61,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "How did Tariq make corn taste better?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "By slapping some butter on it."
+                },
+                {
+                  "key": "B",
+                  "text": "By enhancing its nourishment."
+                },
+                {
+                  "key": "C",
+                  "text": "By growing it in South Dakota."
+                },
+                {
+                  "key": "D",
+                  "text": "By cooking it in vegetable oil."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P1）：Everything changed for 7-year-old Tariq when he slapped some butter on an ear of corn. He knew it tasted good, but butter made it better.信号：but 后点出\"黄油让它更好吃\" 。答案句的信号是转折词 but：but butter made it better 直接把 butter 和 made it better 挂钩，正好回答\"怎么让玉米更好吃\"，转折之…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音第2段确实提到玉米能 provides nourishment across the globe，B 项 By enhancing its nourishment. 盗用了 nourishment 这个原词，但那是讲玉米向全球提供营养，跟\"塔里克怎么让玉米更好吃\"无关，听到 nourishment 就选就中陷阱。 借用原文：South Dakota is one of the top corn producers in America.",
+                "C": "原词陷阱：C 项 By growing it in South Dakota. 盗用了录音里的 South Dakota 这个高频地名，South Dakota is one of the top corn producers in America 说的是它是产玉米大州，与\"让玉米更好吃\"是两码事，属听到地名就想选的原词陷阱。",
+                "D": "未提及：D 项 By cooking it in vegetable oil. 听起来也是个合理做法，且和正确项 A 的\"加黄油\"形成对立诱惑，但录音从头到尾只提了抹黄油，没说用植物油烹饪，属凭常识硬造、原文未提及。",
+                "A": "正确项：与答案句同义替换（he slapped some butter on an ear of corn ↔ By slapping some butter on it. an ear of corn 被代词 it 概括）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Everything changed for 7-year-old Tariq when he slapped some butter on an ear of corn. He knew it tasted good, but butter made it better.",
+              "type": "细节题"
+            },
+            {
+              "number": 2,
+              "stem": "Why were Tariq and his family invited to South Dakota?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To introduce their corn to tourists."
+                },
+                {
+                  "key": "B",
+                  "text": "To attend an honorary ceremony."
+                },
+                {
+                  "key": "C",
+                  "text": "To share experience with other corn growers."
+                },
+                {
+                  "key": "D",
+                  "text": "To exhibit their corn at the state's Corn Palace."
+                }
+              ],
+              "answer": "B",
+              "analysis": "目的题。答案句（P2）：Tariq and his family were invited to South Dakota to attend the honorary ceremony at the state's Corn Palace.信号：invited to… to attend… 把人和目的连起来 。答案信号是 invited 后接的目的不定式：were invited to South Dakota to attend the honorary …",
+              "optionAnalysis": {
+                "A": "张冠李戴：录音确实提到官方想突出 tourism and agriculture，A 项 To introduce their corn to tourists. 盗用了 tourism 引申出的 tourists，但那是官方的产业意图，不是塔里克一家\"被邀请\"的目的，二者主体不同，听到游客相关词就选会被带偏。 借用原文：to attend the honorary ceremony at the state's Corn Palace",
+                "C": "未提及：C 项 To share experience with other corn growers. 借 corn 这个全篇高频词造出\"和其他玉米种植者交流经验\"的合理场景，但录音通篇没说塔里克要去交流经验，属凭话题臆造、未提及。",
+                "D": "原词陷阱：D 项 To exhibit their corn at the state's Corn Palace. 盗用了答案句里真实出现的地名 at the state's Corn Palace，极具迷惑性；但录音说的是去玉米宫\"参加典礼\"，不是去那里\"展出他们的玉米\"，偷换了在玉米宫做的事，听到 Corn Palace 就选会中招。",
+                "B": "正确项：与答案句同义替换（to attend the honorary ceremony ↔ To attend an honorary ceremony. the→an，去掉地点状语，核心动作不变）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Tariq and his family were invited to South Dakota to attend the honorary ceremony at the state's Corn Palace.",
+              "type": "目的题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Two",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 15.4,
+              "text": "Two arrests were announced Thursday. The arrests were in connection with a string of mail thefts from U.S. Postal Service's collection boxes in Marion County and for the possession of a stolen postal key, according to the Department of Justice.",
+              "zh": "周四宣布了两起逮捕行动。据司法部称,这些逮捕与Marion County美国邮政管理局收集箱的一系列邮件盗窃案以及持有被盗邮政钥匙有关。"
+            },
+            {
+              "id": 2,
+              "start": 15.8,
+              "end": 28.1,
+              "text": "Jordan Jax and Tarod Goodman, both 23, were arrested after evidence gathered in an investigation showed the pair stole mail on multiple occasions using a postal key, according to a news release.",
+              "zh": "据新闻稿称,23岁的Jordan Jax和Tarod Goodman在调查中收集的证据显示两人多次使用邮政钥匙盗窃邮件后被逮捕。"
+            },
+            {
+              "id": 3,
+              "start": 28.5,
+              "end": 45.8,
+              "text": "Jax and Goodman stole mail for around four months. Investigators reviewed videos of the collection boxes; the video showed the two men loading the stolen mail into Jax's vehicle. Investigators were also able to recover the key that was used to open the collection boxes.",
+              "zh": "Jax和Goodman盗窃邮件约四个月。调查人员查看了收集箱的监控视频;视频显示两名男子将被盗邮件装入Jax的车辆。调查人员还找回了用于打开收集箱的钥匙。"
+            },
+            {
+              "id": 4,
+              "start": 46.1,
+              "end": 56.5,
+              "text": "Jax and Goodman each face up to five years in federal prison in the mail thefts and up to ten years for possession of the postal key.",
+              "zh": "Jax和Goodman各自面临邮件盗窃罪最高五年联邦监禁,以及持有邮政钥匙罪最高十年监禁。"
+            }
+          ],
+          "audioDuration": 56.5,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "What did Jordan Jax and Tarod Goodman do according to a news release?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Stole mail several times."
+                },
+                {
+                  "key": "B",
+                  "text": "Forged postal keys illegally."
+                },
+                {
+                  "key": "C",
+                  "text": "Attacked postmen on multiple occasions."
+                },
+                {
+                  "key": "D",
+                  "text": "Broke a number of postal collection boxes."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：Jordan Jax and Tarod Goodman, both 23, were arrested after evidence gathered in an investigation showed the pair stole mail on multiple occasions using a postal key, according to a news release.信号：题干来源词回扣定位 。题干里的 according to a news release 与录音 according to a news release 逐字对应，这处来源短语就是定位信号：它出现的那一句正是承载答案的…",
+              "optionAnalysis": {
+                "B": "原词陷阱：录音说两人 using a postal key，是使用一把邮政钥匙作案，并非 Forged postal keys illegally. 所说的非法伪造钥匙；选项盗用了 postal key 这一原词，却把使用偷换成伪造，答非所问。 借用原文：stole mail on multiple occasions",
+                "C": "张冠李戴：录音里的 on multiple occasions 修饰的是盗窃邮件，Attacked postmen on multiple occasions. 却把这个多次短语套到攻击邮递员上；录音通篇没有任何袭击邮差的内容，属盗用频次短语的张冠李戴。 借用原文：collection boxes",
+                "D": "原词陷阱：录音多处提到 collection boxes，如 collection boxes，但说的是两人用钥匙打开邮筒取信，从无砸坏之意；Broke a number of postal collection boxes. 盗用 collection boxes 原词，硬加上 Broke 这一录音没有的动作。",
+                "A": "正确项：与答案句同义替换（stole mail on multiple occasions ↔ Stole mail several times. 多次的同义改写）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Jordan Jax and Tarod Goodman, both 23, were arrested after evidence gathered in an investigation showed the pair stole mail on multiple occasions using a postal key, according to a news release.",
+              "type": "细节题"
+            },
+            {
+              "number": 4,
+              "stem": "What do Jordan Jax and Tarod Goodman face?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "A sentence for life."
+                },
+                {
+                  "key": "B",
+                  "text": "Loss of all their possessions."
+                },
+                {
+                  "key": "C",
+                  "text": "Twenty-three years' hard labor."
+                },
+                {
+                  "key": "D",
+                  "text": "Up to fifteen years in prison."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P4）：Jax and Goodman each face up to five years in federal prison in the mail thefts and up to ten years for possession of the postal key.信号：题干动词 face 原句重现 。题干的 face 在录音 each face up to five years 里原样念出，这处动词回扣即定位信号；该句把两项刑期 up to five years 与 up to t…",
+              "optionAnalysis": {
+                "A": "未提及：录音只说面临有期的 five years 与 ten years，从未提无期；A sentence for life. 是夸大到终身监禁的后果，录音并无对应内容。",
+                "B": "未提及：录音谈的全是坐牢的年限，未提任何财产损失；Loss of all their possessions. 所说丧失全部财产在录音里毫无依据。",
+                "C": "原词陷阱：录音里的 23 出自两人年龄 both 23，并非刑期；Twenty-three years' hard labor. 盗用 23 这个数字，硬安成二十三年苦役，且 hard labor 录音也从未提及，把年龄数偷换成刑期。",
+                "D": "正确项：与答案句同义替换（up to five years in federal prison ↔ Up to fifteen years in prison. 两项刑期相加得十五年）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "Jax and Goodman each face up to five years in federal prison in the mail thefts and up to ten years for possession of the postal key.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "News Report Three",
+          "kind": "news",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 11.9,
+              "text": "Can fast-fashion be sustainable? Researchers think yes. Identifying why the fast-fashion business model creates waste and determining whether regulators can establish incentives for consumers and manufacturers are steps to reduce waste.",
+              "zh": "快时尚能否实现可持续发展？研究人员认为可以。确定快时尚商业模式为何会造成浪费，以及判断监管机构能否建立激励机制来引导消费者和制造商，是减少浪费的关键步骤。"
+            },
+            {
+              "id": 2,
+              "start": 12.3,
+              "end": 30.3,
+              "text": "Recently, the clothing industry has come under attack for creating a waste problem with serious environmental consequences. In the absence of environmentally and economically feasible recycling options, fast-fashion manufacturers pump out low-quality clothes produced in high volumes that are worn only a few times and then discarded.",
+              "zh": "近年来，服装行业因制造严重的环境后果的废物问题而受到抨击。在缺乏环境和经济上可行的回收选择的情况下，快时尚制造商大量生产低质量的服装，这些服装只穿几次就被丢弃。"
+            },
+            {
+              "id": 3,
+              "start": 30.7,
+              "end": 41,
+              "text": "The researchers put forth policy contributions, ranging from sustainable disposal of leftover stock to production tax to incentivize both manufacturers and consumers to be more waste conscious.",
+              "zh": "研究人员提出了一系列政策建议，从可持续处置剩余库存到征收生产税，以激励制造商和消费者更加注重减少浪费。"
+            },
+            {
+              "id": 4,
+              "start": 41.4,
+              "end": 66.3,
+              "text": "In order to devise effective policies to curb the environmental impact of the clothing industry, it is important to identify the source of the problem in the supply chain. Manufacturers, consumers, and regulatory bodies can then take an informed approach to recognize the environmental impact of fast-fashion and to design an ecosystem to reduce waste, incentivize innovation, and create new business models to manage waste.",
+              "zh": "为了制定有效的政策来遏制服装行业对环境的影响，确定供应链中问题的根源至关重要。然后，制造商、消费者和监管机构可以采取知情的方法来认识快时尚的环境影响，并设计一个生态系统来减少浪费、激励创新以及创建新的商业模式来管理废物。"
+            }
+          ],
+          "audioDuration": 66.3,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "Why has the clothing industry come under attack?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It escapes regulation and misleads consumers."
+                },
+                {
+                  "key": "B",
+                  "text": "It ignores economically feasible recycling options."
+                },
+                {
+                  "key": "C",
+                  "text": "It creates waste and severely impacts the environment."
+                },
+                {
+                  "key": "D",
+                  "text": "It produces clothes affordable only to a tiny minority."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：Recently, the clothing industry has come under attack for creating a waste problem with serious environmental consequences.信号：题干原词 come under attack 复现处 。录音中 has come under attack for 与题干 come under attack 几乎一字不差，听到这个短语就锁定这句；紧跟 for 后面…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 说 misleads consumers（误导消费者），其中 consumers 是录音后文反复出现的原词，听到就想选；但录音说行业被抨击的原因是制造废物、害环境，从没说它误导消费者，A 借原词制造错觉。 借用原文：In the absence of environmentally and economically feasible recycling options",
+                "B": "偷换概念：B 说 ignores economically feasible recycling options（忽视经济可行的回收方案），其中 recycling、economically feasible 直接来自录音 environmentally and economically feasible recycling options；但录音说的是这类回收方案本就缺失（in the absence of），不是行业故意忽视，B 把客观缺失偷换成主观无视。 借用原文：low-quality clothes produced in high volumes",
+                "D": "与原文相反：D 说 produces clothes affordable only to a tiny minority（生产只有极少数人买得起的衣服），clothes、produces 是录音原词，但录音明说快时尚是 low-quality clothes produced in high volumes（低质、量产），价格便宜、人人能买，与 D 说的只有极少数人买得起恰好相反，录音也没提价格门槛。",
+                "C": "正确项：与答案句同义替换（creating a waste problem ↔ It creates waste 动名词转一般现在时）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Recently, the clothing industry has come under attack for creating a waste problem with serious environmental consequences.",
+              "type": "细节题"
+            },
+            {
+              "number": 6,
+              "stem": "Why did the researchers put forth such policies as production tax?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To cut consumers' expenses in buying quality clothes."
+                },
+                {
+                  "key": "B",
+                  "text": "To enable the whole fast-fashion industry to be sustainable."
+                },
+                {
+                  "key": "C",
+                  "text": "To incentivize manufacturers to be more consumer-friendly."
+                },
+                {
+                  "key": "D",
+                  "text": "To urge manufacturers and consumers to reduce waste."
+                }
+              ],
+              "answer": "D",
+              "analysis": "目的题。答案句（P3）：The researchers put forth policy contributions, ranging from sustainable disposal of leftover stock to production tax to incentivize both manufacturers and consumers to be more waste conscious.信号：目的状语 to incentivize 。录音里 to incentivize both manufacturers and consumers to be more waste conscious 是 produc…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 说 cut consumers' expenses in buying quality clothes（替消费者省下买好衣服的钱），consumers 是录音原词，但录音讲政策目的是减废，从没说为消费者省钱，A 把减废目的偷换成省钱目的。 借用原文：Can fast-fashion be sustainable?",
+                "B": "过度推断：B 说 To enable the whole fast-fashion industry to be sustainable（让整个快时尚业可持续），sustainable 是录音开头出现的原词，但生产税这类政策的直接目的录音说得很具体——是激励双方减废，而非让整个行业可持续，B 把目的范围夸大了。 借用原文：incentivize both manufacturers and consumers to be more waste conscious",
+                "C": "偷换概念：C 说 incentivize manufacturers to be more consumer-friendly（激励生产商更体贴消费者），incentivize、manufacturers 是录音原词，但录音说的是激励双方更有减废意识，不是让生产商对消费者更友好，C 把减废目的偷换成讨好消费者。",
+                "D": "正确项：与答案句同义替换（incentivize both manufacturers and consumers ↔ urge manufacturers and consumers 同义动词替换）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "The researchers put forth policy contributions, ranging from sustainable disposal of leftover stock to production tax to incentivize both manufacturers and consumers to be more waste conscious.",
+              "type": "目的题"
+            },
+            {
+              "number": 7,
+              "stem": "What should be done first to eliminate the harm caused by the clothing industry?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Recognizing the impact on consumers."
+                },
+                {
+                  "key": "B",
+                  "text": "Identifying the source of the problem."
+                },
+                {
+                  "key": "C",
+                  "text": "Abandoning the current business model."
+                },
+                {
+                  "key": "D",
+                  "text": "Establishing powerful regulatory bodies."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P4）：In order to devise effective policies to curb the environmental impact of the clothing industry, it is important to identify the source of the problem in the supply chain.信号：强调句 it is important to 。录音 it is important to identify the source of the problem 用 it is important to 强调首要之事…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 说 Recognizing the impact on consumers，其中 recognize、impact 来自录音 recognize the environmental impact of fast-fashion，听到就想选；但录音把这一步放在找出根源之后，而且说的是认识环境影响、不是对消费者的影响，既不是第一步、对象也被改了。 借用原文：create new business models to manage waste",
+                "C": "过度推断：C 说 Abandoning the current business model（放弃现有商业模式），business model 取自录音 create new business models，但录音说的是创造新商业模式，从没说要放弃现有模式，C 把创造夸张成放弃。 借用原文：Manufacturers, consumers, and regulatory bodies can then take an informed approach",
+                "D": "原词陷阱：D 说 Establishing powerful regulatory bodies（建立强有力的监管机构），regulatory bodies 出现在录音 Manufacturers, consumers, and regulatory bodies 中，但录音只是提到监管机构是参与方之一，从没说要先建立强有力的监管机构，D 是凭原词编出来的。",
+                "B": "正确项：与答案句同义替换（identify the source of the problem ↔ Identifying the source of the problem 动词原形转动名词，近乎原句）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "In order to devise effective policies to curb the environmental impact of the clothing industry, it is important to identify the source of the problem in the supply chain.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation One",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 4.6,
+              "text": "M: Hey Mary, you seem to be very much annoyed. What happened?",
+              "zh": "M: 嘿，Mary，你看起来很烦恼。怎么了?"
+            },
+            {
+              "id": 2,
+              "start": 4.9,
+              "end": 8.4,
+              "text": "W: Rush hour in this city is killing me.",
+              "zh": "W: 这个城市的高峰期快把我逼疯了。"
+            },
+            {
+              "id": 3,
+              "start": 8.8,
+              "end": 18.8,
+              "text": "M: Ah, yes. Rush hour is terrible, especially in the morning between 8 and 9. But what else can you expect in a city this big?",
+              "zh": "M: 啊，是的。高峰期确实很糟糕，尤其是早上8点到9点之间。但在这么大的城市里你还能指望什么呢?"
+            },
+            {
+              "id": 4,
+              "start": 19.2,
+              "end": 31.1,
+              "text": "W: Well, I think the local government could help improve things. I mean, getting rid of rush hour may be impossible, but it could be made more tolerable, don't you think?",
+              "zh": "W: 嗯，我觉得当地政府可以帮忙改善一下。我的意思是，消除高峰期可能不太可能，但可以让它变得更能忍受一些，你不觉得吗?"
+            },
+            {
+              "id": 5,
+              "start": 31.5,
+              "end": 34.1,
+              "text": "M: Um… but I'm not sure how.",
+              "zh": "M: 嗯……但我不太确定怎么做。"
+            },
+            {
+              "id": 6,
+              "start": 34.5,
+              "end": 58.7,
+              "text": "W: Well, for example, the subway system could have air conditioning. I know many cities in the world have air conditioning in their subway, so why can't we? It gets so hot in the summer. I can hardly breathe down there. And add to that the rush-hour crowds with strangers packed close together in the subway carriages, the whole thing is just horrible.",
+              "zh": "W: 嗯，比如说，地铁系统可以装空调。我知道世界上很多城市的地铁都有空调，那我们为什么不能有呢?夏天的时候太热了。我在下面几乎喘不过气来。再加上高峰期的人群，陌生人在地铁车厢里挤在一起，整个事情简直太可怕了。"
+            },
+            {
+              "id": 7,
+              "start": 59.1,
+              "end": 71.7,
+              "text": "M: Ah, yes, you are completely right. The trains here are too old. The government should definitely invest in new ones with air conditioning. I guess I'm fortunate I take the bus instead.",
+              "zh": "M: 啊，是的，你说得完全对。这里的列车太旧了。政府绝对应该投资购买带空调的新列车。我想我很幸运，我坐公交车。"
+            },
+            {
+              "id": 8,
+              "start": 72,
+              "end": 74,
+              "text": "W: Oh, that's much better.",
+              "zh": "W: 哦，那好多了。"
+            },
+            {
+              "id": 9,
+              "start": 74.3,
+              "end": 85.1,
+              "text": "M: Yeah, it's more convenient. Bus No. 36 goes straight from my house to the office. It's a 30-minute ride and I don't have to make any changes.",
+              "zh": "M: 是啊，更方便。36路公交车从我家直达办公室。30分钟的车程，而且不用换乘。"
+            },
+            {
+              "id": 10,
+              "start": 85.4,
+              "end": 93.5,
+              "text": "W: That sounds nice. I tell you, my current commute is killing me. Maybe I should move closer to the office.",
+              "zh": "W: 听起来不错。告诉你，我现在的通勤快把我逼疯了。也许我应该搬到离办公室近一点的地方。"
+            },
+            {
+              "id": 11,
+              "start": 93.8,
+              "end": 102.3,
+              "text": "M: Well, I know a great housing agent. I found the flat I'm living in now through him. And I love it.",
+              "zh": "M: 嗯，我认识一个很棒的房产中介。我现在住的公寓就是通过他找到的。我很喜欢。"
+            },
+            {
+              "id": 12,
+              "start": 102.6,
+              "end": 106.1,
+              "text": "W: Hmm, could you send me his number, please?",
+              "zh": "W: 嗯，你能把他的号码发给我吗?"
+            },
+            {
+              "id": 13,
+              "start": 106.4,
+              "end": 114.1,
+              "text": "M: Sure thing. Just tell him exactly what you are looking for and I'm sure he will find something good.",
+              "zh": "M: 当然可以。只要告诉他你具体在找什么，我相信他会找到好房子的。"
+            }
+          ],
+          "audioDuration": 114.1,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "Why is the woman complaining?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The city's rush-hour traffic is intolerable."
+                },
+                {
+                  "key": "B",
+                  "text": "She cannot avoid rush-hour traffic."
+                },
+                {
+                  "key": "C",
+                  "text": "The local government is inefficient."
+                },
+                {
+                  "key": "D",
+                  "text": "The city is too big to move around easily."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：Rush hour in this city is killing me.信号：她开口的第一句直接吐槽 。男方问\"你怎么这么烦/出什么事了\"之后，女方应答的第一句 Rush hour in this city is killing me. 就是直接吐槽，is killing me 这种强烈情绪用…",
+              "optionAnalysis": {
+                "B": "原词陷阱：B 盗用了录音里反复出现的 Rush hour 来勾人，但她抱怨的是高峰期\"让人受不了\"，从没说\"她躲不开高峰\"。She cannot avoid rush-hour traffic. 是凭空加上的内容，属听到原词就想选的陷阱。 借用原文：the local government could help improve things",
+                "C": "原词陷阱：录音后面女方确实提到 the local government could help improve things，C 盗用\"政府\"这个原词，却编成\"政府效率低\"。她说的是\"政府本可以帮忙改善\"，并没说政府无能，C 答非所问。 借用原文：a city this big",
+                "D": "原词陷阱：男方说过 a city this big，D 盗用\"城市大\"这个原词，编成\"城市太大不好出行\"。但那是男方的话，且女方抱怨的对象是高峰期本身，不是城市大小，D 既张冠李戴又答非所问。",
+                "A": "正确项：与答案句同义替换（Rush hour in this city is killing me. ↔ The city's rush-hour traffic is intolerable. is killing me 改写成 intolerable）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "Rush hour in this city is killing me.",
+              "type": "细节题"
+            },
+            {
+              "number": 9,
+              "stem": "What does the woman suggest doing?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Upgrading subway carriages."
+                },
+                {
+                  "key": "B",
+                  "text": "Increasing the number of bus routes."
+                },
+                {
+                  "key": "C",
+                  "text": "Air conditioning the city's subway."
+                },
+                {
+                  "key": "D",
+                  "text": "Learning from other big cities."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P6）：Well, for example, the subway system could have air conditioning. I know many cities in the world have air conditioning in their subway, so why can't we?信号：建议信号 could 与 why can't we 。the subway system could have air conditioning 里的 could（可以…）就是建议信号，紧接着 why can't w…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 盗用录音里的 subway carriages（地铁车厢）来勾人。\"车厢\"确实念到了，但女方的建议是\"装空调\"，不是\"升级车厢\"。况且后面 The trains here are too old 是男方说的，不是女方的建议，A 答非所问。 借用原文：I know many cities in the world have air conditioning in their subway",
+                "B": "未提及：增开公交线路这件事女方从没提过。录音只在男方那段提到 Bus No. 36，与\"增加线路\"无关，B 属凭空捏造的措施。",
+                "D": "原词陷阱：D 盗用了 many cities in the world 里的\"别的城市\"来勾人，但女方提\"很多城市有空调\"是为论证\"应给地铁装空调\"，并非建议\"向别的大城市学习\"。D 把具体建议偷换成空泛口号，答非所问。",
+                "C": "正确项：与答案句同义替换（the subway system could have air conditioning ↔ Air conditioning the city's subway. 句子改写成动名词短语）"
+              },
+              "evidencePara": "P6",
+              "evidenceText": "Well, for example, the subway system could have air conditioning. I know many cities in the world have air conditioning in their subway, so why can't we?",
+              "type": "细节题"
+            },
+            {
+              "number": 10,
+              "stem": "What do we learn about the man from the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He suffers from rush-hour crowding too."
+                },
+                {
+                  "key": "B",
+                  "text": "He is fortunate to live very near to work."
+                },
+                {
+                  "key": "C",
+                  "text": "He takes a half-hour bus ride to work."
+                },
+                {
+                  "key": "D",
+                  "text": "He is going to move closer to his office."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P9）：Yeah, it's more convenient. Bus No. 36 goes straight from my house to the office. It's a 30-minute ride and I don't have to make any changes.信号：男方自述上班方式 + 数字 30-minute 。Bus No. 36 goes straight from my house to the office 是男方在讲自己怎么上班，紧跟的 It's a 30-minu…",
+              "optionAnalysis": {
+                "A": "张冠李戴：A 盗用录音里 rush-hour crowds 这个\"高峰拥挤\"原词来勾人，但受高峰挤之苦的是女方（坐地铁），男方说自己坐公交、还自称 fortunate。把女方的处境安到男方身上，是张冠李戴。 借用原文：I guess I'm fortunate I take the bus instead",
+                "B": "原词陷阱：B 盗用男方说的 I'm fortunate（我算幸运）来勾人。他幸运是因为\"坐公交方便、不用挤地铁\"，而不是\"住得离公司很近\"——通勤还要 30 分钟，谈不上很近。B 把\"幸运的原因\"偷换了。 借用原文：Maybe I should move closer to the office",
+                "D": "张冠李戴：D 盗用了 move closer to the office 这个原词，但说\"也许我该搬得离公司近点\"的是女方，不是男方。把女方的打算记到男方头上，张冠李戴。",
+                "C": "正确项：与答案句同义替换（It's a 30-minute ride ↔ He takes a half-hour bus ride to work. 30-minute 换说成 half-hour）"
+              },
+              "evidencePara": "P9",
+              "evidenceText": "Yeah, it's more convenient. Bus No. 36 goes straight from my house to the office. It's a 30-minute ride and I don't have to make any changes.",
+              "type": "细节题"
+            },
+            {
+              "number": 11,
+              "stem": "What does the woman ask the man to do at the end of the conversation?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Recommend to her a good house near his office."
+                },
+                {
+                  "key": "B",
+                  "text": "Send her his housing agent's telephone number."
+                },
+                {
+                  "key": "C",
+                  "text": "Tell her exactly what kind of property to look for."
+                },
+                {
+                  "key": "D",
+                  "text": "Make sure the agent finds something good for her."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P12）：Hmm, could you send me his number, please?信号：请求句 could you…please 。could you send me his number, please? 用 could you…please 提出请求，正是\"请对方做某事\"的标准信号，且出现在对话末尾…",
+              "optionAnalysis": {
+                "A": "原词陷阱：A 盗用了对话里 move closer to the office、flat 这一带\"房子\"话题来勾人，但她请的是\"发中介电话\"，不是\"请他直接推荐一套好房子\"。把\"给电话\"偷换成\"荐房\"，答非所问。 借用原文：Just tell him exactly what you are looking for",
+                "C": "张冠李戴：C 盗用了男方那句 tell him exactly what you are looking for，但那是男方让\"她去告诉中介\"要什么，不是她请男方做的事，也不是\"由男方告诉她该找什么样的房\"。既张冠李戴又把方向弄反。 借用原文：I'm sure he will find something good",
+                "D": "原词陷阱：D 盗用男方那句 he will find something good 来勾人，但那是男方对中介能办好的预期，不是女方请男方\"确保中介给她找到好的\"。把一句预期偷换成她的请求，答非所问。",
+                "B": "正确项：与答案句同义替换（could you send me his number, please? ↔ Send her his housing agent's telephone number. his number 补全为中介的电话号码）"
+              },
+              "evidencePara": "P12",
+              "evidenceText": "Hmm, could you send me his number, please?",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Conversation Two",
+          "kind": "conversation",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 2.3,
+              "text": "M: Did you hear about Johnny?",
+              "zh": "M: 你听说Johnny的事了吗？"
+            },
+            {
+              "id": 2,
+              "start": 2.6,
+              "end": 5,
+              "text": "W: No. Why? Is he okay?",
+              "zh": "W: 没有。怎么了？他还好吗？"
+            },
+            {
+              "id": 3,
+              "start": 5.3,
+              "end": 8,
+              "text": "M: He had some plastic surgery done.",
+              "zh": "M: 他做了整形手术。"
+            },
+            {
+              "id": 4,
+              "start": 8.3,
+              "end": 9.8,
+              "text": "W: What? Why?",
+              "zh": "W: 什么？为什么？"
+            },
+            {
+              "id": 5,
+              "start": 10.2,
+              "end": 14.4,
+              "text": "M: Do you remember he had a scar on his face?",
+              "zh": "M: 你还记得他脸上有道疤吗？"
+            },
+            {
+              "id": 6,
+              "start": 14.8,
+              "end": 24,
+              "text": "W: Yes, of course. He always had that. I've known him since primary school, and I always remember him having that on his cheek.",
+              "zh": "W: 记得，当然记得。他一直都有那道疤。我从小学就认识他了，一直记得他脸颊上有那道疤。"
+            },
+            {
+              "id": 7,
+              "start": 24.4,
+              "end": 26.7,
+              "text": "M: Well, he had it fixed.",
+              "zh": "M: 嗯，他把它修复了。"
+            },
+            {
+              "id": 8,
+              "start": 27.1,
+              "end": 31.3,
+              "text": "W: Fixed? What do you mean? You can't fix a scar.",
+              "zh": "W: 修复？什么意思？疤痕是修复不了的。"
+            },
+            {
+              "id": 9,
+              "start": 31.7,
+              "end": 41.3,
+              "text": "M: You know what I mean? He had an operation done on it, plastic surgery, in order to cover it and make it less noticeable.",
+              "zh": "M: 你懂我的意思吧？他做了个手术，整形手术，用来遮盖疤痕，让它不那么明显。"
+            },
+            {
+              "id": 10,
+              "start": 41.6,
+              "end": 54,
+              "text": "W: Oh, well, that's ridiculous, isn't it? It was noticeable, sure. But it wasn't an ugly scar. It never occurred to me that he should have it taken care of like that.",
+              "zh": "W: 哦，这太荒唐了，不是吗？那道疤确实挺明显的。但它并不丑。我从来没想过他应该那样处理它。"
+            },
+            {
+              "id": 11,
+              "start": 54.4,
+              "end": 67,
+              "text": "M: I agree. I can understand some scars and physical defects can be ugly and distracting, but not Johnny's. In fact, I thought it added character… like it gave him a certain uniqueness.",
+              "zh": "M: 我同意。我能理解有些疤痕和身体缺陷可能很丑、很扎眼，但Johnny的不是。事实上，我觉得那道疤为他增添了个性……让他有了某种独特性。"
+            },
+            {
+              "id": 12,
+              "start": 67.3,
+              "end": 73.1,
+              "text": "W: He must have felt differently though. He must have felt self-conscious and insecure, perhaps.",
+              "zh": "W: 但他肯定想法不一样。他可能觉得难为情、不自信吧。"
+            },
+            {
+              "id": 13,
+              "start": 73.4,
+              "end": 83.4,
+              "text": "M: No, no, that's not the reason. He was totally fine with his scar. As you said, he had had it for most of his life.",
+              "zh": "M: 不，不，不是那个原因。他对自己的疤完全没问题。就像你说的，他大半辈子都带着那道疤。"
+            },
+            {
+              "id": 14,
+              "start": 83.8,
+              "end": 86.8,
+              "text": "W: Then why did he have the operation?",
+              "zh": "W: 那他为什么要做手术？"
+            },
+            {
+              "id": 15,
+              "start": 87.1,
+              "end": 89.8,
+              "text": "M: Because his girlfriend wanted him to.",
+              "zh": "M: 因为他女朋友想让他做。"
+            },
+            {
+              "id": 16,
+              "start": 90.1,
+              "end": 100.9,
+              "text": "W: What? That's so superficial and selfish of her. If Johnny's girlfriend doesn't like him for who he is, then she does not deserve to be his girlfriend.",
+              "zh": "W: 什么？她也太肤浅、太自私了。如果Johnny的女朋友不喜欢真实的他，那她就不配做他女朋友。"
+            },
+            {
+              "id": 17,
+              "start": 101.3,
+              "end": 114.3,
+              "text": "M: You are right. So he is insane to give in to her like that. But when I told him, he said he loves her and would just do what she wants him to.",
+              "zh": "M: 你说得对。所以他那样向她妥协简直疯了。但当我跟他说的时候，他说他爱她，愿意做她想让他做的事。"
+            },
+            {
+              "id": 18,
+              "start": 114.6,
+              "end": 117,
+              "text": "W: What a fool he is.",
+              "zh": "W: 他真是个傻瓜。"
+            }
+          ],
+          "audioDuration": 117,
+          "questions": [
+            {
+              "number": 12,
+              "stem": "What does the man say about Johnny?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He was remembered for the scar on his cheek."
+                },
+                {
+                  "key": "B",
+                  "text": "He received a heart operation a few days ago."
+                },
+                {
+                  "key": "C",
+                  "text": "He used to wear a sad face in school."
+                },
+                {
+                  "key": "D",
+                  "text": "He had some plastic surgery done."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：He had some plastic surgery done.信号：对方一开口的核心信息 。男生在被问『他还好吗』之后，第一句给出的实质消息就是 He had some plastic surgery done.，这是整段对话的引子和核心事件，承载本题答案。",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 He was remembered for the scar on his cheek. 借了录音里真出现过的 scar 和 cheek（女生说 I always remember him having that on his cheek），但那是女生说『记得他脸上有疤』，并非男生关于 Johnny 所说的核心事件；题问 the man 说了什么，答非所问。 借用原文：He had an operation done on it, plastic surgery",
+                "B": "偷换概念：选项 He received a heart operation a few days ago. 蹭了录音里的 operation 一词（He had an operation done on it, plastic surgery），却擅自改成 heart operation（心脏手术）；录音说的是脸上的整形手术，不是心脏，属偷换。 借用原文：I've known him since primary school",
+                "C": "未提及：选项 He used to wear a sad face in school. 里的 sad face（哭丧脸）录音根本没说，只是借了 school 一词（女生提到 I've known him since primary school）凑出来的；属无中生有。",
+                "D": "正确项：与答案句同义替换（He had some plastic surgery done. ↔ He had some plastic surgery done. 几乎原句照搬）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "He had some plastic surgery done.",
+              "type": "细节题"
+            },
+            {
+              "number": 13,
+              "stem": "What does the woman find puzzling?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The man's deep sympathy for Johnny."
+                },
+                {
+                  "key": "B",
+                  "text": "The man's use of the expression 'fixed'."
+                },
+                {
+                  "key": "C",
+                  "text": "The man's covering up of what happened."
+                },
+                {
+                  "key": "D",
+                  "text": "The man's good memory of his childhood."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P8）：Fixed? What do you mean? You can't fix a scar.信号：对某个用词的反问 。女生紧接男生说的 he had it fixed，立刻反问 Fixed? What do you mean? You can't fix a scar.——她重复并质疑了 fixed 这个词，反问…",
+              "optionAnalysis": {
+                "A": "未提及：选项 The man's deep sympathy for Johnny. 说男生对 Johnny 深表同情，录音里男生从头到尾没有表达同情，更不是女生困惑的点；属未提及。",
+                "C": "原词陷阱：选项 The man's covering up of what happened. 蹭了录音里 in order to cover it and make it less noticeable 的 cover，但原文 cover 是『遮盖那道疤』，选项偷换成『掩盖发生的事（隐瞒）』，且女生并不为此困惑。 借用原文：I always remember him having that on his cheek",
+                "D": "张冠李戴：选项 The man's good memory of his childhood. 里『好记性』其实是女生自己说的（I always remember him having that on his cheek），却被安到 the man 头上，且与『困惑』无关；属张冠李戴。",
+                "B": "正确项：与答案句同义替换（Fixed? What do you mean? You can't fix a scar. ↔ The man's use of the expression 'fixed'. 把疑问句概括为『对用词不解』）"
+              },
+              "evidencePara": "P8",
+              "evidenceText": "Fixed? What do you mean? You can't fix a scar.",
+              "type": "细节题"
+            },
+            {
+              "number": 14,
+              "stem": "What did the man think of Johnny's scar?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It gave him a noticeable smartness."
+                },
+                {
+                  "key": "B",
+                  "text": "It made him appear even more manly."
+                },
+                {
+                  "key": "C",
+                  "text": "It seemed to give him a certain uniqueness."
+                },
+                {
+                  "key": "D",
+                  "text": "It seemed to make up for his physical defects."
+                }
+              ],
+              "answer": "C",
+              "analysis": "态度观点题。答案句（P11）：In fact, I thought it added character… like it gave him a certain uniqueness.信号：I thought 引出的主观评价 。男生用 In fact, I thought it added character… like it gave him a certain uniqueness，I though…",
+              "optionAnalysis": {
+                "A": "原词陷阱：选项 It gave him a noticeable smartness. 蹭了录音里多次出现的 noticeable（make it less noticeable），但 smartness（精明/帅气）男生从没说过；属用熟词拼凑的原词陷阱。 借用原文：I can understand some scars and physical defects can be ugly and distracting, but not Johnny's",
+                "B": "未提及：选项 It made him appear even more manly. 说疤让他更有男子气概，录音里男生评价用的是 character、uniqueness，从未说 manly；属未提及。",
+                "D": "与原文相反：选项 It seemed to make up for his physical defects. 蹭了录音 physical defects 一词，但男生说的是『有些缺陷确实丑、可 Johnny 的疤不是』，并不认为疤在弥补缺陷；这是反着用了原文，张冠李戴加曲解。",
+                "C": "正确项：与答案句同义替换（it gave him a certain uniqueness ↔ It seemed to give him a certain uniqueness. 近乎同句，只换了语气词）"
+              },
+              "evidencePara": "P11",
+              "evidenceText": "In fact, I thought it added character… like it gave him a certain uniqueness.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 15,
+              "stem": "How could we describe the speakers' attitude towards Johnny's girlfriend?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Liberal."
+                },
+                {
+                  "key": "B",
+                  "text": "Hostile."
+                },
+                {
+                  "key": "C",
+                  "text": "Indifferent."
+                },
+                {
+                  "key": "D",
+                  "text": "Critical."
+                }
+              ],
+              "answer": "D",
+              "analysis": "态度观点题。答案句（P16）：What? That's so superficial and selfish of her. If Johnny's girlfriend doesn't like him for who he is, then she does not deserve to be his girlfriend.信号：连串贬义评价词 。女生对女友连用 so superficial and selfish（肤浅、自私）和 does not deserve（不配），都是强烈负面用词；加上男生附和 You are right，两人态度一…",
+              "optionAnalysis": {
+                "A": "与原文相反：选项 Liberal.（开明、宽容）方向与录音相反——两人对女友是 superficial and selfish 的指责，毫无宽容之意；属与原文相反。 借用原文：What a fool he is",
+                "B": "过度推断：选项 Hostile.（充满敌意）程度太重，录音是批评女友的做法（肤浅、自私），并未到仇视、敌对的地步；属程度过度推断。",
+                "C": "与原文相反：选项 Indifferent.（漠不关心）与录音情绪冲突——女生说到激动处骂女友、还评 What a fool he is，明显在意、不是无所谓；属与原文相反。",
+                "D": "正确项：与答案句同义替换（That's so superficial and selfish of her ↔ Critical. 贬义评价归为『批评』）"
+              },
+              "evidencePara": "P16",
+              "evidenceText": "What? That's so superficial and selfish of her. If Johnny's girlfriend doesn't like him for who he is, then she does not deserve to be his girlfriend.",
+              "type": "态度观点题"
+            }
+          ]
+        },
+        {
+          "title": "Passage One",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 20,
+              "text": "Talking is unique to humans. An animal might make 10 different sounds, but an adult human knows more than 20,000 words. Additionally, we're the only animal that expresses thoughts in full sentences. Researchers don't think language was invented; instead, they think it evolved. How did talking evolve? There are two main theories.",
+              "zh": "说话是人类独有的能力。动物可能会发出10种不同的声音,但成年人掌握的词汇超过20,000个。此外,我们是唯一能用完整句子表达思想的动物。研究人员认为语言不是被发明出来的,而是进化而来的。说话是如何进化的?有两种主要理论。"
+            },
+            {
+              "id": 2,
+              "start": 20.4,
+              "end": 55.4,
+              "text": "The first theory is that language started with people making different sounds, mostly imitating the things around them, like animal calls, nature sounds, and the sounds of tools. Perhaps they made the sound of wind to comment on the weather or imitated the sound of a bird to tell a friend that there was a bird nearby. Then over hundreds of thousands of years, those sounds turned into words that people began to learn as part of their language. At some point, people started stringing the words together to form sentences.",
+              "zh": "第一种理论认为,语言起源于人们发出不同的声音,主要是模仿周围的事物,比如动物叫声、自然界的声音以及工具的声音。也许他们发出风的声音来评论天气,或者模仿鸟叫声来告诉朋友附近有一只鸟。然后在数十万年的时间里,这些声音演变成了词汇,人们开始将其作为语言的一部分来学习。在某个时刻,人们开始将词汇串联起来形成句子。"
+            },
+            {
+              "id": 3,
+              "start": 55.8,
+              "end": 92.7,
+              "text": "The other main theory, which is more recent, is that people started off by gesturing—pointing at things with their hands and imitating actions using their bodies. Eventually these gestures turned into a full sign language. This theory guesses that after developing sign languages, people eventually started making sounds along with their gestures. At some point, they switched to mostly making sounds that became words instead of just using their bodies. The reason they switched to making sounds, the theory goes, is that talking out loud lets you communicate with someone even when you can't see them.",
+              "zh": "另一种主要理论更为近期,认为人们最初是通过手势——用手指向事物并用身体模仿动作来交流的。最终这些手势演变成了完整的手语。这个理论推测,在发展出手语之后,人们最终开始在做手势的同时发出声音。在某个时刻,他们转变为主要发出声音形成词汇,而不仅仅是使用身体。该理论认为,他们转向发出声音的原因是,出声说话可以让你即使在看不见对方的情况下也能进行交流。"
+            }
+          ],
+          "audioDuration": 92.7,
+          "questions": [
+            {
+              "number": 16,
+              "stem": "How did language come into being according to researchers?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Through deliberation."
+                },
+                {
+                  "key": "B",
+                  "text": "Through evolution."
+                },
+                {
+                  "key": "C",
+                  "text": "Through invention."
+                },
+                {
+                  "key": "D",
+                  "text": "Through collaboration."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：Researchers don't think language was invented; instead, they think it evolved.信号：否定+instead 的对比落点 。这句靠 don't think 先否掉一个说法、再用 instead 引出真正的答案——『否定 + instead/but』之后才是真意。前半 language was inven…",
+              "optionAnalysis": {
+                "C": "原词陷阱：Through invention. 直接套用了录音里的 invented 一词，听到 invent 就想选正中陷阱——但原文是 don't think language was invented，明确否定了『发明』这个说法，所以它恰恰是错的。",
+                "A": "未提及：Through deliberation.（通过深思熟虑/商议）在录音里根本没出现，研究者只在 invented 和 evolved 之间表态，从未说语言是『商量出来的』。",
+                "D": "未提及：Through collaboration.（通过协作）听上去合理，但录音只谈『进化还是发明』，从没说语言是靠人们协作产生的，属于自己脑补、原文未给的内容。",
+                "B": "正确项：与答案句同义替换（they think it evolved ↔ Through evolution. 动词 evolved 名词化为 evolution）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Researchers don't think language was invented; instead, they think it evolved.",
+              "type": "细节题"
+            },
+            {
+              "number": 17,
+              "stem": "How did language start according to the first theory?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "With people imitating sounds around them."
+                },
+                {
+                  "key": "B",
+                  "text": "With people interacting with animals close by."
+                },
+                {
+                  "key": "C",
+                  "text": "With people showing each other things nearby."
+                },
+                {
+                  "key": "D",
+                  "text": "With people trying to string sounds together."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：The first theory is that language started with people making different sounds, mostly imitating the things around them, like animal calls, nature sounds, and the sounds of tools.信号：started with 直接点出起点 。这句用 language started with（语言始于……）这种明确的『起点』标志词，正面回答题干问的『怎么开始』；其后的 imitating the things a…",
+              "optionAnalysis": {
+                "B": "原词陷阱：With people interacting with animals close by. 抓住了录音里的 animal calls（动物叫声）做诱饵，但原文说的是『模仿动物的叫声』，不是『和身边的动物互动』——听到 animal 就选就掉进陷阱，模仿声音 ≠ 与动物互动。 借用原文：people started stringing the words together to form sentences",
+                "D": "答非所问：With people trying to string sounds together. 套用了原文 stringing the words together，但那是录音明说『At some point』（在某个时间点）才出现的后期步骤，不是『怎么开始』；它答的是后来的事，与题干问的『起点』错位。 借用原文：pointing at things with their hands and imitating actions using their bodies",
+                "C": "张冠李戴：With people showing each other things nearby. 的『互相展示身边的东西』其实更接近第三段第二个理论里的『比划、用手指东西』，而本题限定 the first theory，张冠李戴把另一个理论的内容搬了过来。",
+                "A": "正确项：与答案句同义替换（making different sounds, mostly imitating the things around them ↔ With people imitating sounds around them. imitating things around→imitating sounds around）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The first theory is that language started with people making different sounds, mostly imitating the things around them, like animal calls, nature sounds, and the sounds of tools.",
+              "type": "细节题"
+            },
+            {
+              "number": 18,
+              "stem": "Why did people switch from gesturing to making sounds according to the more recent theory?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Making sounds can free one's hands for doing other things."
+                },
+                {
+                  "key": "B",
+                  "text": "Making sounds proves markedly easier than sign languages."
+                },
+                {
+                  "key": "C",
+                  "text": "Making sounds enables one to express their ideas more explicitly."
+                },
+                {
+                  "key": "D",
+                  "text": "Making sounds helps one communicate with people they can't see."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：The reason they switched to making sounds, the theory goes, is that talking out loud lets you communicate with someone even when you can't see them.信号：The reason…is that 直给原因 。这句以 The reason they switched to making sounds 开头、用 is that 直接引出理由，是最明确的因果信号；is that…",
+              "optionAnalysis": {
+                "A": "过度推断：Making sounds can free one's hands for doing other things.『腾出双手做别的事』听上去很合理，但录音从手语切到发声时只给了『看不见也能交流』这一个理由，从没提过『腾出手』，这是凭常识自己补出来的，原文未给。",
+                "B": "原词陷阱：Making sounds proves markedly easier than sign languages. 借用了录音里的 sign language，但原文只说手语后来发展出发声，从没比较『出声比手语更容易』，这个 easier 的比较是凭空加上去的。",
+                "C": "未提及：Making sounds enables one to express their ideas more explicitly.『能更清楚地表达想法』是个看似合理的好处，但录音给出的唯一理由是『看不见对方也能交流』，从没说出声能表达得『更明确』，属于无中生有。",
+                "D": "正确项：与答案句同义替换（communicate with someone even when you can't see them ↔ Making sounds helps one communicate with people they can't see. 几乎逐词对应的同义改写）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "The reason they switched to making sounds, the theory goes, is that talking out loud lets you communicate with someone even when you can't see them.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Two",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 36.9,
+              "text": "Is it a good idea to display luxury brands and other signals of status? It depends on the situation. Studies have shown that people who appear to be wealthy tend to be considered more intelligent, disciplined, and competent than those who do not. But new research found that people believe someone who shows off their social status cares more about benefiting themselves than helping others. This means people are less willing to collaborate with them. Modesty may be key when cooperation is essential, but the researchers also found that in some cases, status signaling has advantages.",
+              "zh": "展示奢侈品牌和其他地位象征是个好主意吗？这取决于具体情况。研究表明,看起来富有的人往往被认为比那些看起来不富有的人更聪明、更自律、更有能力。但新研究发现,人们认为炫耀社会地位的人更关心自身利益而非帮助他人。这意味着人们不太愿意与他们合作。当合作至关重要时,谦逊可能是关键,但研究人员也发现,在某些情况下,地位信号具有优势。"
+            },
+            {
+              "id": 2,
+              "start": 37.3,
+              "end": 58.8,
+              "text": "Experiments showed that participants were less likely to choose someone who signals their wealth or status to join a group seeking cooperative members. But participants were more likely to choose that person when they're looking for a competitive team member. These findings suggest that people should change how they present themselves depending on their social goal.",
+              "zh": "实验表明,当参与者寻找合作型成员加入团队时,他们不太可能选择那些展示财富或地位的人。但当他们寻找竞争型团队成员时,参与者更有可能选择那个人。这些发现表明,人们应该根据自己的社交目标来改变展示自己的方式。"
+            },
+            {
+              "id": 3,
+              "start": 59.1,
+              "end": 91.8,
+              "text": "This is the era of social media. People can easily share their wealth and status to large audiences, but they need to consider the consequences. Posting about luxury purchases and expensive vacations online may help you to persuade others and frighten competitors, but it could also signal to potential friends or future employers that you are unlikely to think about the needs of others. This makes things tricky for people who may want to impress others while also demonstrating that they are a team player.",
+              "zh": "这是社交媒体的时代。人们可以轻松地向广大受众分享自己的财富和地位,但他们需要考虑后果。在网上发布关于奢侈品购买和昂贵假期的内容可能有助于你说服他人并威慑竞争对手,但它也可能向潜在朋友或未来雇主发出信号,表明你不太可能考虑他人的需求。这使得那些既想给他人留下深刻印象又想表明自己是团队合作者的人处境尴尬。"
+            }
+          ],
+          "audioDuration": 91.8,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "How would people describe someone who shows off their social status according to new research?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Well disciplined."
+                },
+                {
+                  "key": "B",
+                  "text": "Quite confident."
+                },
+                {
+                  "key": "C",
+                  "text": "Somewhat selfish."
+                },
+                {
+                  "key": "D",
+                  "text": "Highly intelligent."
+                }
+              ],
+              "answer": "C",
+              "analysis": "态度观点题。答案句（P1）：But new research found that people believe someone who shows off their social status cares more about benefiting themselves than helping others.信号：转折 But + new research 。答案句以 But new research found 起头，转折词 But 加上题干点名的『new research』双重信号——前一句讲『显得有钱被认为更聪明自律』是…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Well disciplined. 盗用了答案句前那句铺垫里的 disciplined，但那句说的是『显得有钱的人被认为更自律』，是 But 之前的对比信息，不是新研究对炫耀者的评价，听到 disciplined 就选正中陷阱。 借用原文：people who appear to be wealthy tend to be considered more intelligent",
+                "B": "未提及：Quite confident.『相当自信』录音通篇没有提到，是凭『炫耀的人大概很自信』的常识硬推出来的，没有原文依据。",
+                "D": "原词陷阱：Highly intelligent. 盗用了铺垫句里的 intelligent，同样出自 But 之前『显得有钱者被认为更聪明』的对比信息，不是新研究对炫耀者的真正评价，与 A 是同一类陷阱。",
+                "C": "正确项：与答案句同义替换（cares more about benefiting themselves than helping others ↔ Somewhat selfish. 整句释义→一词概括）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "But new research found that people believe someone who shows off their social status cares more about benefiting themselves than helping others.",
+              "type": "态度观点题"
+            },
+            {
+              "number": 20,
+              "stem": "When were participants more likely to choose someone who signaled their wealth or status?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "When they wanted to have a competitive team member."
+                },
+                {
+                  "key": "B",
+                  "text": "When they were looking for a cooperative workmate."
+                },
+                {
+                  "key": "C",
+                  "text": "When they found collaboration essential to them."
+                },
+                {
+                  "key": "D",
+                  "text": "When they were seeking someone to help them."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P2）：But participants were more likely to choose that person when they're looking for a competitive team member.信号：转折 But + more likely 。本段先说『seeking cooperative members 时不太会选』，But participants were more likely to choose 用 …",
+              "optionAnalysis": {
+                "B": "与原文相反：When they were looking for a cooperative workmate. 盗用了 looking for 的句式和『合作』概念，但录音说『找 cooperative members 时反而 less likely 选』，正好与题干问的 more likely 相反，是把『不选』的情形错当成『选』的情形。 借用原文：Modesty may be key when cooperation is essential",
+                "C": "原词陷阱：When they found collaboration essential to them. 搬来第一段的 cooperation is essential 那层意思（collaboration、essential），听着很耳熟，但那是讲『需要合作时该谦逊』，与本题『更愿意选炫耀者』的情形无关，是典型听到熟词就想选的陷阱。",
+                "D": "未提及：When they were seeking someone to help them.『想找人帮忙时』录音从未把『更愿意选炫耀者』绑到这种情形上，是凭常识臆造的条件，无原文依据。",
+                "A": "正确项：与答案句同义替换（looking for a competitive team member ↔ When they wanted to have a competitive team member. 近义动词替换）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "But participants were more likely to choose that person when they're looking for a competitive team member.",
+              "type": "细节题"
+            },
+            {
+              "number": 21,
+              "stem": "What should people do when sharing their wealth and status online?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Avoid frightening competitors."
+                },
+                {
+                  "key": "B",
+                  "text": "Make clear their social goal."
+                },
+                {
+                  "key": "C",
+                  "text": "Adopt persuasive strategies."
+                },
+                {
+                  "key": "D",
+                  "text": "Consider the consequences."
+                }
+              ],
+              "answer": "D",
+              "analysis": "细节题。答案句（P3）：People can easily share their wealth and status to large audiences, but they need to consider the consequences.信号：建议信号 need to + 转折 but 。末段先说『社媒能轻易把财富地位分享给大众』，but they need to consider the consequences 用 but 转折并带 need to（需…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Avoid frightening competitors. 搬来末段的 frighten competitors，但录音说炫耀『可以帮你吓退竞争者』，那是分享地位的好处之一，并非『应该做什么』的建议；而且选项加了 Avoid（避免）把意思反成『避免吓退』，与原文方向不符。 借用原文：people should change how they present themselves depending on their social goal",
+                "B": "张冠李戴：Make clear their social goal. 借了第二段的 depending on their social goal，但那句讲的是『按社交目标调整自我展示』，不是末段『网上分享该怎么做』的建议，是把别段内容安到本题头上。 借用原文：may help you to persuade others",
+                "C": "原词陷阱：Adopt persuasive strategies. 盗用末段 persuade others 的词根（persuasive），但录音说炫耀『可以帮你说服别人』也是好处之一，不是建议人去『采取说服策略』，属听到 persuade 就想选的陷阱。",
+                "D": "正确项：与答案句同义替换（need to consider the consequences ↔ Consider the consequences. 建议句去主语即选项）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "People can easily share their wealth and status to large audiences, but they need to consider the consequences.",
+              "type": "细节题"
+            }
+          ]
+        },
+        {
+          "title": "Passage Three",
+          "kind": "passage",
+          "transcript": [
+            {
+              "id": 1,
+              "start": 0,
+              "end": 16.5,
+              "text": "Human fascination with animals goes back as far as humans do. Of the oldest cave paintings discovered, some are up to 40,000 years old, and there are more images of animals than humans. At some point, humans began to capture and hold animals.",
+              "zh": "人类对动物的迷恋可以追溯到人类诞生之初。在已发现的最古老洞穴壁画中,有些距今已有4万年之久,其中动物图像多于人类图像。在某个时期,人类开始捕获和饲养动物。"
+            },
+            {
+              "id": 2,
+              "start": 16.9,
+              "end": 38.8,
+              "text": "The first-known collections were held by royalty and were not open to the public. In Egypt, researchers have found buildings from around 3500 B.C., containing the remains of animals, including elephants, which were not native to Egypt. But life wasn't easy for these animals. They probably had short lives, and their remains show evidence of severe injuries.",
+              "zh": "已知最早的动物收藏由王室持有,不对公众开放。在埃及,研究人员发现了约公元前3500年的建筑,其中存有动物遗骸,包括并非埃及本土物种的大象。但这些动物的生活并不轻松。它们的寿命可能很短,其遗骸显示出严重受伤的痕迹。"
+            },
+            {
+              "id": 3,
+              "start": 39.1,
+              "end": 59.9,
+              "text": "The first public exhibit of animals may have been created by Egypt's Queen Hatshepsut around 1480 B.C. Researchers think the zoo was started with animals brought home from a far-off land known as Punt. It's unclear why the Queen built the zoo, but it might have been to show off her wealth and power.",
+              "zh": "首个向公众展出的动物园可能由埃及女王Hatshepsut于公元前1480年左右建造。研究人员认为该动物园始于从一个名为Punt的遥远之地带回的动物。女王建造动物园的原因尚不清楚,但可能是为了炫耀她的财富和权力。"
+            },
+            {
+              "id": 4,
+              "start": 60.3,
+              "end": 89.9,
+              "text": "Early zoos are found all over the world. In China, Emperor Wenwang is said to have built a \"Garden of Intelligence\" around 1060 B.C. It included deer, birds, and many fish. In England, King Henry I set up a collection of animals in about 1110 as part of the royal estate. His collection included tigers and lions. This collection eventually moved to the Tower of London in 1235. The collection stayed at that location for 600 years.",
+              "zh": "早期动物园遍布世界各地。在中国,据说周文王于公元前1060年左右建造了一座\"灵囿\",其中包括鹿、鸟类和许多鱼类。在英国,亨利一世国王于1110年左右在皇家庄园内设立了动物收藏。他的收藏包括老虎和狮子。这个收藏最终于1235年迁至伦敦塔。该收藏在那里保留了600年。"
+            }
+          ],
+          "audioDuration": 89.9,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "What can we see in the oldest cave paintings?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Much evidence of humans capturing animals."
+                },
+                {
+                  "key": "B",
+                  "text": "More images of animals than humans."
+                },
+                {
+                  "key": "C",
+                  "text": "Fewer images of buildings than animals."
+                },
+                {
+                  "key": "D",
+                  "text": "Little proof of human fascination with animals."
+                }
+              ],
+              "answer": "B",
+              "analysis": "细节题。答案句（P1）：Of the oldest cave paintings discovered, some are up to 40,000 years old, and there are more images of animals than humans.信号：题干原词 oldest cave paintings 复现处 。原文 Of the oldest cave paintings discovered 与题干 the oldest cave paintings 是同一…",
+              "optionAnalysis": {
+                "A": "原词陷阱：Much evidence of humans capturing animals. 盗用了下一句 humans began to capture and hold animals 的 capture 一词，但那讲的是后来人类开始圈养动物，不是壁画内容；题问壁画里能看到什么，答非所问。 借用原文：Human fascination with animals goes back as far as humans do",
+                "C": "未提及：Fewer images of buildings than animals. 里的 buildings 在第一段壁画的描述中根本没提（buildings 出现在第二段讲埃及建筑处），壁画只比较了 animals 与 humans，没说 buildings 的图像，属凭空捏造。",
+                "D": "与原文相反：Little proof of human fascination with animals. 用了开头句 Human fascination with animals 的原词，却说成 Little proof（很少证据）；而原文开头明说人类对动物的迷恋自古就有、壁画里动物图像还更多，恰恰是证据充分，极性完全相反。",
+                "B": "正确项：与答案句同义替换（more images of animals than humans ↔ More images of animals than humans. 几乎原句照搬）"
+              },
+              "evidencePara": "P1",
+              "evidenceText": "Of the oldest cave paintings discovered, some are up to 40,000 years old, and there are more images of animals than humans.",
+              "type": "细节题"
+            },
+            {
+              "number": 23,
+              "stem": "What do we learn about the first-known collections of animals?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They were open to the public."
+                },
+                {
+                  "key": "B",
+                  "text": "They were primarily native."
+                },
+                {
+                  "key": "C",
+                  "text": "They were kept by royalty."
+                },
+                {
+                  "key": "D",
+                  "text": "They were hardly injured."
+                }
+              ],
+              "answer": "C",
+              "analysis": "细节题。答案句（P2）：The first-known collections were held by royalty and were not open to the public.信号：题干主语 first-known collections 在原文复现处 。原文 The first-known collections were held by royalty 与题干 the first-known…",
+              "optionAnalysis": {
+                "A": "与原文相反：They were open to the public. 借用了原文 not open to the public 里的 open to the public 短语，却把否定的 not 去掉，说成对公众开放；原文恰恰说这些最早的收藏不对公众开放，极性相反。 借用原文：which were not native to Egypt",
+                "B": "与原文相反：They were primarily native. 盗用了原文 native 一词，却把意思整个说反：原文是 not native to Egypt（大象不是埃及本土的），选项却说 primarily native（主要是本土的），方向相反。 借用原文：their remains show evidence of severe injuries",
+                "D": "与原文相反：They were hardly injured. 借用了原文 injuries 一词，却说几乎没受伤；原文明说 their remains show evidence of severe injuries（遗骸显示有严重伤害），是伤得很重，与选项正好相反。",
+                "C": "正确项：与答案句同义替换（were held by royalty ↔ They were kept by royalty. held 同义替换为 kept）"
+              },
+              "evidencePara": "P2",
+              "evidenceText": "The first-known collections were held by royalty and were not open to the public.",
+              "type": "细节题"
+            },
+            {
+              "number": 24,
+              "stem": "What might be the reason the Egyptian Queen created the zoo?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To enable the public to watch animals close by."
+                },
+                {
+                  "key": "B",
+                  "text": "To introduce to Egyptians animals from Punt."
+                },
+                {
+                  "key": "C",
+                  "text": "To protect the endangered animals."
+                },
+                {
+                  "key": "D",
+                  "text": "To show off her riches and power."
+                }
+              ],
+              "answer": "D",
+              "analysis": "目的题。答案句（P3）：It's unclear why the Queen built the zoo, but it might have been to show off her wealth and power.信号：转折 but 之后的目的句 。答案句的信号是转折加目的：It's unclear why 先说原因不明，转折词 but 之后 it might have been to show off her wealth and…",
+              "optionAnalysis": {
+                "A": "原词陷阱：To enable the public to watch animals close by. 把第三段开头 The first public exhibit of animals 里的 public 拿来当动机，但 public exhibit 只是给这座动物园定性，原文说的建园原因是炫耀财富权力，不是为让公众近距离看动物。 借用原文：animals brought home from a far-off land known as Punt",
+                "B": "张冠李戴：To introduce to Egyptians animals from Punt. 盗用了原文 a far-off land known as Punt 的地名 Punt，但原文说 Punt 只是动物的来源地（从那带回动物），不是建园是为了向埃及人介绍这些动物，张冠李戴。",
+                "C": "未提及：To protect the endangered animals. 说为保护濒危动物，但全文从未提到 protect 或 endangered，建园原因原文只给了炫耀财富权力一种，属凭空添加。",
+                "D": "正确项：与答案句同义替换（to show off her wealth and power ↔ To show off her riches and power. wealth 同义替换为 riches）"
+              },
+              "evidencePara": "P3",
+              "evidenceText": "It's unclear why the Queen built the zoo, but it might have been to show off her wealth and power.",
+              "type": "目的题"
+            },
+            {
+              "number": 25,
+              "stem": "What do we learn about King Henry I's collection of animals in England?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was part of the royal estate."
+                },
+                {
+                  "key": "B",
+                  "text": "It was a shelter for wild animals."
+                },
+                {
+                  "key": "C",
+                  "text": "It was the kingdom's best-equipped zoo."
+                },
+                {
+                  "key": "D",
+                  "text": "It was the first public exhibit of animals."
+                }
+              ],
+              "answer": "A",
+              "analysis": "细节题。答案句（P4）：In England, King Henry I set up a collection of animals in about 1110 as part of the royal estate.信号：人名 King Henry I 后紧跟的定性 。定位靠人名复现：题干问 King Henry I，原文 In England, King Henry I set up a collection of animals …",
+              "optionAnalysis": {
+                "B": "未提及：It was a shelter for wild animals. 借用了全篇反复出现的 animals，但原文从没把亨利一世这处收藏说成野生动物的庇护所（shelter），这是凭空添加的定性。",
+                "C": "过度推断：It was the kingdom's best-equipped zoo. 用 best-equipped（装备最好的）拔高，但原文只说它是 part of the royal estate 并养有老虎狮子，从未评价它是王国里设施最好的动物园，属过度拔高。 借用原文：The first public exhibit of animals may have been created by Egypt's Queen Hatshepsut",
+                "D": "张冠李戴：It was the first public exhibit of animals. 盗用了第三段 The first public exhibit of animals 的原话，但那说的是埃及女王 Hatshepsut 的动物园，不是英格兰亨利一世这处，把别处的定性安到了这处头上。",
+                "A": "正确项：与答案句同义替换（as part of the royal estate ↔ It was part of the royal estate. 近乎原句对应）"
+              },
+              "evidencePara": "P4",
+              "evidenceText": "In England, King Henry I set up a collection of animals in about 1110 as part of the royal estate.",
+              "type": "细节题"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "reading",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Section A 选词填空",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "The human brain has the ability to constantly form new networks and connections between brain cells. This means the brain has an almost magical ability to change. This characteristic is 26______ apparent in a new study, focusing on people who underwent a hemispherectomy, a surgical procedure in which half of the brain is removed to treat illness.\n\nThe findings showed that, despite missing half of this critical 27______ , participants could function well. This was because the 28______ half of their brain strengthened. In fact, researchers found that connections and thus communication—between parts of different brain networks are actually stronger in people who had hemispherectomies than in people with intact brains. This 29______ that the brain is able to compensate for loss of certain brain structure.\n\nThere are many other cases in the medical 30______ that document the brain's amazing ability to 31______ For example, a young boy had a significant portion of his brain removed for medical reasons, which included the part of the brain 32______ for sight. But a few years after his surgery, scientists found that he could 33______ see. They determined that this was because other parts of his brain took over the missing part's 34______ tasks. Another study involved people who could smell, despite missing the region in the brain that processes information about smells. Though they are not sure how these individuals 35______ the ability to smell, scientists believe it is possible that another part of the brain took on that task."
+            },
+            {
+              "label": "词库",
+              "text": "A) adapt\nB) hardly\nC) indicates\nD) insist\nE) literature\nF) organ\nG) particularly\nH) remaining\nI) responsible\nJ) retained\nK) still\nL) strategy\nM) transformed\nN) underlines\nO) visual"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Choose the word for blank 26.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adapt"
+                },
+                {
+                  "key": "B",
+                  "text": "hardly"
+                },
+                {
+                  "key": "C",
+                  "text": "indicates"
+                },
+                {
+                  "key": "D",
+                  "text": "insist"
+                },
+                {
+                  "key": "E",
+                  "text": "literature"
+                },
+                {
+                  "key": "F",
+                  "text": "organ"
+                },
+                {
+                  "key": "G",
+                  "text": "particularly"
+                },
+                {
+                  "key": "H",
+                  "text": "remaining"
+                },
+                {
+                  "key": "I",
+                  "text": "responsible"
+                },
+                {
+                  "key": "J",
+                  "text": "retained"
+                },
+                {
+                  "key": "K",
+                  "text": "still"
+                },
+                {
+                  "key": "L",
+                  "text": "strategy"
+                },
+                {
+                  "key": "M",
+                  "text": "transformed"
+                },
+                {
+                  "key": "N",
+                  "text": "underlines"
+                },
+                {
+                  "key": "O",
+                  "text": "visual"
+                }
+              ],
+              "answer": "G",
+              "type": "选词填空",
+              "analysis": "【答案】G（官方答案）\n应填 G) particularly\n【原文】This characteristic is __(26)__ apparent in a new study接的是一项新研究做例证，常见说法是‘这一特性在……中尤为明显’；particularly apparent 是固定的强调搭配。\nB) hardly hardly 是否定副词，与全段‘强调可塑性’相反：hardly apparent 意为‘几乎不明显’，会把全篇‘大脑可塑性惊人’的论点一下子否掉，逻辑上正话反说。\nK) still still 此处会变成‘仍然明显’，弱化强调：still apparent 表‘照旧明显’，没问题但语气平淡；本句要的是‘举新研究来凸显’的强调感，比 particularly 弱；且 still 在第 33 题‘he cou"
+            },
+            {
+              "number": 27,
+              "stem": "Choose the word for blank 27.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adapt"
+                },
+                {
+                  "key": "B",
+                  "text": "hardly"
+                },
+                {
+                  "key": "C",
+                  "text": "indicates"
+                },
+                {
+                  "key": "D",
+                  "text": "insist"
+                },
+                {
+                  "key": "E",
+                  "text": "literature"
+                },
+                {
+                  "key": "F",
+                  "text": "organ"
+                },
+                {
+                  "key": "G",
+                  "text": "particularly"
+                },
+                {
+                  "key": "H",
+                  "text": "remaining"
+                },
+                {
+                  "key": "I",
+                  "text": "responsible"
+                },
+                {
+                  "key": "J",
+                  "text": "retained"
+                },
+                {
+                  "key": "K",
+                  "text": "still"
+                },
+                {
+                  "key": "L",
+                  "text": "strategy"
+                },
+                {
+                  "key": "M",
+                  "text": "transformed"
+                },
+                {
+                  "key": "N",
+                  "text": "underlines"
+                },
+                {
+                  "key": "O",
+                  "text": "visual"
+                }
+              ],
+              "answer": "F",
+              "type": "选词填空",
+              "analysis": "【答案】F（官方答案）\n应填 F) organ\n【原文】‘大脑’本身就是 critical organ（关键器官）\nE) literature literature 指文献，不能被‘半个’切：literature 是抽象名词‘文献/文学’，跟 half of this critical 搭不上——不能说‘缺了关键文献的一半’；它真正的用武之地在第 30 题‘medica\nL) strategy strategy 指策略，与 brain 的指代对不上：this 在语篇里回指上文提到的实体，而上文核心实体是 brain（一个具体器官），不是某种策略；且 missing half of a strategy 也不是地道说法。"
+            },
+            {
+              "number": 28,
+              "stem": "Choose the word for blank 28.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adapt"
+                },
+                {
+                  "key": "B",
+                  "text": "hardly"
+                },
+                {
+                  "key": "C",
+                  "text": "indicates"
+                },
+                {
+                  "key": "D",
+                  "text": "insist"
+                },
+                {
+                  "key": "E",
+                  "text": "literature"
+                },
+                {
+                  "key": "F",
+                  "text": "organ"
+                },
+                {
+                  "key": "G",
+                  "text": "particularly"
+                },
+                {
+                  "key": "H",
+                  "text": "remaining"
+                },
+                {
+                  "key": "I",
+                  "text": "responsible"
+                },
+                {
+                  "key": "J",
+                  "text": "retained"
+                },
+                {
+                  "key": "K",
+                  "text": "still"
+                },
+                {
+                  "key": "L",
+                  "text": "strategy"
+                },
+                {
+                  "key": "M",
+                  "text": "transformed"
+                },
+                {
+                  "key": "N",
+                  "text": "underlines"
+                },
+                {
+                  "key": "O",
+                  "text": "visual"
+                }
+              ],
+              "answer": "H",
+              "type": "选词填空",
+              "analysis": "【答案】H（官方答案）\n应填 H) remaining\n【原文】切了一半 → 强壮起来的是‘剩下的’那一半\nI) responsible responsible 不能直接作前置定语修饰 half：responsible 表‘负有责任的’，习惯用法是 be responsible for…，几乎不直接前置修饰像 half 这种抽象量词；语义上也与‘剩下的那一半’对不上。\nO) visual ‘视觉的一半大脑’语义无所指：visual 是‘视觉的’，本段并未把话题缩到视觉脑区，下文谈视觉补偿是在第三段男孩例子里；放在此处会把全段主旨从‘整体半脑代偿’偏到‘视觉’上。"
+            },
+            {
+              "number": 29,
+              "stem": "Choose the word for blank 29.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adapt"
+                },
+                {
+                  "key": "B",
+                  "text": "hardly"
+                },
+                {
+                  "key": "C",
+                  "text": "indicates"
+                },
+                {
+                  "key": "D",
+                  "text": "insist"
+                },
+                {
+                  "key": "E",
+                  "text": "literature"
+                },
+                {
+                  "key": "F",
+                  "text": "organ"
+                },
+                {
+                  "key": "G",
+                  "text": "particularly"
+                },
+                {
+                  "key": "H",
+                  "text": "remaining"
+                },
+                {
+                  "key": "I",
+                  "text": "responsible"
+                },
+                {
+                  "key": "J",
+                  "text": "retained"
+                },
+                {
+                  "key": "K",
+                  "text": "still"
+                },
+                {
+                  "key": "L",
+                  "text": "strategy"
+                },
+                {
+                  "key": "M",
+                  "text": "transformed"
+                },
+                {
+                  "key": "N",
+                  "text": "underlines"
+                },
+                {
+                  "key": "O",
+                  "text": "visual"
+                }
+              ],
+              "answer": "C",
+              "type": "选词填空",
+              "analysis": "【答案】C（官方答案）\n应填 C) indicates\n【原文】‘上文现象→表明这一推论’，indicates 最中性贴切\nN) underlines underlines 偏‘强调/凸显已成共识的事’，本句是‘推论’不是‘强调旧识’：underline that 也能接从句，但语气是‘再次强调’，前提是该结论早已被反复说过；本句是基于上文新证据‘得出’结论，用 indicates（表明/暗示）更合逻辑流，且 u"
+            },
+            {
+              "number": 30,
+              "stem": "Choose the word for blank 30.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adapt"
+                },
+                {
+                  "key": "B",
+                  "text": "hardly"
+                },
+                {
+                  "key": "C",
+                  "text": "indicates"
+                },
+                {
+                  "key": "D",
+                  "text": "insist"
+                },
+                {
+                  "key": "E",
+                  "text": "literature"
+                },
+                {
+                  "key": "F",
+                  "text": "organ"
+                },
+                {
+                  "key": "G",
+                  "text": "particularly"
+                },
+                {
+                  "key": "H",
+                  "text": "remaining"
+                },
+                {
+                  "key": "I",
+                  "text": "responsible"
+                },
+                {
+                  "key": "J",
+                  "text": "retained"
+                },
+                {
+                  "key": "K",
+                  "text": "still"
+                },
+                {
+                  "key": "L",
+                  "text": "strategy"
+                },
+                {
+                  "key": "M",
+                  "text": "transformed"
+                },
+                {
+                  "key": "N",
+                  "text": "underlines"
+                },
+                {
+                  "key": "O",
+                  "text": "visual"
+                }
+              ],
+              "answer": "E",
+              "type": "选词填空",
+              "analysis": "【答案】E（官方答案）\n应填 E) literature\n【原文】medical literature 是固定搭配‘医学文献’\nL) strategy medical strategy 是‘医疗策略’，与 cases that document 对不上：strategy 指策略/方略，而本句 cases that document（记录案例的）只能存在于文献/记录里，不能存在于‘策略’里；逻辑上 in the medical st"
+            },
+            {
+              "number": 31,
+              "stem": "Choose the word for blank 31.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adapt"
+                },
+                {
+                  "key": "B",
+                  "text": "hardly"
+                },
+                {
+                  "key": "C",
+                  "text": "indicates"
+                },
+                {
+                  "key": "D",
+                  "text": "insist"
+                },
+                {
+                  "key": "E",
+                  "text": "literature"
+                },
+                {
+                  "key": "F",
+                  "text": "organ"
+                },
+                {
+                  "key": "G",
+                  "text": "particularly"
+                },
+                {
+                  "key": "H",
+                  "text": "remaining"
+                },
+                {
+                  "key": "I",
+                  "text": "responsible"
+                },
+                {
+                  "key": "J",
+                  "text": "retained"
+                },
+                {
+                  "key": "K",
+                  "text": "still"
+                },
+                {
+                  "key": "L",
+                  "text": "strategy"
+                },
+                {
+                  "key": "M",
+                  "text": "transformed"
+                },
+                {
+                  "key": "N",
+                  "text": "underlines"
+                },
+                {
+                  "key": "O",
+                  "text": "visual"
+                }
+              ],
+              "answer": "A",
+              "type": "选词填空",
+              "analysis": "【答案】A（官方答案）\n应填 A) adapt\n【原文】回到 overview：the brain is able to compensate for loss of certain brain structure——‘代偿’与‘适应’语义同向；the brain's amazing ability to __(31)__填 adapt，意即‘大脑惊人的适应能力’，与全篇主旨完全对齐。\nD) insist insist 表‘坚持主张’，主语是大脑不通：insist 多用于人的‘坚持要求/坚持认为’，跟无生命的 brain 搭配语义怪异；且与下文举的两个例子（视觉代偿、嗅觉代偿）无关，例证是用来证明‘适应/代偿’而非‘坚持’。"
+            },
+            {
+              "number": 32,
+              "stem": "Choose the word for blank 32.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adapt"
+                },
+                {
+                  "key": "B",
+                  "text": "hardly"
+                },
+                {
+                  "key": "C",
+                  "text": "indicates"
+                },
+                {
+                  "key": "D",
+                  "text": "insist"
+                },
+                {
+                  "key": "E",
+                  "text": "literature"
+                },
+                {
+                  "key": "F",
+                  "text": "organ"
+                },
+                {
+                  "key": "G",
+                  "text": "particularly"
+                },
+                {
+                  "key": "H",
+                  "text": "remaining"
+                },
+                {
+                  "key": "I",
+                  "text": "responsible"
+                },
+                {
+                  "key": "J",
+                  "text": "retained"
+                },
+                {
+                  "key": "K",
+                  "text": "still"
+                },
+                {
+                  "key": "L",
+                  "text": "strategy"
+                },
+                {
+                  "key": "M",
+                  "text": "transformed"
+                },
+                {
+                  "key": "N",
+                  "text": "underlines"
+                },
+                {
+                  "key": "O",
+                  "text": "visual"
+                }
+              ],
+              "answer": "I",
+              "type": "选词填空",
+              "analysis": "【答案】I（官方答案）\n应填 I) responsible\n【原文】固定搭配 be responsible for 锁死\nO) visual visual 不与 for 搭配，且会和 sight 语义打架：visual 是‘视觉的’，没有 visual for… 的搭配；同时 visual 本身就含‘视觉’的意思，再加 for sight 就成了‘视觉的为了视力’，重复又不通。"
+            },
+            {
+              "number": 33,
+              "stem": "Choose the word for blank 33.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adapt"
+                },
+                {
+                  "key": "B",
+                  "text": "hardly"
+                },
+                {
+                  "key": "C",
+                  "text": "indicates"
+                },
+                {
+                  "key": "D",
+                  "text": "insist"
+                },
+                {
+                  "key": "E",
+                  "text": "literature"
+                },
+                {
+                  "key": "F",
+                  "text": "organ"
+                },
+                {
+                  "key": "G",
+                  "text": "particularly"
+                },
+                {
+                  "key": "H",
+                  "text": "remaining"
+                },
+                {
+                  "key": "I",
+                  "text": "responsible"
+                },
+                {
+                  "key": "J",
+                  "text": "retained"
+                },
+                {
+                  "key": "K",
+                  "text": "still"
+                },
+                {
+                  "key": "L",
+                  "text": "strategy"
+                },
+                {
+                  "key": "M",
+                  "text": "transformed"
+                },
+                {
+                  "key": "N",
+                  "text": "underlines"
+                },
+                {
+                  "key": "O",
+                  "text": "visual"
+                }
+              ],
+              "answer": "K",
+              "type": "选词填空",
+              "analysis": "【答案】K（官方答案）\n应填 K) still\n【原文】a young boy had a significant portion of his brain removed for medical reasons, which included the part of the brain __(32)__ for sight. But a few years after his surgery, scientists found that he could __(33)__ see.——But+几年后+发现他能看见，要的是‘竟然还能看见’这种转折后肯定，still see 正合此意，且呼应主旨‘大脑代偿’。\nB) hardly hardly see 是‘几乎看不见’，与 But… 转折后的肯定语气反向：hardly 是半否定副词，会把句意变成‘他几乎看不见’，那就和第三段‘大脑居然能代偿’的全段定调彻底相反。看到 But + scientists found 的‘惊喜发现’语气，"
+            },
+            {
+              "number": 34,
+              "stem": "Choose the word for blank 34.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adapt"
+                },
+                {
+                  "key": "B",
+                  "text": "hardly"
+                },
+                {
+                  "key": "C",
+                  "text": "indicates"
+                },
+                {
+                  "key": "D",
+                  "text": "insist"
+                },
+                {
+                  "key": "E",
+                  "text": "literature"
+                },
+                {
+                  "key": "F",
+                  "text": "organ"
+                },
+                {
+                  "key": "G",
+                  "text": "particularly"
+                },
+                {
+                  "key": "H",
+                  "text": "remaining"
+                },
+                {
+                  "key": "I",
+                  "text": "responsible"
+                },
+                {
+                  "key": "J",
+                  "text": "retained"
+                },
+                {
+                  "key": "K",
+                  "text": "still"
+                },
+                {
+                  "key": "L",
+                  "text": "strategy"
+                },
+                {
+                  "key": "M",
+                  "text": "transformed"
+                },
+                {
+                  "key": "N",
+                  "text": "underlines"
+                },
+                {
+                  "key": "O",
+                  "text": "visual"
+                }
+              ],
+              "answer": "O",
+              "type": "选词填空",
+              "analysis": "【答案】O（官方答案）\n应填 O) visual\n【原文】上文是‘负责视觉的脑区’，被接管的自然是视觉任务\n32 题已说 the part of the brain responsible for sight，34 题接 the missing part's __ tasks——既然 missing part 负责的是 sight，那它的 tasks 就是 visual tasks（视觉任务），语义闭环。"
+            },
+            {
+              "number": 35,
+              "stem": "Choose the word for blank 35.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "adapt"
+                },
+                {
+                  "key": "B",
+                  "text": "hardly"
+                },
+                {
+                  "key": "C",
+                  "text": "indicates"
+                },
+                {
+                  "key": "D",
+                  "text": "insist"
+                },
+                {
+                  "key": "E",
+                  "text": "literature"
+                },
+                {
+                  "key": "F",
+                  "text": "organ"
+                },
+                {
+                  "key": "G",
+                  "text": "particularly"
+                },
+                {
+                  "key": "H",
+                  "text": "remaining"
+                },
+                {
+                  "key": "I",
+                  "text": "responsible"
+                },
+                {
+                  "key": "J",
+                  "text": "retained"
+                },
+                {
+                  "key": "K",
+                  "text": "still"
+                },
+                {
+                  "key": "L",
+                  "text": "strategy"
+                },
+                {
+                  "key": "M",
+                  "text": "transformed"
+                },
+                {
+                  "key": "N",
+                  "text": "underlines"
+                },
+                {
+                  "key": "O",
+                  "text": "visual"
+                }
+              ],
+              "answer": "J",
+              "type": "选词填空",
+              "analysis": "【答案】J（官方答案）\n应填 J) retained\n【原文】‘没了脑区却仍保有嗅觉能力’，retained 精准对位\nM) transformed transformed 是‘改造/转变’，跟 the ability to smell 搭配不通：transform 通常表‘把 A 改造为 B（transform A into B）’，跟‘嗅觉能力’搭配会变成‘改造嗅觉能力’，与上下文‘他们居然还能闻得到’的‘保留’语义反向\nA) adapt 动词：适应；改变以适应 用于第 31 空\nB) hardly 副词：几乎不 干扰词 · 未选用\nC) indicates 动词：表明，暗示（三单形式） 用于第 29 空"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Section B 长篇阅读匹配",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Traffic jams are a common problem of most big cities, either in developed or in developing countries, but one kind of traffic jams in particular can be especially frustrating. These are generally known as \"phantom\" traffic jams, in which dense traffic crawls to a halt for no apparent reason at all."
+            },
+            {
+              "label": "B",
+              "text": "\"When caught in such a traffic jam, it is common for drivers to assume that there must be an accident, or construction or something,\" said Massachusetts Institute of Technology (MIT) computer science professor Berthold Horn. \"And then you drive and drive and drive… and there isn't anything there.\""
+            },
+            {
+              "label": "C",
+              "text": "The exact cause of these phantom traffic jams has long remained a mystery. But now, new research has found the cause and researchers may have come up with a solution for this frustrating traffic pattern: maintaining equal spacing between cars on the road, rather than driving so closely behind another vehicle that a collision(碰撞) is likely if that vehicle brakes suddenly."
+            },
+            {
+              "label": "D",
+              "text": "Horn said phantom traffic jams are an emergent property of the flow of vehicles down a highway. A phantom jam begins when a car in dense traffic slows down even slightly, which causes the car behind that vehicle to slow even more—and the slowing action spreads backward through the lane of traffic like a wave, getting worse the farther it spreads. Eventually, the cars far behind are forced to stop completely or risk hitting the slower vehicles ahead—and so the traffic grinds to a halt over nothing, Horn said."
+            },
+            {
+              "label": "E",
+              "text": "Horn has been working on the problem of phantom traffic jams for years, and he has come up with a solution: By splitting the difference between the cars in front and the cars behind, the spacing of cars in a stream of traffic can act as a damper(抑制) on phantom traffic jams. That is, it can prevent the slow-down effect from being amplified(增强) by the cars that follow behind, he said. In essence, each driver would constantly make adjustments to keep their car roughly halfway between the car in front and the car behind."
+            },
+            {
+              "label": "F",
+              "text": "Horn calls this method of vehicle spacing bilateral(双边的) control, and he said it could be achieved with relatively simple modifications to the adaptive cruise control that many new cars already have. Adaptive cruise control is a driver assistance technology that sets a maximum speed for vehicles and automatically slows the speed of the car when traffic is sensed in front of the vehicle. The technology is also known as autonomous cruise control. Such modifications, Horn said, could help fight phantom jams within a few years, maybe decades before an alternative solution, such as networked self-driving cars, becomes a reality on the roads."
+            },
+            {
+              "label": "G",
+              "text": "Traffic jams are caused by a number of factors, such as roads that are poorly designed or over-capacity, localized factors like city traffic-lighting patterns, and events like accidents and construction. But phantom traffic jams can make all those problems worse, Horn said. And the researchers in the new study have calculated that solving phantom jams could save at least some of the estimated $121 billion per year that traffic jams are estimated to cost the U.S. economy, Horn told Live Science."
+            },
+            {
+              "label": "H",
+              "text": "New research by Horn and MIT postdoctoral associate Liang Wang, published in the journal IEEE Transactions on Intelligent Transportation Systems, shows how bilateral control can fight the problem. The researchers made computer models of real-world traffic conditions, showing how a typical U.S. freeway could benefit from cars using bilateral control. That would be in place when human drivers fail to slow down, thus avoiding tailgating(紧跟) the car in front, Horn said. \"Under reasonable conditions today, you might get 1,800 cars per lane per hour throughput (the volume of traffic passing through),\" he added. \"But with bilateral control, you could almost double that.\""
+            },
+            {
+              "label": "I",
+              "text": "The main alternative to increasing traffic throughput per lane has been to build more lanes and more highways, and putting in new roads is very expensive, he said. \"If we can increase the throughput on major highways, even if it's only by 50 percent, that would be a big deal,\" Horn said."
+            },
+            {
+              "label": "J",
+              "text": "With the help of engineering students at high schools in Maine, Horn and Wang have also built a robot simulation(模拟) that shows how bilateral control can suppress phantom traffic jams. Increasing the spacing of vehicles dampens the effect of slowdowns by cars in front of a given car, so that the slowing is not worsened until it becomes a phantom jam, the researchers said."
+            },
+            {
+              "label": "K",
+              "text": "A video from the project shows a train of autonomous robots running along a track without bilateral control; they eventually back up in phantom jams. But when the robots are switched over to bilateral control (by flashing the lights in the room), each autonomous robot tries to keep itself halfway between the robot in front and the one behind; the phantom jams disappear as a result, Horn said."
+            },
+            {
+              "label": "L",
+              "text": "Since starting his research on phantom traffic jams, Horn has learned that schools of fish and flocks of birds and bats use similar spacing strategies to avoid hitting each other while swimming or flying in densely packed groups. In particular, studies of millions of bats emerging at dusk from caves in Southeast Asia showed that each bat used a form of bilateral control to reduce the likelihood of collisions with other bats in the densely packed swarm(一大群), Horn said."
+            },
+            {
+              "label": "M",
+              "text": "Unlike bats, birds and fish, however, humans have difficulty judging distances behind them. To address that weakness, Horn is now working with the car company Toyota to enable a form of bilateral control via modifications to existing adaptive cruise control systems, which use forward-facing sensors to judge the distance to the vehicle ahead. The bilateral control approach would include adding rear-facing sensors to determine the distance to the vehicle following a car."
+            },
+            {
+              "label": "N",
+              "text": "But until those systems become standard, human drivers can help reduce phantom traffic jams simply by not following the car in front so closely. As Horn argues, \"There's absolutely no advantage of tailgating the car in front of you.\""
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The age-long mystery has now been resolved as to how phantom traffic jams are caused.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "C",
+              "type": "信息匹配",
+              "analysis": "【答案】C（强锚点）\n【原文】The exact cause of these phantom traffic jams has long remained a mystery. But now, new research has found the cause\n这种幻影堵车的确切成因长期以来一直是个谜。但如今，新研究已经找到了病因。"
+            },
+            {
+              "number": 37,
+              "stem": "It is possible to nearly double the hourly throughput per lane by adopting bilateral control.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "answer": "H",
+              "type": "信息匹配",
+              "analysis": "【答案】H（强锚点）\n【原文】\"Under reasonable conditions today, you might get 1,800 cars per lane per hour throughput (the volume of traffic passing through),\" he added. \"But with bilateral control, you could almost double that.\"\nI 段说的是 increase the throughput on major highways, even if it's only by 50 percent——靠修路只提升 50%，并非靠双边控制翻倍，与陈述句的“几乎翻倍”不符。"
+            },
+            {
+              "number": 38,
+              "stem": "According to Horn, drivers making constant adjustments for equal spacing between cars in a flow of traffic can help reduce phantom traffic jams.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "answer": "E",
+              "type": "信息匹配",
+              "analysis": "【答案】E（弱锚点）\n【原文】In essence, each driver would constantly make adjustments to keep their car roughly halfway between the car in front and the car behind.\nC 段 maintaining equal spacing between cars on the road 只是概括性地点出解法叫“保持等距”，并没有讲“司机不断调整保持居中”这一具体动作，落点比 E 段浅。"
+            },
+            {
+              "number": 39,
+              "stem": "Before systems for bilateral control are installed, drivers should not follow the car in front too closely so as to reduce phantom traffic jams.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "N",
+                  "text": "Paragraph N"
+                }
+              ],
+              "answer": "N",
+              "type": "信息匹配",
+              "analysis": "【答案】N（弱锚点）\n【原文】But until those systems become standard, human drivers can help reduce phantom traffic jams simply by not following the car in front so closely.\nF 段 it could be achieved with relatively simple modifications to the adaptive cruise control 讲的是技术如何实现，而非“普及前司机的行为建议”，答非本句所问。"
+            },
+            {
+              "number": 40,
+              "stem": "Horn said with some simple modifications to the existing equipment in new vehicles, their spacing bilateral control could be accomplished.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "answer": "F",
+              "type": "信息匹配",
+              "analysis": "【答案】F（强锚点）\n【原文】it could be achieved with relatively simple modifications to the adaptive cruise control that many new cars already have.\nM 段 modifications to existing adaptive cruise control systems 的落点是“为解决人判断后方距离的弱点而加装后向传感器”（对应第 42 题），而非本句“简单改装即可实现”这一概括，重点不同。"
+            },
+            {
+              "number": 41,
+              "stem": "Drivers caught up in phantom traffic jams are likely to think an accident has happened or some construction is going on.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "B",
+              "type": "信息匹配",
+              "analysis": "【答案】B（强锚点）\n【原文】When caught in such a traffic jam, it is common for drivers to assume that there must be an accident, or construction or something\n被堵在这种车流里时，司机通常会以为前面一定出了事故，或者在施工之类。"
+            },
+            {
+              "number": 42,
+              "stem": "Two sets of sensors would be used to help drivers determine the distances between cars.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "M",
+                  "text": "Paragraph M"
+                }
+              ],
+              "answer": "M",
+              "type": "信息匹配",
+              "analysis": "【答案】M（强锚点）\n【原文】which use forward-facing sensors to judge the distance to the vehicle ahead. The bilateral control approach would include adding rear-facing sensors to determine the distance to the vehicle following a car.\n（这些系统）用前向传感器判断与前车的距离。双边控制方案还要加装后向传感器，以测定与后方跟随车辆的距离。"
+            },
+            {
+              "number": 43,
+              "stem": "Solving the problem of phantom jams could save America billions of dollars every year.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "answer": "G",
+              "type": "信息匹配",
+              "analysis": "【答案】G（强锚点）\n【原文】solving phantom jams could save at least some of the estimated $121 billion per year that traffic jams are estimated to cost the U.S. economy\nI 段 putting in new roads is very expensive 讲的是替代方案花钱多，与陈述句“为美国每年省钱”方向相反。"
+            },
+            {
+              "number": 44,
+              "stem": "In a phantom traffic jam, the cars in the same lane slow down one after another, creating a wave-like effect.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                }
+              ],
+              "answer": "D",
+              "type": "信息匹配",
+              "analysis": "【答案】D（强锚点）\n【原文】the slowing action spreads backward through the lane of traffic like a wave, getting worse the farther it spreads.\n在幽灵交通堵塞中,同一车道上的车辆一辆接一辆地减速,形成波浪效应。"
+            },
+            {
+              "number": 45,
+              "stem": "Horn has found that certain creatures use strategies similar to bilateral control to avoid hitting each other while moving in dense crowds.",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "L",
+                  "text": "Paragraph L"
+                }
+              ],
+              "answer": "L",
+              "type": "信息匹配",
+              "analysis": "【答案】L（强锚点）\n【原文】schools of fish and flocks of birds and bats use similar spacing strategies to avoid hitting each other while swimming or flying in densely packed groups.\n2025年6月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 45. Horn has found that certain creatures use strategies similar to bilateral control to avoid hitting each other while moving in dense crowds. 这句陈述的信息出自第几段？为什么？ 2025年6月英语四级真题第3套 长篇阅读（信息匹配） 第 1 篇 第 45 句的信息出自 L 段（强锚点句）。L 段定位句为「schools of fish and flocks of birds and bats use similar spacing strategies to avoid hitting each other while swimming or flying in densely packed groups.」（鱼群、鸟群和蝙蝠会用类似的间距策略，避免在密集群体中游动或飞行时相互碰撞。）。陈述句是对原文的同义改写（use strategies similar to bilateral control to avoid hitting each other ↔ use similar spacing strategies to avoid hitting each other）。该句锚点唯一、直达对应段，文中无易混的相邻段。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Section C 仔细阅读（一）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Our society places a high value on physical beauty. Americans spend an average of over $722 each year on their appearance. One in ten Americans has tried to look like a star."
+            },
+            {
+              "label": "B",
+              "text": "There's nothing wrong with trying to look our best, but excessive focus on physical appearance misses the soulful aspects of what it means to be beautiful. Trying to look like the magazine pictures can take us on a long ride away from what beauty is really about."
+            },
+            {
+              "label": "C",
+              "text": "Many of us spend far too much time, energy, and money trying to polish an image of what we think will bring attention, love, and connection. In the process, we may fail to attend to ourselves in a way that would move us toward deeper intimacy, fulfillment, and meaning."
+            },
+            {
+              "label": "D",
+              "text": "It may sound trite(老生常谈的), but beauty is only skin deep; it's not what brings love toward us. Just read about the latest Hollywood starlets whose seeming love turns into resentment and bitter court battles."
+            },
+            {
+              "label": "E",
+              "text": "Outer beauty can be as much of a curse as a blessing. We may develop a habit of being so focused on maintaining a perfect appearance that we never cultivate the inner qualities necessary to sustain and deepen intimacy and connection. As I describe in my book, The Authentic Heart, it is the courage to be authentic that connects us in a deeper way."
+            },
+            {
+              "label": "F",
+              "text": "While our initial attraction may be based, in part, on physical chemistry, it is the meeting of our inner worlds that creates the lasting intimacy and spiritual connection for which we long. If we redirect our attention toward cultivating inner qualities, we might find a magnetic attraction that moves us from something superficial to something that connects us to our depths."
+            },
+            {
+              "label": "G",
+              "text": "The path toward cultivating inner beauty is really simple. But what is simple is not always easy. Not everyone will see us and appreciate us as we take the courageous risk to allow ourselves to be seen as we really are. But if they don't, it is their loss, not ours. Eventually we'll find those compatible souls who appreciate us as we are."
+            }
+          ],
+          "questions": [
+            {
+              "number": 46,
+              "stem": "What do we learn about American society from the first paragraph?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It sees lots of personal income wasted on beauty products."
+                },
+                {
+                  "key": "B",
+                  "text": "It considers one's physical appearance very important."
+                },
+                {
+                  "key": "C",
+                  "text": "It places a high value on the physical fitness of stars."
+                },
+                {
+                  "key": "D",
+                  "text": "It expects every individual to look their very best."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（见正文）"
+            },
+            {
+              "number": 47,
+              "stem": "What happens when people strive to look better?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have to get prepared for resentment and bitter court battles."
+                },
+                {
+                  "key": "B",
+                  "text": "They are better able to gain attention, love, and personal connection."
+                },
+                {
+                  "key": "C",
+                  "text": "They may neglect to cultivate the inner qualities that matter more."
+                },
+                {
+                  "key": "D",
+                  "text": "They feel much of their precious time, energy and resources is wasted."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（见正文）"
+            },
+            {
+              "number": 48,
+              "stem": "What does the author say about outer beauty?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It may be inherited or cultivated."
+                },
+                {
+                  "key": "B",
+                  "text": "It may lead to bad as well as good habits."
+                },
+                {
+                  "key": "C",
+                  "text": "It may create connection or isolation."
+                },
+                {
+                  "key": "D",
+                  "text": "It may do as much harm as good."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（见正文）"
+            },
+            {
+              "number": 49,
+              "stem": "What brings about spiritual connection?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Meeting of minds."
+                },
+                {
+                  "key": "B",
+                  "text": "Attraction at first sight."
+                },
+                {
+                  "key": "C",
+                  "text": "Physical chemistry."
+                },
+                {
+                  "key": "D",
+                  "text": "Frequent interaction."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（见正文）"
+            },
+            {
+              "number": 50,
+              "stem": "What happens when we take the path toward cultivating inner beauty?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "We may find a route toward other people's souls."
+                },
+                {
+                  "key": "B",
+                  "text": "We may be appreciated more by people around us."
+                },
+                {
+                  "key": "C",
+                  "text": "We will meet people who value us for who we are."
+                },
+                {
+                  "key": "D",
+                  "text": "We will be discouraged from revealing our true selves."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（见正文）"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Section C 仔细阅读（二）",
+          "paragraphs": [
+            {
+              "label": "A",
+              "text": "Plant-based meats are coming soon to a dinner table near you, but do they deserve a spot on your plate? If you tried a vegetable burger years ago and dismissed it as rubbery and flavorless, it's a good time to give meatless meat another chance. Newer varieties imitate the look, flavor, and texture of meat. Analysts don't expect the meat-free movement to slow anytime soon; a 2021 report predicts the market will skyrocket to $74 billion by 2030—a 957 percent surge."
+            },
+            {
+              "label": "B",
+              "text": "Plant-based meats are no longer just for vegetarians. Companies such as Impossible Foods and Beyond Meat—the current superstars of the alternative protein sector—are pursuing consumers who enjoy meat but want to reduce their meat consumption for animal rights, health, or environmental reasons. So far, it's a winning strategy: More than nine out of ten consumers who buy Beyond Burger and Impossible Foods products also eat meat."
+            },
+            {
+              "label": "C",
+              "text": "Many vegetarians don't actually care for food that resembles meat. When reporter Joan Solsman, a longtime vegetarian, tried a dish from Impossible Foods, she felt so sick that she couldn't finish it. \"Maybe the best sign that Impossible Foods has cracked the code to realistic fake meat is that I couldn't stand to take another bite,\" she wrote."
+            },
+            {
+              "label": "D",
+              "text": "Meatless meats are generally a healthier choice than beef because they are cholesterol-free, plus they're a good source of vitamins, minerals, protein, and fiber."
+            },
+            {
+              "label": "E",
+              "text": "If meatless meat can help you stick to a plant-based diet, that in itself can lead to better health. Not only has red meat been linked to cancer, but studies show that people who ditch meat have lower blood pressure, lower average blood sugar, and lower cholesterol levels."
+            },
+            {
+              "label": "F",
+              "text": "However, just because it's plant-based doesn't mean it's health food. Most imitation meats are highly processed and contain high amounts of sodium(钠) compared to traditional beef."
+            },
+            {
+              "label": "G",
+              "text": "These new generations of alternate meat get all the attention, but don't forget about whole grains and vegetables. Beans are an especially excellent protein substitute. They're nutritious, inexpensive, and far more sustainable than any of the processed meatless substitutes on the market today."
+            }
+          ],
+          "questions": [
+            {
+              "number": 51,
+              "stem": "What can we expect of plant-based meats?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "An increasing interest in their analyses."
+                },
+                {
+                  "key": "B",
+                  "text": "An enormous effort in their promotion."
+                },
+                {
+                  "key": "C",
+                  "text": "A huge boost in their consumption."
+                },
+                {
+                  "key": "D",
+                  "text": "A noticeable surge in their varieties."
+                }
+              ],
+              "answer": "C",
+              "type": "阅读理解",
+              "analysis": "【答案】C（细节题）\n【原文】Analysts don't expect the meat-free movement to slow anytime soon; a 2021 report predicts the market will skyrocket to $74 billion by 2030—a 957 percent surge.\nA) 偷换概念：An increasing interest in their analyses 把原文里「分析师们的预期」偷换成「对它们分析的兴趣增长」，文章并未说人们对植物肉的分析研究兴趣上升\nB) 无中生有：An enormous effort in their promotion 谈的是「推广上的巨大努力」，原文只说市场规模会增长，没提企业或政府投入推广，属无中生有。\nC) ✓ 正确：the market will skyrocket to $74 billion by 2030—a 957 percent surge ↔ A huge boost in the\nD) 偷换概念：A noticeable surge in their varieties 把 surge 的对象从原文的「市场规模」换成「种类」，原文仅提到 Newer varieties im"
+            },
+            {
+              "number": 52,
+              "stem": "What do we learn about consumers buying Beyond Burger and Impossible Foods products?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are mostly non-vegetarians."
+                },
+                {
+                  "key": "B",
+                  "text": "They are mostly animal-rights advocates."
+                },
+                {
+                  "key": "C",
+                  "text": "Most of them refrain from eating meat for health reasons."
+                },
+                {
+                  "key": "D",
+                  "text": "Most of them eat meatless meat to protect the environment."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】More than nine out of ten consumers who buy Beyond Burger and Impossible Foods products also eat meat.\nA) ✓ 正确：More than nine out of ten consumers who buy Beyond Burger and Impossible Foods products al\nB) 以偏概全：They are mostly animal-rights advocates 把动物权利说成消费者的主要身份，但原文 animal rights, health, or envi\nC) 以偏概全：Most of them refrain from eating meat for health reasons 同样把并列三动机里的「健康」拎出来说大多数，且 refrain f\nD) 以偏概全：Most of them eat meatless meat to protect the environment 同样犯「三选一拎为主因」的错误，无原文比例支撑。"
+            },
+            {
+              "number": 53,
+              "stem": "What can we conclude about Impossible Foods' products from Joan Solsman's remark?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They more often appeal to meat-eaters."
+                },
+                {
+                  "key": "B",
+                  "text": "They very much resemble animal meat."
+                },
+                {
+                  "key": "C",
+                  "text": "Some have become its signature dishes."
+                },
+                {
+                  "key": "D",
+                  "text": "Most of them are sold as true fake meat."
+                }
+              ],
+              "answer": "B",
+              "type": "阅读理解",
+              "analysis": "【答案】B（推断题）\n【原文】Maybe the best sign that Impossible Foods has cracked the code to realistic fake meat is that I couldn't stand to take another bite.\nA) 答非所问：题目要求从她的话推断 Impossible Foods 的「产品本身」特性，They more often appeal to meat-eaters 说的是「产品更受肉食者欢迎」\nB) ✓ 正确：Impossible Foods has cracked the code to realistic fake meat ↔ They very much resemble ani\nC) 无中生有：Some have become its signature dishes 说这些菜成了「招牌菜」，原文只说她试吃了 a dish from Impossible Foods，并未\nD) 偷换概念：Most of them are sold as true fake meat 把 realistic fake meat（逼真的假肉）改成 sold as true fake m"
+            },
+            {
+              "number": 54,
+              "stem": "Why can the habit of eating a plant-based diet lead to better health?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It frees people from any known link to cancer."
+                },
+                {
+                  "key": "B",
+                  "text": "It provides all the nutrients for staying healthy."
+                },
+                {
+                  "key": "C",
+                  "text": "It helps maintain normal blood pressure and blood sugar."
+                },
+                {
+                  "key": "D",
+                  "text": "It reduces various health risks posed by meat consumption."
+                }
+              ],
+              "answer": "D",
+              "type": "阅读理解",
+              "analysis": "【答案】D（细节题）\n【原文】Not only has red meat been linked to cancer, but studies show that people who ditch meat have lower blood pressure, lower average blood sugar, and lower cholesterol levels.\nA) 过度推断：It frees people from any known link to cancer 中 frees ... from any known link 表示「完全免除任何已知关\nB) 过度推断：It provides all the nutrients for staying healthy 说植物饮食提供「所有保持健康所需的营养」，P4 只列了维生素、矿物质、蛋白质、纤\nC) 以偏概全：It helps maintain normal blood pressure and blood sugar 只提血压和血糖，漏了胆固醇和癌症，且 maintain normal\nD) ✓ 正确：Not only has red meat been linked to cancer, but studies show that people who ditch meat h"
+            },
+            {
+              "number": 55,
+              "stem": "What does the author recommend we eat at the end of the passage?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Naturally produced foods."
+                },
+                {
+                  "key": "B",
+                  "text": "Processed protein substitutes."
+                },
+                {
+                  "key": "C",
+                  "text": "Red meats like traditional beef."
+                },
+                {
+                  "key": "D",
+                  "text": "New generations of alternate meat."
+                }
+              ],
+              "answer": "A",
+              "type": "阅读理解",
+              "analysis": "【答案】A（细节题）\n【原文】These new generations of alternate meat get all the attention, but don't forget about whole grains and vegetables. Beans are an especially excellent protein substitute. They're nutritious, inexpensive, and far more sustainable than any of the processed meatless substitutes on the market today.\nA) ✓ 正确：whole grains and vegetables ↔ Naturally produced foods far more sustainable than any of th\nB) 与原文相反：Processed protein substitutes 说的正是作者要反对的加工蛋白替代品，far more sustainable than any of the proce\nC) 与原文相反：Red meats like traditional beef 是全文反复劝退的对象（red meat been linked to cancer），作者绝不会在结尾推荐它。\nD) 与原文相反：New generations of alternate meat 与 These new generations of alternate meat 原词复现，但原文用 but "
+            }
+          ]
+        }
+      ],
+      "note": "原文与题目逐字取自真题原卷，答案为官方答案，逐题解析据真题解析整理；阅读部分不再有仿真稿。"
+    },
+    {
+      "type": "translation",
+      "passages": [
+        {
+          "order": 1,
+          "title": "Translation",
+          "paragraphs": [],
+          "questions": [
+            {
+              "number": 56,
+              "stem": "请将下面一段话译成英语：\n\n近年来,中国越来越多的城市着力打造\"15分钟便民生活圈(convenient living circles)\"。社区居民步行15分钟就能享受到日常所需的公共服务。生活圈内建有便利店、公园、健身场地、图书馆、学校、社区食堂、诊所等。生活圈的建立能够为居民提供更加便利、舒适、友好、愉悦的生活环境,更好地满足城市居民多元化的日常生活服务需求,提升居民的生活品质和幸福感。",
+              "analysis": "【参考译文】\nIn recent years, an increasing number of Chinese cities have been striving to build \"15-minute convenient living circles\". Within such a circle, community residents can have access to the public services they need in daily life within just a 15-minute walk. There are facilities such as convenience stores, parks, fitness areas, libraries, schools, community canteens and clinics. The establishment of these living circles can provide residents with a more convenient, comfortable, friendly and pleasant living environment, thus better meeting the diverse daily-life service needs of urban residents and improving their quality of life and sense of happiness."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "listeningSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-1/",
+    "sharedWith": "cet4-2025-06-s1",
+    "fetchedAt": "2026-11-15",
+    "passages": 8,
+    "sentences": 58
+  },
+  "fullSource": {
+    "url": "https://english-exam.lazynote.cn/cet4/paper/2025-06-3/",
+    "fetchedAt": "2026-11-15",
+    "sections": [
+      "writing",
+      "reading",
+      "translation"
+    ],
+    "readingQuestions": 30,
+    "modelEssay": true,
+    "modelTranslation": true
+  }
+}
