@@ -5,6 +5,7 @@ import Link from "next/link";
 import { apiFetch } from "@/lib/api-client";
 import { withSharecode } from "@/lib/share-code";
 import { generateVideo, MODE_LABEL, warmUpCloud, type GenMode } from "@/lib/creation-client";
+import { clearDraft, hasPending, loadDraft, markPending, saveDraft } from "@/lib/create-draft";
 import {
   DEFAULT_VIDEO_OPTIONS,
   MAX_SOURCE_CHARS,
@@ -84,6 +85,7 @@ export function VideoStudio({ workId }: { workId?: string }) {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
   const [savedTip, setSavedTip] = useState("");
+  const [interrupted, setInterrupted] = useState(false);
   const [copied, setCopied] = useState(false);
   // 视频上传与需求描述（最小闭环：视频抽帧预览，口播稿仍手动填）
   const [needText, setNeedText] = useState("");
@@ -131,8 +133,26 @@ export function VideoStudio({ workId }: { workId?: string }) {
 
   useEffect(() => {
     warmUpCloud();
-    if (workId) void loadSaved(workId);
+    if (workId) {
+      void loadSaved(workId);
+      return;
+    }
+    // 新建工作台：从草稿恢复上次未保存的输入，并检查是否有中断的生成任务
+    const draft = loadDraft<VideoOptions>("video");
+    if (draft) {
+      setSource(draft.source);
+      if (draft.options) setOptions((prev) => ({ ...prev, ...draft.options }));
+    }
+    setInterrupted(hasPending("video"));
   }, [workId, loadSaved]);
+
+  // 输入 / 参数变化后防抖写入草稿：切走页面、关标签再回来，内容还在
+  useEffect(() => {
+    if (workId) return;
+    if (!source.trim()) return;
+    const timer = window.setTimeout(() => saveDraft("video", source, options), 400);
+    return () => window.clearTimeout(timer);
+  }, [source, options, workId]);
 
   useEffect(() => {
     const urls = objectUrls.current;
@@ -314,20 +334,52 @@ export function VideoStudio({ workId }: { workId?: string }) {
 
   const chars = source.replace(/\s/g, "").length;
 
+  /** 保存到作品库；生成成功后自动调用，也可手动「保存」再存一次 */
+  const persist = async (out: VideoOutput): Promise<void> => {
+    try {
+      const created = await apiFetch<{ id: string }>("/api/create", {
+        method: "POST",
+        body: JSON.stringify({
+          kind: "video",
+          title: out.title.slice(0, 150) || "未命名短视频",
+          sourceText: source,
+          output: JSON.stringify(out),
+          meta: JSON.stringify(options),
+        }),
+      });
+      setSavedTip(`已保存到作品库（${created.id.slice(0, 6)}…）`);
+      clearDraft("video");
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "自动保存失败，可点「保存」重试");
+    }
+  };
+
   const run = async () => {
     if (source.trim().length < 20) {
       setError("至少写一段口播稿（20 字以上）再生成");
       return;
     }
+    if (busy) return;
     setBusy(true);
     setError("");
     setNote("");
     setSavedTip("");
+    setInterrupted(false);
+    markPending("video", true);
     try {
       const result = await generateVideo(source, options);
       setOutput(result.output);
       setMode(result.mode);
       setNote(result.note);
+      // 生成成功立即入库：解决「做了一版但网页端没有记录」
+      // 服务端通道会自己落库（哪怕前端已经切走），拿到 savedId 就不再重复存
+      if (result.savedId) {
+        setSavedTip(`已保存到作品库（${result.savedId.slice(0, 6)}…）`);
+        clearDraft("video");
+      } else if (result.mode !== "offline") {
+        await persist(result.output);
+      }
+      markPending("video", false);
       // 窄屏是上下堆叠，结果在输入卡下面一屏之外，不滚一下用户会以为没反应
       if (typeof window !== "undefined" && window.innerWidth < 1024) {
         window.setTimeout(() => {
@@ -335,6 +387,7 @@ export function VideoStudio({ workId }: { workId?: string }) {
         }, 120);
       }
     } catch (err) {
+      markPending("video", false);
       setError(err instanceof Error ? err.message : "生成失败，请重试");
     } finally {
       setBusy(false);
@@ -343,21 +396,7 @@ export function VideoStudio({ workId }: { workId?: string }) {
 
   const save = async () => {
     if (!output) return;
-    try {
-      const created = await apiFetch<{ id: string }>("/api/create", {
-        method: "POST",
-        body: JSON.stringify({
-          kind: "video",
-          title: output.title.slice(0, 150) || "未命名短视频",
-          sourceText: source,
-          output: JSON.stringify(output),
-          meta: JSON.stringify(options),
-        }),
-      });
-      setSavedTip(`已保存到作品库（${created.id.slice(0, 6)}…）`);
-    } catch (err) {
-      setError(err instanceof Error ? err.message : "保存失败");
-    }
+    await persist(output);
   };
 
   const download = () => {
@@ -387,6 +426,18 @@ export function VideoStudio({ workId }: { workId?: string }) {
   return (
     <div className="mt-5 grid gap-4 lg:grid-cols-[380px_minmax(0,1fr)]">
       <section className="card-soft h-fit p-4 sm:p-5">
+        {interrupted && (
+          <div className="mb-3 rounded-[10px] border border-accent/30 bg-accent-soft/50 px-3 py-2 text-[11.5px] leading-[1.7] text-ink-soft">
+            上次生成似乎被中断了，输入已从草稿恢复，可以重新生成。
+            <button
+              type="button"
+              onClick={() => void run()}
+              className="ml-1 text-accent underline-offset-2 hover:underline"
+            >
+              重新生成 →
+            </button>
+          </div>
+        )}
         <div className="flex items-center justify-between">
           <p className="text-[12.5px] font-medium text-ink">中文口播稿</p>
           <span className="font-mono text-[11px] text-ink-mute">

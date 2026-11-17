@@ -16,6 +16,10 @@
 # next.js
 /.next/
 /out/
+# 构建器 stagedBuild 的中间目录与回滚留档（体积大，别进仓库、也别进部署上传包）
+/.next-*/
+# 构建器 stagedBuild 的中间目录与回滚留档（体积大，别进仓库、也别进部署上传包）
+/.next-*/
 
 # production
 /build
