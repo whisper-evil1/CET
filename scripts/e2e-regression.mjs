@@ -14,6 +14,21 @@
 
 const BASE = (process.env.BASE ?? "http://127.0.0.1:3101").replace(/\/$/, "");
 const SHARE = process.env.SHARE ?? "";
+
+/**
+ * 部署环境冷启动防护。
+ * server.cjs 先 listen 再后台编译启动 Next，冷启动期间所有请求都返回「正在启动」的
+ * HTML 占位页（HTTP 200，正文不是 JSON）。此时注册拿不到业务码，整轮会假失败。
+ */
+for (let i = 0; i < 45; i++) {
+  try {
+    const probe = await fetch(`${BASE}/api/auth/csrf${SHARE ? `?sharecode=${SHARE}` : ""}`);
+    if (probe.ok && (probe.headers.get("content-type") || "").includes("json")) break;
+  } catch {
+    /* 还没通 */
+  }
+  await new Promise((resolve) => setTimeout(resolve, 3000));
+}
 const APP_ORIGIN = process.env.APP_ORIGIN ?? ""; // 线上需要带 Origin 头（云服务按 Origin 校验）
 
 const jar = new Map();
