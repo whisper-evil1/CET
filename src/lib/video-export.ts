@@ -3,7 +3,7 @@ import { promisify } from "node:util";
 import { mkdtemp, writeFile, readFile, rm } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join, extname } from "node:path";
-import { ffmpegBin } from "./video-probe";
+import { audioEncodeArgs, ffmpegBin, pickEncoders, videoEncodeArgs } from "./video-probe";
 
 /**
  * 把英文字幕封装进原视频，输出带字幕轨的 MP4。
@@ -84,12 +84,13 @@ export async function muxEnglishSubtitles(
     } catch {
       // 源编码不兼容 MP4 时重编码；仍失败则把 ffmpeg 的错误抛给路由提示用户
       mode = "reencode";
+      const pick = await pickEncoders();
       await execFileAsync(
         bin,
         [
           ...base,
-          "-c:v", "libx264", "-preset", "veryfast", "-crf", "23",
-          "-c:a", "aac", "-b:a", "128k",
+          ...videoEncodeArgs(pick, "23"),
+          ...audioEncodeArgs(pick),
           "-c:s", "mov_text", "-y", outPath,
         ],
         { timeout: 300_000 },
@@ -129,6 +130,7 @@ export async function burnEnglishSubtitles(
   if (!ALLOWED_EXT.has(ext)) throw new Error(`不支持的视频格式：${ext || "未知"}`);
 
   const bin = ffmpegBin();
+  const pick = await pickEncoders();
   const dir = await mkdtemp(join(tmpdir(), "cet-burn-"));
   const inputPath = join(dir, `input${ext}`);
   const srtPath = join(dir, "en.srt");
@@ -160,8 +162,8 @@ export async function burnEnglishSubtitles(
         "-hide_banner", "-loglevel", "error",
         "-i", inputPath,
         "-vf", `subtitles=en.srt:force_style='${style}'`,
-        "-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-pix_fmt", "yuv420p",
-        "-c:a", "aac", "-b:a", "128k",
+        ...videoEncodeArgs(pick, "22"),
+        ...audioEncodeArgs(pick),
         "-movflags", "+faststart",
         "-y", outPath,
       ],

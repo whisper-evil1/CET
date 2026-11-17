@@ -16,10 +16,6 @@
 # next.js
 /.next/
 /out/
-# 本地排障时另开的构建目录（NEXT_DIST_DIR），绝不能随发布上传：
-# 平台按 .gitignore 过滤上传，漏掉这几条会把 Windows 构建产物带进 Linux 沙箱
-/.next-*/
-/build-out/
 
 # production
 /build
@@ -58,10 +54,6 @@ data/ecdict-raw/
 /.build/
 verify-out.txt
 
-# 真题抓取缓存与写盘前备份（本地物料，几十 MB，不进 git）
-/_sources/
-/_backup/
-
 # npm pack 产物
 *.tgz
 
@@ -83,3 +75,18 @@ prisma/*.db-journal
 # 生产启动器写下的依赖完成标记（运行时产物）
 .deps-ok
 prod-artifacts/
+
+# 本地联调残留（会话 cookie、测试账号、临时视频）
+.ck.txt
+.tuser.txt
+nodur.webm
+fake.mp4
+.tmp-vp/
+.chk/
+.boot.json
+.local-test/
+.out.mp4
+.resp.txt
+nodur.webm
+t3.mp4
+ck*.txt

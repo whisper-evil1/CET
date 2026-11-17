@@ -10,19 +10,25 @@
  *
  * 做法：
  *   1. 进程一起来就 listen 在 $PORT 上，网关立刻认为服务已就绪；
- *   2. 构建与 Next 启动都放到后台，Next 跑在内网端口（$PORT + 1000），
- *      外部只能访问到本进程；
+ *   2. 安装依赖、生成 Prisma Client、构建与 Next 启动全部放到后台，
+ *      Next 跑在内网端口（$PORT + 1000），外部只能访问到本进程；
  *   3. 就绪前，访客看到的是一张中文启动页（每 3 秒自动刷新），而不是 JSON 报错；
  *   4. 就绪后所有请求原样转发，流式响应（AI 答疑的 SSE）直接 pipe，不缓冲；
- *   5. `.next` 比源码新就跳过构建，二次重启直接起，秒开。
+ *   5. `.next` 产物在就跳过构建，二次重启直接起，秒开。
+ *
+ * 为什么连安装也放这里：
+ *   发布平台单条命令上限 300 秒（超过就 400 + Command execution timed out）。
+ *   冷沙箱装 Next 15 + React 19 + Prisma + Linux 版 SWC 原生包要 4～6 分钟，
+ *   写在 install 阶段必然超时；挪到本进程后台后，这个上限就不再是约束。
+ *   对应地，发布参数里的 installCmd 只需一条秒回的空命令。
  *
  * 注意：这里不能用 `npm run build && npm start` 那种写法，
  * 因为 `&&` 保证的是「先构建完才绑端口」，正好是 504 的成因。
  */
 const http = require("node:http");
 const net = require("node:net");
-const path = require("node:path");
 const fs = require("node:fs");
+const path = require("node:path");
 const { spawn } = require("node:child_process");
 
 const PORT = Number(process.env.PORT || 3000);
@@ -31,21 +37,37 @@ const APP_PORT = PORT + 1000;
 const HOST = "127.0.0.1";
 
 /**
- * 是否还需要构建：比「源码指纹」与上次构建时记录的指纹，而不是只看产物在不在。
- *
- * 为什么不能只看 .next/BUILD_ID：
- *   发布平台会复用上一次的沙箱，旧的 .next 不会被清掉。只看产物在不在，
- *   就会永远认为"已经构建过"，然后用旧产物跑 —— 代码改了、部署显示成功、
- *   线上一点没变。这是实测踩到的坑，别退回去。
+ * 构建指纹与产物目录：与 `npm run build` 共用同一份实现。
+ * 各写一套算法迟早会漂移，一漂移就变成「每次都重建」或「发旧包」。
  */
-const buildMeta = require("./scripts/build-meta.cjs");
+const { sourceHash, writeStamp, readStamp, distDir, dropCache } = require(
+  "./scripts/build-stamp.cjs"
+);
 
-function needsBuild() {
-  return buildMeta.needsBuild();
+const DIST = distDir();
+const BUILD_ID_FILE = path.join(DIST, "BUILD_ID");
+
+/**
+ * 是否还需要构建。
+ *
+ * 判据是「产物在 + 指纹对得上」，两个条件缺一不可：
+ *   只判存在 —— 沙箱会保留上一次的产物，新代码上传后照样跑旧包，
+ *              表象就是「发布成功但线上还是旧版」（本工程踩过两次）。
+ *   只判指纹 —— 产物可能被清掉，指纹文件也随之消失，得靠存在性兜住。
+ *
+ * 产物随源码一起发布时，指纹由 `npm run build` 写入，容器里读到就一致，
+ * 于是冷启动直接 `next start`，访客不必等那 30 秒编译。
+ */
+function needsBuild(stamp) {
+  if (!fs.existsSync(BUILD_ID_FILE)) return true;
+  const saved = readStamp();
+  return !saved || saved !== stamp;
 }
 
-let phase = "boot"; // boot | building | starting | ready | error
+let phase = "boot"; // boot | installing | building | starting | ready | error
 let errMsg = "";
+/** 后台命令（安装 / 构建）的输出尾巴，供 /__boot 远程取证 */
+let errLog = "";
 let startedAt = Date.now();
 let child = null;
 
@@ -73,99 +95,227 @@ function waitForApp(timeoutMs = 240000) {
   });
 }
 
-/** 跑一条命令，透传输出 */
 /**
- * 跑一个子进程，并把输出同时写到控制台与 .boot.log。
- *
- * 为什么不能只 inherit：沙箱日志在发布面板里看不到，
- * 构建失败时用户只看到「服务启动失败」，连一句 next build 的报错都拿不到，
- * 只能靠猜。现在把最后 40 行塞进错误信息，启动页上直接能读到真实原因。
+ * 跑一条命令，透传输出。
+ * timeoutMs 缺省不设上限：安装在后台跑，被 300 秒窗口截断过一次，不能再有暗限。
+ * capture 为真时把输出尾巴存进 errLog，由 /__boot 暴露出去——
+ * 远程容器里没有别的日志入口，构建失败只能靠这条通道自证。
  */
-function run(cmd, args, label, extraEnv, timeoutMs = 6 * 60_000) {
+function run(cmd, args, label, opts = {}) {
   return new Promise((resolve, reject) => {
+    const capture = Boolean(opts.capture);
     const p = spawn(cmd, args, {
-      stdio: ["ignore", "pipe", "pipe"],
-      env: extraEnv ? { ...process.env, ...extraEnv } : process.env,
+      stdio: capture ? ["ignore", "pipe", "pipe"] : "inherit",
+      env: opts.env || process.env,
     });
-    let tail = "";
-    let settled = false;
-    const keep = (buf) => {
-      const text = buf.toString();
-      process.stdout.write(text);
-      tail = `${tail}${text}`.slice(-4000);
-    };
-    p.stdout.on("data", keep);
-    p.stderr.on("data", keep);
-
-    /*
-     * 超时兜底：子进程「既不成功也不退出」时必须有人收场。
-     *
-     * 踩过：源码有语法错误时，next build 打出 "Failed to compile" 之后并不退出，
-     * 于是 hotSwap 的 promise 永远 pending —— phase 卡在 building，
-     * 看门狗每一轮都被 `phase !== "ready"` 直接 return，站点再也不会自动换版，
-     * 只能人工重启容器。
-     *
-     * 失败本身不可怕（旧版还在服务），卡死才可怕：它没有日志、没有退避、没有重试，
-     * 从外面看就是「服务好好的，但代码永远不更新」。所以这里必须自己判超时。
-     */
-    const timer = setTimeout(() => {
-      if (settled) return;
-      settled = true;
-      try {
-        if (process.platform === "win32") {
-          // 只 kill 直接子进程不够：next build 会 fork worker，留着仍占着产物目录
-          require("node:child_process").execFileSync(
-            "taskkill",
-            ["/PID", String(p.pid), "/T", "/F"],
-            { stdio: "ignore" },
-          );
-        } else {
+    if (capture) {
+      const take = (chunk, out) => {
+        out.write(chunk);
+        errLog = (errLog + chunk.toString()).slice(-6000);
+      };
+      p.stdout.on("data", (c) => take(c, process.stdout));
+      p.stderr.on("data", (c) => take(c, process.stderr));
+    }
+    let timer = null;
+    if (opts.timeoutMs) {
+      timer = setTimeout(() => {
+        try {
           p.kill("SIGKILL");
-        }
-      } catch {
-        /* 进程可能在这之前已经自己退了 */
-      }
-      const lines = tail.split(/\r?\n/).filter(Boolean).slice(-6).join(" / ");
-      reject(
-        new Error(
-          `${label} 超过 ${Math.round(timeoutMs / 1000)} 秒仍未结束，已强制终止：${lines.slice(0, 400)}`,
-        ),
-      );
-    }, timeoutMs);
-
+        } catch {}
+        reject(new Error(`${label} 超过 ${Math.round(opts.timeoutMs / 1000)} 秒未完成`));
+      }, opts.timeoutMs);
+    }
     p.on("error", (e) => {
-      if (settled) return;
-      settled = true;
-      clearTimeout(timer);
-      reject(new Error(`${label} 启动失败：${e.message}`));
+      if (timer) clearTimeout(timer);
+      reject(e);
     });
-    p.on("exit", (code) => {
-      if (settled) return;
-      settled = true;
-      clearTimeout(timer);
-      if (code === 0) return resolve();
-      try {
-        require("node:fs").writeFileSync(".boot.log", tail, "utf8");
-      } catch {
-        /* 写不了就算了 */
-      }
-      const lines = tail.split(/\r?\n/).filter(Boolean).slice(-12).join(" / ");
-      reject(new Error(`${label} 退出码 ${code}：${lines.slice(0, 600)}`));
+    p.on("exit", (code, signal) => {
+      if (timer) clearTimeout(timer);
+      // code 为 null 说明是被信号干掉的（架构不符 / 动态库缺失常表现为 SIGSEGV），
+      // 只报"退出码 null"没法排查，把信号一起带上
+      code === 0
+        ? resolve()
+        : reject(new Error(`${label} 退出码 ${code}${signal ? `（信号 ${signal}）` : ""}`));
     });
   });
 }
 
 const NEXT_BIN = path.join("node_modules", "next", "dist", "bin", "next");
 
-async function startNext() {
+/** npm 可执行名：Windows 上必须带 .cmd，否则 spawn 直接 ENOENT */
+const NPM = process.platform === "win32" ? "npm.cmd" : "npm";
+
+function has(...seg) {
+  return fs.existsSync(path.join(...seg));
+}
+
+/**
+ * 构建期环境。
+ *
+ * `.env` 被 .gitignore 排除，部署沙箱并不保证带得上（见 .env 内注释），
+ * 而 NEXT_PUBLIC_* 只在构建期内联、DATABASE_URL 决定 Prisma 连哪个文件库。
+ * 所以这里对**公开且无密**的两项做兜底；AUTH_SECRET 这类密钥不在此写死，
+ * 缺了它线上应立刻暴露问题，而不是被一个默认值悄悄掩盖。
+ */
+function buildEnv() {
+  return {
+    ...process.env,
+    DATABASE_URL: process.env.DATABASE_URL || "file:./dev.db",
+    NEXT_PUBLIC_AGENT_MODE: process.env.NEXT_PUBLIC_AGENT_MODE || "1",
+  };
+}
+
+/**
+ * Next 的 SWC 原生包按平台分发。
+ * 本地是 @next/swc-win32-x64-msvc，沙箱是 linux，直接搬过去构建必失败，
+ * 因此把「依赖是否完整」判定为「当前平台的那份在不在」。
+ */
+/** 依赖装完后写下的完成标记，内容取自 package-lock 指纹 */
+const DEPS_MARK = ".deps-ok";
+
+function lockHash() {
+  const crypto = require("node:crypto");
+  try {
+    return crypto
+      .createHash("sha1")
+      .update(fs.readFileSync("package-lock.json"))
+      .digest("hex")
+      .slice(0, 16);
+  } catch {
+    return "no-lock";
+  }
+}
+
+/**
+ * 依赖是否完整可用。
+ *
+ * 三重判据，缺一不可：
+ *   1. next 本体在；
+ *   2. Linux 下当前平台的 SWC 原生包在——本地是 win32 版，搬过去构建必失败；
+ *   3. 存在与当前 package-lock 一致的「安装完成」标记。
+ *
+ * 第 3 条是关键：安装被中途掐断时（发布环境 300 秒上限掐过一次），
+ * node_modules 里 next 和 SWC 已经落地、typescript / tailwindcss 还没有，
+ * 只判前两条会误认为「装好了」，跳过安装直接构建，然后在容器里崩。
+ * 标记只在整个 npm install 正常退出后才写，残缺目录自然对不上。
+ */
+function depsReady() {
+  if (!has("node_modules", "next", "package.json")) return false;
+  if (process.platform !== "linux") return true;
+  const swcOk =
+    has("node_modules", "@next", "swc-linux-x64-gnu", "package.json") ||
+    has("node_modules", "@next", "swc-linux-x64-musl", "package.json");
+  if (!swcOk) return false;
+  try {
+    return fs.readFileSync(DEPS_MARK, "utf8").trim() === lockHash();
+  } catch {
+    return false;
+  }
+}
+
+/**
+ * Prisma Client 同样是按平台生成的。
+ * 本地生成出来的是 query_engine-windows.dll.node，换到 Linux 必须重新 generate，
+ * 否则运行时报「找不到当前平台的查询引擎」。
+ */
+function prismaReady() {
+  const dir = path.join("node_modules", ".prisma", "client");
+  if (!fs.existsSync(path.join(dir, "index.js"))) return false;
+  if (process.platform !== "linux") return true;
+  try {
+    return fs.readdirSync(dir).some((f) => f.includes("linux"));
+  } catch {
+    return false;
+  }
+}
+
+/**
+ * 依赖自举。
+ *
+ * 为什么放在启动器里而不是 install 阶段：
+ *   发布环境单条命令的上限是 300 秒，而冷沙箱装 Next 15 + React 19 + Prisma
+ *   外加 Linux 版 SWC 原生包，本身就要 4～6 分钟。只要安装写在 install 阶段，
+ *   发布就必然以「Command execution timed out after 300000ms」收场。
+ *   本进程一起来就 listen，网关立刻判定就绪，这些重活放后台，窗口限制即失效。
+ */
+async function provision(env) {
+  let installed = false;
+  if (!depsReady()) {
+    phase = "installing";
+    log("依赖缺失或不完整，开始 npm install（约 4～6 分钟）");
+    // fetch 旋钮不是调优，是防止某个包（ffmpeg-static 要从 GitHub Releases 取
+    // 80MB 二进制）挂死在不回包的连接上：给了重试次数和单次超时，
+    // 卡住会明确失败并留下错误，而不是无限期地"看起来在装"。
+    await run(
+      NPM,
+      [
+        "install",
+        "--no-audit",
+        "--no-fund",
+        "--fetch-retries=2",
+        "--fetch-timeout=180000",
+      ],
+      "npm install",
+      {
+        env,
+        timeoutMs: 1500000,
+        capture: true,
+      }
+    );
+    installed = true;
+    try {
+      fs.writeFileSync(DEPS_MARK, lockHash());
+    } catch (e) {
+      log("写入安装标记失败:", e.message);
+    }
+    log("依赖安装完成");
+  } else {
+    log("依赖已就绪");
+  }
+
+  if (!prismaReady()) {
+    phase = "installing";
+    log("生成 Prisma Client（当前平台）");
+    await run(NPM, ["exec", "--", "prisma", "generate"], "prisma generate", {
+      env,
+      timeoutMs: 300000,
+      capture: true,
+    });
+  }
+
+  /**
+   * schema 对齐：每次都跑，不再只在"库文件不存在"时跑。
+   *
+   * 容器里的 dev.db 是历史遗留（.gitignore 排除了 prisma/*.db，不会随源码上传），
+   * 它的表结构可能是几轮之前的版本。新增 Creation 表之后，旧库缺表，
+   * 保存作品就会 P2021 报错，而 withApi 只回一句「服务器开小差了」，
+   * 完全看不出是「表不存在」。
+   *
+   * db push 是幂等的：结构一致时几百毫秒返回，不会动数据。
+   * 真遇到破坏性变更而失败，也只记日志不阻塞启动——服务先能跑。
+   */
+  phase = "installing";
+  try {
+    await run(NPM, ["exec", "--", "prisma", "db", "push", "--skip-generate"], "prisma db push", {
+      env,
+      timeoutMs: 300000,
+      capture: true,
+    });
+    log("数据库结构已对齐");
+  } catch (e) {
+    log("数据库结构同步失败（不阻塞启动）:", e.message);
+  }
+
+  return installed;
+}
+
+async function startNext(env) {
   phase = "starting";
   child = spawn(process.execPath, [NEXT_BIN, "start", "-p", String(APP_PORT), "-H", HOST], {
     stdio: "inherit",
-    env: { ...process.env, PORT: String(APP_PORT) },
+    env: { ...env, PORT: String(APP_PORT) },
   });
   child.on("exit", (code) => {
-    // 热切换时是我们自己杀掉的，别再走一遍重启（会跟外层重建撞车）
-    if (swapping) return;
     if (phase === "ready") {
       phase = "error";
       errMsg = `Next 进程退出（退出码 ${code}），正在重启`;
@@ -179,404 +329,442 @@ async function startNext() {
   await waitForApp();
 }
 
-/** 构建 + 落指纹。两步必须成对出现，否则下次启动会误判。 */
-async function buildAndStamp(reason, distDir) {
-  phase = "building";
-  log(reason);
-  await run(
-    process.execPath,
-    [NEXT_BIN, "build"],
-    "next build",
-    distDir ? { NEXT_DIST_DIR: distDir } : undefined
-  );
-  const fp = buildMeta.writeStamp(distDir);
-  log(`构建完成，源码指纹 ${fp}`);
+/**
+ * ffmpeg 路径。视频探测、字幕烧录、封装导出全依赖 ffmpeg-static 的二进制；
+ * 它由 postinstall 从 GitHub Releases 下载（约 80MB），沙箱网络差时会静默失败，
+ * 包目录还在、可执行文件却没有——表现就是「上传视频报错」「导出视频失败」，
+ * 而错误文案和文件本身无关，很难联想到是二进制缺失。
+ * 注意：文件存在不等于能跑，能不能执行由 probeFfmpeg() 判定。
+ */
+function ffmpegBinPath() {
+  return resolveFfmpegBin();
 }
 
 /**
- * 运行库与题库内容的自愈。
+ * 挑一个真正能用的 ffmpeg。
  *
- * 两件事必须在 Next 起来之前做完：
- *   1. 决定用哪个 SQLite 库并把 DATABASE_URL 交给子进程（prepare-db 输出 export 语句）；
- *      数据目录在项目目录之外，跨发布保留，所以用户账号与作答不会被这次上传覆盖。
- *   2. 用 data/papers/*.json 刷新题库内容（import-papers 是幂等的，题目 id 稳定，
- *      已作答记录挂在 id 上不会丢）。
- *
- * 为什么要放进启动流程：沙箱里 `prisma/seed.db` 被 .gitignore 排除、上传不到，
- * 只靠种子库的话线上永远是上一版题库 —— 改完听力稿、发布成功、线上还是旧稿，
- * 这类「本地绿、线上旧」的坑踩过一次就够了。
- *
- * 任何一步失败都只记日志、不阻断启动：宁可先让用户看到旧内容，也不要 502。
- * 需要临时关掉时设 CET_SYNC_CONTENT=0。
+ * 线上实测：ffmpeg-static 的 postinstall 在沙箱里常常下不全，留下一个
+ * **0 字节但权限 755** 的文件。它「能执行」——退出码 0、没有任何输出、
+ * 也不产出任何文件，于是探测、抽帧、封装全都静默失败，
+ * 上层再把空 stderr 归因成「不是有效的视频文件」，把人引向反复换文件。
+ * 而容器镜像里往往自带可用的 /usr/local/bin/ffmpeg，根本不用等那 80MB。
  */
-function syncRuntime() {
-  if ((process.env.CET_SYNC_CONTENT ?? "1").trim() === "0") {
-    log("按 CET_SYNC_CONTENT=0 跳过运行库同步");
-    return;
-  }
-  const { execFileSync } = require("node:child_process");
+let resolvedFfmpegBin = null;
 
+function ffmpegCandidatePaths() {
+  const name = process.platform === "win32" ? "ffmpeg.exe" : "ffmpeg";
+  return [
+    process.env.FFMPEG_BIN,
+    "/usr/local/bin/ffmpeg",
+    "/usr/bin/ffmpeg",
+    "/opt/homebrew/bin/ffmpeg",
+    "/snap/bin/ffmpeg",
+    path.resolve("node_modules", "ffmpeg-static", name),
+  ].filter(Boolean);
+}
+
+/** 文件存在 ≠ 能用：小于 1MB 的一律视为残缺（真 ffmpeg 至少几十 MB） */
+function isUsableBinary(p) {
   try {
-    const out = execFileSync(process.execPath, ["scripts/prepare-db.mjs", "--keep", "--quiet"], {
-      encoding: "utf8",
-      env: process.env,
-    });
-    const hit = out.match(/DATABASE_URL='([^']+)'/);
-    if (hit) {
-      process.env.DATABASE_URL = hit[1];
-      log(`运行库 → ${hit[1]}`);
-    }
-  } catch (e) {
-    log("准备运行库失败（继续启动）:", e.message.split("\n")[0]);
-  }
-
-  // 新沙箱里库是空的：先把表建出来，导入脚本才有地方写。
-  // db push 是增量同步，已有数据不受影响，所以每次启动跑一遍是安全的。
-  try {
-    const prismaBin = path.join("node_modules", "prisma", "build", "index.js");
-    if (require("node:fs").existsSync(prismaBin)) {
-      const push = (extra = []) =>
-        execFileSync(process.execPath, [prismaBin, "db", "push", "--skip-generate", ...extra], {
-          encoding: "utf8",
-          env: process.env,
-          stdio: ["ignore", "pipe", "pipe"],
-        });
-
-      try {
-        push();
-      } catch (e) {
-        /*
-         * SQLite 加一个「唯一 + 可空」的列（如 User.phone）会触发重建表，
-         * Prisma 因此要求显式接受「可能丢数据」。线上库是带着旧数据升级的，
-         * 不带这个标志就会卡在启动阶段 —— 表现出来是页面能开、一登录就报错。
-         * 先按严格模式跑，被拒了再放宽一次，比一直带着放宽标志更稳。
-         */
-        const msg = String(e.stderr ?? e.message ?? "");
-        if (!/data loss|--accept-data-loss/i.test(msg)) throw e;
-        log("结构变更需要重建表，按增量迁移继续");
-        push(["--accept-data-loss"]);
-      }
-      log("数据库结构已同步");
-
-      /*
-       * 还必须重新生成 Prisma Client。
-       *
-       * 沙箱会复用上一次部署的 node_modules，`npm install` 看到依赖没变就跳过安装，
-       * 而 Client 的类型与运行时代码是**安装时**生成的。于是 schema 加了 phone 列，
-       * 库也加了列，Client 却还是旧的 —— 表现为 next build 直接类型报错：
-       * "Object literal may only specify known properties, and 'phone' does not exist"。
-       * 这里显式生成一次，保证 Client 永远跟着 schema 走。
-       */
-      try {
-        execFileSync(process.execPath, [prismaBin, "generate"], {
-          encoding: "utf8",
-          env: process.env,
-          stdio: ["ignore", "pipe", "pipe"],
-        });
-        log("Prisma Client 已重新生成");
-      } catch (e) {
-        log("Prisma Client 生成失败（继续启动）:", String(e.stderr ?? e.message).split("\n")[0]);
-      }
-    }
-  } catch (e) {
-    log("数据库结构同步失败（继续启动）:", e.message.split("\n")[0]);
-  }
-
-  try {
-    /*
-     * 题库只在「data/papers 变了」时才重新导入。
-     *
-     * 66 套卷在空库上导一次要 50 秒上下，而服务重启远比改题库频繁 ——
-     * 每次重启都全量导一遍，等于把冷启动时间拉长到用户会以为挂了。
-     * 这里用文件名 + 体积 + 修改时间算一枚指纹，存在库文件旁边；
-     * 指纹一致就跳过，source 一变自然失效。
-     */
-    const fs = require("node:fs");
-    const crypto = require("node:crypto");
-    const papersDir = path.join(process.cwd(), "data", "papers");
-    const files = fs.existsSync(papersDir)
-      ? fs.readdirSync(papersDir).filter((f) => f.endsWith(".json")).sort()
-      : [];
-    const digest = crypto.createHash("sha256");
-    for (const file of files) {
-      const stat = fs.statSync(path.join(papersDir, file));
-      digest.update(`${file}:${stat.size}:${Math.round(stat.mtimeMs)};`);
-    }
-    const fingerprint = digest.digest("hex");
-    const dbPath = (process.env.DATABASE_URL ?? "").replace(/^file:/, "").replace(/\//g, path.sep);
-    const stampPath = dbPath ? `${dbPath}.content` : null;
-    const known = stampPath && fs.existsSync(stampPath) ? fs.readFileSync(stampPath, "utf8").trim() : "";
-    // 库被清掉但指纹文件还在（--reset / 手工删库）：体积能识别出「空壳库」，强制重导
-    const dbSize = dbPath && fs.existsSync(dbPath) ? fs.statSync(dbPath).size : 0;
-    const emptyDb = dbSize < 1024 * 1024;
-
-    if (known && known === fingerprint && !emptyDb) {
-      log("题库内容未变化，跳过导入");
-    } else {
-      execFileSync(process.execPath, ["scripts/import-papers.mjs"], {
-        encoding: "utf8",
-        env: process.env,
-        stdio: ["ignore", "pipe", "pipe"],
-      });
-      if (stampPath) fs.writeFileSync(stampPath, fingerprint);
-      log(`题库内容已按 data/papers 刷新（${files.length} 套）`);
-    }
-  } catch (e) {
-    log("题库刷新失败（继续启动）:", e.message.split("\n")[0]);
+    if (!fs.existsSync(p)) return false;
+    const st = fs.statSync(p);
+    return st.isFile() && st.size > 1024 * 1024;
+  } catch {
+    return false;
   }
 }
 
-/**
- * 把正在跑的 Next 子进程停掉（热切换用）。
- *
- * 单独抽出来是因为「关掉旧的、等它真的退了、再起新的」这三步必须串起来：
- * 不等它退就 spawn，新进程会因为端口被占直接死掉，线上就变成 502。
- * startNext 里挂的 exit 监听会看到 `swapping` 标记并跳过自己的重启逻辑，
- * 否则两边会各自 bootstrap 一次，构建撞在一起。
- */
-let swapping = false;
+function resolveFfmpegBin() {
+  if (resolvedFfmpegBin && isUsableBinary(resolvedFfmpegBin)) return resolvedFfmpegBin;
+  for (const candidate of ffmpegCandidatePaths()) {
+    if (isUsableBinary(candidate)) {
+      resolvedFfmpegBin = candidate;
+      return candidate;
+    }
+  }
+  // 一个都不可用：返回 static 路径，让 ensureFfmpeg 走「缺失 → 下载」流程
+  const name = process.platform === "win32" ? "ffmpeg.exe" : "ffmpeg";
+  return path.resolve("node_modules", "ffmpeg-static", name);
+}
 
-function stopChild() {
+/** 文件在 ≠ 能跑：tar/缓存解包常丢执行位，或架构/依赖不匹配 */
+let ffmpegInfo = { ok: null, msg: "未检测" };
+
+async function probeFfmpeg() {
+  const bin = resolveFfmpegBin();
+  if (!fs.existsSync(bin)) {
+    ffmpegInfo = { ok: false, msg: "二进制不存在" };
+    return false;
+  }
+  // 必须看 stdout 里有没有版本号：退出码 0 不代表它干了活——
+  // 0 字节的「可执行文件」同样返回 0，只会让判断一路错下去。
+  const r = await execCapture(bin, ["-hide_banner", "-version"], 20000);
+  const said = /ffmpeg version/i.test(r.stdout || "");
+  if (r.code === 0 && said) {
+    ffmpegInfo = { ok: true, msg: "可执行", bin: bin, version: (r.stdout || "").split(" ").slice(0, 3).join(" ") };
+    return true;
+  }
+  const why = r.spawnError
+    ? r.spawnError
+    : `退出码 ${r.code}，输出 ${said ? "" : "里没有版本号"}`;
+  ffmpegInfo = { ok: false, msg: String(why).slice(0, 160), bin: bin };
+  return false;
+}
+
+/**
+ * 深度自检：`-version` 只证明二进制能启动，证明不了它能解文件。
+ *
+ * 线上实际踩到的坑是 `-version` 通过、`-i 视频` 立刻失败，错误再到上层被
+ * 归因成「不是有效的视频文件」，把用户引向反复换文件。容器里看不到日志，
+ * 所以这里跑一条完全自包含的链路（lavfi 造一段视频 → 再读回），
+ * 把每一步的退出码、信号和原始 stderr 挂在 /__boot 上，不登服务器就能判因。
+ */
+let ffmpegDeep = null;
+
+function execCapture(cmd, args, timeoutMs = 30000) {
   return new Promise((resolve) => {
-    if (!child) return resolve();
-    const dying = child;
-    child = null;
-    swapping = true;
-    const done = () => {
-      swapping = false;
-      resolve();
+    let stdout = "";
+    let stderr = "";
+    let settled = false;
+    const finish = (payload) => {
+      if (settled) return;
+      settled = true;
+      resolve(payload);
     };
-    const timer = setTimeout(() => {
-      try {
-        dying.kill("SIGKILL");
-      } catch {
-        /* 已经没了 */
-      }
-      done();
-    }, 5000);
-    dying.once("exit", () => {
-      clearTimeout(timer);
-      done();
-    });
+    let p;
     try {
-      dying.kill("SIGTERM");
-    } catch {
-      clearTimeout(timer);
-      done();
+      // cwd 与 Next 进程一致，避免相对路径解析出两个不同的二进制
+      p = spawn(cmd, args, { stdio: ["ignore", "pipe", "pipe"], cwd: process.cwd() });
+    } catch (e) {
+      return finish({ code: null, signal: null, stdout: "", stderr: "", spawnError: String((e && e.message) || e) });
     }
+    const timer = setTimeout(() => {
+      try { p.kill("SIGKILL"); } catch {}
+    }, timeoutMs);
+    p.stdout.on("data", (d) => { if (stdout.length < 200000) stdout += d.toString(); });
+    p.stderr.on("data", (d) => { if (stderr.length < 200000) stderr += d.toString(); });
+    p.on("error", (e) => {
+      clearTimeout(timer);
+      finish({ code: null, signal: null, stdout, stderr, spawnError: String((e && e.message) || e) });
+    });
+    p.on("close", (code, signal) => {
+      clearTimeout(timer);
+      finish({
+        code: code,
+        signal: signal,
+        stderrLen: stderr.length,
+        stderr: stderr.replace(/\s+/g, " ").trim().slice(-700),
+        stdoutLen: stdout.length,
+        stdout: stdout.replace(/\s+/g, " ").trim().slice(0, 300),
+      });
+    });
   });
 }
 
-/**
- * 源码比产物新 → 重建并热切换。
- *
- * 为什么需要这个「看门狗」：
- *   发布平台上传源码后并不会重启容器。启动器的 needsBuild() 只在进程启动时
- *   跑一次，于是出现过「文件传上去了、探针能访问、页面还是上一版」——
- *   连续四轮发布都没换版。靠人去重启容器不可靠，让常驻进程自己盯着源码指纹，
- *   变了就重建、换掉子进程，是唯一不依赖平台行为的办法。
- *
- * 代价：每 90 秒算一次源码哈希（几百 KB 的源码，毫秒级），并且只在真的变了
- * 的时候才动手；真动手时先停子进程再构建，期间访客看到的是启动页，不是 502。
- */
-let watching = false;
-
-/**
- * 构建到旁边的暂存目录，成功之后才整目录换上去。
- *
- * 为什么不原地 `next build`：
- *   1. Next 一开工就会清空旧产物，一旦编译失败，上一版就没了 —— 线上直接挂，
- *      而且没有可回滚的东西；
- *   2. 有些环境对「批量删除已存在文件」有拦截（本机就有，报
- *      SAFE_DELETE_BULK_CONFIRM_REQUIRED），原地重建会在清理阶段直接失败。
- *   构建到全新空目录这两个问题都不存在：不需要删任何东西，失败也只是白建一份，
- *   旧产物原地不动、旧进程继续服务。
- */
-async function stagedBuild(reason) {
-  const DIST = buildMeta.DIST;
-  // 每次都用一个全新的目录名，全程只做 rename、不做删除。
-  // 删除是这里唯一不可控的因素：某些环境（含本机的安全垫片）会拦截
-  // 「批量删除已存在文件」，进而让整个换版流程失败；rename 不会被拦。
-  const stamp = Date.now().toString(36);
-  const staged = `${DIST}-build-${stamp}`;
-  await buildAndStamp(reason, staged);
-
-  /*
-   * 上一版改名留档（.next-prev）：出问题把它改回 .next 就能回滚。
-   *
-   * 但**更老的绝不能继续留在项目目录里**，实测代价非常具体：
-   *   1) 每换一次版 +218MB，几轮之后项目目录涨到 6GB；
-   *   2) 这些目录名（.next-prev-xxxx）不在部署工具的构建产物排除名单里
-   *      （它只认 .next / dist / build 这类固定名字），于是被整个压缩上传 ——
-   *      上传连续三次卡在 UND_ERR_HEADERS_TIMEOUT，发布一直失败。
-   * 所以按「先删、删不掉就挪出项目目录」处理；两条都不成，才退回改名留在原地。
-   */
-  const prev = `${DIST}-prev`;
-  if (fs.existsSync(prev)) retireOld(prev, stamp);
-  if (fs.existsSync(DIST)) fs.renameSync(DIST, prev);
-  fs.renameSync(staged, DIST);
-}
-
-/**
- * 退休一份旧构建产物：删除 →（被拦则）移出项目目录 →（再不行）改名留在原地。
- *
- * 为什么不能只删：本机的安全删除垫片会拦下批量删除（SAFE_DELETE_BULK_CONFIRM_REQUIRED），
- * 直接抛错；沙箱里没有这个垫片，删除是首选，能真正省下磁盘。
- * 移到项目目录之外（同级 .cet-build-archive）既不占上传体积，又保留一份可回滚的产物。
- */
-function retireOld(dir, stamp) {
+async function deepProbeFfmpeg() {
+  const os = require("node:os");
+  const bin = ffmpegBinPath();
+  const tmpFile = path.join(os.tmpdir(), `cet-selftest-${Date.now()}.mp4`);
+  const steps = [];
   try {
-    fs.rmSync(dir, { recursive: true, force: true });
-    return;
-  } catch {
-    /* 被安全垫片拦住，往下走 */
-  }
+    // 先认清这个文件到底是什么：能执行但什么都不做，最常见的原因是
+    // 下载到的其实不是二进制（半截文件 / 压缩包 / HTML 错误页），
+    // 靠「有没有文件」「退不退出 0」都判断不出来，只能看大小和魔数。
+    try {
+      const st = fs.statSync(bin);
+      steps.push({
+        step: "stat",
+        size: st.size,
+        mode: (st.mode & 0o777).toString(8),
+        isFile: st.isFile(),
+      });
+      const fd = fs.openSync(bin, "r");
+      const head = Buffer.alloc(16);
+      fs.readSync(fd, head, 0, 16, 0);
+      fs.closeSync(fd);
+      steps.push({
+        step: "magic",
+        hex: head.toString("hex"),
+        text: head.toString("latin1").replace(/[^\x20-\x7e]/g, "."),
+      });
+    } catch (e) {
+      steps.push({ step: "stat", error: String((e && e.message) || e) });
+    }
 
-  try {
-    // 启动器以项目根为 cwd，所以上一级就是项目目录之外
-    const archive = path.join(path.dirname(process.cwd()), ".cet-build-archive");
-    fs.mkdirSync(archive, { recursive: true });
-    fs.renameSync(dir, path.join(archive, `${path.basename(dir)}-${stamp}`));
-    return;
+    steps.push({ step: "version", ...(await execCapture(bin, ["-hide_banner", "-version"])) });
+
+    steps.push({
+      step: "gen",
+      ...(await execCapture(bin, [
+        "-hide_banner", "-loglevel", "error", "-y",
+        "-f", "lavfi", "-i", "testsrc=duration=1:size=64x64:rate=5",
+        "-pix_fmt", "yuv420p", tmpFile,
+      ])),
+      exists: fs.existsSync(tmpFile),
+    });
+    steps.push({ step: "read", ...(await execCapture(bin, ["-hide_banner", "-nostdin", "-i", tmpFile])) });
+    // 关键对照：视频探测走的是 node 的 execFile，它和 spawn 在 stderr 归属上
+    // 不完全一样（退出码 0 时 stderr 只出现在回调参数里）。用同一 API 复现一次。
+    const probe = await execCapture(process.execPath, ["-e", `
+      const { execFile } = require("node:child_process");
+      const bin = ${JSON.stringify(bin)};
+      const file = ${JSON.stringify(tmpFile)};
+      execFile(bin, ["-hide_banner", "-nostdin", "-i", file], (e, so, se) => {
+        const stderr = se || (e && e.stderr) || "";
+        console.log(JSON.stringify({
+          exitCode: e ? e.code : 0,
+          killed: Boolean(e && e.killed),
+          hasError: Boolean(e),
+          stderrLen: stderr.length,
+          hasDuration: /Duration:/.test(stderr),
+          head: stderr.replace(/\\s+/g, " ").trim().slice(0, 160),
+        }));
+      });
+    `], 40000);
+    steps.push({ step: "node-execFile", ...probe });
+
+    // 容器若自带 ffmpeg，就没必要被这个坏掉的二进制拖住
+    steps.push({
+      step: "system",
+      usrBin: fs.existsSync("/usr/bin/ffmpeg"),
+      usrLocal: fs.existsSync("/usr/local/bin/ffmpeg"),
+    });
+    steps.push({
+      step: "which",
+      ...(await execCapture("sh", ["-c", "command -v ffmpeg || echo none; ffmpeg -version 2>&1 | head -2"])),
+    });
+    // 能解码 ≠ 能编码：精简构建常常去掉 libx264，烧字幕导出会直接失败
+    steps.push({
+      step: "encoders",
+      ...(await execCapture("sh", [
+        "-c",
+        "ffmpeg -hide_banner -encoders 2>/dev/null | grep -E '^ [VAS]\\.*' | grep -E ' (libx264|libopenh264|mpeg4|aac|libmp3lame|mp2) ' | head -8",
+      ])),
+    });
   } catch (e) {
-    log("旧产物移出项目目录失败（改为改名留在原地）:", e && e.message);
+    steps.push({ step: "error", error: String((e && e.message) || e) });
+  } finally {
+    try { fs.unlinkSync(tmpFile); } catch {}
+  }
+  return { bin: bin, tmpdir: os.tmpdir(), steps: steps };
+}
+
+/** 尽力补装/修复 ffmpeg；失败只记日志，不影响站点运行 */
+async function ensureFfmpeg(env) {
+  // 系统里已有能用的就直接用：容器自带 /usr/local/bin/ffmpeg 是常态，
+  // 没必要为那个 80MB 的下载卡住视频功能
+  if (await probeFfmpeg()) {
+    log("ffmpeg 可用:", ffmpegInfo.bin, "|", ffmpegInfo.version || "");
+    return;
   }
 
+  const staticBin = path.resolve(
+    "node_modules",
+    "ffmpeg-static",
+    process.platform === "win32" ? "ffmpeg.exe" : "ffmpeg"
+  );
+
+  if (fs.existsSync(staticBin)) {
+    const size = (() => {
+      try { return fs.statSync(staticBin).size; } catch { return -1; }
+    })();
+    if (size > 1024 * 1024) {
+      // 大小正常却没跑通，最常见是执行位丢了，补上再试
+      try { fs.chmodSync(staticBin, 0o755); } catch {}
+      resolvedFfmpegBin = null;
+      if (await probeFfmpeg()) {
+        log("补执行位后 ffmpeg 已可用");
+        return;
+      }
+    } else {
+      // 0 字节/半截文件补权限救不回来：它照样返回退出码 0，只是什么都不做
+      log(`ffmpeg 二进制残缺（${size} 字节），删除后重装`);
+    }
+    try { fs.rmSync(staticBin, { force: true }); } catch {}
+    resolvedFfmpegBin = null;
+  }
+
+  log("尝试下载 ffmpeg 二进制（约 80MB，可能较慢）");
   try {
-    fs.renameSync(dir, `${dir}-${stamp}`);
-  } catch {
-    /* 改名都失败就留着，下一轮再处理，不阻断换版 */
+    await run(
+      process.execPath,
+      [path.join("node_modules", "ffmpeg-static", "install.js")],
+      "ffmpeg 下载",
+      { env, timeoutMs: 600000, capture: true }
+    );
+  } catch (e) {
+    log("ffmpeg 下载失败（视频功能不可用）:", e.message);
+  }
+
+  resolvedFfmpegBin = null;
+  if (await probeFfmpeg()) {
+    log("ffmpeg 已就位:", ffmpegInfo.bin);
+  } else {
+    log("ffmpeg 仍不可用:", ffmpegInfo.msg);
   }
 }
 
-/** 在线换版：先构建到暂存（旧进程照常服务），再停旧、换目录、起新。 */
-async function hotSwap(reason) {
-  await stagedBuild(reason);
-  await stopChild();
-  await startNext();
-  phase = "ready";
-  log("热切换完成，线上已经是新构建");
+/** 构建一次，成功后把指纹写进产物目录，下次启动据此判断是否复用 */
+async function buildOnce(env, stamp, reason) {
+  phase = "building";
+  log(reason);
+  await run(process.execPath, [NEXT_BIN, "build"], "next build", {
+    env,
+    timeoutMs: 900000,
+    capture: true,
+  });
+  try {
+    writeStamp(stamp);
+  } catch (e) {
+    log("写入构建指纹失败（不影响运行）:", e.message);
+  }
+  // 容器里不需要增量缓存，留着只占磁盘
+  try {
+    dropCache();
+  } catch {}
+  log("构建完成");
+}
+
+/**
+ * 随包产物：构建结果打成的单个压缩包。
+ *
+ * 为什么是压缩包而不是直接带目录：
+ *   部署只上传 git 跟踪的普通文件，且会主动跳过"构建产物"形态的目录
+ *   （实测 prod-artifacts 491 个文件已入库、未被 gitignore，容器里仍然拿不到）。
+ *   换成单个文件之后就不再受目录级排除影响，3MB 一次传完，
+ *   容器解压 1～2 秒即可 `next start`，省掉 30～55 秒现场编译。
+ */
+const BUNDLE = "app-bundle.tar.gz";
+
+/**
+ * 从随包产物恢复。返回 true 表示产物可用。
+ * 解压失败不抛错——退回现场构建，功能不受影响，只是慢一点。
+ */
+async function restoreBundle(env) {
+  if (fs.existsSync(BUILD_ID_FILE)) return true;
+  if (!fs.existsSync(BUNDLE)) return false;
+
+  phase = "installing";
+  log(`产物缺失，从 ${BUNDLE} 解压`);
+  try {
+    // --no-same-owner：包是在 Windows 上打的，里头记着 uid/gid 197609 之类，
+    // Linux 解压时 chown 必然失败。虽然文件照样解开，但 tar 会以退出码 2 收场，
+    // 把「成功」误判成「失败」。加上它就不再去改属主。
+    await run("tar", ["-xzf", BUNDLE, "--no-same-owner", "-C", "."], "解压产物", {
+      env,
+      timeoutMs: 180000,
+      capture: true,
+    });
+  } catch (e) {
+    // 退出码非零不等于没解出来（权限类警告很常见），以产物是否落地为准
+    log("解压返回非零，按产物落地情况判断:", e.message);
+  }
+  const ok = fs.existsSync(BUILD_ID_FILE);
+  log(ok ? "产物已恢复" : "解压后仍无产物，改为现场构建");
+  return ok;
 }
 
 async function bootstrap() {
+  const env = buildEnv();
+  const stamp = sourceHash();
   try {
-    syncRuntime();
+    const freshDeps = await provision(env);
 
-    if (needsBuild()) {
-      await stagedBuild("构建产物缺失或与源码不一致，开始构建（约 30 秒），期间访客看到启动页");
+    if (freshDeps) {
+      // 刚重装过依赖，旧产物一定来自别的平台，留着只会让构建读到
+      // Windows 的编译缓存，直接删干净重来。
+      try {
+        fs.rmSync(DIST, { recursive: true, force: true });
+      } catch {}
+    }
+
+    // 先用随包产物顶上，能解出来就不编译
+    await restoreBundle(env);
+
+    if (needsBuild(stamp)) {
+      await buildOnce(
+        env,
+        stamp,
+        freshDeps
+          ? `依赖刚重装，丢弃旧产物并重新构建（指纹 ${stamp}）`
+          : `源码与产物不一致，重新构建（指纹 ${stamp}）`
+      );
     } else {
-      log("构建产物与源码一致，直接启动");
+      log(`产物与源码一致（指纹 ${stamp}），跳过构建直接启动`);
     }
 
     try {
-      await startNext();
+      await startNext(env);
     } catch (e) {
-      // 产物在却起不来，说明产物不可用（依赖变动 / 运行时不符），重建一次
-      log("首次启动失败，重新构建后重试:", e.message);
-      await stagedBuild("重新构建");
-      await startNext();
+      // 产物在、指纹也对，却起不来：多半是别的平台编译的产物在本机跑不动，
+      // 先删掉再重建，不能让坏的产物一直挡路。
+      log("首次启动失败，丢弃产物并重建:", e.message);
+      try {
+        fs.rmSync(DIST, { recursive: true, force: true });
+      } catch {}
+      await buildOnce(env, stamp, "重建产物");
+      await startNext(env);
     }
 
     phase = "ready";
     log(`服务就绪，外部端口 ${PORT} → 内部端口 ${APP_PORT}，总耗时 ${((Date.now() - startedAt) / 1000).toFixed(1)}s`);
+    // 先对外服务，再补 ffmpeg：它只影响视频功能，不该挡住全站
+    void ensureFfmpeg(env)
+      .catch((e) => log("ffmpeg 准备异常:", (e && e.message) || e))
+      .finally(() => {
+        deepProbeFfmpeg()
+          .then((r) => {
+            ffmpegDeep = r;
+            log("ffmpeg 深度自检完成");
+          })
+          .catch((e) => {
+            ffmpegDeep = { error: String((e && e.message) || e) };
+          });
+      });
   } catch (e) {
     errMsg = e && e.message ? e.message : String(e);
     log("启动失败:", errMsg);
 
-    // 构建失败不等于整站该挂：旧产物还在的话，先让访客继续用旧版本。
-    // 「新版本没上成」只会让功能少一点，而 error 页是彻底不可用。
-    const distOk = (() => {
+    // 可用性兜底：装依赖或构建失败时，只要还留着一份能跑的旧产物，
+    // 就先把它起起来对外服务。跑旧版本远好过让访客直面错误页——
+    // 分享链接是已经发出去的，不能因为一次发布失败就变砖。
+    if (fs.existsSync(BUILD_ID_FILE)) {
+      log("尝试以现有旧产物启动");
       try {
-        return fs.existsSync(path.join(buildMeta.DIST, "BUILD_ID"));
-      } catch {
-        return false;
-      }
-    })();
-    if (distOk) {
-      try {
-        await startNext();
+        await startNext(env);
         phase = "ready";
-        log("已用旧产物先行服务；新构建失败的原因见上一条日志");
+        errMsg = `${errMsg}（已用旧产物启动，功能可能落后于源码）`;
+        log("已用旧产物启动");
         return;
-      } catch (startErr) {
-        log("旧产物也起不来:", startErr.message);
+      } catch (e2) {
+        log("旧产物也无法启动:", e2.message);
+        phase = "error";
       }
     }
-
-    phase = "error";
   }
 }
 
-/** 常驻检查：源码指纹变了就重建换版（发布平台不重启容器时靠这个生效） */
-let swapFailures = 0;
-/** 下次允许尝试热切换的时间戳：连续失败时退避，避免对着坏源码每 90 秒狂构建一次 */
-let swapRetryAt = 0;
-
-setInterval(() => {
-  if (phase !== "ready" || watching || swapping) return;
-  if (Date.now() < swapRetryAt) return;
-  let stale = false;
-  try {
-    stale = needsBuild();
-  } catch (e) {
-    log("指纹比对失败（跳过本次）:", e && e.message);
-    return;
-  }
-  if (!stale) return;
-
-  watching = true;
-  hotSwap("检测到源码比构建产物新（发布新版本但进程没重启），开始重建并热切换")
-    .then(() => {
-      swapFailures = 0;
-      swapRetryAt = 0;
-    })
-    .catch((e) => {
-      /*
-       * 这里有两件事必须做对，否则看门狗会永久停摆（都实测踩过）：
-       *
-       * 1) 把 phase 从 "building" 恢复到 "ready"。
-       *    buildAndStamp 一开工就 phase = "building"，而构建失败时没有人改回来，
-       *    于是上面那句 `phase !== "ready"` 会让每一轮巡检直接 return ——
-       *    之后就算把源码改好、指纹再变，也永远不会再自动换版，只能人工重启容器。
-       *
-       * 2) 不要打成 "error"。
-       *    失败发生在构建阶段，此时旧子进程还在正常服务，站点是好的；
-       *    标成 error 只会让 /__boot 看起来像整站挂了，也和事实不符。
-       */
-      if (child && !child.killed) phase = "ready";
-
-      swapFailures += 1;
-      const waitMs = Math.min(10 * 60_000, 60_000 * 2 ** (swapFailures - 1));
-      swapRetryAt = Date.now() + waitMs;
-      errMsg = `热切换失败（第 ${swapFailures} 次，旧版本继续服务，${Math.round(waitMs / 1000)} 秒后重试）：${
-        e && e.message ? e.message : e
-      }`;
-      log(errMsg);
-    })
-    .finally(() => {
-      watching = false;
-    });
-}, 90_000).unref();
-
-/** 未就绪时给访客看的页面：不依赖任何外部资源 */
+/**
+ * 未就绪时给访客看的页面：不依赖任何外部资源。
+ *
+ * 早先这里用 `<meta http-equiv="refresh" content="3">` 整页刷新，问题有三：
+ *   1. 每次刷新整页重绘，白屏闪一下，等待感被放大；
+ *   2. 进度条动画从头开始，看着像卡死；
+ *   3. 「已等待 N 秒」跟着页面重载归零，越看越慌。
+ * 改成页面内轮询 `/__boot`：不刷新、不清零、进度按阶段单调推进，
+ * 就绪后自动跳回原地址，全程只有一个页面。
+ */
 function holdingPage() {
   const secs = Math.floor((Date.now() - startedAt) / 1000);
-  const isErr = phase === "error";
-  const title = isErr ? "服务启动失败" : "正在启动";
-  const body = isErr
-    ? `<p class="hint">启动过程出错，稍后会自动重试。已等待 ${secs} 秒。</p>
-       <p class="err">${errMsg.replace(/[<>&]/g, (c) => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;" }[c]))}</p>`
-    : `<p class="hint">首次启动需要在服务器上编译前端，约 30 秒。<br>本页每 3 秒自动刷新，编译完成即进入。</p>
-       <div class="bar"><span></span></div>
-       <p class="sec">已等待 ${secs} 秒</p>`;
+  const esc = (s) =>
+    String(s).replace(/[<>&]/g, (c) => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;" }[c]));
 
   return `<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="refresh" content="3">
-<title>${title} · 左文右题</title>
+<title>正在启动 · 左文右题</title>
 <style>
   :root { color-scheme: light; }
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -594,28 +782,130 @@ function holdingPage() {
   .mark { font-size: 13px; letter-spacing: .3em; color: #a6392b; margin-bottom: 14px; }
   h1 { font-size: 26px; letter-spacing: .12em; font-weight: 700; margin-bottom: 8px; }
   .sub { font-size: 13px; color: #8a8479; margin-bottom: 26px; }
-  .hint { font-size: 14px; line-height: 1.85; color: #4a4640; }
-  .err { margin-top: 14px; font-size: 12px; color: #a6392b; word-break: break-all; }
+  .hint { font-size: 14px; line-height: 1.85; color: #4a4640; min-height: 44px; }
+  .steps { list-style: none; text-align: left; max-width: 240px; margin: 20px auto 0; }
+  .steps li {
+    position: relative; padding-left: 22px; font-size: 13.5px; line-height: 2.15;
+    color: #b3aca1; transition: color .3s;
+  }
+  .steps li::before {
+    content: ""; position: absolute; left: 4px; top: 13px;
+    width: 7px; height: 7px; border-radius: 50%; background: #e0dad0; transition: background .3s;
+  }
+  .steps li.on { color: #17181a; font-weight: 600; }
+  .steps li.on::before { background: #a6392b; box-shadow: 0 0 0 3px rgba(166, 57, 43, .14); }
+  .steps li.done { color: #8a8479; }
+  .steps li.done::before { background: #a6392b; opacity: .45; }
+  .steps li.done::after { content: "✓"; position: absolute; left: 1px; top: 5px; font-size: 11px; color: #fff; }
   .bar { height: 3px; background: #eee9df; border-radius: 2px; overflow: hidden; margin: 22px 0 12px; }
-  .bar span { display: block; height: 100%; width: 40%; background: #a6392b; border-radius: 2px;
-    animation: slide 1.6s ease-in-out infinite; }
-  @keyframes slide { 0% { transform: translateX(-100%); } 100% { transform: translateX(350%); } }
+  .bar span { display: block; height: 100%; width: 6%; background: #a6392b; border-radius: 2px;
+    transition: width .6s linear; }
   .sec { font-size: 12px; color: #8a8479; }
+  .sec b { font-weight: 600; color: #4a4640; font-variant-numeric: tabular-nums; }
+  .err { margin-top: 12px; font-size: 12px; color: #a6392b; word-break: break-all; }
 </style>
 </head>
 <body>
   <div class="card">
     <div class="mark">左文右题</div>
-    <h1>${title}</h1>
+    <h1 id="title">正在启动</h1>
     <p class="sub">CET 四六级阅读练习工具</p>
-    ${body}
+    <p class="hint" id="hint">正在初始化服务…</p>
+    <ol class="steps" id="steps">
+      <li data-k="installing">准备运行环境</li>
+      <li data-k="building">编译前端</li>
+      <li data-k="starting">启动服务</li>
+    </ol>
+    <div class="bar"><span id="bar"></span></div>
+    <p class="sec">已等待 <b id="secs">${secs}</b> 秒</p>
+    <p class="err" id="err" hidden>${esc(errMsg)}</p>
   </div>
+<script>
+(function () {
+  var q = location.search || "";
+  var title = document.getElementById("title");
+  var hint = document.getElementById("hint");
+  var bar = document.getElementById("bar");
+  var secs = document.getElementById("secs");
+  var errBox = document.getElementById("err");
+  var items = [].slice.call(document.querySelectorAll("#steps li"));
+  var ORDER = ["installing", "building", "starting"];
+  var TITLE = {
+    boot: "正在启动",
+    installing: "正在准备运行环境",
+    building: "正在编译前端",
+    starting: "正在启动服务",
+    error: "正在重试"
+  };
+  var HINT = {
+    boot: "正在初始化服务…",
+    installing: "首次部署需要在服务器上安装依赖，通常 3～5 分钟；装好之后的重启只要几秒。",
+    building: "正在编译前端，约 30 秒。",
+    starting: "正在启动服务，马上就好。"
+  };
+  var last = "boot";
+
+  function progress(phase, t) {
+    if (phase === "installing") return Math.min(58, 8 + 50 * (1 - Math.exp(-t / 240)));
+    if (phase === "building") return Math.min(93, 62 + 31 * (1 - Math.exp(-t / 50)));
+    if (phase === "starting") return Math.min(99, 94 + 5 * (1 - Math.exp(-t / 12)));
+    return 8;
+  }
+
+  function paint(j) {
+    var shown = j.phase === "error" ? last : j.phase;
+    var idx = ORDER.indexOf(shown);
+    title.textContent = TITLE[j.phase] || TITLE.boot;
+    hint.textContent = HINT[shown] || HINT.boot;
+    for (var i = 0; i < items.length; i++) {
+      items[i].className = i < idx ? "done" : i === idx ? "on" : "";
+    }
+    bar.style.width = progress(shown, j.elapsedSec || 0).toFixed(1) + "%";
+    secs.textContent = Math.round(j.elapsedSec || 0);
+    if (j.error) {
+      errBox.hidden = false;
+      errBox.textContent = j.error;
+    }
+    if (idx >= 0) last = shown;
+  }
+
+  function enter() {
+    bar.style.width = "100%";
+    hint.textContent = "已就绪，正在进入…";
+    setTimeout(function () { location.replace(location.pathname + q); }, 260);
+  }
+
+  function tick() {
+    fetch("/__boot" + q, { cache: "no-store" })
+      .then(function (r) { return r.json(); })
+      .then(function (j) {
+        if (j.ready) { enter(); return; }
+        paint(j);
+        setTimeout(tick, 1200);
+      })
+      .catch(function () { setTimeout(tick, 2500); });
+  }
+
+  tick();
+})();
+</script>
 </body>
 </html>`;
 }
 
 function proxy(req, res) {
-  const headers = { ...req.headers, host: `${HOST}:${APP_PORT}` };
+  // 转发头：连接目标由 http.request 的 host/port 决定（内网 127.0.0.1:APP_PORT），
+  // 但 **应用看到的 Host 必须是访客的真实域名**。
+  // 为什么不能改写 host：Auth.js（登录会话）用 x-forwarded-host + x-forwarded-proto
+  // 组装回跳地址与 cookie 域。曾经在这里把 host 改成 127.0.0.1:4000，
+  // 结果登录 302 的 location 变成 https://localhost:4000/...，
+  // 浏览器跟去内网地址必然失败，表象就是「注册成功但永远登不上」。
+  // 修正：host 原样透传，并补齐标准代理头；上游地址只写在连接参数里。
+  const headers = {
+    ...req.headers,
+    "x-forwarded-host": req.headers["x-forwarded-host"] || req.headers.host || "",
+    "x-forwarded-proto": req.headers["x-forwarded-proto"] || "https",
+  };
   const up = http.request(
     { host: HOST, port: APP_PORT, method: req.method, path: req.url, headers },
     (upRes) => {
@@ -642,6 +932,32 @@ const server = http.createServer((req, res) => {
         ready: phase === "ready",
         elapsedSec: Number(((Date.now() - startedAt) / 1000).toFixed(1)),
         error: errMsg || null,
+        // 产物来源：distReady=false 说明产物没随包上来，本进程正在现场编译；
+        // stamp 是当前源码的指纹，与 dist 里保存的对比即可判断是不是旧包。
+        dist: DIST,
+        distReady: fs.existsSync(BUILD_ID_FILE),
+        // 压缩包在不在，决定容器被回收后能不能秒起；不在就只能现场编译
+        bundle: fs.existsSync(BUNDLE),
+        // 视频探测与字幕烧录都靠它；文件在 ≠ 能跑，这里报的是自检结果
+        ffmpeg: ffmpegInfo.ok === true,
+        ffmpegMsg: ffmpegInfo.msg,
+        // 自包含的深度自检：造一段视频再读回，逐步留下退出码与原始 stderr。
+        // 「能跑 -version」和「能读文件」是两件事，只看前者会误判。
+        ffmpegDeep: ffmpegDeep,
+        // ffmpeg-static 发的是 glibc 版；容器若是 Alpine(musl) 就跑不起来，
+        // 这里直接报运行时 libc，省得靠猜
+        libc: (() => {
+          try {
+            const report = process.report && process.report.getReport();
+            return report && report.header && report.header.glibcVersionRuntime
+              ? `glibc ${report.header.glibcVersionRuntime}`
+              : "musl/unknown";
+          } catch {
+            return "unknown";
+          }
+        })(),
+        stamp: readStamp(),
+        detail: errLog ? errLog.slice(-1500) : null,
       })
     );
     return;
@@ -663,16 +979,6 @@ const server = http.createServer((req, res) => {
 
 server.keepAliveTimeout = 65000;
 server.headersTimeout = 66000;
-
-server.on("error", (e) => {
-  // 端口被上一次的实例占着：发布平台复用了沙箱但没有杀掉旧进程。
-  // 这时候新源码已经躺在磁盘上，却只能用旧进程跑——记一笔，让日志能对上现象。
-  if (e && e.code === "EADDRINUSE") {
-    log(`端口 ${PORT} 已被占用：沿用上一个实例，本次源码要等它退出后才会生效`);
-    process.exit(0);
-  }
-  throw e;
-});
 
 server.listen(PORT, "0.0.0.0", () => {
   startedAt = Date.now();

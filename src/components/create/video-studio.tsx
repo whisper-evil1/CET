@@ -5,7 +5,6 @@ import Link from "next/link";
 import { apiFetch } from "@/lib/api-client";
 import { withSharecode } from "@/lib/share-code";
 import { generateVideo, MODE_LABEL, warmUpCloud, type GenMode } from "@/lib/creation-client";
-import { clearDraft, hasPending, loadDraft, markPending, saveDraft } from "@/lib/create-draft";
 import {
   DEFAULT_VIDEO_OPTIONS,
   MAX_SOURCE_CHARS,
@@ -33,14 +32,47 @@ const SAMPLE = `很多人以为火锅就是辣，其实成都人吃火锅讲究�
 涮的顺序也有讲究：毛肚七上八下，鸭肠十秒就好，牛肉最后放，汤才不浑。
 来成都，别只拍照，坐下来吃一顿，你才知道什么叫热气腾腾的生活。`;
 
+/**
+ * 用浏览器自己读时长与分辨率。
+ *
+ * 服务端抽帧依赖 ffmpeg，容器里一旦跑不起来，上传就会整个失败——
+ * 但「文件选好了、能不能预览」这件事浏览器本来就能做，不该被服务端拖累。
+ * 所以本地先读一份元数据，服务端结果只用来补缩略图。
+ */
+function readLocalMeta(file: File): Promise<{ durationSec: number; width: number; height: number } | null> {
+  return new Promise((resolve) => {
+    if (typeof document === "undefined") return resolve(null);
+    const url = URL.createObjectURL(file);
+    const video = document.createElement("video");
+    let settled = false;
+    const finish = (value: { durationSec: number; width: number; height: number } | null) => {
+      if (settled) return;
+      settled = true;
+      URL.revokeObjectURL(url);
+      video.removeAttribute("src");
+      resolve(value);
+    };
+    video.preload = "metadata";
+    video.onloadedmetadata = () =>
+      finish({
+        durationSec: Math.round((Number.isFinite(video.duration) ? video.duration : 0) * 10) / 10,
+        width: video.videoWidth,
+        height: video.videoHeight,
+      });
+    video.onerror = () => finish(null);
+    // 有些编码浏览器也解不动，别让上传卡在这里
+    window.setTimeout(() => finish(null), 8000);
+    video.src = url;
+  });
+}
+
 type SavedWork = {
   id: string;
   kind: string;
   title: string;
   sourceText: string;
   output: VideoOutput | null;
-  meta: VideoOptions | null;
-  createdAt: string;
+  meta: VideoOptions | null;  createdAt: string;
 };
 
 export function VideoStudio({ workId }: { workId?: string }) {
@@ -52,7 +84,6 @@ export function VideoStudio({ workId }: { workId?: string }) {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
   const [savedTip, setSavedTip] = useState("");
-  const [interrupted, setInterrupted] = useState(false);
   const [copied, setCopied] = useState(false);
   // 视频上传与需求描述（最小闭环：视频抽帧预览，口播稿仍手动填）
   const [needText, setNeedText] = useState("");
@@ -66,6 +97,10 @@ export function VideoStudio({ workId }: { workId?: string }) {
     durationSec: number; width: number; height: number; format: string; frames: string[];
   } | null>(null);
   const [probing, setProbing] = useState(false);
+  /** 上传专属错误：就近显示在上传按钮下方，别让用户去表单底部找 */
+  const [uploadError, setUploadError] = useState("");
+  /** 上传成功但服务端增强项失败（抽帧），只提示不阻断 */
+  const [uploadWarn, setUploadWarn] = useState("");
   const [exporting, setExporting] = useState(false);
   const [muxing, setMuxing] = useState(false);
   const [previewOpen, setPreviewOpen] = useState(false);
@@ -96,26 +131,8 @@ export function VideoStudio({ workId }: { workId?: string }) {
 
   useEffect(() => {
     warmUpCloud();
-    if (workId) {
-      void loadSaved(workId);
-      return;
-    }
-    // 新建工作台：从草稿恢复上次未保存的输入，并检查是否有中断的生成任务
-    const draft = loadDraft<VideoOptions>("video");
-    if (draft) {
-      setSource(draft.source);
-      if (draft.options) setOptions((prev) => ({ ...prev, ...draft.options }));
-    }
-    setInterrupted(hasPending("video"));
+    if (workId) void loadSaved(workId);
   }, [workId, loadSaved]);
-
-  // 输入 / 参数变化后防抖写入草稿：切走页面、关标签再回来，内容还在
-  useEffect(() => {
-    if (workId) return;
-    if (!source.trim()) return;
-    const timer = window.setTimeout(() => saveDraft("video", source, options), 400);
-    return () => window.clearTimeout(timer);
-  }, [source, options, workId]);
 
   useEffect(() => {
     const urls = objectUrls.current;
@@ -131,14 +148,27 @@ export function VideoStudio({ workId }: { workId?: string }) {
     return () => window.removeEventListener("keydown", onKey);
   }, [videoPreviewKind]);
 
-  /** 上传视频 → 服务端抽帧预览；改编仍以下方口播稿为准 */
+  /** 上传视频：浏览器先本地预览 + 读元数据，服务端抽帧只作增强 */
   const probe = async (file: File | undefined) => {
     if (!file) return;
     setProbing(true);
     setError("");
+    setUploadError("");
+    setUploadWarn("");
     setVideoMeta(null);
     setVideoFile(file);
     setVideoName(file.name);
+    setVideoUrl(trackUrl(URL.createObjectURL(file)));
+
+    // 1) 本地读取：不依赖服务端，文件选对了就一定能看到画面
+    const local = await readLocalMeta(file);
+    const ext = (file.name.split(".").pop() || "").toLowerCase();
+    if (local) {
+      setVideoMeta({ ...local, format: ext, frames: [] });
+    }
+
+    // 2) 服务端抽帧：拿得到缩略图更好，拿不到也不该让上传失败
+    let serverOk = false;
     try {
       const form = new FormData();
       form.append("video", file);
@@ -146,14 +176,20 @@ export function VideoStudio({ workId }: { workId?: string }) {
         durationSec: number; width: number; height: number; format: string; frames: string[];
       }>("/api/create/video-probe", { method: "POST", body: form });
       setVideoMeta(meta);
-      setVideoUrl(trackUrl(URL.createObjectURL(file)));
+      serverOk = true;
     } catch (err) {
-      setError(err instanceof Error ? err.message : "视频读取失败");
-      setVideoFile(null);
-      setVideoName("");
+      setUploadWarn(err instanceof Error ? err.message : "服务端读取失败");
     } finally {
       setProbing(false);
       if (videoFileRef.current) videoFileRef.current.value = "";
+    }
+
+    if (!local && !serverOk) {
+      setUploadError("这个文件浏览器也读不出画面，可能不是视频或编码不受支持");
+      setVideoMeta(null);
+      setVideoFile(null);
+      setVideoName("");
+      setVideoUrl("");
     }
   };
 
@@ -278,52 +314,20 @@ export function VideoStudio({ workId }: { workId?: string }) {
 
   const chars = source.replace(/\s/g, "").length;
 
-  /** 保存到作品库；生成成功后自动调用，也可手动「保存」再存一次 */
-  const persist = async (out: VideoOutput): Promise<void> => {
-    try {
-      const created = await apiFetch<{ id: string }>("/api/create", {
-        method: "POST",
-        body: JSON.stringify({
-          kind: "video",
-          title: out.title.slice(0, 150) || "未命名短视频",
-          sourceText: source,
-          output: JSON.stringify(out),
-          meta: JSON.stringify(options),
-        }),
-      });
-      setSavedTip(`已保存到作品库（${created.id.slice(0, 6)}…）`);
-      clearDraft("video");
-    } catch (err) {
-      setError(err instanceof Error ? err.message : "自动保存失败，可点「保存」重试");
-    }
-  };
-
   const run = async () => {
     if (source.trim().length < 20) {
       setError("至少写一段口播稿（20 字以上）再生成");
       return;
     }
-    if (busy) return;
     setBusy(true);
     setError("");
     setNote("");
     setSavedTip("");
-    setInterrupted(false);
-    markPending("video", true);
     try {
       const result = await generateVideo(source, options);
       setOutput(result.output);
       setMode(result.mode);
       setNote(result.note);
-      // 生成成功立即入库：解决「做了一版但网页端没有记录」
-      // 服务端通道会自己落库（哪怕前端已经切走），拿到 savedId 就不再重复存
-      if (result.savedId) {
-        setSavedTip(`已保存到作品库（${result.savedId.slice(0, 6)}…）`);
-        clearDraft("video");
-      } else if (result.mode !== "offline") {
-        await persist(result.output);
-      }
-      markPending("video", false);
       // 窄屏是上下堆叠，结果在输入卡下面一屏之外，不滚一下用户会以为没反应
       if (typeof window !== "undefined" && window.innerWidth < 1024) {
         window.setTimeout(() => {
@@ -331,7 +335,6 @@ export function VideoStudio({ workId }: { workId?: string }) {
         }, 120);
       }
     } catch (err) {
-      markPending("video", false);
       setError(err instanceof Error ? err.message : "生成失败，请重试");
     } finally {
       setBusy(false);
@@ -340,7 +343,21 @@ export function VideoStudio({ workId }: { workId?: string }) {
 
   const save = async () => {
     if (!output) return;
-    await persist(output);
+    try {
+      const created = await apiFetch<{ id: string }>("/api/create", {
+        method: "POST",
+        body: JSON.stringify({
+          kind: "video",
+          title: output.title.slice(0, 150) || "未命名短视频",
+          sourceText: source,
+          output: JSON.stringify(output),
+          meta: JSON.stringify(options),
+        }),
+      });
+      setSavedTip(`已保存到作品库（${created.id.slice(0, 6)}…）`);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "保存失败");
+    }
   };
 
   const download = () => {
@@ -370,18 +387,6 @@ export function VideoStudio({ workId }: { workId?: string }) {
   return (
     <div className="mt-5 grid gap-4 lg:grid-cols-[380px_minmax(0,1fr)]">
       <section className="card-soft h-fit p-4 sm:p-5">
-        {interrupted && (
-          <div className="mb-3 rounded-[10px] border border-accent/30 bg-accent-soft/50 px-3 py-2 text-[11.5px] leading-[1.7] text-ink-soft">
-            上次生成似乎被中断了，输入已从草稿恢复，可以重新生成。
-            <button
-              type="button"
-              onClick={() => void run()}
-              className="ml-1 text-accent underline-offset-2 hover:underline"
-            >
-              重新生成 →
-            </button>
-          </div>
-        )}
         <div className="flex items-center justify-between">
           <p className="text-[12.5px] font-medium text-ink">中文口播稿</p>
           <span className="font-mono text-[11px] text-ink-mute">
@@ -406,17 +411,42 @@ export function VideoStudio({ workId }: { workId?: string }) {
           <span aria-hidden>▶</span>
           {probing ? "正在读取视频…" : "上传视频（抽帧预览 · MP4/MOV/WebM ≤100MB）"}
         </button>
+        {/* 上传的结果必须就近说清楚：成功给正向确认，失败给原因，
+            否则用户只看到一句飘在底部的报错，以为"没反应" */}
+        {videoMeta && !uploadError && (
+          <p className="mt-1.5 flex flex-wrap items-center gap-1 text-[11px] text-[#2f6b4f]">
+            <span aria-hidden>✓</span> 已上传：{videoName}
+            {videoMeta.durationSec
+              ? `（${videoMeta.durationSec}s${videoMeta.width ? ` · ${videoMeta.width}×${videoMeta.height}` : ""}）`
+              : ""}
+          </p>
+        )}
+        {uploadWarn && !uploadError && (
+          <p className="mt-1 text-[10.5px] leading-[1.6] text-ink-mute">
+            缩略图未生成：{uploadWarn}。不影响生成与保存。
+          </p>
+        )}
+        {uploadError && (
+          <div className="mt-1.5 rounded-[9px] border border-accent/30 bg-accent/[0.04] px-2.5 py-2">
+            <p className="text-[11px] leading-[1.7] text-accent">上传失败：{uploadError}</p>
+            <p className="mt-1 text-[10.5px] leading-[1.6] text-ink-mute">
+              请换 MP4 / MOV / WebM 再试，单文件不超过 100MB。
+            </p>
+          </div>
+        )}
         {videoMeta && (
           <div className="mt-2 rounded-[10px] border border-line bg-paper/50 p-2.5">
             <p className="truncate text-[11px] text-ink-soft" title={videoName}>
               {videoName} · {videoMeta.durationSec}s · {videoMeta.width}×{videoMeta.height}
             </p>
-            <div className="mt-2 grid grid-cols-4 gap-1.5">
-              {videoMeta.frames.map((frame, i) => (
-                // eslint-disable-next-line @next/next/no-img-element
-                <img key={i} src={frame} alt={`视频关键帧 ${i + 1}`} className="w-full rounded border border-line object-cover" />
-              ))}
-            </div>
+            {videoMeta.frames.length > 0 && (
+              <div className="mt-2 grid grid-cols-4 gap-1.5">
+                {videoMeta.frames.map((frame, i) => (
+                  // eslint-disable-next-line @next/next/no-img-element
+                  <img key={i} src={frame} alt={`视频关键帧 ${i + 1}`} className="w-full rounded border border-line object-cover" />
+                ))}
+              </div>
+            )}
             {videoUrl && (
               <>
                 <video
@@ -550,7 +580,7 @@ export function VideoStudio({ workId }: { workId?: string }) {
           disabled={busy}
           className="mt-4 min-h-[46px] w-full rounded-[10px] bg-ink py-3 text-[13.5px] font-medium text-paper transition-opacity hover:opacity-90 disabled:opacity-50"
         >
-          {busy ? "生成中…（可切走，完成后自动保存）" : `生成${options.seconds}s 英文发布包`}
+          {busy ? "生成中…" : `生成${options.seconds}s 英文发布包`}
         </button>
 
         {error && <p className="mt-2 text-[12px] text-wrong">{error}</p>}

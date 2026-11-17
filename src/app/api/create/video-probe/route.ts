@@ -36,9 +36,14 @@ export const POST = withApi(async (request: Request) => {
     const meta = await probeVideo(file.name, buffer, 4);
     return ok(meta);
   } catch (error) {
-    console.error("[video-probe] failed:", error instanceof Error ? error.message : error);
-    return Errors.badRequest(
-      `视频读取失败：${error instanceof Error ? error.message : "请换个文件试试"}`,
-    );
+    const detail = error instanceof Error ? error.message : "";
+    console.error("[video-probe] failed:", detail || error);
+    // 缺 ffmpeg / 跑不起来，都不是用户的文件有问题，别让用户反复换文件试
+    if (/ffmpeg/i.test(detail)) {
+      return Errors.server(
+        "视频处理组件还没就绪（服务端 ffmpeg 无法执行），正在自动修复，请稍后重试",
+      );
+    }
+    return Errors.badRequest(`视频读取失败：${detail || "请换个文件试试"}`);
   }
 });

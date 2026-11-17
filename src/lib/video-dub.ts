@@ -3,7 +3,7 @@ import { promisify } from "node:util";
 import { mkdtemp, writeFile, readFile, rm } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join, extname } from "node:path";
-import { ffmpegBin } from "./video-probe";
+import { audioEncodeArgs, ffmpegBin, pickEncoders, videoEncodeArgs } from "./video-probe";
 
 /**
  * 英文配音成片：把英文字幕逐句合成语音，替换中文原声，并按真实语音时长烧录字幕。
@@ -51,6 +51,7 @@ export async function dubEnglishVideo(
   if (!ALLOWED_EXT.has(ext)) throw new Error(`不支持的视频格式：${ext || "未知"}`);
 
   const bin = ffmpegBin();
+  const pick = await pickEncoders();
   const dir = await mkdtemp(join(tmpdir(), "cet-dub-"));
   const inputPath = join(dir, `input${ext}`);
   const srtPath = join(dir, "en.srt");
@@ -101,8 +102,8 @@ export async function dubEnglishVideo(
     args.push(
       "-filter_complex", filter,
       "-map", "[v]", "-map", "[enaudio]",
-      "-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-pix_fmt", "yuv420p",
-      "-c:a", "aac", "-b:a", "128k",
+      ...videoEncodeArgs(pick, "22"),
+      ...audioEncodeArgs(pick),
       "-t", String(durationSec),
       "-movflags", "+faststart",
       "-y", outPath,

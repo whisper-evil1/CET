@@ -45,7 +45,13 @@ export function withApi<Args extends unknown[]>(
         return fail(4000, first ? `参数不合法：${first.path.join(".")} ${first.message}` : "参数不合法", 400);
       }
       console.error("[api]", error);
-      return Errors.server();
+      // 线上没有日志出口，只回「服务器开小差了」会让排查完全盲掉：
+      // 用户在页面上看到的、我们在外面能拿到的，都只有这一句。
+      // 这里把原因截断后带出去（120 字，去换行），够定位又不至于刷屏。
+      const detail =
+        error instanceof Error ? error.message : String(error ?? "unknown");
+      const brief = detail.replace(/\s+/g, " ").slice(0, 120);
+      return Errors.server(`服务器开小差了，请稍后再试（${brief}）`);
     }
   };
 }
