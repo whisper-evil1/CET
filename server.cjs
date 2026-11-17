@@ -354,14 +354,17 @@ async function restoreBundle(env) {
   phase = "installing";
   log(`产物缺失，从 ${BUNDLE} 解压`);
   try {
-    await run("tar", ["-xzf", BUNDLE, "-C", "."], "解压产物", {
+    // --no-same-owner：包是在 Windows 上打的，里头记着 uid/gid 197609 之类，
+    // Linux 解压时 chown 必然失败。虽然文件照样解开，但 tar 会以退出码 2 收场，
+    // 把「成功」误判成「失败」。加上它就不再去改属主。
+    await run("tar", ["-xzf", BUNDLE, "--no-same-owner", "-C", "."], "解压产物", {
       env,
       timeoutMs: 180000,
       capture: true,
     });
   } catch (e) {
-    log("解压失败，改为现场构建:", e.message);
-    return false;
+    // 退出码非零不等于没解出来（权限类警告很常见），以产物是否落地为准
+    log("解压返回非零，按产物落地情况判断:", e.message);
   }
   const ok = fs.existsSync(BUILD_ID_FILE);
   log(ok ? "产物已恢复" : "解压后仍无产物，改为现场构建");
